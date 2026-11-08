@@ -1,0 +1,267 @@
+{
+    "schema_version": 1,
+    "slug": "bukorovac-kanjon-voljevice-besnjaja-selo-bukovorac",
+    "name": "Bukorovac - kanjon Voljevice - Bešnjaja (selo) - Bukovorac",
+    "code": "2-15-2",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 8939,
+        "category_id": 28,
+        "region_ids": [
+            2
+        ],
+        "mountain_ids": [
+            124
+        ]
+    },
+    "region": "Šumadija",
+    "mountain": "Bešnjaja",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 19.0,
+        "calculated_km": 19.6
+    },
+    "duration": {
+        "official_minutes": 400,
+        "official_text": "6 h 40 min",
+        "official_raw": "6:40"
+    },
+    "elevation": {
+        "official_gain_m": 970.0,
+        "official_loss_m": 970.0,
+        "calculated_gain_m": 835.5,
+        "calculated_loss_m": 833.7,
+        "min_m": 305.4,
+        "max_m": 598.1
+    },
+    "start": "Bukorovac, 360m",
+    "end": "Bukorovac, 360m",
+    "description": "• Na početku ture se preko pitomih brda sa puno lepih pogleda na Kragujevac i okolinu spuštamo u centar Bukorovca. Ovo je i najniža tačka na našoj turi te ćemo, pre nego što stignemo do odmorišta \"Jasenjak\", savladati dva uspona (na Drenak i Jasenjak). Potom nas očekuje najatraktivniji deo ture: spust i prolazak kroz kanjon Voljevice.\n\n • Treba se lepo oznojiti da bi smo se iz kanjona popeli do nekadašnjeg dečijeg odmarališta na Bešnjaji - najviše tačke na turi. Odatle ćemo se preko Đurine česme i Vrletnice (ponovo uz dosta lepih vidika sa visine) spustiti nazad u Bukorovac.",
+    "landmarks": "• Kanjon Voljevice\n\n • Vrletnica\n\n • Vidikovci: 3\n\n • Na trasi ima tri izvora pitke vode\n\n • Na trasi ima dva odmarališta",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu su trasirali Andrej Ivošev i Jovan Eraković, oktobra 2018.god.\n\n • Poslednji put staza je markirana marta 2019.god.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Gora PEK",
+        "url": "https://pss.rs/adresar_klubova/gora-pek/",
+        "contact": "Nikole Pašića 2., 34000 Kragujevac\n060 32 41 049\nhttp://www.pekgora.org/",
+        "clubs": [
+            {
+                "name": "Gora PEK",
+                "url": "https://pss.rs/adresar_klubova/gora-pek/",
+                "contact": "Nikole Pašića 2., 34000 Kragujevac\n060 32 41 049\nhttp://www.pekgora.org/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2019/05/2-15-2-Bukorovac-kanjon-Voljevice-Besnjaja.gpx",
+        "fetched_at": "2026-11-08T12:00:20Z",
+        "checked_at": "2026-11-08T12:00:20Z",
+        "bytes": 602526,
+        "sha256": "41c148bbce404a2d3b1fa6df4989f061400e5dc65486d40512fa414f828d7bf8",
+        "etag": null,
+        "last_modified": "Fri, 10 May 2019 14:42:00 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 3666,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 22,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2019/05/2-15-2-Bukorovac-kanjon-Voljevice-Besnjaja.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/bukorovac-kanjon-voljevice-besnjaja-selo-bukovorac.geojson",
+        "bbox": [
+            20.999032985419035,
+            43.98138301447034,
+            21.068553999066353,
+            44.00947596877813
+        ],
+        "center": [
+            21.033793,
+            43.995429
+        ],
+        "start_point": [
+            21.0016199760139,
+            43.98998200893402
+        ],
+        "end_point": [
+            21.00168703123927,
+            43.98996499367058
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    21.00162,
+                    43.98998
+                ],
+                [
+                    20.99904,
+                    43.99524
+                ],
+                [
+                    21.00671,
+                    44.00202
+                ],
+                [
+                    21.00642,
+                    44.00808
+                ],
+                [
+                    21.011,
+                    44.00947
+                ],
+                [
+                    21.01336,
+                    44.00762
+                ],
+                [
+                    21.01548,
+                    44.00857
+                ],
+                [
+                    21.01661,
+                    44.00368
+                ],
+                [
+                    21.03286,
+                    44.00714
+                ],
+                [
+                    21.03918,
+                    44.00347
+                ],
+                [
+                    21.04871,
+                    44.00497
+                ],
+                [
+                    21.04919,
+                    44.00323
+                ],
+                [
+                    21.05452,
+                    44.00383
+                ],
+                [
+                    21.05677,
+                    44.00241
+                ],
+                [
+                    21.05521,
+                    44.00016
+                ],
+                [
+                    21.05851,
+                    44.00175
+                ],
+                [
+                    21.06579,
+                    43.99974
+                ],
+                [
+                    21.06855,
+                    43.99403
+                ],
+                [
+                    21.06196,
+                    43.99382
+                ],
+                [
+                    21.05212,
+                    43.99018
+                ],
+                [
+                    21.0496,
+                    43.99275
+                ],
+                [
+                    21.03709,
+                    43.99181
+                ],
+                [
+                    21.03351,
+                    43.98515
+                ],
+                [
+                    21.02992,
+                    43.98349
+                ],
+                [
+                    21.03229,
+                    43.98412
+                ],
+                [
+                    21.0319,
+                    43.9829
+                ],
+                [
+                    21.02678,
+                    43.98139
+                ],
+                [
+                    21.02023,
+                    43.98823
+                ],
+                [
+                    21.01298,
+                    43.99105
+                ],
+                [
+                    21.0075,
+                    43.99019
+                ],
+                [
+                    21.00557,
+                    43.9922
+                ],
+                [
+                    21.00169,
+                    43.98996
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/bukorovac-kanjon-voljevice-besnjaja-selo-bukovorac/",
+        "canonical_url": "https://pss.rs/terenipp/bukorovac-kanjon-voljevice-besnjaja-selo-bukovorac/",
+        "pss_id": 8939,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:00:20Z",
+        "last_synced_at": "2026-11-08T12:00:20Z"
+    },
+    "search": "bukorovac - kanjon voljevice - besnjaja (selo) - bukovorac 2-15-2 sumadija besnjaja bukorovac, 360m bukorovac, 360m gora pek • kanjon voljevice • vrletnica • vidikovci: 3 • na trasi ima tri izvora pitke vode • na trasi ima dva odmaralista zahtevna • na pocetku ture se preko pitomih brda sa puno lepih pogleda na kragujevac i okolinu spustamo u centar bukorovca. ovo je i najniza tacka na nasoj turi te cemo, pre nego sto stignemo do odmorista \"jasenjak\", savladati dva uspona (na drenak i jasenjak). potom nas ocekuje najatraktivniji deo ture: spust i prolazak kroz kanjon voljevice. • treba se lepo oznojiti da bi smo se iz kanjona popeli do nekadasnjeg decijeg odmaralista na besnjaji - najvise tacke na turi. odatle cemo se preko djurine cesme i vrletnice (ponovo uz dosta lepih vidika sa visine) spustiti nazad u bukorovac.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:00:20Z"
+    }
+}

@@ -1,0 +1,191 @@
+{
+    "schema_version": 1,
+    "slug": "veliki-vukan-od-zdrela-do-manastira-reskovice",
+    "name": "Veliki Vukan od Ždrela do manastira Reškovice",
+    "code": "4-86-6",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 11624,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            111
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Vukan",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 9.7,
+        "calculated_km": 9.42
+    },
+    "duration": {
+        "official_minutes": 300,
+        "official_text": "5 h",
+        "official_raw": "5:00"
+    },
+    "elevation": {
+        "official_gain_m": 620.0,
+        "official_loss_m": 450.0,
+        "calculated_gain_m": 713.7,
+        "calculated_loss_m": 531.7,
+        "min_m": 207.8,
+        "max_m": 859.7
+    },
+    "start": "Centar sela Ždrelo, 205 m",
+    "end": "Manastir Reškovica, 375 m",
+    "description": "Staza kreće iz centra sela Ždrela, nakon 200 m se nalazi česma sa pijaćom vodom. Staza nastavlja iznad manastira Ždrelo gde takođe ima izvor sa vodom u dvorištu manastira. Nakon toga se izlazi na put kojim se ide oko 700 m i dalje se nastavlja strmijom stazom kroz šumu do sedla gde se u borovoj šumi skreće levo ka vrhu Veliki Vukan (825 m). Povratak je istom stazom do sedla, nakon toga je spust ka lovačkoj česmi kroz šumu. Voda na lovačkoj česmi nije preporučljiva za piće. Od česme se dalje ide šumskim putem do manastira Reškovice.",
+    "landmarks": "• Manastir Ždrelo i manastir Reškovica\n\n • Vidikovci: 4\n\n • Na trasi 2 izvora pitke vode\n\n • Selo Ždrelo\n\n • Van trase smeštaj u Izviđačkom domu Ždrelo\n\n • Van trase smeštaj u Banji Ždrelo i privatni smeštaj u okolini",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Poslednji put staza je markirana 2017. godine",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Gornjak PD",
+        "url": "https://pss.rs/adresar_klubova/gornjak-pd/",
+        "contact": "Prvomajska bb, 12300 Petrovac na Mlavi\n+38164 2345 518 ; +38163 696 682\nhttp://www.gornjak.org.rs",
+        "clubs": [
+            {
+                "name": "Gornjak PD",
+                "url": "https://pss.rs/adresar_klubova/gornjak-pd/",
+                "contact": "Prvomajska bb, 12300 Petrovac na Mlavi\n+38164 2345 518 ; +38163 696 682\nhttp://www.gornjak.org.rs"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 7,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2020/06/4-48-6-Veliki-Vukan_Zdrelo_Reskovica.gpx",
+        "fetched_at": "2026-11-08T12:00:55Z",
+        "checked_at": "2026-11-08T12:00:55Z",
+        "bytes": 207441,
+        "sha256": "57d2c1d0a8dc7e145d3f8c520d190831bf2ef647c312a8e6fafef800ff1b6aaa",
+        "etag": null,
+        "last_modified": "Tue, 09 Jun 2020 18:06:25 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 1261,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 9,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2020/06/4-48-6-Veliki-Vukan_Zdrelo_Reskovica.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/veliki-vukan-od-zdrela-do-manastira-reskovice.geojson",
+        "bbox": [
+            21.505499007180333,
+            44.29056300781667,
+            21.548050995916128,
+            44.31280103512108
+        ],
+        "center": [
+            21.526775,
+            44.301682
+        ],
+        "start_point": [
+            21.505499007180333,
+            44.29453996941447
+        ],
+        "end_point": [
+            21.53271001763642,
+            44.31280103512108
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.5055,
+                    44.29454
+                ],
+                [
+                    21.51119,
+                    44.29164
+                ],
+                [
+                    21.51869,
+                    44.29435
+                ],
+                [
+                    21.52581,
+                    44.29189
+                ],
+                [
+                    21.53263,
+                    44.29252
+                ],
+                [
+                    21.53565,
+                    44.29056
+                ],
+                [
+                    21.53794,
+                    44.29958
+                ],
+                [
+                    21.53573,
+                    44.29073
+                ],
+                [
+                    21.54543,
+                    44.2939
+                ],
+                [
+                    21.54422,
+                    44.29666
+                ],
+                [
+                    21.54805,
+                    44.29886
+                ],
+                [
+                    21.54636,
+                    44.30435
+                ],
+                [
+                    21.53271,
+                    44.3128
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/veliki-vukan-od-zdrela-do-manastira-reskovice/",
+        "canonical_url": "https://pss.rs/terenipp/veliki-vukan-od-zdrela-do-manastira-reskovice/",
+        "pss_id": 11624,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:00:55Z",
+        "last_synced_at": "2026-11-08T12:00:55Z"
+    },
+    "search": "veliki vukan od zdrela do manastira reskovice 4-86-6 istocna srbija vukan centar sela zdrelo, 205 m manastir reskovica, 375 m gornjak pd • manastir zdrelo i manastir reskovica • vidikovci: 4 • na trasi 2 izvora pitke vode • selo zdrelo • van trase smestaj u izvidjackom domu zdrelo • van trase smestaj u banji zdrelo i privatni smestaj u okolini laka staza krece iz centra sela zdrela, nakon 200 m se nalazi cesma sa pijacom vodom. staza nastavlja iznad manastira zdrelo gde takodje ima izvor sa vodom u dvoristu manastira. nakon toga se izlazi na put kojim se ide oko 700 m i dalje se nastavlja strmijom stazom kroz sumu do sedla gde se u borovoj sumi skrece levo ka vrhu veliki vukan (825 m). povratak je istom stazom do sedla, nakon toga je spust ka lovackoj cesmi kroz sumu. voda na lovackoj cesmi nije preporucljiva za pice. od cesme se dalje ide sumskim putem do manastira reskovice.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:00:55Z"
+    }
+}

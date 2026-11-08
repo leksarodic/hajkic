@@ -1,0 +1,181 @@
+{
+    "schema_version": 1,
+    "slug": "vlasinski-vrtovi-v-cemernik-staza-5",
+    "name": "Vlasinski Vrtovi - V. Čemernik (staza 5)",
+    "code": "7-22-3",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 20034,
+        "category_id": 28,
+        "region_ids": [
+            7
+        ],
+        "mountain_ids": [
+            78
+        ]
+    },
+    "region": "Jugoistočna Srbija",
+    "mountain": "Čemernik",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 6.8,
+        "calculated_km": 6.88
+    },
+    "duration": {
+        "official_minutes": 180,
+        "official_text": "3 h",
+        "official_raw": "3:00"
+    },
+    "elevation": {
+        "official_gain_m": 420.0,
+        "official_loss_m": 20.0,
+        "calculated_gain_m": 433.3,
+        "calculated_loss_m": 60.8,
+        "min_m": 1262.1,
+        "max_m": 1654.6
+    },
+    "start": "Restoran Vlasinski vrtovi 1235 m",
+    "end": "Vrh Čemernik 1638 m",
+    "description": "Početak staze je ispod apartmanskog kompleksa ,,Vlasinski vrtovi\" u blizini brane Vlasinskog jezera i pored asfaltnog puta ,,Surdulica - Crna Trava\". Ona u svom prvom delu prolazi pored pomenutog objekata i niza drugih objekata za odmor u Vlasina Ridu, udaljavajući se od Vlasinskog jezera u smeru zapada uskim asfaltnim putem. Nakon pređenih oko 500 metara se prelazi na užu stazu uz dalji strmi uspon na terenu obraslom različitom vegetacijom. Nakon prolaska pored repetitora, uspon postaje blaži. Nakon pređenih oko 2 km se izlazi na širi šumski put na kome se zadržava smer kretanja. Sledi duža šumska deonica staze, a nakon nje nastupaju prostrane travnate površine. Staza prolazi kroz mesto zvano Preslap i ispod istoimenog vidikovca na kome su vidni rovovi iz prethodnih ratova. U nastavku staze je raskrsnica ispod vrha Kula, gde se levo odvaja planinarska staza ,,Promaja-Čemernik\", a pravo se ide našom stazom . Završni deo uspona vodi kroz terene sa veštački podignutim šumama četinara do samog vrha Čemernik.\n\nSmer kretanja:\n- Vlasinski vrtovi\n- Čemernik - raskrsnica (3,1 km)\n- Preslap (3,8 km)\n- Ispod Kule – raskrsnica (5,6 km)\n- Vrh Čemernik (6,8 km)",
+    "landmarks": "Vrh Čemernik",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Staza je uređena u drugoj polovini 2023. godine sredstvima kompanije ,,Coca - Cola\" HBC Srbija u saradnji sa UNDP u okviru Projekta ,,Vlasina - čista ljubav\".",
+    "map_reference": null,
+    "map_sheet": "1:50000 Vlasotince 4 (633/4)",
+    "club": {
+        "name": "Svarog PSU",
+        "url": "https://pss.rs/adresar_klubova/svarog-psu/",
+        "contact": "Vojvode Sinđelića 1/9\n+38162 81 49 023",
+        "clubs": [
+            {
+                "name": "Svarog PSU",
+                "url": "https://pss.rs/adresar_klubova/svarog-psu/",
+                "contact": "Vojvode Sinđelića 1/9\n+38162 81 49 023"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 11,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2023/08/Staza-5-GPS.gpx",
+        "fetched_at": "2026-11-08T12:03:38Z",
+        "checked_at": "2026-11-08T12:03:38Z",
+        "bytes": 31778,
+        "sha256": "a9706b55f915e94bbe586614ca82669494519c4d92f0e2b31406b1e77f3e86db",
+        "etag": null,
+        "last_modified": "Wed, 16 Aug 2023 22:38:24 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 283,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 3,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2023/08/Staza-5-GPS.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/vlasinski-vrtovi-v-cemernik-staza-5.geojson",
+        "bbox": [
+            22.276355317,
+            42.723487588,
+            22.329218,
+            42.743583
+        ],
+        "center": [
+            22.302787,
+            42.733535
+        ],
+        "start_point": [
+            22.329218,
+            42.742201
+        ],
+        "end_point": [
+            22.277653925,
+            42.735236501
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    22.32922,
+                    42.7422
+                ],
+                [
+                    22.32224,
+                    42.74358
+                ],
+                [
+                    22.31624,
+                    42.73984
+                ],
+                [
+                    22.30991,
+                    42.72619
+                ],
+                [
+                    22.3045,
+                    42.72415
+                ],
+                [
+                    22.28175,
+                    42.72497
+                ],
+                [
+                    22.27742,
+                    42.7281
+                ],
+                [
+                    22.27765,
+                    42.73524
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/vlasinski-vrtovi-v-cemernik-staza-5/",
+        "canonical_url": "https://pss.rs/terenipp/vlasinski-vrtovi-v-cemernik-staza-5/",
+        "pss_id": 20034,
+        "updated_at": "2023-11-26T20:11:19Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:03:38Z",
+        "last_synced_at": "2026-11-08T12:03:38Z"
+    },
+    "search": "vlasinski vrtovi - v. cemernik (staza 5) 7-22-3 jugoistocna srbija cemernik restoran vlasinski vrtovi 1235 m vrh cemernik 1638 m svarog psu vrh cemernik laka pocetak staze je ispod apartmanskog kompleksa ,,vlasinski vrtovi\" u blizini brane vlasinskog jezera i pored asfaltnog puta ,,surdulica - crna trava\". ona u svom prvom delu prolazi pored pomenutog objekata i niza drugih objekata za odmor u vlasina ridu, udaljavajuci se od vlasinskog jezera u smeru zapada uskim asfaltnim putem. nakon predjenih oko 500 metara se prelazi na uzu stazu uz dalji strmi uspon na terenu obraslom razlicitom vegetacijom. nakon prolaska pored repetitora, uspon postaje blazi. nakon predjenih oko 2 km se izlazi na siri sumski put na kome se zadrzava smer kretanja. sledi duza sumska deonica staze, a nakon nje nastupaju prostrane travnate povrsine. staza prolazi kroz mesto zvano preslap i ispod istoimenog vidikovca na kome su vidni rovovi iz prethodnih ratova. u nastavku staze je raskrsnica ispod vrha kula, gde se levo odvaja planinarska staza ,,promaja-cemernik\", a pravo se ide nasom stazom . zavrsni deo uspona vodi kroz terene sa vestacki podignutim sumama cetinara do samog vrha cemernik. smer kretanja: - vlasinski vrtovi - cemernik - raskrsnica (3,1 km) - preslap (3,8 km) - ispod kule – raskrsnica (5,6 km) - vrh cemernik (6,8 km)",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:03:38Z"
+    }
+}

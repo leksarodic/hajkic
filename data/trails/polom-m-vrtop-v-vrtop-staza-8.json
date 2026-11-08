@@ -1,0 +1,181 @@
+{
+    "schema_version": 1,
+    "slug": "polom-m-vrtop-v-vrtop-staza-8",
+    "name": "Polom - M. Vrtop - V. Vrtop (staza 8)",
+    "code": "7-15-3",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 20036,
+        "category_id": 28,
+        "region_ids": [
+            7
+        ],
+        "mountain_ids": [
+            162
+        ]
+    },
+    "region": "Jugoistočna Srbija",
+    "mountain": "Gramada",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 7.7,
+        "calculated_km": 7.65
+    },
+    "duration": {
+        "official_minutes": 200,
+        "official_text": "3 h 20 min",
+        "official_raw": "3:20"
+    },
+    "elevation": {
+        "official_gain_m": 615.0,
+        "official_loss_m": 90.0,
+        "calculated_gain_m": 97.2,
+        "calculated_loss_m": 628.7,
+        "min_m": 1190.2,
+        "max_m": 1721.9
+    },
+    "start": "Polom",
+    "end": "Vrh Veliki Vrtop 1721 m",
+    "description": "Početak staze je 1200 metara ispod brane Vlasinskog jezera pored asfaltnog puta \"Surdulica - Crna Trava\". Nakon 100 metara spuštanja makadamskim putem prema selu Polom, sledi konstantan i srednje strm uspon do samog vrha Veliki Vrtop. Sa rastom nadmorske visine učešće lišćarskih vrsta šumskog drveća, kao što su breza i jasika se smanjuje, a povećava se učešće četinarskih: smrče, crnog i belog bora. Posle pređenih 2 km, staza prolazi pored većeg broja kuća u selu Polom, a nakon toga nastupaju divlji vlasinski predeli, koji će svakog ljubitelja prirode ostaviti bez daha. Pri prilasku vrhu Mali Vrtop, izlazi se iz retkih šuma na prostrane i strme pašnjačke strane. Vrh Mali Vrtop pruža jedinstven pogled posetiocima na Vlasinsko jezero i širu okolinu. Stazom, takođe strmom se treba spustiti do raskrsnice šumskih puteva na prevoju prema vrhu Veliki Vrtop, a zatim sledi završni uspon kroz pašnjačke terene do ovog vrha. Vrh Veliki Vrtop predstavlja veoma široku, visokoplaninsku i travnatu zaravan.\n\nSmer kretanja:\n- Polom - start\n- Polom - selo (2,0 km)\n\n- Polomska čuka (3,1 km)\n- Vrh Mali Vrtop (4,9 km)\n- Vrh Veliki Vrtop (7,7 km)",
+    "landmarks": "Vrhovi Mali Veliki Vrtop",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Staza je uređena u drugoj polovini 2023. godine sredstvima kompanije ,,Coca - Cola\" HBC Srbija u saradnji sa UNDP u okviru Projekta ,,Vlasina - čista ljubav\".",
+    "map_reference": null,
+    "map_sheet": "1:50000 Vlasotince 2 (633/2)",
+    "club": {
+        "name": "Čemernik PD",
+        "url": "https://pss.rs/adresar_klubova/cemernik-pd/",
+        "contact": "Marka Oreškovića 4, 16210 Vlasotince\n+38116 876 000 ; +38162 896 01 62",
+        "clubs": [
+            {
+                "name": "Čemernik PD",
+                "url": "https://pss.rs/adresar_klubova/cemernik-pd/",
+                "contact": "Marka Oreškovića 4, 16210 Vlasotince\n+38116 876 000 ; +38162 896 01 62"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 10,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2023/08/Staza-8.gpx",
+        "fetched_at": "2026-11-08T12:03:41Z",
+        "checked_at": "2026-11-08T12:03:41Z",
+        "bytes": 96796,
+        "sha256": "86a520fc880f345b487c7f094d7b66c6dd0cbe32d5319c191cdb92560135e4c7",
+        "etag": null,
+        "last_modified": "Sun, 26 Nov 2023 18:43:47 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 885,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 4,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2023/08/Staza-8.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/polom-m-vrtop-v-vrtop-staza-8.geojson",
+        "bbox": [
+            22.321967,
+            42.756568,
+            22.373345,
+            42.792896
+        ],
+        "center": [
+            22.347656,
+            42.774732
+        ],
+        "start_point": [
+            22.373345,
+            42.792896
+        ],
+        "end_point": [
+            22.321979,
+            42.756568
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    22.37335,
+                    42.7929
+                ],
+                [
+                    22.36732,
+                    42.79041
+                ],
+                [
+                    22.37057,
+                    42.78987
+                ],
+                [
+                    22.3585,
+                    42.78201
+                ],
+                [
+                    22.348,
+                    42.78167
+                ],
+                [
+                    22.3456,
+                    42.77903
+                ],
+                [
+                    22.33057,
+                    42.77445
+                ],
+                [
+                    22.32198,
+                    42.75657
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/polom-m-vrtop-v-vrtop-staza-8/",
+        "canonical_url": "https://pss.rs/terenipp/polom-m-vrtop-v-vrtop-staza-8/",
+        "pss_id": 20036,
+        "updated_at": "2023-11-26T18:47:36Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:03:42Z",
+        "last_synced_at": "2026-11-08T12:03:42Z"
+    },
+    "search": "polom - m. vrtop - v. vrtop (staza 8) 7-15-3 jugoistocna srbija gramada polom vrh veliki vrtop 1721 m cemernik pd vrhovi mali veliki vrtop laka pocetak staze je 1200 metara ispod brane vlasinskog jezera pored asfaltnog puta \"surdulica - crna trava\". nakon 100 metara spustanja makadamskim putem prema selu polom, sledi konstantan i srednje strm uspon do samog vrha veliki vrtop. sa rastom nadmorske visine ucesce liscarskih vrsta sumskog drveca, kao sto su breza i jasika se smanjuje, a povecava se ucesce cetinarskih: smrce, crnog i belog bora. posle predjenih 2 km, staza prolazi pored veceg broja kuca u selu polom, a nakon toga nastupaju divlji vlasinski predeli, koji ce svakog ljubitelja prirode ostaviti bez daha. pri prilasku vrhu mali vrtop, izlazi se iz retkih suma na prostrane i strme pasnjacke strane. vrh mali vrtop pruza jedinstven pogled posetiocima na vlasinsko jezero i siru okolinu. stazom, takodje strmom se treba spustiti do raskrsnice sumskih puteva na prevoju prema vrhu veliki vrtop, a zatim sledi zavrsni uspon kroz pasnjacke terene do ovog vrha. vrh veliki vrtop predstavlja veoma siroku, visokoplaninsku i travnatu zaravan. smer kretanja: - polom - start - polom - selo (2,0 km) - polomska cuka (3,1 km) - vrh mali vrtop (4,9 km) - vrh veliki vrtop (7,7 km)",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:03:42Z"
+    }
+}

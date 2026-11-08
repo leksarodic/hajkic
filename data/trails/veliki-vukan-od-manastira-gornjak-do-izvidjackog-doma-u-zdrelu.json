@@ -1,0 +1,203 @@
+{
+    "schema_version": 1,
+    "slug": "veliki-vukan-od-manastira-gornjak-do-izvidjackog-doma-u-zdrelu",
+    "name": "Veliki Vukan od manastira Gornjak do izviđačkog doma u Ždrelu",
+    "code": "4-48-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 5080,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            111
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Vukan",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 10.3,
+        "calculated_km": 10.29
+    },
+    "duration": {
+        "official_minutes": 300,
+        "official_text": "5 h",
+        "official_raw": "5:00"
+    },
+    "elevation": {
+        "official_gain_m": 640.0,
+        "official_loss_m": 615.0,
+        "calculated_gain_m": 790.5,
+        "calculated_loss_m": 750.4,
+        "min_m": 174.6,
+        "max_m": 829.3
+    },
+    "start": "Manastir Gornjak (185m)",
+    "end": "Izvođački dom u Ždrelu (210m)",
+    "description": "Staza kreće preko puta starog motela Gornjak. Prvi deo staze ide kroz šumu do Vojinog salaša, dalje se ide putem do mesta gde se spaja sa stazom od česme \"4 lule\" i stazom vodi do Malog Vukana a kasnije i Velikog Vukana. Silazak je stazom ka izviđačkom domu u selu Ždrelo.",
+    "landmarks": "• Manastir Gornjak\n\n • 4 vidikovca",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Staza je poslednji put markirana 2017. godine",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Gornjak PD",
+        "url": "https://pss.rs/adresar_klubova/gornjak-pd/",
+        "contact": "Prvomajska bb, 12300 Petrovac na Mlavi\n+38164 2345 518 ; +38163 696 682\nhttp://www.gornjak.org.rs",
+        "clubs": [
+            {
+                "name": "Gornjak PD",
+                "url": "https://pss.rs/adresar_klubova/gornjak-pd/",
+                "contact": "Prvomajska bb, 12300 Petrovac na Mlavi\n+38164 2345 518 ; +38163 696 682\nhttp://www.gornjak.org.rs"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/10/4-48-1_V_Vukan_od_man_Gornjak.gpx",
+        "fetched_at": "2026-11-08T11:59:04Z",
+        "checked_at": "2026-11-08T11:59:04Z",
+        "bytes": 100200,
+        "sha256": "e4c93b57e148104c21fe82ef1e428554e7b21fe00320e1167c1bfc7bc8b104ea",
+        "etag": null,
+        "last_modified": "Fri, 20 Oct 2017 14:01:50 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 605,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 4,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/10/4-48-1_V_Vukan_od_man_Gornjak.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/veliki-vukan-od-manastira-gornjak-do-izvidjackog-doma-u-zdrelu.geojson",
+        "bbox": [
+            21.50336899794638,
+            44.26439302973449,
+            21.55312104150653,
+            44.30605502799153
+        ],
+        "center": [
+            21.528245,
+            44.285224
+        ],
+        "start_point": [
+            21.544385002925992,
+            44.26513499580324
+        ],
+        "end_point": [
+            21.503574019297957,
+            44.30605502799153
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.54439,
+                    44.26513
+                ],
+                [
+                    21.54731,
+                    44.2644
+                ],
+                [
+                    21.55305,
+                    44.26793
+                ],
+                [
+                    21.55198,
+                    44.28016
+                ],
+                [
+                    21.54929,
+                    44.28164
+                ],
+                [
+                    21.54567,
+                    44.27906
+                ],
+                [
+                    21.53744,
+                    44.2858
+                ],
+                [
+                    21.53542,
+                    44.29537
+                ],
+                [
+                    21.5385,
+                    44.3001
+                ],
+                [
+                    21.53318,
+                    44.30453
+                ],
+                [
+                    21.52185,
+                    44.30157
+                ],
+                [
+                    21.51973,
+                    44.30382
+                ],
+                [
+                    21.51572,
+                    44.30251
+                ],
+                [
+                    21.51462,
+                    44.30444
+                ],
+                [
+                    21.507,
+                    44.30275
+                ],
+                [
+                    21.50357,
+                    44.30606
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/veliki-vukan-od-manastira-gornjak-do-izvidjackog-doma-u-zdrelu/",
+        "canonical_url": "https://pss.rs/terenipp/veliki-vukan-od-manastira-gornjak-do-izvidjackog-doma-u-zdrelu/",
+        "pss_id": 5080,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:59:04Z",
+        "last_synced_at": "2026-11-08T11:59:04Z"
+    },
+    "search": "veliki vukan od manastira gornjak do izvidjackog doma u zdrelu 4-48-1 istocna srbija vukan manastir gornjak (185m) izvodjacki dom u zdrelu (210m) gornjak pd • manastir gornjak • 4 vidikovca laka staza krece preko puta starog motela gornjak. prvi deo staze ide kroz sumu do vojinog salasa, dalje se ide putem do mesta gde se spaja sa stazom od cesme \"4 lule\" i stazom vodi do malog vukana a kasnije i velikog vukana. silazak je stazom ka izvidjackom domu u selu zdrelo.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:59:04Z"
+    }
+}

@@ -1,0 +1,223 @@
+{
+    "schema_version": 1,
+    "slug": "4-izvora-povlena",
+    "name": "4 izvora Povlena",
+    "code": "3-14-2",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 12733,
+        "category_id": 28,
+        "region_ids": [
+            3
+        ],
+        "mountain_ids": [
+            66
+        ]
+    },
+    "region": "Zapadna Srbija",
+    "mountain": "Povlen",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 14.0,
+        "calculated_km": 13.12
+    },
+    "duration": {
+        "official_minutes": 360,
+        "official_text": "6 h",
+        "official_raw": "6:00"
+    },
+    "elevation": {
+        "official_gain_m": 845.0,
+        "official_loss_m": 845.0,
+        "calculated_gain_m": 769.5,
+        "calculated_loss_m": 776.0,
+        "min_m": 931.1,
+        "max_m": 1340.6
+    },
+    "start": "Planinarska kuća \"Povlenski kućerak\", 1145,8 m",
+    "end": "Planinarska kuća \"Povlenski kućerak\", 1145,8 m",
+    "description": "Staza je kružna. Start i cilj je planinarska kuća \"Povlenski kućerak\" ispod Velikog Povlena. Od planinarske kuće se silazi makadamskim putem prema Debelom brdu, skreće desno na istok i Dijavičkim putem ulazi u bukovu šumu i nakon 4,5 km nailazi se na izvor Povlenske reke. Ovde se nalazi lep od drveta sagrađen letnjikovac. Odatle se šumskim putem staza penje na stenoviti deo koji se zove Ploče, gde ima istaknut vidikovac. Dalje se staza penje na Srednji Povlen (1301 m) koji ostaje desno, pa onda silazi do izvora reke Cetinje. Staza dalje produžava preko travnatog proplanka Gužvara i dolazi do crkve Sv. Arhiđakona Stefana na Kneževu polju. Na Kneževu polju je treći izvor, na 1200 m, poznat kao Stojadinov izvor. Smatra se da je ta voda najkvalitetnija. Od izvora penje se na bezimeni vis (vidikovac na južnu i jugoistočnu stranu Povlena). Odatle se staza penje istočnu stranu na vrh Malog Povlena (1347 m). Sa vrha staza silazi severnom padinom na Kneževo polje, pa vododerinom na makadamski put prema Makovištu. Staza se dalje vraća ka planinarskoj kući i nailazi na četvrti izvor koji se zove Madžarija.",
+    "landmarks": "• 4 vidikovca\n\n • Crkva Sv. Stefana Arhiđakona\n\n • U blizini Povlenske kugle",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinarska kuća \"Povlenski kućerak\"",
+    "notes": "• Stazu su trasirali Milena Šaho i Dušan Drakulić\n\n • Staza je markirana u junu 2020. godine.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Povlen PK",
+        "url": "https://pss.rs/adresar_klubova/povlen-pk/",
+        "contact": "Doktora Pantića 131/6 14000 Valjevo\n063-232039",
+        "clubs": [
+            {
+                "name": "Povlen PK",
+                "url": "https://pss.rs/adresar_klubova/povlen-pk/",
+                "contact": "Doktora Pantića 131/6 14000 Valjevo\n063-232039"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 6,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2021/01/3-14-2-4-izvora-Povlena.gpx",
+        "fetched_at": "2026-11-08T12:01:37Z",
+        "checked_at": "2026-11-08T12:01:37Z",
+        "bytes": 138475,
+        "sha256": "94666e8dc21d20819602d0936f246f145257902baeffc16d5d18cbda01fd0448",
+        "etag": null,
+        "last_modified": "Fri, 08 Jan 2021 12:12:36 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 1153,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 10,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2021/01/3-14-2-4-izvora-Povlena.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/4-izvora-povlena.geojson",
+        "bbox": [
+            19.704577792435884,
+            44.1276662517339,
+            19.7521451767534,
+            44.15181962773204
+        ],
+        "center": [
+            19.728361,
+            44.139743
+        ],
+        "start_point": [
+            19.712683260440826,
+            44.141562609001994
+        ],
+        "end_point": [
+            19.71260480582714,
+            44.14155540056527
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    19.71268,
+                    44.14156
+                ],
+                [
+                    19.71969,
+                    44.13818
+                ],
+                [
+                    19.74122,
+                    44.13304
+                ],
+                [
+                    19.74203,
+                    44.12963
+                ],
+                [
+                    19.75212,
+                    44.12769
+                ],
+                [
+                    19.75208,
+                    44.13022
+                ],
+                [
+                    19.74676,
+                    44.13444
+                ],
+                [
+                    19.74099,
+                    44.1369
+                ],
+                [
+                    19.73431,
+                    44.13701
+                ],
+                [
+                    19.73327,
+                    44.14129
+                ],
+                [
+                    19.72685,
+                    44.14437
+                ],
+                [
+                    19.73168,
+                    44.14485
+                ],
+                [
+                    19.7306,
+                    44.14631
+                ],
+                [
+                    19.72649,
+                    44.14795
+                ],
+                [
+                    19.72439,
+                    44.14636
+                ],
+                [
+                    19.71903,
+                    44.15154
+                ],
+                [
+                    19.71375,
+                    44.14802
+                ],
+                [
+                    19.70895,
+                    44.14857
+                ],
+                [
+                    19.70492,
+                    44.14647
+                ],
+                [
+                    19.70754,
+                    44.14098
+                ],
+                [
+                    19.7126,
+                    44.14156
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/4-izvora-povlena/",
+        "canonical_url": "https://pss.rs/terenipp/4-izvora-povlena/",
+        "pss_id": 12733,
+        "updated_at": "2022-04-28T15:48:11Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:01:38Z",
+        "last_synced_at": "2026-11-08T12:01:38Z"
+    },
+    "search": "4 izvora povlena 3-14-2 zapadna srbija povlen planinarska kuca \"povlenski kucerak\", 1145,8 m planinarska kuca \"povlenski kucerak\", 1145,8 m povlen pk • 4 vidikovca • crkva sv. stefana arhidjakona • u blizini povlenske kugle laka staza je kruzna. start i cilj je planinarska kuca \"povlenski kucerak\" ispod velikog povlena. od planinarske kuce se silazi makadamskim putem prema debelom brdu, skrece desno na istok i dijavickim putem ulazi u bukovu sumu i nakon 4,5 km nailazi se na izvor povlenske reke. ovde se nalazi lep od drveta sagradjen letnjikovac. odatle se sumskim putem staza penje na stenoviti deo koji se zove ploce, gde ima istaknut vidikovac. dalje se staza penje na srednji povlen (1301 m) koji ostaje desno, pa onda silazi do izvora reke cetinje. staza dalje produzava preko travnatog proplanka guzvara i dolazi do crkve sv. arhidjakona stefana na knezevu polju. na knezevu polju je treci izvor, na 1200 m, poznat kao stojadinov izvor. smatra se da je ta voda najkvalitetnija. od izvora penje se na bezimeni vis (vidikovac na juznu i jugoistocnu stranu povlena). odatle se staza penje istocnu stranu na vrh malog povlena (1347 m). sa vrha staza silazi severnom padinom na knezevo polje, pa vododerinom na makadamski put prema makovistu. staza se dalje vraca ka planinarskoj kuci i nailazi na cetvrti izvor koji se zove madzarija.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:01:38Z"
+    }
+}

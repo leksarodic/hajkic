@@ -1,0 +1,133 @@
+{
+    "schema_version": 1,
+    "slug": "ratkova-staza",
+    "name": "Ratkova staza",
+    "code": "5-17-3",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 19527,
+        "category_id": 28,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            83
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Ovčar",
+    "difficulty": {
+        "key": "vrlo_teska",
+        "label": "Vrlo teška",
+        "source": "vrlo teška"
+    },
+    "distance": {
+        "official_km": 2.4,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": 120,
+        "official_text": "2 h",
+        "official_raw": "2:00"
+    },
+    "elevation": {
+        "official_gain_m": 706.0,
+        "official_loss_m": 0.0,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": "Međuvršje, obilazni put oko tunela - 280 m",
+    "end": "vrh Ovčar - 986 m",
+    "description": "Staza kreće sa obilaznog puta oko tunela na putu Ovčar Banja - Čačak. Najatraktivnija staza na Ovčaru. Konstantan uspon kroz šumu, na momente izlazak na otvorene delove terena, podloga zemlja i kamen. Jedan od najlepših vidikovaca je na ovoj stazi.",
+    "landmarks": null,
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Snabdevenost pitkom vodom: na trasi / izvodi pitke vode: nema\n\n • Ko je i kada trasirao stazu: 2006, Ratko Rabrenović\n\n • Kada je staza poslednji put markirana: 2016",
+    "map_reference": null,
+    "map_sheet": "Planinarske staze Ovčara i Kablara 1 : 20 000 i Čačak 1 (529/1) 1:50000",
+    "club": {
+        "name": "Kablar PD",
+        "url": "https://pss.rs/adresar_klubova/kablar-pd/",
+        "contact": "Kneza Miloša 1, 32000 Čačak\n+38164 852 60 48\nhttps://www.kablar.rs",
+        "clubs": [
+            {
+                "name": "Kablar PD",
+                "url": "https://pss.rs/adresar_klubova/kablar-pd/",
+                "contact": "Kneza Miloša 1, 32000 Čačak\n+38164 852 60 48\nhttps://www.kablar.rs"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 1,
+    "gpx": {
+        "available": false,
+        "status": "missing",
+        "source_url": null,
+        "fetched_at": null,
+        "checked_at": "2026-11-08T12:03:28Z",
+        "bytes": null,
+        "sha256": null,
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": null,
+        "tracks": null,
+        "segments": null,
+        "waypoints": null,
+        "error": null,
+        "download": {
+            "mode": "none",
+            "url": null
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_gpx"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/ratkova-staza/",
+        "canonical_url": "https://pss.rs/terenipp/ratkova-staza/",
+        "pss_id": 19527,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:03:28Z",
+        "last_synced_at": "2026-11-08T12:03:28Z"
+    },
+    "search": "ratkova staza 5-17-3 jugozapadna srbija ovcar medjuvrsje, obilazni put oko tunela - 280 m vrh ovcar - 986 m kablar pd vrlo teska staza krece sa obilaznog puta oko tunela na putu ovcar banja - cacak. najatraktivnija staza na ovcaru. konstantan uspon kroz sumu, na momente izlazak na otvorene delove terena, podloga zemlja i kamen. jedan od najlepsih vidikovaca je na ovoj stazi.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:03:28Z"
+    }
+}

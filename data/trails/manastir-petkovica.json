@@ -1,0 +1,123 @@
+{
+    "schema_version": 1,
+    "slug": "manastir-petkovica",
+    "name": "Manastir Petkovica",
+    "code": "3-1-2",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 4471,
+        "category_id": 28,
+        "region_ids": [
+            3
+        ],
+        "mountain_ids": [
+            65
+        ]
+    },
+    "region": "Zapadna Srbija",
+    "mountain": "Cer",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 19.0,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": 330,
+        "official_text": "5 h 30 min",
+        "official_raw": "5:30"
+    },
+    "elevation": {
+        "official_gain_m": null,
+        "official_loss_m": null,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": "Manastir Petkovica",
+    "end": "Planinarski dom \"Lipove vode\"",
+    "description": "Manastir Petkovica - Grabovac - Krstovi (raskršće) - planinarski dom \"Lipove vode\"",
+    "landmarks": "• Manastir Petkovica\n\n • Vidikovac Gradina (šumska kućica)",
+    "maintenance": "delimično uređena",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinarski dom \"Lipove vode\"",
+    "notes": "Stazu trasirali članovi PSD \"Cer\" 2013.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Cer PSD",
+        "url": "https://pss.rs/adresar_klubova/cer-psd/",
+        "contact": "Veliki park bb, 15000 Šabac\n063/287747",
+        "clubs": [
+            {
+                "name": "Cer PSD",
+                "url": "https://pss.rs/adresar_klubova/cer-psd/",
+                "contact": "Veliki park bb, 15000 Šabac\n063/287747"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": false,
+        "status": "missing",
+        "source_url": null,
+        "fetched_at": null,
+        "checked_at": "2026-11-08T11:56:50Z",
+        "bytes": null,
+        "sha256": null,
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": null,
+        "tracks": null,
+        "segments": null,
+        "waypoints": null,
+        "error": null,
+        "download": {
+            "mode": "none",
+            "url": null
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_gpx"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/manastir-petkovica/",
+        "canonical_url": "https://pss.rs/terenipp/manastir-petkovica/",
+        "pss_id": 4471,
+        "updated_at": "2017-08-01T15:04:12Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:56:50Z",
+        "last_synced_at": "2026-11-08T11:56:50Z"
+    },
+    "search": "manastir petkovica 3-1-2 zapadna srbija cer manastir petkovica planinarski dom \"lipove vode\" cer psd • manastir petkovica • vidikovac gradina (sumska kucica) laka manastir petkovica - grabovac - krstovi (raskrsce) - planinarski dom \"lipove vode\"",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:56:50Z"
+    }
+}

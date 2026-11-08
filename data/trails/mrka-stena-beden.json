@@ -1,0 +1,191 @@
+{
+    "schema_version": 1,
+    "slug": "mrka-stena-beden",
+    "name": "Mrka stena - Beden",
+    "code": "3-14-3",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 12742,
+        "category_id": 28,
+        "region_ids": [
+            3
+        ],
+        "mountain_ids": [
+            66
+        ]
+    },
+    "region": "Zapadna Srbija",
+    "mountain": "Povlen",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 8.0,
+        "calculated_km": 7.84
+    },
+    "duration": {
+        "official_minutes": 210,
+        "official_text": "3 h 30 min",
+        "official_raw": "3:30"
+    },
+    "elevation": {
+        "official_gain_m": 346.0,
+        "official_loss_m": 346.0,
+        "calculated_gain_m": 337.1,
+        "calculated_loss_m": 331.5,
+        "min_m": 1029.0,
+        "max_m": 1253.0
+    },
+    "start": "Planinarska kuća \"Povlenski kućerak\", 1145,8 m",
+    "end": "Planinarska kuća \"Povlenski kućerak\", 1145,8 m",
+    "description": "Start od planinarske kuće ispod V. Povlena. Silazimo makadamskim putem prema Debelom brdu. Nakon 1 km skrećemo levo i preko mosta na reci Trešnjici penjemo se kroz bukovu šumu (severne padine Bedena), prema Mrkoj steni (1210 m). To je stenoviti vidikovac odakle se pruža pogled prema Jablaniku, Medvedniku, Bobiji kao i prema planinama RS. Zatim se ide proplancima, livadama Bedenom, kolskim putem, sa pogledom južno na planine RS, severno na Povlen. Od vrha Bedena (1256 m) južno 300 m nalazi se izvor pitke vode Vesina voda. Na kraju Bedena izlazi se na makadamski put Debelo brdo - zaseok Kosići. Tim putem prema Debelom brdu preko Madžarije dolazi se do planinarske kuće.",
+    "landmarks": "• Reka Trešnjica\n\n • Vidikovci, naročito Mrka stena\n\n • Izvori Vesina voda, Madžarija",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinarska kuća \"Povlenski kućerak\"",
+    "notes": "Stazu je trasirao i učestvovao u markiranju u septembru 2020. godine Dušan Drakulić",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Povlen PK",
+        "url": "https://pss.rs/adresar_klubova/povlen-pk/",
+        "contact": "Doktora Pantića 131/6 14000 Valjevo\n063-232039",
+        "clubs": [
+            {
+                "name": "Povlen PK",
+                "url": "https://pss.rs/adresar_klubova/povlen-pk/",
+                "contact": "Doktora Pantića 131/6 14000 Valjevo\n063-232039"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 6,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2021/01/3-14-3-Mrka-stena-Beden.gpx",
+        "fetched_at": "2026-11-08T12:01:39Z",
+        "checked_at": "2026-11-08T12:01:39Z",
+        "bytes": 63436,
+        "sha256": "d74eab88a23e9acb9ce2501a83e9000e3b77ea1354f364cd0dad3a41d074b623",
+        "etag": null,
+        "last_modified": "Fri, 08 Jan 2021 12:33:05 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 507,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 9,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2021/01/3-14-3-Mrka-stena-Beden.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/mrka-stena-beden.geojson",
+        "bbox": [
+            19.693690622225404,
+            44.127746131271124,
+            19.719740068539977,
+            44.143781466409564
+        ],
+        "center": [
+            19.706715,
+            44.135764
+        ],
+        "start_point": [
+            19.712566835805774,
+            44.14159026928246
+        ],
+        "end_point": [
+            19.712648643180728,
+            44.14165120571852
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    19.71257,
+                    44.14159
+                ],
+                [
+                    19.70764,
+                    44.14097
+                ],
+                [
+                    19.7014,
+                    44.14378
+                ],
+                [
+                    19.70282,
+                    44.14196
+                ],
+                [
+                    19.69838,
+                    44.1413
+                ],
+                [
+                    19.70084,
+                    44.13983
+                ],
+                [
+                    19.6974,
+                    44.13907
+                ],
+                [
+                    19.6985,
+                    44.13552
+                ],
+                [
+                    19.69369,
+                    44.13583
+                ],
+                [
+                    19.70468,
+                    44.13435
+                ],
+                [
+                    19.71823,
+                    44.12775
+                ],
+                [
+                    19.71956,
+                    44.13858
+                ],
+                [
+                    19.71265,
+                    44.14165
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/mrka-stena-beden/",
+        "canonical_url": "https://pss.rs/terenipp/mrka-stena-beden/",
+        "pss_id": 12742,
+        "updated_at": "2021-01-08T12:36:56Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:01:39Z",
+        "last_synced_at": "2026-11-08T12:01:39Z"
+    },
+    "search": "mrka stena - beden 3-14-3 zapadna srbija povlen planinarska kuca \"povlenski kucerak\", 1145,8 m planinarska kuca \"povlenski kucerak\", 1145,8 m povlen pk • reka tresnjica • vidikovci, narocito mrka stena • izvori vesina voda, madzarija laka start od planinarske kuce ispod v. povlena. silazimo makadamskim putem prema debelom brdu. nakon 1 km skrecemo levo i preko mosta na reci tresnjici penjemo se kroz bukovu sumu (severne padine bedena), prema mrkoj steni (1210 m). to je stenoviti vidikovac odakle se pruza pogled prema jablaniku, medvedniku, bobiji kao i prema planinama rs. zatim se ide proplancima, livadama bedenom, kolskim putem, sa pogledom juzno na planine rs, severno na povlen. od vrha bedena (1256 m) juzno 300 m nalazi se izvor pitke vode vesina voda. na kraju bedena izlazi se na makadamski put debelo brdo - zaseok kosici. tim putem prema debelom brdu preko madzarije dolazi se do planinarske kuce.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:01:39Z"
+    }
+}

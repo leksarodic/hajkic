@@ -1,0 +1,123 @@
+{
+    "schema_version": 1,
+    "slug": "cortanovacka-suma",
+    "name": "Čortanovačka šuma",
+    "code": "1-13-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 4337,
+        "category_id": 28,
+        "region_ids": [
+            1
+        ],
+        "mountain_ids": [
+            91
+        ]
+    },
+    "region": "Vojvodina",
+    "mountain": "Čortanovačka šuma",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 10.0,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": 180,
+        "official_text": "3 h",
+        "official_raw": "3:00"
+    },
+    "elevation": {
+        "official_gain_m": 406.0,
+        "official_loss_m": 395.0,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": "Planinarski dom \"Kozarica\" 110m",
+    "end": "Planinarski dom \"Kozarica\" 110m",
+    "description": "Staza je laka, ali je na njoj potrebna opreznost.",
+    "landmarks": "• Vila Stanković,\n\n • arheološko nalazište \"Rimski grad\",\n\n • plaža na Dunavu",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinarski dom \"Kozarica\" - Čortanovačka šuma",
+    "notes": "• Staza je trasirana 2007. a poslednji put markirana 2015.\n\n • Staza je snimljena na treku.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Železničar Indjija PK",
+        "url": "https://pss.rs/adresar_klubova/zeleznicar-indjija-pk/",
+        "contact": "Vojvode Stepe 40, Savez sportova, 22320 Inđija\n+38161 6541561",
+        "clubs": [
+            {
+                "name": "Železničar Indjija PK",
+                "url": "https://pss.rs/adresar_klubova/zeleznicar-indjija-pk/",
+                "contact": "Vojvode Stepe 40, Savez sportova, 22320 Inđija\n+38161 6541561"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": false,
+        "status": "missing",
+        "source_url": null,
+        "fetched_at": null,
+        "checked_at": "2026-11-08T11:56:41Z",
+        "bytes": null,
+        "sha256": null,
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": null,
+        "tracks": null,
+        "segments": null,
+        "waypoints": null,
+        "error": null,
+        "download": {
+            "mode": "none",
+            "url": null
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_gpx"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/cortanovacka-suma/",
+        "canonical_url": "https://pss.rs/terenipp/cortanovacka-suma/",
+        "pss_id": 4337,
+        "updated_at": "2017-08-10T10:19:22Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:56:41Z",
+        "last_synced_at": "2026-11-08T11:56:41Z"
+    },
+    "search": "cortanovacka suma 1-13-1 vojvodina cortanovacka suma planinarski dom \"kozarica\" 110m planinarski dom \"kozarica\" 110m zeleznicar indjija pk • vila stankovic, • arheolosko nalaziste \"rimski grad\", • plaza na dunavu laka staza je laka, ali je na njoj potrebna opreznost.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:56:41Z"
+    }
+}

@@ -1,0 +1,179 @@
+{
+    "schema_version": 1,
+    "slug": "divcibare-centar-golubac",
+    "name": "Divčibare centar - Golubac",
+    "code": "3-22-4",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 16553,
+        "category_id": 28,
+        "region_ids": [
+            3
+        ],
+        "mountain_ids": [
+            155
+        ]
+    },
+    "region": "Zapadna Srbija",
+    "mountain": "Maljen",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 6.1,
+        "calculated_km": 5.86
+    },
+    "duration": {
+        "official_minutes": 180,
+        "official_text": "3 h",
+        "official_raw": "3:00"
+    },
+    "elevation": {
+        "official_gain_m": 116.0,
+        "official_loss_m": 25.0,
+        "calculated_gain_m": 125.5,
+        "calculated_loss_m": 38.2,
+        "min_m": 939.1,
+        "max_m": 1040.8
+    },
+    "start": "Centar Divčibara, 945 m",
+    "end": "Golubac, 1056 m",
+    "description": "• Ova turistička staza u potpunosti se nalazi u centralnom delu Divčibara. Na samom početku nalazi se pravoslavna crkva Svetog Pantelejmona. Prva inicijativa za podizanje crkve potekla je od protojereja M.Tripkovića oko 1930.godine. Gradnja je započeta u leto 1998.godine a 2000. godine je postavljen krst na kupolu. Nalazi se na levoj obali potoka Žujan.\n\n • Na stazu se kreće iz centra severo-istočno pored nove pijace kroz vikend naselje, prelazeći potok, ka velikoj ski stazi Crni Vrh.\n\n • Ski staza se nalazi na severnoj strani Crnog Vrha u dužini od 850 m i visinske razlike od 180 m. Na stazi je izgrađena dvosedna žičara kapaciteta 1200 skijaša na sat. Skijaška staza se ubraja u ski staze crvene kategorije namenjena veštijim skijašima, veštački se osnežava po potrebi. U letnjem periodu može se koristiti za panoramsko razgledanje.\n\n • Krećemo se severno asfaltnim putem pored vile Jezero, vodovoda, odvajanja ka vili Plamenac i stižemo do benziske pumpe na glavnom putu za centar Divčibara. Južno glavnim putem posle 250 m skreće se na severo-zapad ka dečijem odmaralištu Stevan Filipović. Ispred odmarališta polukružno skrećemo ka jugu, prema starom otvorenom bazenu. Na raskrsnici pored započetog kongresnog centra skrećemo zapadno ka vrhu Golubca. Na putu ka samom vrhu prolazi se uzbrdo kroz vikend naselje i četinarsku šumu.",
+    "landmarks": "• Vidikovac: Golubac\n\n • Naselje: Divčibare\n\n •",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinarski dom na poljanama Maljen",
+    "notes": "• Stazu je trasirao PSD Magleš januara 2022.\n\n • Poslednji put staza je markirana maja 2022.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Magleš PSD",
+        "url": "https://pss.rs/adresar_klubova/magles-psd/",
+        "contact": "Sindjelićeva 14, 14000 Valjevo\n+38114 236 377 ; 064/6461103\nhttps://www.magles.org.rs/",
+        "clubs": [
+            {
+                "name": "Magleš PSD",
+                "url": "https://pss.rs/adresar_klubova/magles-psd/",
+                "contact": "Sindjelićeva 14, 14000 Valjevo\n+38114 236 377 ; 064/6461103\nhttps://www.magles.org.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 15,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2022/04/3-22-4-Centar-Golubac.gpx",
+        "fetched_at": "2026-11-08T12:02:32Z",
+        "checked_at": "2026-11-08T12:02:32Z",
+        "bytes": 25952,
+        "sha256": "906c963f97f216beba668b12ddee904c163fe7e11afc9cbac59e7eb6444800ea",
+        "etag": null,
+        "last_modified": "Sat, 30 Apr 2022 13:18:18 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 119,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 13,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2022/04/3-22-4-Centar-Golubac.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/divcibare-centar-golubac.geojson",
+        "bbox": [
+            19.97437298297882,
+            44.10457897000015,
+            20.00387200154364,
+            44.113379968330264
+        ],
+        "center": [
+            19.989122,
+            44.108979
+        ],
+        "start_point": [
+            19.99170701019466,
+            44.10478902049363
+        ],
+        "end_point": [
+            19.97437298297882,
+            44.112908989191055
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    19.99171,
+                    44.10479
+                ],
+                [
+                    19.99525,
+                    44.10659
+                ],
+                [
+                    20.00018,
+                    44.10458
+                ],
+                [
+                    20.00379,
+                    44.11032
+                ],
+                [
+                    19.99654,
+                    44.1131
+                ],
+                [
+                    19.99468,
+                    44.1113
+                ],
+                [
+                    19.98411,
+                    44.11333
+                ],
+                [
+                    19.98651,
+                    44.10557
+                ],
+                [
+                    19.98412,
+                    44.10556
+                ],
+                [
+                    19.97437,
+                    44.11291
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/divcibare-centar-golubac/",
+        "canonical_url": "https://pss.rs/terenipp/divcibare-centar-golubac/",
+        "pss_id": 16553,
+        "updated_at": "2022-04-30T13:21:54Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:02:33Z",
+        "last_synced_at": "2026-11-08T12:02:33Z"
+    },
+    "search": "divcibare centar - golubac 3-22-4 zapadna srbija maljen centar divcibara, 945 m golubac, 1056 m magles psd • vidikovac: golubac • naselje: divcibare • laka • ova turisticka staza u potpunosti se nalazi u centralnom delu divcibara. na samom pocetku nalazi se pravoslavna crkva svetog pantelejmona. prva inicijativa za podizanje crkve potekla je od protojereja m.tripkovica oko 1930.godine. gradnja je zapoceta u leto 1998.godine a 2000. godine je postavljen krst na kupolu. nalazi se na levoj obali potoka zujan. • na stazu se krece iz centra severo-istocno pored nove pijace kroz vikend naselje, prelazeci potok, ka velikoj ski stazi crni vrh. • ski staza se nalazi na severnoj strani crnog vrha u duzini od 850 m i visinske razlike od 180 m. na stazi je izgradjena dvosedna zicara kapaciteta 1200 skijasa na sat. skijaska staza se ubraja u ski staze crvene kategorije namenjena vestijim skijasima, vestacki se osnezava po potrebi. u letnjem periodu moze se koristiti za panoramsko razgledanje. • krecemo se severno asfaltnim putem pored vile jezero, vodovoda, odvajanja ka vili plamenac i stizemo do benziske pumpe na glavnom putu za centar divcibara. juzno glavnim putem posle 250 m skrece se na severo-zapad ka decijem odmaralistu stevan filipovic. ispred odmaralista polukruzno skrecemo ka jugu, prema starom otvorenom bazenu. na raskrsnici pored zapocetog kongresnog centra skrecemo zapadno ka vrhu golubca. na putu ka samom vrhu prolazi se uzbrdo kroz vikend naselje i cetinarsku sumu.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:02:33Z"
+    }
+}

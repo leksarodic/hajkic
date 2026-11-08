@@ -1,0 +1,239 @@
+{
+    "schema_version": 1,
+    "slug": "staza-br-6-furniste",
+    "name": "Staza br. 6 \"Furnište\"",
+    "code": "7-9-6",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 3763,
+        "category_id": 28,
+        "region_ids": [
+            7
+        ],
+        "mountain_ids": [
+            69
+        ]
+    },
+    "region": "Jugoistočna Srbija",
+    "mountain": "Kukavica",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 13.4,
+        "calculated_km": 13.43
+    },
+    "duration": {
+        "official_minutes": 240,
+        "official_text": "4 h",
+        "official_raw": "4:00"
+    },
+    "elevation": {
+        "official_gain_m": 833.0,
+        "official_loss_m": 275.0,
+        "calculated_gain_m": 803.3,
+        "calculated_loss_m": 257.8,
+        "min_m": 718.2,
+        "max_m": 1363.8
+    },
+    "start": "Selo Brestovo, 718 m",
+    "end": "Planinarski dom \"Preka voda\", 1270 m",
+    "description": "Selo Brestovo - selo Kukavica - Furnište - planinarski dom \"Preka voda\"",
+    "landmarks": null,
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinarski dom \"Preka voda\"",
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": "1:25000, TK Leskovac 632 2-4",
+    "club": {
+        "name": "Kukavica PSK",
+        "url": "https://pss.rs/adresar_klubova/kukavica-psk/",
+        "contact": "Deligradska 5, 16000 Leskovac\n+381652824655",
+        "clubs": [
+            {
+                "name": "Kukavica PSK",
+                "url": "https://pss.rs/adresar_klubova/kukavica-psk/",
+                "contact": "Deligradska 5, 16000 Leskovac\n+381652824655"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 5,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/7-9-6-Staza-br.6-Furniste.gpx",
+        "fetched_at": "2026-11-08T11:55:11Z",
+        "checked_at": "2026-11-08T11:55:11Z",
+        "bytes": 92012,
+        "sha256": "e027174a6eab16563c938b795ecc9a29e74a3ea3fcae281c80b3ed7a8014201d",
+        "etag": null,
+        "last_modified": "Wed, 20 Jan 2021 20:06:27 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 541,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 12,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/7-9-6-Staza-br.6-Furniste.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/staza-br-6-furniste.geojson",
+        "bbox": [
+            21.951510133221745,
+            42.7072801720351,
+            21.985979536548257,
+            42.785048224031925
+        ],
+        "center": [
+            21.968745,
+            42.746164
+        ],
+        "start_point": [
+            21.985676614567637,
+            42.7072801720351
+        ],
+        "end_point": [
+            21.951520526781678,
+            42.78503472916782
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.98568,
+                    42.70728
+                ],
+                [
+                    21.97885,
+                    42.71159
+                ],
+                [
+                    21.97605,
+                    42.71802
+                ],
+                [
+                    21.97771,
+                    42.72205
+                ],
+                [
+                    21.97543,
+                    42.7248
+                ],
+                [
+                    21.97901,
+                    42.72855
+                ],
+                [
+                    21.97729,
+                    42.73213
+                ],
+                [
+                    21.97436,
+                    42.73432
+                ],
+                [
+                    21.97141,
+                    42.73432
+                ],
+                [
+                    21.97062,
+                    42.73198
+                ],
+                [
+                    21.96572,
+                    42.73311
+                ],
+                [
+                    21.9678,
+                    42.73888
+                ],
+                [
+                    21.96403,
+                    42.7434
+                ],
+                [
+                    21.96797,
+                    42.74381
+                ],
+                [
+                    21.97001,
+                    42.74809
+                ],
+                [
+                    21.96997,
+                    42.75533
+                ],
+                [
+                    21.96701,
+                    42.75816
+                ],
+                [
+                    21.96867,
+                    42.76633
+                ],
+                [
+                    21.96447,
+                    42.7672
+                ],
+                [
+                    21.95785,
+                    42.77384
+                ],
+                [
+                    21.9588,
+                    42.77569
+                ],
+                [
+                    21.95239,
+                    42.78031
+                ],
+                [
+                    21.95667,
+                    42.78209
+                ],
+                [
+                    21.9548,
+                    42.78475
+                ],
+                [
+                    21.95152,
+                    42.78503
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/staza-br-6-furniste/",
+        "canonical_url": "https://pss.rs/terenipp/staza-br-6-furniste/",
+        "pss_id": 3763,
+        "updated_at": "2021-02-27T12:00:38Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:55:11Z",
+        "last_synced_at": "2026-11-08T11:55:11Z"
+    },
+    "search": "staza br. 6 \"furniste\" 7-9-6 jugoistocna srbija kukavica selo brestovo, 718 m planinarski dom \"preka voda\", 1270 m kukavica psk zahtevna selo brestovo - selo kukavica - furniste - planinarski dom \"preka voda\"",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:55:11Z"
+    }
+}

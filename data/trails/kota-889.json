@@ -1,0 +1,169 @@
+{
+    "schema_version": 1,
+    "slug": "kota-889",
+    "name": "Kota 889",
+    "code": "3-28-5",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 19516,
+        "category_id": 28,
+        "region_ids": [
+            3
+        ],
+        "mountain_ids": [
+            390
+        ]
+    },
+    "region": "Zapadna Srbija",
+    "mountain": "Kablar",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 2.45,
+        "calculated_km": 2.28
+    },
+    "duration": {
+        "official_minutes": 120,
+        "official_text": "2 h",
+        "official_raw": "2:00"
+    },
+    "elevation": {
+        "official_gain_m": 599.0,
+        "official_loss_m": 0.0,
+        "calculated_gain_m": 683.1,
+        "calculated_loss_m": 1.5,
+        "min_m": 278.9,
+        "max_m": 888.9
+    },
+    "start": "Ovčar Banja, planinarski dom „Bogoljub Đurić“ - 290 m",
+    "end": "vrh Kablara - 889 m",
+    "description": "Staza kreće od planinarskog doma „Bogoljub Đurić“ kroz šumu, pa nakon oko 600m kreće grebenom ka koti 889m. Na grebenskom delu staze pologa je kamen, stena i povremeno zemlja, Uspon je konstantan.",
+    "landmarks": null,
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinarski dom \"Bogoljub Ćurić\"",
+    "notes": "• Snabdevenost pitkom vodom: na trasi / izvodi pitke vode: nema\n\n • Ko je i kada trasirao stazu: 2010, PD Kablar\n\n • Kada je staza poslednji put markirana: 2019",
+    "map_reference": null,
+    "map_sheet": "Planinarske staze Ovčara i Kablara 1 : 20 000 i Čačak 1 (529/1) 1:50000",
+    "club": {
+        "name": "Kablar PD",
+        "url": "https://pss.rs/adresar_klubova/kablar-pd/",
+        "contact": "Kneza Miloša 1, 32000 Čačak\n+38164 852 60 48\nhttps://www.kablar.rs",
+        "clubs": [
+            {
+                "name": "Kablar PD",
+                "url": "https://pss.rs/adresar_klubova/kablar-pd/",
+                "contact": "Kneza Miloša 1, 32000 Čačak\n+38164 852 60 48\nhttps://www.kablar.rs"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2023/05/5-kota-889-kablar_staza.gpx",
+        "fetched_at": "2026-11-08T12:03:21Z",
+        "checked_at": "2026-11-08T12:03:21Z",
+        "bytes": 36622,
+        "sha256": "f8b9259ea3bc10bded447ff53b441a45fe848d2ee40a574008f889d7df4d0ba6",
+        "etag": null,
+        "last_modified": "Sun, 07 May 2023 17:46:52 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 369,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2023/05/5-kota-889-kablar_staza.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/kota-889.geojson",
+        "bbox": [
+            20.182632,
+            43.902382,
+            20.192449,
+            43.912545
+        ],
+        "center": [
+            20.187541,
+            43.907464
+        ],
+        "start_point": [
+            20.192422,
+            43.903258
+        ],
+        "end_point": [
+            20.184747,
+            43.912545
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    20.19242,
+                    43.90326
+                ],
+                [
+                    20.1895,
+                    43.9047
+                ],
+                [
+                    20.18962,
+                    43.90238
+                ],
+                [
+                    20.18349,
+                    43.906
+                ],
+                [
+                    20.18475,
+                    43.91255
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/kota-889/",
+        "canonical_url": "https://pss.rs/terenipp/kota-889/",
+        "pss_id": 19516,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:03:22Z",
+        "last_synced_at": "2026-11-08T12:03:22Z"
+    },
+    "search": "kota 889 3-28-5 zapadna srbija kablar ovcar banja, planinarski dom „bogoljub djuric“ - 290 m vrh kablara - 889 m kablar pd zahtevna staza krece od planinarskog doma „bogoljub djuric“ kroz sumu, pa nakon oko 600m krece grebenom ka koti 889m. na grebenskom delu staze pologa je kamen, stena i povremeno zemlja, uspon je konstantan.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:03:22Z"
+    }
+}

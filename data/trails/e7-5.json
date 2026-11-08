@@ -1,0 +1,631 @@
+{
+    "schema_version": 1,
+    "slug": "e7-5",
+    "name": "Novi Sad - Sremska Mitrovica",
+    "code": "E7-5",
+    "category": {
+        "key": "evropski-pesacki-putevi-u-srbiji",
+        "label": "Evropski pešački putevi u Srbiji"
+    },
+    "pss": {
+        "post_id": 3717,
+        "category_id": 29,
+        "region_ids": [
+            1
+        ],
+        "mountain_ids": [
+            63
+        ]
+    },
+    "region": "Vojvodina",
+    "mountain": "Fruška gora",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "lak"
+    },
+    "distance": {
+        "official_km": 85.2,
+        "calculated_km": 85.63
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": 1780.0,
+        "official_loss_m": 1571.0,
+        "calculated_gain_m": 0.0,
+        "calculated_loss_m": 0.0,
+        "min_m": 0.0,
+        "max_m": 0.0
+    },
+    "start": null,
+    "end": null,
+    "description": "• Iz Novog Sada prelazimo preko Dunava i ulazimo u zidine velike\nPetrovaradinske tvrđave koja je obeležila istoriju ovog grada\nkroz vekovnu borbu Turske i Austrougarske imperije. Sa pravom je\nnazivaju „Gibraltar na Dunavu”. Tvrđava je podignuta na visokoj steni\nna ostacima nekadašnjeg rimskog, a zatim vizantijskog i ugarskog\nutvrđenja. Građena je od 1692. do 1780. godine. U stenovitom podzemlju\nizgrađena su četiri sprata sa 16,5 kilometara podzemnih galerija,\n12.000 puškarnica i 13 kapija. Danas je tvrđava turističko središte\nsa brojnim kulturnim događajima. Sa tvrđave se pruža izvanredan\nvidik prema gradu i obalama Dunava.\n\n • Iz Petrovaradina put E7 ide padinama desne obale Dunava pored\nistorijski zanimljive crkve Marije Snežne na čijem tornju se nalaze\nhrišćanski krst i muhamedanski polumesec, kao obeležje borbe za\nprevlast i konačne pobede nad Turskom imperijom. Odavde put se penje\nna brdo Vezirac (194 m/nv) na kome je 1716. go dine održana istorijska\nPetrovaradinska bitka između austrijske vojske pod komandom Eugena\nSavojskog sa brojnim jedinicama u kojima su bili Srbi i vojske turske\nimperije.\n\n • Pobedom austrijske vojske Turska je konačno udaljena od granica\nAustrougarske.\n\n • Nastavljajući putem dolazimo do barokne varošice Sremski Karlovci\nkoja je bila srpski kulturni centar i duhovna prestonica za vreme\nturske okupacije Srbije. U centru varošice nalaze se izvanredne\nbarokne građevine, Saborna crkva Svetog Nikole. Patrijaršijski dvor,\nэgrada najstarije gimnazije u Srbiji. Ceo kraj obiluje vinogradima a\nu gradu se nalaze proizvođači kvalitetnih vina. Preko puta, na levoj\nobali Dunava, se nalazi prostrani Specijalni rezervat prirode\nKoviljsko-petrovaradinski rit. To je plavno područje reke Dunav\nsa ritovima, adama i vlažnim livadama. U njemu se nalazi značajno\nstanište ptica sa više od 170 vrsta, zatim 50 vrsta ribe i veliki broj\ndruge raznovrsne flore i faune. U ovaj rit mogu vas odvesti vodiči\nribari iz Sremskih Karlovaca.\n\n • Iz Sremskih Karlovaca put E7 kreće prema Fruškoj gori, planini koja se izdiže do visine od 539 metara iznad panonske ravnice. Planina\npredstavlja pravi park i zbirku geološke i biološke raznovrsnosti\nsa brojnim kulturno-istorijskim spomenicima. Dužina planinskog\nvenca iznosi oko 80 kilometara. Za Nacionalni park proglašena je\n1960. godine na površini od 25.000 hektara. Na padine Fruške gore\nprvu vinovu lozu doneo je rimski car Probus oko 232. godine. Na\nFruškoj gori zapisani su tragovi postojanja 35 manastira od 12. pa do\n18. veka.\n\n • Sada je aktivno 16 manastira. Putem E7 prolazi se pored manastira\nGrgeteg (15. vek), Staro Hopovo i Novo Hopovo (15. vek), Ravanica (16.\nvek), Jazak (18. vek), Mala Remeta (17. vek) i Bešenovo (13. vek).\n\n • Mesto Irig ispod Fruške gore pominje se 1225. godine kada je u njemu\nosnovan katolički pavlinski manastir. Grad ima bogatu istoriju. U\ntim vremenima bio je ekonomski veoma razvijen. Posebno je poznat\npo vinogradarstvu i odličnim podrumima vina. Zanimljivo je da\novaj grad nije na velikoj reci a ima ribarski trg na kome se trgovalo\nribom. Ribu su donosili ribari sa Save i Dunava. Oni su ovom trgu\npoklonili spomenik ribarski krst u 19 veku. Banja Vrdnik u blizini\nIriga, nekada poznati rudnik, sada je odmaralište i lečilište\nsa toplom izvorima mineralne vode. U blizini Vrdnika nalazi se\nmanastir Vrdnička Ravanica iz 16 veka. U njemu su jedno vreme čuvane\nmošti poslednjeg srpskog vladara kneza Lazara Hrebeljanovića.\n\n • Fruška gora duž celog grebena ima veliku mrežu obeleženih i\nneobeleženih planinarskih puteva i staza u ukupnoj dužini od oko\n500 km. Veliki planinarski put nazvan Fruškogorska transverzala\nobeležen je 1956. godine u dužini oko 160 kilometara sa 32 kontrolne\ntačke.\n\n • Put E7 se iz Vrdnika padinama Fruške gore kroz naselja Prnjavor\ni Grgurevci spušta prema zaravnima sremskih prirodnih terasa u\nSremsku Mitrovicu.",
+    "landmarks": "Begečka Jama (park prirode), Fruška gora, Novi Sad, Petrovaradin, Sremski Karlovci, fruškogorski manastiri, banja Vrdnik, Irig, Sremska Mitrovica (Sirmijum)",
+    "maintenance": null,
+    "marking": "evropska crveno-žuta",
+    "accommodation": "Bač, Bačka Palanka, Novi sad, Sr. Karlovci, Vrdnik, Zmajevac, Irig, Sr. Mitrovica",
+    "notes": "• E7-5-1 Novi Sad (Petrovaradin) – Stražilovo 18,7 km\n\n • E7-5-2 Stražilovo – Manastir Novo Hopovo 15,8 km\n\n • E7-5-3 Manastir Novo Hopovo – Mala Remeta 12,4 km\n\n • E7-5-4 Mala Remeta – Šuljamačka Glavica 12,2 km\n\n • E7-5-5 Šuljamačka Glavica – Jezero Vranjaš 12,4 km\n\n • E7-5-6 Jezero Vranjaš – Sremska Mitrovica 13,7 km",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Borkovac PK",
+        "url": "https://pss.rs/adresar_klubova/borkovac-pk/",
+        "contact": "Veljka Dugoševića 100, 22400 Ruma\n063 80 65 900",
+        "clubs": [
+            {
+                "name": "Borkovac PK",
+                "url": "https://pss.rs/adresar_klubova/borkovac-pk/",
+                "contact": "Veljka Dugoševića 100, 22400 Ruma\n063 80 65 900"
+            },
+            {
+                "name": "Naftaš PD",
+                "url": "https://pss.rs/adresar_klubova/naftas-pd/",
+                "contact": "Narodnog fronta 12, 21000 Novi Sad\n\nhttp://www.pdnaftas.org.rs"
+            },
+            {
+                "name": "Poštar SU PSD",
+                "url": "https://pss.rs/adresar_klubova/postar-su-psd/",
+                "contact": "Trg galerija 4, 21000 Novi Sad\n064 236 95 24\nhttp://www.psdpostar.org.rs"
+            },
+            {
+                "name": "Stražilovo PSD",
+                "url": "https://pss.rs/adresar_klubova/strazilovo-psd/",
+                "contact": "Trg Branka Radičevića 7, 21205 Sremski Karlovci\n+38163 80 18 271; +38163 526 638 \nhttps://www.strazilovo.org/"
+            },
+            {
+                "name": "Železničar PSD Novi Sad",
+                "url": "https://pss.rs/adresar_klubova/zeleznicar-psd-2/",
+                "contact": "Trg galerija 4, 21000 Novi Sad\n+38165 526 8120; +38121 529 978\nhttp://www.psdzeleznicarns.org.rs"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/E7-5-Novi-Sad-Sremska-Mitrovica.gpx",
+        "fetched_at": "2026-11-08T12:50:53Z",
+        "checked_at": "2026-11-08T12:50:53Z",
+        "bytes": 179532,
+        "sha256": "cb61502349563c3654efd7b5841f47187165b203f53cdc2f3d46641247ba9e5b",
+        "etag": null,
+        "last_modified": "Sat, 07 Dec 2024 21:23:36 GMT",
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": 2479,
+        "tracks": 6,
+        "segments": 6,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/E7-5-Novi-Sad-Sremska-Mitrovica.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/e7-5.geojson",
+        "bbox": [
+            19.603263039,
+            44.965935776,
+            19.933717335,
+            45.254916865
+        ],
+        "center": [
+            19.76849,
+            45.110426
+        ],
+        "start_point": [
+            19.859403471,
+            45.25486657
+        ],
+        "end_point": [
+            19.603263039,
+            44.966579419
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    19.8594,
+                    45.25487
+                ],
+                [
+                    19.8652,
+                    45.25052
+                ],
+                [
+                    19.86595,
+                    45.25284
+                ],
+                [
+                    19.8713,
+                    45.2523
+                ],
+                [
+                    19.8774,
+                    45.24827
+                ],
+                [
+                    19.88368,
+                    45.23934
+                ],
+                [
+                    19.89594,
+                    45.22876
+                ],
+                [
+                    19.89531,
+                    45.22256
+                ],
+                [
+                    19.90325,
+                    45.21477
+                ],
+                [
+                    19.89895,
+                    45.21147
+                ],
+                [
+                    19.89772,
+                    45.20703
+                ],
+                [
+                    19.90215,
+                    45.2054
+                ],
+                [
+                    19.90495,
+                    45.2065
+                ],
+                [
+                    19.91083,
+                    45.20256
+                ],
+                [
+                    19.91567,
+                    45.20797
+                ],
+                [
+                    19.92318,
+                    45.20124
+                ],
+                [
+                    19.93126,
+                    45.20182
+                ],
+                [
+                    19.93125,
+                    45.20372
+                ],
+                [
+                    19.93372,
+                    45.20285
+                ],
+                [
+                    19.93254,
+                    45.19441
+                ],
+                [
+                    19.92367,
+                    45.19143
+                ],
+                [
+                    19.92019,
+                    45.17839
+                ],
+                [
+                    19.91232,
+                    45.1772
+                ],
+                [
+                    19.91416,
+                    45.1742
+                ],
+                [
+                    19.91212,
+                    45.16991
+                ],
+                [
+                    19.91731,
+                    45.16889
+                ],
+                [
+                    19.91408,
+                    45.16689
+                ]
+            ],
+            [
+                [
+                    19.91407,
+                    45.16689
+                ],
+                [
+                    19.90837,
+                    45.16132
+                ],
+                [
+                    19.89839,
+                    45.15859
+                ],
+                [
+                    19.8981,
+                    45.15568
+                ],
+                [
+                    19.89451,
+                    45.15559
+                ],
+                [
+                    19.89771,
+                    45.15112
+                ],
+                [
+                    19.90752,
+                    45.14786
+                ],
+                [
+                    19.90663,
+                    45.14544
+                ],
+                [
+                    19.91002,
+                    45.14202
+                ],
+                [
+                    19.9035,
+                    45.13868
+                ],
+                [
+                    19.90036,
+                    45.13022
+                ],
+                [
+                    19.89398,
+                    45.13224
+                ],
+                [
+                    19.89347,
+                    45.13515
+                ],
+                [
+                    19.88801,
+                    45.13058
+                ],
+                [
+                    19.87956,
+                    45.13329
+                ],
+                [
+                    19.87639,
+                    45.13744
+                ],
+                [
+                    19.87306,
+                    45.12949
+                ],
+                [
+                    19.87202,
+                    45.13213
+                ],
+                [
+                    19.86793,
+                    45.13142
+                ],
+                [
+                    19.86775,
+                    45.13439
+                ],
+                [
+                    19.86294,
+                    45.13211
+                ],
+                [
+                    19.86306,
+                    45.13587
+                ],
+                [
+                    19.85809,
+                    45.13735
+                ],
+                [
+                    19.85281,
+                    45.12536
+                ],
+                [
+                    19.84666,
+                    45.12779
+                ]
+            ],
+            [
+                [
+                    19.84664,
+                    45.12778
+                ],
+                [
+                    19.84494,
+                    45.12325
+                ],
+                [
+                    19.83491,
+                    45.13072
+                ],
+                [
+                    19.8293,
+                    45.13165
+                ],
+                [
+                    19.81933,
+                    45.13231
+                ],
+                [
+                    19.81258,
+                    45.12957
+                ],
+                [
+                    19.80006,
+                    45.12986
+                ],
+                [
+                    19.79421,
+                    45.12498
+                ],
+                [
+                    19.78995,
+                    45.12911
+                ],
+                [
+                    19.7834,
+                    45.12698
+                ],
+                [
+                    19.78304,
+                    45.12521
+                ],
+                [
+                    19.77569,
+                    45.1252
+                ],
+                [
+                    19.77353,
+                    45.11838
+                ],
+                [
+                    19.76422,
+                    45.11883
+                ],
+                [
+                    19.75604,
+                    45.1158
+                ],
+                [
+                    19.74661,
+                    45.11668
+                ],
+                [
+                    19.74772,
+                    45.10904
+                ],
+                [
+                    19.74476,
+                    45.10912
+                ]
+            ],
+            [
+                [
+                    19.74477,
+                    45.10911
+                ],
+                [
+                    19.74282,
+                    45.11173
+                ],
+                [
+                    19.74088,
+                    45.11014
+                ],
+                [
+                    19.73552,
+                    45.12019
+                ],
+                [
+                    19.73296,
+                    45.12105
+                ],
+                [
+                    19.72676,
+                    45.11743
+                ],
+                [
+                    19.71788,
+                    45.11717
+                ],
+                [
+                    19.71091,
+                    45.11168
+                ],
+                [
+                    19.70364,
+                    45.12226
+                ],
+                [
+                    19.69323,
+                    45.13005
+                ],
+                [
+                    19.69304,
+                    45.13503
+                ],
+                [
+                    19.68572,
+                    45.13706
+                ],
+                [
+                    19.67857,
+                    45.13661
+                ],
+                [
+                    19.67345,
+                    45.13085
+                ],
+                [
+                    19.67337,
+                    45.11996
+                ],
+                [
+                    19.6724,
+                    45.11866
+                ],
+                [
+                    19.6699,
+                    45.11966
+                ],
+                [
+                    19.67304,
+                    45.1142
+                ]
+            ],
+            [
+                [
+                    19.67302,
+                    45.11421
+                ],
+                [
+                    19.6642,
+                    45.12102
+                ],
+                [
+                    19.65899,
+                    45.12245
+                ],
+                [
+                    19.65575,
+                    45.11475
+                ],
+                [
+                    19.65686,
+                    45.10867
+                ],
+                [
+                    19.65391,
+                    45.10537
+                ],
+                [
+                    19.63949,
+                    45.10462
+                ],
+                [
+                    19.63243,
+                    45.10659
+                ],
+                [
+                    19.6306,
+                    45.10393
+                ],
+                [
+                    19.61557,
+                    45.09764
+                ],
+                [
+                    19.60842,
+                    45.09782
+                ],
+                [
+                    19.60463,
+                    45.09257
+                ],
+                [
+                    19.61355,
+                    45.0929
+                ],
+                [
+                    19.61363,
+                    45.07703
+                ],
+                [
+                    19.61642,
+                    45.07348
+                ],
+                [
+                    19.61456,
+                    45.06885
+                ],
+                [
+                    19.61214,
+                    45.06944
+                ]
+            ],
+            [
+                [
+                    19.61215,
+                    45.06944
+                ],
+                [
+                    19.61173,
+                    45.06286
+                ],
+                [
+                    19.63128,
+                    45.05725
+                ],
+                [
+                    19.62156,
+                    45.04505
+                ],
+                [
+                    19.61606,
+                    45.04402
+                ],
+                [
+                    19.61419,
+                    45.00946
+                ],
+                [
+                    19.61019,
+                    44.99997
+                ],
+                [
+                    19.61065,
+                    44.977
+                ],
+                [
+                    19.60791,
+                    44.9673
+                ],
+                [
+                    19.60326,
+                    44.96658
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": [
+            "missing_elevation"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/e7-5/",
+        "canonical_url": "https://pss.rs/terenipp/e7-5/",
+        "pss_id": 3717,
+        "updated_at": "2024-12-07T21:23:51Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:50:54Z",
+        "last_synced_at": "2026-11-08T12:50:54Z"
+    },
+    "search": "novi sad - sremska mitrovica e7-5 vojvodina fruska gora borkovac pk begecka jama (park prirode), fruska gora, novi sad, petrovaradin, sremski karlovci, fruskogorski manastiri, banja vrdnik, irig, sremska mitrovica (sirmijum) laka • iz novog sada prelazimo preko dunava i ulazimo u zidine velike petrovaradinske tvrdjave koja je obelezila istoriju ovog grada kroz vekovnu borbu turske i austrougarske imperije. sa pravom je nazivaju „gibraltar na dunavu”. tvrdjava je podignuta na visokoj steni na ostacima nekadasnjeg rimskog, a zatim vizantijskog i ugarskog utvrdjenja. gradjena je od 1692. do 1780. godine. u stenovitom podzemlju izgradjena su cetiri sprata sa 16,5 kilometara podzemnih galerija, 12.000 puskarnica i 13 kapija. danas je tvrdjava turisticko srediste sa brojnim kulturnim dogadjajima. sa tvrdjave se pruza izvanredan vidik prema gradu i obalama dunava. • iz petrovaradina put e7 ide padinama desne obale dunava pored istorijski zanimljive crkve marije snezne na cijem tornju se nalaze hriscanski krst i muhamedanski polumesec, kao obelezje borbe za prevlast i konacne pobede nad turskom imperijom. odavde put se penje na brdo vezirac (194 m/nv) na kome je 1716. go dine odrzana istorijska petrovaradinska bitka izmedju austrijske vojske pod komandom eugena savojskog sa brojnim jedinicama u kojima su bili srbi i vojske turske imperije. • pobedom austrijske vojske turska je konacno udaljena od granica austrougarske. • nastavljajuci putem dolazimo do barokne varosice sremski karlovci koja je bila srpski kulturni centar i duhovna prestonica za vreme turske okupacije srbije. u centru varosice nalaze se izvanredne barokne gradjevine, saborna crkva svetog nikole. patrijarsijski dvor, эgrada najstarije gimnazije u srbiji. ceo kraj obiluje vinogradima a u gradu se nalaze proizvodjaci kvalitetnih vina. preko puta, na levoj obali dunava, se nalazi prostrani specijalni rezervat prirode koviljsko-petrovaradinski rit. to je plavno podrucje reke dunav sa ritovima, adama i vlaznim livadama. u njemu se nalazi znacajno s",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:50:54Z"
+    }
+}

@@ -1,0 +1,195 @@
+{
+    "schema_version": 1,
+    "slug": "13405",
+    "name": "Sokobanja - Ripaljka - Jermenčić",
+    "code": "4-33-8",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 13405,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            74
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Ozren",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 9.6,
+        "calculated_km": 9.64
+    },
+    "duration": {
+        "official_minutes": 240,
+        "official_text": "4 h",
+        "official_raw": "4:00"
+    },
+    "elevation": {
+        "official_gain_m": 384.0,
+        "official_loss_m": 384.0,
+        "calculated_gain_m": 372.4,
+        "calculated_loss_m": 371.4,
+        "min_m": 335.4,
+        "max_m": 669.0
+    },
+    "start": "Grudonjske vodenice, 336 m",
+    "end": "Grudonjske vodenice, 336 m",
+    "description": "Staza polazi od Grudonjskih vodenica u Gradišnici (deo Sokobanje). Ide uzvodno pored reke Gradišnice, izlazi na kolski put pored Belih voda i dolazi do slapa Ripaljka. Zatim, ide kolskim putem, prema manastiru Jermenčić. Povratak ide pored Čučunjskog potoka kroz bukovu šumu. Zatim se odvaja i po približnoj izohipsi oko brda Koviljača i spušta se do Grudonjskih vodenica.",
+    "landmarks": "• Grudonjske vodenice, vodopad Ripaljka, manastir Jermenčić\n\n • Na trasi ima izvota pitke vode\n\n • Naselje: Sokobanja\n\n • Smeštaj: kamp, odmaralište, privatni smeštaj",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu su trasirali marta 2015. članovi PK \"Ozren\" Sokobanja (Dragan Knežević, Nebojša Mitić, Ilija Knežević)\n\n • Poslednji put staza je markirana 2020. godine",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Ozren PK",
+        "url": "https://pss.rs/adresar_klubova/ozren-pk/",
+        "contact": "Alekse Markišića 28/3 18230 Sokobanja (poštanski fah 63)\n+38164 855 33 61",
+        "clubs": [
+            {
+                "name": "Ozren PK",
+                "url": "https://pss.rs/adresar_klubova/ozren-pk/",
+                "contact": "Alekse Markišića 28/3 18230 Sokobanja (poštanski fah 63)\n+38164 855 33 61"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2021/03/4-33-8-Sokobanja-Ripaljka-Jermencic.gpx",
+        "fetched_at": "2026-11-08T12:01:58Z",
+        "checked_at": "2026-11-08T12:01:58Z",
+        "bytes": 98058,
+        "sha256": "42aeead824355a488a96f30a50ec7253fc15dac4cca7e6df49ed227bdf7dd696",
+        "etag": null,
+        "last_modified": "Wed, 31 Mar 2021 14:18:54 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 572,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 9,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2021/03/4-33-8-Sokobanja-Ripaljka-Jermencic.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/13405.geojson",
+        "bbox": [
+            21.83114700950682,
+            43.61817696131766,
+            21.854598987847567,
+            43.6407879833132
+        ],
+        "center": [
+            21.842873,
+            43.629482
+        ],
+        "start_point": [
+            21.852881032973528,
+            43.64067600108683
+        ],
+        "end_point": [
+            21.852830993011594,
+            43.6407190002501
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    21.85288,
+                    43.64068
+                ],
+                [
+                    21.85066,
+                    43.6292
+                ],
+                [
+                    21.85395,
+                    43.62663
+                ],
+                [
+                    21.85396,
+                    43.62031
+                ],
+                [
+                    21.84171,
+                    43.62317
+                ],
+                [
+                    21.83733,
+                    43.62243
+                ],
+                [
+                    21.83622,
+                    43.61822
+                ],
+                [
+                    21.83353,
+                    43.6209
+                ],
+                [
+                    21.83178,
+                    43.61871
+                ],
+                [
+                    21.83328,
+                    43.62105
+                ],
+                [
+                    21.83624,
+                    43.61987
+                ],
+                [
+                    21.83729,
+                    43.63368
+                ],
+                [
+                    21.84525,
+                    43.63492
+                ],
+                [
+                    21.85283,
+                    43.64072
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/13405/",
+        "canonical_url": "https://pss.rs/terenipp/13405/",
+        "pss_id": 13405,
+        "updated_at": "2021-03-31T14:20:12Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:01:59Z",
+        "last_synced_at": "2026-11-08T12:01:59Z"
+    },
+    "search": "sokobanja - ripaljka - jermencic 4-33-8 istocna srbija ozren grudonjske vodenice, 336 m grudonjske vodenice, 336 m ozren pk • grudonjske vodenice, vodopad ripaljka, manastir jermencic • na trasi ima izvota pitke vode • naselje: sokobanja • smestaj: kamp, odmaraliste, privatni smestaj laka staza polazi od grudonjskih vodenica u gradisnici (deo sokobanje). ide uzvodno pored reke gradisnice, izlazi na kolski put pored belih voda i dolazi do slapa ripaljka. zatim, ide kolskim putem, prema manastiru jermencic. povratak ide pored cucunjskog potoka kroz bukovu sumu. zatim se odvaja i po pribliznoj izohipsi oko brda koviljaca i spusta se do grudonjskih vodenica.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:01:59Z"
+    }
+}

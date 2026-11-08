@@ -1,0 +1,247 @@
+{
+    "schema_version": 1,
+    "slug": "kragujevacka-planinarska-staza-zezelj-besnjaja",
+    "name": "Kragujevačka planinarska staza Žeželj-Bešnjaja",
+    "code": "2-15-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 8292,
+        "category_id": 28,
+        "region_ids": [
+            2
+        ],
+        "mountain_ids": [
+            124
+        ]
+    },
+    "region": "Šumadija",
+    "mountain": "Bešnjaja",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 19.1,
+        "calculated_km": 19.05
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": "6:00 - 7:00",
+        "official_raw": "6:00 - 7:00"
+    },
+    "elevation": {
+        "official_gain_m": 773.0,
+        "official_loss_m": 696.0,
+        "calculated_gain_m": 749.9,
+        "calculated_loss_m": 670.4,
+        "min_m": 219.0,
+        "max_m": 569.5
+    },
+    "start": "Naselje Ždralica, vodopad Buk, podnožje Žeželja, 224m",
+    "end": "Selo Bukorovac, seoska vodenica (autobuska okretnica), 301m",
+    "description": "• \"Kragujevačka planinarska staza Žeželj-Bešnjaja\" počinje u selu Ždraljica ispred ugostiteljskog objekta \"Medna\" - popularno nazvanog po vlasnici i \"Marina kafana\". Prati put za staro selo Ždraljica u dužini od stotinak metara i skreće sa tog puta desno u Duboki potok, pokraj \"Ćosićkog izvora\".\n\n • Na stotinak metara iznad izvora i stoletne bukve staza vodi pokraj vodopada \"Buk\", ispred kog su planinari PEK \"Gora\" izgradili platformu za razgledanje. Staza dalje vodi grebenom kroz pojas stoletne bukove šume i proplancima sve do vrha Žeželj (486m) sa kog se pruža pogled na grad Kragujevac, dolinu reke Ždraljice i horizont Gledićkih planina. Sa Žeželja staza vodi do zaseoka Srednja mala - Donja Sabanta do stoletnog zapisa, ispod kog su postavljeni sto i klupe za odmor. Dalji put nas vodi opet do jednog zapisa, ovog puta iznad kuća u Gornjoj mali - Bukorovac, odakle se opet pruža lep pogled na Kragujevac i okolne visove iznad njega. Od zapisa sledi spust do ušća Mamutovačkog potoka u reku Osanicu. Iz tog podnožja sledi uspon ka vrhu Cerjak (507m), do poteza zvanog Prlić, sa kog se opet pružaju lepi pogledi u daljinu. Dalje se prolazi ispod vrha Lisin Laz (613m). Od Šumske kuće ispod Lisinog Laza put se blago spušta i prolazi iznad izvora \"Đurina česma\", onda se preko kose Veliko brdo izbija na greben Bešnjaje kod objekta Srbija šume.\n\n • Grebenom Bešnjaje nastavlja se u pravcu severa ka zaseoku Drenak - Gornje Komarice. Na kilometar ispred skretanja za Drenak skreće se levo i spušta u Gigovski potok, koji vodi u pravcu Donje male - Bukorovac. Sledi kraći uspon do prvih kuća u podnožju zaseoka Drenak, pa ponovni i konačni spust u Donju malu - Bukorovac, do \"Momčilove vodenice\".\n\n • Preporučuje se prevoz do startne pozicije, gradskim prevozom, na liniji br. 2, Petrovac - Žraljica. Autobus prolazi kroz centar grada ulicom Nikole Pašića, potom ulicom 27. marta, pa ulicom Lepenički bulevar. Prelazi stari donji most na Lepenici. Dalje ide kroz naselje Pivara i Beloševac do Ždraljice. Za povratak iz Bukorovca preporučuje se gradski prevoz, na liniji br. 601, Bukorovac - Ćiftina ćuprija.",
+    "landmarks": "• Vidikovci: kota 482m (drugi vrh Žeželja), zapis u Gornjoj mali, livada ispod Lisinog Laza, livada ispod Meteo stanice.\n\n • Na trasi ima 4 izvora pitke vode: Ćosića izvor, Đurina česma, izvor kod odmarališta, seoska česma kod okretnice (na cilju).\n\n • Na trasi nema smeštajnih objekata.",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu su trasirali planinari PEK \"Gora\" 2008. godine. \n\n • Poslednji put staza je markirana 2009. godine.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Gora PEK",
+        "url": "https://pss.rs/adresar_klubova/gora-pek/",
+        "contact": "Nikole Pašića 2., 34000 Kragujevac\n060 32 41 049\nhttp://www.pekgora.org/",
+        "clubs": [
+            {
+                "name": "Gora PEK",
+                "url": "https://pss.rs/adresar_klubova/gora-pek/",
+                "contact": "Nikole Pašića 2., 34000 Kragujevac\n060 32 41 049\nhttp://www.pekgora.org/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2019/02/2-15-1-Zezelj-Besnjaja.gpx",
+        "fetched_at": "2026-11-08T11:59:55Z",
+        "checked_at": "2026-11-08T11:59:55Z",
+        "bytes": 179035,
+        "sha256": "d1313b2e87a3de173c516b15fb6228fc7feca02774162086019d70098a676d52",
+        "etag": null,
+        "last_modified": "Tue, 12 Feb 2019 13:43:58 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 1446,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 19,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2019/02/2-15-1-Zezelj-Besnjaja.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/kragujevacka-planinarska-staza-zezelj-besnjaja.geojson",
+        "bbox": [
+            20.937970988452435,
+            43.966957004740834,
+            21.050421008840203,
+            44.00704597122967
+        ],
+        "center": [
+            20.994196,
+            43.987001
+        ],
+        "start_point": [
+            20.938058998435736,
+            43.97261403501034
+        ],
+        "end_point": [
+            21.01666498929262,
+            44.00373796932399
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    20.93806,
+                    43.97261
+                ],
+                [
+                    20.94261,
+                    43.9736
+                ],
+                [
+                    20.95271,
+                    43.96743
+                ],
+                [
+                    20.95787,
+                    43.96697
+                ],
+                [
+                    20.95761,
+                    43.97056
+                ],
+                [
+                    20.96191,
+                    43.97118
+                ],
+                [
+                    20.96688,
+                    43.96825
+                ],
+                [
+                    20.9766,
+                    43.96971
+                ],
+                [
+                    20.98475,
+                    43.97381
+                ],
+                [
+                    20.98578,
+                    43.97651
+                ],
+                [
+                    20.98883,
+                    43.97099
+                ],
+                [
+                    20.99432,
+                    43.96996
+                ],
+                [
+                    21.00446,
+                    43.97197
+                ],
+                [
+                    21.01114,
+                    43.97034
+                ],
+                [
+                    21.01464,
+                    43.97325
+                ],
+                [
+                    21.02005,
+                    43.97415
+                ],
+                [
+                    21.02508,
+                    43.98179
+                ],
+                [
+                    21.03193,
+                    43.98286
+                ],
+                [
+                    21.03225,
+                    43.9841
+                ],
+                [
+                    21.02988,
+                    43.98349
+                ],
+                [
+                    21.03362,
+                    43.98521
+                ],
+                [
+                    21.03681,
+                    43.99161
+                ],
+                [
+                    21.05042,
+                    43.99187
+                ],
+                [
+                    21.04831,
+                    44.00465
+                ],
+                [
+                    21.03924,
+                    44.00342
+                ],
+                [
+                    21.03271,
+                    44.00705
+                ],
+                [
+                    21.01666,
+                    44.00374
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/kragujevacka-planinarska-staza-zezelj-besnjaja/",
+        "canonical_url": "https://pss.rs/terenipp/kragujevacka-planinarska-staza-zezelj-besnjaja/",
+        "pss_id": 8292,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:59:56Z",
+        "last_synced_at": "2026-11-08T11:59:56Z"
+    },
+    "search": "kragujevacka planinarska staza zezelj-besnjaja 2-15-1 sumadija besnjaja naselje zdralica, vodopad buk, podnozje zezelja, 224m selo bukorovac, seoska vodenica (autobuska okretnica), 301m gora pek • vidikovci: kota 482m (drugi vrh zezelja), zapis u gornjoj mali, livada ispod lisinog laza, livada ispod meteo stanice. • na trasi ima 4 izvora pitke vode: cosica izvor, djurina cesma, izvor kod odmaralista, seoska cesma kod okretnice (na cilju). • na trasi nema smestajnih objekata. laka • \"kragujevacka planinarska staza zezelj-besnjaja\" pocinje u selu zdraljica ispred ugostiteljskog objekta \"medna\" - popularno nazvanog po vlasnici i \"marina kafana\". prati put za staro selo zdraljica u duzini od stotinak metara i skrece sa tog puta desno u duboki potok, pokraj \"cosickog izvora\". • na stotinak metara iznad izvora i stoletne bukve staza vodi pokraj vodopada \"buk\", ispred kog su planinari pek \"gora\" izgradili platformu za razgledanje. staza dalje vodi grebenom kroz pojas stoletne bukove sume i proplancima sve do vrha zezelj (486m) sa kog se pruza pogled na grad kragujevac, dolinu reke zdraljice i horizont gledickih planina. sa zezelja staza vodi do zaseoka srednja mala - donja sabanta do stoletnog zapisa, ispod kog su postavljeni sto i klupe za odmor. dalji put nas vodi opet do jednog zapisa, ovog puta iznad kuca u gornjoj mali - bukorovac, odakle se opet pruza lep pogled na kragujevac i okolne visove iznad njega. od zapisa sledi spust do usca mamutovackog potoka u reku osanicu. iz tog podnozja sledi uspon ka vrhu cerjak (507m), do poteza zvanog prlic, sa kog se opet pruzaju lepi pogledi u daljinu. dalje se prolazi ispod vrha lisin laz (613m). od sumske kuce ispod lisinog laza put se blago spusta i prolazi iznad izvora \"djurina cesma\", onda se preko kose veliko brdo izbija na greben besnjaje kod objekta srbija sume. • grebenom besnjaje nastavlja se u pravcu severa ka zaseoku drenak - gornje komarice. na kilometar ispred skretanja za drenak skrece se levo i spusta u gigovski potok, koji vodi u pravcu donje male - bukorovac. sledi kraci uspon do prvih kuca u podnozju zaseoka drenak, pa ponovni i konacni spust u donju malu - bukorovac, do \"momcilove vodenice\". • preporucuje se prevoz do startne pozicije, gradskim prevozom, na liniji br. 2, petrovac - zra",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:59:56Z"
+    }
+}

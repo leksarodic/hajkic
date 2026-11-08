@@ -1,0 +1,207 @@
+{
+    "schema_version": 1,
+    "slug": "maljica",
+    "name": "Maljica",
+    "code": "4-31-11",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 8214,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            57
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Devica",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 12.3,
+        "calculated_km": 12.24
+    },
+    "duration": {
+        "official_minutes": 240,
+        "official_text": "4 h",
+        "official_raw": "4:00"
+    },
+    "elevation": {
+        "official_gain_m": 505.0,
+        "official_loss_m": 494.0,
+        "calculated_gain_m": 493.3,
+        "calculated_loss_m": 492.4,
+        "min_m": 735.8,
+        "max_m": 1149.2
+    },
+    "start": "Selo Novo Selo. 750m",
+    "end": "Radenkovac, 738m",
+    "description": "• Staza koristi poljske i šumske puteve (početni kilometar), na drugom kilometru (Ravniše) se izlazi na krečnjačku visoravan i do vrha Maljica je kamena podloga. Sa vrha se pruža pogled ka celoj južnoj Srbiji (Suva planina, Svrljiške planine, Ostrozub, Radan, Veliki Jastrebac) i istočnoj Srbiji (Tupižnica, Borski stol, Stara planina...)\n\n • Spaja sledeće staze/puteve: Kalinovica - Čapljinac - Radenkovac, i Novo Selo - Krst - Radenkovac",
+    "landmarks": "• Vidikovci: ima, uključujući i sam vrh\n\n • Na stazi ima izvora pitke vode: Novoselska česma, Velkova slama, Gabar\n\n • Na stazi nema smeštajnih objekata",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu su trasirali Milan Dikulić, Milan Jekić, Ana Rodman, Marija Krstić i Mladen Antić\n\n • Poslednji put staza je markirana novembra 2018. godine",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Oštra čuka PD",
+        "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+        "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/",
+        "clubs": [
+            {
+                "name": "Oštra čuka PD",
+                "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+                "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2019/01/4-31-11-Maljica.gpx",
+        "fetched_at": "2026-11-08T11:59:50Z",
+        "checked_at": "2026-11-08T11:59:50Z",
+        "bytes": 92189,
+        "sha256": "5ae022700878cdc3905f5532dabca9b8dd0dcf1d3e2e02d817857d09e44ca473",
+        "etag": null,
+        "last_modified": "Thu, 24 Jan 2019 11:09:38 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 755,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 7,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2019/01/4-31-11-Maljica.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/maljica.geojson",
+        "bbox": [
+            21.92162672057748,
+            43.547824043780565,
+            21.9540096167475,
+            43.590661101043224
+        ],
+        "center": [
+            21.937818,
+            43.569243
+        ],
+        "start_point": [
+            21.92162672057748,
+            43.56572770513594
+        ],
+        "end_point": [
+            21.92842695862055,
+            43.547934517264366
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.92163,
+                    43.56573
+                ],
+                [
+                    21.92526,
+                    43.56683
+                ],
+                [
+                    21.93169,
+                    43.56532
+                ],
+                [
+                    21.94067,
+                    43.56885
+                ],
+                [
+                    21.94257,
+                    43.57382
+                ],
+                [
+                    21.93974,
+                    43.577
+                ],
+                [
+                    21.94119,
+                    43.58869
+                ],
+                [
+                    21.9535,
+                    43.59063
+                ],
+                [
+                    21.95227,
+                    43.5738
+                ],
+                [
+                    21.94578,
+                    43.57359
+                ],
+                [
+                    21.94194,
+                    43.57116
+                ],
+                [
+                    21.94081,
+                    43.56899
+                ],
+                [
+                    21.94587,
+                    43.5639
+                ],
+                [
+                    21.93894,
+                    43.55834
+                ],
+                [
+                    21.93663,
+                    43.55313
+                ],
+                [
+                    21.93011,
+                    43.55235
+                ],
+                [
+                    21.92843,
+                    43.54793
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/maljica/",
+        "canonical_url": "https://pss.rs/terenipp/maljica/",
+        "pss_id": 8214,
+        "updated_at": "2019-01-24T11:13:06Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:59:50Z",
+        "last_synced_at": "2026-11-08T11:59:50Z"
+    },
+    "search": "maljica 4-31-11 istocna srbija devica selo novo selo. 750m radenkovac, 738m ostra cuka pd • vidikovci: ima, ukljucujuci i sam vrh • na stazi ima izvora pitke vode: novoselska cesma, velkova slama, gabar • na stazi nema smestajnih objekata zahtevna • staza koristi poljske i sumske puteve (pocetni kilometar), na drugom kilometru (ravnise) se izlazi na krecnjacku visoravan i do vrha maljica je kamena podloga. sa vrha se pruza pogled ka celoj juznoj srbiji (suva planina, svrljiske planine, ostrozub, radan, veliki jastrebac) i istocnoj srbiji (tupiznica, borski stol, stara planina...) • spaja sledece staze/puteve: kalinovica - capljinac - radenkovac, i novo selo - krst - radenkovac",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:59:50Z"
+    }
+}

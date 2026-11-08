@@ -1,0 +1,225 @@
+{
+    "schema_version": 1,
+    "slug": "staza-br-14-manastir-uvac-krvavac",
+    "name": "Staza br. 14: Manastir Uvac - Krvavac",
+    "code": "5-12-4",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 18979,
+        "category_id": 28,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            122
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Zlatibor",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 10.3,
+        "calculated_km": 10.26
+    },
+    "duration": {
+        "official_minutes": 315,
+        "official_text": "5 h 15 min",
+        "official_raw": "5:15"
+    },
+    "elevation": {
+        "official_gain_m": 710.0,
+        "official_loss_m": 710.0,
+        "calculated_gain_m": 750.4,
+        "calculated_loss_m": 748.8,
+        "min_m": 505.3,
+        "max_m": 1186.9
+    },
+    "start": "Kolijevka 1060 m",
+    "end": "Kolijevka 1060 m",
+    "description": "Kolijevka - zaseok Lazarevići (0,5 km) - manastir Uvac (4,4 km) - zaseok Didanovići (5,2 km) - Lekića livade (7,2 km) - planinarski dom \"Aleksandar Džavović\" (8,4 km) - vrh Zakopina (8,5 km) - Kolijevka (10,3 km)",
+    "landmarks": "Manastir Uvac, planinarski dom \"Aleksandar Džavović\", vrh Zakopina (1186 m), vidikovci Kolijevka i Lekića livade",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Izgradnju staze je finansiralo JP \"Srbijašume\" Beograd\n\nStazu je trasirao Despota Džavović.",
+    "map_reference": null,
+    "map_sheet": "1:50000 Titovo Užice 3 (528-3)",
+    "club": {
+        "name": "Aleksandar Džavović PD",
+        "url": "https://pss.rs/adresar_klubova/aleksandar-dzavovic-pk/",
+        "contact": "Solunskih ratnika 10\n+381643268660",
+        "clubs": [
+            {
+                "name": "Aleksandar Džavović PD",
+                "url": "https://pss.rs/adresar_klubova/aleksandar-dzavovic-pk/",
+                "contact": "Solunskih ratnika 10\n+381643268660"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 8,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2023/03/Staza-14-Man-Uvac-Krvavac-1.gpx",
+        "fetched_at": "2026-11-08T12:02:43Z",
+        "checked_at": "2026-11-08T12:02:43Z",
+        "bytes": 118842,
+        "sha256": "b5e3d1632a19eda89a47a12b625f4122fdf33cd18ef69cba1694e658d0e5cfc2",
+        "etag": null,
+        "last_modified": "Sat, 11 Mar 2023 20:43:31 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 1085,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 10,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2023/03/Staza-14-Man-Uvac-Krvavac-1.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/staza-br-14-manastir-uvac-krvavac.geojson",
+        "bbox": [
+            19.578381199,
+            43.611843092,
+            19.604057903,
+            43.63447582
+        ],
+        "center": [
+            19.59122,
+            43.623159
+        ],
+        "start_point": [
+            19.600614548,
+            43.629077911
+        ],
+        "end_point": [
+            19.600576401,
+            43.629123688
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    19.60061,
+                    43.62908
+                ],
+                [
+                    19.60365,
+                    43.6288
+                ],
+                [
+                    19.60397,
+                    43.62556
+                ],
+                [
+                    19.60197,
+                    43.6272
+                ],
+                [
+                    19.59752,
+                    43.62624
+                ],
+                [
+                    19.59898,
+                    43.62378
+                ],
+                [
+                    19.59687,
+                    43.61634
+                ],
+                [
+                    19.58764,
+                    43.61585
+                ],
+                [
+                    19.591,
+                    43.61321
+                ],
+                [
+                    19.58798,
+                    43.61184
+                ],
+                [
+                    19.58109,
+                    43.61404
+                ],
+                [
+                    19.58431,
+                    43.61839
+                ],
+                [
+                    19.5825,
+                    43.61773
+                ],
+                [
+                    19.57838,
+                    43.62282
+                ],
+                [
+                    19.5831,
+                    43.62726
+                ],
+                [
+                    19.5836,
+                    43.63326
+                ],
+                [
+                    19.58753,
+                    43.63446
+                ],
+                [
+                    19.59038,
+                    43.6319
+                ],
+                [
+                    19.60058,
+                    43.62912
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/staza-br-14-manastir-uvac-krvavac/",
+        "canonical_url": "https://pss.rs/terenipp/staza-br-14-manastir-uvac-krvavac/",
+        "pss_id": 18979,
+        "updated_at": "2023-03-18T11:14:40Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:02:43Z",
+        "last_synced_at": "2026-11-08T12:02:43Z"
+    },
+    "search": "staza br. 14: manastir uvac - krvavac 5-12-4 jugozapadna srbija zlatibor kolijevka 1060 m kolijevka 1060 m aleksandar dzavovic pd manastir uvac, planinarski dom \"aleksandar dzavovic\", vrh zakopina (1186 m), vidikovci kolijevka i lekica livade zahtevna kolijevka - zaseok lazarevici (0,5 km) - manastir uvac (4,4 km) - zaseok didanovici (5,2 km) - lekica livade (7,2 km) - planinarski dom \"aleksandar dzavovic\" (8,4 km) - vrh zakopina (8,5 km) - kolijevka (10,3 km)",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:02:43Z"
+    }
+}

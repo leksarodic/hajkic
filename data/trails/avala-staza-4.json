@@ -1,0 +1,167 @@
+{
+    "schema_version": 1,
+    "slug": "avala-staza-4",
+    "name": "Avala, staza 4",
+    "code": "2-3-5",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 12294,
+        "category_id": 28,
+        "region_ids": [
+            2
+        ],
+        "mountain_ids": [
+            47
+        ]
+    },
+    "region": "Šumadija",
+    "mountain": "Avala",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 3.78,
+        "calculated_km": 3.75
+    },
+    "duration": {
+        "official_minutes": 120,
+        "official_text": "2 h",
+        "official_raw": "2:00"
+    },
+    "elevation": {
+        "official_gain_m": 369.0,
+        "official_loss_m": 103.0,
+        "calculated_gain_m": 232.1,
+        "calculated_loss_m": 52.8,
+        "min_m": 220.8,
+        "max_m": 507.2
+    },
+    "start": "Autobuska stanica \"Beli Potok Centar\", 233 m",
+    "end": "Spomenik Neznanom junaku na vrhu Avale, 506 m",
+    "description": "Staza 4 spaja sledeće staze: stazu 2, stazu 3, stazu 5 i stazu 6.",
+    "landmarks": "• Spomenik Vasi Čarapiću\n\n • Planinarski kuća \"Avala\"\n\n • Planinarski dom \"Čarapićev brest\"\n\n • Česma Ladna voda\n\n • Rimski rudnik\n\n • Spomenik Neznanom junaku\n\n • Vidikovac: vrh Avale",
+    "maintenance": "odlično uređena",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinarski dom \"Čarapićev Brest\"",
+    "notes": "• Stazu je trasirao Dragan Dimitrijević, oktobra 2020. godine.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Avala PD",
+        "url": "https://pss.rs/adresar_klubova/psk-avala/",
+        "contact": "Murska 14, 11000 Beograd\n+38111 386 00 64 ; +38160 04 28 252, \nhttp://www.avala.club/",
+        "clubs": [
+            {
+                "name": "Avala PD",
+                "url": "https://pss.rs/adresar_klubova/psk-avala/",
+                "contact": "Murska 14, 11000 Beograd\n+38111 386 00 64 ; +38160 04 28 252, \nhttp://www.avala.club/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2020/10/2-3-5-Avala-staza-4.gpx",
+        "fetched_at": "2026-11-08T12:01:16Z",
+        "checked_at": "2026-11-08T12:01:16Z",
+        "bytes": 65510,
+        "sha256": "265c5f7878b73f37b44f311f72e399c0f1482e8bd2fff3a7282e8a155b815fe3",
+        "etag": null,
+        "last_modified": "Wed, 21 Oct 2020 13:36:44 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 384,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 11,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2020/10/2-3-5-Avala-staza-4.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/avala-staza-4.geojson",
+        "bbox": [
+            20.51611801609397,
+            44.68829797580838,
+            20.52555302157998,
+            44.70532497391105
+        ],
+        "center": [
+            20.520836,
+            44.696811
+        ],
+        "start_point": [
+            20.518688997253776,
+            44.70532497391105
+        ],
+        "end_point": [
+            20.51611801609397,
+            44.68896299600601
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    20.51869,
+                    44.70532
+                ],
+                [
+                    20.52495,
+                    44.69819
+                ],
+                [
+                    20.51926,
+                    44.69244
+                ],
+                [
+                    20.52555,
+                    44.68968
+                ],
+                [
+                    20.52022,
+                    44.69059
+                ],
+                [
+                    20.51913,
+                    44.68852
+                ],
+                [
+                    20.51612,
+                    44.68896
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/avala-staza-4/",
+        "canonical_url": "https://pss.rs/terenipp/avala-staza-4/",
+        "pss_id": 12294,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:01:17Z",
+        "last_synced_at": "2026-11-08T12:01:17Z"
+    },
+    "search": "avala, staza 4 2-3-5 sumadija avala autobuska stanica \"beli potok centar\", 233 m spomenik neznanom junaku na vrhu avale, 506 m avala pd • spomenik vasi carapicu • planinarski kuca \"avala\" • planinarski dom \"carapicev brest\" • cesma ladna voda • rimski rudnik • spomenik neznanom junaku • vidikovac: vrh avale laka staza 4 spaja sledece staze: stazu 2, stazu 3, stazu 5 i stazu 6.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:01:17Z"
+    }
+}

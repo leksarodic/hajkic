@@ -1,0 +1,227 @@
+{
+    "schema_version": 1,
+    "slug": "arandjelovac-bukulja-garasko-jezero-bukulja-arandjelovac",
+    "name": "Aranđelovac - Bukulja - Garaško jezero - Bukulja - Aranđelovac",
+    "code": "2-5-6",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 8923,
+        "category_id": 28,
+        "region_ids": [
+            2
+        ],
+        "mountain_ids": [
+            86
+        ]
+    },
+    "region": "Šumadija",
+    "mountain": "Bukulja",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 18.7,
+        "calculated_km": 18.58
+    },
+    "duration": {
+        "official_minutes": 410,
+        "official_text": "6 h 50 min",
+        "official_raw": "6:50"
+    },
+    "elevation": {
+        "official_gain_m": 1114.0,
+        "official_loss_m": 1114.0,
+        "calculated_gain_m": 901.9,
+        "calculated_loss_m": 901.1,
+        "min_m": 255.4,
+        "max_m": 688.3
+    },
+    "start": "Bukovički park u Aranđelovcu, 255m",
+    "end": "Bukovički park u Aranđelovcu, 255m",
+    "description": "• Iz aranđelovačkog parka kroz prijatne uličice na obodu grada dolazimo na početak \"Staze zdravlja\" i sledimo je uzbrdo do vrha Bukulje. (Ovo je i najteži deo rute.)\n\n • Posle predaha i obaveznog uspona na osmatračnicu, ulazimo u šumski predeo na zapadu planine pa se, najpre makadamom a onda zemljanim puteljkom, lagano spuštamo do Garaškog jezera.\n\n • Od jezera nas očekuje dug uspon po makadamu i zemljanom puteljku nazad na Bukulju. Sa vrha se Stazom zdravlja ponovo spuštamo u grad.",
+    "landmarks": "• Park Bukovičke banje\n\n • Bukulja\n\n • Garaško jezero",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinarska kuća PD \"Bukulja\"",
+    "notes": "• Stazu su trasirali Aca Milinković i Jovan Eraković oktobra 2018.god.\n\n • Poslednji put staza je markirana marta 2019.god.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Bukulja PD",
+        "url": "https://pss.rs/adresar_klubova/bukulja-pd/",
+        "contact": "Knjaza Miloša 69, 34300 Aranđelovac\n060 141 65 75",
+        "clubs": [
+            {
+                "name": "Bukulja PD",
+                "url": "https://pss.rs/adresar_klubova/bukulja-pd/",
+                "contact": "Knjaza Miloša 69, 34300 Aranđelovac\n060 141 65 75"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2019/05/2-5-6-Bukulja-Garasko-jezero.gpx",
+        "fetched_at": "2026-11-08T12:00:14Z",
+        "checked_at": "2026-11-08T12:00:14Z",
+        "bytes": 665348,
+        "sha256": "3c3303e1eeb13431c5c422d8a1a498fabe55e4dcd3075451128f6e71c142bbfe",
+        "etag": null,
+        "last_modified": "Fri, 10 May 2019 12:22:28 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 4057,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 19,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2019/05/2-5-6-Bukulja-Garasko-jezero.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/arandjelovac-bukulja-garasko-jezero-bukulja-arandjelovac.geojson",
+        "bbox": [
+            20.48513699322939,
+            44.28359001874924,
+            20.55024200119078,
+            44.30772696621716
+        ],
+        "center": [
+            20.517689,
+            44.295658
+        ],
+        "start_point": [
+            20.550146028399467,
+            44.30772503837943
+        ],
+        "end_point": [
+            20.550146028399467,
+            44.30772696621716
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    20.55015,
+                    44.30773
+                ],
+                [
+                    20.54589,
+                    44.30288
+                ],
+                [
+                    20.53538,
+                    44.30272
+                ],
+                [
+                    20.53118,
+                    44.30061
+                ],
+                [
+                    20.53017,
+                    44.29445
+                ],
+                [
+                    20.52716,
+                    44.29519
+                ],
+                [
+                    20.52391,
+                    44.29023
+                ],
+                [
+                    20.5148,
+                    44.29088
+                ],
+                [
+                    20.50522,
+                    44.28432
+                ],
+                [
+                    20.48795,
+                    44.28387
+                ],
+                [
+                    20.48517,
+                    44.28584
+                ],
+                [
+                    20.49077,
+                    44.28829
+                ],
+                [
+                    20.48927,
+                    44.28965
+                ],
+                [
+                    20.51487,
+                    44.29737
+                ],
+                [
+                    20.51843,
+                    44.30078
+                ],
+                [
+                    20.52211,
+                    44.30018
+                ],
+                [
+                    20.52257,
+                    44.29721
+                ],
+                [
+                    20.52638,
+                    44.29775
+                ],
+                [
+                    20.52938,
+                    44.29574
+                ],
+                [
+                    20.53423,
+                    44.30251
+                ],
+                [
+                    20.54589,
+                    44.30288
+                ],
+                [
+                    20.55015,
+                    44.30773
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/arandjelovac-bukulja-garasko-jezero-bukulja-arandjelovac/",
+        "canonical_url": "https://pss.rs/terenipp/arandjelovac-bukulja-garasko-jezero-bukulja-arandjelovac/",
+        "pss_id": 8923,
+        "updated_at": "2019-05-10T12:22:39Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:00:15Z",
+        "last_synced_at": "2026-11-08T12:00:15Z"
+    },
+    "search": "arandjelovac - bukulja - garasko jezero - bukulja - arandjelovac 2-5-6 sumadija bukulja bukovicki park u arandjelovcu, 255m bukovicki park u arandjelovcu, 255m bukulja pd • park bukovicke banje • bukulja • garasko jezero zahtevna • iz arandjelovackog parka kroz prijatne ulicice na obodu grada dolazimo na pocetak \"staze zdravlja\" i sledimo je uzbrdo do vrha bukulje. (ovo je i najtezi deo rute.) • posle predaha i obaveznog uspona na osmatracnicu, ulazimo u sumski predeo na zapadu planine pa se, najpre makadamom a onda zemljanim puteljkom, lagano spustamo do garaskog jezera. • od jezera nas ocekuje dug uspon po makadamu i zemljanom puteljku nazad na bukulju. sa vrha se stazom zdravlja ponovo spustamo u grad.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:00:15Z"
+    }
+}

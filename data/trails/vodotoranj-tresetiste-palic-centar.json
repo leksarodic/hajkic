@@ -1,0 +1,209 @@
+{
+    "schema_version": 1,
+    "slug": "vodotoranj-tresetiste-palic-centar",
+    "name": "Vodotoranj-Tresetište-Palić centar",
+    "code": "1-1-2",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 12024,
+        "category_id": 28,
+        "region_ids": [
+            1
+        ],
+        "mountain_ids": [
+            35
+        ]
+    },
+    "region": "Vojvodina",
+    "mountain": "Palićko jezero",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 13.3,
+        "calculated_km": 13.26
+    },
+    "duration": {
+        "official_minutes": 270,
+        "official_text": "4 h 30 min",
+        "official_raw": "4:30"
+    },
+    "elevation": {
+        "official_gain_m": 25.0,
+        "official_loss_m": 25.0,
+        "calculated_gain_m": 103.2,
+        "calculated_loss_m": 80.6,
+        "min_m": 17.9,
+        "max_m": 129.0
+    },
+    "start": "Vodotoranj Palić, 108 m",
+    "end": "Palić centar, semafor, 108 m",
+    "description": null,
+    "landmarks": "• Subotička peščara\n\n • Jezera Tesetišta\n\n • Palićko jezero\n\n • Park Narodnih heroja, Palić\n\n • ZOO vrt Palić",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "pojasna",
+    "accommodation": null,
+    "notes": "Markacija na stazi je zeleno srce na žutom krugu.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Spartak PSK",
+        "url": "https://pss.rs/adresar_klubova/spartak-zpk/",
+        "contact": "Bose Miličević BB, 24000 Subotica \n+38163 87 94 681; +38164 666 12 87\nhttp://www.suplaninari.co.rs/",
+        "clubs": [
+            {
+                "name": "Spartak PSK",
+                "url": "https://pss.rs/adresar_klubova/spartak-zpk/",
+                "contact": "Bose Miličević BB, 24000 Subotica \n+38163 87 94 681; +38164 666 12 87\nhttp://www.suplaninari.co.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 12,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2020/09/1-1-2-Vodotoranj-Tresetiste-Palic-centar.gpx",
+        "fetched_at": "2026-11-08T12:01:09Z",
+        "checked_at": "2026-11-08T12:01:09Z",
+        "bytes": 105569,
+        "sha256": "43ee02444b9067d8a80344faf7533930266051f09931880743da4caa61b5811d",
+        "etag": null,
+        "last_modified": "Sun, 06 Sep 2020 17:38:20 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 634,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 7,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2020/09/1-1-2-Vodotoranj-Tresetiste-Palic-centar.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/vodotoranj-tresetiste-palic-centar.geojson",
+        "bbox": [
+            19.753493992611766,
+            46.10221976414323,
+            19.77016375400126,
+            46.147343991324306
+        ],
+        "center": [
+            19.761829,
+            46.124782
+        ],
+        "start_point": [
+            19.7584708314389,
+            46.10221976414323
+        ],
+        "end_point": [
+            19.758449038490653,
+            46.10251296311617
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    19.75847,
+                    46.10222
+                ],
+                [
+                    19.76555,
+                    46.10488
+                ],
+                [
+                    19.76202,
+                    46.11317
+                ],
+                [
+                    19.76781,
+                    46.11438
+                ],
+                [
+                    19.76463,
+                    46.12101
+                ],
+                [
+                    19.77016,
+                    46.1312
+                ],
+                [
+                    19.75587,
+                    46.14734
+                ],
+                [
+                    19.75731,
+                    46.14341
+                ],
+                [
+                    19.76246,
+                    46.14036
+                ],
+                [
+                    19.75765,
+                    46.13479
+                ],
+                [
+                    19.76839,
+                    46.1248
+                ],
+                [
+                    19.76477,
+                    46.12122
+                ],
+                [
+                    19.76614,
+                    46.11799
+                ],
+                [
+                    19.75624,
+                    46.11545
+                ],
+                [
+                    19.75704,
+                    46.11227
+                ],
+                [
+                    19.75352,
+                    46.11141
+                ],
+                [
+                    19.75845,
+                    46.10251
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/vodotoranj-tresetiste-palic-centar/",
+        "canonical_url": "https://pss.rs/terenipp/vodotoranj-tresetiste-palic-centar/",
+        "pss_id": 12024,
+        "updated_at": "2020-09-06T17:49:24Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:01:10Z",
+        "last_synced_at": "2026-11-08T12:01:10Z"
+    },
+    "search": "vodotoranj-tresetiste-palic centar 1-1-2 vojvodina palicko jezero vodotoranj palic, 108 m palic centar, semafor, 108 m spartak psk • suboticka pescara • jezera tesetista • palicko jezero • park narodnih heroja, palic • zoo vrt palic laka",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:01:10Z"
+    }
+}

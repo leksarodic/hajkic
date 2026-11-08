@@ -1,0 +1,123 @@
+{
+    "schema_version": 1,
+    "slug": "zupanjevac",
+    "name": "Županjevac",
+    "code": "2-14-17",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 3959,
+        "category_id": 28,
+        "region_ids": [
+            2
+        ],
+        "mountain_ids": [
+            61
+        ]
+    },
+    "region": "Šumadija",
+    "mountain": "Gledićke planine",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 11.0,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": 240,
+        "official_text": "4 h",
+        "official_raw": "4"
+    },
+    "elevation": {
+        "official_gain_m": 369.0,
+        "official_loss_m": 369.0,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": "man Kalenić 457 mnv",
+    "end": "man Kalenić 457 mnv",
+    "description": "man. Kalenić- Čvoraja- Županjevac- man. Kalenić",
+    "landmarks": "man. Kalenić, stari grad Županjevac, ostaci crkve sv. Jovana na gradu, grad Straževica, crkva Sv. Petke u potoku ispod grada, Govor voda",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": "1:25000 530-2-4 Kraljevo, 531-1-3 Kruševac",
+    "club": {
+        "name": "Ljukten PSD",
+        "url": "https://pss.rs/adresar_klubova/ljukten-psd/",
+        "contact": "Čajkina 20, 37240 Trstenik\n+3869 614 035",
+        "clubs": [
+            {
+                "name": "Ljukten PSD",
+                "url": "https://pss.rs/adresar_klubova/ljukten-psd/",
+                "contact": "Čajkina 20, 37240 Trstenik\n+3869 614 035"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": false,
+        "status": "missing",
+        "source_url": null,
+        "fetched_at": null,
+        "checked_at": "2026-11-08T11:56:28Z",
+        "bytes": null,
+        "sha256": null,
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": null,
+        "tracks": null,
+        "segments": null,
+        "waypoints": null,
+        "error": null,
+        "download": {
+            "mode": "none",
+            "url": null
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_gpx"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/zupanjevac/",
+        "canonical_url": "https://pss.rs/terenipp/zupanjevac/",
+        "pss_id": 3959,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:56:28Z",
+        "last_synced_at": "2026-11-08T11:56:28Z"
+    },
+    "search": "zupanjevac 2-14-17 sumadija gledicke planine man kalenic 457 mnv man kalenic 457 mnv ljukten psd man. kalenic, stari grad zupanjevac, ostaci crkve sv. jovana na gradu, grad strazevica, crkva sv. petke u potoku ispod grada, govor voda zahtevna man. kalenic- cvoraja- zupanjevac- man. kalenic",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:56:28Z"
+    }
+}

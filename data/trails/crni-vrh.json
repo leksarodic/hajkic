@@ -1,0 +1,123 @@
+{
+    "schema_version": 1,
+    "slug": "crni-vrh",
+    "name": "Crni Vrh",
+    "code": "6-5-8",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 3965,
+        "category_id": 28,
+        "region_ids": [
+            6
+        ],
+        "mountain_ids": [
+            72
+        ]
+    },
+    "region": "Kopaoničko-Toplička regija",
+    "mountain": "Goč",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 7.0,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": 165,
+        "official_text": "2 h 45 min",
+        "official_raw": "2:45"
+    },
+    "elevation": {
+        "official_gain_m": 572.0,
+        "official_loss_m": 572.0,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": "Goč jezero 970 mnv",
+    "end": "Crni vrh 1542 mnv",
+    "description": "Goč (jezero)- Vukovo brdo- Savin laz- Crni vrh",
+    "landmarks": null,
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": "1:25000; 530-4-3 Kraljevo",
+    "club": {
+        "name": "Ljukten PSD",
+        "url": "https://pss.rs/adresar_klubova/ljukten-psd/",
+        "contact": "Čajkina 20, 37240 Trstenik\n+3869 614 035",
+        "clubs": [
+            {
+                "name": "Ljukten PSD",
+                "url": "https://pss.rs/adresar_klubova/ljukten-psd/",
+                "contact": "Čajkina 20, 37240 Trstenik\n+3869 614 035"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": false,
+        "status": "missing",
+        "source_url": null,
+        "fetched_at": null,
+        "checked_at": "2026-11-08T11:56:34Z",
+        "bytes": null,
+        "sha256": null,
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": null,
+        "tracks": null,
+        "segments": null,
+        "waypoints": null,
+        "error": null,
+        "download": {
+            "mode": "none",
+            "url": null
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_gpx"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/crni-vrh/",
+        "canonical_url": "https://pss.rs/terenipp/crni-vrh/",
+        "pss_id": 3965,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:56:34Z",
+        "last_synced_at": "2026-11-08T11:56:34Z"
+    },
+    "search": "crni vrh 6-5-8 kopaonicko-toplicka regija goc goc jezero 970 mnv crni vrh 1542 mnv ljukten psd zahtevna goc (jezero)- vukovo brdo- savin laz- crni vrh",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:56:34Z"
+    }
+}

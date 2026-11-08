@@ -1,0 +1,124 @@
+{
+    "schema_version": 1,
+    "slug": "e7-1",
+    "name": "Bački Vinogradi - Stari Žednik",
+    "code": "E7-1",
+    "category": {
+        "key": "evropski-pesacki-putevi-u-srbiji",
+        "label": "Evropski pešački putevi u Srbiji"
+    },
+    "pss": {
+        "post_id": 3537,
+        "category_id": 29,
+        "region_ids": [
+            1
+        ],
+        "mountain_ids": [
+            35
+        ]
+    },
+    "region": "Vojvodina",
+    "mountain": "Palićko jezero",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "lak"
+    },
+    "distance": {
+        "official_km": 41.5,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": null,
+        "official_loss_m": null,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": null,
+    "end": null,
+    "description": "• Trasa puta E-7 ulazi iz Mađarske kod graničnog prelaza Bački\nVinogradi i prati obodne delove Subotičke peščare čiji reljef\nnekadašnjih pokretnih dina sada budi pažnju. Danas je to mešavina\nšuma, stepa i močvara sa bogatim, ali ugroženim staništima brojnih\npeščarsko-stepskih vrsta u Evropi.Put prolazi pored specijalnog rezervata prirode Ludoško jezero\npoznatog po brojnim ptičjim vrstama. Pored jezera, na obali, čuvaju se\ni kulturne vrednosti, seoska i crkvena arhitektura i tradicionalni\nzanati. Posebno je interesantno naselje salaša Šupljak sa kućama\nravničarskog tipa često pokrivene trskom. U blizini je poznato\njezero i Park prirode Palić, turističko mesto za odmor i rekreaciju.\n\n • Tradicija gajenja vinove loze na subotičkoj peščari duga je više od dva\nmilenijuma. Kraj daje veoma kvalitetna vina od brojnih sorti vinove\nloze i zajedno nose reklamni naziv „Vina sa peska”.\n\n • Grad Subotica je centar Bačke. U njemu su vredne građevine iz početka\ndevetnaestog veka, Gradska kuća (1908), Sinagoga (1902), Palata Rajhl\n(1904), Gradska biblioteka (1894).\n\n • Zanimljivo je da je prva pozorišna predstava u Subotici odigrana\n1741. godine. Danas pozorište ima dramu na srpskom i mađarskom\njeziku.",
+    "landmarks": "Put se pruža obodom Subotičke peščare, a zatim prolazi pored specijalnog rezervata prirode Ludoško jezero, salaša Šupljak i parka prirode Palićko jezero.",
+    "maintenance": null,
+    "marking": "Propisna evropska crveno-žuta",
+    "accommodation": "Horgoš, Palić, Subotica, Zobnatica, bačka palanka",
+    "notes": "• E7-1-1 Bački Vinogradi – Palić 13,4 km\n\n • E7-1-2 Palić – Aleksandrovo 10,1 km\n\n • E7-1-3 Aleksandrovo – Stari Žednik 18,0 km",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Spartak PSK",
+        "url": "https://pss.rs/adresar_klubova/spartak-zpk/",
+        "contact": "Bose Miličević BB, 24000 Subotica \n+38163 87 94 681; +38164 666 12 87\nhttp://www.suplaninari.co.rs/",
+        "clubs": [
+            {
+                "name": "Spartak PSK",
+                "url": "https://pss.rs/adresar_klubova/spartak-zpk/",
+                "contact": "Bose Miličević BB, 24000 Subotica \n+38163 87 94 681; +38164 666 12 87\nhttp://www.suplaninari.co.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": false,
+        "status": "invalid",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/E7-1-Backi-Vinogradi-__-Stari-Zednik.gpx",
+        "fetched_at": "2026-11-08T12:49:52Z",
+        "checked_at": "2026-11-08T12:49:52Z",
+        "bytes": 89539,
+        "sha256": "ea12cb491b666aa79b8a726c6bece4d93018b282d3ff56dce4fecb7498c408de",
+        "etag": null,
+        "last_modified": "Sat, 07 Nov 2026 16:41:33 GMT",
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": 0,
+        "tracks": 0,
+        "segments": 0,
+        "waypoints": 0,
+        "error": "Datoteka nema <gpx> koren.",
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/E7-1-Backi-Vinogradi-__-Stari-Zednik.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_gpx"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/e7-1/",
+        "canonical_url": "https://pss.rs/terenipp/e7-1/",
+        "pss_id": 3537,
+        "updated_at": "2024-12-07T21:20:48Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:49:53Z",
+        "last_synced_at": "2026-11-08T12:49:53Z"
+    },
+    "search": "backi vinogradi - stari zednik e7-1 vojvodina palicko jezero spartak psk put se pruza obodom suboticke pescare, a zatim prolazi pored specijalnog rezervata prirode ludosko jezero, salasa supljak i parka prirode palicko jezero. laka • trasa puta e-7 ulazi iz madjarske kod granicnog prelaza backi vinogradi i prati obodne delove suboticke pescare ciji reljef nekadasnjih pokretnih dina sada budi paznju. danas je to mesavina suma, stepa i mocvara sa bogatim, ali ugrozenim stanistima brojnih pescarsko-stepskih vrsta u evropi.put prolazi pored specijalnog rezervata prirode ludosko jezero poznatog po brojnim pticjim vrstama. pored jezera, na obali, cuvaju se i kulturne vrednosti, seoska i crkvena arhitektura i tradicionalni zanati. posebno je interesantno naselje salasa supljak sa kucama ravnicarskog tipa cesto pokrivene trskom. u blizini je poznato jezero i park prirode palic, turisticko mesto za odmor i rekreaciju. • tradicija gajenja vinove loze na subotickoj pescari duga je vise od dva milenijuma. kraj daje veoma kvalitetna vina od brojnih sorti vinove loze i zajedno nose reklamni naziv „vina sa peska”. • grad subotica je centar backe. u njemu su vredne gradjevine iz pocetka devetnaestog veka, gradska kuca (1908), sinagoga (1902), palata rajhl (1904), gradska biblioteka (1894). • zanimljivo je da je prva pozorisna predstava u subotici odigrana 1741. godine. danas pozoriste ima dramu na srpskom i madjarskom jeziku.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:49:53Z"
+    }
+}

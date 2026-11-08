@@ -1,0 +1,221 @@
+{
+    "schema_version": 1,
+    "slug": "vrmdza-kruzna-staza",
+    "name": "Vrmdža (kružna staza)",
+    "code": "4-27-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 3802,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            71
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Rtanj",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 14.0,
+        "calculated_km": 15.41
+    },
+    "duration": {
+        "official_minutes": 300,
+        "official_text": "5 h",
+        "official_raw": "5"
+    },
+    "elevation": {
+        "official_gain_m": 300.0,
+        "official_loss_m": 360.0,
+        "calculated_gain_m": 338.8,
+        "calculated_loss_m": 366.8,
+        "min_m": 420.5,
+        "max_m": 663.2
+    },
+    "start": "Vrmdža (Latin grad), 500 mnv",
+    "end": "Vrmdža (Crkovac), 530 mnv",
+    "description": null,
+    "landmarks": "• Značajni lokaliteti: Latin grad, Vrmdžansko jezero, crkva Sv. Trojice (sa muzejem)\n\n • Vidikovci: Latin grad, Obroz, Vidikovac, Sokolovica, Crkovac\n\n • Na stazi ima izvora pitke vode\n\n • Van trase ima privatni smeštaj",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu je trasiralo PD \"Oštra čuka\", marta 2013. godine. \n\n • Poslednji put staza je markirana marta 2015. godine.",
+    "map_reference": null,
+    "map_sheet": "532-2-4 Aleksinac",
+    "club": {
+        "name": "Oštra čuka PD",
+        "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+        "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/",
+        "clubs": [
+            {
+                "name": "Oštra čuka PD",
+                "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+                "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/4-27-1-Vrmdza-kruzna.gpx",
+        "fetched_at": "2026-11-08T11:55:30Z",
+        "checked_at": "2026-11-08T11:55:30Z",
+        "bytes": 51146,
+        "sha256": "91a2c5b51bfd19996627f423e41c5c1c4e57b26aafedd02ba81d772ad44fe916",
+        "etag": null,
+        "last_modified": "Tue, 18 Dec 2018 12:43:07 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 416,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 2,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/4-27-1-Vrmdza-kruzna.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/vrmdza-kruzna-staza.geojson",
+        "bbox": [
+            21.805795524269342,
+            43.70644259266555,
+            21.82804604060948,
+            43.75401148572564
+        ],
+        "center": [
+            21.816921,
+            43.730227
+        ],
+        "start_point": [
+            21.82690811343491,
+            43.70644259266555
+        ],
+        "end_point": [
+            21.82053786702454,
+            43.714924240484834
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.82691,
+                    43.70644
+                ],
+                [
+                    21.82274,
+                    43.71165
+                ],
+                [
+                    21.82393,
+                    43.71395
+                ],
+                [
+                    21.8201,
+                    43.71635
+                ],
+                [
+                    21.82511,
+                    43.72333
+                ],
+                [
+                    21.82505,
+                    43.72708
+                ],
+                [
+                    21.82793,
+                    43.72828
+                ],
+                [
+                    21.82712,
+                    43.74561
+                ],
+                [
+                    21.81812,
+                    43.7522
+                ],
+                [
+                    21.8119,
+                    43.75401
+                ],
+                [
+                    21.81329,
+                    43.75081
+                ],
+                [
+                    21.81046,
+                    43.74174
+                ],
+                [
+                    21.81666,
+                    43.72034
+                ],
+                [
+                    21.81055,
+                    43.71916
+                ],
+                [
+                    21.81081,
+                    43.716
+                ],
+                [
+                    21.8058,
+                    43.71132
+                ],
+                [
+                    21.81257,
+                    43.71043
+                ],
+                [
+                    21.81644,
+                    43.71316
+                ],
+                [
+                    21.81538,
+                    43.7158
+                ],
+                [
+                    21.82054,
+                    43.71492
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/vrmdza-kruzna-staza/",
+        "canonical_url": "https://pss.rs/terenipp/vrmdza-kruzna-staza/",
+        "pss_id": 3802,
+        "updated_at": "2018-12-18T12:43:21Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:55:31Z",
+        "last_synced_at": "2026-11-08T11:55:31Z"
+    },
+    "search": "vrmdza (kruzna staza) 4-27-1 istocna srbija rtanj vrmdza (latin grad), 500 mnv vrmdza (crkovac), 530 mnv ostra cuka pd • znacajni lokaliteti: latin grad, vrmdzansko jezero, crkva sv. trojice (sa muzejem) • vidikovci: latin grad, obroz, vidikovac, sokolovica, crkovac • na stazi ima izvora pitke vode • van trase ima privatni smestaj laka",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:55:31Z"
+    }
+}

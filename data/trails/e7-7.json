@@ -1,0 +1,571 @@
+{
+    "schema_version": 1,
+    "slug": "e7-7",
+    "name": "Cer - Krupanj",
+    "code": "E7-7",
+    "category": {
+        "key": "evropski-pesacki-putevi-u-srbiji",
+        "label": "Evropski pešački putevi u Srbiji"
+    },
+    "pss": {
+        "post_id": 3725,
+        "category_id": 29,
+        "region_ids": [
+            3
+        ],
+        "mountain_ids": [
+            65
+        ]
+    },
+    "region": "Zapadna Srbija",
+    "mountain": "Cer",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevan"
+    },
+    "distance": {
+        "official_km": 77.0,
+        "calculated_km": 77.17
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": 1275.0,
+        "official_loss_m": 1668.0,
+        "calculated_gain_m": 0.0,
+        "calculated_loss_m": 0.0,
+        "min_m": 0.0,
+        "max_m": 0.0
+    },
+    "start": null,
+    "end": null,
+    "description": "• Planina Cer i njeni grebeni prema Tekerišu, Tršiću i Gučevu, kuda\nprolazi put E7, predstavlja istorijsko područje sa spomenicima\niz prvog svetskog rata i čuvenih bitaka na Ceru i Kolubari. Celo\npodručje nalazi se u šumovitom pobrđu planina Iverak i Gučevo. U\nneposrednoj blizini grada Loznice nalazi se selo Tršić sa rodnom\nkućom i muzejom tvorca srpske azbuke Vuka Stefanovića Karadžića.\n\n • U okruženju muzeja nalazi se zaštićeni etno kompleks „Tršić” sa\n35 objekata, muzeja, galerija, čardaka, ambara, vajata i dr. U Tršiću\nse svake godine u septembru održava međunarodni skup slavista pod\nnazivom „Vukov sabor”.\n\n • Na putu E7 nalazi se manastir Tronoša iz 14. veka, zadužbina srpskog\nkralja Dragutina.\n\n • Gradić Krupanj na putu E7 nalazi se u maloj kotlini između niskih\nplanina Boranja, Jagodnja i Sokolske planine. Pored ranih tragova\nnaselja iz doba neolita vidljivi su ostaci rimske vile Rustike. Kao\nnaselje Krupanj se prvi put pominje u zapisima dubrovačkih trgovaca\n1417. godine. Prirodne lepote i vrednosti Krupnja su veoma zanimljive.\n\n • Pored lepe planinske prirode ovde se nalazi i Kovačevića pećina,\nbistri planinski potoci i lepi vidici sa okolnih vrhova.",
+    "landmarks": "Etnokomplesk Tršić, manastir Tronoša, Krupanj, Soko grad, manastir Sv. Nikolaja",
+    "maintenance": null,
+    "marking": "evropska crveno-žuta",
+    "accommodation": "Cer, Tršić, Loznica, Stolice, Krupanj, Soko grad",
+    "notes": "• E7-7-1 Cer – Tekeriš 8,7 km\n\n • E7-7-2 Tekeriš – Bradić 22,5 km\n\n • E7-7-3 Bradić – Tršić 12,8 km\n\n • E7-7-4 Tršić – Šarena Bukva 19,7 km\n\n • E7-7-5 Šarena Bukva – Krupanj 13,3 km",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Cer PSD",
+        "url": "https://pss.rs/adresar_klubova/cer-psd/",
+        "contact": "Veliki park bb, 15000 Šabac\n063/287747",
+        "clubs": [
+            {
+                "name": "Cer PSD",
+                "url": "https://pss.rs/adresar_klubova/cer-psd/",
+                "contact": "Veliki park bb, 15000 Šabac\n063/287747"
+            },
+            {
+                "name": "Čivija PAK",
+                "url": "https://pss.rs/adresar_klubova/civija-pak/",
+                "contact": "Kralja Radoslava bb, 15000 Šabac\n+38162 22 39 89"
+            },
+            {
+                "name": "Gučevo PK",
+                "url": "https://pss.rs/adresar_klubova/gucevo-pk/",
+                "contact": "Gimnazijska bb, 15300 Loznica\n+38164 1882423 ; +38169 1011687"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/E7-7-Cer-Krupanj.gpx",
+        "fetched_at": "2026-11-08T12:50:57Z",
+        "checked_at": "2026-11-08T12:50:57Z",
+        "bytes": 218097,
+        "sha256": "ec8e09b7890c3f80278adcb660b52c19cbf458dfe90ac2538d67e5e62f09c91c",
+        "etag": null,
+        "last_modified": "Sat, 07 Dec 2024 21:25:30 GMT",
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": 3017,
+        "tracks": 5,
+        "segments": 5,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/E7-7-Cer-Krupanj.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/e7-7.geojson",
+        "bbox": [
+            19.259137222,
+            44.35154155,
+            19.535350404,
+            44.602818375
+        ],
+        "center": [
+            19.397244,
+            44.47718
+        ],
+        "start_point": [
+            19.494027009,
+            44.602818375
+        ],
+        "end_point": [
+            19.36357457,
+            44.365328045
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    19.49403,
+                    44.60282
+                ],
+                [
+                    19.51625,
+                    44.593
+                ],
+                [
+                    19.52759,
+                    44.58434
+                ],
+                [
+                    19.52439,
+                    44.58423
+                ],
+                [
+                    19.53535,
+                    44.57085
+                ],
+                [
+                    19.53309,
+                    44.56588
+                ],
+                [
+                    19.52343,
+                    44.55929
+                ],
+                [
+                    19.5252,
+                    44.5524
+                ]
+            ],
+            [
+                [
+                    19.52519,
+                    44.55239
+                ],
+                [
+                    19.51471,
+                    44.54346
+                ],
+                [
+                    19.50828,
+                    44.54343
+                ],
+                [
+                    19.50001,
+                    44.54606
+                ],
+                [
+                    19.48284,
+                    44.54623
+                ],
+                [
+                    19.47882,
+                    44.54914
+                ],
+                [
+                    19.47559,
+                    44.56041
+                ],
+                [
+                    19.46954,
+                    44.56504
+                ],
+                [
+                    19.46136,
+                    44.56722
+                ],
+                [
+                    19.45597,
+                    44.56584
+                ],
+                [
+                    19.44186,
+                    44.56704
+                ],
+                [
+                    19.43861,
+                    44.56308
+                ],
+                [
+                    19.43202,
+                    44.56706
+                ],
+                [
+                    19.42201,
+                    44.56265
+                ],
+                [
+                    19.40518,
+                    44.56866
+                ],
+                [
+                    19.39981,
+                    44.56516
+                ],
+                [
+                    19.37669,
+                    44.56606
+                ],
+                [
+                    19.36758,
+                    44.56273
+                ],
+                [
+                    19.36298,
+                    44.56475
+                ],
+                [
+                    19.35451,
+                    44.56333
+                ],
+                [
+                    19.34456,
+                    44.56982
+                ],
+                [
+                    19.33579,
+                    44.5665
+                ],
+                [
+                    19.33439,
+                    44.56215
+                ],
+                [
+                    19.32827,
+                    44.55689
+                ],
+                [
+                    19.33137,
+                    44.55344
+                ],
+                [
+                    19.32769,
+                    44.55284
+                ]
+            ],
+            [
+                [
+                    19.32766,
+                    44.55282
+                ],
+                [
+                    19.32748,
+                    44.5481
+                ],
+                [
+                    19.32307,
+                    44.54202
+                ],
+                [
+                    19.32444,
+                    44.53996
+                ],
+                [
+                    19.31306,
+                    44.53464
+                ],
+                [
+                    19.312,
+                    44.52835
+                ],
+                [
+                    19.31765,
+                    44.5223
+                ],
+                [
+                    19.31511,
+                    44.51443
+                ],
+                [
+                    19.31063,
+                    44.51022
+                ],
+                [
+                    19.30594,
+                    44.51061
+                ],
+                [
+                    19.30217,
+                    44.50829
+                ],
+                [
+                    19.30313,
+                    44.50549
+                ],
+                [
+                    19.30585,
+                    44.50642
+                ],
+                [
+                    19.30788,
+                    44.50475
+                ],
+                [
+                    19.30854,
+                    44.49708
+                ],
+                [
+                    19.30664,
+                    44.49571
+                ],
+                [
+                    19.3054,
+                    44.49832
+                ],
+                [
+                    19.30224,
+                    44.49888
+                ],
+                [
+                    19.29634,
+                    44.4969
+                ],
+                [
+                    19.28576,
+                    44.49692
+                ],
+                [
+                    19.28268,
+                    44.50164
+                ],
+                [
+                    19.26634,
+                    44.4999
+                ]
+            ],
+            [
+                [
+                    19.26635,
+                    44.49988
+                ],
+                [
+                    19.27057,
+                    44.4982
+                ],
+                [
+                    19.26798,
+                    44.49123
+                ],
+                [
+                    19.27176,
+                    44.48572
+                ],
+                [
+                    19.27149,
+                    44.47986
+                ],
+                [
+                    19.27623,
+                    44.47455
+                ],
+                [
+                    19.27564,
+                    44.47134
+                ],
+                [
+                    19.28349,
+                    44.46532
+                ],
+                [
+                    19.28441,
+                    44.4591
+                ],
+                [
+                    19.28673,
+                    44.45729
+                ],
+                [
+                    19.28699,
+                    44.46062
+                ],
+                [
+                    19.28901,
+                    44.45912
+                ],
+                [
+                    19.28889,
+                    44.45439
+                ],
+                [
+                    19.28727,
+                    44.45524
+                ],
+                [
+                    19.28397,
+                    44.45245
+                ],
+                [
+                    19.28288,
+                    44.45398
+                ],
+                [
+                    19.28321,
+                    44.45113
+                ],
+                [
+                    19.28504,
+                    44.4518
+                ],
+                [
+                    19.283,
+                    44.44966
+                ],
+                [
+                    19.28026,
+                    44.45099
+                ],
+                [
+                    19.27921,
+                    44.44959
+                ],
+                [
+                    19.28714,
+                    44.44303
+                ],
+                [
+                    19.27594,
+                    44.43942
+                ],
+                [
+                    19.27821,
+                    44.43056
+                ],
+                [
+                    19.26954,
+                    44.4278
+                ],
+                [
+                    19.27093,
+                    44.42076
+                ],
+                [
+                    19.27949,
+                    44.41134
+                ],
+                [
+                    19.27769,
+                    44.40885
+                ],
+                [
+                    19.28086,
+                    44.40139
+                ],
+                [
+                    19.27686,
+                    44.39986
+                ],
+                [
+                    19.27766,
+                    44.39679
+                ],
+                [
+                    19.27183,
+                    44.39564
+                ],
+                [
+                    19.27195,
+                    44.38794
+                ],
+                [
+                    19.26895,
+                    44.38329
+                ]
+            ],
+            [
+                [
+                    19.26895,
+                    44.38329
+                ],
+                [
+                    19.2684,
+                    44.3811
+                ],
+                [
+                    19.26553,
+                    44.38109
+                ],
+                [
+                    19.26436,
+                    44.37544
+                ],
+                [
+                    19.25917,
+                    44.37482
+                ],
+                [
+                    19.26165,
+                    44.37136
+                ],
+                [
+                    19.26127,
+                    44.36269
+                ],
+                [
+                    19.26821,
+                    44.36048
+                ],
+                [
+                    19.26994,
+                    44.35669
+                ],
+                [
+                    19.27851,
+                    44.35622
+                ],
+                [
+                    19.28845,
+                    44.35157
+                ],
+                [
+                    19.34031,
+                    44.36885
+                ],
+                [
+                    19.36357,
+                    44.36533
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": [
+            "missing_elevation"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/e7-7/",
+        "canonical_url": "https://pss.rs/terenipp/e7-7/",
+        "pss_id": 3725,
+        "updated_at": "2024-12-07T21:25:39Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:50:57Z",
+        "last_synced_at": "2026-11-08T12:50:57Z"
+    },
+    "search": "cer - krupanj e7-7 zapadna srbija cer cer psd etnokomplesk trsic, manastir tronosa, krupanj, soko grad, manastir sv. nikolaja zahtevna • planina cer i njeni grebeni prema tekerisu, trsicu i gucevu, kuda prolazi put e7, predstavlja istorijsko podrucje sa spomenicima iz prvog svetskog rata i cuvenih bitaka na ceru i kolubari. celo podrucje nalazi se u sumovitom pobrdju planina iverak i gucevo. u neposrednoj blizini grada loznice nalazi se selo trsic sa rodnom kucom i muzejom tvorca srpske azbuke vuka stefanovica karadzica. • u okruzenju muzeja nalazi se zasticeni etno kompleks „trsic” sa 35 objekata, muzeja, galerija, cardaka, ambara, vajata i dr. u trsicu se svake godine u septembru odrzava medjunarodni skup slavista pod nazivom „vukov sabor”. • na putu e7 nalazi se manastir tronosa iz 14. veka, zaduzbina srpskog kralja dragutina. • gradic krupanj na putu e7 nalazi se u maloj kotlini izmedju niskih planina boranja, jagodnja i sokolske planine. pored ranih tragova naselja iz doba neolita vidljivi su ostaci rimske vile rustike. kao naselje krupanj se prvi put pominje u zapisima dubrovackih trgovaca 1417. godine. prirodne lepote i vrednosti krupnja su veoma zanimljive. • pored lepe planinske prirode ovde se nalazi i kovacevica pecina, bistri planinski potoci i lepi vidici sa okolnih vrhova.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:50:57Z"
+    }
+}

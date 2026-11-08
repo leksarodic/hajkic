@@ -1,0 +1,123 @@
+{
+    "schema_version": 1,
+    "slug": "deonica-e7-kukavica-besna-kobila",
+    "name": "Kukavica-Besna Kobila",
+    "code": "7-20-4",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 4502,
+        "category_id": 28,
+        "region_ids": [
+            7
+        ],
+        "mountain_ids": [
+            97
+        ]
+    },
+    "region": "Jugoistočna Srbija",
+    "mountain": "Besna Kobila",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 80.0,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": 1800,
+        "official_text": "30 h",
+        "official_raw": "30:00"
+    },
+    "elevation": {
+        "official_gain_m": 1700.0,
+        "official_loss_m": 1500.0,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": "Preka voda na Kukavici, 1260m",
+    "end": "Planinarski dom \"Dragan Spasić\", 1460m",
+    "description": "• Staza je deonica Evropskog pešačkog puta E7\n\n • Staza: Preka voda na Kukavici (1260m) - Oblik (1310m) - Grot (1327m) - Besna Kobila, planinarski dom \"Dragan Spasić\" (1460m)",
+    "landmarks": "• Markovo kale\n\n • Vranjska banja",
+    "maintenance": "delimično uređena",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Stazu je trasirao Staniša Marković 2008. a poslednji put je markirana deonica Vranjska banja - Besna Kobila 2012.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Železničar 2006 PK Vranje",
+        "url": "https://pss.rs/adresar_klubova/zeleznicar-2006-pk/",
+        "contact": "Kralja Stefana Prvovenčanog bb, 17500 Vranje\n+38164 836 7865\nhttp://www.spidzelznicar.com",
+        "clubs": [
+            {
+                "name": "Železničar 2006 PK Vranje",
+                "url": "https://pss.rs/adresar_klubova/zeleznicar-2006-pk/",
+                "contact": "Kralja Stefana Prvovenčanog bb, 17500 Vranje\n+38164 836 7865\nhttp://www.spidzelznicar.com"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": false,
+        "status": "missing",
+        "source_url": null,
+        "fetched_at": null,
+        "checked_at": "2026-11-08T11:57:29Z",
+        "bytes": null,
+        "sha256": null,
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": null,
+        "tracks": null,
+        "segments": null,
+        "waypoints": null,
+        "error": null,
+        "download": {
+            "mode": "none",
+            "url": null
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_gpx"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/deonica-e7-kukavica-besna-kobila/",
+        "canonical_url": "https://pss.rs/terenipp/deonica-e7-kukavica-besna-kobila/",
+        "pss_id": 4502,
+        "updated_at": "2017-08-20T13:14:19Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:57:29Z",
+        "last_synced_at": "2026-11-08T11:57:29Z"
+    },
+    "search": "kukavica-besna kobila 7-20-4 jugoistocna srbija besna kobila preka voda na kukavici, 1260m planinarski dom \"dragan spasic\", 1460m zeleznicar 2006 pk vranje • markovo kale • vranjska banja zahtevna • staza je deonica evropskog pesackog puta e7 • staza: preka voda na kukavici (1260m) - oblik (1310m) - grot (1327m) - besna kobila, planinarski dom \"dragan spasic\" (1460m)",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:57:29Z"
+    }
+}

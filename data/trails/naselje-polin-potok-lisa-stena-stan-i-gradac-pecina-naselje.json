@@ -1,0 +1,219 @@
+{
+    "schema_version": 1,
+    "slug": "naselje-polin-potok-lisa-stena-stan-i-gradac-pecina-naselje",
+    "name": "Naselje-Polin potok-Lisa stena-Stan i Gradac pećina-Naselje",
+    "code": "5-40-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 11944,
+        "category_id": 28,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            194
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Pobijenik",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 17.3,
+        "calculated_km": 17.48
+    },
+    "duration": {
+        "official_minutes": 360,
+        "official_text": "6 h",
+        "official_raw": "6:00"
+    },
+    "elevation": {
+        "official_gain_m": 1104.0,
+        "official_loss_m": 1104.0,
+        "calculated_gain_m": 1074.0,
+        "calculated_loss_m": 1104.3,
+        "min_m": 341.3,
+        "max_m": 1193.0
+    },
+    "start": "Novi deo grada Priboj (Naselje), 380 m",
+    "end": "Novi deo grada Priboj (Naselje), 380 m",
+    "description": "Staza kreće iz centra grada ispred hotela Lim. Odatle se prati planinarska markacija u pravcu jugoistok asfaltnim putem ka naselju Banjski čamac. Od naselja Banjski čamac blago okrenuti ka zapadu ide se do ušća Polinog potoka u Lim, a zatim staza ide u pravcu juga ka naselju Dobrilovići i dalje ka vidikovcu Lisa Stena i Lovačkoj kući (kota 1193 m). Kod Lovačke kuće se nalazi izvor pijaće vode. Od Lovačke kuće u pravcu severa staza ide ka pećini Gradac. A zatim u pravcu severoistoka staza se vraća na početnu tačku.",
+    "landmarks": "• Gradac i Stan pećina\n\n • Vidikovac: Lisa stena\n\n • Naselja: Banjski čamac, Dobrilovići, Pribojska Goleša\n\n • Na trasi ima 2 izvora pitke vode\n\n • U Lovačkoj kući na Lisoj Steni postoji smeštajni kapacitet od 20 ležajeva. Pored ovog smeštaja koji je na trasi, postoji i smeštaj na početku staze u hotelu Lim, kao i privatni smeštaj u novom delu grada Naselje. U Pribojskoj Banji koja je van trase (udaljena 5 km) postoji privatni smeštajni kapacitet.",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu su trasirali planinari ŽKP Ljeskovac, Priboj, 2012. godine.\n\n • Poslednji put staza je markirana 2017. godine.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Ljeskovac ŽKP",
+        "url": "https://pss.rs/adresar_klubova/ljeskovac-zkp/",
+        "contact": "8.mart bb, 31330 Priboj\n+ 381 64 3140810",
+        "clubs": [
+            {
+                "name": "Ljeskovac ŽKP",
+                "url": "https://pss.rs/adresar_klubova/ljeskovac-zkp/",
+                "contact": "8.mart bb, 31330 Priboj\n+ 381 64 3140810"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 10,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2020/08/5-40-1-Lisa-Stena.gpx",
+        "fetched_at": "2026-11-08T12:01:05Z",
+        "checked_at": "2026-11-08T12:01:05Z",
+        "bytes": 220496,
+        "sha256": "dd7810e9c7f14f94bfc07d8a9169d5569b6addb23a16a8ad2eba5d48d3211b46",
+        "etag": null,
+        "last_modified": "Mon, 24 Aug 2020 14:40:54 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 1342,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 10,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2020/08/5-40-1-Lisa-Stena.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/naselje-polin-potok-lisa-stena-stan-i-gradac-pecina-naselje.geojson",
+        "bbox": [
+            19.52715746127069,
+            43.50998771376908,
+            19.550782358273864,
+            43.56072245165706
+        ],
+        "center": [
+            19.53897,
+            43.535355
+        ],
+        "start_point": [
+            19.539484810084105,
+            43.56066059321165
+        ],
+        "end_point": [
+            19.53924567438662,
+            43.56071482412517
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    19.53948,
+                    43.56066
+                ],
+                [
+                    19.54798,
+                    43.54813
+                ],
+                [
+                    19.55078,
+                    43.53773
+                ],
+                [
+                    19.54614,
+                    43.53676
+                ],
+                [
+                    19.54956,
+                    43.53528
+                ],
+                [
+                    19.54524,
+                    43.53109
+                ],
+                [
+                    19.54907,
+                    43.52789
+                ],
+                [
+                    19.54582,
+                    43.52
+                ],
+                [
+                    19.54224,
+                    43.51891
+                ],
+                [
+                    19.53807,
+                    43.51072
+                ],
+                [
+                    19.53303,
+                    43.51174
+                ],
+                [
+                    19.53089,
+                    43.50999
+                ],
+                [
+                    19.52729,
+                    43.51535
+                ],
+                [
+                    19.52716,
+                    43.5199
+                ],
+                [
+                    19.53089,
+                    43.52572
+                ],
+                [
+                    19.52908,
+                    43.52867
+                ],
+                [
+                    19.54637,
+                    43.54153
+                ],
+                [
+                    19.54867,
+                    43.53926
+                ],
+                [
+                    19.54798,
+                    43.54799
+                ],
+                [
+                    19.53925,
+                    43.56071
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/naselje-polin-potok-lisa-stena-stan-i-gradac-pecina-naselje/",
+        "canonical_url": "https://pss.rs/terenipp/naselje-polin-potok-lisa-stena-stan-i-gradac-pecina-naselje/",
+        "pss_id": 11944,
+        "updated_at": "2020-11-26T15:39:49Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:01:06Z",
+        "last_synced_at": "2026-11-08T12:01:06Z"
+    },
+    "search": "naselje-polin potok-lisa stena-stan i gradac pecina-naselje 5-40-1 jugozapadna srbija pobijenik novi deo grada priboj (naselje), 380 m novi deo grada priboj (naselje), 380 m ljeskovac zkp • gradac i stan pecina • vidikovac: lisa stena • naselja: banjski camac, dobrilovici, pribojska golesa • na trasi ima 2 izvora pitke vode • u lovackoj kuci na lisoj steni postoji smestajni kapacitet od 20 lezajeva. pored ovog smestaja koji je na trasi, postoji i smestaj na pocetku staze u hotelu lim, kao i privatni smestaj u novom delu grada naselje. u pribojskoj banji koja je van trase (udaljena 5 km) postoji privatni smestajni kapacitet. zahtevna staza krece iz centra grada ispred hotela lim. odatle se prati planinarska markacija u pravcu jugoistok asfaltnim putem ka naselju banjski camac. od naselja banjski camac blago okrenuti ka zapadu ide se do usca polinog potoka u lim, a zatim staza ide u pravcu juga ka naselju dobrilovici i dalje ka vidikovcu lisa stena i lovackoj kuci (kota 1193 m). kod lovacke kuce se nalazi izvor pijace vode. od lovacke kuce u pravcu severa staza ide ka pecini gradac. a zatim u pravcu severoistoka staza se vraca na pocetnu tacku.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:01:06Z"
+    }
+}

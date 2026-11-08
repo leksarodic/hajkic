@@ -1,0 +1,173 @@
+{
+    "schema_version": 1,
+    "slug": "kravlje-goli-vrh",
+    "name": "Kravlje - Goli vrh",
+    "code": "4-47-4",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 4492,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            96
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Kalafat",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 3.5,
+        "calculated_km": 3.45
+    },
+    "duration": {
+        "official_minutes": 120,
+        "official_text": "2 h",
+        "official_raw": "2:00"
+    },
+    "elevation": {
+        "official_gain_m": 421.0,
+        "official_loss_m": 0.0,
+        "calculated_gain_m": 405.9,
+        "calculated_loss_m": 29.8,
+        "min_m": 284.3,
+        "max_m": 678.8
+    },
+    "start": "Autobusko stajalište i česma u selu Kravlje, 300m",
+    "end": "Goli vrh, 683m",
+    "description": null,
+    "landmarks": "Na trasi ima jedan izvor pitke vode.",
+    "maintenance": "teško prohodna",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Staza je poslednji put markirana 31.3.2015.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Železničar PK Niš",
+        "url": "https://pss.rs/adresar_klubova/zeleznicar-pk/",
+        "contact": "Tvrđava bb, 18000 Niš\n064 833 000 3, 061 168 777 1\nhttp://www.planinari-zeleznicar.rs/",
+        "clubs": [
+            {
+                "name": "Železničar PK Niš",
+                "url": "https://pss.rs/adresar_klubova/zeleznicar-pk/",
+                "contact": "Tvrđava bb, 18000 Niš\n064 833 000 3, 061 168 777 1\nhttp://www.planinari-zeleznicar.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/08/4-47-4-Kravlje-Goli-vrh.gpx",
+        "fetched_at": "2026-11-08T11:57:18Z",
+        "checked_at": "2026-11-08T11:57:18Z",
+        "bytes": 71796,
+        "sha256": "940ab21e3fb9ad9ad0133ea2632c74ea0b0092ff0dea7216639deaae1bf1bd51",
+        "etag": null,
+        "last_modified": "Wed, 31 Jan 2018 10:58:47 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 592,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 2,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/08/4-47-4-Kravlje-Goli-vrh.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/kravlje-goli-vrh.geojson",
+        "bbox": [
+            21.887848069891334,
+            43.44146347604692,
+            21.910547018051147,
+            43.45780768431723
+        ],
+        "center": [
+            21.899198,
+            43.449636
+        ],
+        "start_point": [
+            21.90833754837513,
+            43.45780768431723
+        ],
+        "end_point": [
+            21.887848069891334,
+            43.44167520292103
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.90834,
+                    43.45781
+                ],
+                [
+                    21.91054,
+                    43.4551
+                ],
+                [
+                    21.90477,
+                    43.45136
+                ],
+                [
+                    21.9059,
+                    43.45024
+                ],
+                [
+                    21.89842,
+                    43.4494
+                ],
+                [
+                    21.89136,
+                    43.4455
+                ],
+                [
+                    21.89143,
+                    43.44245
+                ],
+                [
+                    21.88785,
+                    43.44168
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/kravlje-goli-vrh/",
+        "canonical_url": "https://pss.rs/terenipp/kravlje-goli-vrh/",
+        "pss_id": 4492,
+        "updated_at": "2018-01-31T10:59:15Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:57:18Z",
+        "last_synced_at": "2026-11-08T11:57:18Z"
+    },
+    "search": "kravlje - goli vrh 4-47-4 istocna srbija kalafat autobusko stajaliste i cesma u selu kravlje, 300m goli vrh, 683m zeleznicar pk nis na trasi ima jedan izvor pitke vode. laka",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:57:18Z"
+    }
+}

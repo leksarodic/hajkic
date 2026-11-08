@@ -1,0 +1,124 @@
+{
+    "schema_version": 1,
+    "slug": "capljinac-ravniste",
+    "name": "Čapljinac-Ravnište",
+    "code": "4-31-3",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 3801,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            57
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Devica",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 4.4,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": 90,
+        "official_text": "1 h 30 min",
+        "official_raw": "1:30"
+    },
+    "elevation": {
+        "official_gain_m": null,
+        "official_loss_m": null,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": "Čapljinac (vrh Device)",
+    "end": "Ravnište - veza Radenkovac",
+    "description": null,
+    "landmarks": null,
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": "1:50000 (532 Aleksinac C3)",
+    "club": {
+        "name": "Oštra čuka PD",
+        "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+        "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/",
+        "clubs": [
+            {
+                "name": "Oštra čuka PD",
+                "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+                "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": false,
+        "status": "missing",
+        "source_url": null,
+        "fetched_at": null,
+        "checked_at": "2026-11-08T11:55:29Z",
+        "bytes": null,
+        "sha256": null,
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": null,
+        "tracks": null,
+        "segments": null,
+        "waypoints": null,
+        "error": null,
+        "download": {
+            "mode": "none",
+            "url": null
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description",
+            "missing_gpx"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/capljinac-ravniste/",
+        "canonical_url": "https://pss.rs/terenipp/capljinac-ravniste/",
+        "pss_id": 3801,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:55:29Z",
+        "last_synced_at": "2026-11-08T11:55:29Z"
+    },
+    "search": "capljinac-ravniste 4-31-3 istocna srbija devica capljinac (vrh device) ravniste - veza radenkovac ostra cuka pd laka",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:55:29Z"
+    }
+}

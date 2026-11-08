@@ -1,0 +1,123 @@
+{
+    "schema_version": 1,
+    "slug": "iverak-debeli-rt",
+    "name": "Iverak (Debeli rt)",
+    "code": "3-1-3",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 4472,
+        "category_id": 28,
+        "region_ids": [
+            3
+        ],
+        "mountain_ids": [
+            65
+        ]
+    },
+    "region": "Zapadna Srbija",
+    "mountain": "Cer",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 16.0,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": 270,
+        "official_text": "4 h 30 min",
+        "official_raw": "4:30"
+    },
+    "elevation": {
+        "official_gain_m": null,
+        "official_loss_m": null,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": "Planinarski dom \"Lipove vode\" 620m",
+    "end": "Planinarski dom \"Lipove vode\" 620m",
+    "description": "Staza: planinarski dom \"Lipove vode\" - Besegač - Trbosilje - Iverak (Debeli rt) - Milina - Mirkovača - planinarski dom \"Lipove vode\"",
+    "landmarks": null,
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinarski dom \"Lipove vode\"",
+    "notes": "Stazu trasirali članovi PSD \"Cer\" 2014.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Cer PSD",
+        "url": "https://pss.rs/adresar_klubova/cer-psd/",
+        "contact": "Veliki park bb, 15000 Šabac\n063/287747",
+        "clubs": [
+            {
+                "name": "Cer PSD",
+                "url": "https://pss.rs/adresar_klubova/cer-psd/",
+                "contact": "Veliki park bb, 15000 Šabac\n063/287747"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": false,
+        "status": "missing",
+        "source_url": null,
+        "fetched_at": null,
+        "checked_at": "2026-11-08T11:56:51Z",
+        "bytes": null,
+        "sha256": null,
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": null,
+        "tracks": null,
+        "segments": null,
+        "waypoints": null,
+        "error": null,
+        "download": {
+            "mode": "none",
+            "url": null
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_gpx"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/iverak-debeli-rt/",
+        "canonical_url": "https://pss.rs/terenipp/iverak-debeli-rt/",
+        "pss_id": 4472,
+        "updated_at": "2017-08-20T13:24:04Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:56:51Z",
+        "last_synced_at": "2026-11-08T11:56:51Z"
+    },
+    "search": "iverak (debeli rt) 3-1-3 zapadna srbija cer planinarski dom \"lipove vode\" 620m planinarski dom \"lipove vode\" 620m cer psd zahtevna staza: planinarski dom \"lipove vode\" - besegac - trbosilje - iverak (debeli rt) - milina - mirkovaca - planinarski dom \"lipove vode\"",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:56:51Z"
+    }
+}

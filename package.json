@@ -1,0 +1,10 @@
+{
+  "name": "hajkic",
+  "private": true,
+  "type": "module",
+  "description": "Hajkić — interactive hiking map of Serbia",
+  "scripts": {
+    "test:js": "node --test tests/js/*.test.mjs",
+    "test:php": "php tests/run.php"
+  }
+}

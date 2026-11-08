@@ -1,0 +1,191 @@
+{
+    "schema_version": 1,
+    "slug": "etno-naselje-suncana-reka-kam-crni-vrh-gucevo",
+    "name": "Etno naselje Sunčana reka - Kam - Crni vrh (Gučevo)",
+    "code": "3-3-3",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 7925,
+        "category_id": 28,
+        "region_ids": [
+            3
+        ],
+        "mountain_ids": [
+            89
+        ]
+    },
+    "region": "Zapadna Srbija",
+    "mountain": "Gučevo",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 5.8,
+        "calculated_km": 5.84
+    },
+    "duration": {
+        "official_minutes": 140,
+        "official_text": "2 h 20 min",
+        "official_raw": "2:20"
+    },
+    "elevation": {
+        "official_gain_m": 708.0,
+        "official_loss_m": 57.0,
+        "calculated_gain_m": 691.4,
+        "calculated_loss_m": 44.0,
+        "min_m": 129.6,
+        "max_m": 777.3
+    },
+    "start": "Etno naselje \"Sunčana reka\" (reka Drina), 133m",
+    "end": "Crni vrh, vrh Gučeva, 799m",
+    "description": "Sa parkinga etno naselja \"Sunčana reka\" preći magistralni put Loznica-Mali Zvornik, popeti se na pružni bedem i krenuti u pravcu severa i započeti uspon padinama Gučeva. Doći na padine Vinogradine odakle se već vidi piramidalni deo Gučeva \"Kam\". Izlaskom na asfaltni put krenuti udesno pored putnog branika i na njegovom kraju otpočeti uspon izohipsom ka Kamskoj steni. Od stene-vidikovca grebenom Kama doći do spajanje sa stazom br. 2 i istim pravcem preći breg Kamenite bukve i doći do Spomen kosturnice i samog Crnog vrha.",
+    "landmarks": "• Reka Drina\n\n • Etno selo \"Sunčana reka\"\n\n • Spomen kosturnica iz Prvog svetskog rata\n\n • Izvori pitke vode: 3\n\n • Na trasi: kamp i odmaralište\n\n • Van trase: planinarski objekat",
+    "maintenance": "delimično uređena",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu trasirao Branko Mitrić, marta 2018. godine\n\n • Staza je poslednji put markirana marta 2018. godine",
+    "map_reference": null,
+    "map_sheet": "Planinarsko-turistička info karta, razmera 1:15000, formata A3",
+    "club": {
+        "name": "Gučevo PK",
+        "url": "https://pss.rs/adresar_klubova/gucevo-pk/",
+        "contact": "Gimnazijska bb, 15300 Loznica\n+38164 1882423 ; +38169 1011687",
+        "clubs": [
+            {
+                "name": "Gučevo PK",
+                "url": "https://pss.rs/adresar_klubova/gucevo-pk/",
+                "contact": "Gimnazijska bb, 15300 Loznica\n+38164 1882423 ; +38169 1011687"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 11,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2018/12/3-3-3-staza-3.gpx",
+        "fetched_at": "2026-11-08T11:59:32Z",
+        "checked_at": "2026-11-08T11:59:32Z",
+        "bytes": 62215,
+        "sha256": "3f82b6b34e4256b83e52dcdeb107832f912f41ee4e68360a0fc1440bac1f52ee",
+        "etag": null,
+        "last_modified": "Mon, 17 Dec 2018 18:54:20 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 505,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 3,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2018/12/3-3-3-staza-3.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/etno-naselje-suncana-reka-kam-crni-vrh-gucevo.geojson",
+        "bbox": [
+            19.136477457359433,
+            44.486821917817,
+            19.177353819832206,
+            44.49841073714197
+        ],
+        "center": [
+            19.156916,
+            44.492616
+        ],
+        "start_point": [
+            19.136507799848914,
+            44.49616547673941
+        ],
+        "end_point": [
+            19.177353819832206,
+            44.488525204360485
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    19.13651,
+                    44.49617
+                ],
+                [
+                    19.13863,
+                    44.49841
+                ],
+                [
+                    19.14337,
+                    44.49779
+                ],
+                [
+                    19.14217,
+                    44.49691
+                ],
+                [
+                    19.15067,
+                    44.49336
+                ],
+                [
+                    19.1566,
+                    44.49441
+                ],
+                [
+                    19.15326,
+                    44.49186
+                ],
+                [
+                    19.16015,
+                    44.49065
+                ],
+                [
+                    19.16436,
+                    44.48713
+                ],
+                [
+                    19.17191,
+                    44.48682
+                ],
+                [
+                    19.17564,
+                    44.48822
+                ],
+                [
+                    19.17519,
+                    44.48992
+                ],
+                [
+                    19.17735,
+                    44.48853
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/etno-naselje-suncana-reka-kam-crni-vrh-gucevo/",
+        "canonical_url": "https://pss.rs/terenipp/etno-naselje-suncana-reka-kam-crni-vrh-gucevo/",
+        "pss_id": 7925,
+        "updated_at": "2018-12-17T19:01:13Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:59:33Z",
+        "last_synced_at": "2026-11-08T11:59:33Z"
+    },
+    "search": "etno naselje suncana reka - kam - crni vrh (gucevo) 3-3-3 zapadna srbija gucevo etno naselje \"suncana reka\" (reka drina), 133m crni vrh, vrh guceva, 799m gucevo pk • reka drina • etno selo \"suncana reka\" • spomen kosturnica iz prvog svetskog rata • izvori pitke vode: 3 • na trasi: kamp i odmaraliste • van trase: planinarski objekat zahtevna sa parkinga etno naselja \"suncana reka\" preci magistralni put loznica-mali zvornik, popeti se na pruzni bedem i krenuti u pravcu severa i zapoceti uspon padinama guceva. doci na padine vinogradine odakle se vec vidi piramidalni deo guceva \"kam\". izlaskom na asfaltni put krenuti udesno pored putnog branika i na njegovom kraju otpoceti uspon izohipsom ka kamskoj steni. od stene-vidikovca grebenom kama doci do spajanje sa stazom br. 2 i istim pravcem preci breg kamenite bukve i doci do spomen kosturnice i samog crnog vrha.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:59:33Z"
+    }
+}

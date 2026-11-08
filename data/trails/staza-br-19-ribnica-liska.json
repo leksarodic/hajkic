@@ -1,0 +1,229 @@
+{
+    "schema_version": 1,
+    "slug": "staza-br-19-ribnica-liska",
+    "name": "Staza br. 19: Ribnica – Liska",
+    "code": "5-12-21",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 19323,
+        "category_id": 28,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            122
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Zlatibor",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 12.9,
+        "calculated_km": 12.93
+    },
+    "duration": {
+        "official_minutes": 300,
+        "official_text": "5 h",
+        "official_raw": "5:00"
+    },
+    "elevation": {
+        "official_gain_m": 570.0,
+        "official_loss_m": 570.0,
+        "calculated_gain_m": 611.8,
+        "calculated_loss_m": 613.2,
+        "min_m": 945.7,
+        "max_m": 1355.3
+    },
+    "start": "Đurovića groblje na putu Ribnica – Jablanica (raskrsnica za Stublo i Tornik) - 1190 m",
+    "end": "Đurovića groblje na putu Ribnica – Jablanica (raskrsnica za Stublo i Tornik) - 1190 m",
+    "description": "Đurovića groblje - Vrh Liska (1,4 km) - vrh Jeličić (3,6 km) - Masnica (7,1 km) - Bakići (11,0 km) - Đurovića groblje (14,9 km)",
+    "landmarks": "Vrh Liska, Rudnik magnezita Liska, stoletni borovi kod Đurovića groblja.",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Stazu je trasirao Stefanović Slobodan iz Užica 2019. godine i markirana je 2020. godine. Staza je izgrađena sredstvima JP-a \"Srbijašume\" Beograd, upravitelja Parka prirode \"Zlatibor\". Neophodno je da im se pre obilaska staze najavite na telefon: 031/3841-278.",
+    "map_reference": null,
+    "map_sheet": "1:50000 Užice 3 (528/3)",
+    "club": {
+        "name": "Tornik PK",
+        "url": "https://pss.rs/adresar_klubova/tornik-pk/",
+        "contact": "Zlatiborska 28\n064 156 55 78",
+        "clubs": [
+            {
+                "name": "Tornik PK",
+                "url": "https://pss.rs/adresar_klubova/tornik-pk/",
+                "contact": "Zlatiborska 28\n064 156 55 78"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 8,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2023/03/Staza-19-Ribnica-Liska.gpx",
+        "fetched_at": "2026-11-08T12:03:11Z",
+        "checked_at": "2026-11-08T12:03:11Z",
+        "bytes": 172663,
+        "sha256": "ae1fd630b69093786b84b39c2c07f326b33330ecb5699dc02562efd12a1d74a3",
+        "etag": null,
+        "last_modified": "Fri, 31 Mar 2023 20:11:16 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 1588,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 4,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2023/03/Staza-19-Ribnica-Liska.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/staza-br-19-ribnica-liska.geojson",
+        "bbox": [
+            19.59321,
+            43.664185,
+            19.630604,
+            43.688435
+        ],
+        "center": [
+            19.611907,
+            43.67631
+        ],
+        "start_point": [
+            19.621796,
+            43.66429
+        ],
+        "end_point": [
+            19.621658,
+            43.664293
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    19.6218,
+                    43.66429
+                ],
+                [
+                    19.6119,
+                    43.66592
+                ],
+                [
+                    19.6112,
+                    43.6687
+                ],
+                [
+                    19.60985,
+                    43.66621
+                ],
+                [
+                    19.60183,
+                    43.66912
+                ],
+                [
+                    19.60199,
+                    43.67925
+                ],
+                [
+                    19.59337,
+                    43.68052
+                ],
+                [
+                    19.59371,
+                    43.68633
+                ],
+                [
+                    19.59624,
+                    43.68461
+                ],
+                [
+                    19.60247,
+                    43.68516
+                ],
+                [
+                    19.60279,
+                    43.6869
+                ],
+                [
+                    19.61307,
+                    43.68829
+                ],
+                [
+                    19.61911,
+                    43.68537
+                ],
+                [
+                    19.62168,
+                    43.68653
+                ],
+                [
+                    19.63016,
+                    43.68075
+                ],
+                [
+                    19.62661,
+                    43.67742
+                ],
+                [
+                    19.61965,
+                    43.6768
+                ],
+                [
+                    19.62137,
+                    43.67443
+                ],
+                [
+                    19.6186,
+                    43.66757
+                ],
+                [
+                    19.62166,
+                    43.66429
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/staza-br-19-ribnica-liska/",
+        "canonical_url": "https://pss.rs/terenipp/staza-br-19-ribnica-liska/",
+        "pss_id": 19323,
+        "updated_at": "2023-09-08T20:19:03Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:03:11Z",
+        "last_synced_at": "2026-11-08T12:03:11Z"
+    },
+    "search": "staza br. 19: ribnica – liska 5-12-21 jugozapadna srbija zlatibor djurovica groblje na putu ribnica – jablanica (raskrsnica za stublo i tornik) - 1190 m djurovica groblje na putu ribnica – jablanica (raskrsnica za stublo i tornik) - 1190 m tornik pk vrh liska, rudnik magnezita liska, stoletni borovi kod djurovica groblja. laka djurovica groblje - vrh liska (1,4 km) - vrh jelicic (3,6 km) - masnica (7,1 km) - bakici (11,0 km) - djurovica groblje (14,9 km)",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:03:11Z"
+    }
+}

@@ -1,0 +1,197 @@
+{
+    "schema_version": 1,
+    "slug": "cirin-prolaz-gradiste-ples",
+    "name": "Ćirin prolaz - Gradište - Pleš",
+    "code": "4-39-4",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 4495,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            51
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Svrljiške planine",
+    "difficulty": {
+        "key": "vrlo_teska",
+        "label": "Vrlo teška",
+        "source": "vrlo teška"
+    },
+    "distance": {
+        "official_km": 7.92,
+        "calculated_km": 7.83
+    },
+    "duration": {
+        "official_minutes": 240,
+        "official_text": "4 h",
+        "official_raw": "4:00"
+    },
+    "elevation": {
+        "official_gain_m": 1017.0,
+        "official_loss_m": 0.0,
+        "calculated_gain_m": 1013.0,
+        "calculated_loss_m": 36.9,
+        "min_m": 277.4,
+        "max_m": 1260.2
+    },
+    "start": "Magistralni put E80, autobusko stajalište iza tunela br. 8, 250m",
+    "end": "Pleš, 1267m",
+    "description": null,
+    "landmarks": "Na stazi jedan izvor pitke vode.",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Staza je poslednji put markirana 19.5.2013.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Železničar PK Niš",
+        "url": "https://pss.rs/adresar_klubova/zeleznicar-pk/",
+        "contact": "Tvrđava bb, 18000 Niš\n064 833 000 3, 061 168 777 1\nhttp://www.planinari-zeleznicar.rs/",
+        "clubs": [
+            {
+                "name": "Železničar PK Niš",
+                "url": "https://pss.rs/adresar_klubova/zeleznicar-pk/",
+                "contact": "Tvrđava bb, 18000 Niš\n064 833 000 3, 061 168 777 1\nhttp://www.planinari-zeleznicar.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/08/4-39-4-Cirin-prolaz-Gradiste-Ples.gpx",
+        "fetched_at": "2026-11-08T11:57:23Z",
+        "checked_at": "2026-11-08T11:57:23Z",
+        "bytes": 79048,
+        "sha256": "82be6f853e747bdf8d5d7c580c058fb2f135b66e9ce57a0b7552631ef9012bf7",
+        "etag": null,
+        "last_modified": "Wed, 31 Jan 2018 10:48:15 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 650,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 5,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/08/4-39-4-Cirin-prolaz-Gradiste-Ples.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/cirin-prolaz-gradiste-ples.geojson",
+        "bbox": [
+            22.153899567201734,
+            43.32151483744383,
+            22.177792182192206,
+            43.35418741218746
+        ],
+        "center": [
+            22.165846,
+            43.337851
+        ],
+        "start_point": [
+            22.164996871724725,
+            43.32462837919593
+        ],
+        "end_point": [
+            22.16493953950703,
+            43.353977194055915
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    22.165,
+                    43.32463
+                ],
+                [
+                    22.16653,
+                    43.32557
+                ],
+                [
+                    22.17772,
+                    43.32185
+                ],
+                [
+                    22.17538,
+                    43.32733
+                ],
+                [
+                    22.17779,
+                    43.33008
+                ],
+                [
+                    22.17679,
+                    43.33363
+                ],
+                [
+                    22.17302,
+                    43.33589
+                ],
+                [
+                    22.16828,
+                    43.33399
+                ],
+                [
+                    22.16798,
+                    43.33814
+                ],
+                [
+                    22.16347,
+                    43.33931
+                ],
+                [
+                    22.16533,
+                    43.34252
+                ],
+                [
+                    22.15396,
+                    43.34778
+                ],
+                [
+                    22.15859,
+                    43.35309
+                ],
+                [
+                    22.16494,
+                    43.35398
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/cirin-prolaz-gradiste-ples/",
+        "canonical_url": "https://pss.rs/terenipp/cirin-prolaz-gradiste-ples/",
+        "pss_id": 4495,
+        "updated_at": "2018-01-31T10:48:50Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:57:24Z",
+        "last_synced_at": "2026-11-08T11:57:24Z"
+    },
+    "search": "cirin prolaz - gradiste - ples 4-39-4 istocna srbija svrljiske planine magistralni put e80, autobusko stajaliste iza tunela br. 8, 250m ples, 1267m zeleznicar pk nis na stazi jedan izvor pitke vode. vrlo teska",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:57:24Z"
+    }
+}

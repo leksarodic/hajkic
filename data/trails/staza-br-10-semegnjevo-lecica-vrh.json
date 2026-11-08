@@ -1,0 +1,237 @@
+{
+    "schema_version": 1,
+    "slug": "staza-br-10-semegnjevo-lecica-vrh",
+    "name": "Staza br. 10: Semegnjevo – Lečića vrh",
+    "code": "5-12-17",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 19264,
+        "category_id": 28,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            122
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Zlatibor",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 15.5,
+        "calculated_km": 15.53
+    },
+    "duration": {
+        "official_minutes": 345,
+        "official_text": "5 h 45 min",
+        "official_raw": "5:45"
+    },
+    "elevation": {
+        "official_gain_m": 730.0,
+        "official_loss_m": 730.0,
+        "calculated_gain_m": 769.2,
+        "calculated_loss_m": 756.5,
+        "min_m": 735.5,
+        "max_m": 1094.7
+    },
+    "start": "Kupalište Trčinoga na putu od Zlatibora prema Semegnjevu",
+    "end": "Kupalište Trčinoga na putu od Zlatibora prema Semegnjevu",
+    "description": "Kupalište Trčinoga - Lečića vrh (2,2 km) - Milinkovići (8,8 km) - vrh Kolibište (11,2 km) - kupalište Trčinoga (15,5 km)",
+    "landmarks": "Vrh Kolibište (976 m), Lečića vrh (1091 m), železnička stanica „Zlatibor“",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Stazu je trasirao Stefanović Slobodan iz Užica 2019. godine i markirana je 2020. godine. Staza je izgrađena sredstvima JP-a \"Srbijašume\" Beograd, upravitelja Parka prirode \"Zlatibor\". Neophodno je da im se pre obilaska staze najavite na telefon: 031/3841-278.",
+    "map_reference": null,
+    "map_sheet": "1:50000 Užice 3 (528/3)",
+    "club": {
+        "name": "Tornik PK",
+        "url": "https://pss.rs/adresar_klubova/tornik-pk/",
+        "contact": "Zlatiborska 28\n064 156 55 78",
+        "clubs": [
+            {
+                "name": "Tornik PK",
+                "url": "https://pss.rs/adresar_klubova/tornik-pk/",
+                "contact": "Zlatiborska 28\n064 156 55 78"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 10,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2023/03/Staza-10-Semegnjevo-Lecica-vrh.gpx",
+        "fetched_at": "2026-11-08T12:03:04Z",
+        "checked_at": "2026-11-08T12:03:04Z",
+        "bytes": 120065,
+        "sha256": "98b87dd84922fbc149978b9376c21d6c3e7cc0cb15bd3b810583a2ed681a2cf8",
+        "etag": null,
+        "last_modified": "Thu, 30 Mar 2023 21:36:03 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 1595,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 8,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2023/03/Staza-10-Semegnjevo-Lecica-vrh.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/staza-br-10-semegnjevo-lecica-vrh.geojson",
+        "bbox": [
+            19.605905525,
+            43.715550788,
+            19.65083127,
+            43.747022236
+        ],
+        "center": [
+            19.628368,
+            43.731287
+        ],
+        "start_point": [
+            19.646213531,
+            43.736255646
+        ],
+        "end_point": [
+            19.646179199,
+            43.736270905
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    19.64621,
+                    43.73626
+                ],
+                [
+                    19.65077,
+                    43.73473
+                ],
+                [
+                    19.65071,
+                    43.72574
+                ],
+                [
+                    19.64291,
+                    43.72249
+                ],
+                [
+                    19.63925,
+                    43.72448
+                ],
+                [
+                    19.63294,
+                    43.72089
+                ],
+                [
+                    19.63077,
+                    43.72168
+                ],
+                [
+                    19.62888,
+                    43.71555
+                ],
+                [
+                    19.62029,
+                    43.71993
+                ],
+                [
+                    19.61526,
+                    43.71667
+                ],
+                [
+                    19.60601,
+                    43.7248
+                ],
+                [
+                    19.61242,
+                    43.72783
+                ],
+                [
+                    19.61653,
+                    43.73599
+                ],
+                [
+                    19.62043,
+                    43.73561
+                ],
+                [
+                    19.61964,
+                    43.74034
+                ],
+                [
+                    19.62458,
+                    43.74331
+                ],
+                [
+                    19.62407,
+                    43.74702
+                ],
+                [
+                    19.63356,
+                    43.74432
+                ],
+                [
+                    19.63473,
+                    43.73944
+                ],
+                [
+                    19.63961,
+                    43.73544
+                ],
+                [
+                    19.63944,
+                    43.73193
+                ],
+                [
+                    19.64618,
+                    43.73627
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/staza-br-10-semegnjevo-lecica-vrh/",
+        "canonical_url": "https://pss.rs/terenipp/staza-br-10-semegnjevo-lecica-vrh/",
+        "pss_id": 19264,
+        "updated_at": "2023-09-08T20:21:10Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:03:04Z",
+        "last_synced_at": "2026-11-08T12:03:04Z"
+    },
+    "search": "staza br. 10: semegnjevo – lecica vrh 5-12-17 jugozapadna srbija zlatibor kupaliste trcinoga na putu od zlatibora prema semegnjevu kupaliste trcinoga na putu od zlatibora prema semegnjevu tornik pk vrh kolibiste (976 m), lecica vrh (1091 m), zeleznicka stanica „zlatibor“ laka kupaliste trcinoga - lecica vrh (2,2 km) - milinkovici (8,8 km) - vrh kolibiste (11,2 km) - kupaliste trcinoga (15,5 km)",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:03:04Z"
+    }
+}

@@ -1,0 +1,289 @@
+{
+    "schema_version": 1,
+    "slug": "vrsacka-transverzala",
+    "name": "Vršačka transverzala",
+    "code": "T-1-3",
+    "category": {
+        "key": "planinarske-transverzale",
+        "label": "Planinarske transverzale"
+    },
+    "pss": {
+        "post_id": 3661,
+        "category_id": 30,
+        "region_ids": [
+            1
+        ],
+        "mountain_ids": [
+            33
+        ]
+    },
+    "region": "Vojvodina",
+    "mountain": "Vršačke planine",
+    "difficulty": {
+        "key": "nepoznato",
+        "label": "Nije navedeno",
+        "source": null
+    },
+    "distance": {
+        "official_km": 27.0,
+        "calculated_km": 27.41
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": 1060.0,
+        "official_loss_m": 960.0,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": null,
+    "end": null,
+    "description": null,
+    "landmarks": "Vršačka kula, manastiri Mesić i Središte, crkva Sv.Teodora Vršačkog, Gudurički vrh /najviši vrh Vojvodine)",
+    "maintenance": null,
+    "marking": "propisana planinarska",
+    "accommodation": "Planinarski dom \"Široko bilo\"",
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": null,
+    "club": null,
+    "legend": [],
+    "photos_count": 7,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/T-1-3.gpx",
+        "fetched_at": "2026-11-08T12:50:31Z",
+        "checked_at": "2026-11-08T12:50:31Z",
+        "bytes": 40910,
+        "sha256": "0144e8879d8a8c90a0c1b56af66c66b81e55bcb048f07eebf4d4deb0c4870231",
+        "etag": null,
+        "last_modified": "Sat, 11 Mar 2023 10:50:40 GMT",
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": 934,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/T-1-3.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/vrsacka-transverzala.geojson",
+        "bbox": [
+            21.3099197,
+            45.1029647,
+            21.4165619,
+            45.1472179
+        ],
+        "center": [
+            21.363241,
+            45.125091
+        ],
+        "start_point": [
+            21.3099197,
+            45.1172717
+        ],
+        "end_point": [
+            21.3601697,
+            45.126624
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.30992,
+                    45.11727
+                ],
+                [
+                    21.32139,
+                    45.11774
+                ],
+                [
+                    21.32803,
+                    45.12442
+                ],
+                [
+                    21.34062,
+                    45.12828
+                ],
+                [
+                    21.34154,
+                    45.12534
+                ],
+                [
+                    21.34725,
+                    45.1218
+                ],
+                [
+                    21.35675,
+                    45.12217
+                ],
+                [
+                    21.34763,
+                    45.12994
+                ],
+                [
+                    21.35453,
+                    45.13307
+                ],
+                [
+                    21.35473,
+                    45.13977
+                ],
+                [
+                    21.36137,
+                    45.13809
+                ],
+                [
+                    21.367,
+                    45.1417
+                ],
+                [
+                    21.37151,
+                    45.13966
+                ],
+                [
+                    21.37676,
+                    45.14089
+                ],
+                [
+                    21.37927,
+                    45.14468
+                ],
+                [
+                    21.38635,
+                    45.14533
+                ],
+                [
+                    21.39065,
+                    45.14338
+                ],
+                [
+                    21.39608,
+                    45.14722
+                ],
+                [
+                    21.39895,
+                    45.1415
+                ],
+                [
+                    21.39541,
+                    45.13697
+                ],
+                [
+                    21.40398,
+                    45.13486
+                ],
+                [
+                    21.41272,
+                    45.13704
+                ],
+                [
+                    21.41533,
+                    45.12719
+                ],
+                [
+                    21.41152,
+                    45.12915
+                ],
+                [
+                    21.41167,
+                    45.12752
+                ],
+                [
+                    21.41494,
+                    45.12554
+                ],
+                [
+                    21.4165,
+                    45.1192
+                ],
+                [
+                    21.41195,
+                    45.1157
+                ],
+                [
+                    21.40378,
+                    45.11398
+                ],
+                [
+                    21.3989,
+                    45.10381
+                ],
+                [
+                    21.38049,
+                    45.1035
+                ],
+                [
+                    21.37448,
+                    45.11167
+                ],
+                [
+                    21.37188,
+                    45.1127
+                ],
+                [
+                    21.36856,
+                    45.10983
+                ],
+                [
+                    21.36676,
+                    45.1197
+                ],
+                [
+                    21.36017,
+                    45.12662
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_difficulty",
+            "missing_description",
+            "missing_elevation"
+        ]
+    },
+    "additional": {
+        "Planine/predeli": "Vršačke planine",
+        "Status": "aktivna",
+        "Datum poslednje verifikacije": "18/11/2018",
+        "Društvo": "Vršačka kula PSD",
+        "Vreme obilaska (dana)": "2",
+        "Godina otvaranja": "1976",
+        "Kontakt": "https://pss.rs/terenipp/vrsacka-transverzala/",
+        "Vrsta": "tačkasta",
+        "Broj kontrolnih tačaka": "8",
+        "Opis puta": "• Pogledajte link Planinarskog saveza Vojvodine:\n\n • http://planinari.org.rs/transverzale/vrsacka.html \n\n • Kontrolne tačke: KT 1 - SC Milenijum, KT 2 - Vršačka kula, KT 3 - Đakov vrh, KT 4 - Planinarski dom na Širokom Bilu, KT 5 - Lisičja Glava, KT 6 - Manastir Malo Središte, KT 7 - Gudurički vrh, KT 8 - Manastir Mesić",
+        "Dnevnik": "Ima Dnevnik i Pravilnik transverzale",
+        "Priznanja": "Bedž"
+    },
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/vrsacka-transverzala/",
+        "canonical_url": "https://pss.rs/terenipp/vrsacka-transverzala/",
+        "pss_id": 3661,
+        "updated_at": "2023-03-11T10:50:52Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:50:32Z",
+        "last_synced_at": "2026-11-08T12:50:32Z"
+    },
+    "search": "vrsacka transverzala t-1-3 vojvodina vrsacke planine vrsacka kula, manastiri mesic i srediste, crkva sv.teodora vrsackog, guduricki vrh /najvisi vrh vojvodine) nije navedeno",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:50:32Z"
+    }
+}

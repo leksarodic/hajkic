@@ -1,0 +1,173 @@
+{
+    "schema_version": 1,
+    "slug": "taskovici-crni-kamen",
+    "name": "Taskovići - Crni kamen",
+    "code": "7-3-7",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 4486,
+        "category_id": 28,
+        "region_ids": [
+            7
+        ],
+        "mountain_ids": [
+            50
+        ]
+    },
+    "region": "Jugoistočna Srbija",
+    "mountain": "Suva planina",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 5.97,
+        "calculated_km": 5.92
+    },
+    "duration": {
+        "official_minutes": 180,
+        "official_text": "3 h",
+        "official_raw": "3:00"
+    },
+    "elevation": {
+        "official_gain_m": null,
+        "official_loss_m": null,
+        "calculated_gain_m": 610.6,
+        "calculated_loss_m": 13.5,
+        "min_m": 259.5,
+        "max_m": 863.3
+    },
+    "start": "Spomen česma u selu Taskovići, 254m",
+    "end": "Crni kamen, 867m",
+    "description": null,
+    "landmarks": "Jedan izvor pitke vode u selu",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Staza je markirana poslednji put 19.6.2015.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Železničar PK Niš",
+        "url": "https://pss.rs/adresar_klubova/zeleznicar-pk/",
+        "contact": "Tvrđava bb, 18000 Niš\n064 833 000 3, 061 168 777 1\nhttp://www.planinari-zeleznicar.rs/",
+        "clubs": [
+            {
+                "name": "Železničar PK Niš",
+                "url": "https://pss.rs/adresar_klubova/zeleznicar-pk/",
+                "contact": "Tvrđava bb, 18000 Niš\n064 833 000 3, 061 168 777 1\nhttp://www.planinari-zeleznicar.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/08/7-3-7-Taskovici-Crni-kamen.gpx",
+        "fetched_at": "2026-11-08T11:57:07Z",
+        "checked_at": "2026-11-08T11:57:07Z",
+        "bytes": 52060,
+        "sha256": "f71651f091266b209fa20df86279692e0117fe5f88222d5dc4b2cb93e19e23fb",
+        "etag": null,
+        "last_modified": "Wed, 31 Jan 2018 11:15:23 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 426,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 2,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/08/7-3-7-Taskovici-Crni-kamen.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/taskovici-crni-kamen.geojson",
+        "bbox": [
+            22.01555239968002,
+            43.23812604881823,
+            22.04244615510106,
+            43.26712726615369
+        ],
+        "center": [
+            22.028999,
+            43.252627
+        ],
+        "start_point": [
+            22.01555239968002,
+            43.23996956460178
+        ],
+        "end_point": [
+            22.032669251784682,
+            43.266648072749376
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    22.01555,
+                    43.23997
+                ],
+                [
+                    22.01891,
+                    43.23813
+                ],
+                [
+                    22.03261,
+                    43.24003
+                ],
+                [
+                    22.03768,
+                    43.24507
+                ],
+                [
+                    22.03616,
+                    43.24925
+                ],
+                [
+                    22.03963,
+                    43.24901
+                ],
+                [
+                    22.04224,
+                    43.26023
+                ],
+                [
+                    22.03267,
+                    43.26665
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/taskovici-crni-kamen/",
+        "canonical_url": "https://pss.rs/terenipp/taskovici-crni-kamen/",
+        "pss_id": 4486,
+        "updated_at": "2018-01-31T11:15:52Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:57:08Z",
+        "last_synced_at": "2026-11-08T11:57:08Z"
+    },
+    "search": "taskovici - crni kamen 7-3-7 jugoistocna srbija suva planina spomen cesma u selu taskovici, 254m crni kamen, 867m zeleznicar pk nis jedan izvor pitke vode u selu laka",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:57:08Z"
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "schema_version": 1,
+    "slug": "kruzna-ljukten",
+    "name": "kružna \"Ljukten\"",
+    "code": "6-5-6",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 3963,
+        "category_id": 28,
+        "region_ids": [
+            6
+        ],
+        "mountain_ids": [
+            72
+        ]
+    },
+    "region": "Kopaoničko-Toplička regija",
+    "mountain": "Goč",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 10.0,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": 240,
+        "official_text": "4 h",
+        "official_raw": "4"
+    },
+    "elevation": {
+        "official_gain_m": 346.0,
+        "official_loss_m": 377.0,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": "Goč jezero 970 mnv",
+    "end": "selo Goč 1030 mnv",
+    "description": null,
+    "landmarks": "ostaci srednjovekovnog grada na Goču",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": "1:25000; 530-4-3 Kraljevo",
+    "club": {
+        "name": "Ljukten PSD",
+        "url": "https://pss.rs/adresar_klubova/ljukten-psd/",
+        "contact": "Čajkina 20, 37240 Trstenik\n+3869 614 035",
+        "clubs": [
+            {
+                "name": "Ljukten PSD",
+                "url": "https://pss.rs/adresar_klubova/ljukten-psd/",
+                "contact": "Čajkina 20, 37240 Trstenik\n+3869 614 035"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 1,
+    "gpx": {
+        "available": false,
+        "status": "missing",
+        "source_url": null,
+        "fetched_at": null,
+        "checked_at": "2026-11-08T11:56:32Z",
+        "bytes": null,
+        "sha256": null,
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": null,
+        "tracks": null,
+        "segments": null,
+        "waypoints": null,
+        "error": null,
+        "download": {
+            "mode": "none",
+            "url": null
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description",
+            "missing_gpx"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/kruzna-ljukten/",
+        "canonical_url": "https://pss.rs/terenipp/kruzna-ljukten/",
+        "pss_id": 3963,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:56:32Z",
+        "last_synced_at": "2026-11-08T11:56:32Z"
+    },
+    "search": "kruzna \"ljukten\" 6-5-6 kopaonicko-toplicka regija goc goc jezero 970 mnv selo goc 1030 mnv ljukten psd ostaci srednjovekovnog grada na gocu laka",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:56:32Z"
+    }
+}

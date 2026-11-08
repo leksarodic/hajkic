@@ -1,0 +1,175 @@
+{
+    "schema_version": 1,
+    "slug": "lepterija-sokograd-golemi-kamen",
+    "name": "Lepterija - Sokograd - Golemi kamen",
+    "code": "4-31-13",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 13396,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            57
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Devica",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 4.9,
+        "calculated_km": 4.85
+    },
+    "duration": {
+        "official_minutes": 150,
+        "official_text": "2 h 30 min",
+        "official_raw": "2:30"
+    },
+    "elevation": {
+        "official_gain_m": 398.0,
+        "official_loss_m": 398.0,
+        "calculated_gain_m": 385.5,
+        "calculated_loss_m": 386.2,
+        "min_m": 315.8,
+        "max_m": 592.5
+    },
+    "start": "Izletište Lepterija, 320 m",
+    "end": "Izletište Lepterija, 320 m",
+    "description": "Staza polazi sa izletišta Lepterija uzvodno pored reke Moravice. Zatim skreće udesno i prolazi pored dve pećine. Nastavlja šumskom stazom sa nešto jačim usponom do vidikovca Golemi kamen (panoramski pogled na sokobanjsku kotlinu). Odatle ide šumskom stazom po približnoj izohipsi iznad Sokograda. Skreće ulevo i spušta se jednom kosom do vidikovca Šiljati kamen (pogled na kanjon Moravice i Sokograd). Staza se nešto strmije spušta do kanjona reke Moravice i nastavlja tim kanjonom. Potom se penje do zidina starog grada - Sokograda. Odatle se silazi putem sa serpentinama do reke Moravice i stazom pored reke se stiže do startnog mesta. Staza je samostalna i koristi se za Dan pešačenja \"Srbija hoda\".",
+    "landmarks": "• Izletište Lepterija, Sokograd\n\n • Vidikovci: Golemi kamen, Šiljati kamen, Sokograd\n\n • Na trasi ima izvora pitke vode\n\n • Smeštaj: kamp",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu je trasirao marta 2015. PK \"Ozren\" Sokobanja (Dragan Knežević)\n\n • Poslednji put staza je markirana 2020. godine",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Ozren PK",
+        "url": "https://pss.rs/adresar_klubova/ozren-pk/",
+        "contact": "Alekse Markišića 28/3 18230 Sokobanja (poštanski fah 63)\n+38164 855 33 61",
+        "clubs": [
+            {
+                "name": "Ozren PK",
+                "url": "https://pss.rs/adresar_klubova/ozren-pk/",
+                "contact": "Alekse Markišića 28/3 18230 Sokobanja (poštanski fah 63)\n+38164 855 33 61"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2021/03/4-31-13-Lepterija-Sokograd-Golemi-kamen.gpx",
+        "fetched_at": "2026-11-08T12:01:55Z",
+        "checked_at": "2026-11-08T12:01:55Z",
+        "bytes": 77671,
+        "sha256": "0a61f4d87984e65f8a4e7bf507688b5d82e39cb42d898db8c2a92909b558c26b",
+        "etag": null,
+        "last_modified": "Tue, 30 Mar 2021 18:26:47 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 450,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 8,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2021/03/4-31-13-Lepterija-Sokograd-Golemi-kamen.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/lepterija-sokograd-golemi-kamen.geojson",
+        "bbox": [
+            21.884238990023732,
+            43.6291419994086,
+            21.898762984201312,
+            43.63867901265621
+        ],
+        "center": [
+            21.891501,
+            43.633911
+        ],
+        "start_point": [
+            21.887786965817213,
+            43.636816972866654
+        ],
+        "end_point": [
+            21.88781999051571,
+            43.63682300783694
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    21.88779,
+                    43.63682
+                ],
+                [
+                    21.8887,
+                    43.63509
+                ],
+                [
+                    21.88438,
+                    43.63358
+                ],
+                [
+                    21.89784,
+                    43.6294
+                ],
+                [
+                    21.8985,
+                    43.63635
+                ],
+                [
+                    21.89603,
+                    43.63868
+                ],
+                [
+                    21.89567,
+                    43.63587
+                ],
+                [
+                    21.89118,
+                    43.63394
+                ],
+                [
+                    21.88782,
+                    43.63682
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/lepterija-sokograd-golemi-kamen/",
+        "canonical_url": "https://pss.rs/terenipp/lepterija-sokograd-golemi-kamen/",
+        "pss_id": 13396,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:01:55Z",
+        "last_synced_at": "2026-11-08T12:01:55Z"
+    },
+    "search": "lepterija - sokograd - golemi kamen 4-31-13 istocna srbija devica izletiste lepterija, 320 m izletiste lepterija, 320 m ozren pk • izletiste lepterija, sokograd • vidikovci: golemi kamen, siljati kamen, sokograd • na trasi ima izvora pitke vode • smestaj: kamp laka staza polazi sa izletista lepterija uzvodno pored reke moravice. zatim skrece udesno i prolazi pored dve pecine. nastavlja sumskom stazom sa nesto jacim usponom do vidikovca golemi kamen (panoramski pogled na sokobanjsku kotlinu). odatle ide sumskom stazom po pribliznoj izohipsi iznad sokograda. skrece ulevo i spusta se jednom kosom do vidikovca siljati kamen (pogled na kanjon moravice i sokograd). staza se nesto strmije spusta do kanjona reke moravice i nastavlja tim kanjonom. potom se penje do zidina starog grada - sokograda. odatle se silazi putem sa serpentinama do reke moravice i stazom pored reke se stize do startnog mesta. staza je samostalna i koristi se za dan pesacenja \"srbija hoda\".",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:01:55Z"
+    }
+}

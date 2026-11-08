@@ -1,0 +1,371 @@
+{
+    "schema_version": 1,
+    "slug": "bukovacki-maraton-velika-staza",
+    "name": "Bukovački maraton - Velika staza",
+    "code": "1-3-3",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 4344,
+        "category_id": 28,
+        "region_ids": [
+            1
+        ],
+        "mountain_ids": [
+            63
+        ]
+    },
+    "region": "Vojvodina",
+    "mountain": "Fruška gora",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 47.8,
+        "calculated_km": 44.73
+    },
+    "duration": {
+        "official_minutes": 720,
+        "official_text": "12 h",
+        "official_raw": "12:00"
+    },
+    "elevation": {
+        "official_gain_m": 1350.0,
+        "official_loss_m": 1350.0,
+        "calculated_gain_m": 1365.4,
+        "calculated_loss_m": 1339.4,
+        "min_m": 156.8,
+        "max_m": 531.3
+    },
+    "start": "Bukovac 180m",
+    "end": "Bukovac 180m",
+    "description": null,
+    "landmarks": "• Oštećeni TV toranj \n\n • manastir Novo Hopovo\n\n • manastir Staro Hopovo\n\n • manastir Grgetek\n\n • manastir Krušedol\n\n • manastir Velika Remeta\n\n • Brankov grob i spomenik",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Staza trasirana 2004. a poslednji put markirana 2014.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Vilina vodica PD",
+        "url": "https://pss.rs/adresar_klubova/vilina-vodica-pd/",
+        "contact": "Karađorđeva 76, 21209 Bukovac\n021 82 60 22",
+        "clubs": [
+            {
+                "name": "Vilina vodica PD",
+                "url": "https://pss.rs/adresar_klubova/vilina-vodica-pd/",
+                "contact": "Karađorđeva 76, 21209 Bukovac\n021 82 60 22"
+            }
+        ]
+    },
+    "legend": [
+        "KT - kontrolna tačka"
+    ],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/07/Bukovacki-maraton-Veliki.gpx",
+        "fetched_at": "2026-11-08T11:56:46Z",
+        "checked_at": "2026-11-08T11:56:46Z",
+        "bytes": 513652,
+        "sha256": "70f6c10b9e7ef3f4aedf2accae6f8c3f5bd2fe7667cad6374025f00f96e064b5",
+        "etag": null,
+        "last_modified": "Fri, 21 Jul 2017 17:49:24 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 3143,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 13,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/07/Bukovacki-maraton-Veliki.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/bukovacki-maraton-velika-staza.geojson",
+        "bbox": [
+            19.835351994261146,
+            45.116505939513445,
+            19.939072681590915,
+            45.19148818217218
+        ],
+        "center": [
+            19.887212,
+            45.153997
+        ],
+        "start_point": [
+            19.894518004730344,
+            45.19148818217218
+        ],
+        "end_point": [
+            19.893428860232234,
+            45.19147946499288
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    19.89452,
+                    45.19149
+                ],
+                [
+                    19.88072,
+                    45.18571
+                ],
+                [
+                    19.87643,
+                    45.17955
+                ],
+                [
+                    19.8708,
+                    45.17755
+                ],
+                [
+                    19.87166,
+                    45.17536
+                ],
+                [
+                    19.86785,
+                    45.17612
+                ],
+                [
+                    19.87247,
+                    45.165
+                ],
+                [
+                    19.87622,
+                    45.16229
+                ],
+                [
+                    19.87396,
+                    45.15926
+                ],
+                [
+                    19.8599,
+                    45.15814
+                ],
+                [
+                    19.85259,
+                    45.15463
+                ],
+                [
+                    19.84161,
+                    45.15529
+                ],
+                [
+                    19.83847,
+                    45.15109
+                ],
+                [
+                    19.83535,
+                    45.15042
+                ],
+                [
+                    19.84496,
+                    45.13493
+                ],
+                [
+                    19.84346,
+                    45.13281
+                ],
+                [
+                    19.85275,
+                    45.1253
+                ],
+                [
+                    19.85798,
+                    45.13726
+                ],
+                [
+                    19.86144,
+                    45.13592
+                ],
+                [
+                    19.8629,
+                    45.13824
+                ],
+                [
+                    19.8503,
+                    45.15208
+                ],
+                [
+                    19.85575,
+                    45.15683
+                ],
+                [
+                    19.86335,
+                    45.15704
+                ],
+                [
+                    19.86995,
+                    45.15531
+                ],
+                [
+                    19.88322,
+                    45.14607
+                ],
+                [
+                    19.89564,
+                    45.14286
+                ],
+                [
+                    19.89797,
+                    45.14079
+                ],
+                [
+                    19.89628,
+                    45.13952
+                ],
+                [
+                    19.90236,
+                    45.13829
+                ],
+                [
+                    19.90363,
+                    45.13349
+                ],
+                [
+                    19.91515,
+                    45.1365
+                ],
+                [
+                    19.91544,
+                    45.13175
+                ],
+                [
+                    19.91703,
+                    45.13263
+                ],
+                [
+                    19.92397,
+                    45.11995
+                ],
+                [
+                    19.93115,
+                    45.12117
+                ],
+                [
+                    19.93623,
+                    45.11651
+                ],
+                [
+                    19.9388,
+                    45.12289
+                ],
+                [
+                    19.92938,
+                    45.13005
+                ],
+                [
+                    19.92543,
+                    45.13714
+                ],
+                [
+                    19.91675,
+                    45.14269
+                ],
+                [
+                    19.92003,
+                    45.14638
+                ],
+                [
+                    19.92322,
+                    45.14654
+                ],
+                [
+                    19.92275,
+                    45.15274
+                ],
+                [
+                    19.90891,
+                    45.15228
+                ],
+                [
+                    19.90758,
+                    45.14854
+                ],
+                [
+                    19.90086,
+                    45.14972
+                ],
+                [
+                    19.89524,
+                    45.15343
+                ],
+                [
+                    19.89458,
+                    45.15539
+                ],
+                [
+                    19.89823,
+                    45.15581
+                ],
+                [
+                    19.8984,
+                    45.15842
+                ],
+                [
+                    19.90798,
+                    45.16112
+                ],
+                [
+                    19.91715,
+                    45.16901
+                ],
+                [
+                    19.91046,
+                    45.17061
+                ],
+                [
+                    19.91418,
+                    45.1741
+                ],
+                [
+                    19.91238,
+                    45.17661
+                ],
+                [
+                    19.90241,
+                    45.17704
+                ],
+                [
+                    19.89343,
+                    45.19148
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/bukovacki-maraton-velika-staza/",
+        "canonical_url": "https://pss.rs/terenipp/bukovacki-maraton-velika-staza/",
+        "pss_id": 4344,
+        "updated_at": "2017-08-14T09:37:56Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:56:46Z",
+        "last_synced_at": "2026-11-08T11:56:46Z"
+    },
+    "search": "bukovacki maraton - velika staza 1-3-3 vojvodina fruska gora bukovac 180m bukovac 180m vilina vodica pd • osteceni tv toranj • manastir novo hopovo • manastir staro hopovo • manastir grgetek • manastir krusedol • manastir velika remeta • brankov grob i spomenik zahtevna",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:56:46Z"
+    }
+}

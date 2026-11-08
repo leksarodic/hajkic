@@ -1,0 +1,255 @@
+{
+    "schema_version": 1,
+    "slug": "manastir-ravanica-bostava-manastir-ravanica",
+    "name": "Manastir Ravanica - Bostava - Manastir Ravanica",
+    "code": "4-53-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 8929,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            125
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Bostava",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 21.0,
+        "calculated_km": 20.91
+    },
+    "duration": {
+        "official_minutes": 390,
+        "official_text": "6 h 30 min",
+        "official_raw": "6:30"
+    },
+    "elevation": {
+        "official_gain_m": 750.0,
+        "official_loss_m": 750.0,
+        "calculated_gain_m": 584.6,
+        "calculated_loss_m": 584.6,
+        "min_m": 162.5,
+        "max_m": 499.9
+    },
+    "start": "Manastir Ravanica, 265m",
+    "end": "Manastir Ravanica, 265m",
+    "description": "• Ruta je duga 21 km (\"veliki krug\") ali se, polazeći od manastira Ravanica, lako može skratiti na 8 km (\"mali krug\"). (Ako krećete iz Ivankovca, takođe možete da napravite kraću varijantu, 13 km.)\n\n • Već 3 km nakon polaska iz Ravanice izlazimo na najveću visinu na ruti: 490m. No samo malo dalje je prilika za predah na odmorištu \"Veliki grabar\". Nepun kilometar kasnije možemo da preprečimo na završni deo rute i do manastira tada ostaje još 3,5 km - to je naš mali krug.\n\n • Oni koji nastave duž velikog kruga uživaće u divnom vidikovcu na Maloj Bostavi, usred šume otkriti stidljivu crkvicu Sv. Jovana, družiti se s konjima na Nebeskom brdu, (d)oživeti istoriju Prvog srpskog ustanka u spomen-parku Ivankovac... Više nego dovoljno razloga da našu obuću \"izvedemo na pašu\", zar ne?",
+    "landmarks": "• Manastir Ravanica\n\n • Crkva Sv. Jovana\n\n • Spomen park Ivankovac (I srpski ustanak)\n\n • Vidikovac na Maloj Bostavi\n\n • Na trasi ima tri izvora pitke vode\n\n • Na trasi ima jedan privatni smeštaj\n\n • Na trasi ima jedno odmaralište",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu su trasirali Branko Milojević i Jovan Eraković, novembra 2018.god.\n\n • Poslednji put staza je markirana marta 2019.god.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Zubrova PD",
+        "url": "https://pss.rs/adresar_klubova/zubrova-pd/",
+        "contact": "Stevana Sinđelića 4, 35230 Ćuprija\n065 3279289",
+        "clubs": [
+            {
+                "name": "Zubrova PD",
+                "url": "https://pss.rs/adresar_klubova/zubrova-pd/",
+                "contact": "Stevana Sinđelića 4, 35230 Ćuprija\n065 3279289"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2019/05/4-53-1-Man.Ravanica-Bostava.gpx",
+        "fetched_at": "2026-11-08T12:00:16Z",
+        "checked_at": "2026-11-08T12:00:16Z",
+        "bytes": 288953,
+        "sha256": "6535f55d70ae82f7b2fc33ec42c22d686466e45985040ab59d1ce9d8e3ff270b",
+        "etag": null,
+        "last_modified": "Fri, 10 May 2019 12:23:51 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 1731,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 22,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2019/05/4-53-1-Man.Ravanica-Bostava.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/manastir-ravanica-bostava-manastir-ravanica.geojson",
+        "bbox": [
+            21.430417019873857,
+            43.969860998913646,
+            21.504667019471526,
+            43.99369200691581
+        ],
+        "center": [
+            21.467542,
+            43.981777
+        ],
+        "start_point": [
+            21.495966017246246,
+            43.97343001328409
+        ],
+        "end_point": [
+            21.495966017246246,
+            43.97341802716255
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    21.49597,
+                    43.97343
+                ],
+                [
+                    21.49406,
+                    43.98073
+                ],
+                [
+                    21.50018,
+                    43.98612
+                ],
+                [
+                    21.50467,
+                    43.98705
+                ],
+                [
+                    21.49819,
+                    43.99259
+                ],
+                [
+                    21.49023,
+                    43.99369
+                ],
+                [
+                    21.48132,
+                    43.99208
+                ],
+                [
+                    21.48116,
+                    43.98894
+                ],
+                [
+                    21.47854,
+                    43.98807
+                ],
+                [
+                    21.47199,
+                    43.99106
+                ],
+                [
+                    21.47235,
+                    43.98872
+                ],
+                [
+                    21.46833,
+                    43.98846
+                ],
+                [
+                    21.46704,
+                    43.99071
+                ],
+                [
+                    21.46895,
+                    43.98921
+                ],
+                [
+                    21.46598,
+                    43.98777
+                ],
+                [
+                    21.4686,
+                    43.98752
+                ],
+                [
+                    21.46683,
+                    43.98514
+                ],
+                [
+                    21.4558,
+                    43.98819
+                ],
+                [
+                    21.43647,
+                    43.97165
+                ],
+                [
+                    21.43042,
+                    43.97277
+                ],
+                [
+                    21.45208,
+                    43.96997
+                ],
+                [
+                    21.4616,
+                    43.97064
+                ],
+                [
+                    21.46673,
+                    43.97391
+                ],
+                [
+                    21.47712,
+                    43.98757
+                ],
+                [
+                    21.48913,
+                    43.98912
+                ],
+                [
+                    21.4947,
+                    43.9863
+                ],
+                [
+                    21.4921,
+                    43.98204
+                ],
+                [
+                    21.49505,
+                    43.98209
+                ],
+                [
+                    21.49597,
+                    43.97342
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/manastir-ravanica-bostava-manastir-ravanica/",
+        "canonical_url": "https://pss.rs/terenipp/manastir-ravanica-bostava-manastir-ravanica/",
+        "pss_id": 8929,
+        "updated_at": "2019-12-18T13:23:07Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:00:17Z",
+        "last_synced_at": "2026-11-08T12:00:17Z"
+    },
+    "search": "manastir ravanica - bostava - manastir ravanica 4-53-1 istocna srbija bostava manastir ravanica, 265m manastir ravanica, 265m zubrova pd • manastir ravanica • crkva sv. jovana • spomen park ivankovac (i srpski ustanak) • vidikovac na maloj bostavi • na trasi ima tri izvora pitke vode • na trasi ima jedan privatni smestaj • na trasi ima jedno odmaraliste zahtevna • ruta je duga 21 km (\"veliki krug\") ali se, polazeci od manastira ravanica, lako moze skratiti na 8 km (\"mali krug\"). (ako krecete iz ivankovca, takodje mozete da napravite kracu varijantu, 13 km.) • vec 3 km nakon polaska iz ravanice izlazimo na najvecu visinu na ruti: 490m. no samo malo dalje je prilika za predah na odmoristu \"veliki grabar\". nepun kilometar kasnije mozemo da preprecimo na zavrsni deo rute i do manastira tada ostaje jos 3,5 km - to je nas mali krug. • oni koji nastave duz velikog kruga uzivace u divnom vidikovcu na maloj bostavi, usred sume otkriti stidljivu crkvicu sv. jovana, druziti se s konjima na nebeskom brdu, (d)oziveti istoriju prvog srpskog ustanka u spomen-parku ivankovac... vise nego dovoljno razloga da nasu obucu \"izvedemo na pasu\", zar ne?",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:00:17Z"
+    }
+}

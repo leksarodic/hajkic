@@ -1,0 +1,209 @@
+{
+    "schema_version": 1,
+    "slug": "borince-petrov-vrh",
+    "name": "Borince - Petrov vrh",
+    "code": "6-31-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 24824,
+        "category_id": 28,
+        "region_ids": [
+            6
+        ],
+        "mountain_ids": [
+            79
+        ]
+    },
+    "region": "Kopaoničko-Toplička regija",
+    "mountain": "Radan",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 11.0,
+        "calculated_km": 10.48
+    },
+    "duration": {
+        "official_minutes": 270,
+        "official_text": "4 h 30 min",
+        "official_raw": "4:30"
+    },
+    "elevation": {
+        "official_gain_m": 532.0,
+        "official_loss_m": 532.0,
+        "calculated_gain_m": 805.7,
+        "calculated_loss_m": 809.3,
+        "min_m": 619.4,
+        "max_m": 1147.5
+    },
+    "start": "selo Borince, opština Bojnik - 616 m",
+    "end": "selo Borince, opština Bojnik - 616 m",
+    "description": "Staza kreće iz centra sela Borince. Već posle 20 minuta nailazi se na seosku crkvu Ognjene Marije gde je oslično mesto za pauzu. Od crkve ide se šumskim putevima do lokaliteta na kome se nalazi rezervoar za vodu iz koga se snabdevaju podradanska sela. Odatle staza izlazi na put ka Slišanu ali već posle 100 metara kreće završni uspon na Petrov vrh koji je najstrmiji i gde se savladava visinska razlika od 150mnv u nepunih 1000 metara. Na Petrovom vrhu 1148 se nalazi crkva sv. Petra i Pavla. Nepunih 15 minuta hoda od Petrovog vrha nalazi se vidikovac Mali Petrovac. Sa vidikovca se priža pogled na Gornju Jablanicu, Radan planinu, dolinu Puste Reke, Leskovačku kotlinu kao i masiv Kukavice i Suve Planine. Sa vidikovca staza vodi makadamskim putem nazad u selo Borince preko mahale Ostatovac u kojoj se mogu videti ostaci predratne arhitekture iz 20. veka.",
+    "landmarks": "Značajni lokaliteti: crkva Ognjene Marije i crkva časnih veriga sv. Petra i Pavla\n\nVidikovci: Mali petrovac\n\nNaselja i zaseoci sa nazivima: selo Borince i mahala Ostatovac",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Ko je i kada trasirao stazu: PBK „Zmaj sa Radana“ iz Bojnika\n\nKada je staza poslednji put markirana: 15.07.2023.god.\n\nIzvori pitke vode: na stazi je moguće sipati pitku vodu na početku staze i u povratku u mahali Ostatovac.",
+    "map_reference": null,
+    "map_sheet": "1:50000 Leskovac 1 (632-1)",
+    "club": {
+        "name": "Zmaj sa Radana PSK",
+        "url": "https://pss.rs/adresar_klubova/zmaj-sa-radana-pbk/",
+        "contact": "Ul.Zele Veljkovića br.1, 16205 Bojnik\n+38163109 8830; +381658701321",
+        "clubs": [
+            {
+                "name": "Zmaj sa Radana PSK",
+                "url": "https://pss.rs/adresar_klubova/zmaj-sa-radana-pbk/",
+                "contact": "Ul.Zele Veljkovića br.1, 16205 Bojnik\n+38163109 8830; +381658701321"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2024/07/Borince-Petrov-vrh.gpx",
+        "fetched_at": "2026-11-08T12:05:59Z",
+        "checked_at": "2026-11-08T12:05:59Z",
+        "bytes": 154422,
+        "sha256": "7730d93d0ff7400c53f7a17bf6fc86ad39f4c84d5e57eb4d48af4e1643879102",
+        "etag": null,
+        "last_modified": "Mon, 01 Jul 2024 19:30:49 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 1198,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2024/07/Borince-Petrov-vrh.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/borince-petrov-vrh.geojson",
+        "bbox": [
+            21.551025,
+            42.956409,
+            21.570745,
+            42.980054
+        ],
+        "center": [
+            21.560885,
+            42.968232
+        ],
+        "start_point": [
+            21.570397,
+            42.978747
+        ],
+        "end_point": [
+            21.570745,
+            42.978697
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    21.5704,
+                    42.97875
+                ],
+                [
+                    21.56646,
+                    42.9781
+                ],
+                [
+                    21.56146,
+                    42.98005
+                ],
+                [
+                    21.554,
+                    42.97595
+                ],
+                [
+                    21.55103,
+                    42.96335
+                ],
+                [
+                    21.55485,
+                    42.95641
+                ],
+                [
+                    21.55239,
+                    42.95871
+                ],
+                [
+                    21.55577,
+                    42.96477
+                ],
+                [
+                    21.56241,
+                    42.96565
+                ],
+                [
+                    21.55977,
+                    42.96885
+                ],
+                [
+                    21.56625,
+                    42.96679
+                ],
+                [
+                    21.56514,
+                    42.97337
+                ],
+                [
+                    21.56843,
+                    42.97485
+                ],
+                [
+                    21.56693,
+                    42.97776
+                ],
+                [
+                    21.57075,
+                    42.9787
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/borince-petrov-vrh/",
+        "canonical_url": "https://pss.rs/terenipp/borince-petrov-vrh/",
+        "pss_id": 24824,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:05:59Z",
+        "last_synced_at": "2026-11-08T12:05:59Z"
+    },
+    "search": "borince - petrov vrh 6-31-1 kopaonicko-toplicka regija radan selo borince, opstina bojnik - 616 m selo borince, opstina bojnik - 616 m zmaj sa radana psk znacajni lokaliteti: crkva ognjene marije i crkva casnih veriga sv. petra i pavla vidikovci: mali petrovac naselja i zaseoci sa nazivima: selo borince i mahala ostatovac laka staza krece iz centra sela borince. vec posle 20 minuta nailazi se na seosku crkvu ognjene marije gde je oslicno mesto za pauzu. od crkve ide se sumskim putevima do lokaliteta na kome se nalazi rezervoar za vodu iz koga se snabdevaju podradanska sela. odatle staza izlazi na put ka slisanu ali vec posle 100 metara krece zavrsni uspon na petrov vrh koji je najstrmiji i gde se savladava visinska razlika od 150mnv u nepunih 1000 metara. na petrovom vrhu 1148 se nalazi crkva sv. petra i pavla. nepunih 15 minuta hoda od petrovog vrha nalazi se vidikovac mali petrovac. sa vidikovca se priza pogled na gornju jablanicu, radan planinu, dolinu puste reke, leskovacku kotlinu kao i masiv kukavice i suve planine. sa vidikovca staza vodi makadamskim putem nazad u selo borince preko mahale ostatovac u kojoj se mogu videti ostaci predratne arhitekture iz 20. veka.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:05:59Z"
+    }
+}

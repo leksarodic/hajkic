@@ -1,0 +1,269 @@
+{
+    "schema_version": 1,
+    "slug": "staza-br-16-jablanica-ljuljas",
+    "name": "Staza br. 16: Jablanica – Ljuljaš",
+    "code": "5-12-6",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 19043,
+        "category_id": 28,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            122
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Zlatibor",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 18.7,
+        "calculated_km": 18.63
+    },
+    "duration": {
+        "official_minutes": 410,
+        "official_text": "6 h 50 min",
+        "official_raw": "6:50"
+    },
+    "elevation": {
+        "official_gain_m": 790.0,
+        "official_loss_m": 790.0,
+        "calculated_gain_m": 1498.3,
+        "calculated_loss_m": 1527.9,
+        "min_m": 708.2,
+        "max_m": 1263.0
+    },
+    "start": "Crkva brvnara u Jablanici",
+    "end": "Crkva brvnara u Jablanici",
+    "description": "Crkva brvnara u Jablanici - Jevtovići (3,5 km) - vrh Guvnine (7,4 km) - Brezovac (9,2 km) - Milošev grob (10,5 km) - Prisad (12,7 km) - vrh Ljuljaš (14.6 km) - Crkva brvnara u Jablanici (18,7 km)",
+    "landmarks": "-Crkva brvnara u Jablanici\n\n-vrh Guvnine (1108 m)\n\n-zaseok Brezovac sa starim kolibama\n\n-Milošev grob \n\n-vrh Ljuljaš (1269 m)",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Staza je izgrađena sredstvima JP-a \"Srbijašume\" Beograd.\n\nStazu je trasirao Slobodan Stefanović iz Užica.",
+    "map_reference": null,
+    "map_sheet": "1:50000 Titovo Užice 3 (528-3)",
+    "club": {
+        "name": "Aleksandar Džavović PD",
+        "url": "https://pss.rs/adresar_klubova/aleksandar-dzavovic-pk/",
+        "contact": "Solunskih ratnika 10\n+381643268660",
+        "clubs": [
+            {
+                "name": "Aleksandar Džavović PD",
+                "url": "https://pss.rs/adresar_klubova/aleksandar-dzavovic-pk/",
+                "contact": "Solunskih ratnika 10\n+381643268660"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 8,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2023/03/Staza-16-Jablanica-Ljuljas.gpx",
+        "fetched_at": "2026-11-08T12:02:46Z",
+        "checked_at": "2026-11-08T12:02:46Z",
+        "bytes": 342939,
+        "sha256": "3bd4113f4fd0455167ec2a99d4a194a6e84793aedf9aa8d725656385f70cfe45",
+        "etag": null,
+        "last_modified": "Sat, 18 Mar 2023 11:59:25 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 3197,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 7,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2023/03/Staza-16-Jablanica-Ljuljas.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/staza-br-16-jablanica-ljuljas.geojson",
+        "bbox": [
+            19.52631344,
+            43.64951659,
+            19.5740242,
+            43.68855703
+        ],
+        "center": [
+            19.550169,
+            43.669037
+        ],
+        "start_point": [
+            19.5740242,
+            43.664245605
+        ],
+        "end_point": [
+            19.57393074,
+            43.664226532
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    19.57402,
+                    43.66425
+                ],
+                [
+                    19.57216,
+                    43.66602
+                ],
+                [
+                    19.56932,
+                    43.66498
+                ],
+                [
+                    19.56568,
+                    43.66802
+                ],
+                [
+                    19.56974,
+                    43.66993
+                ],
+                [
+                    19.56559,
+                    43.67989
+                ],
+                [
+                    19.56695,
+                    43.68266
+                ],
+                [
+                    19.56249,
+                    43.6821
+                ],
+                [
+                    19.56328,
+                    43.68388
+                ],
+                [
+                    19.55656,
+                    43.68786
+                ],
+                [
+                    19.5491,
+                    43.68845
+                ],
+                [
+                    19.54199,
+                    43.68302
+                ],
+                [
+                    19.53301,
+                    43.68563
+                ],
+                [
+                    19.52635,
+                    43.68106
+                ],
+                [
+                    19.52818,
+                    43.67465
+                ],
+                [
+                    19.5313,
+                    43.67366
+                ],
+                [
+                    19.53777,
+                    43.6656
+                ],
+                [
+                    19.54308,
+                    43.66678
+                ],
+                [
+                    19.56116,
+                    43.6593
+                ],
+                [
+                    19.55802,
+                    43.65197
+                ],
+                [
+                    19.56126,
+                    43.65376
+                ],
+                [
+                    19.56512,
+                    43.65173
+                ],
+                [
+                    19.56504,
+                    43.64953
+                ],
+                [
+                    19.57166,
+                    43.65094
+                ],
+                [
+                    19.57253,
+                    43.65405
+                ],
+                [
+                    19.56426,
+                    43.65812
+                ],
+                [
+                    19.56781,
+                    43.6595
+                ],
+                [
+                    19.56937,
+                    43.66404
+                ],
+                [
+                    19.57063,
+                    43.66275
+                ],
+                [
+                    19.57393,
+                    43.66423
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/staza-br-16-jablanica-ljuljas/",
+        "canonical_url": "https://pss.rs/terenipp/staza-br-16-jablanica-ljuljas/",
+        "pss_id": 19043,
+        "updated_at": "2023-03-18T12:10:58Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:02:47Z",
+        "last_synced_at": "2026-11-08T12:02:47Z"
+    },
+    "search": "staza br. 16: jablanica – ljuljas 5-12-6 jugozapadna srbija zlatibor crkva brvnara u jablanici crkva brvnara u jablanici aleksandar dzavovic pd -crkva brvnara u jablanici -vrh guvnine (1108 m) -zaseok brezovac sa starim kolibama -milosev grob -vrh ljuljas (1269 m) laka crkva brvnara u jablanici - jevtovici (3,5 km) - vrh guvnine (7,4 km) - brezovac (9,2 km) - milosev grob (10,5 km) - prisad (12,7 km) - vrh ljuljas (14.6 km) - crkva brvnara u jablanici (18,7 km)",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:02:47Z"
+    }
+}

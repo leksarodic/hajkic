@@ -1,0 +1,261 @@
+{
+    "schema_version": 1,
+    "slug": "staza-br-6-zlatibor-spomenik-cuker",
+    "name": "Staza br. 6: Zlatibor – Spomenik - Čuker",
+    "code": "5-12-10",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 19111,
+        "category_id": 28,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            122
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Zlatibor",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 21.7,
+        "calculated_km": 21.63
+    },
+    "duration": {
+        "official_minutes": 410,
+        "official_text": "6 h 50 min",
+        "official_raw": "6:50"
+    },
+    "elevation": {
+        "official_gain_m": 790.0,
+        "official_loss_m": 790.0,
+        "calculated_gain_m": 1097.4,
+        "calculated_loss_m": 1098.0,
+        "min_m": 886.0,
+        "max_m": 1352.0
+    },
+    "start": "Pešački nadvožnjak prema Spomeniku u naselju Zlatibor",
+    "end": "Pešački nadvožnjak prema Spomeniku u naselju Zlatibor",
+    "description": "Pešački nadvožnjak prema Spomeniku u naselju Zlatibor – Spomenik iz II svetskog rata na vrhu Šumnato brdo (1,1 km) – Jedini bor (3,5 km) – vrh Čuker (4,9 km) – ispod vrha Konjoder (6,5 km) – Izvor u Bjeličićima (8,2 km) – Most preko reke Katušnice (10,4 km) – Crni vrh (14,4 km) – Čajetinska gradina (16,0 km) - nadvožnjak prema Spomeniku u naselju Zlatibor (21,7 km)",
+    "landmarks": "Vrh Šumnato brdo ili Glavudža (1082 m), vrh Čuker (1359 m), Crni vrh (1175 m) i vrh Čajetinska gradina (1146 m)",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Stazu je trasirao Šuljagić Veliša sa Zlatibora 2020. godine i markirana je 2021. godine.\n\nStaza je izgrađena sredstvima JP-a \"Srbijašume\" Beograd.",
+    "map_reference": null,
+    "map_sheet": "1:50000 Titovo Užice 3 (528-3) i 1:50000 Titovo Užice 4 (528-4)",
+    "club": {
+        "name": "Tornik PK",
+        "url": "https://pss.rs/adresar_klubova/tornik-pk/",
+        "contact": "Zlatiborska 28\n064 156 55 78",
+        "clubs": [
+            {
+                "name": "Tornik PK",
+                "url": "https://pss.rs/adresar_klubova/tornik-pk/",
+                "contact": "Zlatiborska 28\n064 156 55 78"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 9,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2023/03/Staza-6-Zlatibor-Spomenik-Cuker.gpx",
+        "fetched_at": "2026-11-08T12:02:51Z",
+        "checked_at": "2026-11-08T12:02:51Z",
+        "bytes": 350408,
+        "sha256": "e6fba89eda8ed24243c42e8e83952a6e8a82e7835e1f448dcd5c5eea0778e85d",
+        "etag": null,
+        "last_modified": "Sun, 26 Mar 2023 13:38:47 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 4648,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 11,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2023/03/Staza-6-Zlatibor-Spomenik-Cuker.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/staza-br-6-zlatibor-spomenik-cuker.geojson",
+        "bbox": [
+            19.702415,
+            43.680625,
+            19.749806,
+            43.740584
+        ],
+        "center": [
+            19.72611,
+            43.710605
+        ],
+        "start_point": [
+            19.702438,
+            43.718471
+        ],
+        "end_point": [
+            19.702415,
+            43.718523
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    19.70244,
+                    43.71847
+                ],
+                [
+                    19.71189,
+                    43.71144
+                ],
+                [
+                    19.70757,
+                    43.7026
+                ],
+                [
+                    19.71328,
+                    43.69259
+                ],
+                [
+                    19.72114,
+                    43.68858
+                ],
+                [
+                    19.72535,
+                    43.68257
+                ],
+                [
+                    19.73298,
+                    43.68063
+                ],
+                [
+                    19.74278,
+                    43.681
+                ],
+                [
+                    19.74116,
+                    43.68694
+                ],
+                [
+                    19.73764,
+                    43.68644
+                ],
+                [
+                    19.73562,
+                    43.68881
+                ],
+                [
+                    19.74373,
+                    43.69858
+                ],
+                [
+                    19.74039,
+                    43.70058
+                ],
+                [
+                    19.74122,
+                    43.70857
+                ],
+                [
+                    19.74981,
+                    43.71421
+                ],
+                [
+                    19.74731,
+                    43.71594
+                ],
+                [
+                    19.74735,
+                    43.72152
+                ],
+                [
+                    19.73689,
+                    43.73031
+                ],
+                [
+                    19.74179,
+                    43.73664
+                ],
+                [
+                    19.73528,
+                    43.74058
+                ],
+                [
+                    19.73952,
+                    43.73633
+                ],
+                [
+                    19.73852,
+                    43.73328
+                ],
+                [
+                    19.73163,
+                    43.7287
+                ],
+                [
+                    19.73126,
+                    43.72516
+                ],
+                [
+                    19.72585,
+                    43.72438
+                ],
+                [
+                    19.72142,
+                    43.71723
+                ],
+                [
+                    19.71546,
+                    43.7132
+                ],
+                [
+                    19.70242,
+                    43.71852
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/staza-br-6-zlatibor-spomenik-cuker/",
+        "canonical_url": "https://pss.rs/terenipp/staza-br-6-zlatibor-spomenik-cuker/",
+        "pss_id": 19111,
+        "updated_at": "2023-03-26T14:02:16Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:02:52Z",
+        "last_synced_at": "2026-11-08T12:02:52Z"
+    },
+    "search": "staza br. 6: zlatibor – spomenik - cuker 5-12-10 jugozapadna srbija zlatibor pesacki nadvoznjak prema spomeniku u naselju zlatibor pesacki nadvoznjak prema spomeniku u naselju zlatibor tornik pk vrh sumnato brdo ili glavudza (1082 m), vrh cuker (1359 m), crni vrh (1175 m) i vrh cajetinska gradina (1146 m) zahtevna pesacki nadvoznjak prema spomeniku u naselju zlatibor – spomenik iz ii svetskog rata na vrhu sumnato brdo (1,1 km) – jedini bor (3,5 km) – vrh cuker (4,9 km) – ispod vrha konjoder (6,5 km) – izvor u bjelicicima (8,2 km) – most preko reke katusnice (10,4 km) – crni vrh (14,4 km) – cajetinska gradina (16,0 km) - nadvoznjak prema spomeniku u naselju zlatibor (21,7 km)",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:02:52Z"
+    }
+}

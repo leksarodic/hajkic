@@ -1,0 +1,183 @@
+{
+    "schema_version": 1,
+    "slug": "staza-br-8-markov-grad",
+    "name": "Staza br. 8 \"Markov grad\"",
+    "code": "7-9-8",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 3765,
+        "category_id": 28,
+        "region_ids": [
+            7
+        ],
+        "mountain_ids": [
+            69
+        ]
+    },
+    "region": "Jugoistočna Srbija",
+    "mountain": "Kukavica",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 11.8,
+        "calculated_km": 11.67
+    },
+    "duration": {
+        "official_minutes": 270,
+        "official_text": "4 h 30 min",
+        "official_raw": "4:30"
+    },
+    "elevation": {
+        "official_gain_m": 969.0,
+        "official_loss_m": 316.0,
+        "calculated_gain_m": 723.3,
+        "calculated_loss_m": 60.1,
+        "min_m": 623.3,
+        "max_m": 1288.6
+    },
+    "start": "Hotel \"Vlaina\", 624 m",
+    "end": "Planinarski dom \"Preka voda\", 1270 m",
+    "description": "Hotel Vlaina - Zelengrad - Markov grad - Mečkin potok - planinarski dom \"Preka voda\"",
+    "landmarks": null,
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinarski dom \"Preka voda\"",
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": "1:25000, TK Leskovac 632 2-4",
+    "club": {
+        "name": "Kukavica PSK",
+        "url": "https://pss.rs/adresar_klubova/kukavica-psk/",
+        "contact": "Deligradska 5, 16000 Leskovac\n+381652824655",
+        "clubs": [
+            {
+                "name": "Kukavica PSK",
+                "url": "https://pss.rs/adresar_klubova/kukavica-psk/",
+                "contact": "Deligradska 5, 16000 Leskovac\n+381652824655"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 8,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/7-9-8-Staza-br.8-Markovgrad.gpx",
+        "fetched_at": "2026-11-08T11:55:14Z",
+        "checked_at": "2026-11-08T11:55:14Z",
+        "bytes": 105046,
+        "sha256": "fd0dd0a1e446399960d1de27eee4ec9899ef86503fd1a27e198b56c379b96166",
+        "etag": null,
+        "last_modified": "Wed, 20 Jan 2021 20:14:48 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 833,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 15,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/7-9-8-Staza-br.8-Markovgrad.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/staza-br-8-markov-grad.geojson",
+        "bbox": [
+            21.91463646478951,
+            42.76866378262639,
+            21.956516476348042,
+            42.82283660955727
+        ],
+        "center": [
+            21.935576,
+            42.79575
+        ],
+        "start_point": [
+            21.922221248969436,
+            42.82283660955727
+        ],
+        "end_point": [
+            21.956463335081935,
+            42.782072564587
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.92222,
+                    42.82284
+                ],
+                [
+                    21.9147,
+                    42.81415
+                ],
+                [
+                    21.91674,
+                    42.77807
+                ],
+                [
+                    21.93036,
+                    42.77152
+                ],
+                [
+                    21.93151,
+                    42.76866
+                ],
+                [
+                    21.93769,
+                    42.77148
+                ],
+                [
+                    21.9436,
+                    42.76922
+                ],
+                [
+                    21.94068,
+                    42.77293
+                ],
+                [
+                    21.94471,
+                    42.77838
+                ],
+                [
+                    21.95131,
+                    42.78292
+                ],
+                [
+                    21.95646,
+                    42.78207
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/staza-br-8-markov-grad/",
+        "canonical_url": "https://pss.rs/terenipp/staza-br-8-markov-grad/",
+        "pss_id": 3765,
+        "updated_at": "2021-02-27T12:12:07Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:55:14Z",
+        "last_synced_at": "2026-11-08T11:55:14Z"
+    },
+    "search": "staza br. 8 \"markov grad\" 7-9-8 jugoistocna srbija kukavica hotel \"vlaina\", 624 m planinarski dom \"preka voda\", 1270 m kukavica psk zahtevna hotel vlaina - zelengrad - markov grad - meckin potok - planinarski dom \"preka voda\"",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:55:14Z"
+    }
+}

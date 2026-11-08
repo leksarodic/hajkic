@@ -1,0 +1,554 @@
+{
+    "schema_version": 1,
+    "slug": "e4-2",
+    "name": "Ada - Zrenjanin",
+    "code": "E4-2",
+    "category": {
+        "key": "evropski-pesacki-putevi-u-srbiji",
+        "label": "Evropski pešački putevi u Srbiji"
+    },
+    "pss": {
+        "post_id": 3630,
+        "category_id": 29,
+        "region_ids": [
+            1
+        ],
+        "mountain_ids": [
+            45
+        ]
+    },
+    "region": "Vojvodina",
+    "mountain": "Slano Kopovo",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "lak"
+    },
+    "distance": {
+        "official_km": 130.4,
+        "calculated_km": 130.97
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": 390.0,
+        "official_loss_m": 381.0,
+        "calculated_gain_m": 0.0,
+        "calculated_loss_m": 0.0,
+        "min_m": 0.0,
+        "max_m": 0.0
+    },
+    "start": null,
+    "end": null,
+    "description": "• Ovdašnje puteve određivali su nekadašnji meandri reke Tise koji\nsu ostavili stare močvare sa raznovrsnim ekosistemima biološke\nraznovrsnosti.\n\n • Ovde je Slano Kopovo, slatina sa više od 200 vrsta ptica, zatim Park\nprirode autohtone bačke rečice koja se zove Jegrička sa svojim belim\nlokvanjima i mnoštvom vodenog živog sveta. U Melencima je poznato\nistorijsko lečilište Banja Rusanda.\n\n • Zanimljivi su prelasci preko\nmreže kanala između reka Tise i Dunava i reke Stari Begej. Put E4\nstiže u veliki grad Zrenjanin, regionalni centar.",
+    "landmarks": "• Arheološki lokalitet Gradište - Iđoš,\n\n • Narodni muzej u Kikindi (skelet mamuta),\n\n • manastir Svete Trojice,\n\n • ranohrišćanska bazilika u Arači, \n\n • jezero Slano Kopovo,\n\n • rečica Jegrička,\n\n • Novi Bečej - dvorci, \n\n • banja Rusanda - Melenci,\n\n • grad Zrenjanin.",
+    "maintenance": null,
+    "marking": "evropska crveno-žuta",
+    "accommodation": "Ada, Kikinda, Novi Bečej, Melenci, Zrenjanin",
+    "notes": "• E4-2-1 Ada – Iđoš 19,7 km\n\n • E4-2-2 Iđoš – Kikinda 11,6 km\n\n • E4-2-3 Kikinda – Arača 35,6 km\n\n • E4-2-4 Arača – Novi Bečej 15,3 km\n\n • E4-2-5 Novi Bečej – Melenci 20,3 km\n\n • E4-2-6 Melenci – Jankov Most 12,4 km\n\n • E4-2-7 Jankov Most – Zrenjanin 15,5 km",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Kinđa PD",
+        "url": "https://pss.rs/adresar_klubova/kinda-pd/",
+        "contact": "Dom omladine Trg srpskih dobrovoljaca 23, 23300 Kikinda\n0648230660, 0642104980",
+        "clubs": [
+            {
+                "name": "Kinđa PD",
+                "url": "https://pss.rs/adresar_klubova/kinda-pd/",
+                "contact": "Dom omladine Trg srpskih dobrovoljaca 23, 23300 Kikinda\n0648230660, 0642104980"
+            },
+            {
+                "name": "Zrenjanin KP",
+                "url": "https://pss.rs/adresar_klubova/zrenjanin-kp/",
+                "contact": "Makedonska 11, 23000 Zrenjanin\n 063/1841370; 063/8461255.\nhttps://kpzrenjanin.org.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 13,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/E4-2-Ada-Zrenjanin.gpx",
+        "fetched_at": "2026-11-08T12:50:11Z",
+        "checked_at": "2026-11-08T12:50:11Z",
+        "bytes": 145300,
+        "sha256": "4da58840b0421ac388238f2e4c5b9b42de05ed1e6ebe6800e48e1ce3ede09f06",
+        "etag": null,
+        "last_modified": "Thu, 05 Dec 2024 22:58:00 GMT",
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": 2004,
+        "tracks": 7,
+        "segments": 7,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/E4-2-Ada-Zrenjanin.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/e4-2.geojson",
+        "bbox": [
+            20.133436087,
+            45.380317494,
+            20.459966311,
+            45.856687224
+        ],
+        "center": [
+            20.296701,
+            45.618502
+        ],
+        "start_point": [
+            20.154055334,
+            45.786378972
+        ],
+        "end_point": [
+            20.390279222,
+            45.380317494
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    20.15406,
+                    45.78638
+                ],
+                [
+                    20.15444,
+                    45.78369
+                ],
+                [
+                    20.15894,
+                    45.78601
+                ],
+                [
+                    20.1706,
+                    45.7849
+                ],
+                [
+                    20.17309,
+                    45.77974
+                ],
+                [
+                    20.20717,
+                    45.78152
+                ],
+                [
+                    20.21249,
+                    45.7721
+                ],
+                [
+                    20.22278,
+                    45.77085
+                ],
+                [
+                    20.23636,
+                    45.77428
+                ],
+                [
+                    20.25205,
+                    45.76809
+                ],
+                [
+                    20.26493,
+                    45.76721
+                ],
+                [
+                    20.27251,
+                    45.76873
+                ],
+                [
+                    20.27623,
+                    45.77167
+                ],
+                [
+                    20.29519,
+                    45.7746
+                ],
+                [
+                    20.30952,
+                    45.79439
+                ],
+                [
+                    20.31845,
+                    45.80107
+                ],
+                [
+                    20.32241,
+                    45.81073
+                ],
+                [
+                    20.31965,
+                    45.8203
+                ],
+                [
+                    20.31521,
+                    45.82238
+                ],
+                [
+                    20.31849,
+                    45.82554
+                ]
+            ],
+            [
+                [
+                    20.31848,
+                    45.82552
+                ],
+                [
+                    20.32454,
+                    45.83325
+                ],
+                [
+                    20.34875,
+                    45.84536
+                ],
+                [
+                    20.35502,
+                    45.85669
+                ],
+                [
+                    20.36844,
+                    45.84947
+                ],
+                [
+                    20.3912,
+                    45.84931
+                ],
+                [
+                    20.41826,
+                    45.82212
+                ]
+            ],
+            [
+                [
+                    20.41825,
+                    45.82212
+                ],
+                [
+                    20.41447,
+                    45.82144
+                ],
+                [
+                    20.4179,
+                    45.81401
+                ],
+                [
+                    20.41453,
+                    45.79747
+                ],
+                [
+                    20.3928,
+                    45.78681
+                ],
+                [
+                    20.37289,
+                    45.78765
+                ],
+                [
+                    20.36798,
+                    45.7858
+                ],
+                [
+                    20.36602,
+                    45.78259
+                ],
+                [
+                    20.36578,
+                    45.76809
+                ],
+                [
+                    20.38354,
+                    45.74559
+                ],
+                [
+                    20.39213,
+                    45.72616
+                ],
+                [
+                    20.39269,
+                    45.71503
+                ],
+                [
+                    20.36224,
+                    45.70044
+                ],
+                [
+                    20.3603,
+                    45.69546
+                ],
+                [
+                    20.36267,
+                    45.68564
+                ],
+                [
+                    20.35187,
+                    45.66943
+                ],
+                [
+                    20.34677,
+                    45.66609
+                ],
+                [
+                    20.32947,
+                    45.66119
+                ],
+                [
+                    20.32291,
+                    45.64912
+                ],
+                [
+                    20.3012,
+                    45.63443
+                ],
+                [
+                    20.30118,
+                    45.62467
+                ],
+                [
+                    20.28502,
+                    45.62226
+                ],
+                [
+                    20.26527,
+                    45.61553
+                ],
+                [
+                    20.2578,
+                    45.62696
+                ],
+                [
+                    20.26088,
+                    45.6284
+                ],
+                [
+                    20.25869,
+                    45.632
+                ],
+                [
+                    20.2637,
+                    45.63365
+                ],
+                [
+                    20.26108,
+                    45.64159
+                ]
+            ],
+            [
+                [
+                    20.26111,
+                    45.64161
+                ],
+                [
+                    20.25337,
+                    45.66488
+                ],
+                [
+                    20.20844,
+                    45.63692
+                ],
+                [
+                    20.19724,
+                    45.63774
+                ],
+                [
+                    20.18352,
+                    45.63322
+                ],
+                [
+                    20.17551,
+                    45.62787
+                ],
+                [
+                    20.16751,
+                    45.61857
+                ],
+                [
+                    20.16082,
+                    45.61657
+                ],
+                [
+                    20.13345,
+                    45.5956
+                ]
+            ],
+            [
+                [
+                    20.13344,
+                    45.5956
+                ],
+                [
+                    20.14492,
+                    45.58333
+                ],
+                [
+                    20.15278,
+                    45.58517
+                ],
+                [
+                    20.17111,
+                    45.59812
+                ],
+                [
+                    20.19193,
+                    45.59645
+                ],
+                [
+                    20.21286,
+                    45.59738
+                ],
+                [
+                    20.23134,
+                    45.5892
+                ],
+                [
+                    20.24259,
+                    45.58908
+                ],
+                [
+                    20.28156,
+                    45.55402
+                ],
+                [
+                    20.30857,
+                    45.53405
+                ],
+                [
+                    20.31268,
+                    45.52864
+                ],
+                [
+                    20.31616,
+                    45.51671
+                ]
+            ],
+            [
+                [
+                    20.31619,
+                    45.51671
+                ],
+                [
+                    20.33109,
+                    45.51953
+                ],
+                [
+                    20.35027,
+                    45.5316
+                ],
+                [
+                    20.41429,
+                    45.48003
+                ],
+                [
+                    20.42741,
+                    45.47619
+                ],
+                [
+                    20.43016,
+                    45.47326
+                ]
+            ],
+            [
+                [
+                    20.43017,
+                    45.47328
+                ],
+                [
+                    20.43236,
+                    45.46432
+                ],
+                [
+                    20.4448,
+                    45.45808
+                ],
+                [
+                    20.44571,
+                    45.44924
+                ],
+                [
+                    20.45449,
+                    45.43936
+                ],
+                [
+                    20.45188,
+                    45.42582
+                ],
+                [
+                    20.45963,
+                    45.4185
+                ],
+                [
+                    20.45899,
+                    45.41405
+                ],
+                [
+                    20.45093,
+                    45.40111
+                ],
+                [
+                    20.44074,
+                    45.40089
+                ],
+                [
+                    20.43428,
+                    45.39506
+                ],
+                [
+                    20.42467,
+                    45.39338
+                ],
+                [
+                    20.41806,
+                    45.39485
+                ],
+                [
+                    20.40255,
+                    45.39133
+                ],
+                [
+                    20.40281,
+                    45.3898
+                ],
+                [
+                    20.39732,
+                    45.38868
+                ],
+                [
+                    20.39028,
+                    45.38032
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": [
+            "missing_elevation"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/e4-2/",
+        "canonical_url": "https://pss.rs/terenipp/e4-2/",
+        "pss_id": 3630,
+        "updated_at": "2024-12-05T22:58:41Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:50:12Z",
+        "last_synced_at": "2026-11-08T12:50:12Z"
+    },
+    "search": "ada - zrenjanin e4-2 vojvodina slano kopovo kindja pd • arheoloski lokalitet gradiste - idjos, • narodni muzej u kikindi (skelet mamuta), • manastir svete trojice, • ranohriscanska bazilika u araci, • jezero slano kopovo, • recica jegricka, • novi becej - dvorci, • banja rusanda - melenci, • grad zrenjanin. laka • ovdasnje puteve odredjivali su nekadasnji meandri reke tise koji su ostavili stare mocvare sa raznovrsnim ekosistemima bioloske raznovrsnosti. • ovde je slano kopovo, slatina sa vise od 200 vrsta ptica, zatim park prirode autohtone backe recice koja se zove jegricka sa svojim belim lokvanjima i mnostvom vodenog zivog sveta. u melencima je poznato istorijsko leciliste banja rusanda. • zanimljivi su prelasci preko mreze kanala izmedju reka tise i dunava i reke stari begej. put e4 stize u veliki grad zrenjanin, regionalni centar.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:50:12Z"
+    }
+}

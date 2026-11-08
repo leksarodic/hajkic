@@ -1,0 +1,193 @@
+{
+    "schema_version": 1,
+    "slug": "planinarska-kuca-suvaja-resavska-pecina",
+    "name": "Planinarska kuća „Suvaja\"- Resavska pećina",
+    "code": "4-7-3",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 25717,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            81
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Kučaj (Resavica)",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 8.7,
+        "calculated_km": 8.63
+    },
+    "duration": {
+        "official_minutes": 300,
+        "official_text": "5 h",
+        "official_raw": "5:00"
+    },
+    "elevation": {
+        "official_gain_m": 437.0,
+        "official_loss_m": 437.0,
+        "calculated_gain_m": 672.9,
+        "calculated_loss_m": 679.3,
+        "min_m": 352.1,
+        "max_m": 654.5
+    },
+    "start": "Planinarska kuća „Suvaja\", 376 mnv",
+    "end": "Planinarska kuća „Suvaja\", 376 mnv",
+    "description": "Polazna tačka staze je sa parkinga kod Planinarske kuće „Suvaja\". Visina sa koje se polazi i gde se nalazi planinarski objekat i sam parking je 376 mnv. Ispred Planinarske kuće „Suvaja\" nalazi se adekvatan parking za automobile, kombi i autobuski prevoz. Dalje staza vodi asfaltom 100 m od parkinga i polako prekidom asfalta bez prelaska mosta nastaviti kretanje udesno oko šumske kuće dobro markiranom stazom i tucanikom na uspon ka prevoju Babina glava (648 mnv). Nakon polaska ka prevoju Babina glava, kreće konstantan uspon do samog prevoja a zatim dalje se spuštamo ka predelu Divljakovac i Resavskoj pećini. Preko prevoja Babine glave nailazi se na napuštena stara domaćinstva i dalje na nekadašnju ski stazu starijih generacija planinara iz Svilajnca. Staza je odlično markirana i redovno se održava. Staza nije kružna i istom se vraća do parkinga i planinarskog objekta.",
+    "landmarks": "Vidikovci: Vidikovac ka kanjonu Resave i vidikovac ka klisuri reke Čemernice\n\nNaselja i zaseoci sa nazivima: sela Strmosten, Lisine i Jelovac, Onština Despotovac.\n\nZnačajni lokaliteti: prirodni/hidro-kompleks Lisine, prašuma Vinatovača i veliki pećinski kompleks „Resavska pećina\".",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Ko je i kada trasirao stazu: Aleksandar Vasić 18.04.2021. godine\n\nKada je staza poslednji put markirana: april 2023. rodine",
+    "map_reference": null,
+    "map_sheet": "1:25000 karta 482-3-4",
+    "club": {
+        "name": "Beljanica PD",
+        "url": "https://pss.rs/adresar_klubova/beljanica-pd/",
+        "contact": "Svetog Ćirila i Metodija 23, 35210 Svilajnac\n +38163 826 0571, +381628293557, +38166321706",
+        "clubs": [
+            {
+                "name": "Beljanica PD",
+                "url": "https://pss.rs/adresar_klubova/beljanica-pd/",
+                "contact": "Svetog Ćirila i Metodija 23, 35210 Svilajnac\n +38163 826 0571, +381628293557, +38166321706"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2024/12/Resavska_pecina_2021-04-18.gpx",
+        "fetched_at": "2026-11-08T12:06:14Z",
+        "checked_at": "2026-11-08T12:06:14Z",
+        "bytes": 419355,
+        "sha256": "5fe184ed6fe35e34562848938931279a39414576f31ba0601db4c37840796249",
+        "etag": null,
+        "last_modified": "Tue, 10 Dec 2024 22:56:52 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 1585,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2024/12/Resavska_pecina_2021-04-18.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/planinarska-kuca-suvaja-resavska-pecina.geojson",
+        "bbox": [
+            21.6256623,
+            44.072435,
+            21.6359219,
+            44.0913378
+        ],
+        "center": [
+            21.630792,
+            44.081886
+        ],
+        "start_point": [
+            21.6357589,
+            44.0911357
+        ],
+        "end_point": [
+            21.6359158,
+            44.0911238
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    21.63576,
+                    44.09114
+                ],
+                [
+                    21.63283,
+                    44.09047
+                ],
+                [
+                    21.62933,
+                    44.08496
+                ],
+                [
+                    21.63073,
+                    44.08263
+                ],
+                [
+                    21.62609,
+                    44.08018
+                ],
+                [
+                    21.62927,
+                    44.07244
+                ],
+                [
+                    21.62608,
+                    44.08015
+                ],
+                [
+                    21.63092,
+                    44.08284
+                ],
+                [
+                    21.62946,
+                    44.08457
+                ],
+                [
+                    21.63239,
+                    44.08986
+                ],
+                [
+                    21.63592,
+                    44.09112
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/planinarska-kuca-suvaja-resavska-pecina/",
+        "canonical_url": "https://pss.rs/terenipp/planinarska-kuca-suvaja-resavska-pecina/",
+        "pss_id": 25717,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:06:15Z",
+        "last_synced_at": "2026-11-08T12:06:15Z"
+    },
+    "search": "planinarska kuca „suvaja\"- resavska pecina 4-7-3 istocna srbija kucaj (resavica) planinarska kuca „suvaja\", 376 mnv planinarska kuca „suvaja\", 376 mnv beljanica pd vidikovci: vidikovac ka kanjonu resave i vidikovac ka klisuri reke cemernice naselja i zaseoci sa nazivima: sela strmosten, lisine i jelovac, onstina despotovac. znacajni lokaliteti: prirodni/hidro-kompleks lisine, prasuma vinatovaca i veliki pecinski kompleks „resavska pecina\". laka polazna tacka staze je sa parkinga kod planinarske kuce „suvaja\". visina sa koje se polazi i gde se nalazi planinarski objekat i sam parking je 376 mnv. ispred planinarske kuce „suvaja\" nalazi se adekvatan parking za automobile, kombi i autobuski prevoz. dalje staza vodi asfaltom 100 m od parkinga i polako prekidom asfalta bez prelaska mosta nastaviti kretanje udesno oko sumske kuce dobro markiranom stazom i tucanikom na uspon ka prevoju babina glava (648 mnv). nakon polaska ka prevoju babina glava, krece konstantan uspon do samog prevoja a zatim dalje se spustamo ka predelu divljakovac i resavskoj pecini. preko prevoja babine glave nailazi se na napustena stara domacinstva i dalje na nekadasnju ski stazu starijih generacija planinara iz svilajnca. staza je odlicno markirana i redovno se odrzava. staza nije kruzna i istom se vraca do parkinga i planinarskog objekta.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:06:15Z"
+    }
+}

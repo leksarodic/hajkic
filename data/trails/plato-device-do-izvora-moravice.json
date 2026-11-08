@@ -1,0 +1,249 @@
+{
+    "schema_version": 1,
+    "slug": "plato-device-do-izvora-moravice",
+    "name": "Plato Device do izvora Moravice",
+    "code": "4-31-16",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 17379,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            57
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Devica",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 18.2,
+        "calculated_km": 17.82
+    },
+    "duration": {
+        "official_minutes": 450,
+        "official_text": "7 h 30 min",
+        "official_raw": "7:30"
+    },
+    "elevation": {
+        "official_gain_m": 638.0,
+        "official_loss_m": 1182.0,
+        "calculated_gain_m": 581.3,
+        "calculated_loss_m": 1125.1,
+        "min_m": 395.7,
+        "max_m": 1184.3
+    },
+    "start": "prevoj Vlasina",
+    "end": "izvor Moravice",
+    "description": "Staza polazi sa prevoja Vlasina. Ide kolskim putem uzbrdo i preko livade ulazi u šumsku stazu i nakon izlaska iz šume počinje oštriji uspon kamenitom stazom na vrh Oštru čuku (1075m) sa severne strane. Silazak je na južnu stranu i prati se žuto crvena markacija, jer u delu do vrha Čaške tom trasom ide i deonica Evropskog pešačkog puta E4. Prvo ide kamenita staza, a zatim zemljanom stazom do kolskog puta, gde se skreće u levo. Staza se spušta i skreće u levo do kaptaže vode. Odatle se staza penje prvo šumskim putem, a zatim kamenitom stazom i izlazi do platoa, gde se izlai iz šumovitog dela. Staza preko jedne livade izlazi na kolski put i nastavlja da prati kolske puteve. Zatim se preko jedne livade povezuje sa drugim kolskim putem, kojim nastavlja dalje. Kolski put vodi do skretanja, odakle se sa južne strane, kamenitim prilazom vrši uspon na Čapljinac (1187m), najviši vrh planine Device. Vrh je otvoren prema jugu sa dobrim pogledom. Sa vrha, staza vodi prema severu, a zatim prema istoku, šumskim putevima i stazama. Dolazi se do skretanja za Dugopoljsku ledenicu. Staza nastavlja šumskom stazom i izlazi na kolski put do Tri bunara (ima ih četiri!). Odatle staza skreće i kolskim putem stiže do padine uz koju se penje do kamenitog dela, a zatim nastavlja dalje do vrha Čaške (1136m), odakle se pruža otvoren pogled na prostranstvo Device. Staza severnom stranom silazi sa vrha i dolazi do kolskog puta. Od ove tačke se prate crveno bele markacije, i nastavlja se prema jugu i silazi do Dugopoljske česme (952m). Zatim se penje do jedne duboke rupe („Propast“) i nastavlja do platoa prema južnoj strani. Staza blago silazi i prolazi preko Rutave poljane do Stojinog vrha (866m). Odatle ulazi u šumoviti deo i spušta se i dalje prema jugu. Obilazi i bezimenu pećinu. Nakon toga sledi strmiji silazak do naselja Vrelo i do zemljanog puta, koji vodi do izvora reke Moravice.",
+    "landmarks": "vrh Oštra čuka (1075m), vrh Čapljinac (1187m), dugopoljska ledenica, Tri bunra, vrh Čaške (1136m), Dugopoljsaka česma, Stojin vrh (866m), pećina, izvor reke Moravice",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": "Aleksinac 532-4-2; 532-4-4, Zaječar 533-3-1; 533-3-3",
+    "club": {
+        "name": "Ozren PK",
+        "url": "https://pss.rs/adresar_klubova/ozren-pk/",
+        "contact": "Alekse Markišića 28/3 18230 Sokobanja (poštanski fah 63)\n+38164 855 33 61",
+        "clubs": [
+            {
+                "name": "Ozren PK",
+                "url": "https://pss.rs/adresar_klubova/ozren-pk/",
+                "contact": "Alekse Markišića 28/3 18230 Sokobanja (poštanski fah 63)\n+38164 855 33 61"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2022/07/Plato-Device-do-izvora-Moravice.gpx",
+        "fetched_at": "2026-11-08T12:02:39Z",
+        "checked_at": "2026-11-08T12:02:39Z",
+        "bytes": 188923,
+        "sha256": "30f504434a9b48155ebab4613b2bdf94b7c5350254daec390fc0c6a49530bd6f",
+        "etag": null,
+        "last_modified": "Thu, 14 Jul 2022 23:20:34 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 1543,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2022/07/Plato-Device-do-izvora-Moravice.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/plato-device-do-izvora-moravice.geojson",
+        "bbox": [
+            21.887852,
+            43.590035,
+            22.000951,
+            43.63242
+        ],
+        "center": [
+            21.944401,
+            43.611228
+        ],
+        "start_point": [
+            21.887852,
+            43.590537
+        ],
+        "end_point": [
+            21.991851,
+            43.629901
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.88785,
+                    43.59054
+                ],
+                [
+                    21.89598,
+                    43.59326
+                ],
+                [
+                    21.89673,
+                    43.59842
+                ],
+                [
+                    21.90117,
+                    43.5938
+                ],
+                [
+                    21.92678,
+                    43.59004
+                ],
+                [
+                    21.93104,
+                    43.59074
+                ],
+                [
+                    21.93599,
+                    43.5949
+                ],
+                [
+                    21.94692,
+                    43.59327
+                ],
+                [
+                    21.94643,
+                    43.59504
+                ],
+                [
+                    21.95233,
+                    43.59803
+                ],
+                [
+                    21.95838,
+                    43.59786
+                ],
+                [
+                    21.96259,
+                    43.59294
+                ],
+                [
+                    21.97091,
+                    43.59303
+                ],
+                [
+                    21.97585,
+                    43.59647
+                ],
+                [
+                    21.97696,
+                    43.60009
+                ],
+                [
+                    21.98139,
+                    43.59992
+                ],
+                [
+                    21.9868,
+                    43.60586
+                ],
+                [
+                    21.98563,
+                    43.6099
+                ],
+                [
+                    21.98854,
+                    43.61509
+                ],
+                [
+                    21.9836,
+                    43.61721
+                ],
+                [
+                    21.9843,
+                    43.62104
+                ],
+                [
+                    21.99393,
+                    43.622
+                ],
+                [
+                    22.00092,
+                    43.63095
+                ],
+                [
+                    21.9984,
+                    43.63242
+                ],
+                [
+                    21.99185,
+                    43.6299
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/plato-device-do-izvora-moravice/",
+        "canonical_url": "https://pss.rs/terenipp/plato-device-do-izvora-moravice/",
+        "pss_id": 17379,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:02:40Z",
+        "last_synced_at": "2026-11-08T12:02:40Z"
+    },
+    "search": "plato device do izvora moravice 4-31-16 istocna srbija devica prevoj vlasina izvor moravice ozren pk vrh ostra cuka (1075m), vrh capljinac (1187m), dugopoljska ledenica, tri bunra, vrh caske (1136m), dugopoljsaka cesma, stojin vrh (866m), pecina, izvor reke moravice zahtevna staza polazi sa prevoja vlasina. ide kolskim putem uzbrdo i preko livade ulazi u sumsku stazu i nakon izlaska iz sume pocinje ostriji uspon kamenitom stazom na vrh ostru cuku (1075m) sa severne strane. silazak je na juznu stranu i prati se zuto crvena markacija, jer u delu do vrha caske tom trasom ide i deonica evropskog pesackog puta e4. prvo ide kamenita staza, a zatim zemljanom stazom do kolskog puta, gde se skrece u levo. staza se spusta i skrece u levo do kaptaze vode. odatle se staza penje prvo sumskim putem, a zatim kamenitom stazom i izlazi do platoa, gde se izlai iz sumovitog dela. staza preko jedne livade izlazi na kolski put i nastavlja da prati kolske puteve. zatim se preko jedne livade povezuje sa drugim kolskim putem, kojim nastavlja dalje. kolski put vodi do skretanja, odakle se sa juzne strane, kamenitim prilazom vrsi uspon na capljinac (1187m), najvisi vrh planine device. vrh je otvoren prema jugu sa dobrim pogledom. sa vrha, staza vodi prema severu, a zatim prema istoku, sumskim putevima i stazama. dolazi se do skretanja za dugopoljsku ledenicu. staza nastavlja sumskom stazom i izlazi na kolski put do tri bunara (ima ih cetiri!). odatle staza skrece i kolskim putem stize do padine uz koju se penje do kamenitog dela, a zatim nastavlja dalje do vrha caske (1136m), odakle se pruza otvoren pogled na prostranstvo device. staza severnom stranom silazi sa vrha i dolazi do kolskog puta. od ove tacke se prate crveno bele markacije, i nastavlja se prema jugu i silazi do dugopoljske cesme (952m). zatim se penje do jedne duboke rupe („propast“) i nastavlja do platoa prema juznoj strani. staza blago silazi i prolazi preko rutave poljane do stojinog vrha (866m). odatle ulazi u sumoviti deo i spusta se i dalje prema jugu. obilazi i bezimenu pecinu. nakon toga sledi s",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:02:40Z"
+    }
+}

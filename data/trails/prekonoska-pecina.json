@@ -1,0 +1,167 @@
+{
+    "schema_version": 1,
+    "slug": "prekonoska-pecina",
+    "name": "Prekonoška pećina",
+    "code": "4-39-5",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 6969,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            51
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Svrljiške planine",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 4.3,
+        "calculated_km": 4.26
+    },
+    "duration": {
+        "official_minutes": 90,
+        "official_text": "1 h 30 min",
+        "official_raw": "1:30"
+    },
+    "elevation": {
+        "official_gain_m": 243.0,
+        "official_loss_m": 243.0,
+        "calculated_gain_m": 210.8,
+        "calculated_loss_m": 210.2,
+        "min_m": 520.0,
+        "max_m": 720.7
+    },
+    "start": "Selo Prekonoga, 513m",
+    "end": "Selo Prekonoga, 513m",
+    "description": "Staza je kružna, polazak i zavšetak je u centru sela Prekonoga. Prvih pola kilometara u usponu se ide seoskim asfaltnim putem, a potom dobrim makadamskim putem. Na nekoliko mesta makadamski put se račva u 2-3 kraka, koji se posle par desetina metara ponovo spajaju u glavnu stazu. Stiže se do prevoja i odvajanje staze ka Prekonoškoj pećini. Na tom mestu postoji informaciona tabla koja usmerava učesnike ka ulazu u pećinu, sa leve strane makadama. Do ulaza u pećinu je potrebno spustiti se još oko 100 metara širokom i dobro obezbeđenom stazom na čijoj ivici je postavljena metalna ograda. Postoje dva ulaza u pećinu. Na prvom je postavljena rešetka, dok učesnici mogu da uđu na drugom većem ulazu koji je 10-tak metara niže, idući do kraja staze. Unutar pećine će učesnici preći oko 100 metara do prve galerije, i taj deo staze je potpuno bezbedan za prolazak. Povratak u Prekonogu se odvija istim putem.",
+    "landmarks": "• Prekonoška pećina\n\n • Vidikovci: Izlaz iz sela Prekonoga i prevoj kod skretanja za pećinu",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Izvor pitke vode u selu Prekonoga\n\n • Na trasi nema smeštaja\n\n •",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Preslap PD",
+        "url": "https://pss.rs/adresar_klubova/preslap-pd/",
+        "contact": "Bulevar dr. Zorana Đinđića 19/130, 18000 Niš\n+38162 205 977\nhttps://www.preslap.rs/",
+        "clubs": [
+            {
+                "name": "Preslap PD",
+                "url": "https://pss.rs/adresar_klubova/preslap-pd/",
+                "contact": "Bulevar dr. Zorana Đinđića 19/130, 18000 Niš\n+38162 205 977\nhttps://www.preslap.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2018/07/4-39-5-Prekonoska-pecina.gpx",
+        "fetched_at": "2026-11-08T11:59:21Z",
+        "checked_at": "2026-11-08T11:59:21Z",
+        "bytes": 26497,
+        "sha256": "9b3fa396562d1a0c553e8663aab1a2a819a2cc2c9dd11ac20ebda01b5a9aab70",
+        "etag": null,
+        "last_modified": "Sat, 07 Jul 2018 12:18:02 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 208,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 2,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2018/07/4-39-5-Prekonoska-pecina.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/prekonoska-pecina.geojson",
+        "bbox": [
+            22.09924142807722,
+            43.380149602890015,
+            22.104494282975793,
+            43.39479890652001
+        ],
+        "center": [
+            22.101868,
+            43.387474
+        ],
+        "start_point": [
+            22.104494282975793,
+            43.39479890652001
+        ],
+        "end_point": [
+            22.104489924386144,
+            43.39471089653671
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    22.10449,
+                    43.3948
+                ],
+                [
+                    22.09924,
+                    43.39179
+                ],
+                [
+                    22.10346,
+                    43.3891
+                ],
+                [
+                    22.1011,
+                    43.3873
+                ],
+                [
+                    22.10214,
+                    43.38015
+                ],
+                [
+                    22.10183,
+                    43.39151
+                ],
+                [
+                    22.10449,
+                    43.39471
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/prekonoska-pecina/",
+        "canonical_url": "https://pss.rs/terenipp/prekonoska-pecina/",
+        "pss_id": 6969,
+        "updated_at": "2018-07-07T12:22:55Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:59:22Z",
+        "last_synced_at": "2026-11-08T11:59:22Z"
+    },
+    "search": "prekonoska pecina 4-39-5 istocna srbija svrljiske planine selo prekonoga, 513m selo prekonoga, 513m preslap pd • prekonoska pecina • vidikovci: izlaz iz sela prekonoga i prevoj kod skretanja za pecinu laka staza je kruzna, polazak i zavsetak je u centru sela prekonoga. prvih pola kilometara u usponu se ide seoskim asfaltnim putem, a potom dobrim makadamskim putem. na nekoliko mesta makadamski put se racva u 2-3 kraka, koji se posle par desetina metara ponovo spajaju u glavnu stazu. stize se do prevoja i odvajanje staze ka prekonoskoj pecini. na tom mestu postoji informaciona tabla koja usmerava ucesnike ka ulazu u pecinu, sa leve strane makadama. do ulaza u pecinu je potrebno spustiti se jos oko 100 metara sirokom i dobro obezbedjenom stazom na cijoj ivici je postavljena metalna ograda. postoje dva ulaza u pecinu. na prvom je postavljena resetka, dok ucesnici mogu da udju na drugom vecem ulazu koji je 10-tak metara nize, iduci do kraja staze. unutar pecine ce ucesnici preci oko 100 metara do prve galerije, i taj deo staze je potpuno bezbedan za prolazak. povratak u prekonogu se odvija istim putem.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:59:22Z"
+    }
+}

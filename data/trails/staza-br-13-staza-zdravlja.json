@@ -1,0 +1,175 @@
+{
+    "schema_version": 1,
+    "slug": "staza-br-13-staza-zdravlja",
+    "name": "Staza br. 13 \"Staza zdravlja\"",
+    "code": "7-9-13",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 3770,
+        "category_id": 28,
+        "region_ids": [
+            7
+        ],
+        "mountain_ids": [
+            69
+        ]
+    },
+    "region": "Jugoistočna Srbija",
+    "mountain": "Kukavica",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 5.0,
+        "calculated_km": 3.74
+    },
+    "duration": {
+        "official_minutes": 120,
+        "official_text": "2 h",
+        "official_raw": "2"
+    },
+    "elevation": {
+        "official_gain_m": 200.0,
+        "official_loss_m": 220.0,
+        "calculated_gain_m": 121.3,
+        "calculated_loss_m": 117.4,
+        "min_m": 254.9,
+        "max_m": 334.4
+    },
+    "start": "Park \"9. Jugovića\" Leskovac, 255 m",
+    "end": "\"Spomen park\" Leskovac, 245 m",
+    "description": "Park \"9. Jugovića\" - TV predajnik kota 310 m - vrh Hisara kota 341 m - raskrsnica \"Toma Taksa\" - crkva Sv. Ilije - \"Spomen park Revolucije\"",
+    "landmarks": "• Brdo Hisar - arheološko nalazište\n\n • Crkva sv. Ilije",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": "1:25000, TK Leskovac 632 2-4",
+    "club": {
+        "name": "Kukavica PSK",
+        "url": "https://pss.rs/adresar_klubova/kukavica-psk/",
+        "contact": "Deligradska 5, 16000 Leskovac\n+381652824655",
+        "clubs": [
+            {
+                "name": "Kukavica PSK",
+                "url": "https://pss.rs/adresar_klubova/kukavica-psk/",
+                "contact": "Deligradska 5, 16000 Leskovac\n+381652824655"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 7,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/7-9-13-Staza-br.13-Staza-zdravlja.gpx",
+        "fetched_at": "2026-11-08T11:55:22Z",
+        "checked_at": "2026-11-08T11:55:22Z",
+        "bytes": 84135,
+        "sha256": "2fdf36949c6c0266d4202cb31899da7c2d2caff350a4e5852a9d60601a37b67c",
+        "etag": null,
+        "last_modified": "Tue, 06 Apr 2021 12:47:23 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 670,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 8,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/7-9-13-Staza-br.13-Staza-zdravlja.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/staza-br-13-staza-zdravlja.geojson",
+        "bbox": [
+            21.931452993303537,
+            42.98268503509462,
+            21.942828996106982,
+            42.993096029385924
+        ],
+        "center": [
+            21.937141,
+            42.987891
+        ],
+        "start_point": [
+            21.93747203797102,
+            42.993096029385924
+        ],
+        "end_point": [
+            21.942769987508655,
+            42.983108991757035
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.93747,
+                    42.9931
+                ],
+                [
+                    21.93953,
+                    42.9911
+                ],
+                [
+                    21.93782,
+                    42.9923
+                ],
+                [
+                    21.9385,
+                    42.99087
+                ],
+                [
+                    21.93527,
+                    42.99068
+                ],
+                [
+                    21.93146,
+                    42.98515
+                ],
+                [
+                    21.93869,
+                    42.98269
+                ],
+                [
+                    21.94018,
+                    42.98725
+                ],
+                [
+                    21.94277,
+                    42.98311
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/staza-br-13-staza-zdravlja/",
+        "canonical_url": "https://pss.rs/terenipp/staza-br-13-staza-zdravlja/",
+        "pss_id": 3770,
+        "updated_at": "2021-04-06T12:51:53Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:55:22Z",
+        "last_synced_at": "2026-11-08T11:55:22Z"
+    },
+    "search": "staza br. 13 \"staza zdravlja\" 7-9-13 jugoistocna srbija kukavica park \"9. jugovica\" leskovac, 255 m \"spomen park\" leskovac, 245 m kukavica psk • brdo hisar - arheolosko nalaziste • crkva sv. ilije laka park \"9. jugovica\" - tv predajnik kota 310 m - vrh hisara kota 341 m - raskrsnica \"toma taksa\" - crkva sv. ilije - \"spomen park revolucije\"",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:55:22Z"
+    }
+}

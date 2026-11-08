@@ -1,0 +1,787 @@
+{
+    "schema_version": 1,
+    "slug": "e4-13",
+    "name": "Jalovik - Gradina",
+    "code": "E4-13",
+    "category": {
+        "key": "evropski-pesacki-putevi-u-srbiji",
+        "label": "Evropski pešački putevi u Srbiji"
+    },
+    "pss": {
+        "post_id": 3685,
+        "category_id": 29,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            58
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Stara planina",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevan"
+    },
+    "distance": {
+        "official_km": 123.3,
+        "calculated_km": 123.81
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": 4088.0,
+        "official_loss_m": 4076.0,
+        "calculated_gain_m": 99.8,
+        "calculated_loss_m": 359.3,
+        "min_m": 464.0,
+        "max_m": 759.0
+    },
+    "start": null,
+    "end": null,
+    "description": "• Vredan je napora ovaj uspon na visoke grebene Stare planine koja\nje proglašena za park prirode zbog brojnih prirodnih fenomena,\ngeoloških retkosti, raznovrsne flore i faune i vrednog etno nasleđa.\nStenoviti vrh od peščarskih stena nazvan Babin Zub (1757 mnv) je\nspomenik prirode. Ovde je danas poznati skijaški centar. Najviši\nvrh Stare planine zove se Midžor (2168 mnv). Uspon na vrh od Babinog\nZuba nije mnogo težak ali zahteva upornost.\n\n • Put E4 od Babinog Zuba silazi u dolinu reke Temske u selo Topli\nDo sa zanimljivim narodnim graditeljstvom. Odavde se nastavljaju\nvredne prirodne, geomorfološke i geološke vrednosti. Klisura reke\nTemske usečena je u peščarske sedimente crvene boje iz perioda Perma\n(paleozoik). U neposrednoj blizini je stari manastir Temska.\n\n • U jezgru planine smešteni su meandri reke Visočice usečeni u\nkrečnjačkim stenama. Na ovoj reci podignuto je veštačko jezero Zavoj\ni turističko naselje.\n\n • Put prolazi kroz brojna sela koje stanovništvo polako napušta.\nOvde se negovala tradicija pripreme kvalitetnog sira poznatog kao\n„pirotski kačkavalj”. Centar proizvodnje bio je u selu Dojkinci, u srcu\nplanine. Na Staroj planini je registrovano 1190 biljnih vrsta, 116\nvrsta leptira, 18 vrsta vodozemaca, 203 vrste ptica i preko 30 vrsta\nsisara.\n\n • Od prirodnih fenomena posebno je zanimljiv kanjon Rosomačke reke\nzvani „Ždrelo” kod sela Rosomač koji je izdubljen u tankoslojevitim\nraznobojnim stenama.\n\n • Dalje put E4 prelazi preko planinskog prevoja Vidlič i silazi na\nveliku zaravan Odorovačkog polja. Prirodni fenomeni poniranja reke\nstvorili su zanimljiv sistem pećina između sela Petrlaš i Odorovci.\nKroz polje potpuno pravolinijski u dužini od više kilometara\nuočava se trasa antičkog puta Via Militaris. U selu Smilovci nalazi se\nstara crkva sa freskom Isusa koji je prikazan bez kose (Ćelavi Isus).\nU podnožju Stare planine nalaze se gradovi Pirot i Dimitrovgrad.\nPirot je stari kulturni i privredni centar. Spominje se još u IV veku\nu rimskoj karti Tabula Peutingeriana kao antičko naselje Tures.\nOd srednjeg veka Pirot je bio jak zanatski centar u kome se posebno\nrazvila veština tkanja ćilima sa karakteristikama ovog kraja.\n\n • Zahvaljujući nekada razvijenom gajenju ovaca na Staroj planini\nobezbeđivane su sirovine kvalitetne vune. Pirotski ćilim je odavno\npoznat i ovaj zanat se postepeno obnavlja. Takođe se čuva i obnavlja\ntradicija izrade pirotskog kačkavalja. Preporučuje se obilazak\nPirota i njegovog muzeja, tvrđave i drugih vrednosti.\n\n • Dimitrovgrad se nalazi u blizini granice sa Bugarskom (5km).\nPrethodno ime, pre ІІ svetskog rata bilo je Caribrod. U gradu je\ninteresantna crkva Rođenja Presvete Bogorodice (1892) sa ikonostasom\nod šimširovog drveta u čipkastoj tehnici. Izradili su ga majstori\nSamokovske škole. Kod Dimitrovgrada, kod sela Kozarice do graničnog\nprelaza Gradina put E4 prelazi na teritoriju Bugarske.",
+    "landmarks": "Babin zub, klisura reke Temske, meandri reke Visočice, jezero Zavoj",
+    "maintenance": null,
+    "marking": "evropska crveno-žuta",
+    "accommodation": "Kalna, Babin zub, Zavoj, Visočka Ržana, Vrelo, Dimitrovgrad",
+    "notes": "• E4-13-1 Jalovik – Babin Zub 35,5 km\n\n • E4-13-2 Babin Zub – Zavoj 24,4 km\n\n • E4-13-3 Zavoj – Pakleštica 19,0 km\n\n • E4-13-4 Pakleštica – Smilovci 28,0 km\n\n • E4-13-5 Smilovci – Gradina 16,4 km",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Babin zub PD",
+        "url": "https://pss.rs/adresar_klubova/babin-zub-pd/",
+        "contact": "Svetozara Markovića 7\n+38164 389 64 96",
+        "clubs": [
+            {
+                "name": "Babin zub PD",
+                "url": "https://pss.rs/adresar_klubova/babin-zub-pd/",
+                "contact": "Svetozara Markovića 7\n+38164 389 64 96"
+            },
+            {
+                "name": "Ozren PK",
+                "url": "https://pss.rs/adresar_klubova/ozren-pk/",
+                "contact": "Alekse Markišića 28/3 18230 Sokobanja (poštanski fah 63)\n+38164 855 33 61"
+            },
+            {
+                "name": "Vidlič PK",
+                "url": "https://pss.rs/adresar_klubova/vidlic-pk/",
+                "contact": "Danila Kiša 22, 18300 Pirot\n+38163 484 497 ; +38160 480 0211"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/E4-13-Jalovik-Gradina.gpx",
+        "fetched_at": "2026-11-08T12:50:44Z",
+        "checked_at": "2026-11-08T12:50:44Z",
+        "bytes": 395422,
+        "sha256": "dbc96a2d51a2890b23a62dbea9f171c7ea4c03647d60c0cfac980415b6fc4d89",
+        "etag": null,
+        "last_modified": "Thu, 05 Dec 2024 23:07:33 GMT",
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": 5474,
+        "tracks": 5,
+        "segments": 5,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/E4-13-Jalovik-Gradina.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/e4-13.geojson",
+        "bbox": [
+            22.387423591,
+            42.997818721,
+            22.864383307,
+            43.395201559
+        ],
+        "center": [
+            22.625903,
+            43.19651
+        ],
+        "start_point": [
+            22.387668283,
+            43.393950631
+        ],
+        "end_point": [
+            22.834133697,
+            42.997818721
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    22.38767,
+                    43.39395
+                ],
+                [
+                    22.39788,
+                    43.38254
+                ],
+                [
+                    22.40039,
+                    43.38237
+                ],
+                [
+                    22.40899,
+                    43.36767
+                ],
+                [
+                    22.41285,
+                    43.36606
+                ],
+                [
+                    22.41411,
+                    43.36742
+                ],
+                [
+                    22.41757,
+                    43.36191
+                ],
+                [
+                    22.42411,
+                    43.36435
+                ],
+                [
+                    22.42732,
+                    43.36235
+                ],
+                [
+                    22.43658,
+                    43.36542
+                ],
+                [
+                    22.44048,
+                    43.36132
+                ],
+                [
+                    22.43803,
+                    43.36601
+                ],
+                [
+                    22.44163,
+                    43.36829
+                ],
+                [
+                    22.44515,
+                    43.36172
+                ],
+                [
+                    22.4536,
+                    43.3559
+                ],
+                [
+                    22.46973,
+                    43.35678
+                ],
+                [
+                    22.47315,
+                    43.36009
+                ],
+                [
+                    22.47443,
+                    43.36474
+                ],
+                [
+                    22.47696,
+                    43.36543
+                ],
+                [
+                    22.47466,
+                    43.36692
+                ],
+                [
+                    22.47591,
+                    43.36885
+                ],
+                [
+                    22.47337,
+                    43.3688
+                ],
+                [
+                    22.47535,
+                    43.37294
+                ],
+                [
+                    22.47273,
+                    43.38109
+                ],
+                [
+                    22.47738,
+                    43.38011
+                ],
+                [
+                    22.48035,
+                    43.38381
+                ],
+                [
+                    22.47877,
+                    43.38743
+                ],
+                [
+                    22.48066,
+                    43.38732
+                ],
+                [
+                    22.48505,
+                    43.39356
+                ],
+                [
+                    22.4934,
+                    43.39269
+                ],
+                [
+                    22.50505,
+                    43.38578
+                ],
+                [
+                    22.50066,
+                    43.39339
+                ],
+                [
+                    22.507,
+                    43.39142
+                ],
+                [
+                    22.51026,
+                    43.39516
+                ],
+                [
+                    22.51377,
+                    43.39475
+                ],
+                [
+                    22.51668,
+                    43.3914
+                ],
+                [
+                    22.52607,
+                    43.38831
+                ],
+                [
+                    22.52804,
+                    43.38301
+                ],
+                [
+                    22.53805,
+                    43.37911
+                ],
+                [
+                    22.54156,
+                    43.37527
+                ],
+                [
+                    22.56983,
+                    43.37885
+                ],
+                [
+                    22.57558,
+                    43.37483
+                ],
+                [
+                    22.57686,
+                    43.36316
+                ],
+                [
+                    22.58135,
+                    43.36592
+                ],
+                [
+                    22.59019,
+                    43.36461
+                ],
+                [
+                    22.59252,
+                    43.36669
+                ],
+                [
+                    22.58945,
+                    43.36718
+                ],
+                [
+                    22.59033,
+                    43.36883
+                ],
+                [
+                    22.60128,
+                    43.36871
+                ],
+                [
+                    22.61606,
+                    43.37456
+                ]
+            ],
+            [
+                [
+                    22.61606,
+                    43.37456
+                ],
+                [
+                    22.62554,
+                    43.37528
+                ],
+                [
+                    22.62437,
+                    43.37228
+                ],
+                [
+                    22.63054,
+                    43.36995
+                ],
+                [
+                    22.63449,
+                    43.36391
+                ],
+                [
+                    22.63955,
+                    43.36795
+                ],
+                [
+                    22.63705,
+                    43.37177
+                ],
+                [
+                    22.64119,
+                    43.37029
+                ],
+                [
+                    22.64399,
+                    43.37143
+                ],
+                [
+                    22.64324,
+                    43.36874
+                ],
+                [
+                    22.64801,
+                    43.36841
+                ],
+                [
+                    22.65326,
+                    43.36355
+                ],
+                [
+                    22.66468,
+                    43.35962
+                ],
+                [
+                    22.67289,
+                    43.34613
+                ],
+                [
+                    22.67752,
+                    43.34419
+                ],
+                [
+                    22.67981,
+                    43.33986
+                ],
+                [
+                    22.66191,
+                    43.33346
+                ],
+                [
+                    22.65414,
+                    43.32287
+                ],
+                [
+                    22.64467,
+                    43.31814
+                ],
+                [
+                    22.64323,
+                    43.31487
+                ],
+                [
+                    22.63834,
+                    43.31488
+                ],
+                [
+                    22.63735,
+                    43.31015
+                ],
+                [
+                    22.62851,
+                    43.30394
+                ],
+                [
+                    22.62425,
+                    43.30456
+                ],
+                [
+                    22.61889,
+                    43.30181
+                ],
+                [
+                    22.61719,
+                    43.30289
+                ],
+                [
+                    22.61152,
+                    43.29944
+                ],
+                [
+                    22.61826,
+                    43.28546
+                ],
+                [
+                    22.62257,
+                    43.28469
+                ],
+                [
+                    22.63054,
+                    43.27779
+                ],
+                [
+                    22.63619,
+                    43.27736
+                ],
+                [
+                    22.63787,
+                    43.27393
+                ],
+                [
+                    22.63703,
+                    43.27209
+                ],
+                [
+                    22.6335,
+                    43.27341
+                ],
+                [
+                    22.63377,
+                    43.2674
+                ]
+            ],
+            [
+                [
+                    22.63377,
+                    43.2674
+                ],
+                [
+                    22.63179,
+                    43.26324
+                ],
+                [
+                    22.63714,
+                    43.25623
+                ],
+                [
+                    22.63057,
+                    43.25737
+                ],
+                [
+                    22.63505,
+                    43.25387
+                ],
+                [
+                    22.63423,
+                    43.25081
+                ],
+                [
+                    22.63993,
+                    43.25351
+                ],
+                [
+                    22.64924,
+                    43.24935
+                ],
+                [
+                    22.64682,
+                    43.24445
+                ],
+                [
+                    22.65158,
+                    43.24657
+                ],
+                [
+                    22.65289,
+                    43.24388
+                ],
+                [
+                    22.66504,
+                    43.24403
+                ],
+                [
+                    22.67064,
+                    43.237
+                ],
+                [
+                    22.66338,
+                    43.23227
+                ],
+                [
+                    22.66804,
+                    43.22875
+                ],
+                [
+                    22.67269,
+                    43.22898
+                ],
+                [
+                    22.68881,
+                    43.22072
+                ],
+                [
+                    22.7044,
+                    43.21804
+                ],
+                [
+                    22.70067,
+                    43.22394
+                ],
+                [
+                    22.71032,
+                    43.21769
+                ],
+                [
+                    22.71842,
+                    43.21598
+                ],
+                [
+                    22.72381,
+                    43.20777
+                ],
+                [
+                    22.73088,
+                    43.20512
+                ],
+                [
+                    22.73968,
+                    43.20539
+                ]
+            ],
+            [
+                [
+                    22.73968,
+                    43.20539
+                ],
+                [
+                    22.74358,
+                    43.20379
+                ],
+                [
+                    22.75198,
+                    43.19293
+                ],
+                [
+                    22.75004,
+                    43.18829
+                ],
+                [
+                    22.74649,
+                    43.18631
+                ],
+                [
+                    22.76042,
+                    43.18038
+                ],
+                [
+                    22.76714,
+                    43.18024
+                ],
+                [
+                    22.77608,
+                    43.17113
+                ],
+                [
+                    22.78342,
+                    43.17055
+                ],
+                [
+                    22.79189,
+                    43.16
+                ],
+                [
+                    22.80045,
+                    43.16155
+                ],
+                [
+                    22.80516,
+                    43.15575
+                ],
+                [
+                    22.80935,
+                    43.15408
+                ],
+                [
+                    22.81622,
+                    43.15786
+                ],
+                [
+                    22.82481,
+                    43.15818
+                ],
+                [
+                    22.83344,
+                    43.15732
+                ],
+                [
+                    22.84263,
+                    43.15283
+                ],
+                [
+                    22.84696,
+                    43.14482
+                ],
+                [
+                    22.8445,
+                    43.14095
+                ],
+                [
+                    22.85175,
+                    43.13415
+                ],
+                [
+                    22.85771,
+                    43.11947
+                ],
+                [
+                    22.86131,
+                    43.11603
+                ],
+                [
+                    22.85267,
+                    43.12029
+                ],
+                [
+                    22.86438,
+                    43.1102
+                ],
+                [
+                    22.86192,
+                    43.10914
+                ],
+                [
+                    22.85531,
+                    43.11066
+                ],
+                [
+                    22.86069,
+                    43.10174
+                ],
+                [
+                    22.85906,
+                    43.1009
+                ],
+                [
+                    22.85111,
+                    43.1019
+                ],
+                [
+                    22.84797,
+                    43.10878
+                ],
+                [
+                    22.84654,
+                    43.1075
+                ],
+                [
+                    22.85022,
+                    43.0921
+                ],
+                [
+                    22.84396,
+                    43.08771
+                ],
+                [
+                    22.8513,
+                    43.08389
+                ]
+            ],
+            [
+                [
+                    22.8513,
+                    43.08389
+                ],
+                [
+                    22.83938,
+                    43.07594
+                ],
+                [
+                    22.83073,
+                    43.05058
+                ],
+                [
+                    22.82102,
+                    43.04208
+                ],
+                [
+                    22.81814,
+                    43.03306
+                ],
+                [
+                    22.81942,
+                    43.02895
+                ],
+                [
+                    22.84468,
+                    43.01442
+                ],
+                [
+                    22.84381,
+                    43.01173
+                ],
+                [
+                    22.83427,
+                    43.00251
+                ],
+                [
+                    22.81858,
+                    43.00844
+                ],
+                [
+                    22.815,
+                    43.00471
+                ],
+                [
+                    22.81092,
+                    43.00544
+                ],
+                [
+                    22.81026,
+                    43.00415
+                ],
+                [
+                    22.83413,
+                    42.99782
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": [
+            "missing_elevation"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/e4-13/",
+        "canonical_url": "https://pss.rs/terenipp/e4-13/",
+        "pss_id": 3685,
+        "updated_at": "2024-12-05T23:07:54Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:50:44Z",
+        "last_synced_at": "2026-11-08T12:50:44Z"
+    },
+    "search": "jalovik - gradina e4-13 istocna srbija stara planina babin zub pd babin zub, klisura reke temske, meandri reke visocice, jezero zavoj zahtevna • vredan je napora ovaj uspon na visoke grebene stare planine koja je proglasena za park prirode zbog brojnih prirodnih fenomena, geoloskih retkosti, raznovrsne flore i faune i vrednog etno nasledja. stenoviti vrh od pescarskih stena nazvan babin zub (1757 mnv) je spomenik prirode. ovde je danas poznati skijaski centar. najvisi vrh stare planine zove se midzor (2168 mnv). uspon na vrh od babinog zuba nije mnogo tezak ali zahteva upornost. • put e4 od babinog zuba silazi u dolinu reke temske u selo topli do sa zanimljivim narodnim graditeljstvom. odavde se nastavljaju vredne prirodne, geomorfoloske i geoloske vrednosti. klisura reke temske usecena je u pescarske sedimente crvene boje iz perioda perma (paleozoik). u neposrednoj blizini je stari manastir temska. • u jezgru planine smesteni su meandri reke visocice useceni u krecnjackim stenama. na ovoj reci podignuto je vestacko jezero zavoj i turisticko naselje. • put prolazi kroz brojna sela koje stanovnistvo polako napusta. ovde se negovala tradicija pripreme kvalitetnog sira poznatog kao „pirotski kackavalj”. centar proizvodnje bio je u selu dojkinci, u srcu planine. na staroj planini je registrovano 1190 biljnih vrsta, 116 vrsta leptira, 18 vrsta vodozemaca, 203 vrste ptica i preko 30 vrsta sisara. • od prirodnih fenomena posebno je zanimljiv kanjon rosomacke reke zvani „zdrelo” kod sela rosomac koji je izdubljen u tankoslojevitim raznobojnim stenama. • dalje put e4 prelazi preko planinskog prevoja vidlic i silazi na veliku zaravan odorovackog polja. prirodni fenomeni poniranja reke stvorili su zanimljiv sistem pecina izmedju sela petrlas i odorovci. kroz polje potpuno pravolinijski u duzini od vise kilometara uocava se trasa antickog puta via militaris. u selu smilovci nalazi se stara crkva sa freskom isusa k",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:50:44Z"
+    }
+}

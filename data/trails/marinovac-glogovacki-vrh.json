@@ -1,0 +1,124 @@
+{
+    "schema_version": 1,
+    "slug": "marinovac-glogovacki-vrh",
+    "name": "Marinovac - Glogovački vrh",
+    "code": "4-36-2",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 8170,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            123
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Tupižnica",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 12.2,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": 330,
+        "official_text": "5 h 30 min",
+        "official_raw": "5:30"
+    },
+    "elevation": {
+        "official_gain_m": 714.0,
+        "official_loss_m": 714.0,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": "Selo Marinovac, 451m",
+    "end": "Selo Marinovac, 451m",
+    "description": "• Početak staze nalazi se u centru sela Marinovac. Najvićim delom staza vodi kolskim putem. Na stazi postoji jedan bunar sa pitkom vodom, a nakon njega, šumska staza vodi do Glogovačkog vrha.\n\n • Na stazi je potrebna opreznost !",
+    "landmarks": "• Na stazi ima jedan bunar sa pitkom vodom\n\n • Nema smeštajnih objekata",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Stazu je trasirao OPSD \"Dragan Radosavljević\" 2018. godine, a poslednji put je markirana septembra 2018. godine.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Dragan Radosavljević OPSD",
+        "url": "https://pss.rs/adresar_klubova/opsd-dragan-radosavljevic/",
+        "contact": "Save Kovacevica 37c, 19000 Zajecar\n+38163 457 536\nhttps://www.opsddraganradosavljevic.rs/",
+        "clubs": [
+            {
+                "name": "Dragan Radosavljević OPSD",
+                "url": "https://pss.rs/adresar_klubova/opsd-dragan-radosavljevic/",
+                "contact": "Save Kovacevica 37c, 19000 Zajecar\n+38163 457 536\nhttps://www.opsddraganradosavljevic.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 7,
+    "gpx": {
+        "available": false,
+        "status": "invalid",
+        "source_url": "https://pss.rs/wp-content/uploads/2019/01/4-36-2-Tupiznica-Glogova_ki-vrh.gpx",
+        "fetched_at": "2026-11-08T12:07:39Z",
+        "checked_at": "2026-11-08T12:07:39Z",
+        "bytes": 89539,
+        "sha256": "ea12cb491b666aa79b8a726c6bece4d93018b282d3ff56dce4fecb7498c408de",
+        "etag": null,
+        "last_modified": "Sat, 07 Nov 2026 16:41:33 GMT",
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": 0,
+        "tracks": 0,
+        "segments": 0,
+        "waypoints": 0,
+        "error": "Datoteka nema <gpx> koren.",
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2019/01/4-36-2-Tupiznica-Glogova_ki-vrh.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_gpx"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/marinovac-glogovacki-vrh/",
+        "canonical_url": "https://pss.rs/terenipp/marinovac-glogovacki-vrh/",
+        "pss_id": 8170,
+        "updated_at": "2020-02-27T09:08:31Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:07:40Z",
+        "last_synced_at": "2026-11-08T12:07:40Z"
+    },
+    "search": "marinovac - glogovacki vrh 4-36-2 istocna srbija tupiznica selo marinovac, 451m selo marinovac, 451m dragan radosavljevic opsd • na stazi ima jedan bunar sa pitkom vodom • nema smestajnih objekata zahtevna • pocetak staze nalazi se u centru sela marinovac. najvicim delom staza vodi kolskim putem. na stazi postoji jedan bunar sa pitkom vodom, a nakon njega, sumska staza vodi do glogovackog vrha. • na stazi je potrebna opreznost !",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:07:40Z"
+    }
+}

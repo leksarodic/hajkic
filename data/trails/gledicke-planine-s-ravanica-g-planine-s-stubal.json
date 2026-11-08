@@ -1,0 +1,134 @@
+{
+    "schema_version": 1,
+    "slug": "gledicke-planine-s-ravanica-g-planine-s-stubal",
+    "name": "Gledićke planine (s.Ravanica-G.Planine-S.Stubal)",
+    "code": "2-14-2",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 3691,
+        "category_id": 28,
+        "region_ids": [
+            2
+        ],
+        "mountain_ids": [
+            61
+        ]
+    },
+    "region": "Šumadija",
+    "mountain": "Gledićke planine",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 22.0,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": 420,
+        "official_text": "7 h",
+        "official_raw": "7:00"
+    },
+    "elevation": {
+        "official_gain_m": 690.0,
+        "official_loss_m": 432.0,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": "Selo Ravanica (232)",
+    "end": "Selo Stubal (258)",
+    "description": null,
+    "landmarks": "Manastir u selu Stubal, sv Petka",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Železničar PSK Kraljevo",
+        "url": "https://pss.rs/adresar_klubova/zeleznicar-psk/",
+        "contact": "Industrijska 2, 36000 Kraljevo\n064/636 17 95\nhttp://www.pskzeleznicarkv.rs/",
+        "clubs": [
+            {
+                "name": "Železničar PSK Kraljevo",
+                "url": "https://pss.rs/adresar_klubova/zeleznicar-psk/",
+                "contact": "Industrijska 2, 36000 Kraljevo\n064/636 17 95\nhttp://www.pskzeleznicarkv.rs/"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 1,
+    "gpx": {
+        "available": false,
+        "status": "missing",
+        "source_url": null,
+        "fetched_at": null,
+        "checked_at": "2026-11-08T12:50:48Z",
+        "bytes": null,
+        "sha256": null,
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": null,
+        "tracks": null,
+        "segments": null,
+        "waypoints": null,
+        "error": null,
+        "download": {
+            "mode": "none",
+            "url": null
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description",
+            "missing_gpx"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/gledicke-planine-s-ravanica-g-planine-s-stubal/",
+        "canonical_url": "https://pss.rs/terenipp/gledicke-planine-s-ravanica-g-planine-s-stubal/",
+        "pss_id": 3691,
+        "updated_at": "2017-05-14T18:02:35Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:50:48Z",
+        "last_synced_at": "2026-11-08T12:50:48Z"
+    },
+    "search": "gledicke planine (s.ravanica-g.planine-s.stubal) 2-14-2 sumadija gledicke planine selo ravanica (232) selo stubal (258) zeleznicar psk kraljevo manastir u selu stubal, sv petka zahtevna",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:50:48Z"
+    }
+}

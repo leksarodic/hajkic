@@ -1,0 +1,231 @@
+{
+    "schema_version": 1,
+    "slug": "trubarevac-bovansko-jezero",
+    "name": "Trubarevac - Bovansko jezero",
+    "code": "4-30-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 8078,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            75
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Rožanj",
+    "difficulty": {
+        "key": "srednje_teska",
+        "label": "Srednje teška",
+        "source": "srednje teška"
+    },
+    "distance": {
+        "official_km": 14.9,
+        "calculated_km": 14.84
+    },
+    "duration": {
+        "official_minutes": 360,
+        "official_text": "6 h",
+        "official_raw": "6:00"
+    },
+    "elevation": {
+        "official_gain_m": 565.0,
+        "official_loss_m": 565.0,
+        "calculated_gain_m": 532.2,
+        "calculated_loss_m": 535.2,
+        "min_m": 255.3,
+        "max_m": 561.0
+    },
+    "start": "Selo Trubarevac, 324 m",
+    "end": "Selo Trubarevac, 324 m",
+    "description": "Staza je kružna i polazi od doma u Trubarevcu i ide preko Nerezine do vidikovca Vrh (566 m). Zatim se spušta pored Ružinog kamena do reke Mratinje i kamene brane na reci. Zatim ide uspon kroz bukovu šumu i dolazak do Hranetove hacijende. Staza se potom spušta do ušća reke Mratinje u Moravicu, odnosno Bovansko jezero. Obilazi se zaliv i ide se obalom jezera do ulaska u selo.",
+    "landmarks": "• Vrh, reka Mratinja, Bovansko jezero\n\n • Vidikovci: Vrh, Ružin kamen\n\n • Naselje: Trubarevac\n\n • Na trasi ima izvora pitke vode\n\n • Smeštaj: kamp, odmaralište, privatni smeštaj",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu su trasirali marta 2015. članovi PK \"Ozren\" Sokobanja (Dejan Stojadinović, Dragan Knežević, Ilija Knežević)\n\n • Poslednji put staza je markirana 2020. godine",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Ozren PK",
+        "url": "https://pss.rs/adresar_klubova/ozren-pk/",
+        "contact": "Alekse Markišića 28/3 18230 Sokobanja (poštanski fah 63)\n+38164 855 33 61",
+        "clubs": [
+            {
+                "name": "Ozren PK",
+                "url": "https://pss.rs/adresar_klubova/ozren-pk/",
+                "contact": "Alekse Markišića 28/3 18230 Sokobanja (poštanski fah 63)\n+38164 855 33 61"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2019/01/4-30-1-Trubarevac-Bovansko-jezero.gpx",
+        "fetched_at": "2026-11-08T11:59:38Z",
+        "checked_at": "2026-11-08T11:59:38Z",
+        "bytes": 116225,
+        "sha256": "c84e26443daa592758cda35cf91739b03e5cef39454eb4932e5909193217856e",
+        "etag": null,
+        "last_modified": "Tue, 30 Mar 2021 18:12:29 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 690,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 9,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2019/01/4-30-1-Trubarevac-Bovansko-jezero.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/trubarevac-bovansko-jezero.geojson",
+        "bbox": [
+            21.714449962601066,
+            43.651252035051584,
+            21.766843982040882,
+            43.67125301621854
+        ],
+        "center": [
+            21.740647,
+            43.661253
+        ],
+        "start_point": [
+            21.759606041014194,
+            43.667518040165305
+        ],
+        "end_point": [
+            21.759735038504004,
+            43.66765399463475
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    21.75961,
+                    43.66752
+                ],
+                [
+                    21.757,
+                    43.66483
+                ],
+                [
+                    21.75051,
+                    43.66738
+                ],
+                [
+                    21.74742,
+                    43.66585
+                ],
+                [
+                    21.74365,
+                    43.67121
+                ],
+                [
+                    21.73655,
+                    43.66286
+                ],
+                [
+                    21.73211,
+                    43.66401
+                ],
+                [
+                    21.72848,
+                    43.6624
+                ],
+                [
+                    21.72926,
+                    43.66628
+                ],
+                [
+                    21.72517,
+                    43.66663
+                ],
+                [
+                    21.72752,
+                    43.66829
+                ],
+                [
+                    21.72524,
+                    43.67001
+                ],
+                [
+                    21.7168,
+                    43.6682
+                ],
+                [
+                    21.7146,
+                    43.66332
+                ],
+                [
+                    21.72341,
+                    43.6573
+                ],
+                [
+                    21.72324,
+                    43.66088
+                ],
+                [
+                    21.72764,
+                    43.653
+                ],
+                [
+                    21.74202,
+                    43.65126
+                ],
+                [
+                    21.74581,
+                    43.65438
+                ],
+                [
+                    21.75664,
+                    43.65527
+                ],
+                [
+                    21.76536,
+                    43.66158
+                ],
+                [
+                    21.76674,
+                    43.66359
+                ],
+                [
+                    21.75974,
+                    43.66765
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/trubarevac-bovansko-jezero/",
+        "canonical_url": "https://pss.rs/terenipp/trubarevac-bovansko-jezero/",
+        "pss_id": 8078,
+        "updated_at": "2021-03-30T18:13:14Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:59:38Z",
+        "last_synced_at": "2026-11-08T11:59:38Z"
+    },
+    "search": "trubarevac - bovansko jezero 4-30-1 istocna srbija rozanj selo trubarevac, 324 m selo trubarevac, 324 m ozren pk • vrh, reka mratinja, bovansko jezero • vidikovci: vrh, ruzin kamen • naselje: trubarevac • na trasi ima izvora pitke vode • smestaj: kamp, odmaraliste, privatni smestaj srednje teska staza je kruzna i polazi od doma u trubarevcu i ide preko nerezine do vidikovca vrh (566 m). zatim se spusta pored ruzinog kamena do reke mratinje i kamene brane na reci. zatim ide uspon kroz bukovu sumu i dolazak do hranetove hacijende. staza se potom spusta do usca reke mratinje u moravicu, odnosno bovansko jezero. obilazi se zaliv i ide se obalom jezera do ulaska u selo.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:59:38Z"
+    }
+}

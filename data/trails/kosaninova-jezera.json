@@ -1,0 +1,123 @@
+{
+    "schema_version": 1,
+    "slug": "kosaninova-jezera",
+    "name": "Košaninova jezera",
+    "code": "5-47-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 4480,
+        "category_id": 28,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            94
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Radočelo",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 14.0,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": 240,
+        "official_text": "4 h",
+        "official_raw": "4:00"
+    },
+    "elevation": {
+        "official_gain_m": 340.0,
+        "official_loss_m": 340.0,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": "Pridvorica 760m",
+    "end": "Pridvorica 760m",
+    "description": "• Kružna staza\n\n • Košaninova jezera, Slatina, Braduljica",
+    "landmarks": "Manastir Pridvorica iz XIII veka",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Stazu trasirao Aleksandar Marković 2011. a poslednji put markirana 2014.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Golija PD",
+        "url": "https://pss.rs/adresar_klubova/golija-pd/",
+        "contact": "Braće Rabrenović 11, 32250 Ivanjica\n062 223797",
+        "clubs": [
+            {
+                "name": "Golija PD",
+                "url": "https://pss.rs/adresar_klubova/golija-pd/",
+                "contact": "Braće Rabrenović 11, 32250 Ivanjica\n062 223797"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": false,
+        "status": "missing",
+        "source_url": null,
+        "fetched_at": null,
+        "checked_at": "2026-11-08T11:56:58Z",
+        "bytes": null,
+        "sha256": null,
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": null,
+        "tracks": null,
+        "segments": null,
+        "waypoints": null,
+        "error": null,
+        "download": {
+            "mode": "none",
+            "url": null
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_gpx"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/kosaninova-jezera/",
+        "canonical_url": "https://pss.rs/terenipp/kosaninova-jezera/",
+        "pss_id": 4480,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:56:58Z",
+        "last_synced_at": "2026-11-08T11:56:58Z"
+    },
+    "search": "kosaninova jezera 5-47-1 jugozapadna srbija radocelo pridvorica 760m pridvorica 760m golija pd manastir pridvorica iz xiii veka laka • kruzna staza • kosaninova jezera, slatina, braduljica",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:56:58Z"
+    }
+}

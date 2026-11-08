@@ -1,0 +1,179 @@
+{
+    "schema_version": 1,
+    "slug": "planinarski-dom-adzine-livade-manastir-kamenac",
+    "name": "Planinarski dom Adžine Livade - Manastir Kamenac",
+    "code": "2-14-20",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 12915,
+        "category_id": 28,
+        "region_ids": [
+            2
+        ],
+        "mountain_ids": [
+            61
+        ]
+    },
+    "region": "Šumadija",
+    "mountain": "Gledićke planine",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 16.6,
+        "calculated_km": 8.17
+    },
+    "duration": {
+        "official_minutes": 420,
+        "official_text": "7 h",
+        "official_raw": "7:00"
+    },
+    "elevation": {
+        "official_gain_m": 617.0,
+        "official_loss_m": 617.0,
+        "calculated_gain_m": 189.2,
+        "calculated_loss_m": 398.6,
+        "min_m": 303.0,
+        "max_m": 593.8
+    },
+    "start": "Planinarski dom \"Dr Sonja Perišić\" u selu Adžine Livade, 575 m",
+    "end": "Planinarski dom \"Dr Sonja Perišić\" u selu Adžine Livade, 575 m",
+    "description": "Staza je deo Gledićke transverzale, i polazi od planinarskog doma \"Dr. Sonja Perišić\" u selu Adžine Livade (575 m). Pripada kategoriji lakih staza i dugačka je ukupno 16,6 km. Može se preći za oko 7 sati hoda sa pauzama. Od trafostanice poviše doma skreće se desno u pravcu zapada prema selu Čestin. Staza obilazi vrh Čukar (622 m) sa južne strane i nastavlja se dalje grebenskim putem preko Čestinske Gradine (564 m). Nakon toga se staza spušta i prolazi kroz selo Čestin (306 m), prelazi se preko Božanske reke, potez Dobroš i silazi se u potok Kamenac. Potok se nalazi ispod samog manastira Kamenac. Povratak do planinarskog doma obeležen je istim putem kroz selo Čestin. Na stazi postoje dva domaćinstva kod kojih je moguće dogovoriti osveženje i kupovinu domaćih proizvoda. (Antonijević 0641319581, 034530173 i Vlajić 0600809168, 034515191 gde se nalazi i spomen kuća Petra Tucakovića).",
+    "landmarks": "• Manastir Kamenac iz XIV veka\n\n • Selo Čestin\n\n • Vidikovac Gradina (564 m)\n\n • Naselja: selo Adžine Livade, selo Čestin, zaseok Jošovići, zaseok Božanići\n\n • Na početku trase planinarski dom \"Dr. Sonja Perišić\" Adžine Livade\n\n • Na trasi privatni smeštaj (seosko domaćinstvo Antonijević, seosko domaćinstvo Vlajić)",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu su trasirali Dušan Petković i Nikola Miletić avgusta 2020.\n\n • Poslednji put staza je markirana avgusta 2020.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Žeželj PD",
+        "url": "https://pss.rs/adresar_klubova/zezelj-pd/",
+        "contact": "Rudnička 7a 34000 Kragujevac\n+38164 21 83 412\nhttp://www.pdzezelj.org",
+        "clubs": [
+            {
+                "name": "Žeželj PD",
+                "url": "https://pss.rs/adresar_klubova/zezelj-pd/",
+                "contact": "Rudnička 7a 34000 Kragujevac\n+38164 21 83 412\nhttp://www.pdzezelj.org"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 8,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2021/01/2-14-20-Dom-Kamenac.gpx",
+        "fetched_at": "2026-11-08T12:01:48Z",
+        "checked_at": "2026-11-08T12:01:48Z",
+        "bytes": 133577,
+        "sha256": "deeb3a67bdbbc983afff05c480f811a393b6726619eee032149c58ece509afc0",
+        "etag": null,
+        "last_modified": "Tue, 26 Jan 2021 14:48:37 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 784,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 14,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2021/01/2-14-20-Dom-Kamenac.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/planinarski-dom-adzine-livade-manastir-kamenac.geojson",
+        "bbox": [
+            20.80997253768146,
+            43.87891709804535,
+            20.86861283518374,
+            43.89915386214852
+        ],
+        "center": [
+            20.839293,
+            43.889035
+        ],
+        "start_point": [
+            20.865364260971546,
+            43.89915386214852
+        ],
+        "end_point": [
+            20.813944302499294,
+            43.87893721461296
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    20.86536,
+                    43.89915
+                ],
+                [
+                    20.86818,
+                    43.89715
+                ],
+                [
+                    20.86742,
+                    43.89315
+                ],
+                [
+                    20.85774,
+                    43.8941
+                ],
+                [
+                    20.85382,
+                    43.89014
+                ],
+                [
+                    20.84901,
+                    43.89079
+                ],
+                [
+                    20.84204,
+                    43.88689
+                ],
+                [
+                    20.81419,
+                    43.88869
+                ],
+                [
+                    20.80997,
+                    43.88406
+                ],
+                [
+                    20.81394,
+                    43.87894
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/planinarski-dom-adzine-livade-manastir-kamenac/",
+        "canonical_url": "https://pss.rs/terenipp/planinarski-dom-adzine-livade-manastir-kamenac/",
+        "pss_id": 12915,
+        "updated_at": "2021-01-26T14:50:21Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:01:48Z",
+        "last_synced_at": "2026-11-08T12:01:48Z"
+    },
+    "search": "planinarski dom adzine livade - manastir kamenac 2-14-20 sumadija gledicke planine planinarski dom \"dr sonja perisic\" u selu adzine livade, 575 m planinarski dom \"dr sonja perisic\" u selu adzine livade, 575 m zezelj pd • manastir kamenac iz xiv veka • selo cestin • vidikovac gradina (564 m) • naselja: selo adzine livade, selo cestin, zaseok josovici, zaseok bozanici • na pocetku trase planinarski dom \"dr. sonja perisic\" adzine livade • na trasi privatni smestaj (seosko domacinstvo antonijevic, seosko domacinstvo vlajic) laka staza je deo gledicke transverzale, i polazi od planinarskog doma \"dr. sonja perisic\" u selu adzine livade (575 m). pripada kategoriji lakih staza i dugacka je ukupno 16,6 km. moze se preci za oko 7 sati hoda sa pauzama. od trafostanice povise doma skrece se desno u pravcu zapada prema selu cestin. staza obilazi vrh cukar (622 m) sa juzne strane i nastavlja se dalje grebenskim putem preko cestinske gradine (564 m). nakon toga se staza spusta i prolazi kroz selo cestin (306 m), prelazi se preko bozanske reke, potez dobros i silazi se u potok kamenac. potok se nalazi ispod samog manastira kamenac. povratak do planinarskog doma obelezen je istim putem kroz selo cestin. na stazi postoje dva domacinstva kod kojih je moguce dogovoriti osvezenje i kupovinu domacih proizvoda. (antonijevic 0641319581, 034530173 i vlajic 0600809168, 034515191 gde se nalazi i spomen kuca petra tucakovica).",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:01:48Z"
+    }
+}

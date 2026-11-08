@@ -1,0 +1,159 @@
+{
+    "schema_version": 1,
+    "slug": "2-16-5",
+    "name": "Vera",
+    "code": "2-16-5",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 28732,
+        "category_id": 28,
+        "region_ids": [
+            2
+        ],
+        "mountain_ids": [
+            191
+        ]
+    },
+    "region": "Šumadija",
+    "mountain": "Juhor",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 3.5,
+        "calculated_km": 3.54
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": null,
+        "official_loss_m": null,
+        "calculated_gain_m": 97.1,
+        "calculated_loss_m": 109.2,
+        "min_m": 132.5,
+        "max_m": 227.5
+    },
+    "start": "Gradski park \"Potok\", 120 m",
+    "end": "Gradski park \"Potok\", 120 m",
+    "description": "🥾 STAZA VERA – mali uspon, veliki pogledi! 🌿⛰️\n\nKrećemo sa izletišta Potok, gde nas odmah na početku čeka jedan mali uspon – čisto da se noge sete zašto smo došli! 😄\n💧 Na samom početku staze nalazi se česma sa pijaćom vodom, a za kraj smo ostavili još jedno malo iznenađenje – izvor na stazi. Dakle, nema izgovora za žeđ! 😉\nA između početka i kraja… čeka nas ono zbog čega planinarenje toliko volimo! ❤️\n🌄 Lepi vidikovci\n🏙️ Pogled na Jagodinu\n⛰️ Pogled prema Crnom vrhu\n🌲 Pogled na Juhor\n🥾 Lagano hodanje, dobro društvo i još bolja atmosfera!\nVera nije staza na kojoj jurimo kilometre – ovde uživamo u svakom koraku, pogledu i razgovoru.\nMalo uspona, malo vode, malo pogleda… i mnogo dobre energije! 😃\nKoračamo zajedno, širimo duh planinarenja! 🥾💚",
+    "landmarks": null,
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": null,
+    "map_reference": "https://staze.pss.rs/#trail=2-16-5",
+    "map_sheet": null,
+    "club": {
+        "name": "Planinski duh PD",
+        "url": "https://pss.rs/adresar_klubova/planinski-duh-pd/",
+        "contact": "Kralja Petra Prvog 63 35220 Ribare Jagodina\n0691530989\nhttps://www.instagram.com/pdplaninski",
+        "clubs": [
+            {
+                "name": "Planinski duh PD",
+                "url": "https://pss.rs/adresar_klubova/planinski-duh-pd/",
+                "contact": "Kralja Petra Prvog 63 35220 Ribare Jagodina\n0691530989\nhttps://www.instagram.com/pdplaninski"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 6,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2026/09/Vera.gpx",
+        "fetched_at": "2026-11-08T12:06:27Z",
+        "checked_at": "2026-11-08T12:06:27Z",
+        "bytes": 33868,
+        "sha256": "b30a62d1b32fe9789faf93ea92926d8deff9f1c32dca6bd1eb2e926bbcf3a2fd",
+        "etag": null,
+        "last_modified": "Mon, 21 Sep 2026 20:29:23 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 303,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2026/09/Vera.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/2-16-5.geojson",
+        "bbox": [
+            21.260013096,
+            43.9527514391,
+            21.2683101743,
+            43.9657653496
+        ],
+        "center": [
+            21.264162,
+            43.959258
+        ],
+        "start_point": [
+            21.2666550837,
+            43.9653967135
+        ],
+        "end_point": [
+            21.2662573624,
+            43.9656832907
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.26666,
+                    43.9654
+                ],
+                [
+                    21.26831,
+                    43.96237
+                ],
+                [
+                    21.26034,
+                    43.95275
+                ],
+                [
+                    21.26222,
+                    43.96254
+                ],
+                [
+                    21.26626,
+                    43.96568
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/2-16-5/",
+        "canonical_url": "https://pss.rs/terenipp/2-16-5/",
+        "pss_id": 28732,
+        "updated_at": "2026-09-25T20:13:26Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:06:28Z",
+        "last_synced_at": "2026-11-08T12:06:28Z"
+    },
+    "search": "vera 2-16-5 sumadija juhor gradski park \"potok\", 120 m gradski park \"potok\", 120 m planinski duh pd laka 🥾 staza vera – mali uspon, veliki pogledi! 🌿⛰️ krecemo sa izletista potok, gde nas odmah na pocetku ceka jedan mali uspon – cisto da se noge sete zasto smo dosli! 😄 💧 na samom pocetku staze nalazi se cesma sa pijacom vodom, a za kraj smo ostavili jos jedno malo iznenadjenje – izvor na stazi. dakle, nema izgovora za zedj! 😉 a izmedju pocetka i kraja… ceka nas ono zbog cega planinarenje toliko volimo! ❤️ 🌄 lepi vidikovci 🏙️ pogled na jagodinu ⛰️ pogled prema crnom vrhu 🌲 pogled na juhor 🥾 lagano hodanje, dobro drustvo i jos bolja atmosfera! vera nije staza na kojoj jurimo kilometre – ovde uzivamo u svakom koraku, pogledu i razgovoru. malo uspona, malo vode, malo pogleda… i mnogo dobre energije! 😃 koracamo zajedno, sirimo duh planinarenja! 🥾💚",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:06:28Z"
+    }
+}

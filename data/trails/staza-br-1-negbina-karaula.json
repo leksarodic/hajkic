@@ -1,0 +1,233 @@
+{
+    "schema_version": 1,
+    "slug": "staza-br-1-negbina-karaula",
+    "name": "Staza br. 1: Negbina – Karaula",
+    "code": "5-12-12",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 19177,
+        "category_id": 28,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            122
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Zlatibor",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 14.1,
+        "calculated_km": 14.21
+    },
+    "duration": {
+        "official_minutes": 300,
+        "official_text": "5 h",
+        "official_raw": "5:00"
+    },
+    "elevation": {
+        "official_gain_m": 450.0,
+        "official_loss_m": 450.0,
+        "calculated_gain_m": 689.2,
+        "calculated_loss_m": 684.3,
+        "min_m": 1009.5,
+        "max_m": 1354.6
+    },
+    "start": "Đensko borje u Negbini",
+    "end": "Đensko borje u Negbini",
+    "description": "Đensko borje - bor munika (4,0 km) - Rekača (7,2 km) - izvor Zaboj (7,8 km) - vrh Karaula (8,7 km) - Kovačevo vrelo (12,0 km) - Đensko borje (14,1 km)",
+    "landmarks": "Đensko borje, Rekača, vrh Karaula (1349 m) i izvor Zaboj",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Stazu je trasirao Stefanović Slobodan iz Užica 2019. godine i markirana je 2020. godine.\n\nStaza je izgrađena sredstvima JP-a \"Srbijašume\" Beograd.",
+    "map_reference": null,
+    "map_sheet": "1:50000 Užice 4 (528/4)",
+    "club": {
+        "name": "Omorika PD",
+        "url": "https://pss.rs/adresar_klubova/omorika-pd/",
+        "contact": "Vukole Dabića 4/1/9, Užice\n064 881 86 97",
+        "clubs": [
+            {
+                "name": "Omorika PD",
+                "url": "https://pss.rs/adresar_klubova/omorika-pd/",
+                "contact": "Vukole Dabića 4/1/9, Užice\n064 881 86 97"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 11,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2023/03/Staza-1-Negbina-Karaula.gpx",
+        "fetched_at": "2026-11-08T12:02:55Z",
+        "checked_at": "2026-11-08T12:02:55Z",
+        "bytes": 358479,
+        "sha256": "e9989354d0d17c04222fd2ec8da868a49023a3bc6b4a3e26c268b6e7ffe8b125",
+        "etag": null,
+        "last_modified": "Tue, 28 Mar 2023 18:06:32 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 3305,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 6,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2023/03/Staza-1-Negbina-Karaula.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/staza-br-1-negbina-karaula.geojson",
+        "bbox": [
+            19.798009945,
+            43.549225414,
+            19.832401648,
+            43.582340302
+        ],
+        "center": [
+            19.815206,
+            43.565783
+        ],
+        "start_point": [
+            19.805278145,
+            43.549229102
+        ],
+        "end_point": [
+            19.805251407,
+            43.549225414
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    19.80528,
+                    43.54923
+                ],
+                [
+                    19.80788,
+                    43.55758
+                ],
+                [
+                    19.8129,
+                    43.56246
+                ],
+                [
+                    19.81914,
+                    43.5598
+                ],
+                [
+                    19.82143,
+                    43.56165
+                ],
+                [
+                    19.82313,
+                    43.56024
+                ],
+                [
+                    19.8324,
+                    43.56177
+                ],
+                [
+                    19.81969,
+                    43.56792
+                ],
+                [
+                    19.8165,
+                    43.56728
+                ],
+                [
+                    19.81744,
+                    43.5714
+                ],
+                [
+                    19.8114,
+                    43.58234
+                ],
+                [
+                    19.80679,
+                    43.57808
+                ],
+                [
+                    19.81061,
+                    43.57547
+                ],
+                [
+                    19.80934,
+                    43.57022
+                ],
+                [
+                    19.79801,
+                    43.56352
+                ],
+                [
+                    19.80145,
+                    43.55845
+                ],
+                [
+                    19.80128,
+                    43.56156
+                ],
+                [
+                    19.80359,
+                    43.56032
+                ],
+                [
+                    19.80854,
+                    43.56213
+                ],
+                [
+                    19.80408,
+                    43.55391
+                ],
+                [
+                    19.80525,
+                    43.54923
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/staza-br-1-negbina-karaula/",
+        "canonical_url": "https://pss.rs/terenipp/staza-br-1-negbina-karaula/",
+        "pss_id": 19177,
+        "updated_at": "2023-03-28T18:28:53Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:02:56Z",
+        "last_synced_at": "2026-11-08T12:02:56Z"
+    },
+    "search": "staza br. 1: negbina – karaula 5-12-12 jugozapadna srbija zlatibor djensko borje u negbini djensko borje u negbini omorika pd djensko borje, rekaca, vrh karaula (1349 m) i izvor zaboj laka djensko borje - bor munika (4,0 km) - rekaca (7,2 km) - izvor zaboj (7,8 km) - vrh karaula (8,7 km) - kovacevo vrelo (12,0 km) - djensko borje (14,1 km)",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:02:56Z"
+    }
+}

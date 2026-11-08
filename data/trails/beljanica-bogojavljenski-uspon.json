@@ -1,0 +1,233 @@
+{
+    "schema_version": 1,
+    "slug": "beljanica-bogojavljenski-uspon",
+    "name": "Beljanica - Bogojavljenski uspon",
+    "code": "4-9-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 23280,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            116
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Beljanica",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 18.0,
+        "calculated_km": 17.66
+    },
+    "duration": {
+        "official_minutes": 420,
+        "official_text": "7 h",
+        "official_raw": "7:00"
+    },
+    "elevation": {
+        "official_gain_m": 1050.0,
+        "official_loss_m": 1050.0,
+        "calculated_gain_m": 1075.8,
+        "calculated_loss_m": 1097.8,
+        "min_m": 332.8,
+        "max_m": 1343.6
+    },
+    "start": "Restoran \"Zov Lisina\"",
+    "end": "Restoran \"Zov Lisina\"",
+    "description": "Staza je kružna,vrlo zahtevna u zimskim uslovima kada su veliki snegovi i jaki udari vetra.Ide se preko Cerjaka i Dugog dola do vrha Beljanice a zatim se nastavlja ka zapadu,grebenom i spusta kod vodopada Veliki Buk,odakle ostaje 600m asfalta do cilja.",
+    "landmarks": "Vodopad Veliki buk, vrh Beljanica",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinarska kuća “Suvaja“",
+    "notes": "Ko je i kada trasirao stazu: PSK “Resava“ Strmosten 2013. godine. \n\nKada je staza poslednji put markirana: 2024. godine",
+    "map_reference": null,
+    "map_sheet": "1:50000 Zagubica 3 (482/3)",
+    "club": {
+        "name": "Resava PSK",
+        "url": "https://pss.rs/adresar_klubova/resava-psk/",
+        "contact": "Strmosten 132, 35215 Stenjevac\n+38163 232 204",
+        "clubs": [
+            {
+                "name": "Resava PSK",
+                "url": "https://pss.rs/adresar_klubova/resava-psk/",
+                "contact": "Strmosten 132, 35215 Stenjevac\n+38163 232 204"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2024/01/Track_BEIJANICA-BU-2020.gpx",
+        "fetched_at": "2026-11-08T12:03:47Z",
+        "checked_at": "2026-11-08T12:03:47Z",
+        "bytes": 182874,
+        "sha256": "b3f96b2408865f6bd17c709646ac38cd675ec86c30f7694306607bc54dcda07f",
+        "etag": null,
+        "last_modified": "Fri, 12 Jan 2024 12:20:11 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 1721,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2024/01/Track_BEIJANICA-BU-2020.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/beljanica-bogojavljenski-uspon.geojson",
+        "bbox": [
+            21.632796647,
+            44.0910750534,
+            21.7016765289,
+            44.1144278739
+        ],
+        "center": [
+            21.667237,
+            44.102751
+        ],
+        "start_point": [
+            21.6359515954,
+            44.0911108442
+        ],
+        "end_point": [
+            21.6358595621,
+            44.0911953337
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    21.63595,
+                    44.09111
+                ],
+                [
+                    21.64352,
+                    44.09221
+                ],
+                [
+                    21.64738,
+                    44.09498
+                ],
+                [
+                    21.66695,
+                    44.09407
+                ],
+                [
+                    21.69717,
+                    44.10116
+                ],
+                [
+                    21.70159,
+                    44.10593
+                ],
+                [
+                    21.69946,
+                    44.11169
+                ],
+                [
+                    21.69778,
+                    44.1122
+                ],
+                [
+                    21.69619,
+                    44.10953
+                ],
+                [
+                    21.69001,
+                    44.10927
+                ],
+                [
+                    21.68747,
+                    44.11227
+                ],
+                [
+                    21.67901,
+                    44.1142
+                ],
+                [
+                    21.66051,
+                    44.11397
+                ],
+                [
+                    21.64823,
+                    44.10982
+                ],
+                [
+                    21.64481,
+                    44.1114
+                ],
+                [
+                    21.6376,
+                    44.1099
+                ],
+                [
+                    21.63361,
+                    44.10501
+                ],
+                [
+                    21.64348,
+                    44.10034
+                ],
+                [
+                    21.63408,
+                    44.09647
+                ],
+                [
+                    21.63333,
+                    44.09296
+                ],
+                [
+                    21.63586,
+                    44.0912
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/beljanica-bogojavljenski-uspon/",
+        "canonical_url": "https://pss.rs/terenipp/beljanica-bogojavljenski-uspon/",
+        "pss_id": 23280,
+        "updated_at": "2024-01-12T12:26:33Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:03:48Z",
+        "last_synced_at": "2026-11-08T12:03:48Z"
+    },
+    "search": "beljanica - bogojavljenski uspon 4-9-1 istocna srbija beljanica restoran \"zov lisina\" restoran \"zov lisina\" resava psk vodopad veliki buk, vrh beljanica laka staza je kruzna,vrlo zahtevna u zimskim uslovima kada su veliki snegovi i jaki udari vetra.ide se preko cerjaka i dugog dola do vrha beljanice a zatim se nastavlja ka zapadu,grebenom i spusta kod vodopada veliki buk,odakle ostaje 600m asfalta do cilja.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:03:48Z"
+    }
+}

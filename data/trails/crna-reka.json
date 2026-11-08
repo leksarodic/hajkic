@@ -1,0 +1,123 @@
+{
+    "schema_version": 1,
+    "slug": "crna-reka",
+    "name": "Crna reka",
+    "code": "6-3-8",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 4526,
+        "category_id": 28,
+        "region_ids": [
+            6
+        ],
+        "mountain_ids": [
+            38
+        ]
+    },
+    "region": "Kopaoničko-Toplička regija",
+    "mountain": "Stolovi",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 6.87,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": 180,
+        "official_text": "3 h",
+        "official_raw": "3:00"
+    },
+    "elevation": {
+        "official_gain_m": 488.0,
+        "official_loss_m": 488.0,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": "Na ušću Crne reke u Ibar (most), 230m",
+    "end": "Na ušću Crne reke u Ibar (most), 230m",
+    "description": "Od autobuske stanice u Mataruškoj banji do početka staza vodi prvo asfaltni put (4,6km) , a onda makadamski put (2,4km) do ušća Crne reke u Ibar.\n\nStaza je dvosmerna: levi smer je lak, desni smer je zahtevan.",
+    "landmarks": "Vidikovac na jednom delu desnog kraka staze",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Stazu trasirao Branislav Binić Bine 2011. a markira se svake godine. Poslednji put je markirana maja 2015.",
+    "map_reference": null,
+    "map_sheet": "Putni vodič Mataruška banja-Crna reka, A5 formata sa skicom staza",
+    "club": {
+        "name": "Kraljevo PAK",
+        "url": "https://pss.rs/adresar_klubova/kraljevo-pak/",
+        "contact": "Cara Lazara 77, 36000 Kraljevo\n+38165 654 98 74",
+        "clubs": [
+            {
+                "name": "Kraljevo PAK",
+                "url": "https://pss.rs/adresar_klubova/kraljevo-pak/",
+                "contact": "Cara Lazara 77, 36000 Kraljevo\n+38165 654 98 74"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": false,
+        "status": "missing",
+        "source_url": null,
+        "fetched_at": null,
+        "checked_at": "2026-11-08T11:57:38Z",
+        "bytes": null,
+        "sha256": null,
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": null,
+        "tracks": null,
+        "segments": null,
+        "waypoints": null,
+        "error": null,
+        "download": {
+            "mode": "none",
+            "url": null
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_gpx"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/crna-reka/",
+        "canonical_url": "https://pss.rs/terenipp/crna-reka/",
+        "pss_id": 4526,
+        "updated_at": "2017-08-06T09:29:50Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:57:38Z",
+        "last_synced_at": "2026-11-08T11:57:38Z"
+    },
+    "search": "crna reka 6-3-8 kopaonicko-toplicka regija stolovi na uscu crne reke u ibar (most), 230m na uscu crne reke u ibar (most), 230m kraljevo pak vidikovac na jednom delu desnog kraka staze laka od autobuske stanice u mataruskoj banji do pocetka staza vodi prvo asfaltni put (4,6km) , a onda makadamski put (2,4km) do usca crne reke u ibar. staza je dvosmerna: levi smer je lak, desni smer je zahtevan.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:57:38Z"
+    }
+}

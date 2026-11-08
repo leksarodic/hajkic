@@ -1,0 +1,123 @@
+{
+    "schema_version": 1,
+    "slug": "rudnik-blagovestenje",
+    "name": "Rudnik - Blagoveštenje",
+    "code": "2-8-2",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 8038,
+        "category_id": 28,
+        "region_ids": [
+            2
+        ],
+        "mountain_ids": [
+            49
+        ]
+    },
+    "region": "Šumadija",
+    "mountain": "Rudnik",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 11.8,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": 180,
+        "official_text": "3 h",
+        "official_raw": "3:00"
+    },
+    "elevation": {
+        "official_gain_m": 777.0,
+        "official_loss_m": 835.0,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": "Planinarska kuća \"Ratko Kuruzović\" Rudnik, 527 m",
+    "end": "Manastir Blagoveštenje, 548 m",
+    "description": "Staza polazi od Planinarske kuće \"Ratko Kuruzović\" iznad varošice Rudnik, penje se pravcem istok ka vrhovima Mali i Veliki Šturac (1132m), a zatim lagano spušta ka manastiru Blagoveštenje",
+    "landmarks": "• Cvijićev vrh (1132m)\n\n • Manastir Blagoveštenje",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": "Planinarsko-turistička karta Rudnika 1:50000",
+    "club": {
+        "name": "PTT POSK",
+        "url": "https://pss.rs/adresar_klubova/ptt-pd/",
+        "contact": "Kosovska 49, 11000 Beograd\n064 6653 609, 064 651 2972, 064 651 36 29\nhttp://www.pdptt.rs/",
+        "clubs": [
+            {
+                "name": "PTT POSK",
+                "url": "https://pss.rs/adresar_klubova/ptt-pd/",
+                "contact": "Kosovska 49, 11000 Beograd\n064 6653 609, 064 651 2972, 064 651 36 29\nhttp://www.pdptt.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": false,
+        "status": "missing",
+        "source_url": null,
+        "fetched_at": null,
+        "checked_at": "2026-11-08T11:59:35Z",
+        "bytes": null,
+        "sha256": null,
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": null,
+        "tracks": null,
+        "segments": null,
+        "waypoints": null,
+        "error": null,
+        "download": {
+            "mode": "none",
+            "url": null
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_gpx"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/rudnik-blagovestenje/",
+        "canonical_url": "https://pss.rs/terenipp/rudnik-blagovestenje/",
+        "pss_id": 8038,
+        "updated_at": "2019-01-09T20:02:38Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:59:35Z",
+        "last_synced_at": "2026-11-08T11:59:35Z"
+    },
+    "search": "rudnik - blagovestenje 2-8-2 sumadija rudnik planinarska kuca \"ratko kuruzovic\" rudnik, 527 m manastir blagovestenje, 548 m ptt posk • cvijicev vrh (1132m) • manastir blagovestenje laka staza polazi od planinarske kuce \"ratko kuruzovic\" iznad varosice rudnik, penje se pravcem istok ka vrhovima mali i veliki sturac (1132m), a zatim lagano spusta ka manastiru blagovestenje",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:59:35Z"
+    }
+}

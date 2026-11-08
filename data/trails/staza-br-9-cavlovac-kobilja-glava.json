@@ -1,0 +1,225 @@
+{
+    "schema_version": 1,
+    "slug": "staza-br-9-cavlovac-kobilja-glava",
+    "name": "Staza br. 9: Čavlovac – Kobilja glava",
+    "code": "5-12-16",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 19253,
+        "category_id": 28,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            122
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Zlatibor",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 13.8,
+        "calculated_km": 13.83
+    },
+    "duration": {
+        "official_minutes": 300,
+        "official_text": "5 h",
+        "official_raw": "5:00"
+    },
+    "elevation": {
+        "official_gain_m": 550.0,
+        "official_loss_m": 550.0,
+        "calculated_gain_m": 473.4,
+        "calculated_loss_m": 475.8,
+        "min_m": 993.7,
+        "max_m": 1201.3
+    },
+    "start": "Objekat za separaciju rude na putu za Ribničko jezero",
+    "end": "Objekat za separaciju rude na putu za Ribničko jezero",
+    "description": "Separacija magnezita - Planinski dom \"Tornik\" (0,4 km) - Kutleše (0,9 km) - vrh Kobilja glava (3,1 km) - Izvor u Guduri (4,1 km) -Šumarska kuća (5,5 km) - Svatovsko groblje (6,5 km) - Crni vrh (7,5 km) - vrh DŽamija (9,4 km) - Kutleše (13,0 km) - Separacija magnezita (13,8 km)",
+    "landmarks": "Vrh Kobilja glava (1178 m), Crni vrh (1198 m), vrh DŽamija (1176 m), Šumarska kuća u Čavlovcu, izvor Gudura",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinski dom \"Tornik\"",
+    "notes": "tazu je trasirao Stefanović Slobodan iz Užica 2019. godine i markirana je 2019. godine. Staza je izgrađena sredstvima JP-a \"Srbijašume\" Beograd, upravitelja Parka prirode \"Zlatibor\". Neophodno je da im se pre obilaska staze najavite na telefon: 031/3841-278.",
+    "map_reference": null,
+    "map_sheet": "1:50000 Užice 3 (528/3)",
+    "club": {
+        "name": "Tornik PK",
+        "url": "https://pss.rs/adresar_klubova/tornik-pk/",
+        "contact": "Zlatiborska 28\n064 156 55 78",
+        "clubs": [
+            {
+                "name": "Tornik PK",
+                "url": "https://pss.rs/adresar_klubova/tornik-pk/",
+                "contact": "Zlatiborska 28\n064 156 55 78"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 9,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2023/03/Staza-9-Cavlovac-Kobilja-glava.gpx",
+        "fetched_at": "2026-11-08T12:03:02Z",
+        "checked_at": "2026-11-08T12:03:02Z",
+        "bytes": 116180,
+        "sha256": "d7c83466e281746e8326983afc87786e0258d1575b05abfdde132e41fbf57376",
+        "etag": null,
+        "last_modified": "Thu, 30 Mar 2023 20:50:55 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 1103,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 11,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2023/03/Staza-9-Cavlovac-Kobilja-glava.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/staza-br-9-cavlovac-kobilja-glava.geojson",
+        "bbox": [
+            19.611958349,
+            43.686376149,
+            19.667751624,
+            43.707661824
+        ],
+        "center": [
+            19.639855,
+            43.697019
+        ],
+        "start_point": [
+            19.667720795,
+            43.696422577
+        ],
+        "end_point": [
+            19.667751624,
+            43.696437578
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    19.66772,
+                    43.69642
+                ],
+                [
+                    19.65856,
+                    43.69769
+                ],
+                [
+                    19.65504,
+                    43.70611
+                ],
+                [
+                    19.6499,
+                    43.70433
+                ],
+                [
+                    19.65015,
+                    43.70733
+                ],
+                [
+                    19.6408,
+                    43.7037
+                ],
+                [
+                    19.62893,
+                    43.70709
+                ],
+                [
+                    19.6204,
+                    43.70766
+                ],
+                [
+                    19.61243,
+                    43.70589
+                ],
+                [
+                    19.61222,
+                    43.70368
+                ],
+                [
+                    19.62771,
+                    43.70185
+                ],
+                [
+                    19.63109,
+                    43.69354
+                ],
+                [
+                    19.63627,
+                    43.69338
+                ],
+                [
+                    19.64076,
+                    43.68702
+                ],
+                [
+                    19.6466,
+                    43.68642
+                ],
+                [
+                    19.65016,
+                    43.692
+                ],
+                [
+                    19.65474,
+                    43.69367
+                ],
+                [
+                    19.65755,
+                    43.6974
+                ],
+                [
+                    19.66775,
+                    43.69644
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/staza-br-9-cavlovac-kobilja-glava/",
+        "canonical_url": "https://pss.rs/terenipp/staza-br-9-cavlovac-kobilja-glava/",
+        "pss_id": 19253,
+        "updated_at": "2023-09-08T20:24:24Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:03:03Z",
+        "last_synced_at": "2026-11-08T12:03:03Z"
+    },
+    "search": "staza br. 9: cavlovac – kobilja glava 5-12-16 jugozapadna srbija zlatibor objekat za separaciju rude na putu za ribnicko jezero objekat za separaciju rude na putu za ribnicko jezero tornik pk vrh kobilja glava (1178 m), crni vrh (1198 m), vrh dzamija (1176 m), sumarska kuca u cavlovcu, izvor gudura laka separacija magnezita - planinski dom \"tornik\" (0,4 km) - kutlese (0,9 km) - vrh kobilja glava (3,1 km) - izvor u guduri (4,1 km) -sumarska kuca (5,5 km) - svatovsko groblje (6,5 km) - crni vrh (7,5 km) - vrh dzamija (9,4 km) - kutlese (13,0 km) - separacija magnezita (13,8 km)",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:03:03Z"
+    }
+}

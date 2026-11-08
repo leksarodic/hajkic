@@ -1,0 +1,191 @@
+{
+    "schema_version": 1,
+    "slug": "bojanine-vode-sokolov-kamen-bojanine-vode",
+    "name": "Bojanine vode - Sokolov kamen - Bojanine vode",
+    "code": "7-3-14",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 12442,
+        "category_id": 28,
+        "region_ids": [
+            7
+        ],
+        "mountain_ids": [
+            50
+        ]
+    },
+    "region": "Jugoistočna Srbija",
+    "mountain": "Suva planina",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 14.42,
+        "calculated_km": 12.43
+    },
+    "duration": {
+        "official_minutes": 360,
+        "official_text": "6 h",
+        "official_raw": "6:00"
+    },
+    "elevation": {
+        "official_gain_m": 645.0,
+        "official_loss_m": 645.0,
+        "calculated_gain_m": 1047.7,
+        "calculated_loss_m": 1052.6,
+        "min_m": 769.0,
+        "max_m": 1528.0
+    },
+    "start": "Bojanine vode, 860 m",
+    "end": "Bojanine vode, 860 m",
+    "description": "Staza kreće od Bojaninih voda (860 m) gde postoji izvor pitke vode. Asfaltnim putem se spušta do skretanja za Mosor, sa leve strane puta. Staza dalje vodi kroz bukovu šumu do raskrsnice gde postoji trafo stanica i ide se levo kroz šumu. Nakon pola staza hora izlazi se na greben Suve planine, pa sve do samog vrha Sokolov kamen (1523 m). Nakon vrha staza nastavlja da se spušta ka Devojačkom grobu (1311 m). Levo se skreće na Kraljev put, pa sve do Bojaninih voda.",
+    "landmarks": "• Vidikovci: Sokolov kamen\n\n • Izvor pitke vode: Bojanine vode\n\n • Na trasi ima privatni smeštaj.",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu je trasirao Slaviša Ivanović.\n\n • Poslednji put staza je markirana 15.08.2020. godine.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Mosor PSK",
+        "url": "https://pss.rs/adresar_klubova/mosor-pak/",
+        "contact": "Tvrđava bb, 18000 Niš\n063 1023016, 063 406025, 064 665 41 58\nhttp://www.pakmosor.org/",
+        "clubs": [
+            {
+                "name": "Mosor PSK",
+                "url": "https://pss.rs/adresar_klubova/mosor-pak/",
+                "contact": "Tvrđava bb, 18000 Niš\n063 1023016, 063 406025, 064 665 41 58\nhttp://www.pakmosor.org/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 7,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2020/11/7-3-14-Bojanine-vode-Sokolov-kamen.gpx",
+        "fetched_at": "2026-11-08T12:01:30Z",
+        "checked_at": "2026-11-08T12:01:30Z",
+        "bytes": 95650,
+        "sha256": "18de2683d935e2f22f52a9028a9067b98c9fe14e3892663d70858ce890ac38e3",
+        "etag": null,
+        "last_modified": "Wed, 18 Nov 2020 14:38:54 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 588,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 10,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2020/11/7-3-14-Bojanine-vode-Sokolov-kamen.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/bojanine-vode-sokolov-kamen-bojanine-vode.geojson",
+        "bbox": [
+            22.089404007419944,
+            43.1977035664022,
+            22.14355956763029,
+            43.229961236938834
+        ],
+        "center": [
+            22.116482,
+            43.213832
+        ],
+        "start_point": [
+            22.11219348013401,
+            43.22146919555962
+        ],
+        "end_point": [
+            22.112414678558707,
+            43.221320332959294
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    22.11219,
+                    43.22147
+                ],
+                [
+                    22.10551,
+                    43.22483
+                ],
+                [
+                    22.10241,
+                    43.22375
+                ],
+                [
+                    22.09751,
+                    43.2251
+                ],
+                [
+                    22.0894,
+                    43.22996
+                ],
+                [
+                    22.10038,
+                    43.21828
+                ],
+                [
+                    22.10827,
+                    43.2135
+                ],
+                [
+                    22.14338,
+                    43.1977
+                ],
+                [
+                    22.1347,
+                    43.20846
+                ],
+                [
+                    22.12417,
+                    43.21275
+                ],
+                [
+                    22.12158,
+                    43.2176
+                ],
+                [
+                    22.1174,
+                    43.21773
+                ],
+                [
+                    22.11241,
+                    43.22132
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/bojanine-vode-sokolov-kamen-bojanine-vode/",
+        "canonical_url": "https://pss.rs/terenipp/bojanine-vode-sokolov-kamen-bojanine-vode/",
+        "pss_id": 12442,
+        "updated_at": "2020-11-18T14:40:23Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:01:31Z",
+        "last_synced_at": "2026-11-08T12:01:31Z"
+    },
+    "search": "bojanine vode - sokolov kamen - bojanine vode 7-3-14 jugoistocna srbija suva planina bojanine vode, 860 m bojanine vode, 860 m mosor psk • vidikovci: sokolov kamen • izvor pitke vode: bojanine vode • na trasi ima privatni smestaj. zahtevna staza krece od bojaninih voda (860 m) gde postoji izvor pitke vode. asfaltnim putem se spusta do skretanja za mosor, sa leve strane puta. staza dalje vodi kroz bukovu sumu do raskrsnice gde postoji trafo stanica i ide se levo kroz sumu. nakon pola staza hora izlazi se na greben suve planine, pa sve do samog vrha sokolov kamen (1523 m). nakon vrha staza nastavlja da se spusta ka devojackom grobu (1311 m). levo se skrece na kraljev put, pa sve do bojaninih voda.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:01:31Z"
+    }
+}

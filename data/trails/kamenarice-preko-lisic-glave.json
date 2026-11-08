@@ -1,0 +1,193 @@
+{
+    "schema_version": 1,
+    "slug": "kamenarice-preko-lisic-glave",
+    "name": "Kamenarice preko Lisič. glave",
+    "code": "1-4-4",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 3651,
+        "category_id": 28,
+        "region_ids": [
+            1
+        ],
+        "mountain_ids": [
+            33
+        ]
+    },
+    "region": "Vojvodina",
+    "mountain": "Vršačke planine",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 10.0,
+        "calculated_km": 10.15
+    },
+    "duration": {
+        "official_minutes": 240,
+        "official_text": "4 h",
+        "official_raw": "4:00"
+    },
+    "elevation": {
+        "official_gain_m": 471.0,
+        "official_loss_m": 471.0,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": "Planinarski dom \"Široko bilo\" 280 mnv",
+    "end": "Planinarski dom \"Široko bilo\" 280 mnv",
+    "description": "Staza je deonica Vršačke transverzale T-1-3",
+    "landmarks": "Kamenarice (Hajdučke stene) 350 mnv",
+    "maintenance": "zapuštena",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinarski dom \"Široko bilo\"",
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Vršačka kula PSD",
+        "url": "https://pss.rs/adresar_klubova/vrsacka-kula-psd/",
+        "contact": "Svetosavski trg 1a, 26300 Vršac\n+38169 164 14 76\nhttps://www.psdkulavrsac.com/",
+        "clubs": [
+            {
+                "name": "Vršačka kula PSD",
+                "url": "https://pss.rs/adresar_klubova/vrsacka-kula-psd/",
+                "contact": "Svetosavski trg 1a, 26300 Vršac\n+38169 164 14 76\nhttps://www.psdkulavrsac.com/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/1-4-4.gpx",
+        "fetched_at": "2026-11-08T12:50:28Z",
+        "checked_at": "2026-11-08T12:50:28Z",
+        "bytes": 13215,
+        "sha256": "cdc2d2c36db946a725df572a784b163c543580e07108583b6d5323a3e5781dd4",
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": 289,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/1-4-4.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/kamenarice-preko-lisic-glave.geojson",
+        "bbox": [
+            21.354417,
+            45.1170472,
+            21.3845628,
+            45.1433367
+        ],
+        "center": [
+            21.36949,
+            45.130192
+        ],
+        "start_point": [
+            21.3600403,
+            45.1265209
+        ],
+        "end_point": [
+            21.3600403,
+            45.1265209
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    21.36004,
+                    45.12652
+                ],
+                [
+                    21.35482,
+                    45.13148
+                ],
+                [
+                    21.35473,
+                    45.13977
+                ],
+                [
+                    21.36137,
+                    45.13809
+                ],
+                [
+                    21.36493,
+                    45.14143
+                ],
+                [
+                    21.37151,
+                    45.13966
+                ],
+                [
+                    21.37856,
+                    45.1431
+                ],
+                [
+                    21.38438,
+                    45.13148
+                ],
+                [
+                    21.38136,
+                    45.1266
+                ],
+                [
+                    21.37339,
+                    45.12577
+                ],
+                [
+                    21.37024,
+                    45.1171
+                ],
+                [
+                    21.3661,
+                    45.12534
+                ],
+                [
+                    21.36004,
+                    45.12652
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": [
+            "missing_elevation"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/kamenarice-preko-lisic-glave/",
+        "canonical_url": "https://pss.rs/terenipp/kamenarice-preko-lisic-glave/",
+        "pss_id": 3651,
+        "updated_at": "2023-03-11T10:39:49Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:50:29Z",
+        "last_synced_at": "2026-11-08T12:50:29Z"
+    },
+    "search": "kamenarice preko lisic. glave 1-4-4 vojvodina vrsacke planine planinarski dom \"siroko bilo\" 280 mnv planinarski dom \"siroko bilo\" 280 mnv vrsacka kula psd kamenarice (hajducke stene) 350 mnv zahtevna staza je deonica vrsacke transverzale t-1-3",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:50:29Z"
+    }
+}

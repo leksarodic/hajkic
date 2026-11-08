@@ -1,0 +1,213 @@
+{
+    "schema_version": 1,
+    "slug": "planinarska-kuca-suvaja-vrh-beljanica",
+    "name": "Planinarska kuća „Suvaja\"- vrh Beljanica",
+    "code": "4-9-3",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 25709,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            116
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Beljanica",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 18.4,
+        "calculated_km": 18.46
+    },
+    "duration": {
+        "official_minutes": 480,
+        "official_text": "8 h",
+        "official_raw": "8:00"
+    },
+    "elevation": {
+        "official_gain_m": 963.0,
+        "official_loss_m": 963.0,
+        "calculated_gain_m": 1289.8,
+        "calculated_loss_m": 1295.3,
+        "min_m": 352.3,
+        "max_m": 1342.0
+    },
+    "start": "Planinarska kuća „Suvaja\" 376 m",
+    "end": "Planinarska kuća „Suvaja\" 376 m",
+    "description": "Polazna tačka staze je kod Planinarske kuće „Suvaja\" na planini Beljanici. Visina sa koje se polazi i gde se nalazi planinarski objekat je 376 mnv. Ispred Planinarske kuće „Suvaja\" nalazi se adekvatan parking za automobile, kombi i autobuski prevoz. Staza je markirana od polazne tačke do vrha Beljanice (1.339 mnv). Polaskom od planinarskog objekta krećemo se livadama dok ne zađemo u šumoviti potez Cerjak gde se krećemo utabanom planinarskom stazom sa blagim usponima do izlaska na livadu sa koje se baca pogled ka stenovitom masivu Sokolice i ispupčenom vrhu Golovršca (951 mnv). Utabana staza vodi pored samog vrka Cerjak (695 mnv) koji se nalazi sa desne strane prilikom izlaska na livadu. Dalje nastavljamo utabanom stazom preko livade do kolskog puta. Na kolskog putu se ukazuje dalji planinarski putokazi odnosno planinarske table koje dalje vode ka vidikovcu Mečja leska (Sklopovi), vrhu Golovršac (951 mnv) i vrhu Beljanice (1.339 mnv). Staza od planinarskog objekta do kolskog puta vremenski se prelazi za 1 čas. Od trenutka izlaska na koleki put do skretanja za vidikovac Mečja leska (Sklopovi) potrebno je 15 minuta laganog hoda. Vidikovac je jasno obeležen putokazima i tablama. Od kolskog puta do samog vidikovca potrebno je 10 minuta laganog hoda u jednom pravcu (nije uračunato u celokupno pređeno vreme do vrha Beljanice i nazad). Vidikovac je jako strm i ne preporučuje se da na vidikovcu bude veći broj planinara u isto vreme. Sa vidikovca se baca pogled na kanjon reke Resave i sa druge strane na šumoviti i stenoviti predeo Vita Bukva (901 mnv). Povratak do kolskog puta sa vidikovca je istom stazom. Nakon izlaska na kolski put dalje ka vrhu Beljanice nastavljamo kolskim putem preko poteza Dugi Do do predela Kapute. Potez Kaputa je najstrmiji i najteži deo uspona do vrka Beljanice. Nakon izlaska iz poteza Kaputa nastavljamo dalje utabanom stazom i izlazimo na sam plato Beljanice sa koga se baca neverovatan pogled ako je vedar dan. Prilikom izlaska na plato Beljanice nastavljamo stazom koja vodi delom kroz četinarsku šumu do vrha Beljanice a za to je potrebno oko 15 minuta. Vrh Beljanice je vidno naznačen i na samom vrhu se nalazi obeležje vrha sa postavljenim krstom. Na potezu od vidikovca Mečja leska (Sklopovi) do vrha Beljanice preko poteza Dugi Do i Kapute ukupno je vremenski potrebno oko 2 časa i 45 minuta. Staza nije kružna i vraća se do planiiarskog objekta istom stazom. Za povratak istom stazom potrebno je 3 časa.",
+    "landmarks": "Vidikovci: Vidikovac ka kanjonu reke Resave\n\nNaselja i zaseoci sa nazivima: sela Strmosten i Lisine, Onština Despotovac.\n\nZnačajni lokaliteti: prirodni/ hidro-kompleks Lisine, prašuma Vinatovača.",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Ko je i kada trasirao etazu: Aleksandar Vasić 05.06.2021. godine\n\nKada je staza poslednji put markirana: april 2023. godine",
+    "map_reference": null,
+    "map_sheet": "1:25000 karta 482-3-4",
+    "club": {
+        "name": "Beljanica PD",
+        "url": "https://pss.rs/adresar_klubova/beljanica-pd/",
+        "contact": "Svetog Ćirila i Metodija 23, 35210 Svilajnac\n +38163 826 0571, +381628293557, +38166321706",
+        "clubs": [
+            {
+                "name": "Beljanica PD",
+                "url": "https://pss.rs/adresar_klubova/beljanica-pd/",
+                "contact": "Svetog Ćirila i Metodija 23, 35210 Svilajnac\n +38163 826 0571, +381628293557, +38166321706"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 12,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2024/12/Beljanica_trek_2021-06-05.gpx",
+        "fetched_at": "2026-11-08T12:06:12Z",
+        "checked_at": "2026-11-08T12:06:12Z",
+        "bytes": 645380,
+        "sha256": "99c6cd5c08bf8fea4f81abd344272d48bdda66401aeaf1e217825ba99b925012",
+        "etag": null,
+        "last_modified": "Tue, 10 Dec 2024 22:27:13 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 2439,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2024/12/Beljanica_trek_2021-06-05.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/planinarska-kuca-suvaja-vrh-beljanica.geojson",
+        "bbox": [
+            21.6362795,
+            44.0910086,
+            21.701755,
+            44.1118193
+        ],
+        "center": [
+            21.669017,
+            44.101414
+        ],
+        "start_point": [
+            21.6365848,
+            44.0913068
+        ],
+        "end_point": [
+            21.6362795,
+            44.0910086
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.63658,
+                    44.09131
+                ],
+                [
+                    21.64755,
+                    44.09495
+                ],
+                [
+                    21.6657,
+                    44.09399
+                ],
+                [
+                    21.66671,
+                    44.0916
+                ],
+                [
+                    21.66572,
+                    44.09396
+                ],
+                [
+                    21.66869,
+                    44.09566
+                ],
+                [
+                    21.69713,
+                    44.10105
+                ],
+                [
+                    21.70161,
+                    44.10593
+                ],
+                [
+                    21.69985,
+                    44.11171
+                ],
+                [
+                    21.70175,
+                    44.10683
+                ],
+                [
+                    21.69702,
+                    44.10109
+                ],
+                [
+                    21.66675,
+                    44.09402
+                ],
+                [
+                    21.64709,
+                    44.09502
+                ],
+                [
+                    21.64382,
+                    44.09396
+                ],
+                [
+                    21.64442,
+                    44.09258
+                ],
+                [
+                    21.63628,
+                    44.09101
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/planinarska-kuca-suvaja-vrh-beljanica/",
+        "canonical_url": "https://pss.rs/terenipp/planinarska-kuca-suvaja-vrh-beljanica/",
+        "pss_id": 25709,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:06:13Z",
+        "last_synced_at": "2026-11-08T12:06:13Z"
+    },
+    "search": "planinarska kuca „suvaja\"- vrh beljanica 4-9-3 istocna srbija beljanica planinarska kuca „suvaja\" 376 m planinarska kuca „suvaja\" 376 m beljanica pd vidikovci: vidikovac ka kanjonu reke resave naselja i zaseoci sa nazivima: sela strmosten i lisine, onstina despotovac. znacajni lokaliteti: prirodni/ hidro-kompleks lisine, prasuma vinatovaca. zahtevna polazna tacka staze je kod planinarske kuce „suvaja\" na planini beljanici. visina sa koje se polazi i gde se nalazi planinarski objekat je 376 mnv. ispred planinarske kuce „suvaja\" nalazi se adekvatan parking za automobile, kombi i autobuski prevoz. staza je markirana od polazne tacke do vrha beljanice (1.339 mnv). polaskom od planinarskog objekta krecemo se livadama dok ne zadjemo u sumoviti potez cerjak gde se krecemo utabanom planinarskom stazom sa blagim usponima do izlaska na livadu sa koje se baca pogled ka stenovitom masivu sokolice i ispupcenom vrhu golovrsca (951 mnv). utabana staza vodi pored samog vrka cerjak (695 mnv) koji se nalazi sa desne strane prilikom izlaska na livadu. dalje nastavljamo utabanom stazom preko livade do kolskog puta. na kolskog putu se ukazuje dalji planinarski putokazi odnosno planinarske table koje dalje vode ka vidikovcu mecja leska (sklopovi), vrhu golovrsac (951 mnv) i vrhu beljanice (1.339 mnv). staza od planinarskog objekta do kolskog puta vremenski se prelazi za 1 cas. od trenutka izlaska na koleki put do skretanja za vidikovac mecja leska (sklopovi) potrebno je 15 minuta laganog hoda. vidikovac je jasno obelezen putokazima i tablama. od kolskog puta do samog vidikovca potrebno je 10 minuta laganog hoda u jednom pravcu (nije uracunato u celokupno predjeno vreme do vrha beljanice i nazad). vidikovac je jako strm i ne preporucuje se da na vidikovcu bude veci broj planinara u isto vreme. sa vidikovca se baca pogled na kanjon reke resave i sa druge strane na sumoviti i stenoviti predeo vita bukva (901 mnv). povratak do kolskog puta sa vidikovca je istom stazom. nakon izlaska na kolski put dalje ka vrhu beljanice nastavljamo kolskim putem preko poteza dugi do do predela kapute. potez kaputa je najstrmiji i najtezi deo uspona do vrka be",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:06:13Z"
+    }
+}

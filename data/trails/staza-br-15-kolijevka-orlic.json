@@ -1,0 +1,197 @@
+{
+    "schema_version": 1,
+    "slug": "staza-br-15-kolijevka-orlic",
+    "name": "Staza br. 15: Kolijevka - Orlić",
+    "code": "5-12-5",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 18980,
+        "category_id": 28,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            122
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Zlatibor",
+    "difficulty": {
+        "key": "vrlo_teska",
+        "label": "Vrlo teška",
+        "source": "vrlo teška"
+    },
+    "distance": {
+        "official_km": 10.9,
+        "calculated_km": 10.89
+    },
+    "duration": {
+        "official_minutes": 350,
+        "official_text": "5 h 50 min",
+        "official_raw": "5:50"
+    },
+    "elevation": {
+        "official_gain_m": 760.0,
+        "official_loss_m": 760.0,
+        "calculated_gain_m": 1011.5,
+        "calculated_loss_m": 1009.3,
+        "min_m": 747.6,
+        "max_m": 1236.9
+    },
+    "start": "Kolijevka 1060 m",
+    "end": "Kolijevka 1060 m",
+    "description": "Kolijevka - kod planinarskog doma (1,4 km) - Radov potok (2,3 km) - Tomov vodopad (4,0 km) - vrh Orlić (6,6 km) -Klačina (9,7 km) - Kolijevka (10,9 km)",
+    "landmarks": "Vrh Orlić (1230 m), vrh Zakopina (1186 m), planinarski dom \"Aleksandar Džavović\", vodopadi i slapovi na Radovom i Tomovom Potoku",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Staza je izgrađena sredstvima JP-a \"Srbijašume\" Beograd.\n\nStazu je trasirao Despota Džavović iz Čajetine i Slobodan Stefanović iz Užica.",
+    "map_reference": null,
+    "map_sheet": "1:50000 Titovo Užice 3 (528-3)",
+    "club": {
+        "name": "Aleksandar Džavović PD",
+        "url": "https://pss.rs/adresar_klubova/aleksandar-dzavovic-pk/",
+        "contact": "Solunskih ratnika 10\n+381643268660",
+        "clubs": [
+            {
+                "name": "Aleksandar Džavović PD",
+                "url": "https://pss.rs/adresar_klubova/aleksandar-dzavovic-pk/",
+                "contact": "Solunskih ratnika 10\n+381643268660"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 13,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2023/03/Staza-15-Kolijevka-Orlic.gpx",
+        "fetched_at": "2026-11-08T12:02:44Z",
+        "checked_at": "2026-11-08T12:02:44Z",
+        "bytes": 150970,
+        "sha256": "d33a6884c80413895b4e0e9c67c9f9e6c0a33192b541c6cc49f8fd24351530b2",
+        "etag": null,
+        "last_modified": "Sat, 11 Mar 2023 22:24:57 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 1390,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 4,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2023/03/Staza-15-Kolijevka-Orlic.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/staza-br-15-kolijevka-orlic.geojson",
+        "bbox": [
+            19.56358471,
+            43.627267722,
+            19.601525478,
+            43.647689223
+        ],
+        "center": [
+            19.582555,
+            43.637478
+        ],
+        "start_point": [
+            19.600600954,
+            43.629179718
+        ],
+        "end_point": [
+            19.600588717,
+            43.629157422
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    19.6006,
+                    43.62918
+                ],
+                [
+                    19.59481,
+                    43.63819
+                ],
+                [
+                    19.58362,
+                    43.63849
+                ],
+                [
+                    19.56704,
+                    43.64769
+                ],
+                [
+                    19.56454,
+                    43.64584
+                ],
+                [
+                    19.56601,
+                    43.64064
+                ],
+                [
+                    19.56359,
+                    43.63789
+                ],
+                [
+                    19.56957,
+                    43.63281
+                ],
+                [
+                    19.57206,
+                    43.62727
+                ],
+                [
+                    19.58384,
+                    43.63618
+                ],
+                [
+                    19.59038,
+                    43.6319
+                ],
+                [
+                    19.60059,
+                    43.62916
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/staza-br-15-kolijevka-orlic/",
+        "canonical_url": "https://pss.rs/terenipp/staza-br-15-kolijevka-orlic/",
+        "pss_id": 18980,
+        "updated_at": "2023-03-18T11:44:51Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:02:45Z",
+        "last_synced_at": "2026-11-08T12:02:45Z"
+    },
+    "search": "staza br. 15: kolijevka - orlic 5-12-5 jugozapadna srbija zlatibor kolijevka 1060 m kolijevka 1060 m aleksandar dzavovic pd vrh orlic (1230 m), vrh zakopina (1186 m), planinarski dom \"aleksandar dzavovic\", vodopadi i slapovi na radovom i tomovom potoku vrlo teska kolijevka - kod planinarskog doma (1,4 km) - radov potok (2,3 km) - tomov vodopad (4,0 km) - vrh orlic (6,6 km) -klacina (9,7 km) - kolijevka (10,9 km)",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:02:45Z"
+    }
+}

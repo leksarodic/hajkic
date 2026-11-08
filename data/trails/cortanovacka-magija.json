@@ -1,0 +1,219 @@
+{
+    "schema_version": 1,
+    "slug": "cortanovacka-magija",
+    "name": "\"Čortanovačka magija\"",
+    "code": "1-13-2",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 10597,
+        "category_id": 28,
+        "region_ids": [
+            1
+        ],
+        "mountain_ids": [
+            91
+        ]
+    },
+    "region": "Vojvodina",
+    "mountain": "Čortanovačka šuma",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 14.9,
+        "calculated_km": 14.89
+    },
+    "duration": {
+        "official_minutes": 360,
+        "official_text": "6 h",
+        "official_raw": "6:00"
+    },
+    "elevation": {
+        "official_gain_m": 381.0,
+        "official_loss_m": 381.0,
+        "calculated_gain_m": 338.7,
+        "calculated_loss_m": 299.7,
+        "min_m": 72.2,
+        "max_m": 244.3
+    },
+    "start": "\"Čortanovačka magija\", Banstol",
+    "end": "\"Čortanovačka magija\", Banstol",
+    "description": "Početak staze je od kuće domaćinstva \"Čortanovačka magija\". Staza dalje vodi uz obalu potoka Ab, i na ulazu u Čortanovce mogu se videti crkva Sv. Nikole, rodna kuća Andrije Jovića, spomenik iz NOR-a i stara pekara.\n\nKada se prođe gradilište tunela nove brze pruge nailazi se na lokalitet Dabar, izvor Savinac na Kozarici, česma Četiri kamena, planinarski dom \"Kozarica\" i ulazi se u Čortanovačku šumu.\n\nU šumi pored staze s desne strane je jedna velika vrtača, a sa leve strane izvor koji je napravio malo jezero i Hajdučki izvor. Na izlazu iz šume stiže se do Ferijalnog Doma gde se može lepo odmoriti i okrepiti. U neposrednoj blizini je i spomenik Rugovo. Šetnjom uz obalu stiže se do Čortanovačke plaže \"Varljivo leto ’68\". U nastavku se prolazi putem kroz gradilište brze pruge, ide se prema Karašu i penje na Kraljevo brdo, a zatim se spušta na polaznu tačku.",
+    "landmarks": "• Crkva Sv. Nikole\n\n • Rodna kuća Andrije Jovića\n\n • Spomenik NOR-a\n\n • Izvor Savinac na Kozarici\n\n • Česma Četiri kamena\n\n • Čortanovačka šuma\n\n • Hajdučki izvor\n\n • U blizini je rimsko nalazište Castra Herkulis\n\n • Vila Stanković",
+    "maintenance": "odlično uređena",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinarski dom \"Kozarica\" - Čortanovačka šuma",
+    "notes": "Stazu su trasirali markiranti PD Železničara avgusta 2019.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Železničar PD Beograd",
+        "url": "https://pss.rs/adresar_klubova/zeleznicar-pk-2/",
+        "contact": "Bulevar Mihajla Pupina 167, 11070 Novi Beograd\n063 66 44 22; 064 293 0877\nhttp://www.zeleznicar.org.rs",
+        "clubs": [
+            {
+                "name": "Železničar PD Beograd",
+                "url": "https://pss.rs/adresar_klubova/zeleznicar-pk-2/",
+                "contact": "Bulevar Mihajla Pupina 167, 11070 Novi Beograd\n063 66 44 22; 064 293 0877\nhttp://www.zeleznicar.org.rs"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 12,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2019/12/Cortanovacka-magija.gpx",
+        "fetched_at": "2026-11-08T12:00:37Z",
+        "checked_at": "2026-11-08T12:00:37Z",
+        "bytes": 269686,
+        "sha256": "ed6118a36b6501566ef3aa796aea8e437d322d0064642e98c284d9e26efd3de3",
+        "etag": null,
+        "last_modified": "Wed, 11 Dec 2019 11:48:15 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 1624,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 26,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2019/12/Cortanovacka-magija.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/cortanovacka-magija.geojson",
+        "bbox": [
+            19.98002196662128,
+            45.14997202903032,
+            20.039286967366934,
+            45.17152198590338
+        ],
+        "center": [
+            20.009654,
+            45.160747
+        ],
+        "start_point": [
+            19.98006697744131,
+            45.15527500770986
+        ],
+        "end_point": [
+            19.98040996491909,
+            45.15542001463473
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    19.98007,
+                    45.15528
+                ],
+                [
+                    19.98745,
+                    45.14997
+                ],
+                [
+                    19.99802,
+                    45.15235
+                ],
+                [
+                    20.00975,
+                    45.15066
+                ],
+                [
+                    20.01919,
+                    45.15454
+                ],
+                [
+                    20.01947,
+                    45.15744
+                ],
+                [
+                    20.02361,
+                    45.15783
+                ],
+                [
+                    20.0225,
+                    45.16513
+                ],
+                [
+                    20.02011,
+                    45.16555
+                ],
+                [
+                    20.0217,
+                    45.16736
+                ],
+                [
+                    20.02845,
+                    45.16354
+                ],
+                [
+                    20.03929,
+                    45.1634
+                ],
+                [
+                    20.01487,
+                    45.16999
+                ],
+                [
+                    20.00979,
+                    45.16778
+                ],
+                [
+                    19.99446,
+                    45.17152
+                ],
+                [
+                    19.98959,
+                    45.16934
+                ],
+                [
+                    19.993,
+                    45.1675
+                ],
+                [
+                    19.99129,
+                    45.16493
+                ],
+                [
+                    19.98206,
+                    45.16082
+                ],
+                [
+                    19.98041,
+                    45.15542
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/cortanovacka-magija/",
+        "canonical_url": "https://pss.rs/terenipp/cortanovacka-magija/",
+        "pss_id": 10597,
+        "updated_at": "2019-12-11T12:05:46Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:00:38Z",
+        "last_synced_at": "2026-11-08T12:00:38Z"
+    },
+    "search": "\"cortanovacka magija\" 1-13-2 vojvodina cortanovacka suma \"cortanovacka magija\", banstol \"cortanovacka magija\", banstol zeleznicar pd beograd • crkva sv. nikole • rodna kuca andrije jovica • spomenik nor-a • izvor savinac na kozarici • cesma cetiri kamena • cortanovacka suma • hajducki izvor • u blizini je rimsko nalaziste castra herkulis • vila stankovic laka pocetak staze je od kuce domacinstva \"cortanovacka magija\". staza dalje vodi uz obalu potoka ab, i na ulazu u cortanovce mogu se videti crkva sv. nikole, rodna kuca andrije jovica, spomenik iz nor-a i stara pekara. kada se prodje gradiliste tunela nove brze pruge nailazi se na lokalitet dabar, izvor savinac na kozarici, cesma cetiri kamena, planinarski dom \"kozarica\" i ulazi se u cortanovacku sumu. u sumi pored staze s desne strane je jedna velika vrtaca, a sa leve strane izvor koji je napravio malo jezero i hajducki izvor. na izlazu iz sume stize se do ferijalnog doma gde se moze lepo odmoriti i okrepiti. u neposrednoj blizini je i spomenik rugovo. setnjom uz obalu stize se do cortanovacke plaze \"varljivo leto ’68\". u nastavku se prolazi putem kroz gradiliste brze pruge, ide se prema karasu i penje na kraljevo brdo, a zatim se spusta na polaznu tacku.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:00:38Z"
+    }
+}

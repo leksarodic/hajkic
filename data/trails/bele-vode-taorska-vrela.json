@@ -1,0 +1,199 @@
+{
+    "schema_version": 1,
+    "slug": "bele-vode-taorska-vrela",
+    "name": "Bele vode - Taorska vrela",
+    "code": "3-14-8",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 16061,
+        "category_id": 28,
+        "region_ids": [
+            3
+        ],
+        "mountain_ids": [
+            66
+        ]
+    },
+    "region": "Zapadna Srbija",
+    "mountain": "Povlen",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 10.6,
+        "calculated_km": 10.6
+    },
+    "duration": {
+        "official_minutes": 210,
+        "official_text": "3 h 30 min",
+        "official_raw": "3:30"
+    },
+    "elevation": {
+        "official_gain_m": 108.0,
+        "official_loss_m": 486.0,
+        "calculated_gain_m": 176.2,
+        "calculated_loss_m": 555.5,
+        "min_m": 620.8,
+        "max_m": 1067.9
+    },
+    "start": "Bele Vode, 993 m",
+    "end": "Taorska vrela, 625 m",
+    "description": "Ova zanimljiva staza je veza Evropske pešačke staze E-7 od Belih voda prema Taorskim vrelima u selu Donji Taor. Staza ide blagim usponom, širokim makadamskim putem pored Povlenske kose. Posle nailazi na račvanje desno prema Crvenom bregu, a levo prema Anateme u selu Donji Taor. Pred selom se nailazi na asfaltni put, koji se proteže skoro do samih Taorskih vrela. Na Taorskim vrelima domaćinstvo Jovanović poseduje restoran u obliku vodenice (domaća jela, pastrmka) kao i letnjikovac na otvorenom.",
+    "landmarks": "• Taorska vrela\n\n • Na trasi ima 3 izvora pitke vode\n\n • Naselja: Bele Vode, Donji Taor\n\n • Smeštaj: na trasi ima 3 objekta privatnog smeštaja\n\n • Restoran: domaćinstvo Jovanaović na Taorskim vrelima",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu je trasirao PK \"Povlen\" 2022. godine\n\n • Poslenji put staza je markirana 2022. godine",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Povlen PK",
+        "url": "https://pss.rs/adresar_klubova/povlen-pk/",
+        "contact": "Doktora Pantića 131/6 14000 Valjevo\n063-232039",
+        "clubs": [
+            {
+                "name": "Povlen PK",
+                "url": "https://pss.rs/adresar_klubova/povlen-pk/",
+                "contact": "Doktora Pantića 131/6 14000 Valjevo\n063-232039"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 7,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2022/03/3-14-8-Bele-vode-Taorska-vrela.gpx",
+        "fetched_at": "2026-11-08T12:02:24Z",
+        "checked_at": "2026-11-08T12:02:24Z",
+        "bytes": 78686,
+        "sha256": "d3ae839304e73594704aa6444c7ff860133293dc2c99fb59787e9a08c449594d",
+        "etag": null,
+        "last_modified": "Wed, 23 Mar 2022 12:42:41 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 452,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 15,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2022/03/3-14-8-Bele-vode-Taorska-vrela.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/bele-vode-taorska-vrela.geojson",
+        "bbox": [
+            19.757192004472017,
+            44.08083597198129,
+            19.815993988886476,
+            44.134455006569624
+        ],
+        "center": [
+            19.786593,
+            44.107645
+        ],
+        "start_point": [
+            19.760708967223763,
+            44.134455006569624
+        ],
+        "end_point": [
+            19.815993988886476,
+            44.08083597198129
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    19.76071,
+                    44.13446
+                ],
+                [
+                    19.75724,
+                    44.13116
+                ],
+                [
+                    19.76419,
+                    44.12764
+                ],
+                [
+                    19.76022,
+                    44.12622
+                ],
+                [
+                    19.76587,
+                    44.12024
+                ],
+                [
+                    19.77716,
+                    44.11622
+                ],
+                [
+                    19.78674,
+                    44.10877
+                ],
+                [
+                    19.79094,
+                    44.10958
+                ],
+                [
+                    19.79498,
+                    44.10297
+                ],
+                [
+                    19.8009,
+                    44.10041
+                ],
+                [
+                    19.80063,
+                    44.09806
+                ],
+                [
+                    19.81165,
+                    44.09264
+                ],
+                [
+                    19.81262,
+                    44.08712
+                ],
+                [
+                    19.80882,
+                    44.08837
+                ],
+                [
+                    19.81599,
+                    44.08084
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/bele-vode-taorska-vrela/",
+        "canonical_url": "https://pss.rs/terenipp/bele-vode-taorska-vrela/",
+        "pss_id": 16061,
+        "updated_at": "2022-04-28T15:22:34Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:02:25Z",
+        "last_synced_at": "2026-11-08T12:02:25Z"
+    },
+    "search": "bele vode - taorska vrela 3-14-8 zapadna srbija povlen bele vode, 993 m taorska vrela, 625 m povlen pk • taorska vrela • na trasi ima 3 izvora pitke vode • naselja: bele vode, donji taor • smestaj: na trasi ima 3 objekta privatnog smestaja • restoran: domacinstvo jovanaovic na taorskim vrelima laka ova zanimljiva staza je veza evropske pesacke staze e-7 od belih voda prema taorskim vrelima u selu donji taor. staza ide blagim usponom, sirokim makadamskim putem pored povlenske kose. posle nailazi na racvanje desno prema crvenom bregu, a levo prema anateme u selu donji taor. pred selom se nailazi na asfaltni put, koji se proteze skoro do samih taorskih vrela. na taorskim vrelima domacinstvo jovanovic poseduje restoran u obliku vodenice (domaca jela, pastrmka) kao i letnjikovac na otvorenom.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:02:25Z"
+    }
+}

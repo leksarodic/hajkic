@@ -1,0 +1,242 @@
+{
+    "schema_version": 1,
+    "slug": "guduricki-vrh-preko-lisicije-glave",
+    "name": "Gudurički vrh preko Lisičije glave",
+    "code": "1-4-5",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 3653,
+        "category_id": 28,
+        "region_ids": [
+            1
+        ],
+        "mountain_ids": [
+            33
+        ]
+    },
+    "region": "Vojvodina",
+    "mountain": "Vršačke planine",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 19.0,
+        "calculated_km": 17.6
+    },
+    "duration": {
+        "official_minutes": 420,
+        "official_text": "7 h",
+        "official_raw": "7:00"
+    },
+    "elevation": {
+        "official_gain_m": 1065.0,
+        "official_loss_m": 1065.0,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": "Planinarski dom 280 mnv",
+    "end": "Gudurički vrh 641 mnv",
+    "description": null,
+    "landmarks": null,
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinarski dom \"Široko bilo\"",
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Vršačka kula PSD",
+        "url": "https://pss.rs/adresar_klubova/vrsacka-kula-psd/",
+        "contact": "Svetosavski trg 1a, 26300 Vršac\n+38169 164 14 76\nhttps://www.psdkulavrsac.com/",
+        "clubs": [
+            {
+                "name": "Vršačka kula PSD",
+                "url": "https://pss.rs/adresar_klubova/vrsacka-kula-psd/",
+                "contact": "Svetosavski trg 1a, 26300 Vršac\n+38169 164 14 76\nhttps://www.psdkulavrsac.com/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/1-4-5.gpx",
+        "fetched_at": "2026-11-08T12:50:30Z",
+        "checked_at": "2026-11-08T12:50:30Z",
+        "bytes": 20922,
+        "sha256": "1e5d2f011a45be82f6e504e48044cc3c74de8211487cd374c50993995b3c5083",
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": 468,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/1-4-5.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/guduricki-vrh-preko-lisicije-glave.geojson",
+        "bbox": [
+            21.354417,
+            45.1254091,
+            21.4153343,
+            45.1433367
+        ],
+        "center": [
+            21.384876,
+            45.134373
+        ],
+        "start_point": [
+            21.3600403,
+            45.1265209
+        ],
+        "end_point": [
+            21.3600403,
+            45.1265209
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    21.36004,
+                    45.12652
+                ],
+                [
+                    21.35482,
+                    45.13148
+                ],
+                [
+                    21.35473,
+                    45.13977
+                ],
+                [
+                    21.36137,
+                    45.13809
+                ],
+                [
+                    21.367,
+                    45.1417
+                ],
+                [
+                    21.37151,
+                    45.13966
+                ],
+                [
+                    21.37676,
+                    45.14089
+                ],
+                [
+                    21.37753,
+                    45.14334
+                ],
+                [
+                    21.38446,
+                    45.13221
+                ],
+                [
+                    21.38966,
+                    45.13659
+                ],
+                [
+                    21.40398,
+                    45.13486
+                ],
+                [
+                    21.4126,
+                    45.13716
+                ],
+                [
+                    21.41533,
+                    45.12719
+                ],
+                [
+                    21.41215,
+                    45.12776
+                ],
+                [
+                    21.4089,
+                    45.13441
+                ],
+                [
+                    21.38966,
+                    45.13659
+                ],
+                [
+                    21.38446,
+                    45.13221
+                ],
+                [
+                    21.37937,
+                    45.13843
+                ],
+                [
+                    21.37495,
+                    45.13516
+                ],
+                [
+                    21.37162,
+                    45.13579
+                ],
+                [
+                    21.37335,
+                    45.13346
+                ],
+                [
+                    21.37154,
+                    45.1299
+                ],
+                [
+                    21.36962,
+                    45.13156
+                ],
+                [
+                    21.3641,
+                    45.12541
+                ],
+                [
+                    21.36004,
+                    45.12652
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description",
+            "missing_elevation"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/guduricki-vrh-preko-lisicije-glave/",
+        "canonical_url": "https://pss.rs/terenipp/guduricki-vrh-preko-lisicije-glave/",
+        "pss_id": 3653,
+        "updated_at": "2023-03-11T10:44:29Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:50:30Z",
+        "last_synced_at": "2026-11-08T12:50:30Z"
+    },
+    "search": "guduricki vrh preko lisicije glave 1-4-5 vojvodina vrsacke planine planinarski dom 280 mnv guduricki vrh 641 mnv vrsacka kula psd zahtevna",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:50:30Z"
+    }
+}

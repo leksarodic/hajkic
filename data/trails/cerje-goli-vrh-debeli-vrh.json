@@ -1,0 +1,191 @@
+{
+    "schema_version": 1,
+    "slug": "cerje-goli-vrh-debeli-vrh",
+    "name": "Cerje - Goli vrh - Debeli vrh",
+    "code": "4-47-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 4489,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            96
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Kalafat",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 9.33,
+        "calculated_km": 8.23
+    },
+    "duration": {
+        "official_minutes": 190,
+        "official_text": "3 h 10 min",
+        "official_raw": "3:10"
+    },
+    "elevation": {
+        "official_gain_m": 335.0,
+        "official_loss_m": 335.0,
+        "calculated_gain_m": 362.1,
+        "calculated_loss_m": 357.7,
+        "min_m": 447.2,
+        "max_m": 744.9
+    },
+    "start": "Spomenik u selu Cerje, 450m",
+    "end": "Spomenik u selu Cerje, 450m",
+    "description": "Staza: Cerje (450m) - Goli vrh (683m) - Debeli vrh (745m) - Crna bara (582m) - Virovi - Cerje (450m)",
+    "landmarks": "Na trasi dva izvora pitke vode.",
+    "maintenance": "delimično uređena",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Staza je poslednji put markirana 17.5.2015.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Železničar PK Niš",
+        "url": "https://pss.rs/adresar_klubova/zeleznicar-pk/",
+        "contact": "Tvrđava bb, 18000 Niš\n064 833 000 3, 061 168 777 1\nhttp://www.planinari-zeleznicar.rs/",
+        "clubs": [
+            {
+                "name": "Železničar PK Niš",
+                "url": "https://pss.rs/adresar_klubova/zeleznicar-pk/",
+                "contact": "Tvrđava bb, 18000 Niš\n064 833 000 3, 061 168 777 1\nhttp://www.planinari-zeleznicar.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/08/4-47-1-Cerje-Goli-vrh-Debeli-vrh.gpx",
+        "fetched_at": "2026-11-08T11:57:13Z",
+        "checked_at": "2026-11-08T11:57:13Z",
+        "bytes": 54929,
+        "sha256": "1bf9401e8ddc9ff734daf6dcde5037c84ab1d36b49ef3148d9d32ad566441f44",
+        "etag": null,
+        "last_modified": "Wed, 31 Jan 2018 10:50:28 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 436,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 6,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/08/4-47-1-Cerje-Goli-vrh-Debeli-vrh.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/cerje-goli-vrh-debeli-vrh.geojson",
+        "bbox": [
+            21.885279938578606,
+            43.429079968482256,
+            21.913861809298396,
+            43.44493777491152
+        ],
+        "center": [
+            21.899571,
+            43.437009
+        ],
+        "start_point": [
+            21.910421289503574,
+            43.42934483662248
+        ],
+        "end_point": [
+            21.910611893981695,
+            43.42936998233199
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    21.91042,
+                    43.42934
+                ],
+                [
+                    21.89932,
+                    43.43119
+                ],
+                [
+                    21.89454,
+                    43.42997
+                ],
+                [
+                    21.88552,
+                    43.44166
+                ],
+                [
+                    21.8896,
+                    43.43972
+                ],
+                [
+                    21.8921,
+                    43.44076
+                ],
+                [
+                    21.90506,
+                    43.43871
+                ],
+                [
+                    21.91269,
+                    43.44484
+                ],
+                [
+                    21.91298,
+                    43.43952
+                ],
+                [
+                    21.90811,
+                    43.436
+                ],
+                [
+                    21.90924,
+                    43.43181
+                ],
+                [
+                    21.91163,
+                    43.43123
+                ],
+                [
+                    21.91061,
+                    43.42937
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/cerje-goli-vrh-debeli-vrh/",
+        "canonical_url": "https://pss.rs/terenipp/cerje-goli-vrh-debeli-vrh/",
+        "pss_id": 4489,
+        "updated_at": "2018-01-31T10:51:01Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:57:13Z",
+        "last_synced_at": "2026-11-08T11:57:13Z"
+    },
+    "search": "cerje - goli vrh - debeli vrh 4-47-1 istocna srbija kalafat spomenik u selu cerje, 450m spomenik u selu cerje, 450m zeleznicar pk nis na trasi dva izvora pitke vode. laka staza: cerje (450m) - goli vrh (683m) - debeli vrh (745m) - crna bara (582m) - virovi - cerje (450m)",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:57:13Z"
+    }
+}

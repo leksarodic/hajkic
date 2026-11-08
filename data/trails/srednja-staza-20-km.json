@@ -1,0 +1,235 @@
+{
+    "schema_version": 1,
+    "slug": "srednja-staza-20-km",
+    "name": "Srednja staza 20 km",
+    "code": "1-2-2",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 15095,
+        "category_id": 28,
+        "region_ids": [
+            1
+        ],
+        "mountain_ids": [
+            46
+        ]
+    },
+    "region": "Vojvodina",
+    "mountain": "Carska bara",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 20.7,
+        "calculated_km": 20.52
+    },
+    "duration": {
+        "official_minutes": 300,
+        "official_text": "5 h",
+        "official_raw": "5:00"
+    },
+    "elevation": {
+        "official_gain_m": 81.0,
+        "official_loss_m": 81.0,
+        "calculated_gain_m": 14.7,
+        "calculated_loss_m": 21.0,
+        "min_m": 66.0,
+        "max_m": 84.3
+    },
+    "start": "Pristanište na Starom Begeju, 71,80 m",
+    "end": "Pristanište na Starom Begeju, 71,80 m",
+    "description": "• STAZA SREDNJEG MARATONA (20.7 km)\n\n • - od starta-pristaništa - informativni centar, se kreće 200 m do asfaltnog puta na nasipu.\n\n • - na asfaltnom putu skreće se levo i ide prema selu Belo Blato u dužini 700m\n\n • - sa asfaltnog puta se skreće levo kod napuštene čuvarnice na prvi nasip sa leve strane\n\n • - ide se nasipom 3050 m, po kolskom putu (sa leve strane se proteže Carska bara, a sa desne Botoški rit).\n\n • - na kraju Carske bare (vanredna kontrola) silazi se sa nasipa i skreće desno poljskim putem prema selu Belo Blato (put pred selom je makadamski)\n\n • - do sela se ide 1150 m\n\n • - kada se dođe do sela skreće se desno u prvu obodnu ulicu i produžava 100 m do prve raskrsnice\n\n • - na prvoj raskrsnici skreće se levo i prati se pravac ulice u dužini 1100 m\n\n • - na kraju ulice t.j na šestoj raskrsnici skreće se levo i posle 100 m sa leve strane nalazi se etno-salaš mala Lujza (KT.2) - voda sa česme, pića po restoranskim cenama, upotreba WC-a)\n\n • - kada se izađe iz dvorišta salaša skreće se levo, produžuje 50 m do prve raskrsnice, gde se skreće desno, pa prevlakom između jezera Mika i jezera Koča u dužini od 1350 m do poteza ek.Šuvajka\n\n • - po prolasku prevlake skreće se desno i nastavlja slabo definisanim poljskim putem kroz pašnjake (za orijentaciju sa desne strane je obodni kanal i iza njega posle pojasa trske 100-200 m nalazi se jezero Koča) \n\n • - posle 2750 m od Šuvajke sa leve strane ostaje Novo jezero\n\n • - 500 m posle Novog jezera skreće se na raskrsnici desno prema mlinu\n\n • - do mlina koji je sa desne strane puta dolazi se posle 350 m\n\n • - kod mlina je (KT.3) – mogućnost odmora u hladovini na klupama, pijaća voda sa česme\n\n • - od mlina se ne ide preko prevlake već se vraća 350 m nazad stazom kuda ste došli, i posle prelaska mostića skreće se desno\n\n • - ide se kolskim putem preko pašnjaka severnom stranom Belog jezera\n\n • - posle 2450 m prelazi se mostić obodnog kanala. Obratiti pažnju da se 230 m posle mostića silazi levo sa jačeg puta i nastavlja putem severozapadno\n\n • - nakon 650 m stiže se do asfaltnog puta Zrenjanin-Lukino Selo\n\n • - na asfaltu se skreće desno prema Lukinom Selu (do sela ima 300 m)\n\n • - kada se uđe u selo produžava se pravo 1.000 m, do centra sela gde je (KT. 4)\n\n • - posle kontrole, na rskrsnici skreće se desno i ulicom nastavlja pravo do kraja sela, a zatim se skreće levo, izlazi iz sela i nastavlja asfaltom pravo (sa desne strane je Belo jezero) u dužini od 2.000 m do prirodnjačke kuće koja se nalazi na samoj raskrsnici sa desne strane\n\n • - na raskrsnici se skreće desno i asfaltom se nastavlja 1000 m pored tipskih radničkih kuća, zatim hotela “Sibila”, do table “Specijalni rezervat prirode\", gde se skreće levo pa još 200 m prema pristaništu i cilju.",
+    "landmarks": "• Specijalni rezervat prirode \"Carska bara\"\n\n • Spomenik prirode \"Stari dud\" u Belom Blatu\n\n • Naselje na stazi: Belo Blato, Lukino Selo\n\n • Na trasi izvori pitke vode iz vodovoda i bunara\n\n • Privatni smeštaj u Belom Blatu\n\n • Na trasi hotel \"Sibila\"",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu je trasirao Milan Milojević 2013. godine.\n\n • Poslednji put staza je markirana 2021.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Zrenjanin KP",
+        "url": "https://pss.rs/adresar_klubova/zrenjanin-kp/",
+        "contact": "Makedonska 11, 23000 Zrenjanin\n 063/1841370; 063/8461255.\nhttps://kpzrenjanin.org.rs/",
+        "clubs": [
+            {
+                "name": "Zrenjanin KP",
+                "url": "https://pss.rs/adresar_klubova/zrenjanin-kp/",
+                "contact": "Makedonska 11, 23000 Zrenjanin\n 063/1841370; 063/8461255.\nhttps://kpzrenjanin.org.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 11,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2021/12/1-2-2-Srednja-staza-20-km.gpx",
+        "fetched_at": "2026-11-08T12:02:15Z",
+        "checked_at": "2026-11-08T12:02:15Z",
+        "bytes": 124646,
+        "sha256": "15eced58ee9f9fcdf6fa31a598557be7d16c264038d3fc2f4542cdb1f6f1c939",
+        "etag": null,
+        "last_modified": "Wed, 15 Dec 2021 15:22:53 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 669,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 41,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2021/12/1-2-2-Srednja-staza-20-km.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/srednja-staza-20-km.geojson",
+        "bbox": [
+            20.35553600639105,
+            45.261121010407805,
+            20.431067012250423,
+            45.31373295933008
+        ],
+        "center": [
+            20.393302,
+            45.287427
+        ],
+        "start_point": [
+            20.41675399057567,
+            45.28175096958876
+        ],
+        "end_point": [
+            20.416765976697206,
+            45.28184300288558
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    20.41675,
+                    45.28175
+                ],
+                [
+                    20.41635,
+                    45.28327
+                ],
+                [
+                    20.41133,
+                    45.2811
+                ],
+                [
+                    20.40832,
+                    45.28244
+                ],
+                [
+                    20.4069,
+                    45.27216
+                ],
+                [
+                    20.39434,
+                    45.26776
+                ],
+                [
+                    20.38876,
+                    45.26112
+                ],
+                [
+                    20.3762,
+                    45.26635
+                ],
+                [
+                    20.36697,
+                    45.27432
+                ],
+                [
+                    20.36535,
+                    45.27328
+                ],
+                [
+                    20.35554,
+                    45.28341
+                ],
+                [
+                    20.35804,
+                    45.28876
+                ],
+                [
+                    20.37092,
+                    45.29197
+                ],
+                [
+                    20.38474,
+                    45.29931
+                ],
+                [
+                    20.38791,
+                    45.29595
+                ],
+                [
+                    20.38567,
+                    45.29912
+                ],
+                [
+                    20.41404,
+                    45.30997
+                ],
+                [
+                    20.41951,
+                    45.31373
+                ],
+                [
+                    20.43019,
+                    45.30456
+                ],
+                [
+                    20.42425,
+                    45.30062
+                ],
+                [
+                    20.43107,
+                    45.29104
+                ],
+                [
+                    20.42903,
+                    45.28421
+                ],
+                [
+                    20.41859,
+                    45.28451
+                ],
+                [
+                    20.41677,
+                    45.28184
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/srednja-staza-20-km/",
+        "canonical_url": "https://pss.rs/terenipp/srednja-staza-20-km/",
+        "pss_id": 15095,
+        "updated_at": "2021-12-15T16:02:17Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:02:16Z",
+        "last_synced_at": "2026-11-08T12:02:16Z"
+    },
+    "search": "srednja staza 20 km 1-2-2 vojvodina carska bara pristaniste na starom begeju, 71,80 m pristaniste na starom begeju, 71,80 m zrenjanin kp • specijalni rezervat prirode \"carska bara\" • spomenik prirode \"stari dud\" u belom blatu • naselje na stazi: belo blato, lukino selo • na trasi izvori pitke vode iz vodovoda i bunara • privatni smestaj u belom blatu • na trasi hotel \"sibila\" laka • staza srednjeg maratona (20.7 km) • - od starta-pristanista - informativni centar, se krece 200 m do asfaltnog puta na nasipu. • - na asfaltnom putu skrece se levo i ide prema selu belo blato u duzini 700m • - sa asfaltnog puta se skrece levo kod napustene cuvarnice na prvi nasip sa leve strane • - ide se nasipom 3050 m, po kolskom putu (sa leve strane se proteze carska bara, a sa desne botoski rit). • - na kraju carske bare (vanredna kontrola) silazi se sa nasipa i skrece desno poljskim putem prema selu belo blato (put pred selom je makadamski) • - do sela se ide 1150 m • - kada se dodje do sela skrece se desno u prvu obodnu ulicu i produzava 100 m do prve raskrsnice • - na prvoj raskrsnici skrece se levo i prati se pravac ulice u duzini 1100 m • - na kraju ulice t.j na sestoj raskrsnici skrece se levo i posle 100 m sa leve strane nalazi se etno-salas mala lujza (kt.2) - voda sa cesme, pica po restoranskim cenama, upotreba wc-a) • - kada se izadje iz dvorista salasa skrece se levo, produzuje 50 m do prve raskrsnice, gde se skrece desno, pa prevlakom izmedju jezera mika i jezera koca u duzini od 1350 m do poteza ek.suvajka • - po prolasku prevlake skrece se desno i nastavlja slabo definisanim poljskim putem kroz pasnjake (za orijentaciju sa desne strane je obodni kanal i iza njega posle pojasa trske 100-200 m nalazi se jezero koca) • - posle 2750 m od suvajke sa leve strane ostaje novo jezero • - 500 m posle novog jezera skrece se na raskrsnici desno prema mlinu • - do mlina koji je sa desne strane puta dolazi se posle 350 m • - kod mlina je (kt.3) – mogucnost odmora u hladovini na klupama, pijaca voda sa cesme • - od mlina se ne ide preko prevlake vec se vraca 350 m nazad stazom kuda ste dosli, i posle prelaska mostica skrece se desno ",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:02:16Z"
+    }
+}

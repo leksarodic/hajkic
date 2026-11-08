@@ -1,0 +1,201 @@
+{
+    "schema_version": 1,
+    "slug": "subjel-divcibare",
+    "name": "Subjel - Divčibare",
+    "code": "3-32-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 3917,
+        "category_id": 28,
+        "region_ids": [
+            3
+        ],
+        "mountain_ids": [
+            82
+        ]
+    },
+    "region": "Zapadna Srbija",
+    "mountain": "Subjel",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 17.0,
+        "calculated_km": 17.07
+    },
+    "duration": {
+        "official_minutes": 360,
+        "official_text": "6 h",
+        "official_raw": "6:00"
+    },
+    "elevation": {
+        "official_gain_m": 730.0,
+        "official_loss_m": 680.0,
+        "calculated_gain_m": 685.1,
+        "calculated_loss_m": 638.4,
+        "min_m": 690.0,
+        "max_m": 1089.4
+    },
+    "start": "selo Subjel, 720 m",
+    "end": "Divčibare (centar), 980 m",
+    "description": null,
+    "landmarks": "• Vodopad Skakavac\n\n • Divčibare",
+    "maintenance": "delimično uređena",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Pobeda PSK",
+        "url": "https://pss.rs/adresar_klubova/pobeda-pk/",
+        "contact": "Mačvanska 8, 11000 Beograd\n+38163 329 434 ; +38163 32 94 50\nhttps://www.pskpobeda.rs",
+        "clubs": [
+            {
+                "name": "Pobeda PSK",
+                "url": "https://pss.rs/adresar_klubova/pobeda-pk/",
+                "contact": "Mačvanska 8, 11000 Beograd\n+38163 329 434 ; +38163 32 94 50\nhttps://www.pskpobeda.rs"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/06/3-32-1-Subjel-Divcibare.gpx",
+        "fetched_at": "2026-11-08T11:56:14Z",
+        "checked_at": "2026-11-08T11:56:14Z",
+        "bytes": 72439,
+        "sha256": "8028a84d13bd954e57b3d0a9a7cc13719885bf2844887929b8c437a31c29409a",
+        "etag": null,
+        "last_modified": "Sat, 03 Jul 2021 12:39:43 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 572,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 8,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/06/3-32-1-Subjel-Divcibare.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/subjel-divcibare.geojson",
+        "bbox": [
+            19.973304960876703,
+            44.010680029168725,
+            20.00756297260523,
+            44.10451702773571
+        ],
+        "center": [
+            19.990434,
+            44.057599
+        ],
+        "start_point": [
+            19.983143974095583,
+            44.01440695859492
+        ],
+        "end_point": [
+            19.991699969395995,
+            44.10451702773571
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    19.98314,
+                    44.01441
+                ],
+                [
+                    19.98947,
+                    44.01094
+                ],
+                [
+                    19.9733,
+                    44.01354
+                ],
+                [
+                    19.97726,
+                    44.01896
+                ],
+                [
+                    19.98259,
+                    44.01973
+                ],
+                [
+                    19.99766,
+                    44.01493
+                ],
+                [
+                    20.00756,
+                    44.0262
+                ],
+                [
+                    20.00255,
+                    44.03255
+                ],
+                [
+                    20.00324,
+                    44.04821
+                ],
+                [
+                    19.99338,
+                    44.05872
+                ],
+                [
+                    19.99519,
+                    44.07325
+                ],
+                [
+                    19.98932,
+                    44.08146
+                ],
+                [
+                    19.99584,
+                    44.08808
+                ],
+                [
+                    19.99716,
+                    44.09562
+                ],
+                [
+                    19.9917,
+                    44.10452
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/subjel-divcibare/",
+        "canonical_url": "https://pss.rs/terenipp/subjel-divcibare/",
+        "pss_id": 3917,
+        "updated_at": "2021-07-03T12:40:40Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:56:15Z",
+        "last_synced_at": "2026-11-08T11:56:15Z"
+    },
+    "search": "subjel - divcibare 3-32-1 zapadna srbija subjel selo subjel, 720 m divcibare (centar), 980 m pobeda psk • vodopad skakavac • divcibare zahtevna",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:56:15Z"
+    }
+}

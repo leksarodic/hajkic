@@ -1,0 +1,124 @@
+{
+    "schema_version": 1,
+    "slug": "zica-stolovi-mataruska-banja",
+    "name": "Žiča-Stolovi-Mataruška banja",
+    "code": "6-3-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 3598,
+        "category_id": 28,
+        "region_ids": [
+            6
+        ],
+        "mountain_ids": [
+            38
+        ]
+    },
+    "region": "Kopaoničko-Toplička regija",
+    "mountain": "Stolovi",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 26.0,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": 600,
+        "official_text": "10 h",
+        "official_raw": "10:00"
+    },
+    "elevation": {
+        "official_gain_m": 1149.0,
+        "official_loss_m": 1157.0,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": "manastir Žiča",
+    "end": "Mataruška banja",
+    "description": null,
+    "landmarks": "Manastir Žiča, lokalitet Lojanik (okamenjena šuma)",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Železničar PSK Kraljevo",
+        "url": "https://pss.rs/adresar_klubova/zeleznicar-psk/",
+        "contact": "Industrijska 2, 36000 Kraljevo\n064/636 17 95\nhttp://www.pskzeleznicarkv.rs/",
+        "clubs": [
+            {
+                "name": "Železničar PSK Kraljevo",
+                "url": "https://pss.rs/adresar_klubova/zeleznicar-psk/",
+                "contact": "Industrijska 2, 36000 Kraljevo\n064/636 17 95\nhttp://www.pskzeleznicarkv.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": false,
+        "status": "missing",
+        "source_url": null,
+        "fetched_at": null,
+        "checked_at": "2026-11-08T12:50:04Z",
+        "bytes": null,
+        "sha256": null,
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": null,
+        "tracks": null,
+        "segments": null,
+        "waypoints": null,
+        "error": null,
+        "download": {
+            "mode": "none",
+            "url": null
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description",
+            "missing_gpx"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/zica-stolovi-mataruska-banja/",
+        "canonical_url": "https://pss.rs/terenipp/zica-stolovi-mataruska-banja/",
+        "pss_id": 3598,
+        "updated_at": "2017-05-11T07:18:51Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:50:04Z",
+        "last_synced_at": "2026-11-08T12:50:04Z"
+    },
+    "search": "zica-stolovi-mataruska banja 6-3-1 kopaonicko-toplicka regija stolovi manastir zica mataruska banja zeleznicar psk kraljevo manastir zica, lokalitet lojanik (okamenjena suma) zahtevna",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:50:04Z"
+    }
+}

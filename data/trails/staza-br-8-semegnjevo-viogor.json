@@ -1,0 +1,261 @@
+{
+    "schema_version": 1,
+    "slug": "staza-br-8-semegnjevo-viogor",
+    "name": "Staza br. 8: Semegnjevo – Viogor",
+    "code": "5-12-15",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 19227,
+        "category_id": 28,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            122
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Zlatibor",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 17.2,
+        "calculated_km": 17.22
+    },
+    "duration": {
+        "official_minutes": 390,
+        "official_text": "6 h 30 min",
+        "official_raw": "6:30"
+    },
+    "elevation": {
+        "official_gain_m": 680.0,
+        "official_loss_m": 680.0,
+        "calculated_gain_m": 690.4,
+        "calculated_loss_m": 689.1,
+        "min_m": 897.0,
+        "max_m": 1294.1
+    },
+    "start": "Vodopad Skakavac u centru Semegnjeva",
+    "end": "Vodopad Skakavac u centru Semegnjeva",
+    "description": "Vodopad Skakavac - vrh Veliki Viogor (4,2 km) - Jovin grob (6,8 km) – vodopad na Drugančici (8,1 km) - Tošići (14,4 km) - Vodopad Skakavac (17,2 km)",
+    "landmarks": "Vrh Veliki Viogor, vodopad Skakavac, vodopad na Drugančici, kolibe u Panjku",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Stazu je trasirao Stefanović Slobodan iz Užica 2019. godine i markirana je 2020. godine. Staza je izgrađena sredstvima JP-a \"Srbijašume\" Beograd, upravitelja Parka prirode \"Zlatibor\". Neophodno je da im se pre obilaska staze najavite na telefon: 031/3841-278.",
+    "map_reference": null,
+    "map_sheet": "1:50000 Užice 3 (528/3)",
+    "club": {
+        "name": "Omorika PD",
+        "url": "https://pss.rs/adresar_klubova/omorika-pd/",
+        "contact": "Vukole Dabića 4/1/9, Užice\n064 881 86 97",
+        "clubs": [
+            {
+                "name": "Omorika PD",
+                "url": "https://pss.rs/adresar_klubova/omorika-pd/",
+                "contact": "Vukole Dabića 4/1/9, Užice\n064 881 86 97"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 9,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2023/03/Staza-8-Semegnjevo-Viogor.gpx",
+        "fetched_at": "2026-11-08T12:03:00Z",
+        "checked_at": "2026-11-08T12:03:00Z",
+        "bytes": 174137,
+        "sha256": "d7f45cd87a3aed4f68ca75f9050a01c06356ac1926aafdc8dcf991559fa2e12c",
+        "etag": null,
+        "last_modified": "Wed, 29 Mar 2023 22:26:01 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 1601,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 7,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2023/03/Staza-8-Semegnjevo-Viogor.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/staza-br-8-semegnjevo-viogor.geojson",
+        "bbox": [
+            19.523550034,
+            43.750916971,
+            19.585374389,
+            43.766781483
+        ],
+        "center": [
+            19.554462,
+            43.758849
+        ],
+        "start_point": [
+            19.583398188,
+            43.750916971
+        ],
+        "end_point": [
+            19.583417634,
+            43.750930382
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    19.5834,
+                    43.75092
+                ],
+                [
+                    19.58111,
+                    43.75492
+                ],
+                [
+                    19.57596,
+                    43.75291
+                ],
+                [
+                    19.57509,
+                    43.75566
+                ],
+                [
+                    19.56599,
+                    43.75748
+                ],
+                [
+                    19.55424,
+                    43.75684
+                ],
+                [
+                    19.55048,
+                    43.75441
+                ],
+                [
+                    19.55095,
+                    43.76024
+                ],
+                [
+                    19.54789,
+                    43.75907
+                ],
+                [
+                    19.54669,
+                    43.76113
+                ],
+                [
+                    19.54527,
+                    43.75301
+                ],
+                [
+                    19.54308,
+                    43.75556
+                ],
+                [
+                    19.53951,
+                    43.75487
+                ],
+                [
+                    19.54049,
+                    43.75649
+                ],
+                [
+                    19.53593,
+                    43.7586
+                ],
+                [
+                    19.52355,
+                    43.75668
+                ],
+                [
+                    19.52909,
+                    43.75806
+                ],
+                [
+                    19.53302,
+                    43.76232
+                ],
+                [
+                    19.54289,
+                    43.75841
+                ],
+                [
+                    19.54686,
+                    43.7652
+                ],
+                [
+                    19.56069,
+                    43.76441
+                ],
+                [
+                    19.56622,
+                    43.76678
+                ],
+                [
+                    19.5681,
+                    43.76397
+                ],
+                [
+                    19.57779,
+                    43.76431
+                ],
+                [
+                    19.58282,
+                    43.7606
+                ],
+                [
+                    19.58537,
+                    43.75502
+                ],
+                [
+                    19.58313,
+                    43.75422
+                ],
+                [
+                    19.58342,
+                    43.75093
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/staza-br-8-semegnjevo-viogor/",
+        "canonical_url": "https://pss.rs/terenipp/staza-br-8-semegnjevo-viogor/",
+        "pss_id": 19227,
+        "updated_at": "2023-09-08T20:06:52Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:03:01Z",
+        "last_synced_at": "2026-11-08T12:03:01Z"
+    },
+    "search": "staza br. 8: semegnjevo – viogor 5-12-15 jugozapadna srbija zlatibor vodopad skakavac u centru semegnjeva vodopad skakavac u centru semegnjeva omorika pd vrh veliki viogor, vodopad skakavac, vodopad na drugancici, kolibe u panjku laka vodopad skakavac - vrh veliki viogor (4,2 km) - jovin grob (6,8 km) – vodopad na drugancici (8,1 km) - tosici (14,4 km) - vodopad skakavac (17,2 km)",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:03:01Z"
+    }
+}

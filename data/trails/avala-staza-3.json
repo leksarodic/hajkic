@@ -1,0 +1,159 @@
+{
+    "schema_version": 1,
+    "slug": "avala-staza-3",
+    "name": "Avala, staza 3",
+    "code": "2-3-4",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 12290,
+        "category_id": 28,
+        "region_ids": [
+            2
+        ],
+        "mountain_ids": [
+            47
+        ]
+    },
+    "region": "Šumadija",
+    "mountain": "Avala",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 2.28,
+        "calculated_km": 2.25
+    },
+    "duration": {
+        "official_minutes": 60,
+        "official_text": "1 h",
+        "official_raw": "1:00"
+    },
+    "elevation": {
+        "official_gain_m": 273.0,
+        "official_loss_m": 52.0,
+        "calculated_gain_m": 223.3,
+        "calculated_loss_m": 1.6,
+        "min_m": 281.8,
+        "max_m": 507.2
+    },
+    "start": "Autobuska stanica \"Put za Zuce\", 278",
+    "end": "Spomenik Neznanom junaku na vrhu Avale, 506 m",
+    "description": "• Staza 3 spaja sledeće staze: staza 2, staza 4, staza 5 i staza 6.",
+    "landmarks": "• Rimski rudnik\n\n • Spomenik Neznanom junaku",
+    "maintenance": "odlično uređena",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinarski dom \"Čarapićev Brest\"",
+    "notes": "• Stazu je trasirao Dragan Dimitrijević, oktobra 2020. godine.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Avala PD",
+        "url": "https://pss.rs/adresar_klubova/psk-avala/",
+        "contact": "Murska 14, 11000 Beograd\n+38111 386 00 64 ; +38160 04 28 252, \nhttp://www.avala.club/",
+        "clubs": [
+            {
+                "name": "Avala PD",
+                "url": "https://pss.rs/adresar_klubova/psk-avala/",
+                "contact": "Murska 14, 11000 Beograd\n+38111 386 00 64 ; +38160 04 28 252, \nhttp://www.avala.club/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2020/10/2-3-4-Avala-staza-3.gpx",
+        "fetched_at": "2026-11-08T12:01:14Z",
+        "checked_at": "2026-11-08T12:01:14Z",
+        "bytes": 47003,
+        "sha256": "56e47dd50219271ef9fdebdd0a3ba80200391588b3b564ec03baab956f7107b2",
+        "etag": null,
+        "last_modified": "Wed, 21 Oct 2020 13:25:45 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 267,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 6,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2020/10/2-3-4-Avala-staza-3.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/avala-staza-3.geojson",
+        "bbox": [
+            20.51611801609397,
+            44.680759040638804,
+            20.53317502140999,
+            44.69059897586703
+        ],
+        "center": [
+            20.524647,
+            44.685679
+        ],
+        "start_point": [
+            20.533167980611324,
+            44.680759040638804
+        ],
+        "end_point": [
+            20.51611801609397,
+            44.68896299600601
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    20.53317,
+                    44.68076
+                ],
+                [
+                    20.52577,
+                    44.68959
+                ],
+                [
+                    20.52022,
+                    44.69059
+                ],
+                [
+                    20.51913,
+                    44.68852
+                ],
+                [
+                    20.51612,
+                    44.68896
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/avala-staza-3/",
+        "canonical_url": "https://pss.rs/terenipp/avala-staza-3/",
+        "pss_id": 12290,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:01:15Z",
+        "last_synced_at": "2026-11-08T12:01:15Z"
+    },
+    "search": "avala, staza 3 2-3-4 sumadija avala autobuska stanica \"put za zuce\", 278 spomenik neznanom junaku na vrhu avale, 506 m avala pd • rimski rudnik • spomenik neznanom junaku laka • staza 3 spaja sledece staze: staza 2, staza 4, staza 5 i staza 6.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:01:15Z"
+    }
+}

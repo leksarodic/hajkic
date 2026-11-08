@@ -1,0 +1,179 @@
+{
+    "schema_version": 1,
+    "slug": "veliki-bic",
+    "name": "Veliki Bič",
+    "code": "5-6-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 11936,
+        "category_id": 28,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            193
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Bič",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 16.0,
+        "calculated_km": 6.82
+    },
+    "duration": {
+        "official_minutes": 420,
+        "official_text": "7 h",
+        "official_raw": "7:00"
+    },
+    "elevation": {
+        "official_gain_m": 1016.0,
+        "official_loss_m": 1016.0,
+        "calculated_gain_m": 1060.6,
+        "calculated_loss_m": 45.1,
+        "min_m": 391.6,
+        "max_m": 1409.9
+    },
+    "start": "Novi deo grada Priboja - srednja škola Gimnazija, 380 m",
+    "end": "Bič - vrh Golet, 1386 m - i nazad istim putem",
+    "description": "Staza kreće iz centra novog dela grada, ispred srednje škole Gimnazije. Kreće se jugozapadno ka naselju Čitluk. Zatim do mesta zvanog Braćica odakle staza u smeru zapada vodi ka groblju u naselju Crnuzi. Odatle se asfaltnim putem ide oko kilometar do oznake za skretanje ka Velikom Biču. Put dalje vodi u pravcu severa ka Velikom Biču i vrhu Golet. Povratak je istom stazom.",
+    "landmarks": "• Zadruga Miliješ\n\n • Vidikovci: vrh Golet\n\n • Naselja: Čitluk i Crnuzi\n\n • Na trasi ima 2 izvora pitke vode\n\n • Na trasi postoji smeštaj na početku staze u hotelu Lim, kao i privatni smeštaj u novom delu grada Naselje. U Pribojskoj Banji koja je van trase (udaljena 5 km) postoji privatni smeštajni kapacitet.",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu su trasirali planinari ŽKP Ljeskovac, Priboj, 2016. godine\n\n • Poslednji put staza je markirana 2017. godine",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Ljeskovac ŽKP",
+        "url": "https://pss.rs/adresar_klubova/ljeskovac-zkp/",
+        "contact": "8.mart bb, 31330 Priboj\n+ 381 64 3140810",
+        "clubs": [
+            {
+                "name": "Ljeskovac ŽKP",
+                "url": "https://pss.rs/adresar_klubova/ljeskovac-zkp/",
+                "contact": "8.mart bb, 31330 Priboj\n+ 381 64 3140810"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 9,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2020/08/Veliki-Bic.gpx",
+        "fetched_at": "2026-11-08T12:01:04Z",
+        "checked_at": "2026-11-08T12:01:04Z",
+        "bytes": 91062,
+        "sha256": "857e73d69c3db1d1c59b1bbcacc19bac2431bd7291afeb4d0ef200db41cfc10d",
+        "etag": null,
+        "last_modified": "Mon, 24 Aug 2020 12:29:47 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 539,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 10,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2020/08/Veliki-Bic.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/veliki-bic.geojson",
+        "bbox": [
+            19.484902611002326,
+            43.55857886373997,
+            19.538334058597684,
+            43.570933202281594
+        ],
+        "center": [
+            19.511618,
+            43.564756
+        ],
+        "start_point": [
+            19.538334058597684,
+            43.56188300997019
+        ],
+        "end_point": [
+            19.484910322353244,
+            43.57054051011801
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    19.53833,
+                    43.56188
+                ],
+                [
+                    19.53095,
+                    43.56218
+                ],
+                [
+                    19.51974,
+                    43.55858
+                ],
+                [
+                    19.50307,
+                    43.56467
+                ],
+                [
+                    19.49778,
+                    43.56151
+                ],
+                [
+                    19.49612,
+                    43.56544
+                ],
+                [
+                    19.48781,
+                    43.56639
+                ],
+                [
+                    19.48656,
+                    43.57014
+                ],
+                [
+                    19.48911,
+                    43.56929
+                ],
+                [
+                    19.48491,
+                    43.57054
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/veliki-bic/",
+        "canonical_url": "https://pss.rs/terenipp/veliki-bic/",
+        "pss_id": 11936,
+        "updated_at": "2020-11-26T15:54:31Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:01:04Z",
+        "last_synced_at": "2026-11-08T12:01:04Z"
+    },
+    "search": "veliki bic 5-6-1 jugozapadna srbija bic novi deo grada priboja - srednja skola gimnazija, 380 m bic - vrh golet, 1386 m - i nazad istim putem ljeskovac zkp • zadruga milijes • vidikovci: vrh golet • naselja: citluk i crnuzi • na trasi ima 2 izvora pitke vode • na trasi postoji smestaj na pocetku staze u hotelu lim, kao i privatni smestaj u novom delu grada naselje. u pribojskoj banji koja je van trase (udaljena 5 km) postoji privatni smestajni kapacitet. zahtevna staza krece iz centra novog dela grada, ispred srednje skole gimnazije. krece se jugozapadno ka naselju citluk. zatim do mesta zvanog bracica odakle staza u smeru zapada vodi ka groblju u naselju crnuzi. odatle se asfaltnim putem ide oko kilometar do oznake za skretanje ka velikom bicu. put dalje vodi u pravcu severa ka velikom bicu i vrhu golet. povratak je istom stazom.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:01:04Z"
+    }
+}

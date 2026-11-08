@@ -1,0 +1,873 @@
+{
+    "schema_version": 1,
+    "slug": "e4-5",
+    "name": "Beograd (Krnjača) - Osipaonica",
+    "code": "E4-5",
+    "category": {
+        "key": "evropski-pesacki-putevi-u-srbiji",
+        "label": "Evropski pešački putevi u Srbiji"
+    },
+    "pss": {
+        "post_id": 3636,
+        "category_id": 29,
+        "region_ids": [
+            2
+        ],
+        "mountain_ids": [
+            47
+        ]
+    },
+    "region": "Šumadija",
+    "mountain": "Avala",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "lak"
+    },
+    "distance": {
+        "official_km": 145.1,
+        "calculated_km": 146.05
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": 2085.0,
+        "official_loss_m": 2117.0,
+        "calculated_gain_m": 0.0,
+        "calculated_loss_m": 0.0,
+        "min_m": 0.0,
+        "max_m": 0.0
+    },
+    "start": null,
+    "end": null,
+    "description": "• Kroz Beograd put E4 prirodno počinje sa jednog od lepih predela\nEvrope, pogleda na ušće reka Save i Dunava sa tvrđave Kalemegdan koja\npamti milenijumsku istoriju Beograda, glavnog grada Srbije.\n\n • Na samom ušću nalazi se jedinstveno rečno ostrvo nazvano Ratnim\nostrvom zbog istorijske granice turske i austrijske carevine i\nstalnih napada na Beograd.\n\n • Sada je Ratno ostrvo zaštićeno prirodno dobro zbog svoje geološke,\nbiološke i hidrološke raznovrsnosti.\n\n • Na grebenu iznad ušća reke Save u Dunav a zbog izuzetnog strateškog\nznačaja, krajem prvog veka naše ere podignuto je utvrđenje - rimski\nkastrum, kao stalni vojni logor IV Flavijeve legije. Posle rušenja od\nstrane Gota i Huna, utvrđenje je obnovljeno u prvim decenijama VI veka\nda bi se obnavljanja i građenja nastavila sve do XVIII veka. U XII veku\nga obnavlja vizantijski car Manojlo Komnin. Iznad rimskih zidina su srpski bedemi (iz XIV-XV veka) a preko njih turske i austrijske\nfortifikacije. Turci ga dodatno utvrđuju u vreme njihove dominacije.\nPod austrijskom okupacijom, 1717-39. godine, Beogradska tvrđava je\npredstavljala jedno od najjačih vojnih uporišta u Evropi. Građena je\nprema projektima generala Nikole Doksata Demoreza, Švajcarca u\naustrijskoj službi nepravedno optuženog i streljanog 1738. godine\nupravo pred bedemima Tvrđave. Do kraja XVIII veka Beogradska tvrđava je dobila konačni oblik da bi u ratnim razaranjima tokom proteklih decenija bili porušeni gotovo svi objekti u Gornjem i Donjem gradu, a bedemi znatno oštećeni.\n\n • Arheolozi i konzervatori se danas trude da ispitaju, sačuvaju i\nrestauriraju sve što je vezano za bogatu i burnu istoriju Beogradske\ntvrđave i grada Beograda.\n\n • Prelaskom Dunava put je napustio istočni deo Panonske ravnice i\nušao u pribrežje njegove desne obale. Kroz gradske ulice, parkove i\nšume stiže se do planine Avale visine 506m. To je poznato izletište\ni zaštićeni predeo. Avala pamti istoriju ranog rudarstva, sudare\nrimskih a zatim turskih i austrijskih legija. Odavde put silazi\nponovo na Dunav u poznato neolitsko nalazište Vinča, a zatim visokim\nobalama Dunava kroz voćnjake i vinograde, po bogatstvu poznate još iz\nrimskih vremena, preko sela Ritopek, još jednog rimskog utvrđenja na\nlimesu Dunava i stiže do Grocke i Smedereva.\n\n • U nizu tvrđava na Dunavu, smederevska tvrđava iz vremena srpske\ndespotovine spada među najveće očuvane. Smederevo je grad bogate\ntradicije vinarstva i voćarstva. Iz Smedereva put E4 silazi u dolinu\nreke Velike Morave zaobilazeći savremeno nasleđe industrijske zone\ndo mesta Osipaonica.",
+    "landmarks": "Beograd, tvrđava Kalemegdan, Veliko ratno ostrvo, Avala, Vinča, Smederevo, Šalinački lug,",
+    "maintenance": null,
+    "marking": "evropska crveno-žuta",
+    "accommodation": "Beograd, Avala, Grocka, Smederevo",
+    "notes": "• E4-5-1 Beograd (Krnjača) – Avala 31,4 km\n\n • E4-5-2 Avala – Vinča 17,8 km\n\n • E4-5-3 Vinča – Grocka 18,3 km\n\n • E4-5-4 Grocka – Udovice 19,3 km\n\n • E4-5-5 Udovice – Smederevo 9,8 km\n\n • E4-5-6 Smederevo – Radinac 22,8 km\n\n • E4-5-7 Radinac – Osipaonica 25,7 km",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Avala PD",
+        "url": "https://pss.rs/adresar_klubova/psk-avala/",
+        "contact": "Murska 14, 11000 Beograd\n+38111 386 00 64 ; +38160 04 28 252, \nhttp://www.avala.club/",
+        "clubs": [
+            {
+                "name": "Avala PD",
+                "url": "https://pss.rs/adresar_klubova/psk-avala/",
+                "contact": "Murska 14, 11000 Beograd\n+38111 386 00 64 ; +38160 04 28 252, \nhttp://www.avala.club/"
+            },
+            {
+                "name": "Extreme summit team PK",
+                "url": "https://pss.rs/adresar_klubova/extreme-summit-team-pk/",
+                "contact": "Ljubinke Bobić 6/10, 11050 Beograd\n+38163 31 92 25\nhttps://extremesummitteam.com/"
+            },
+            {
+                "name": "Kopaonik PSD",
+                "url": "https://pss.rs/adresar_klubova/kopaonik-psk/",
+                "contact": "Zmaj od Noćaja 9/IV, 11000 Beograd\n 064 1552 607\nhttp://www.psd-kopaonik.org.rs"
+            },
+            {
+                "name": "Pobeda PSK",
+                "url": "https://pss.rs/adresar_klubova/pobeda-pk/",
+                "contact": "Mačvanska 8, 11000 Beograd\n+38163 329 434 ; +38163 32 94 50\nhttps://www.pskpobeda.rs"
+            },
+            {
+                "name": "PTT POSK",
+                "url": "https://pss.rs/adresar_klubova/ptt-pd/",
+                "contact": "Kosovska 49, 11000 Beograd\n064 6653 609, 064 651 2972, 064 651 36 29\nhttp://www.pdptt.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/E4-5-Beograd-Osipaonica.gpx",
+        "fetched_at": "2026-11-08T12:50:15Z",
+        "checked_at": "2026-11-08T12:50:15Z",
+        "bytes": 357342,
+        "sha256": "af20d9678c319af56db26b6b99d60da5060c4822e4d4484073cc8bb03e187f5b",
+        "etag": null,
+        "last_modified": "Thu, 05 Dec 2024 23:01:26 GMT",
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": 4949,
+        "tracks": 7,
+        "segments": 7,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/E4-5-Beograd-Osipaonica.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/e4-5.geojson",
+        "bbox": [
+            20.447446988,
+            44.523327544,
+            21.058694278,
+            44.83918307
+        ],
+        "center": [
+            20.753071,
+            44.681255
+        ],
+        "start_point": [
+            20.491908871,
+            44.83918307
+        ],
+        "end_point": [
+            21.058694278,
+            44.549544425
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    20.49191,
+                    44.83918
+                ],
+                [
+                    20.48909,
+                    44.81816
+                ],
+                [
+                    20.47207,
+                    44.81708
+                ],
+                [
+                    20.46775,
+                    44.82025
+                ],
+                [
+                    20.46063,
+                    44.8166
+                ],
+                [
+                    20.45414,
+                    44.82479
+                ],
+                [
+                    20.44748,
+                    44.82397
+                ],
+                [
+                    20.45972,
+                    44.81534
+                ],
+                [
+                    20.46624,
+                    44.80311
+                ],
+                [
+                    20.46508,
+                    44.79522
+                ],
+                [
+                    20.45633,
+                    44.78831
+                ],
+                [
+                    20.45827,
+                    44.77858
+                ],
+                [
+                    20.4537,
+                    44.77048
+                ],
+                [
+                    20.45704,
+                    44.76477
+                ],
+                [
+                    20.45675,
+                    44.75568
+                ],
+                [
+                    20.46282,
+                    44.7503
+                ],
+                [
+                    20.46244,
+                    44.7446
+                ],
+                [
+                    20.46854,
+                    44.73608
+                ],
+                [
+                    20.4768,
+                    44.73613
+                ],
+                [
+                    20.48174,
+                    44.73151
+                ],
+                [
+                    20.49495,
+                    44.72953
+                ],
+                [
+                    20.50624,
+                    44.73885
+                ],
+                [
+                    20.51466,
+                    44.73818
+                ],
+                [
+                    20.51246,
+                    44.73265
+                ],
+                [
+                    20.51415,
+                    44.72814
+                ],
+                [
+                    20.51924,
+                    44.72603
+                ],
+                [
+                    20.51499,
+                    44.71729
+                ],
+                [
+                    20.51992,
+                    44.70611
+                ],
+                [
+                    20.51629,
+                    44.69983
+                ],
+                [
+                    20.50885,
+                    44.70088
+                ],
+                [
+                    20.50443,
+                    44.69711
+                ],
+                [
+                    20.50906,
+                    44.69869
+                ],
+                [
+                    20.51596,
+                    44.68903
+                ]
+            ],
+            [
+                [
+                    20.51596,
+                    44.68902
+                ],
+                [
+                    20.51914,
+                    44.68849
+                ],
+                [
+                    20.52098,
+                    44.6906
+                ],
+                [
+                    20.51662,
+                    44.69155
+                ],
+                [
+                    20.51634,
+                    44.69444
+                ],
+                [
+                    20.51881,
+                    44.6922
+                ],
+                [
+                    20.52474,
+                    44.69763
+                ],
+                [
+                    20.5295,
+                    44.69522
+                ],
+                [
+                    20.53954,
+                    44.69652
+                ],
+                [
+                    20.54484,
+                    44.70322
+                ],
+                [
+                    20.55353,
+                    44.70916
+                ],
+                [
+                    20.56697,
+                    44.70925
+                ],
+                [
+                    20.56938,
+                    44.71575
+                ],
+                [
+                    20.57791,
+                    44.71866
+                ],
+                [
+                    20.57883,
+                    44.72438
+                ],
+                [
+                    20.58119,
+                    44.72213
+                ],
+                [
+                    20.58362,
+                    44.72434
+                ],
+                [
+                    20.59032,
+                    44.72295
+                ],
+                [
+                    20.60212,
+                    44.72641
+                ],
+                [
+                    20.60445,
+                    44.73353
+                ],
+                [
+                    20.61,
+                    44.73606
+                ],
+                [
+                    20.60346,
+                    44.74404
+                ],
+                [
+                    20.60563,
+                    44.74625
+                ],
+                [
+                    20.60424,
+                    44.74843
+                ],
+                [
+                    20.60773,
+                    44.75098
+                ],
+                [
+                    20.60482,
+                    44.75394
+                ],
+                [
+                    20.61811,
+                    44.7618
+                ],
+                [
+                    20.62168,
+                    44.76264
+                ],
+                [
+                    20.62314,
+                    44.76003
+                ]
+            ],
+            [
+                [
+                    20.62314,
+                    44.76003
+                ],
+                [
+                    20.6143,
+                    44.75674
+                ],
+                [
+                    20.61237,
+                    44.75346
+                ],
+                [
+                    20.62314,
+                    44.74849
+                ],
+                [
+                    20.6262,
+                    44.74095
+                ],
+                [
+                    20.63318,
+                    44.73881
+                ],
+                [
+                    20.63614,
+                    44.73405
+                ],
+                [
+                    20.64048,
+                    44.73334
+                ],
+                [
+                    20.65918,
+                    44.72255
+                ],
+                [
+                    20.66517,
+                    44.71329
+                ],
+                [
+                    20.66317,
+                    44.70648
+                ],
+                [
+                    20.66715,
+                    44.69924
+                ],
+                [
+                    20.67472,
+                    44.7016
+                ],
+                [
+                    20.68336,
+                    44.69249
+                ],
+                [
+                    20.69337,
+                    44.69786
+                ],
+                [
+                    20.69896,
+                    44.69271
+                ],
+                [
+                    20.70353,
+                    44.69297
+                ],
+                [
+                    20.70158,
+                    44.6896
+                ],
+                [
+                    20.70893,
+                    44.68901
+                ],
+                [
+                    20.71413,
+                    44.68016
+                ],
+                [
+                    20.71778,
+                    44.67982
+                ],
+                [
+                    20.72128,
+                    44.67534
+                ],
+                [
+                    20.71718,
+                    44.67071
+                ]
+            ],
+            [
+                [
+                    20.71719,
+                    44.67071
+                ],
+                [
+                    20.72685,
+                    44.65946
+                ],
+                [
+                    20.72912,
+                    44.66072
+                ],
+                [
+                    20.73402,
+                    44.65861
+                ],
+                [
+                    20.74096,
+                    44.66026
+                ],
+                [
+                    20.75743,
+                    44.65913
+                ],
+                [
+                    20.75669,
+                    44.64904
+                ],
+                [
+                    20.76102,
+                    44.64534
+                ],
+                [
+                    20.76635,
+                    44.64542
+                ],
+                [
+                    20.76811,
+                    44.64047
+                ],
+                [
+                    20.77265,
+                    44.63907
+                ],
+                [
+                    20.75905,
+                    44.62799
+                ],
+                [
+                    20.76621,
+                    44.62362
+                ],
+                [
+                    20.77643,
+                    44.62118
+                ],
+                [
+                    20.7843,
+                    44.61275
+                ],
+                [
+                    20.79492,
+                    44.61176
+                ],
+                [
+                    20.81405,
+                    44.61961
+                ],
+                [
+                    20.82911,
+                    44.6204
+                ],
+                [
+                    20.84026,
+                    44.62417
+                ],
+                [
+                    20.84912,
+                    44.62252
+                ],
+                [
+                    20.8502,
+                    44.62671
+                ],
+                [
+                    20.86307,
+                    44.62976
+                ]
+            ],
+            [
+                [
+                    20.86309,
+                    44.62976
+                ],
+                [
+                    20.88501,
+                    44.64319
+                ],
+                [
+                    20.8897,
+                    44.65058
+                ],
+                [
+                    20.8861,
+                    44.65491
+                ],
+                [
+                    20.88814,
+                    44.65682
+                ],
+                [
+                    20.89313,
+                    44.65888
+                ],
+                [
+                    20.89791,
+                    44.65725
+                ],
+                [
+                    20.91125,
+                    44.66466
+                ],
+                [
+                    20.92179,
+                    44.66662
+                ],
+                [
+                    20.92727,
+                    44.66548
+                ],
+                [
+                    20.92922,
+                    44.6715
+                ],
+                [
+                    20.92861,
+                    44.66387
+                ]
+            ],
+            [
+                [
+                    20.92859,
+                    44.66387
+                ],
+                [
+                    20.93919,
+                    44.66991
+                ],
+                [
+                    20.94302,
+                    44.66805
+                ],
+                [
+                    20.94454,
+                    44.66976
+                ],
+                [
+                    20.96776,
+                    44.67214
+                ],
+                [
+                    20.98979,
+                    44.68416
+                ],
+                [
+                    21.00682,
+                    44.68818
+                ],
+                [
+                    21.01206,
+                    44.69491
+                ],
+                [
+                    21.02267,
+                    44.6974
+                ],
+                [
+                    21.02689,
+                    44.70088
+                ],
+                [
+                    21.02952,
+                    44.69951
+                ],
+                [
+                    21.04109,
+                    44.68425
+                ],
+                [
+                    21.0281,
+                    44.66816
+                ],
+                [
+                    21.0267,
+                    44.66113
+                ],
+                [
+                    21.01607,
+                    44.65535
+                ],
+                [
+                    21.01762,
+                    44.64817
+                ],
+                [
+                    21.01334,
+                    44.64401
+                ],
+                [
+                    21.0045,
+                    44.64524
+                ],
+                [
+                    20.99655,
+                    44.64163
+                ],
+                [
+                    20.99245,
+                    44.62994
+                ],
+                [
+                    20.98825,
+                    44.62572
+                ],
+                [
+                    20.96511,
+                    44.62551
+                ]
+            ],
+            [
+                [
+                    20.96513,
+                    44.6255
+                ],
+                [
+                    20.94926,
+                    44.62219
+                ],
+                [
+                    20.94734,
+                    44.61915
+                ],
+                [
+                    20.94428,
+                    44.6206
+                ],
+                [
+                    20.92904,
+                    44.61206
+                ],
+                [
+                    20.93237,
+                    44.61137
+                ],
+                [
+                    20.9348,
+                    44.60021
+                ],
+                [
+                    20.93007,
+                    44.59838
+                ],
+                [
+                    20.9294,
+                    44.59154
+                ],
+                [
+                    20.93207,
+                    44.5904
+                ],
+                [
+                    20.94393,
+                    44.59278
+                ],
+                [
+                    20.94491,
+                    44.58939
+                ],
+                [
+                    20.948,
+                    44.58858
+                ],
+                [
+                    20.94769,
+                    44.58222
+                ],
+                [
+                    20.95133,
+                    44.57568
+                ],
+                [
+                    20.96648,
+                    44.56945
+                ],
+                [
+                    20.97,
+                    44.56306
+                ],
+                [
+                    20.9671,
+                    44.56045
+                ],
+                [
+                    20.97608,
+                    44.55702
+                ],
+                [
+                    20.97287,
+                    44.55286
+                ],
+                [
+                    20.97526,
+                    44.55014
+                ],
+                [
+                    20.97222,
+                    44.54548
+                ],
+                [
+                    20.97346,
+                    44.54189
+                ],
+                [
+                    20.97775,
+                    44.53778
+                ],
+                [
+                    20.98817,
+                    44.53441
+                ],
+                [
+                    20.99152,
+                    44.53122
+                ],
+                [
+                    20.98932,
+                    44.52825
+                ],
+                [
+                    20.99858,
+                    44.52333
+                ],
+                [
+                    21.00072,
+                    44.52699
+                ],
+                [
+                    21.02034,
+                    44.5401
+                ],
+                [
+                    21.04207,
+                    44.55189
+                ],
+                [
+                    21.04523,
+                    44.54832
+                ],
+                [
+                    21.05341,
+                    44.55196
+                ],
+                [
+                    21.05869,
+                    44.54954
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": [
+            "missing_elevation"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/e4-5/",
+        "canonical_url": "https://pss.rs/terenipp/e4-5/",
+        "pss_id": 3636,
+        "updated_at": "2024-12-05T23:01:38Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:50:15Z",
+        "last_synced_at": "2026-11-08T12:50:15Z"
+    },
+    "search": "beograd (krnjaca) - osipaonica e4-5 sumadija avala avala pd beograd, tvrdjava kalemegdan, veliko ratno ostrvo, avala, vinca, smederevo, salinacki lug, laka • kroz beograd put e4 prirodno pocinje sa jednog od lepih predela evrope, pogleda na usce reka save i dunava sa tvrdjave kalemegdan koja pamti milenijumsku istoriju beograda, glavnog grada srbije. • na samom uscu nalazi se jedinstveno recno ostrvo nazvano ratnim ostrvom zbog istorijske granice turske i austrijske carevine i stalnih napada na beograd. • sada je ratno ostrvo zasticeno prirodno dobro zbog svoje geoloske, bioloske i hidroloske raznovrsnosti. • na grebenu iznad usca reke save u dunav a zbog izuzetnog strateskog znacaja, krajem prvog veka nase ere podignuto je utvrdjenje - rimski kastrum, kao stalni vojni logor iv flavijeve legije. posle rusenja od strane gota i huna, utvrdjenje je obnovljeno u prvim decenijama vi veka da bi se obnavljanja i gradjenja nastavila sve do xviii veka. u xii veku ga obnavlja vizantijski car manojlo komnin. iznad rimskih zidina su srpski bedemi (iz xiv-xv veka) a preko njih turske i austrijske fortifikacije. turci ga dodatno utvrdjuju u vreme njihove dominacije. pod austrijskom okupacijom, 1717-39. godine, beogradska tvrdjava je predstavljala jedno od najjacih vojnih uporista u evropi. gradjena je prema projektima generala nikole doksata demoreza, svajcarca u austrijskoj sluzbi nepravedno optuzenog i streljanog 1738. godine upravo pred bedemima tvrdjave. do kraja xviii veka beogradska tvrdjava je dobila konacni oblik da bi u ratnim razaranjima tokom proteklih decenija bili poruseni gotovo svi objekti u gornjem i donjem gradu, a bedemi znatno osteceni. • arheolozi i konzervatori se danas trude da ispitaju, sacuvaju i restauriraju sve sto je vezano za bogatu i burnu istoriju beogradske tvrdjave i grada beograda. • prelaskom dunava put je napustio istocni deo panonske ravnice i usao u pribrezje njegove desne obale. kroz gradske ulice, ",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:50:15Z"
+    }
+}

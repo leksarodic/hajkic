@@ -1,0 +1,187 @@
+{
+    "schema_version": 1,
+    "slug": "tri-cesme-grabovci-kam-crni-vrh-gucevo",
+    "name": "Tri česme - Grabovci - Kam - Crni vrh (Gučevo)",
+    "code": "3-3-2",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 7907,
+        "category_id": 28,
+        "region_ids": [
+            3
+        ],
+        "mountain_ids": [
+            89
+        ]
+    },
+    "region": "Zapadna Srbija",
+    "mountain": "Gučevo",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 5.6,
+        "calculated_km": 5.64
+    },
+    "duration": {
+        "official_minutes": 140,
+        "official_text": "2 h 20 min",
+        "official_raw": "2:20"
+    },
+    "elevation": {
+        "official_gain_m": 688.0,
+        "official_loss_m": 54.0,
+        "calculated_gain_m": 671.4,
+        "calculated_loss_m": 47.5,
+        "min_m": 152.6,
+        "max_m": 777.5
+    },
+    "start": "Banja Koviljača, \"Tri česme\", 156m",
+    "end": "Crni vrh, vrh Gučeva, 779m",
+    "description": "Iza izvora \"Tri česme\" krenuti cik-cak trim stazom naviše. Doći do bolnice-Sanatorijum starog zdanja, izaći na kapiju, preći 50-tak metara asfalta i naviše pored napuštenih kuća preći na brdo Miškovac i proći pored igrališta dečijeg odmarališta. Potom kroz gustu kestenovu šumu otpočeti uspon preko grebena Grabovci. Nakon koga sledi nešto strmija staza završnog zapadnog grebena Gučeva zvanog Kam (izbor skretanja ka jednoj od više stena - vidikovaca). Nastaviti uspon preko Kamenite bukve sa mogućnošću izbora kretanja ka samom vrhu Gučeva, asfaltom (zimi) ili kroz šumu (leti).",
+    "landmarks": "• Banja Koviljača\n\n • Spomen kosturnica iz Prvog svetskog rata\n\n • Vidikovaca: 3\n\n • Izvora pitke vode: 4\n\n • Na trasi ima kamp, odmaralište i privatni smeštaj\n\n • Van trase ima planinarski objekat",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu je trasirao Branko Mitrić, marta 2018.\n\n • Staza je poslednji put markirana marta 2018.\n\nSTAZA JE PRIVREMENO VAN UPOTREBE ZBOG EVENTUALNOG DISLOCIRANJA DELA STAZE.",
+    "map_reference": null,
+    "map_sheet": "Planinarsko-turistička info karta, razmera 1:15000, formata A3",
+    "club": {
+        "name": "Gučevo PK",
+        "url": "https://pss.rs/adresar_klubova/gucevo-pk/",
+        "contact": "Gimnazijska bb, 15300 Loznica\n+38164 1882423 ; +38169 1011687",
+        "clubs": [
+            {
+                "name": "Gučevo PK",
+                "url": "https://pss.rs/adresar_klubova/gucevo-pk/",
+                "contact": "Gimnazijska bb, 15300 Loznica\n+38164 1882423 ; +38169 1011687"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 16,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2018/12/3-3-2-Staza-2.gpx",
+        "fetched_at": "2026-11-08T11:59:30Z",
+        "checked_at": "2026-11-08T11:59:30Z",
+        "bytes": 60946,
+        "sha256": "3f7a729f5945720f8fe32deff563f8ca37c3b5d1126bd7d18cb789e3e314aaf8",
+        "etag": null,
+        "last_modified": "Mon, 17 Dec 2018 18:28:32 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 486,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 5,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2018/12/3-3-2-Staza-2.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/tri-cesme-grabovci-kam-crni-vrh-gucevo.geojson",
+        "bbox": [
+            19.154767943546176,
+            44.48678989894688,
+            19.17737745679915,
+            44.51111854054034
+        ],
+        "center": [
+            19.166073,
+            44.498954
+        ],
+        "start_point": [
+            19.156389590352774,
+            44.51111854054034
+        ],
+        "end_point": [
+            19.17737745679915,
+            44.488579016178846
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    19.15639,
+                    44.51112
+                ],
+                [
+                    19.15826,
+                    44.51021
+                ],
+                [
+                    19.1551,
+                    44.50832
+                ],
+                [
+                    19.15588,
+                    44.50124
+                ],
+                [
+                    19.15872,
+                    44.49724
+                ],
+                [
+                    19.16198,
+                    44.4977
+                ],
+                [
+                    19.16331,
+                    44.49457
+                ],
+                [
+                    19.16078,
+                    44.49025
+                ],
+                [
+                    19.16444,
+                    44.4871
+                ],
+                [
+                    19.17386,
+                    44.48725
+                ],
+                [
+                    19.17517,
+                    44.48997
+                ],
+                [
+                    19.17738,
+                    44.48858
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/tri-cesme-grabovci-kam-crni-vrh-gucevo/",
+        "canonical_url": "https://pss.rs/terenipp/tri-cesme-grabovci-kam-crni-vrh-gucevo/",
+        "pss_id": 7907,
+        "updated_at": "2024-07-01T14:54:34Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:59:31Z",
+        "last_synced_at": "2026-11-08T11:59:31Z"
+    },
+    "search": "tri cesme - grabovci - kam - crni vrh (gucevo) 3-3-2 zapadna srbija gucevo banja koviljaca, \"tri cesme\", 156m crni vrh, vrh guceva, 779m gucevo pk • banja koviljaca • spomen kosturnica iz prvog svetskog rata • vidikovaca: 3 • izvora pitke vode: 4 • na trasi ima kamp, odmaraliste i privatni smestaj • van trase ima planinarski objekat zahtevna iza izvora \"tri cesme\" krenuti cik-cak trim stazom navise. doci do bolnice-sanatorijum starog zdanja, izaci na kapiju, preci 50-tak metara asfalta i navise pored napustenih kuca preci na brdo miskovac i proci pored igralista decijeg odmaralista. potom kroz gustu kestenovu sumu otpoceti uspon preko grebena grabovci. nakon koga sledi nesto strmija staza zavrsnog zapadnog grebena guceva zvanog kam (izbor skretanja ka jednoj od vise stena - vidikovaca). nastaviti uspon preko kamenite bukve sa mogucnoscu izbora kretanja ka samom vrhu guceva, asfaltom (zimi) ili kroz sumu (leti).",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:59:31Z"
+    }
+}

@@ -1,0 +1,163 @@
+{
+    "schema_version": 1,
+    "slug": "milusinac-krstatac-2",
+    "name": "Milušinac - Krstatac",
+    "code": "4-45-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 8312,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            70
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Krstatac",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 6.0,
+        "calculated_km": 5.34
+    },
+    "duration": {
+        "official_minutes": 180,
+        "official_text": "3 h",
+        "official_raw": "3:00"
+    },
+    "elevation": {
+        "official_gain_m": 620.0,
+        "official_loss_m": 0.0,
+        "calculated_gain_m": 608.8,
+        "calculated_loss_m": 1.7,
+        "min_m": 443.4,
+        "max_m": 1060.6
+    },
+    "start": "Milušinac, centar sela, 450m",
+    "end": "Šiljak, vrh, 1070m",
+    "description": "Krstatac (jugozapadna strana i vrh)",
+    "landmarks": "• Vidikovac: vrh Šiljak\n\n • Na stazi nema izvora pitke vode\n\n • Na trasi nema smeštaja",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu je trasiralo PD \"Oštra Čuka\" jula 2012. godine.\n\n • Poslednji put staza je markirana oktobra 2013. godine.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Oštra čuka PD",
+        "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+        "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/",
+        "clubs": [
+            {
+                "name": "Oštra čuka PD",
+                "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+                "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2019/02/4-45-1-Milusinac-Krstatac.gpx",
+        "fetched_at": "2026-11-08T12:00:04Z",
+        "checked_at": "2026-11-08T12:00:04Z",
+        "bytes": 15687,
+        "sha256": "69e20d1b34323a49565cf02d6fecac19082c388ddfa875dc271ce1070e5e1f77",
+        "etag": null,
+        "last_modified": "Tue, 12 Feb 2019 15:09:30 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 111,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 4,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2019/02/4-45-1-Milusinac-Krstatac.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/milusinac-krstatac-2.geojson",
+        "bbox": [
+            22.010765075683594,
+            43.66211414337158,
+            22.05333709716797,
+            43.67018222808838
+        ],
+        "center": [
+            22.032051,
+            43.666148
+        ],
+        "start_point": [
+            22.010765075683594,
+            43.67018222808838
+        ],
+        "end_point": [
+            22.05333709716797,
+            43.66211414337158
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    22.01077,
+                    43.67018
+                ],
+                [
+                    22.03437,
+                    43.66289
+                ],
+                [
+                    22.03767,
+                    43.66984
+                ],
+                [
+                    22.04561,
+                    43.66902
+                ],
+                [
+                    22.05162,
+                    43.66653
+                ],
+                [
+                    22.05334,
+                    43.66211
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/milusinac-krstatac-2/",
+        "canonical_url": "https://pss.rs/terenipp/milusinac-krstatac-2/",
+        "pss_id": 8312,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:00:04Z",
+        "last_synced_at": "2026-11-08T12:00:04Z"
+    },
+    "search": "milusinac - krstatac 4-45-1 istocna srbija krstatac milusinac, centar sela, 450m siljak, vrh, 1070m ostra cuka pd • vidikovac: vrh siljak • na stazi nema izvora pitke vode • na trasi nema smestaja zahtevna krstatac (jugozapadna strana i vrh)",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:00:04Z"
+    }
+}

@@ -1,0 +1,199 @@
+{
+    "schema_version": 1,
+    "slug": "grebenom-rtnja",
+    "name": "Grebenom Rtnja",
+    "code": "4-27-9",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 15062,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            71
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Rtanj",
+    "difficulty": {
+        "key": "srednje_teska",
+        "label": "Srednje teška",
+        "source": "srednje teška"
+    },
+    "distance": {
+        "official_km": 13.3,
+        "calculated_km": 13.2
+    },
+    "duration": {
+        "official_minutes": 420,
+        "official_text": "7 h",
+        "official_raw": "7:00"
+    },
+    "elevation": {
+        "official_gain_m": 869.0,
+        "official_loss_m": 869.0,
+        "calculated_gain_m": 768.4,
+        "calculated_loss_m": 767.1,
+        "min_m": 829.3,
+        "max_m": 1541.6
+    },
+    "start": "Tomićeva koliba, u podnožju Rtnja, 834 m",
+    "end": "Tomićeva koliba, u podnožju Rtnja, 834 m",
+    "description": "Staza je kružna i polazi od etno Tomićeve kolibe, udaljene 6,5 km nasutim putem od sela Mužinca. Ide kolskim putem i posle 0,3 km skreće u levo i nakon 0,4 km ulazi u šumoviti deo. Prati šumske staze i izlazi na livadu sa pojatom, gde skreće u desno i uzbrdo. Vrlo brzo sa tog puta skreće u levo i uzbrdo šumskim putem. Zatim skreće u desno i izlazi u predeo sa niskim rastinjem i ide po obodu vrtače. Zalama u levo i ide do zapadnog dela Rtnja i vidikovca. Odatle ide strmo na desno do prve grupe stena, zatim druge grupe stena i izlazi na Kusak (1309 m), zapadni vrh Rtnja. Staza, zatim nastavlja grebenom talasajući nekoliko puta, i prolazi preko kote 1410, vrha Preslo (1405 m) i stiže do prevoja. Zatim ide grebenom strmo do vrha Šiljak (1565 m). Povratak ide spuštajući se klasičnom stazom preko serpentina do kosine koja vodi istočno do ulaska u šumoviti deo. Tu staza skreće u desno i kolskim putevima se spušta do Tomićeve kolibe.",
+    "landmarks": "• Vrhovi Kusak (1309), Preslo (1405 m) i Šiljak (1565 m)\n\n • Ostaci kapele na vrhu\n\n • Vidikovci: vrhovi Kusak i Šiljak, greben Rtnja\n\n • Izvor pitke vode: nema",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu su trasirali Ilija Knežević i Dragan Knežević marta 2020.\n\n • Poslednji put staza je markirana 2021.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Ozren PK",
+        "url": "https://pss.rs/adresar_klubova/ozren-pk/",
+        "contact": "Alekse Markišića 28/3 18230 Sokobanja (poštanski fah 63)\n+38164 855 33 61",
+        "clubs": [
+            {
+                "name": "Ozren PK",
+                "url": "https://pss.rs/adresar_klubova/ozren-pk/",
+                "contact": "Alekse Markišića 28/3 18230 Sokobanja (poštanski fah 63)\n+38164 855 33 61"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2021/12/4-27-9-Grebenom-Rtnja.gpx",
+        "fetched_at": "2026-11-08T12:02:12Z",
+        "checked_at": "2026-11-08T12:02:12Z",
+        "bytes": 74141,
+        "sha256": "a57c29de75a47d6bc804b32f69307aa5ca8a2ccebaadcbf0c237cedea3e348e0",
+        "etag": null,
+        "last_modified": "Mon, 13 Dec 2021 13:23:25 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 442,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 8,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2021/12/4-27-9-Grebenom-Rtnja.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/grebenom-rtnja.geojson",
+        "bbox": [
+            21.852100007236004,
+            43.755413023754954,
+            21.90346699208021,
+            43.77697899006307
+        ],
+        "center": [
+            21.877783,
+            43.766196
+        ],
+        "start_point": [
+            21.88403899781406,
+            43.755413023754954
+        ],
+        "end_point": [
+            21.883811010047793,
+            43.75543096102774
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    21.88404,
+                    43.75541
+                ],
+                [
+                    21.87844,
+                    43.75887
+                ],
+                [
+                    21.86475,
+                    43.76092
+                ],
+                [
+                    21.8628,
+                    43.76689
+                ],
+                [
+                    21.8521,
+                    43.7686
+                ],
+                [
+                    21.85519,
+                    43.77132
+                ],
+                [
+                    21.87312,
+                    43.77667
+                ],
+                [
+                    21.89322,
+                    43.7761
+                ],
+                [
+                    21.88643,
+                    43.77384
+                ],
+                [
+                    21.89306,
+                    43.77007
+                ],
+                [
+                    21.90346,
+                    43.76815
+                ],
+                [
+                    21.89982,
+                    43.76349
+                ],
+                [
+                    21.89582,
+                    43.76364
+                ],
+                [
+                    21.89396,
+                    43.76037
+                ],
+                [
+                    21.88381,
+                    43.75543
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/grebenom-rtnja/",
+        "canonical_url": "https://pss.rs/terenipp/grebenom-rtnja/",
+        "pss_id": 15062,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:02:12Z",
+        "last_synced_at": "2026-11-08T12:02:12Z"
+    },
+    "search": "grebenom rtnja 4-27-9 istocna srbija rtanj tomiceva koliba, u podnozju rtnja, 834 m tomiceva koliba, u podnozju rtnja, 834 m ozren pk • vrhovi kusak (1309), preslo (1405 m) i siljak (1565 m) • ostaci kapele na vrhu • vidikovci: vrhovi kusak i siljak, greben rtnja • izvor pitke vode: nema srednje teska staza je kruzna i polazi od etno tomiceve kolibe, udaljene 6,5 km nasutim putem od sela muzinca. ide kolskim putem i posle 0,3 km skrece u levo i nakon 0,4 km ulazi u sumoviti deo. prati sumske staze i izlazi na livadu sa pojatom, gde skrece u desno i uzbrdo. vrlo brzo sa tog puta skrece u levo i uzbrdo sumskim putem. zatim skrece u desno i izlazi u predeo sa niskim rastinjem i ide po obodu vrtace. zalama u levo i ide do zapadnog dela rtnja i vidikovca. odatle ide strmo na desno do prve grupe stena, zatim druge grupe stena i izlazi na kusak (1309 m), zapadni vrh rtnja. staza, zatim nastavlja grebenom talasajuci nekoliko puta, i prolazi preko kote 1410, vrha preslo (1405 m) i stize do prevoja. zatim ide grebenom strmo do vrha siljak (1565 m). povratak ide spustajuci se klasicnom stazom preko serpentina do kosine koja vodi istocno do ulaska u sumoviti deo. tu staza skrece u desno i kolskim putevima se spusta do tomiceve kolibe.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:02:12Z"
+    }
+}

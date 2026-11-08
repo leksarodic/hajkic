@@ -1,0 +1,175 @@
+{
+    "schema_version": 1,
+    "slug": "sokobanja-kulin-vrh-ostra-cuka",
+    "name": "Sokobanja - Kulin vrh - Oštra Čuka",
+    "code": "4-31-5",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 3829,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            57
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Devica",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 8.0,
+        "calculated_km": 7.36
+    },
+    "duration": {
+        "official_minutes": 240,
+        "official_text": "4 h",
+        "official_raw": "4"
+    },
+    "elevation": {
+        "official_gain_m": 834.0,
+        "official_loss_m": 90.0,
+        "calculated_gain_m": 807.6,
+        "calculated_loss_m": 74.2,
+        "min_m": 308.3,
+        "max_m": 1043.9
+    },
+    "start": "Sokobanja centar, 300mnv",
+    "end": "Oštra Čuka, 1075mnv",
+    "description": "Spaja sledeće staze/puteve: \"Šopur Čuka - Jezero\" i \"Sokobanja - Kalinovica - Oštra Čuka\"",
+    "landmarks": "• Sokobanja\n\n • Vidikovci: Vidikovac, Golemi kamen, Oštra Čuka\n\n • Smeštaj van trase u Sokobanji",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu je trasiralo PD \"Oštra Čuka\", maja 2010. godine\n\n • Poslednji put staza je markirana septembra 2014. godine",
+    "map_reference": null,
+    "map_sheet": "1:50000 (Aleksinac C3)",
+    "club": {
+        "name": "Oštra čuka PD",
+        "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+        "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/",
+        "clubs": [
+            {
+                "name": "Oštra čuka PD",
+                "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+                "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/4-31-5-Sokobanja-Ostra-cuka.gpx",
+        "fetched_at": "2026-11-08T11:55:34Z",
+        "checked_at": "2026-11-08T11:55:34Z",
+        "bytes": 17022,
+        "sha256": "fcdf420592532fed7ec27e95490a91fc78e14e9d662edf4de859bcdfa6acd6d9",
+        "etag": null,
+        "last_modified": "Fri, 21 Dec 2018 11:16:24 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 131,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 2,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/4-31-5-Sokobanja-Ostra-cuka.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/sokobanja-kulin-vrh-ostra-cuka.geojson",
+        "bbox": [
+            21.87352180480957,
+            43.59623531810939,
+            21.899442672729492,
+            43.64396095275879
+        ],
+        "center": [
+            21.886482,
+            43.620098
+        ],
+        "start_point": [
+            21.87352180480957,
+            43.64396095275879
+        ],
+        "end_point": [
+            21.89748658798635,
+            43.59623531810939
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.87352,
+                    43.64396
+                ],
+                [
+                    21.88082,
+                    43.64109
+                ],
+                [
+                    21.88429,
+                    43.63358
+                ],
+                [
+                    21.88747,
+                    43.63233
+                ],
+                [
+                    21.8855,
+                    43.62319
+                ],
+                [
+                    21.89219,
+                    43.618
+                ],
+                [
+                    21.89352,
+                    43.60615
+                ],
+                [
+                    21.89944,
+                    43.59959
+                ],
+                [
+                    21.89749,
+                    43.59624
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/sokobanja-kulin-vrh-ostra-cuka/",
+        "canonical_url": "https://pss.rs/terenipp/sokobanja-kulin-vrh-ostra-cuka/",
+        "pss_id": 3829,
+        "updated_at": "2018-12-21T11:17:16Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:55:34Z",
+        "last_synced_at": "2026-11-08T11:55:34Z"
+    },
+    "search": "sokobanja - kulin vrh - ostra cuka 4-31-5 istocna srbija devica sokobanja centar, 300mnv ostra cuka, 1075mnv ostra cuka pd • sokobanja • vidikovci: vidikovac, golemi kamen, ostra cuka • smestaj van trase u sokobanji zahtevna spaja sledece staze/puteve: \"sopur cuka - jezero\" i \"sokobanja - kalinovica - ostra cuka\"",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:55:34Z"
+    }
+}

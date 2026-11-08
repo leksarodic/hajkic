@@ -1,0 +1,275 @@
+{
+    "schema_version": 1,
+    "slug": "velika-i-mala-propast-na-devici",
+    "name": "Velika i Mala Propast na Devici",
+    "code": "4-31-7",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 4576,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            57
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Devica",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 16.8,
+        "calculated_km": 16.75
+    },
+    "duration": {
+        "official_minutes": 420,
+        "official_text": "7 h",
+        "official_raw": "7:00"
+    },
+    "elevation": {
+        "official_gain_m": 851.0,
+        "official_loss_m": 851.0,
+        "calculated_gain_m": 771.9,
+        "calculated_loss_m": 770.2,
+        "min_m": 431.3,
+        "max_m": 1004.0
+    },
+    "start": "Stari Rudnik, 458m",
+    "end": "Stari Rudnik, 458m",
+    "description": "• Cilj staze: Velika i Mala Propast\n\n • Spaja sledeće staze/puteve: spaja se sa stazom \"Ždrelo\" i \"Kanjonom Izgarske reke (Dikulićeva staza)\"\n\n • Napomena: Neophodna je opreznost u blizini Male i Velike Propasti (nije obezbeđen prilaz)",
+    "landmarks": "• Vidikovac: Grozdinski kamen\n\n • Na trasi ima izvor pitke vode\n\n • Nema smeštaja\n\n • Naseljeno mesto: Stari Rudnik",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu je trasiralo PD \"Oštra Čuka\", juna 2017. godine\n\n • Poslednji put staza je markirana juna 2017. godine",
+    "map_reference": null,
+    "map_sheet": "533-3-3 Zaječar",
+    "club": {
+        "name": "Oštra čuka PD",
+        "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+        "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/",
+        "clubs": [
+            {
+                "name": "Oštra čuka PD",
+                "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+                "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 3,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/08/4-31-7-Velika-i-Mala-Propast-na-Devici.gpx",
+        "fetched_at": "2026-11-08T11:57:41Z",
+        "checked_at": "2026-11-08T11:57:41Z",
+        "bytes": 136381,
+        "sha256": "be39b3c0e7d6b327a1566241caba5226788bcd8a16633e21e669450505eae6eb",
+        "etag": null,
+        "last_modified": "Fri, 21 Dec 2018 11:51:28 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 812,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 11,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/08/4-31-7-Velika-i-Mala-Propast-na-Devici.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/velika-i-mala-propast-na-devici.geojson",
+        "bbox": [
+            21.9834266602993,
+            43.60395999625325,
+            22.02768168412149,
+            43.63182496279478
+        ],
+        "center": [
+            22.005554,
+            43.617892
+        ],
+        "start_point": [
+            22.019794983789325,
+            43.63159169442952
+        ],
+        "end_point": [
+            22.019938314333558,
+            43.63182496279478
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    22.01979,
+                    43.63159
+                ],
+                [
+                    22.02349,
+                    43.62992
+                ],
+                [
+                    22.02212,
+                    43.62827
+                ],
+                [
+                    22.02529,
+                    43.62706
+                ],
+                [
+                    22.02443,
+                    43.62459
+                ],
+                [
+                    22.02766,
+                    43.62243
+                ],
+                [
+                    22.02588,
+                    43.61826
+                ],
+                [
+                    22.02286,
+                    43.62117
+                ],
+                [
+                    22.01876,
+                    43.61537
+                ],
+                [
+                    22.01434,
+                    43.6153
+                ],
+                [
+                    22.01366,
+                    43.61274
+                ],
+                [
+                    22.00825,
+                    43.61364
+                ],
+                [
+                    22.00677,
+                    43.61125
+                ],
+                [
+                    22.00273,
+                    43.61262
+                ],
+                [
+                    22.00444,
+                    43.61593
+                ],
+                [
+                    22.00283,
+                    43.61678
+                ],
+                [
+                    21.99222,
+                    43.61614
+                ],
+                [
+                    21.98618,
+                    43.6117
+                ],
+                [
+                    21.98343,
+                    43.60399
+                ],
+                [
+                    21.98627,
+                    43.60855
+                ],
+                [
+                    21.99767,
+                    43.60668
+                ],
+                [
+                    22.00657,
+                    43.61051
+                ],
+                [
+                    22.00804,
+                    43.61352
+                ],
+                [
+                    22.01395,
+                    43.61288
+                ],
+                [
+                    22.01445,
+                    43.61538
+                ],
+                [
+                    22.01859,
+                    43.61538
+                ],
+                [
+                    22.02275,
+                    43.62164
+                ],
+                [
+                    22.02587,
+                    43.61837
+                ],
+                [
+                    22.02768,
+                    43.62246
+                ],
+                [
+                    22.02433,
+                    43.62469
+                ],
+                [
+                    22.02518,
+                    43.62709
+                ],
+                [
+                    22.02208,
+                    43.62813
+                ],
+                [
+                    22.02356,
+                    43.62991
+                ],
+                [
+                    22.01994,
+                    43.63182
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/velika-i-mala-propast-na-devici/",
+        "canonical_url": "https://pss.rs/terenipp/velika-i-mala-propast-na-devici/",
+        "pss_id": 4576,
+        "updated_at": "2018-12-21T11:52:43Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:57:42Z",
+        "last_synced_at": "2026-11-08T11:57:42Z"
+    },
+    "search": "velika i mala propast na devici 4-31-7 istocna srbija devica stari rudnik, 458m stari rudnik, 458m ostra cuka pd • vidikovac: grozdinski kamen • na trasi ima izvor pitke vode • nema smestaja • naseljeno mesto: stari rudnik zahtevna • cilj staze: velika i mala propast • spaja sledece staze/puteve: spaja se sa stazom \"zdrelo\" i \"kanjonom izgarske reke (dikuliceva staza)\" • napomena: neophodna je opreznost u blizini male i velike propasti (nije obezbedjen prilaz)",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:57:42Z"
+    }
+}

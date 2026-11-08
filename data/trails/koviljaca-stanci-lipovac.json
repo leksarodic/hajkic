@@ -1,0 +1,201 @@
+{
+    "schema_version": 1,
+    "slug": "koviljaca-stanci-lipovac",
+    "name": "Koviljača / Stanci - Lipovac",
+    "code": "4-33-5",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 3946,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            74
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Ozren",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 9.8,
+        "calculated_km": 10.0
+    },
+    "duration": {
+        "official_minutes": 240,
+        "official_text": "4 h",
+        "official_raw": "4:00"
+    },
+    "elevation": {
+        "official_gain_m": 403.0,
+        "official_loss_m": 145.0,
+        "calculated_gain_m": 531.8,
+        "calculated_loss_m": 405.5,
+        "min_m": 267.1,
+        "max_m": 705.4
+    },
+    "start": "selo Stanci - 255 mnv",
+    "end": "manastir Lipovac - 395 mnv",
+    "description": null,
+    "landmarks": "• Manastir Sv. Stevan (14.vek) u Lipovcu\n\n • Crkva Sv. Jovana\n\n • Vidikovac",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Brđanka PSK",
+        "url": "https://pss.rs/adresar_klubova/psd-brdanka/",
+        "contact": "Dušana Trivunca 54, 18220 Aleksinac\n060 680 29 75\nhttp://www.planinari-brdjanka.org",
+        "clubs": [
+            {
+                "name": "Brđanka PSK",
+                "url": "https://pss.rs/adresar_klubova/psd-brdanka/",
+                "contact": "Dušana Trivunca 54, 18220 Aleksinac\n060 680 29 75\nhttp://www.planinari-brdjanka.org"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/06/4-33-5-Stanci-Koviljaca-Manastir-Lipovac.gpx",
+        "fetched_at": "2026-11-08T11:56:21Z",
+        "checked_at": "2026-11-08T11:56:21Z",
+        "bytes": 175355,
+        "sha256": "35f7f622716bae86380456d4a165853eb9e591e92d44a808bb0b85b8c8b4e35d",
+        "etag": null,
+        "last_modified": "Wed, 19 Feb 2020 14:05:04 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 1069,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 4,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/06/4-33-5-Stanci-Koviljaca-Manastir-Lipovac.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/koviljaca-stanci-lipovac.geojson",
+        "bbox": [
+            21.800621962174773,
+            43.53318203240633,
+            21.835895022377372,
+            43.580138040706515
+        ],
+        "center": [
+            21.818258,
+            43.55666
+        ],
+        "start_point": [
+            21.80231099948287,
+            43.53318496607244
+        ],
+        "end_point": [
+            21.834379993379116,
+            43.560825968161225
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.80231,
+                    43.53318
+                ],
+                [
+                    21.80085,
+                    43.54427
+                ],
+                [
+                    21.8047,
+                    43.55293
+                ],
+                [
+                    21.81295,
+                    43.56034
+                ],
+                [
+                    21.81317,
+                    43.57051
+                ],
+                [
+                    21.81576,
+                    43.57062
+                ],
+                [
+                    21.81313,
+                    43.57084
+                ],
+                [
+                    21.81749,
+                    43.57274
+                ],
+                [
+                    21.82283,
+                    43.58014
+                ],
+                [
+                    21.82552,
+                    43.57844
+                ],
+                [
+                    21.82986,
+                    43.57886
+                ],
+                [
+                    21.83357,
+                    43.57505
+                ],
+                [
+                    21.83162,
+                    43.56827
+                ],
+                [
+                    21.8359,
+                    43.56685
+                ],
+                [
+                    21.83438,
+                    43.56083
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/koviljaca-stanci-lipovac/",
+        "canonical_url": "https://pss.rs/terenipp/koviljaca-stanci-lipovac/",
+        "pss_id": 3946,
+        "updated_at": "2020-02-19T14:07:09Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:56:22Z",
+        "last_synced_at": "2026-11-08T11:56:22Z"
+    },
+    "search": "koviljaca / stanci - lipovac 4-33-5 istocna srbija ozren selo stanci - 255 mnv manastir lipovac - 395 mnv brdjanka psk • manastir sv. stevan (14.vek) u lipovcu • crkva sv. jovana • vidikovac laka",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:56:22Z"
+    }
+}

@@ -1,0 +1,219 @@
+{
+    "schema_version": 1,
+    "slug": "tri-manastira-prva-etapa-ljubovija-soko-grad",
+    "name": "Tri manastira, Prva etapa: Ljubovija - Soko Grad",
+    "code": "3-7-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 9241,
+        "category_id": 28,
+        "region_ids": [
+            3
+        ],
+        "mountain_ids": [
+            129
+        ]
+    },
+    "region": "Zapadna Srbija",
+    "mountain": "Sokolska planina",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 16.5,
+        "calculated_km": 15.8
+    },
+    "duration": {
+        "official_minutes": 210,
+        "official_text": "3 h 30 min",
+        "official_raw": "3:30"
+    },
+    "elevation": {
+        "official_gain_m": 542.0,
+        "official_loss_m": 403.0,
+        "calculated_gain_m": 496.2,
+        "calculated_loss_m": 318.5,
+        "min_m": 179.0,
+        "max_m": 541.4
+    },
+    "start": "Ljubovija, 178 m",
+    "end": "Soko grad - Manastir Svetog Nikolaja, 542 m",
+    "description": "Vrlo atraktivna etapa Evropskog puta E7 kroz Zapadnu Srbiju. Prvi deo od Ljubovije do Sokolske planine. Dobra mounti bajking staza.",
+    "landmarks": "• Manastir Svete Trojice Čitluk\n\n • Manastir Svetog Nikolaja\n\n • Tvrđava Soko Grad\n\n • Vidikovci: 6\n\n • Naselja Čitluk, Sokolac\n\n • Na trasi ima 8 izvora pitke vode\n\n • Na trasi 3 planinarska objekta, 1 kamp i 10 privatnih smeštaja",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu je trasirao Dragan O. Pavlović-Pop.\n\n • Poslednji put staza je delimično markirana 2018. god.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Avala PD",
+        "url": "https://pss.rs/adresar_klubova/psk-avala/",
+        "contact": "Murska 14, 11000 Beograd\n+38111 386 00 64 ; +38160 04 28 252, \nhttp://www.avala.club/",
+        "clubs": [
+            {
+                "name": "Avala PD",
+                "url": "https://pss.rs/adresar_klubova/psk-avala/",
+                "contact": "Murska 14, 11000 Beograd\n+38111 386 00 64 ; +38160 04 28 252, \nhttp://www.avala.club/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2019/07/3-7-1-tri-manastira-prva-etapa-ljubovija-soko-grad.gpx",
+        "fetched_at": "2026-11-08T12:00:25Z",
+        "checked_at": "2026-11-08T12:00:25Z",
+        "bytes": 29985,
+        "sha256": "38b7e8a79a5b6c6652a6e7d36c1bd1693eeb81968bb2fa44a7457cbee6b0bf06",
+        "etag": null,
+        "last_modified": "Tue, 02 Jul 2019 13:40:44 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 156,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 9,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2019/07/3-7-1-tri-manastira-prva-etapa-ljubovija-soko-grad.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/tri-manastira-prva-etapa-ljubovija-soko-grad.geojson",
+        "bbox": [
+            19.365816973149776,
+            44.187138034030795,
+            19.426681995391846,
+            44.2690500151366
+        ],
+        "center": [
+            19.396249,
+            44.228094
+        ],
+        "start_point": [
+            19.371361015364528,
+            44.187228977680206
+        ],
+        "end_point": [
+            19.426681995391846,
+            44.2690500151366
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    19.37136,
+                    44.18723
+                ],
+                [
+                    19.37747,
+                    44.18821
+                ],
+                [
+                    19.36963,
+                    44.19394
+                ],
+                [
+                    19.37176,
+                    44.19812
+                ],
+                [
+                    19.3674,
+                    44.19897
+                ],
+                [
+                    19.36582,
+                    44.20348
+                ],
+                [
+                    19.3702,
+                    44.21123
+                ],
+                [
+                    19.37281,
+                    44.20982
+                ],
+                [
+                    19.36842,
+                    44.21402
+                ],
+                [
+                    19.36782,
+                    44.21863
+                ],
+                [
+                    19.37085,
+                    44.22228
+                ],
+                [
+                    19.39473,
+                    44.22762
+                ],
+                [
+                    19.40407,
+                    44.23977
+                ],
+                [
+                    19.39879,
+                    44.24349
+                ],
+                [
+                    19.3989,
+                    44.24572
+                ],
+                [
+                    19.40152,
+                    44.24554
+                ],
+                [
+                    19.39707,
+                    44.24659
+                ],
+                [
+                    19.40104,
+                    44.25309
+                ],
+                [
+                    19.40169,
+                    44.26087
+                ],
+                [
+                    19.42668,
+                    44.26905
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/tri-manastira-prva-etapa-ljubovija-soko-grad/",
+        "canonical_url": "https://pss.rs/terenipp/tri-manastira-prva-etapa-ljubovija-soko-grad/",
+        "pss_id": 9241,
+        "updated_at": "2019-07-02T13:43:24Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:00:26Z",
+        "last_synced_at": "2026-11-08T12:00:26Z"
+    },
+    "search": "tri manastira, prva etapa: ljubovija - soko grad 3-7-1 zapadna srbija sokolska planina ljubovija, 178 m soko grad - manastir svetog nikolaja, 542 m avala pd • manastir svete trojice citluk • manastir svetog nikolaja • tvrdjava soko grad • vidikovci: 6 • naselja citluk, sokolac • na trasi ima 8 izvora pitke vode • na trasi 3 planinarska objekta, 1 kamp i 10 privatnih smestaja laka vrlo atraktivna etapa evropskog puta e7 kroz zapadnu srbiju. prvi deo od ljubovije do sokolske planine. dobra mounti bajking staza.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:00:26Z"
+    }
+}

@@ -1,0 +1,251 @@
+{
+    "schema_version": 1,
+    "slug": "niska-banja-devojacki-grob-trem-bojanine-vode",
+    "name": "Niška Banja - Devojački grob - Trem - Bojanine vode",
+    "code": "T-3-13",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 12431,
+        "category_id": 28,
+        "region_ids": [
+            7
+        ],
+        "mountain_ids": [
+            50
+        ]
+    },
+    "region": "Jugoistočna Srbija",
+    "mountain": "Suva planina",
+    "difficulty": {
+        "key": "vrlo_teska",
+        "label": "Vrlo teška",
+        "source": "vrlo teška"
+    },
+    "distance": {
+        "official_km": 29.5,
+        "calculated_km": 29.98
+    },
+    "duration": {
+        "official_minutes": 480,
+        "official_text": "8 h",
+        "official_raw": "8"
+    },
+    "elevation": {
+        "official_gain_m": 2110.0,
+        "official_loss_m": 1512.0,
+        "calculated_gain_m": 2334.8,
+        "calculated_loss_m": 1738.9,
+        "min_m": 257.5,
+        "max_m": 1811.6
+    },
+    "start": "Niška Banja - kod fontane, 258 m",
+    "end": "Bojanine vode, 857 m",
+    "description": "Polazak na stazu je iz centra Niške Banje (258 m) stazom \"Zdravlja\" do sela Koritnik. U istoimenom selu postoji česma gde se može snabdeti vodom. Staza vodi dalje kroz bukovu šumu pored vidikovca Crni kamen (808 m). Nastavlja prema Rajcu, preko vrha Mosor. Zatim staza nastavlja preko grebena Suve planine, Sokolovog kamena (1523 m), Devojačkog groba (1311 m), pa sve do najvišeg vrha Trem (1810 m). Od vrha staza ide nazad do Devojačkog groba, gde se skreće na Kraljev put do Bojaninih voda. Na Bojaninim vodama ima izvor pijaće vode.",
+    "landmarks": "• Niška Banja\n\n • Vidikovci: Koritnik, Crni kamen, Sokolov kamen, Trem\n\n • Naselje: Koritnik\n\n • Na trasi ima izvori pitke vode: Niška Banja, Koritnik, Bojanine vode\n\n • Na trasi ima privatni smeštaj",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu je trasirao Vladislav Cenić.\n\n • Poslednji puta staza je markirana 31.02.2020. godine.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Mosor PSK",
+        "url": "https://pss.rs/adresar_klubova/mosor-pak/",
+        "contact": "Tvrđava bb, 18000 Niš\n063 1023016, 063 406025, 064 665 41 58\nhttp://www.pakmosor.org/",
+        "clubs": [
+            {
+                "name": "Mosor PSK",
+                "url": "https://pss.rs/adresar_klubova/mosor-pak/",
+                "contact": "Tvrđava bb, 18000 Niš\n063 1023016, 063 406025, 064 665 41 58\nhttp://www.pakmosor.org/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 9,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2020/11/7-3-13-Niska-Banja-Devojacki-grob-Trem-Bojanine-vode.gpx",
+        "fetched_at": "2026-11-08T12:01:28Z",
+        "checked_at": "2026-11-08T12:01:28Z",
+        "bytes": 2369411,
+        "sha256": "d7141a3675ba1a8eec953a81900bcad257c7529b84b7665bbe8a383f9d6273d5",
+        "etag": null,
+        "last_modified": "Mon, 16 Nov 2020 17:42:04 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 14822,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 12,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2020/11/7-3-13-Niska-Banja-Devojacki-grob-Trem-Bojanine-vode.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/niska-banja-devojacki-grob-trem-bojanine-vode.geojson",
+        "bbox": [
+            22.005480537191033,
+            43.183386605232954,
+            22.171354796737432,
+            43.291984805837274
+        ],
+        "center": [
+            22.088418,
+            43.237686
+        ],
+        "start_point": [
+            22.007324220612645,
+            43.291984805837274
+        ],
+        "end_point": [
+            22.111512031406164,
+            43.221600288525224
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    22.00732,
+                    43.29198
+                ],
+                [
+                    22.01152,
+                    43.2899
+                ],
+                [
+                    22.00668,
+                    43.28927
+                ],
+                [
+                    22.00953,
+                    43.28829
+                ],
+                [
+                    22.0055,
+                    43.28637
+                ],
+                [
+                    22.02099,
+                    43.27725
+                ],
+                [
+                    22.02374,
+                    43.27306
+                ],
+                [
+                    22.03,
+                    43.27228
+                ],
+                [
+                    22.03936,
+                    43.26239
+                ],
+                [
+                    22.04582,
+                    43.26123
+                ],
+                [
+                    22.04807,
+                    43.25895
+                ],
+                [
+                    22.05015,
+                    43.25981
+                ],
+                [
+                    22.05231,
+                    43.2556
+                ],
+                [
+                    22.05975,
+                    43.25226
+                ],
+                [
+                    22.06782,
+                    43.24972
+                ],
+                [
+                    22.07204,
+                    43.24964
+                ],
+                [
+                    22.07401,
+                    43.25187
+                ],
+                [
+                    22.07736,
+                    43.25012
+                ],
+                [
+                    22.08826,
+                    43.23071
+                ],
+                [
+                    22.10042,
+                    43.21817
+                ],
+                [
+                    22.17135,
+                    43.18347
+                ],
+                [
+                    22.15299,
+                    43.19149
+                ],
+                [
+                    22.14353,
+                    43.19773
+                ],
+                [
+                    22.13432,
+                    43.2087
+                ],
+                [
+                    22.12683,
+                    43.2112
+                ],
+                [
+                    22.12159,
+                    43.21761
+                ],
+                [
+                    22.11747,
+                    43.2177
+                ],
+                [
+                    22.11151,
+                    43.2216
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/niska-banja-devojacki-grob-trem-bojanine-vode/",
+        "canonical_url": "https://pss.rs/terenipp/niska-banja-devojacki-grob-trem-bojanine-vode/",
+        "pss_id": 12431,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:01:29Z",
+        "last_synced_at": "2026-11-08T12:01:29Z"
+    },
+    "search": "niska banja - devojacki grob - trem - bojanine vode t-3-13 jugoistocna srbija suva planina niska banja - kod fontane, 258 m bojanine vode, 857 m mosor psk • niska banja • vidikovci: koritnik, crni kamen, sokolov kamen, trem • naselje: koritnik • na trasi ima izvori pitke vode: niska banja, koritnik, bojanine vode • na trasi ima privatni smestaj vrlo teska polazak na stazu je iz centra niske banje (258 m) stazom \"zdravlja\" do sela koritnik. u istoimenom selu postoji cesma gde se moze snabdeti vodom. staza vodi dalje kroz bukovu sumu pored vidikovca crni kamen (808 m). nastavlja prema rajcu, preko vrha mosor. zatim staza nastavlja preko grebena suve planine, sokolovog kamena (1523 m), devojackog groba (1311 m), pa sve do najviseg vrha trem (1810 m). od vrha staza ide nazad do devojackog groba, gde se skrece na kraljev put do bojaninih voda. na bojaninim vodama ima izvor pijace vode.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:01:29Z"
+    }
+}

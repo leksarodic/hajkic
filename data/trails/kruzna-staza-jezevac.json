@@ -1,0 +1,199 @@
+{
+    "schema_version": 1,
+    "slug": "kruzna-staza-jezevac",
+    "name": "Kružna staza Ježevac",
+    "code": "4-49-3",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 5654,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            112
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Ježevac",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 12.0,
+        "calculated_km": 10.02
+    },
+    "duration": {
+        "official_minutes": 300,
+        "official_text": "5 h",
+        "official_raw": "5:00"
+    },
+    "elevation": {
+        "official_gain_m": 570.0,
+        "official_loss_m": 582.0,
+        "calculated_gain_m": 576.1,
+        "calculated_loss_m": 586.8,
+        "min_m": 155.9,
+        "max_m": 684.6
+    },
+    "start": "Manastir Gornjak, 170m",
+    "end": "Šetonjski most, 158m",
+    "description": "Od manastira Gornjak, šumskim putem uz reku Mlavu do izletišta i izvora Čvarinac, uspon šumskim putem, posle izlaza iz šume stazom kroz kamenjar do vrha Ježevac (675m). Sa vrha stenovitim grebenom, spust do šumskog puta i njime do izvora Lalin kladenac (izvor Patuljak). Uspon stazicom na padini Kozjeg grba i spust šumskim putem preko Konjica do Šetonjskog mosta.",
+    "landmarks": "• Srednjovekovni manastir Gornjak\n\n • Izletište Čvarinac\n\n • Dva izvora pitke vode",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Stazu je trasirao PK Vukan 2003. godine (Republička akcija), a poslednji put je markirana 2016. godine (Republička akcija).",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Vukan PK",
+        "url": "https://pss.rs/adresar_klubova/vukan-pk/",
+        "contact": "Voje Dulića 41 12000 Požerevac\n+38164 280 6730; +38163 8826271\nhttp://www.pkvukan.rs",
+        "clubs": [
+            {
+                "name": "Vukan PK",
+                "url": "https://pss.rs/adresar_klubova/vukan-pk/",
+                "contact": "Voje Dulića 41 12000 Požerevac\n+38164 280 6730; +38163 8826271\nhttp://www.pkvukan.rs"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 12,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/12/4-49-3-Jezevac.gpx",
+        "fetched_at": "2026-11-08T11:59:14Z",
+        "checked_at": "2026-11-08T11:59:14Z",
+        "bytes": 199288,
+        "sha256": "6997e188e39432ccc415ab7ac9b2e4d413de76ff8bba81e1aae2d197065b1fdf",
+        "etag": null,
+        "last_modified": "Mon, 31 Oct 2022 01:21:54 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 1203,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 10,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/12/4-49-3-Jezevac.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/kruzna-staza-jezevac.geojson",
+        "bbox": [
+            21.503329016268253,
+            44.25550100393593,
+            21.54455197043717,
+            44.2827960010618
+        ],
+        "center": [
+            21.52394,
+            44.269149
+        ],
+        "start_point": [
+            21.544514000415802,
+            44.26622196100652
+        ],
+        "end_point": [
+            21.509266002103686,
+            44.282789966091514
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.54451,
+                    44.26622
+                ],
+                [
+                    21.53765,
+                    44.2601
+                ],
+                [
+                    21.5377,
+                    44.25676
+                ],
+                [
+                    21.52385,
+                    44.25579
+                ],
+                [
+                    21.5169,
+                    44.26475
+                ],
+                [
+                    21.51615,
+                    44.25767
+                ],
+                [
+                    21.51271,
+                    44.25654
+                ],
+                [
+                    21.51131,
+                    44.26395
+                ],
+                [
+                    21.50913,
+                    44.26303
+                ],
+                [
+                    21.50452,
+                    44.26506
+                ],
+                [
+                    21.5083,
+                    44.26989
+                ],
+                [
+                    21.50333,
+                    44.27241
+                ],
+                [
+                    21.50545,
+                    44.27368
+                ],
+                [
+                    21.50503,
+                    44.28085
+                ],
+                [
+                    21.50927,
+                    44.28279
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/kruzna-staza-jezevac/",
+        "canonical_url": "https://pss.rs/terenipp/kruzna-staza-jezevac/",
+        "pss_id": 5654,
+        "updated_at": "2022-10-31T01:23:52Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:59:16Z",
+        "last_synced_at": "2026-11-08T11:59:16Z"
+    },
+    "search": "kruzna staza jezevac 4-49-3 istocna srbija jezevac manastir gornjak, 170m setonjski most, 158m vukan pk • srednjovekovni manastir gornjak • izletiste cvarinac • dva izvora pitke vode zahtevna od manastira gornjak, sumskim putem uz reku mlavu do izletista i izvora cvarinac, uspon sumskim putem, posle izlaza iz sume stazom kroz kamenjar do vrha jezevac (675m). sa vrha stenovitim grebenom, spust do sumskog puta i njime do izvora lalin kladenac (izvor patuljak). uspon stazicom na padini kozjeg grba i spust sumskim putem preko konjica do setonjskog mosta.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:59:16Z"
+    }
+}

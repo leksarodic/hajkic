@@ -1,0 +1,207 @@
+{
+    "schema_version": 1,
+    "slug": "klisura-reke-gradac",
+    "name": "Klisura reke Gradac",
+    "code": "3-34-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 15907,
+        "category_id": 28,
+        "region_ids": [
+            3
+        ],
+        "mountain_ids": [
+            384
+        ]
+    },
+    "region": "Zapadna Srbija",
+    "mountain": "Klisura reke Gradac",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 8.8,
+        "calculated_km": 8.77
+    },
+    "duration": {
+        "official_minutes": 180,
+        "official_text": "3 h",
+        "official_raw": "3:00"
+    },
+    "elevation": {
+        "official_gain_m": 251.0,
+        "official_loss_m": 151.0,
+        "calculated_gain_m": 345.1,
+        "calculated_loss_m": 253.9,
+        "min_m": 190.8,
+        "max_m": 395.5
+    },
+    "start": "Valjevo, restoran Vidra, 187 m",
+    "end": "Vrelo reke Gradac, 273 m",
+    "description": "Staza počinje iz Valjeva, tačnije od restorana „Vidra“. Prolazi tik uz reku Gradac, levom obalom. Uz put nailazi i na kafiće gde se može ugodno odmoriti. Delimično od mosta „Milovan Glišić“ pored crpne stanice (vodovodne) oko 1 km ide se asfaltnim putem. U zaseoku Aničići penje se kroz pošumljeni deo do Ćelijskog brda. To je vidikovac odakle se vidi deo klisure reke Gradac i Valjevske planine (Povlen, Maljen, Suvobor i Rudnik). Posle se izlazi kroz šumu i prolazi pored manastira Ćelije. U blizini manastira nalazi se etno domaćinstvo „Skok po skok“. Manastir Lelić je takođe u blizini do koga planinari često produže. Staza produžava uz reku do šireg platoa koji se zove Šareno platno i gde je leti moguće i kupanje. Na liticama iznad reke nalazi se arheološko nalazište „Prokleta Jerina“. Na platou se nalazi objekat Eko-društva „Gradac\" koje inače gazduje ovim prostorom. Posle Šarenog platna uz reku na udaljenosti od 3 km dolazi se do izvora reke Gradac, odnosno do mesta gde reka Suvaja ulazi u reku Gradac. Ova staza se inače celom svojom dužinom preklapa sa Evropskim pešačkim putev E7 koji dolazi od Jablanika i Povlena do hrama u Valjevu, a zatim nastavlja ka Divčibarama.",
+    "landmarks": "• Manastiri Ćelije i Lelić\n\n • Reka Gradac\n\n • Arheološki delovi grada \"Prokleta Jerina\"\n\n • Vidikovac: Ćelijsko brdo\n\n • Etno restoran \"Skok po skok\"\n\n • Na trasi ima 2 izvora pitke vode\n\n • Naselja: selo Degirić, selo Bogatić\n\n • Smeštaj: na početku staze u Valjevu, van trase privatni smeštaj u selu Lelić",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu je trasirao PK \"Povlen\" 2000. godine\n\n • Poslednji put staza je markirana februar/mart 2022. godine",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Povlen PK",
+        "url": "https://pss.rs/adresar_klubova/povlen-pk/",
+        "contact": "Doktora Pantića 131/6 14000 Valjevo\n063-232039",
+        "clubs": [
+            {
+                "name": "Povlen PK",
+                "url": "https://pss.rs/adresar_klubova/povlen-pk/",
+                "contact": "Doktora Pantića 131/6 14000 Valjevo\n063-232039"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 7,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2022/03/3-34-1-Klisura-reke-Gradac.gpx",
+        "fetched_at": "2026-11-08T12:02:22Z",
+        "checked_at": "2026-11-08T12:02:22Z",
+        "bytes": 69291,
+        "sha256": "6c70c90c1d2aa41935969d9d47732b76a4a0991c9768acbb6e4b62770fe4ab24",
+        "etag": null,
+        "last_modified": "Wed, 23 Mar 2022 12:16:23 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 383,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 15,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2022/03/3-34-1-Klisura-reke-Gradac.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/klisura-reke-gradac.geojson",
+        "bbox": [
+            19.85416098497808,
+            44.210260938853025,
+            19.893183019012213,
+            44.26090800203383
+        ],
+        "center": [
+            19.873672,
+            44.235584
+        ],
+        "start_point": [
+            19.893183019012213,
+            44.26090800203383
+        ],
+        "end_point": [
+            19.856094606220722,
+            44.210260938853025
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    19.89318,
+                    44.26091
+                ],
+                [
+                    19.89148,
+                    44.25782
+                ],
+                [
+                    19.88802,
+                    44.25693
+                ],
+                [
+                    19.88798,
+                    44.25443
+                ],
+                [
+                    19.88361,
+                    44.25371
+                ],
+                [
+                    19.88635,
+                    44.25119
+                ],
+                [
+                    19.88246,
+                    44.24854
+                ],
+                [
+                    19.88366,
+                    44.24444
+                ],
+                [
+                    19.87773,
+                    44.24399
+                ],
+                [
+                    19.87381,
+                    44.23868
+                ],
+                [
+                    19.86708,
+                    44.23708
+                ],
+                [
+                    19.8601,
+                    44.23116
+                ],
+                [
+                    19.85916,
+                    44.22526
+                ],
+                [
+                    19.855,
+                    44.22129
+                ],
+                [
+                    19.85788,
+                    44.2195
+                ],
+                [
+                    19.85417,
+                    44.21323
+                ],
+                [
+                    19.85609,
+                    44.21026
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/klisura-reke-gradac/",
+        "canonical_url": "https://pss.rs/terenipp/klisura-reke-gradac/",
+        "pss_id": 15907,
+        "updated_at": "2022-04-28T16:22:02Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:02:23Z",
+        "last_synced_at": "2026-11-08T12:02:23Z"
+    },
+    "search": "klisura reke gradac 3-34-1 zapadna srbija klisura reke gradac valjevo, restoran vidra, 187 m vrelo reke gradac, 273 m povlen pk • manastiri celije i lelic • reka gradac • arheoloski delovi grada \"prokleta jerina\" • vidikovac: celijsko brdo • etno restoran \"skok po skok\" • na trasi ima 2 izvora pitke vode • naselja: selo degiric, selo bogatic • smestaj: na pocetku staze u valjevu, van trase privatni smestaj u selu lelic laka staza pocinje iz valjeva, tacnije od restorana „vidra“. prolazi tik uz reku gradac, levom obalom. uz put nailazi i na kafice gde se moze ugodno odmoriti. delimicno od mosta „milovan glisic“ pored crpne stanice (vodovodne) oko 1 km ide se asfaltnim putem. u zaseoku anicici penje se kroz posumljeni deo do celijskog brda. to je vidikovac odakle se vidi deo klisure reke gradac i valjevske planine (povlen, maljen, suvobor i rudnik). posle se izlazi kroz sumu i prolazi pored manastira celije. u blizini manastira nalazi se etno domacinstvo „skok po skok“. manastir lelic je takodje u blizini do koga planinari cesto produze. staza produzava uz reku do sireg platoa koji se zove sareno platno i gde je leti moguce i kupanje. na liticama iznad reke nalazi se arheolosko nalaziste „prokleta jerina“. na platou se nalazi objekat eko-drustva „gradac\" koje inace gazduje ovim prostorom. posle sarenog platna uz reku na udaljenosti od 3 km dolazi se do izvora reke gradac, odnosno do mesta gde reka suvaja ulazi u reku gradac. ova staza se inace celom svojom duzinom preklapa sa evropskim pesackim putev e7 koji dolazi od jablanika i povlena do hrama u valjevu, a zatim nastavlja ka divcibarama.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:02:23Z"
+    }
+}

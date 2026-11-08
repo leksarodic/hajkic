@@ -1,0 +1,243 @@
+{
+    "schema_version": 1,
+    "slug": "ripaljka-jermencic-leskovik-ozrenska-vrata",
+    "name": "Ripaljka - Jermenčić - Leskovik - Ozrenska vrata",
+    "code": "4-33-9",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 13409,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            74
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Ozren",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 15.9,
+        "calculated_km": 15.89
+    },
+    "duration": {
+        "official_minutes": 420,
+        "official_text": "7 h",
+        "official_raw": "7:00"
+    },
+    "elevation": {
+        "official_gain_m": 892.0,
+        "official_loss_m": 892.0,
+        "calculated_gain_m": 862.3,
+        "calculated_loss_m": 861.0,
+        "min_m": 486.7,
+        "max_m": 1178.0
+    },
+    "start": "Kapija bolnice Ozren, 487 m",
+    "end": "Kapija bolnice Ozren, 487 m",
+    "description": "Staza je kružna i polazi od kapije bolnice Ozren i ide pored južne ograde i izlazi na uvaljani put do manastira Jermenčić. Zatim ide pored gornjeg izvora do renovirane kuće. Odatle nastavlja prema jugu i uskom kosinom izlazi na greben Golemog kamena. Zatim nastavlja do tzv. slepog puta. Spušta se zapadno - desno, a zatim skreće ulevo u bukovu šume. Sledi izlazak na stazu grebenskog uspona na Leskovik. Od Leskovika ide prema najvišoj koti planine Ozren i spušta se pored Kovarnice do lakaliteta Ozrenska vrata - prerast. Zatim staza silazi do Partizanske česme i preko Troroge silazi do polazne lokacije.",
+    "landmarks": "• Bolnica Ozren, manastir Jermenčić, vrh Leskovik, Ozrenska vrata\n\n • Vidikovac: vrh Leskovik\n\n • Na stazi ima izvora pitke vode\n\n • Naselje: Ozren\n\n • Smeštaj: kamp, odmaralište, privatni smeštaj",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu su trasirali marta 2017. članovi PK \"Ozren\" Sokobanja (Nebojša Mitić, Ilija Knežević)\n\n • Poslednji put staza je markirana 2020. godine",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Ozren PK",
+        "url": "https://pss.rs/adresar_klubova/ozren-pk/",
+        "contact": "Alekse Markišića 28/3 18230 Sokobanja (poštanski fah 63)\n+38164 855 33 61",
+        "clubs": [
+            {
+                "name": "Ozren PK",
+                "url": "https://pss.rs/adresar_klubova/ozren-pk/",
+                "contact": "Alekse Markišića 28/3 18230 Sokobanja (poštanski fah 63)\n+38164 855 33 61"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2021/03/4-33-9-Ripaljka-Jermencic-Leskovik-Ozrenska-vrata.gpx",
+        "fetched_at": "2026-11-08T12:02:00Z",
+        "checked_at": "2026-11-08T12:02:00Z",
+        "bytes": 231764,
+        "sha256": "b972f7bf5ad9077277f260318a9237a8f9265759e4a1dca3d6539299675dbe52",
+        "etag": null,
+        "last_modified": "Wed, 31 Mar 2021 14:37:41 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 1407,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 10,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2021/03/4-33-9-Ripaljka-Jermencic-Leskovik-Ozrenska-vrata.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/ripaljka-jermencic-leskovik-ozrenska-vrata.geojson",
+        "bbox": [
+            21.83043203316629,
+            43.58316399157047,
+            21.854632012546062,
+            43.62372100353241
+        ],
+        "center": [
+            21.842532,
+            43.603442
+        ],
+        "start_point": [
+            21.85452003031969,
+            43.62372100353241
+        ],
+        "end_point": [
+            21.854565041139722,
+            43.62369300797582
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    21.85452,
+                    43.62372
+                ],
+                [
+                    21.85342,
+                    43.61994
+                ],
+                [
+                    21.84164,
+                    43.62321
+                ],
+                [
+                    21.83728,
+                    43.62243
+                ],
+                [
+                    21.83621,
+                    43.61808
+                ],
+                [
+                    21.83365,
+                    43.62095
+                ],
+                [
+                    21.83043,
+                    43.61887
+                ],
+                [
+                    21.83084,
+                    43.60602
+                ],
+                [
+                    21.83644,
+                    43.60007
+                ],
+                [
+                    21.83978,
+                    43.58917
+                ],
+                [
+                    21.83554,
+                    43.58674
+                ],
+                [
+                    21.84043,
+                    43.58341
+                ],
+                [
+                    21.84703,
+                    43.58513
+                ],
+                [
+                    21.84636,
+                    43.58693
+                ],
+                [
+                    21.84372,
+                    43.58596
+                ],
+                [
+                    21.84205,
+                    43.58757
+                ],
+                [
+                    21.8454,
+                    43.592
+                ],
+                [
+                    21.83898,
+                    43.60195
+                ],
+                [
+                    21.84601,
+                    43.60163
+                ],
+                [
+                    21.8474,
+                    43.60579
+                ],
+                [
+                    21.85118,
+                    43.60697
+                ],
+                [
+                    21.85147,
+                    43.61553
+                ],
+                [
+                    21.85398,
+                    43.61548
+                ],
+                [
+                    21.8517,
+                    43.61844
+                ],
+                [
+                    21.85415,
+                    43.6196
+                ],
+                [
+                    21.85457,
+                    43.62369
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/ripaljka-jermencic-leskovik-ozrenska-vrata/",
+        "canonical_url": "https://pss.rs/terenipp/ripaljka-jermencic-leskovik-ozrenska-vrata/",
+        "pss_id": 13409,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:02:01Z",
+        "last_synced_at": "2026-11-08T12:02:01Z"
+    },
+    "search": "ripaljka - jermencic - leskovik - ozrenska vrata 4-33-9 istocna srbija ozren kapija bolnice ozren, 487 m kapija bolnice ozren, 487 m ozren pk • bolnica ozren, manastir jermencic, vrh leskovik, ozrenska vrata • vidikovac: vrh leskovik • na stazi ima izvora pitke vode • naselje: ozren • smestaj: kamp, odmaraliste, privatni smestaj zahtevna staza je kruzna i polazi od kapije bolnice ozren i ide pored juzne ograde i izlazi na uvaljani put do manastira jermencic. zatim ide pored gornjeg izvora do renovirane kuce. odatle nastavlja prema jugu i uskom kosinom izlazi na greben golemog kamena. zatim nastavlja do tzv. slepog puta. spusta se zapadno - desno, a zatim skrece ulevo u bukovu sume. sledi izlazak na stazu grebenskog uspona na leskovik. od leskovika ide prema najvisoj koti planine ozren i spusta se pored kovarnice do lakaliteta ozrenska vrata - prerast. zatim staza silazi do partizanske cesme i preko troroge silazi do polazne lokacije.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:02:01Z"
+    }
+}

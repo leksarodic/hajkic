@@ -1,0 +1,215 @@
+{
+    "schema_version": 1,
+    "slug": "od-manastira-gornjak-do-krupajskog-vrela",
+    "name": "Od manastira Gornjak do Krupajskog vrela",
+    "code": "4-4-3",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 5845,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            54
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Homoljske planine",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 18.5,
+        "calculated_km": 18.19
+    },
+    "duration": {
+        "official_minutes": 420,
+        "official_text": "7 h",
+        "official_raw": "7:00"
+    },
+    "elevation": {
+        "official_gain_m": 845.0,
+        "official_loss_m": 795.0,
+        "calculated_gain_m": 772.8,
+        "calculated_loss_m": 714.8,
+        "min_m": 162.4,
+        "max_m": 572.1
+    },
+    "start": "Manastir Gornjak, 170m",
+    "end": "Krupajsko vrelo, 227m",
+    "description": "Staza kreće od manastira Gornjak gde ima mesta za parking. Ide se istom stazom koja vodi ka Ježevcu do iznad izletišta Čvarinac gde se staza odvaja levo i kasnije prati lep put koji ide uz levu obalu reke Mlave i reke Dubočice. Uz put se na desnoj i levoj obali Mlave mogu videti ostaci srednjovekovnih utvrđenja. Na sedmom kilometru se gazi Dubočica i kasnije nastavlja šumskim i seoskim putevima dalje. Na 18km se izlazi na asfalt i skrene desno još 200m do skretanja za Krupajsko vrelo.",
+    "landmarks": "• Manastir Gornjak\n\n • Krupajsko vrelo\n\n • Izletište Čvarinac\n\n • Dva izvora pitke vode na trasi\n\n • Privatni smeštaj van trase: Banja Ždrelo i smeštaji u okolini",
+    "maintenance": "delimično uređena",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Ne zna se ko je trasirao trasu, niti kada je poslednji put markirana.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Gornjak PD",
+        "url": "https://pss.rs/adresar_klubova/gornjak-pd/",
+        "contact": "Prvomajska bb, 12300 Petrovac na Mlavi\n+38164 2345 518 ; +38163 696 682\nhttp://www.gornjak.org.rs",
+        "clubs": [
+            {
+                "name": "Gornjak PD",
+                "url": "https://pss.rs/adresar_klubova/gornjak-pd/",
+                "contact": "Prvomajska bb, 12300 Petrovac na Mlavi\n+38164 2345 518 ; +38163 696 682\nhttp://www.gornjak.org.rs"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 10,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2018/01/4-4-3-man.gornjak_krupajsko-vrelo.gpx",
+        "fetched_at": "2026-11-08T11:59:20Z",
+        "checked_at": "2026-11-08T11:59:20Z",
+        "bytes": 144403,
+        "sha256": "c9feb71b624608ca228051af0b7d17f9f079c9c09fd435f3888b820724c64cc0",
+        "etag": null,
+        "last_modified": "Thu, 25 Jan 2018 13:22:59 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 878,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 4,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2018/01/4-4-3-man.gornjak_krupajsko-vrelo.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/od-manastira-gornjak-do-krupajskog-vrela.geojson",
+        "bbox": [
+            21.536723021417856,
+            44.182762010023,
+            21.608285028487444,
+            44.26603797823191
+        ],
+        "center": [
+            21.572504,
+            44.2244
+        ],
+        "start_point": [
+            21.544583989307284,
+            44.26603797823191
+        ],
+        "end_point": [
+            21.608285028487444,
+            44.18398995883763
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.54458,
+                    44.26604
+                ],
+                [
+                    21.53773,
+                    44.2601
+                ],
+                [
+                    21.53871,
+                    44.25672
+                ],
+                [
+                    21.53672,
+                    44.25645
+                ],
+                [
+                    21.54224,
+                    44.25531
+                ],
+                [
+                    21.54891,
+                    44.25724
+                ],
+                [
+                    21.55515,
+                    44.25489
+                ],
+                [
+                    21.54701,
+                    44.25204
+                ],
+                [
+                    21.55648,
+                    44.25059
+                ],
+                [
+                    21.55837,
+                    44.2309
+                ],
+                [
+                    21.5639,
+                    44.22722
+                ],
+                [
+                    21.56303,
+                    44.22023
+                ],
+                [
+                    21.56852,
+                    44.20579
+                ],
+                [
+                    21.56117,
+                    44.19341
+                ],
+                [
+                    21.56436,
+                    44.18291
+                ],
+                [
+                    21.57363,
+                    44.18336
+                ],
+                [
+                    21.58275,
+                    44.19021
+                ],
+                [
+                    21.59124,
+                    44.18464
+                ],
+                [
+                    21.60829,
+                    44.18399
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/od-manastira-gornjak-do-krupajskog-vrela/",
+        "canonical_url": "https://pss.rs/terenipp/od-manastira-gornjak-do-krupajskog-vrela/",
+        "pss_id": 5845,
+        "updated_at": "2018-01-25T13:24:06Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:59:20Z",
+        "last_synced_at": "2026-11-08T11:59:20Z"
+    },
+    "search": "od manastira gornjak do krupajskog vrela 4-4-3 istocna srbija homoljske planine manastir gornjak, 170m krupajsko vrelo, 227m gornjak pd • manastir gornjak • krupajsko vrelo • izletiste cvarinac • dva izvora pitke vode na trasi • privatni smestaj van trase: banja zdrelo i smestaji u okolini zahtevna staza krece od manastira gornjak gde ima mesta za parking. ide se istom stazom koja vodi ka jezevcu do iznad izletista cvarinac gde se staza odvaja levo i kasnije prati lep put koji ide uz levu obalu reke mlave i reke dubocice. uz put se na desnoj i levoj obali mlave mogu videti ostaci srednjovekovnih utvrdjenja. na sedmom kilometru se gazi dubocica i kasnije nastavlja sumskim i seoskim putevima dalje. na 18km se izlazi na asfalt i skrene desno jos 200m do skretanja za krupajsko vrelo.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:59:20Z"
+    }
+}

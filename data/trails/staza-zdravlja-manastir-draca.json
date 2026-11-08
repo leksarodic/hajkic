@@ -1,0 +1,171 @@
+{
+    "schema_version": 1,
+    "slug": "staza-zdravlja-manastir-draca",
+    "name": "Staza zdravlja manastir Drača",
+    "code": "2-8-3",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 14968,
+        "category_id": 28,
+        "region_ids": [
+            2
+        ],
+        "mountain_ids": [
+            49
+        ]
+    },
+    "region": "Šumadija",
+    "mountain": "Rudnik",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 5.0,
+        "calculated_km": 4.32
+    },
+    "duration": {
+        "official_minutes": 150,
+        "official_text": "2 h 30 min",
+        "official_raw": "2:30"
+    },
+    "elevation": {
+        "official_gain_m": 240.0,
+        "official_loss_m": 240.0,
+        "calculated_gain_m": 181.4,
+        "calculated_loss_m": 182.8,
+        "min_m": 278.1,
+        "max_m": 433.4
+    },
+    "start": "Most na Dračkoj reci ispred manastira Drača, 285 m",
+    "end": "Most na Dračkoj reci ispred manastira Drača, 285 m",
+    "description": "• Staza je projektovana u cilju afirmacije planinarenja, pogodna je za planinare, rekreativce, sportiste. Početna i završna tačka je ispred mosta na Dračkoj reci, ispred manastira Drača. Staza je potpuno uređena, propisno markirana, obeležena i uređena planinarskim putokazima i markacijama. Na stazi se nalaze dva vidikovca gde su postavljene klupe.\n\n • U okrivu staze je projektovana i kraća staza dužine 3,5 km koja je potpuno uređena, propisno markirana, obeležena i uređena planinarskim putokazima i markacijama.\n\n • Na stazi se nalaze dva izvora pijaće vode koji su obeleženi.",
+    "landmarks": "• Manastir Drača\n\n • Vidikovci: 2\n\n • Dva izvora pijaće vode\n\n • Na stazi nema smeštaja",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Žeželj PD",
+        "url": "https://pss.rs/adresar_klubova/zezelj-pd/",
+        "contact": "Rudnička 7a 34000 Kragujevac\n+38164 21 83 412\nhttp://www.pdzezelj.org",
+        "clubs": [
+            {
+                "name": "Žeželj PD",
+                "url": "https://pss.rs/adresar_klubova/zezelj-pd/",
+                "contact": "Rudnička 7a 34000 Kragujevac\n+38164 21 83 412\nhttp://www.pdzezelj.org"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 10,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2021/11/2-8-3-Staza-zdravlja-manastir-Draca.gpx",
+        "fetched_at": "2026-11-08T12:02:08Z",
+        "checked_at": "2026-11-08T12:02:08Z",
+        "bytes": 25991,
+        "sha256": "966ce1037e8722b93324114252153667b1858f033b0e0a5d8721256f25a99181",
+        "etag": null,
+        "last_modified": "Tue, 16 Nov 2021 20:00:13 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 135,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 8,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2021/11/2-8-3-Staza-zdravlja-manastir-Draca.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/staza-zdravlja-manastir-draca.geojson",
+        "bbox": [
+            20.77417703345418,
+            44.0192689653486,
+            20.791008984670043,
+            44.02838001027703
+        ],
+        "center": [
+            20.782593,
+            44.023824
+        ],
+        "start_point": [
+            20.790627021342516,
+            44.02716304175556
+        ],
+        "end_point": [
+            20.79053197056055,
+            44.02734903618693
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    20.79063,
+                    44.02716
+                ],
+                [
+                    20.7868,
+                    44.02654
+                ],
+                [
+                    20.78398,
+                    44.02838
+                ],
+                [
+                    20.78077,
+                    44.0276
+                ],
+                [
+                    20.78034,
+                    44.02489
+                ],
+                [
+                    20.77564,
+                    44.02565
+                ],
+                [
+                    20.7757,
+                    44.01927
+                ],
+                [
+                    20.79053,
+                    44.02735
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/staza-zdravlja-manastir-draca/",
+        "canonical_url": "https://pss.rs/terenipp/staza-zdravlja-manastir-draca/",
+        "pss_id": 14968,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:02:09Z",
+        "last_synced_at": "2026-11-08T12:02:09Z"
+    },
+    "search": "staza zdravlja manastir draca 2-8-3 sumadija rudnik most na drackoj reci ispred manastira draca, 285 m most na drackoj reci ispred manastira draca, 285 m zezelj pd • manastir draca • vidikovci: 2 • dva izvora pijace vode • na stazi nema smestaja laka • staza je projektovana u cilju afirmacije planinarenja, pogodna je za planinare, rekreativce, sportiste. pocetna i zavrsna tacka je ispred mosta na drackoj reci, ispred manastira draca. staza je potpuno uredjena, propisno markirana, obelezena i uredjena planinarskim putokazima i markacijama. na stazi se nalaze dva vidikovca gde su postavljene klupe. • u okrivu staze je projektovana i kraca staza duzine 3,5 km koja je potpuno uredjena, propisno markirana, obelezena i uredjena planinarskim putokazima i markacijama. • na stazi se nalaze dva izvora pijace vode koji su obelezeni.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:02:09Z"
+    }
+}

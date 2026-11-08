@@ -1,0 +1,233 @@
+{
+    "schema_version": 1,
+    "slug": "narcisu-u-pohode",
+    "name": "Narcisu u pohode",
+    "code": "6-3-9",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 26589,
+        "category_id": 28,
+        "region_ids": [
+            6
+        ],
+        "mountain_ids": [
+            38
+        ]
+    },
+    "region": "Kopaoničko-Toplička regija",
+    "mountain": "Stolovi",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 21.0,
+        "calculated_km": 20.44
+    },
+    "duration": {
+        "official_minutes": 480,
+        "official_text": "8 h",
+        "official_raw": "8:00"
+    },
+    "elevation": {
+        "official_gain_m": 1170.0,
+        "official_loss_m": 812.0,
+        "calculated_gain_m": 1210.0,
+        "calculated_loss_m": 850.1,
+        "min_m": 335.6,
+        "max_m": 1385.8
+    },
+    "start": "Selo Kamenica (336 m)",
+    "end": "Selo Brezna (680 m)",
+    "description": "Staza je prvih 3 km kolski put, a zatim kroz nisko rastinje i delimično kamenit teren grebenpm se penje do 900 mnv, gde izlazi na livade koje su tokom maja pune narcisa. Planinarska staza do vrha vodi kroz livade. Na vrhu Usovica (1375m) nalazi se krst visine 33 m. U povratku do mesta Orlovac staza je ista, a zatim odvaja u desno prema selu Brezna gde je planinarski dom kod koga se završava.\n\nNapomena: U slučaju lošeg vremena (kiša, sneg, smetovi) može se ići zemljanim putem i tada je staza duža za oko 1 km.\n\nNa stazi postoji 5 nadstrešnica sa klupama i stolovima i više klupa za odmor.",
+    "landmarks": "Vidikovci: Staza je otvorena na većem delu\n\nNaselja i zaseoci sa nazivima: Kamenica, Šošanica, Brezna\n\nZnačajni lokaliteti: Stolovi su proglašeni za predeo izuzetnih odlika",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Kada je staza poslednji put markirana: u maju 2024.\n\nSnabdevenost pitkom vodom: na trasi / izvodi pitke vode: nema",
+    "map_reference": null,
+    "map_sheet": "1:50000 Kraljevo1 (530/3)",
+    "club": {
+        "name": "Gvozdac PSD",
+        "url": "https://pss.rs/adresar_klubova/gvozdac-psd/",
+        "contact": "Veljka Vlahovića 31/10, 36000 Kraljevo\n+381606682896 ; +38163 74 11 572",
+        "clubs": [
+            {
+                "name": "Gvozdac PSD",
+                "url": "https://pss.rs/adresar_klubova/gvozdac-psd/",
+                "contact": "Veljka Vlahovića 31/10, 36000 Kraljevo\n+381606682896 ; +38163 74 11 572"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 4,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2025/06/6-3-9-narcisi.gpx",
+        "fetched_at": "2026-11-08T12:06:21Z",
+        "checked_at": "2026-11-08T12:06:21Z",
+        "bytes": 1599550,
+        "sha256": "3f4b66e007943b113e596c8c572b4c2b129a4e3baf282b9ba8be833efb6554ab",
+        "etag": null,
+        "last_modified": "Tue, 03 Jun 2025 15:31:30 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 7847,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2025/06/6-3-9-narcisi.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/narcisu-u-pohode.geojson",
+        "bbox": [
+            20.611222,
+            43.565607,
+            20.702067,
+            43.613907
+        ],
+        "center": [
+            20.656645,
+            43.589757
+        ],
+        "start_point": [
+            20.701587,
+            43.612357
+        ],
+        "end_point": [
+            20.680182,
+            43.565717
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    20.70159,
+                    43.61236
+                ],
+                [
+                    20.70199,
+                    43.61391
+                ],
+                [
+                    20.69495,
+                    43.61124
+                ],
+                [
+                    20.69173,
+                    43.6045
+                ],
+                [
+                    20.68647,
+                    43.60639
+                ],
+                [
+                    20.68557,
+                    43.60209
+                ],
+                [
+                    20.68113,
+                    43.59791
+                ],
+                [
+                    20.66759,
+                    43.59779
+                ],
+                [
+                    20.66389,
+                    43.59614
+                ],
+                [
+                    20.64021,
+                    43.59624
+                ],
+                [
+                    20.61122,
+                    43.60903
+                ],
+                [
+                    20.64022,
+                    43.59622
+                ],
+                [
+                    20.66273,
+                    43.59614
+                ],
+                [
+                    20.66431,
+                    43.5921
+                ],
+                [
+                    20.66094,
+                    43.58811
+                ],
+                [
+                    20.66468,
+                    43.58709
+                ],
+                [
+                    20.66322,
+                    43.5853
+                ],
+                [
+                    20.66822,
+                    43.58117
+                ],
+                [
+                    20.68161,
+                    43.5755
+                ],
+                [
+                    20.67831,
+                    43.57228
+                ],
+                [
+                    20.68018,
+                    43.56572
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/narcisu-u-pohode/",
+        "canonical_url": "https://pss.rs/terenipp/narcisu-u-pohode/",
+        "pss_id": 26589,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:06:22Z",
+        "last_synced_at": "2026-11-08T12:06:22Z"
+    },
+    "search": "narcisu u pohode 6-3-9 kopaonicko-toplicka regija stolovi selo kamenica (336 m) selo brezna (680 m) gvozdac psd vidikovci: staza je otvorena na vecem delu naselja i zaseoci sa nazivima: kamenica, sosanica, brezna znacajni lokaliteti: stolovi su proglaseni za predeo izuzetnih odlika laka staza je prvih 3 km kolski put, a zatim kroz nisko rastinje i delimicno kamenit teren grebenpm se penje do 900 mnv, gde izlazi na livade koje su tokom maja pune narcisa. planinarska staza do vrha vodi kroz livade. na vrhu usovica (1375m) nalazi se krst visine 33 m. u povratku do mesta orlovac staza je ista, a zatim odvaja u desno prema selu brezna gde je planinarski dom kod koga se zavrsava. napomena: u slucaju loseg vremena (kisa, sneg, smetovi) moze se ici zemljanim putem i tada je staza duza za oko 1 km. na stazi postoji 5 nadstresnica sa klupama i stolovima i vise klupa za odmor.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:06:22Z"
+    }
+}

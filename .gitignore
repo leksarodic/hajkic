@@ -1,0 +1,28 @@
+# Hajkić — runtime and local data
+/storage/cache/*
+!/storage/cache/.gitkeep
+/storage/logs/*
+!/storage/logs/.gitkeep
+/storage/gpx/*
+!/storage/gpx/.gitkeep
+/storage/*.lock
+
+# Local overrides
+/config/config.local.php
+/.env
+
+# Import output that is regenerated (the committed dataset lives in /data)
+/data/import-report.json
+/data/.import-state.json
+
+# Generated static builds
+/_site/
+/_site-test/
+/dist-static/
+/build/
+
+# Editor / OS
+.DS_Store
+*.swp
+.idea/
+.vscode/

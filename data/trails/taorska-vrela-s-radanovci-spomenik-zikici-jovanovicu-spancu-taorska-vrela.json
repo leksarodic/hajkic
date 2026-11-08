@@ -1,0 +1,205 @@
+{
+    "schema_version": 1,
+    "slug": "taorska-vrela-s-radanovci-spomenik-zikici-jovanovicu-spancu-taorska-vrela",
+    "name": "Taorska vrela - s. Radanovci - Taorska vrela",
+    "code": "3-14-5",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 12756,
+        "category_id": 28,
+        "region_ids": [
+            3
+        ],
+        "mountain_ids": [
+            66
+        ]
+    },
+    "region": "Zapadna Srbija",
+    "mountain": "Povlen",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 9.5,
+        "calculated_km": 9.42
+    },
+    "duration": {
+        "official_minutes": 240,
+        "official_text": "4 h",
+        "official_raw": "4:00"
+    },
+    "elevation": {
+        "official_gain_m": 430.0,
+        "official_loss_m": 430.0,
+        "calculated_gain_m": 391.4,
+        "calculated_loss_m": 393.1,
+        "min_m": 585.2,
+        "max_m": 931.8
+    },
+    "start": "Donji Taor (Taorska vrela), 610 m",
+    "end": "Donji Taor (Taorska vrela), 610 m",
+    "description": "Staza je kružna. Polazak na stazu je od slapova u selu Donji Taor (etno domaćinstvo Jovanović). Preko brvna prelazi se reka Skrapež, zatim uz levu obalu pešači se oko 1,5 km do ulivanja Belog potoka u reku Skrapež. Uz navedeni potok do makadamskog puta kroz zaseok Ćirovine sela Radanovci do spomenika Žikice Jovanovića-Španca. Odatle se pruža pogled prema Kosjeriću. Grebenom koji se zove Mramor (pogled se pruža južno i severno od staze), dolazi se do makadamskog puta istočno od Taorske stene. Odatle se silazi, a zatim penje kroz borovnjak Visa Rudine (780 m) i dolazi se na početnu tačku.",
+    "landmarks": "• Taorska vrela\n\n • Spomenik Žikice Jovanovića-Španca\n\n • Naselja Donji Taor i Radanovci\n\n • Privatni smeštaj u selima Donji Taor i Radanovci",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Stazu je trasirao i učestvovao u markiranju juna i jula 2020. godine Dušan Drakulić.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Povlen PK",
+        "url": "https://pss.rs/adresar_klubova/povlen-pk/",
+        "contact": "Doktora Pantića 131/6 14000 Valjevo\n063-232039",
+        "clubs": [
+            {
+                "name": "Povlen PK",
+                "url": "https://pss.rs/adresar_klubova/povlen-pk/",
+                "contact": "Doktora Pantića 131/6 14000 Valjevo\n063-232039"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 8,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2021/01/3-14-5-Taorska-vrela-s.Radanovci.gpx",
+        "fetched_at": "2026-11-08T12:01:42Z",
+        "checked_at": "2026-11-08T12:01:42Z",
+        "bytes": 76279,
+        "sha256": "b95fb24f59362400ee6299cee8db0c9418a4fd065703ece6390260302e6aeff3",
+        "etag": null,
+        "last_modified": "Fri, 08 Jan 2021 14:04:46 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 592,
+        "tracks": 2,
+        "segments": 2,
+        "waypoints": 10,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2021/01/3-14-5-Taorska-vrela-s.Radanovci.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/taorska-vrela-s-radanovci-spomenik-zikici-jovanovicu-spancu-taorska-vrela.geojson",
+        "bbox": [
+            19.81570548377931,
+            44.07600145787001,
+            19.845121940597892,
+            44.1012660227716
+        ],
+        "center": [
+            19.830414,
+            44.088634
+        ],
+        "start_point": [
+            19.836356984451413,
+            44.08227497711778
+        ],
+        "end_point": [
+            19.81570548377931,
+            44.08151339739561
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    19.83636,
+                    44.08227
+                ],
+                [
+                    19.83678,
+                    44.08279
+                ]
+            ],
+            [
+                [
+                    19.81603,
+                    44.0814
+                ],
+                [
+                    19.82833,
+                    44.07864
+                ],
+                [
+                    19.83175,
+                    44.07601
+                ],
+                [
+                    19.83575,
+                    44.0834
+                ],
+                [
+                    19.84037,
+                    44.08175
+                ],
+                [
+                    19.83995,
+                    44.08618
+                ],
+                [
+                    19.84467,
+                    44.09035
+                ],
+                [
+                    19.84479,
+                    44.09549
+                ],
+                [
+                    19.83476,
+                    44.10071
+                ],
+                [
+                    19.82669,
+                    44.10071
+                ],
+                [
+                    19.82459,
+                    44.09362
+                ],
+                [
+                    19.81829,
+                    44.09136
+                ],
+                [
+                    19.81844,
+                    44.08336
+                ],
+                [
+                    19.81571,
+                    44.08151
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/taorska-vrela-s-radanovci-spomenik-zikici-jovanovicu-spancu-taorska-vrela/",
+        "canonical_url": "https://pss.rs/terenipp/taorska-vrela-s-radanovci-spomenik-zikici-jovanovicu-spancu-taorska-vrela/",
+        "pss_id": 12756,
+        "updated_at": "2022-04-28T16:33:18Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:01:43Z",
+        "last_synced_at": "2026-11-08T12:01:43Z"
+    },
+    "search": "taorska vrela - s. radanovci - taorska vrela 3-14-5 zapadna srbija povlen donji taor (taorska vrela), 610 m donji taor (taorska vrela), 610 m povlen pk • taorska vrela • spomenik zikice jovanovica-spanca • naselja donji taor i radanovci • privatni smestaj u selima donji taor i radanovci laka staza je kruzna. polazak na stazu je od slapova u selu donji taor (etno domacinstvo jovanovic). preko brvna prelazi se reka skrapez, zatim uz levu obalu pesaci se oko 1,5 km do ulivanja belog potoka u reku skrapez. uz navedeni potok do makadamskog puta kroz zaseok cirovine sela radanovci do spomenika zikice jovanovica-spanca. odatle se pruza pogled prema kosjericu. grebenom koji se zove mramor (pogled se pruza juzno i severno od staze), dolazi se do makadamskog puta istocno od taorske stene. odatle se silazi, a zatim penje kroz borovnjak visa rudine (780 m) i dolazi se na pocetnu tacku.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:01:43Z"
+    }
+}

@@ -1,0 +1,171 @@
+{
+    "schema_version": 1,
+    "slug": "muzinac-tomiceva-koliba-podnozje-rtnja",
+    "name": "Mužinac - Tomićeva koliba (podnožje Rtnja)",
+    "code": "4-27-3",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 4588,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            71
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Rtanj",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 6.6,
+        "calculated_km": 6.6
+    },
+    "duration": {
+        "official_minutes": 120,
+        "official_text": "2 h",
+        "official_raw": "2:00"
+    },
+    "elevation": {
+        "official_gain_m": 316.0,
+        "official_loss_m": 18.0,
+        "calculated_gain_m": 279.9,
+        "calculated_loss_m": 2.0,
+        "min_m": 551.1,
+        "max_m": 835.2
+    },
+    "start": "Mužinac (selo), 551m",
+    "end": "Tomićeva koliba (podnožje Rtnja), 820m",
+    "description": "Spaja sledeće staze/puteve: Povezana je sa stazom koja vodi od Tomićeve kolibe do vrha Šiljak na Rtnju i sa stazom koja vodi do jame lednice na Rtnju.",
+    "landmarks": "• Na stazi ima 2 vidikovca\n\n • Na stazi nema izvora pitke vode\n\n • Nema smeštaja",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu je trasiralo PD \"Oštra čuka\" 6. jula 2017. godine.\n\n • Poslednji put staza je markirana 6.jula 2017. godine.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Oštra čuka PD",
+        "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+        "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/",
+        "clubs": [
+            {
+                "name": "Oštra čuka PD",
+                "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+                "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/08/4-27-3-Muzinac-Tomiceva-koliba.gpx",
+        "fetched_at": "2026-11-08T11:58:53Z",
+        "checked_at": "2026-11-08T11:58:53Z",
+        "bytes": 16054,
+        "sha256": "ef46c7fd5cebcbbea083ba22ffc60862f46862077103c965e383e6359cf94763",
+        "etag": null,
+        "last_modified": "Tue, 18 Dec 2018 12:59:42 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 116,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 3,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/08/4-27-3-Muzinac-Tomiceva-koliba.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/muzinac-tomiceva-koliba-podnozje-rtnja.geojson",
+        "bbox": [
+            21.84904153458774,
+            43.71283412910998,
+            21.884071603417397,
+            43.755490304902196
+        ],
+        "center": [
+            21.866557,
+            43.734162
+        ],
+        "start_point": [
+            21.851647216826677,
+            43.7129573430866
+        ],
+        "end_point": [
+            21.884071603417397,
+            43.755490304902196
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.85165,
+                    43.71296
+                ],
+                [
+                    21.84904,
+                    43.71305
+                ],
+                [
+                    21.85174,
+                    43.71923
+                ],
+                [
+                    21.86342,
+                    43.73005
+                ],
+                [
+                    21.86032,
+                    43.73749
+                ],
+                [
+                    21.8642,
+                    43.74596
+                ],
+                [
+                    21.8708,
+                    43.75192
+                ],
+                [
+                    21.88407,
+                    43.75549
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/muzinac-tomiceva-koliba-podnozje-rtnja/",
+        "canonical_url": "https://pss.rs/terenipp/muzinac-tomiceva-koliba-podnozje-rtnja/",
+        "pss_id": 4588,
+        "updated_at": "2018-12-18T13:01:42Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:58:53Z",
+        "last_synced_at": "2026-11-08T11:58:53Z"
+    },
+    "search": "muzinac - tomiceva koliba (podnozje rtnja) 4-27-3 istocna srbija rtanj muzinac (selo), 551m tomiceva koliba (podnozje rtnja), 820m ostra cuka pd • na stazi ima 2 vidikovca • na stazi nema izvora pitke vode • nema smestaja laka spaja sledece staze/puteve: povezana je sa stazom koja vodi od tomiceve kolibe do vrha siljak na rtnju i sa stazom koja vodi do jame lednice na rtnju.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:58:53Z"
+    }
+}

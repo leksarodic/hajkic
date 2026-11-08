@@ -1,0 +1,247 @@
+{
+    "schema_version": 1,
+    "slug": "tri-manastira-druga-etapa-ljubovija-bele-vode-tornicka-bobija",
+    "name": "Tri manastira, Druga etapa: Ljubovija - Bele vode - Tornička Bobija",
+    "code": "3-8-2",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 9250,
+        "category_id": 28,
+        "region_ids": [
+            3
+        ],
+        "mountain_ids": [
+            128
+        ]
+    },
+    "region": "Zapadna Srbija",
+    "mountain": "Bobija",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 25.4,
+        "calculated_km": 24.72
+    },
+    "duration": {
+        "official_minutes": 420,
+        "official_text": "7 h",
+        "official_raw": "7:00"
+    },
+    "elevation": {
+        "official_gain_m": 1263.0,
+        "official_loss_m": 411.0,
+        "calculated_gain_m": 1319.7,
+        "calculated_loss_m": 330.9,
+        "min_m": 178.6,
+        "max_m": 1262.6
+    },
+    "start": "Ljubovija, 177 m",
+    "end": "Dobra Voda (na planini Bobija), 1169 m",
+    "description": "Vrlo atraktivna etapa Evropskog pešačkog puta E7 kroz Zapadnu Srbiju. Drugi deo od Ljubovije do planine Bobije. Polumaraton planinarskog trčanja.",
+    "landmarks": "• Manastir Svete Trojice, Bele vode\n\n • Vidikovci: 7\n\n • Na trasi ima 8 izvora pitke vode\n\n • Naselja: Tornik, Orovička planina, Savković\n\n • Na trasi 1 planinarski objekat, 1 kamp, 4 privatna smeštaja",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu je trasirao Dragan O. Pavlović-Pop.\n\n • Poslednji put staza je delimično markirana 2018. god.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Avala PD",
+        "url": "https://pss.rs/adresar_klubova/psk-avala/",
+        "contact": "Murska 14, 11000 Beograd\n+38111 386 00 64 ; +38160 04 28 252, \nhttp://www.avala.club/",
+        "clubs": [
+            {
+                "name": "Avala PD",
+                "url": "https://pss.rs/adresar_klubova/psk-avala/",
+                "contact": "Murska 14, 11000 Beograd\n+38111 386 00 64 ; +38160 04 28 252, \nhttp://www.avala.club/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2019/07/3-8-2-tri-manastira-druga-etapa-ljubovija-bele-vode-bobija.gpx",
+        "fetched_at": "2026-11-08T12:00:28Z",
+        "checked_at": "2026-11-08T12:00:28Z",
+        "bytes": 47021,
+        "sha256": "8561194dea9e53664e4e40714d1a38fa17dab4baba0b57365a77f2095cb23387",
+        "etag": null,
+        "last_modified": "Tue, 02 Jul 2019 14:16:00 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 248,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 14,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2019/07/3-8-2-tri-manastira-druga-etapa-ljubovija-bele-vode-bobija.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/tri-manastira-druga-etapa-ljubovija-bele-vode-tornicka-bobija.geojson",
+        "bbox": [
+            19.372618971392512,
+            44.169842982664704,
+            19.578215992078185,
+            44.19761700555682
+        ],
+        "center": [
+            19.475417,
+            44.18373
+        ],
+        "start_point": [
+            19.372618971392512,
+            44.188256012275815
+        ],
+        "end_point": [
+            19.578046007081866,
+            44.18810103088617
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    19.37262,
+                    44.18826
+                ],
+                [
+                    19.3754,
+                    44.18963
+                ],
+                [
+                    19.39004,
+                    44.18658
+                ],
+                [
+                    19.40663,
+                    44.17972
+                ],
+                [
+                    19.40919,
+                    44.18061
+                ],
+                [
+                    19.41982,
+                    44.17371
+                ],
+                [
+                    19.43355,
+                    44.16984
+                ],
+                [
+                    19.43506,
+                    44.17057
+                ],
+                [
+                    19.43143,
+                    44.17419
+                ],
+                [
+                    19.42959,
+                    44.18354
+                ],
+                [
+                    19.44552,
+                    44.19367
+                ],
+                [
+                    19.46064,
+                    44.19214
+                ],
+                [
+                    19.47184,
+                    44.19665
+                ],
+                [
+                    19.48392,
+                    44.19553
+                ],
+                [
+                    19.50402,
+                    44.19759
+                ],
+                [
+                    19.51074,
+                    44.19286
+                ],
+                [
+                    19.5112,
+                    44.18341
+                ],
+                [
+                    19.52216,
+                    44.17867
+                ],
+                [
+                    19.52526,
+                    44.17979
+                ],
+                [
+                    19.53144,
+                    44.17802
+                ],
+                [
+                    19.54089,
+                    44.1811
+                ],
+                [
+                    19.54755,
+                    44.19035
+                ],
+                [
+                    19.55273,
+                    44.19189
+                ],
+                [
+                    19.55471,
+                    44.19762
+                ],
+                [
+                    19.56727,
+                    44.19217
+                ],
+                [
+                    19.5721,
+                    44.18774
+                ],
+                [
+                    19.57805,
+                    44.1881
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/tri-manastira-druga-etapa-ljubovija-bele-vode-tornicka-bobija/",
+        "canonical_url": "https://pss.rs/terenipp/tri-manastira-druga-etapa-ljubovija-bele-vode-tornicka-bobija/",
+        "pss_id": 9250,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:00:29Z",
+        "last_synced_at": "2026-11-08T12:00:29Z"
+    },
+    "search": "tri manastira, druga etapa: ljubovija - bele vode - tornicka bobija 3-8-2 zapadna srbija bobija ljubovija, 177 m dobra voda (na planini bobija), 1169 m avala pd • manastir svete trojice, bele vode • vidikovci: 7 • na trasi ima 8 izvora pitke vode • naselja: tornik, orovicka planina, savkovic • na trasi 1 planinarski objekat, 1 kamp, 4 privatna smestaja zahtevna vrlo atraktivna etapa evropskog pesackog puta e7 kroz zapadnu srbiju. drugi deo od ljubovije do planine bobije. polumaraton planinarskog trcanja.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:00:29Z"
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "schema_version": 1,
+    "slug": "homoljski-planinarski-maraton",
+    "name": "Homoljski planinarski maraton",
+    "code": "4-4-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 5623,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            54
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Homoljske planine",
+    "difficulty": {
+        "key": "vrlo_teska",
+        "label": "Vrlo teška",
+        "source": "vrlo teška"
+    },
+    "distance": {
+        "official_km": 35.0,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": 600,
+        "official_text": "10 h",
+        "official_raw": "10:00"
+    },
+    "elevation": {
+        "official_gain_m": 1800.0,
+        "official_loss_m": 1800.0,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": "Centar sela Vitovnica, 230m",
+    "end": "Centar sela Vitovnica, 230m",
+    "description": "• Iz centra sela, pored manastira do ribnjaka, uspon do Melničkog kolskog puta, njime do Štubeja (940m), silazak kroz Vitovničku šumu, kolskim putem do Vranja (884m), uspon stenama, spust šumom do izvora Krepoljinske reke, uspon i spust do Mijucića pećine, kolskim putem do Hajdučke pećine, uspon šumom do vrha Vrata (815m), spust do prevoja i uspon i prelazak grebenom Kobilje glave (778m), teži spust do reke Vitovnice i makadamom pored reke do centra sela.\n\n • Maraton ima 7 kontrolnih tačaka:\nKT -1 vrh Štubelj 940 m\nKT- 2 vrh Veliki Vranj 884 m\nKT-3 izvor Krepoljinske reke\nKT-4 Miucića pećina\nKT-5 Hajdučka pećina\nKT -6 vrh Vrata 815 m\nKT-7 vrh Kobilja glava 778 m\n\n • Staza jednim delom ide Homoljskom transverzalom i jednim delom Evropskim pešačkim putem E4.\n\n • markacija lokalna (plavo-žuta)\n\n • Na stazi je potrebna opreznost !",
+    "landmarks": "• Srednjovekovni manastir Vitovnica\n\n • Vidikovci: stene Štubeja, Veliki Vranj, Vrata",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Stazu je trasirao PK Vukan 2010. godine, a poslednji put je markirana 2016. godine.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Vukan PK",
+        "url": "https://pss.rs/adresar_klubova/vukan-pk/",
+        "contact": "Voje Dulića 41 12000 Požerevac\n+38164 280 6730; +38163 8826271\nhttp://www.pkvukan.rs",
+        "clubs": [
+            {
+                "name": "Vukan PK",
+                "url": "https://pss.rs/adresar_klubova/vukan-pk/",
+                "contact": "Voje Dulića 41 12000 Požerevac\n+38164 280 6730; +38163 8826271\nhttp://www.pkvukan.rs"
+            }
+        ]
+    },
+    "legend": [
+        "KT - kontrolna tačka"
+    ],
+    "photos_count": 2,
+    "gpx": {
+        "available": false,
+        "status": "invalid",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/12/4-4-1-Homoljski-maraton.gpx",
+        "fetched_at": "2026-11-08T11:59:09Z",
+        "checked_at": "2026-11-08T11:59:09Z",
+        "bytes": 89539,
+        "sha256": "ea12cb491b666aa79b8a726c6bece4d93018b282d3ff56dce4fecb7498c408de",
+        "etag": null,
+        "last_modified": "Sat, 07 Nov 2026 16:41:33 GMT",
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": 0,
+        "tracks": 0,
+        "segments": 0,
+        "waypoints": 0,
+        "error": "Datoteka nema <gpx> koren.",
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/12/4-4-1-Homoljski-maraton.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_gpx"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/homoljski-planinarski-maraton/",
+        "canonical_url": "https://pss.rs/terenipp/homoljski-planinarski-maraton/",
+        "pss_id": 5623,
+        "updated_at": "2017-12-11T10:56:08Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:59:10Z",
+        "last_synced_at": "2026-11-08T11:59:10Z"
+    },
+    "search": "homoljski planinarski maraton 4-4-1 istocna srbija homoljske planine centar sela vitovnica, 230m centar sela vitovnica, 230m vukan pk • srednjovekovni manastir vitovnica • vidikovci: stene stubeja, veliki vranj, vrata vrlo teska • iz centra sela, pored manastira do ribnjaka, uspon do melnickog kolskog puta, njime do stubeja (940m), silazak kroz vitovnicku sumu, kolskim putem do vranja (884m), uspon stenama, spust sumom do izvora krepoljinske reke, uspon i spust do mijucica pecine, kolskim putem do hajducke pecine, uspon sumom do vrha vrata (815m), spust do prevoja i uspon i prelazak grebenom kobilje glave (778m), tezi spust do reke vitovnice i makadamom pored reke do centra sela. • maraton ima 7 kontrolnih tacaka: kt -1 vrh stubelj 940 m kt- 2 vrh veliki vranj 884 m kt-3 izvor krepoljinske reke kt-4 miucica pecina kt-5 hajducka pecina kt -6 vrh vrata 815 m kt-7 vrh kobilja glava 778 m • staza jednim delom ide homoljskom transverzalom i jednim delom evropskim pesackim putem e4. • markacija lokalna (plavo-zuta) • na stazi je potrebna opreznost !",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:59:10Z"
+    }
+}

@@ -1,0 +1,255 @@
+{
+    "schema_version": 1,
+    "slug": "velika-staza-30-km",
+    "name": "Velika staza 30 km",
+    "code": "1-2-3",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 15109,
+        "category_id": 28,
+        "region_ids": [
+            1
+        ],
+        "mountain_ids": [
+            46
+        ]
+    },
+    "region": "Vojvodina",
+    "mountain": "Carska bara",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 30.3,
+        "calculated_km": 30.05
+    },
+    "duration": {
+        "official_minutes": 420,
+        "official_text": "7 h",
+        "official_raw": "7:00"
+    },
+    "elevation": {
+        "official_gain_m": 105.0,
+        "official_loss_m": 105.0,
+        "calculated_gain_m": 27.6,
+        "calculated_loss_m": 33.9,
+        "min_m": 66.0,
+        "max_m": 84.3
+    },
+    "start": "Pristanište na Starom Begeju, 71,80 m",
+    "end": "Pristanište na Starom Begeju, 71,80 m",
+    "description": "• - od starta-pristaništa - informativni centar, se kreće 200 m do asfaltnog puta na nasipu. \n\n • - na asfaltnom putu skreće se levo i ide prema selu Belo Blato u dužini 700m \n\n • - sa asfaltnog puta se skreće levo kod napuštene čuvarnice na prvi nasip sa leve strane \n\n • - ide se nasipom 3050 m, po kolskom putu (sa leve strane se proteže Carska bara, a sa desne Botoški rit). \n\n • - na kraju Carske bare, ne silazi se sa nasipa (mala i srednja staza) već se produžava nasipom u dužini 5600 m, kada se stigne do ustave “carska bara”(orijentir kockasti betonski objekat visine 1,5 m na nasipu sa desne strane puta), posle koga se nadesno silazi sa nasipa do čuvarnica gde je i kontrolna tačka KT.1 \n\n • - put se nastavlja pored nasipa i posle 200 m skreće se desno pod uglom od 110 stepeni. \n\n • - kroz šumarak se ide 470 m do mostića. \n\n • - prelazi se mostić i nastavlja pravo zemljanim kolskim putem. Posle 2700 m, prelazi se na makadam i produžava još 2300 m do poljoprivrednog preduzeća sa desne strane \n\n • - posle 500 m stiže se do sela Belo Blato i skreće levo, produžava obodnobodnom ulicom (Grobljanska) još 370 m do kraja sela i skreće desno, gde je nakon 170 m, sa desne strane, etno salaš mala Lujza (KT.2) - voda sa česme, pića po cenama iz restorana, upotreba WC-a \n\n • - kada se izađe iz dvorišta salaša skreće se levo, produžuje 50 m, do prve raskrsnice, gde se skreće desno, pa prevlakom između jezera Mika i jezera Koča u dužini od 1350 m do poteza ek.Šuvajka \n\n • - po prolasku prevlake skreće se desno i nastavlja slabo definisanim poljskim putem kroz pašnjake (za orijentaciju sa desne strane je obodni kanal i iza njega posle pojasa trske 100-200 m nalazi se jezero Koča) \n\n • - posle 2750 m od Šuvajke sa leve strane ostaje Novo jezero\n\n • - 500 m posle Novog jezera skreće se na raskrsnici desno prema mlinu \n\n • - do mlina koji je sa desne strane puta dolazi se posle 350 m \n\n • - kod mlina je (KT.3) – mogućnost odmora u hladovini na klupama, bunar sa vodom \n\n • - od mlina se ne ide preko prevlake već se vraća 350 m nazad stazom kuda ste došli, i posle prelaska mostića skreće se desno \n\n • - ide se kolskim putem preko pašnjaka severnom stranom Belog jezera \n\n • - posle 2450 m prelazi se mostić obodnog kanala. Obratiti pažnju da se 230 m posle mostića silazi levo sa jačeg puta i nastavlja putem severozapadno \n\n • - nakon 650 m stiže se do asfaltnog puta Zrenjanin-Lukino Selo. \n\n • - na asfaltu se skreće desno prema Lukinom Selu (do sela ima 300 m) \n\n • - kada se uđe u selo produžava se pravo 1.000 m, do centra sela gde je (KT. 4)\n\n • - posle kontrolne tačke, na raskrsnici skreće se desno i ulicom nastavlja pravo 1.000 m do kraja sela, a zatim se skreće levo, izlazi iz sela i nastavlja asfaltom pravo (sa desne strane je Belo jezero) u dužini od 2.000 m, do prirodnjačke kuće koja se nalazi na samoj raskrsnici sa desne strane\n\n • - na raskrsnici se skreće desno i asfaltom se nastavlja 1000 m pored tipskih radničkih kuća, zatim hotela “Sibila”, do table “Specijalni rezervat prirode\", gde se skreće levo pa još 200 m prema pristaništu i cilju.",
+    "landmarks": "• Specijalni rezervat prirode \"Carska bara\"\n\n • Spomenik prirode \"Stari dud\" u Belom Blatu\n\n • Naselje na stazi: Belo Blato, Lukino Selo\n\n • Na trasi izvori pitke vode iz vodovoda i bunara\n\n • Privatni smeštaj u Belom Blatu\n\n • Na trasi hotel \"Sibila\"",
+    "maintenance": "zapuštena",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu je trasirao Milan Milojević 2013. godine.\n\n • Poslednji put staza je markirana 2021.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Zrenjanin KP",
+        "url": "https://pss.rs/adresar_klubova/zrenjanin-kp/",
+        "contact": "Makedonska 11, 23000 Zrenjanin\n 063/1841370; 063/8461255.\nhttps://kpzrenjanin.org.rs/",
+        "clubs": [
+            {
+                "name": "Zrenjanin KP",
+                "url": "https://pss.rs/adresar_klubova/zrenjanin-kp/",
+                "contact": "Makedonska 11, 23000 Zrenjanin\n 063/1841370; 063/8461255.\nhttps://kpzrenjanin.org.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 11,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2021/12/1-2-3-Velika-staza-30-km.gpx",
+        "fetched_at": "2026-11-08T12:02:17Z",
+        "checked_at": "2026-11-08T12:02:17Z",
+        "bytes": 191591,
+        "sha256": "70ee87ee5284f1a6733e03fe5ce2558b899e01b2a4e7b5dc76e1da8318ad4907",
+        "etag": null,
+        "last_modified": "Wed, 15 Dec 2021 15:48:59 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 1082,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 41,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2021/12/1-2-3-Velika-staza-30-km.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/velika-staza-30-km.geojson",
+        "bbox": [
+            20.35553600639105,
+            45.21785597316921,
+            20.431067012250423,
+            45.31373295933008
+        ],
+        "center": [
+            20.393302,
+            45.265794
+        ],
+        "start_point": [
+            20.41675399057567,
+            45.28175096958876
+        ],
+        "end_point": [
+            20.416765976697206,
+            45.28184300288558
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    20.41675,
+                    45.28175
+                ],
+                [
+                    20.41635,
+                    45.28327
+                ],
+                [
+                    20.41133,
+                    45.2811
+                ],
+                [
+                    20.40832,
+                    45.28244
+                ],
+                [
+                    20.4069,
+                    45.27216
+                ],
+                [
+                    20.39299,
+                    45.26657
+                ],
+                [
+                    20.38876,
+                    45.26112
+                ],
+                [
+                    20.38799,
+                    45.2479
+                ],
+                [
+                    20.37547,
+                    45.23913
+                ],
+                [
+                    20.37158,
+                    45.23166
+                ],
+                [
+                    20.37321,
+                    45.22809
+                ],
+                [
+                    20.3704,
+                    45.22148
+                ],
+                [
+                    20.36431,
+                    45.21795
+                ],
+                [
+                    20.36166,
+                    45.22132
+                ],
+                [
+                    20.36764,
+                    45.27011
+                ],
+                [
+                    20.35554,
+                    45.28341
+                ],
+                [
+                    20.35779,
+                    45.2886
+                ],
+                [
+                    20.37092,
+                    45.29197
+                ],
+                [
+                    20.38474,
+                    45.29931
+                ],
+                [
+                    20.38791,
+                    45.29595
+                ],
+                [
+                    20.38567,
+                    45.29912
+                ],
+                [
+                    20.41404,
+                    45.30997
+                ],
+                [
+                    20.41951,
+                    45.31373
+                ],
+                [
+                    20.43019,
+                    45.30456
+                ],
+                [
+                    20.42425,
+                    45.30062
+                ],
+                [
+                    20.43107,
+                    45.29104
+                ],
+                [
+                    20.42903,
+                    45.28421
+                ],
+                [
+                    20.41859,
+                    45.28451
+                ],
+                [
+                    20.41677,
+                    45.28184
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/velika-staza-30-km/",
+        "canonical_url": "https://pss.rs/terenipp/velika-staza-30-km/",
+        "pss_id": 15109,
+        "updated_at": "2021-12-15T15:59:01Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:02:18Z",
+        "last_synced_at": "2026-11-08T12:02:18Z"
+    },
+    "search": "velika staza 30 km 1-2-3 vojvodina carska bara pristaniste na starom begeju, 71,80 m pristaniste na starom begeju, 71,80 m zrenjanin kp • specijalni rezervat prirode \"carska bara\" • spomenik prirode \"stari dud\" u belom blatu • naselje na stazi: belo blato, lukino selo • na trasi izvori pitke vode iz vodovoda i bunara • privatni smestaj u belom blatu • na trasi hotel \"sibila\" laka • - od starta-pristanista - informativni centar, se krece 200 m do asfaltnog puta na nasipu. • - na asfaltnom putu skrece se levo i ide prema selu belo blato u duzini 700m • - sa asfaltnog puta se skrece levo kod napustene cuvarnice na prvi nasip sa leve strane • - ide se nasipom 3050 m, po kolskom putu (sa leve strane se proteze carska bara, a sa desne botoski rit). • - na kraju carske bare, ne silazi se sa nasipa (mala i srednja staza) vec se produzava nasipom u duzini 5600 m, kada se stigne do ustave “carska bara”(orijentir kockasti betonski objekat visine 1,5 m na nasipu sa desne strane puta), posle koga se nadesno silazi sa nasipa do cuvarnica gde je i kontrolna tacka kt.1 • - put se nastavlja pored nasipa i posle 200 m skrece se desno pod uglom od 110 stepeni. • - kroz sumarak se ide 470 m do mostica. • - prelazi se mostic i nastavlja pravo zemljanim kolskim putem. posle 2700 m, prelazi se na makadam i produzava jos 2300 m do poljoprivrednog preduzeca sa desne strane • - posle 500 m stize se do sela belo blato i skrece levo, produzava obodnobodnom ulicom (grobljanska) jos 370 m do kraja sela i skrece desno, gde je nakon 170 m, sa desne strane, etno salas mala lujza (kt.2) - voda sa cesme, pica po cenama iz restorana, upotreba wc-a • - kada se izadje iz dvorista salasa skrece se levo, produzuje 50 m, do prve raskrsnice, gde se skrece desno, pa prevlakom izmedju jezera mika i jezera koca u duzini od 1350 m do poteza ek.suvajka • - po prolasku prevlake skrece se desno i nastavlja slabo definisanim poljskim putem kroz pasnjake (za orijentaciju sa desne strane je obodni kanal i iza njega posle pojasa trske 100-200 m nalazi se jezero koca) • - posle 2750 m od suvajke sa leve strane ostaje novo jezero • - 500 m posle novog jezera skrece s",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:02:18Z"
+    }
+}

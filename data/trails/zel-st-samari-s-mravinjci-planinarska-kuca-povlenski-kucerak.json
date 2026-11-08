@@ -1,0 +1,215 @@
+{
+    "schema_version": 1,
+    "slug": "zel-st-samari-s-mravinjci-planinarska-kuca-povlenski-kucerak",
+    "name": "Ž. stanica Samari - planinarska kuća \"Povlenski kućerak\"",
+    "code": "3-14-6",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 12766,
+        "category_id": 28,
+        "region_ids": [
+            3
+        ],
+        "mountain_ids": [
+            66
+        ]
+    },
+    "region": "Zapadna Srbija",
+    "mountain": "Povlen",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 16.0,
+        "calculated_km": 15.69
+    },
+    "duration": {
+        "official_minutes": 420,
+        "official_text": "7 h",
+        "official_raw": "7:00"
+    },
+    "elevation": {
+        "official_gain_m": 962.0,
+        "official_loss_m": 310.0,
+        "calculated_gain_m": 898.5,
+        "calculated_loss_m": 239.7,
+        "min_m": 481.2,
+        "max_m": 1222.2
+    },
+    "start": "Železnička stanica Samari, 485 m",
+    "end": "Planinarska kuća \"Povlenski kućerak\", 1145,8 m",
+    "description": "Na početak staze na železničkoj stanici Samari može se doći putničkim vozom iz pravca Beograda i Užica. Sa stanice staza ide uzvodno pored reke Velika Zabava. Konstantan je uspon do sela Mravinjci. Asfaltnim putem kroz selo stiže se do raskrsnice puteva Mravinjci - Donji Taor i Mravinjci - Gornja Dijavica. Odatle se staza penje kroz bukovu šumu i izlazi na makadamski put Mravinjci - Debelo brdo. Tim putem pored vikend naselja \"Povlenske kolebe\" staza produžava preko livade zvane Gužvara, zatim Madžarije do planinarske kuće \"Povlenski kućerak\".",
+    "landmarks": "• Reka Velika Zabava\n\n • Povlenske kugle\n\n • Etno domaćinstvo Dragomira Jerinića",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinarska kuća \"Povlenski kućerak\"",
+    "notes": "Stazu su trasirali i učestvovali u markiranju avgusta i septembra 2020. godine Dušan Drakulić i Zoran Vesić.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Povlen PK",
+        "url": "https://pss.rs/adresar_klubova/povlen-pk/",
+        "contact": "Doktora Pantića 131/6 14000 Valjevo\n063-232039",
+        "clubs": [
+            {
+                "name": "Povlen PK",
+                "url": "https://pss.rs/adresar_klubova/povlen-pk/",
+                "contact": "Doktora Pantića 131/6 14000 Valjevo\n063-232039"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 6,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2021/01/3-14-6-Samari-Povlen-pl.kuca.gpx",
+        "fetched_at": "2026-11-08T12:01:44Z",
+        "checked_at": "2026-11-08T12:01:44Z",
+        "bytes": 83416,
+        "sha256": "62ab2f9d246eb567e66e8cd627cd362d3ce8f3587c0d307cadb393ff90fc0318",
+        "etag": null,
+        "last_modified": "Fri, 08 Jan 2021 14:40:15 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 654,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 12,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2021/01/3-14-6-Samari-Povlen-pl.kuca.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/zel-st-samari-s-mravinjci-planinarska-kuca-povlenski-kucerak.geojson",
+        "bbox": [
+            19.71270387992263,
+            44.11758349277079,
+            19.857902331277728,
+            44.14339707233012
+        ],
+        "center": [
+            19.785303,
+            44.13049
+        ],
+        "start_point": [
+            19.857902331277728,
+            44.12337220273912
+        ],
+        "end_point": [
+            19.71270387992263,
+            44.14157752878964
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    19.8579,
+                    44.12337
+                ],
+                [
+                    19.85469,
+                    44.12065
+                ],
+                [
+                    19.84446,
+                    44.11976
+                ],
+                [
+                    19.84307,
+                    44.11758
+                ],
+                [
+                    19.82781,
+                    44.1271
+                ],
+                [
+                    19.83154,
+                    44.1299
+                ],
+                [
+                    19.81264,
+                    44.13193
+                ],
+                [
+                    19.80879,
+                    44.13568
+                ],
+                [
+                    19.79649,
+                    44.13665
+                ],
+                [
+                    19.79182,
+                    44.13941
+                ],
+                [
+                    19.78453,
+                    44.13667
+                ],
+                [
+                    19.7766,
+                    44.14276
+                ],
+                [
+                    19.77205,
+                    44.1434
+                ],
+                [
+                    19.76836,
+                    44.14052
+                ],
+                [
+                    19.75385,
+                    44.13993
+                ],
+                [
+                    19.75396,
+                    44.13781
+                ],
+                [
+                    19.74267,
+                    44.13671
+                ],
+                [
+                    19.72836,
+                    44.13661
+                ],
+                [
+                    19.7127,
+                    44.14158
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/zel-st-samari-s-mravinjci-planinarska-kuca-povlenski-kucerak/",
+        "canonical_url": "https://pss.rs/terenipp/zel-st-samari-s-mravinjci-planinarska-kuca-povlenski-kucerak/",
+        "pss_id": 12766,
+        "updated_at": "2022-04-28T15:53:11Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:01:45Z",
+        "last_synced_at": "2026-11-08T12:01:45Z"
+    },
+    "search": "z. stanica samari - planinarska kuca \"povlenski kucerak\" 3-14-6 zapadna srbija povlen zeleznicka stanica samari, 485 m planinarska kuca \"povlenski kucerak\", 1145,8 m povlen pk • reka velika zabava • povlenske kugle • etno domacinstvo dragomira jerinica zahtevna na pocetak staze na zeleznickoj stanici samari moze se doci putnickim vozom iz pravca beograda i uzica. sa stanice staza ide uzvodno pored reke velika zabava. konstantan je uspon do sela mravinjci. asfaltnim putem kroz selo stize se do raskrsnice puteva mravinjci - donji taor i mravinjci - gornja dijavica. odatle se staza penje kroz bukovu sumu i izlazi na makadamski put mravinjci - debelo brdo. tim putem pored vikend naselja \"povlenske kolebe\" staza produzava preko livade zvane guzvara, zatim madzarije do planinarske kuce \"povlenski kucerak\".",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:01:45Z"
+    }
+}

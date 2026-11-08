@@ -1,0 +1,197 @@
+{
+    "schema_version": 1,
+    "slug": "donja-studena-trem",
+    "name": "Donja Studena - Trem",
+    "code": "7-3-6",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 4485,
+        "category_id": 28,
+        "region_ids": [
+            7
+        ],
+        "mountain_ids": [
+            50
+        ]
+    },
+    "region": "Jugoistočna Srbija",
+    "mountain": "Suva planina",
+    "difficulty": {
+        "key": "vrlo_teska",
+        "label": "Vrlo teška",
+        "source": "vrlo teška"
+    },
+    "distance": {
+        "official_km": 12.9,
+        "calculated_km": 12.76
+    },
+    "duration": {
+        "official_minutes": 240,
+        "official_text": "4 h",
+        "official_raw": "4:00"
+    },
+    "elevation": {
+        "official_gain_m": 1445.0,
+        "official_loss_m": 0.0,
+        "calculated_gain_m": 1437.5,
+        "calculated_loss_m": 8.9,
+        "min_m": 358.0,
+        "max_m": 1796.4
+    },
+    "start": "Autobuska stanica ispred Doma kulture u Donjoj Studeni, 365m",
+    "end": "Trem, 1810m",
+    "description": null,
+    "landmarks": "Dva izvora pitke vode na početku staze.",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "STAZA JE PRIVREMENO NEPROHODNA!",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Železničar PK Niš",
+        "url": "https://pss.rs/adresar_klubova/zeleznicar-pk/",
+        "contact": "Tvrđava bb, 18000 Niš\n064 833 000 3, 061 168 777 1\nhttp://www.planinari-zeleznicar.rs/",
+        "clubs": [
+            {
+                "name": "Železničar PK Niš",
+                "url": "https://pss.rs/adresar_klubova/zeleznicar-pk/",
+                "contact": "Tvrđava bb, 18000 Niš\n064 833 000 3, 061 168 777 1\nhttp://www.planinari-zeleznicar.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/08/7-3-6-Donja-Studena-Trem.gpx",
+        "fetched_at": "2026-11-08T11:57:05Z",
+        "checked_at": "2026-11-08T11:57:05Z",
+        "bytes": 69553,
+        "sha256": "04ecf919f167456d4dbec7ba746fe9baac630336f9f00fda028ddc20c205a1d4",
+        "etag": null,
+        "last_modified": "Wed, 31 Jan 2018 11:13:34 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 569,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 5,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/08/7-3-6-Donja-Studena-Trem.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/donja-studena-trem.geojson",
+        "bbox": [
+            22.08905783481896,
+            43.183340672403574,
+            22.171291848644614,
+            43.26083178631961
+        ],
+        "center": [
+            22.130175,
+            43.222086
+        ],
+        "start_point": [
+            22.08905783481896,
+            43.26083178631961
+        ],
+        "end_point": [
+            22.171291848644614,
+            43.18341334350407
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    22.08906,
+                    43.26083
+                ],
+                [
+                    22.09709,
+                    43.25667
+                ],
+                [
+                    22.09903,
+                    43.25284
+                ],
+                [
+                    22.10156,
+                    43.24299
+                ],
+                [
+                    22.09947,
+                    43.23541
+                ],
+                [
+                    22.10056,
+                    43.22677
+                ],
+                [
+                    22.10424,
+                    43.22776
+                ],
+                [
+                    22.10934,
+                    43.22189
+                ],
+                [
+                    22.11755,
+                    43.21768
+                ],
+                [
+                    22.12142,
+                    43.21774
+                ],
+                [
+                    22.12378,
+                    43.21313
+                ],
+                [
+                    22.13316,
+                    43.20944
+                ],
+                [
+                    22.14407,
+                    43.19732
+                ],
+                [
+                    22.17129,
+                    43.18341
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/donja-studena-trem/",
+        "canonical_url": "https://pss.rs/terenipp/donja-studena-trem/",
+        "pss_id": 4485,
+        "updated_at": "2025-10-30T16:07:47Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:57:06Z",
+        "last_synced_at": "2026-11-08T11:57:06Z"
+    },
+    "search": "donja studena - trem 7-3-6 jugoistocna srbija suva planina autobuska stanica ispred doma kulture u donjoj studeni, 365m trem, 1810m zeleznicar pk nis dva izvora pitke vode na pocetku staze. vrlo teska",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:57:06Z"
+    }
+}

@@ -1,0 +1,185 @@
+{
+    "schema_version": 1,
+    "slug": "pl-dom-sarena-bukva-leskova-ravan-radaljsko-jezero",
+    "name": "Pl.dom Šarena bukva-Leskova ravan-Radaljsko jezero",
+    "code": "3-5-2",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 24391,
+        "category_id": 28,
+        "region_ids": [
+            3
+        ],
+        "mountain_ids": [
+            90
+        ]
+    },
+    "region": "Zapadna Srbija",
+    "mountain": "Boranja",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 4.6,
+        "calculated_km": 4.58
+    },
+    "duration": {
+        "official_minutes": 70,
+        "official_text": "1 h 10 min",
+        "official_raw": "1:10"
+    },
+    "elevation": {
+        "official_gain_m": 8.0,
+        "official_loss_m": 311.0,
+        "calculated_gain_m": 360.5,
+        "calculated_loss_m": 50.6,
+        "min_m": 480.6,
+        "max_m": 793.1
+    },
+    "start": "Planinarski dom \"Šarena bukva\" - 798 m",
+    "end": "Radaljsko jezero - 495 m",
+    "description": "Od pl. doma krenuti ka Stolicama.Od ruinirane radionice nakon 150m skrenuti u levo-ka staroj trafo stanici-markacija.Spustiti se vlakom Leštak preći potočić i jasnim šumskim putem izbiti ispod kuća Savića.Obići imanje i izbiti na greben Leskove ravni.Nastaviti pored breza i naniže do između kuća Pavlovića tu se put račva. Ići levo(drvored jabuka) zapadno ka jezeru,desni smer je pravac za Stolice i Zajaču. Staza dalje vodi samim grebenom sa vidikovcima ka Bosni zapadno i Gučevu severno,između zasada malina i kupina .Nakon pređenih 3,5km otpočeti blago spuštanje ka jezeru i izaći na parking kod same brane. Mogućnost povratka drugim stazama u 4 pravca.",
+    "landmarks": "Radaljsko jezero",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinarska kuća \"Šarena Bukva\"",
+    "notes": "Ko je i kada trasirao stazu: Branko Mitrić , Trifunović Vladislava i Predrag - maj 2019. godine\nKada je staza poslednji put markirana: mart 2024. godine",
+    "map_reference": null,
+    "map_sheet": "1:50000 Zvornik 1 i 2 (477/1 i 2)",
+    "club": {
+        "name": "Gučevo PK",
+        "url": "https://pss.rs/adresar_klubova/gucevo-pk/",
+        "contact": "Gimnazijska bb, 15300 Loznica\n+38164 1882423 ; +38169 1011687",
+        "clubs": [
+            {
+                "name": "Gučevo PK",
+                "url": "https://pss.rs/adresar_klubova/gucevo-pk/",
+                "contact": "Gimnazijska bb, 15300 Loznica\n+38164 1882423 ; +38169 1011687"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 8,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2024/04/5-3-2-Sarena-bukva-Radaljsko-jezero.gpx",
+        "fetched_at": "2026-11-08T12:05:52Z",
+        "checked_at": "2026-11-08T12:05:52Z",
+        "bytes": 50044,
+        "sha256": "707562da3944d404d09df6a41619d6849b4eaf66cfff70034ddeb81b12747192",
+        "etag": null,
+        "last_modified": "Tue, 02 Apr 2024 20:19:25 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 456,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 3,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2024/04/5-3-2-Sarena-bukva-Radaljsko-jezero.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/pl-dom-sarena-bukva-leskova-ravan-radaljsko-jezero.geojson",
+        "bbox": [
+            19.239007747,
+            44.383265348,
+            19.270579191,
+            44.397942396
+        ],
+        "center": [
+            19.254793,
+            44.390604
+        ],
+        "start_point": [
+            19.239149317,
+            44.395338558
+        ],
+        "end_point": [
+            19.26875948,
+            44.383285716
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    19.23915,
+                    44.39534
+                ],
+                [
+                    19.24129,
+                    44.39789
+                ],
+                [
+                    19.25173,
+                    44.3952
+                ],
+                [
+                    19.25771,
+                    44.39603
+                ],
+                [
+                    19.25936,
+                    44.3939
+                ],
+                [
+                    19.25739,
+                    44.39184
+                ],
+                [
+                    19.26774,
+                    44.39021
+                ],
+                [
+                    19.27058,
+                    44.38661
+                ],
+                [
+                    19.26876,
+                    44.38329
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/pl-dom-sarena-bukva-leskova-ravan-radaljsko-jezero/",
+        "canonical_url": "https://pss.rs/terenipp/pl-dom-sarena-bukva-leskova-ravan-radaljsko-jezero/",
+        "pss_id": 24391,
+        "updated_at": "2024-04-02T20:27:25Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:05:52Z",
+        "last_synced_at": "2026-11-08T12:05:52Z"
+    },
+    "search": "pl.dom sarena bukva-leskova ravan-radaljsko jezero 3-5-2 zapadna srbija boranja planinarski dom \"sarena bukva\" - 798 m radaljsko jezero - 495 m gucevo pk radaljsko jezero laka od pl. doma krenuti ka stolicama.od ruinirane radionice nakon 150m skrenuti u levo-ka staroj trafo stanici-markacija.spustiti se vlakom lestak preci potocic i jasnim sumskim putem izbiti ispod kuca savica.obici imanje i izbiti na greben leskove ravni.nastaviti pored breza i nanize do izmedju kuca pavlovica tu se put racva. ici levo(drvored jabuka) zapadno ka jezeru,desni smer je pravac za stolice i zajacu. staza dalje vodi samim grebenom sa vidikovcima ka bosni zapadno i gucevu severno,izmedju zasada malina i kupina .nakon predjenih 3,5km otpoceti blago spustanje ka jezeru i izaci na parking kod same brane. mogucnost povratka drugim stazama u 4 pravca.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:05:52Z"
+    }
+}

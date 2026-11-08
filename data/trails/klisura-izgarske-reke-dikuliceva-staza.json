@@ -1,0 +1,207 @@
+{
+    "schema_version": 1,
+    "slug": "klisura-izgarske-reke-dikuliceva-staza",
+    "name": "Klisura Izgarske reke - \"Dikulićeva staza\"",
+    "code": "4-31-9",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 4612,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            57
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Devica",
+    "difficulty": {
+        "key": "vrlo_teska",
+        "label": "Vrlo teška",
+        "source": "vrlo teška"
+    },
+    "distance": {
+        "official_km": 9.0,
+        "calculated_km": 8.58
+    },
+    "duration": {
+        "official_minutes": 360,
+        "official_text": "6 h",
+        "official_raw": "6:00"
+    },
+    "elevation": {
+        "official_gain_m": 572.0,
+        "official_loss_m": 566.0,
+        "calculated_gain_m": 413.0,
+        "calculated_loss_m": 408.8,
+        "min_m": 431.5,
+        "max_m": 669.2
+    },
+    "start": "Stari Rudnik (Čitluk) - 470 mnv",
+    "end": "Stari Rudnik (Čitluk) - 470 mnv (kružna staza)",
+    "description": "• Najviša tačka 669 mnv, najniža tačka 431 mnv\n\n • Napomena: na stazi je potrebna OPREZNOST.",
+    "landmarks": "• Momin kamen i nekoliko pećina\n\n • Vidikovci: 8\n\n • Na stazi ima 2 izvora pitke vode\n\n • Nema smeštaja",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu je trasirao Milan Dikulić, aprila 2016. godine\n\n • Poslenji put staza je markirana aprila 2016. godine",
+    "map_reference": null,
+    "map_sheet": "Zaječar 3-1",
+    "club": {
+        "name": "Oštra čuka PD",
+        "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+        "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/",
+        "clubs": [
+            {
+                "name": "Oštra čuka PD",
+                "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+                "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/08/4-31-9-Klisura-Izgarske-reke.gpx",
+        "fetched_at": "2026-11-08T11:58:56Z",
+        "checked_at": "2026-11-08T11:58:56Z",
+        "bytes": 72172,
+        "sha256": "b7aab5853e0abb8127c8b7801116b71f4bafc427f181ef2acd3609c7b1297504",
+        "etag": null,
+        "last_modified": "Fri, 21 Dec 2018 12:17:49 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 393,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 17,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/08/4-31-9-Klisura-Izgarske-reke.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/klisura-izgarske-reke-dikuliceva-staza.geojson",
+        "bbox": [
+            22.0167931728065,
+            43.61758779734373,
+            22.02787916176021,
+            43.631928814575076
+        ],
+        "center": [
+            22.022336,
+            43.624758
+        ],
+        "start_point": [
+            22.01910230331123,
+            43.631928814575076
+        ],
+        "end_point": [
+            22.01971367932856,
+            43.63162010908127
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    22.0191,
+                    43.63193
+                ],
+                [
+                    22.02531,
+                    43.62702
+                ],
+                [
+                    22.0242,
+                    43.62455
+                ],
+                [
+                    22.02063,
+                    43.62379
+                ],
+                [
+                    22.02279,
+                    43.62487
+                ],
+                [
+                    22.02775,
+                    43.62341
+                ],
+                [
+                    22.02553,
+                    43.61759
+                ],
+                [
+                    22.02316,
+                    43.62134
+                ],
+                [
+                    22.02104,
+                    43.61882
+                ],
+                [
+                    22.02276,
+                    43.62153
+                ],
+                [
+                    22.02029,
+                    43.62056
+                ],
+                [
+                    22.01683,
+                    43.62263
+                ],
+                [
+                    22.01723,
+                    43.62462
+                ],
+                [
+                    22.02024,
+                    43.62354
+                ],
+                [
+                    22.01823,
+                    43.62329
+                ],
+                [
+                    22.02356,
+                    43.62981
+                ],
+                [
+                    22.01971,
+                    43.63162
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/klisura-izgarske-reke-dikuliceva-staza/",
+        "canonical_url": "https://pss.rs/terenipp/klisura-izgarske-reke-dikuliceva-staza/",
+        "pss_id": 4612,
+        "updated_at": "2018-12-21T12:18:55Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:58:57Z",
+        "last_synced_at": "2026-11-08T11:58:57Z"
+    },
+    "search": "klisura izgarske reke - \"dikuliceva staza\" 4-31-9 istocna srbija devica stari rudnik (citluk) - 470 mnv stari rudnik (citluk) - 470 mnv (kruzna staza) ostra cuka pd • momin kamen i nekoliko pecina • vidikovci: 8 • na stazi ima 2 izvora pitke vode • nema smestaja vrlo teska • najvisa tacka 669 mnv, najniza tacka 431 mnv • napomena: na stazi je potrebna opreznost.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:58:57Z"
+    }
+}

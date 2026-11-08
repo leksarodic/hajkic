@@ -1,0 +1,205 @@
+{
+    "schema_version": 1,
+    "slug": "staza-br-20-semegnjevo-lupoglav",
+    "name": "Staza br. 20: Semegnjevo – Lupoglav",
+    "code": "5-12-22",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 19333,
+        "category_id": 28,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            122
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Zlatibor",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 13.3,
+        "calculated_km": 13.25
+    },
+    "duration": {
+        "official_minutes": 270,
+        "official_text": "4 h 30 min",
+        "official_raw": "4:30"
+    },
+    "elevation": {
+        "official_gain_m": 480.0,
+        "official_loss_m": 480.0,
+        "calculated_gain_m": 501.2,
+        "calculated_loss_m": 497.7,
+        "min_m": 788.4,
+        "max_m": 1094.1
+    },
+    "start": "Železnička stanica Zlatibor - 795 m",
+    "end": "Železnička stanica Zlatibor - 795 m",
+    "description": "Železnička stanica Zlatibor - Planinica (3,1 km) - vrh Lupoglav (4,4 km) - Semegnjevo (7,0 km) - vrh Divizbor (10,3 km) - DŽambasi (11,1 km) - Železnička stanica Zlatibor (13,3 km)",
+    "landmarks": "Vrh Lupoglav, crkva u Semegnjevu, vrh Divizbor, oštri greben iznad žel. Stanice Zlatibor",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Stazu je trasirao Stefanović Slobodan iz Užica 2019. godine i markirana je 2020. godine. Staza je izgrađena sredstvima JP-a \"Srbijašume\" Beograd, upravitelja Parka prirode \"Zlatibor\". Neophodno je da im se pre obilaska staze najavite na telefon: 031/3841-278.",
+    "map_reference": null,
+    "map_sheet": "1:50000 Užice 3 (528/3)",
+    "club": {
+        "name": "Tornik PK",
+        "url": "https://pss.rs/adresar_klubova/tornik-pk/",
+        "contact": "Zlatiborska 28\n064 156 55 78",
+        "clubs": [
+            {
+                "name": "Tornik PK",
+                "url": "https://pss.rs/adresar_klubova/tornik-pk/",
+                "contact": "Zlatiborska 28\n064 156 55 78"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 10,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2023/03/Staza-20-Semegnjevo-Lupoglav.gpx",
+        "fetched_at": "2026-11-08T12:03:12Z",
+        "checked_at": "2026-11-08T12:03:12Z",
+        "bytes": 96446,
+        "sha256": "5d3686c26c08344b5131ab85bd9441389cfb0fb204c8975b125814738749e9ea",
+        "etag": null,
+        "last_modified": "Fri, 31 Mar 2023 20:51:35 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 1115,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 6,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2023/03/Staza-20-Semegnjevo-Lupoglav.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/staza-br-20-semegnjevo-lupoglav.geojson",
+        "bbox": [
+            19.567615567,
+            43.731451677,
+            19.617520496,
+            43.755814936
+        ],
+        "center": [
+            19.592568,
+            43.743633
+        ],
+        "start_point": [
+            19.613861125,
+            43.735219091
+        ],
+        "end_point": [
+            19.613872189,
+            43.735249098
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    19.61386,
+                    43.73522
+                ],
+                [
+                    19.57525,
+                    43.73145
+                ],
+                [
+                    19.56762,
+                    43.73435
+                ],
+                [
+                    19.57544,
+                    43.74101
+                ],
+                [
+                    19.58465,
+                    43.74062
+                ],
+                [
+                    19.58837,
+                    43.74894
+                ],
+                [
+                    19.5993,
+                    43.75179
+                ],
+                [
+                    19.60526,
+                    43.75123
+                ],
+                [
+                    19.60599,
+                    43.75288
+                ],
+                [
+                    19.60991,
+                    43.75147
+                ],
+                [
+                    19.6174,
+                    43.75581
+                ],
+                [
+                    19.61552,
+                    43.74426
+                ],
+                [
+                    19.61063,
+                    43.74168
+                ],
+                [
+                    19.61387,
+                    43.73525
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/staza-br-20-semegnjevo-lupoglav/",
+        "canonical_url": "https://pss.rs/terenipp/staza-br-20-semegnjevo-lupoglav/",
+        "pss_id": 19333,
+        "updated_at": "2023-09-08T20:01:04Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:03:13Z",
+        "last_synced_at": "2026-11-08T12:03:13Z"
+    },
+    "search": "staza br. 20: semegnjevo – lupoglav 5-12-22 jugozapadna srbija zlatibor zeleznicka stanica zlatibor - 795 m zeleznicka stanica zlatibor - 795 m tornik pk vrh lupoglav, crkva u semegnjevu, vrh divizbor, ostri greben iznad zel. stanice zlatibor laka zeleznicka stanica zlatibor - planinica (3,1 km) - vrh lupoglav (4,4 km) - semegnjevo (7,0 km) - vrh divizbor (10,3 km) - dzambasi (11,1 km) - zeleznicka stanica zlatibor (13,3 km)",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:03:13Z"
+    }
+}

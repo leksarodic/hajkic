@@ -1,0 +1,187 @@
+{
+    "schema_version": 1,
+    "slug": "3-vrha-povlena",
+    "name": "3 vrha Povlena",
+    "code": "3-14-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 12724,
+        "category_id": 28,
+        "region_ids": [
+            3
+        ],
+        "mountain_ids": [
+            66
+        ]
+    },
+    "region": "Zapadna Srbija",
+    "mountain": "Povlen",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 9.0,
+        "calculated_km": 8.39
+    },
+    "duration": {
+        "official_minutes": 210,
+        "official_text": "3 h 30 min",
+        "official_raw": "3:30"
+    },
+    "elevation": {
+        "official_gain_m": 512.0,
+        "official_loss_m": 512.0,
+        "calculated_gain_m": 481.9,
+        "calculated_loss_m": 478.0,
+        "min_m": 1134.6,
+        "max_m": 1338.9
+    },
+    "start": "Planinarska kuća \"Povlenski kućerak\", 1145,8 m",
+    "end": "Planinarska kuća \"Povlenski kućerak\", 1145,8 m",
+    "description": "Staza je kružna. Start je kod planinarske kuće \"Povlenski kućerak\", a ide se uzbrdo, južnom padinom Velikog Povlena. Staza je u ovom delu strma, uska, pošumljena, ide se u koloni po jedan oko 20 minuta do vrha Veliki Povlen (1271m). Sa vrha se pruža živopisan pogled na Valjevske planine, kao i na Taru, Zlatibor i planine preko9 Drine u Republici Srpskoj. Odatle stenovitim grebenom staza vodi kroz četinarsku i bukovu šumu pored repetitora na prostranu livadu. Preko livade staza penje na Srednji Povlen (1301m). Od ovog vrha silazi se na stene eruptivnog porekla Ploče, gde ima takođe vidikovac. Posle se staza delimično vraćamo i silazimo na izvor reke Cetinje. Ovaj deo je u proleće poznat po velikim površinama sremuša. Od izvora staza vodi preko livade (liči na džinovski amfiteatar) koja se zove Gužvara i pored vikend naselja izlazi na Kneževo polje. Pored crkve Sv. Stefana Arhiđakona preko livade staza se penje severnom stranom na Mali Povlen (1347m). Staza je uska, strma i pošumljena. Sa najvišeg vrha Povlena - Mali Povlena, kada je dobra vidljivost, vidi se Maglić i Durmitor. Sa vrha se silazi istim putem, pa sa Kneževa polja ide zapadno vododerinom pored koliba na kolski put. Odatle staza produžava preko Madžarije i završava kod planinarske kuće \"Povlenski kućerak\".",
+    "landmarks": "• Vidikovci: 3 vrha, Ploče i drvena osmatračnica na ivici Kneževa polja\n\n • 3 izvora pitke vode\n\n • U blizini su Povlenske kugle",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinarska kuća \"Povlenski kućerak\"",
+    "notes": "Staza je trasirana i markirana još 2003. godine, a osvežena u septembru 2020. god.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Povlen PK",
+        "url": "https://pss.rs/adresar_klubova/povlen-pk/",
+        "contact": "Doktora Pantića 131/6 14000 Valjevo\n063-232039",
+        "clubs": [
+            {
+                "name": "Povlen PK",
+                "url": "https://pss.rs/adresar_klubova/povlen-pk/",
+                "contact": "Doktora Pantića 131/6 14000 Valjevo\n063-232039"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 7,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2021/01/3-14-1-3-vrha-Povlena.gpx",
+        "fetched_at": "2026-11-08T12:01:35Z",
+        "checked_at": "2026-11-08T12:01:35Z",
+        "bytes": 80645,
+        "sha256": "b30e5975aed05d045e5260c1a9a94d29d10fb5a3ddafed2dae49fe76e99014f1",
+        "etag": null,
+        "last_modified": "Fri, 08 Jan 2021 11:54:43 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 665,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 7,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2021/01/3-14-1-3-vrha-Povlena.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/3-vrha-povlena.geojson",
+        "bbox": [
+            19.710291819646955,
+            44.13050612434745,
+            19.742383863776922,
+            44.14527453482151
+        ],
+        "center": [
+            19.726338,
+            44.13789
+        ],
+        "start_point": [
+            19.712689211592078,
+            44.14155908860266
+        ],
+        "end_point": [
+            19.71267906948924,
+            44.141607536002994
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    19.71269,
+                    44.14156
+                ],
+                [
+                    19.71041,
+                    44.14527
+                ],
+                [
+                    19.7216,
+                    44.14014
+                ],
+                [
+                    19.72845,
+                    44.14177
+                ],
+                [
+                    19.72821,
+                    44.14462
+                ],
+                [
+                    19.73327,
+                    44.1413
+                ],
+                [
+                    19.73436,
+                    44.13695
+                ],
+                [
+                    19.74227,
+                    44.13547
+                ],
+                [
+                    19.74035,
+                    44.13053
+                ],
+                [
+                    19.74121,
+                    44.13305
+                ],
+                [
+                    19.71968,
+                    44.13821
+                ],
+                [
+                    19.71268,
+                    44.14161
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/3-vrha-povlena/",
+        "canonical_url": "https://pss.rs/terenipp/3-vrha-povlena/",
+        "pss_id": 12724,
+        "updated_at": "2022-04-28T15:35:53Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:01:36Z",
+        "last_synced_at": "2026-11-08T12:01:36Z"
+    },
+    "search": "3 vrha povlena 3-14-1 zapadna srbija povlen planinarska kuca \"povlenski kucerak\", 1145,8 m planinarska kuca \"povlenski kucerak\", 1145,8 m povlen pk • vidikovci: 3 vrha, ploce i drvena osmatracnica na ivici knezeva polja • 3 izvora pitke vode • u blizini su povlenske kugle laka staza je kruzna. start je kod planinarske kuce \"povlenski kucerak\", a ide se uzbrdo, juznom padinom velikog povlena. staza je u ovom delu strma, uska, posumljena, ide se u koloni po jedan oko 20 minuta do vrha veliki povlen (1271m). sa vrha se pruza zivopisan pogled na valjevske planine, kao i na taru, zlatibor i planine preko9 drine u republici srpskoj. odatle stenovitim grebenom staza vodi kroz cetinarsku i bukovu sumu pored repetitora na prostranu livadu. preko livade staza penje na srednji povlen (1301m). od ovog vrha silazi se na stene eruptivnog porekla ploce, gde ima takodje vidikovac. posle se staza delimicno vracamo i silazimo na izvor reke cetinje. ovaj deo je u prolece poznat po velikim povrsinama sremusa. od izvora staza vodi preko livade (lici na dzinovski amfiteatar) koja se zove guzvara i pored vikend naselja izlazi na knezevo polje. pored crkve sv. stefana arhidjakona preko livade staza se penje severnom stranom na mali povlen (1347m). staza je uska, strma i posumljena. sa najviseg vrha povlena - mali povlena, kada je dobra vidljivost, vidi se maglic i durmitor. sa vrha se silazi istim putem, pa sa knezeva polja ide zapadno vododerinom pored koliba na kolski put. odatle staza produzava preko madzarije i zavrsava kod planinarske kuce \"povlenski kucerak\".",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:01:36Z"
+    }
+}

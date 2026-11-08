@@ -1,0 +1,189 @@
+{
+    "schema_version": 1,
+    "slug": "kablar",
+    "name": "Kablar",
+    "code": "3-28-3",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 19512,
+        "category_id": 28,
+        "region_ids": [
+            3
+        ],
+        "mountain_ids": [
+            390
+        ]
+    },
+    "region": "Zapadna Srbija",
+    "mountain": "Kablar",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 6.4,
+        "calculated_km": 5.88
+    },
+    "duration": {
+        "official_minutes": 150,
+        "official_text": "2 h 30 min",
+        "official_raw": "2:30"
+    },
+    "elevation": {
+        "official_gain_m": 607.0,
+        "official_loss_m": 0.0,
+        "calculated_gain_m": 3.9,
+        "calculated_loss_m": 583.6,
+        "min_m": 276.4,
+        "max_m": 866.4
+    },
+    "start": "Ovčar Banja - 278 m",
+    "end": "vrh Kablara - 885 m",
+    "description": "Staza kreće iz centra Ovčar Banje, asfaltnim putem ka manastiru Nikolje i planinarskom domu „Kablar“. Od planinarskog doma staza ulazi u šumu do kuća u zaseoku Čvrkići, na ovom delu staza vodi između livada i njiva. Kod seoskog turističkog domaćinstava Čvrkić staza se vraća u šumu do krajnjeg ishodišta.",
+    "landmarks": "manastir Nikolje",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Snabdevenost pitkom vodom: na trasi / izvodi pitke vode: nema\n\nKo je i kada trasirao stazu: polovina XX veka, nepoznato\n\nKada je staza poslednji put markirana: 2019",
+    "map_reference": null,
+    "map_sheet": "Planinarske staze Ovčara i Kablara 1 : 20 000 i Čačak 1 (529/1) 1:50000",
+    "club": {
+        "name": "Kablar PD",
+        "url": "https://pss.rs/adresar_klubova/kablar-pd/",
+        "contact": "Kneza Miloša 1, 32000 Čačak\n+38164 852 60 48\nhttps://www.kablar.rs",
+        "clubs": [
+            {
+                "name": "Kablar PD",
+                "url": "https://pss.rs/adresar_klubova/kablar-pd/",
+                "contact": "Kneza Miloša 1, 32000 Čačak\n+38164 852 60 48\nhttps://www.kablar.rs"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2023/05/3-Kablar-data.gpx",
+        "fetched_at": "2026-11-08T12:03:18Z",
+        "checked_at": "2026-11-08T12:03:18Z",
+        "bytes": 4250,
+        "sha256": "bd94efa56c4f7de3ed6c27ca2fd9c892aa441baa808c49f34c99cd0e09f1c438",
+        "etag": null,
+        "last_modified": "Sun, 07 May 2023 17:17:55 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 44,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2023/05/3-Kablar-data.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/kablar.geojson",
+        "bbox": [
+            20.187329399,
+            43.899680078,
+            20.207454851,
+            43.920609606
+        ],
+        "center": [
+            20.197392,
+            43.910145
+        ],
+        "start_point": [
+            20.191385569,
+            43.91252744
+        ],
+        "end_point": [
+            20.187329399,
+            43.899680078
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    20.19139,
+                    43.91253
+                ],
+                [
+                    20.18782,
+                    43.91628
+                ],
+                [
+                    20.19282,
+                    43.92061
+                ],
+                [
+                    20.19485,
+                    43.91611
+                ],
+                [
+                    20.20138,
+                    43.91707
+                ],
+                [
+                    20.20317,
+                    43.91263
+                ],
+                [
+                    20.20745,
+                    43.91192
+                ],
+                [
+                    20.20196,
+                    43.90643
+                ],
+                [
+                    20.19554,
+                    43.90553
+                ],
+                [
+                    20.18733,
+                    43.89968
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/kablar/",
+        "canonical_url": "https://pss.rs/terenipp/kablar/",
+        "pss_id": 19512,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:03:18Z",
+        "last_synced_at": "2026-11-08T12:03:18Z"
+    },
+    "search": "kablar 3-28-3 zapadna srbija kablar ovcar banja - 278 m vrh kablara - 885 m kablar pd manastir nikolje laka staza krece iz centra ovcar banje, asfaltnim putem ka manastiru nikolje i planinarskom domu „kablar“. od planinarskog doma staza ulazi u sumu do kuca u zaseoku cvrkici, na ovom delu staza vodi izmedju livada i njiva. kod seoskog turistickog domacinstava cvrkic staza se vraca u sumu do krajnjeg ishodista.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:03:18Z"
+    }
+}

@@ -1,0 +1,193 @@
+{
+    "schema_version": 1,
+    "slug": "lisine-resavska-pecina-suvaja",
+    "name": "Lisine - Resavska pećina - Suvaja",
+    "code": "4-7-2",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 23282,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            81
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Kučaj (Resavica)",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 9.0,
+        "calculated_km": 8.62
+    },
+    "duration": {
+        "official_minutes": 240,
+        "official_text": "4 h",
+        "official_raw": "4:00"
+    },
+    "elevation": {
+        "official_gain_m": 500.0,
+        "official_loss_m": 500.0,
+        "calculated_gain_m": 430.6,
+        "calculated_loss_m": 397.6,
+        "min_m": 358.2,
+        "max_m": 646.6
+    },
+    "start": "Šumarska kuća na raskrsnici kanjona Resave i Suvaje",
+    "end": "Šumarska kuća na raskrsnici kanjona Resave i Suvaje",
+    "description": "Staza je kružna i počinje od šumarske kuće u blizini planinarskog doma Suvaja i ide preko Jasikovca i Babine glave do Resavske pećine a zatim posle kratkog uspona silazi u kanjon Suvaje i prateći makadamski put nizvodno uz reku dolazi do polazne tačke.",
+    "landmarks": "Resavska pećina, kanjon Suvaje",
+    "maintenance": "delimično uređena",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinarska kuća “Suvaja“",
+    "notes": "Ko je i kada trasirao stazu: PSK “Resava“ Strmosten 2014. godine. Kada je staza poslednji put markirana: 2023. godine.",
+    "map_reference": null,
+    "map_sheet": "1:50000 Zagubica 3 (482/3)",
+    "club": {
+        "name": "Resava PSK",
+        "url": "https://pss.rs/adresar_klubova/resava-psk/",
+        "contact": "Strmosten 132, 35215 Stenjevac\n+38163 232 204",
+        "clubs": [
+            {
+                "name": "Resava PSK",
+                "url": "https://pss.rs/adresar_klubova/resava-psk/",
+                "contact": "Strmosten 132, 35215 Stenjevac\n+38163 232 204"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2024/01/Track_LISINE-R.PECINA-SUVAJA.gpx",
+        "fetched_at": "2026-11-08T12:03:49Z",
+        "checked_at": "2026-11-08T12:03:49Z",
+        "bytes": 92400,
+        "sha256": "bde2fff0886aae09eb61761113b841851776c83c034a29c6d3c8cd1e184a0c5c",
+        "etag": null,
+        "last_modified": "Fri, 12 Jan 2024 12:56:22 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 858,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2024/01/Track_LISINE-R.PECINA-SUVAJA.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/lisine-resavska-pecina-suvaja.geojson",
+        "bbox": [
+            21.625763811,
+            44.068863262,
+            21.649986673,
+            44.090809431
+        ],
+        "center": [
+            21.637875,
+            44.079836
+        ],
+        "start_point": [
+            21.635560077,
+            44.090409363
+        ],
+        "end_point": [
+            21.635616319,
+            44.090581527
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    21.63556,
+                    44.09041
+                ],
+                [
+                    21.63287,
+                    44.09037
+                ],
+                [
+                    21.63158,
+                    44.08389
+                ],
+                [
+                    21.62611,
+                    44.08026
+                ],
+                [
+                    21.62612,
+                    44.07627
+                ],
+                [
+                    21.63284,
+                    44.07123
+                ],
+                [
+                    21.64989,
+                    44.06886
+                ],
+                [
+                    21.63536,
+                    44.07573
+                ],
+                [
+                    21.63637,
+                    44.08242
+                ],
+                [
+                    21.63303,
+                    44.08678
+                ],
+                [
+                    21.63562,
+                    44.09058
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/lisine-resavska-pecina-suvaja/",
+        "canonical_url": "https://pss.rs/terenipp/lisine-resavska-pecina-suvaja/",
+        "pss_id": 23282,
+        "updated_at": "2024-01-12T13:07:00Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:03:50Z",
+        "last_synced_at": "2026-11-08T12:03:50Z"
+    },
+    "search": "lisine - resavska pecina - suvaja 4-7-2 istocna srbija kucaj (resavica) sumarska kuca na raskrsnici kanjona resave i suvaje sumarska kuca na raskrsnici kanjona resave i suvaje resava psk resavska pecina, kanjon suvaje laka staza je kruzna i pocinje od sumarske kuce u blizini planinarskog doma suvaja i ide preko jasikovca i babine glave do resavske pecine a zatim posle kratkog uspona silazi u kanjon suvaje i prateci makadamski put nizvodno uz reku dolazi do polazne tacke.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:03:50Z"
+    }
+}

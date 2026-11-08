@@ -1,0 +1,203 @@
+{
+    "schema_version": 1,
+    "slug": "staza-br-9-sijanka",
+    "name": "Staza br. 9 \"Šijanka\"",
+    "code": "7-9-9",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 3766,
+        "category_id": 28,
+        "region_ids": [
+            7
+        ],
+        "mountain_ids": [
+            69
+        ]
+    },
+    "region": "Jugoistočna Srbija",
+    "mountain": "Kukavica",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 16.7,
+        "calculated_km": 13.96
+    },
+    "duration": {
+        "official_minutes": 270,
+        "official_text": "4 h 30 min",
+        "official_raw": "4:30"
+    },
+    "elevation": {
+        "official_gain_m": null,
+        "official_loss_m": null,
+        "calculated_gain_m": 824.9,
+        "calculated_loss_m": 134.1,
+        "min_m": 571.8,
+        "max_m": 1266.7
+    },
+    "start": "Hotel \"Vlaina\", 624 m",
+    "end": "Planinarski dom \"Preka voda\", 1270 m",
+    "description": "Hotel Vlaina - Zelengrad - Šijanka - Brestov rid - planinarski dom \"Preka voda\"",
+    "landmarks": null,
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinarski dom \"Preka voda\"",
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": "1:25000, TK Leskovac 632 2-4",
+    "club": {
+        "name": "Kukavica PSK",
+        "url": "https://pss.rs/adresar_klubova/kukavica-psk/",
+        "contact": "Deligradska 5, 16000 Leskovac\n+381652824655",
+        "clubs": [
+            {
+                "name": "Kukavica PSK",
+                "url": "https://pss.rs/adresar_klubova/kukavica-psk/",
+                "contact": "Deligradska 5, 16000 Leskovac\n+381652824655"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 12,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/7-9-9-Staza-br.9-Sijanka.gpx",
+        "fetched_at": "2026-11-08T11:55:15Z",
+        "checked_at": "2026-11-08T11:55:15Z",
+        "bytes": 122014,
+        "sha256": "8b1e21cf699b876a0a81403461dc57937c38dc2b4c974a9145f5bc045c22a148",
+        "etag": null,
+        "last_modified": "Tue, 12 Oct 2021 21:35:22 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 753,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 5,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/7-9-9-Staza-br.9-Sijanka.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/staza-br-9-sijanka.geojson",
+        "bbox": [
+            21.914650965481997,
+            42.773474995046854,
+            21.952182026579976,
+            42.83031301572919
+        ],
+        "center": [
+            21.933416,
+            42.801894
+        ],
+        "start_point": [
+            21.92243699915707,
+            42.83031301572919
+        ],
+        "end_point": [
+            21.95139898918569,
+            42.78508803807199
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.92244,
+                    42.83031
+                ],
+                [
+                    21.92398,
+                    42.82835
+                ],
+                [
+                    21.92223,
+                    42.82274
+                ],
+                [
+                    21.91474,
+                    42.8141
+                ],
+                [
+                    21.91665,
+                    42.78372
+                ],
+                [
+                    21.92296,
+                    42.78742
+                ],
+                [
+                    21.91878,
+                    42.78784
+                ],
+                [
+                    21.91937,
+                    42.78913
+                ],
+                [
+                    21.93004,
+                    42.78781
+                ],
+                [
+                    21.92621,
+                    42.78381
+                ],
+                [
+                    21.92318,
+                    42.78349
+                ],
+                [
+                    21.92214,
+                    42.77887
+                ],
+                [
+                    21.92825,
+                    42.77843
+                ],
+                [
+                    21.93191,
+                    42.77347
+                ],
+                [
+                    21.93707,
+                    42.77878
+                ],
+                [
+                    21.9514,
+                    42.78509
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/staza-br-9-sijanka/",
+        "canonical_url": "https://pss.rs/terenipp/staza-br-9-sijanka/",
+        "pss_id": 3766,
+        "updated_at": "2021-10-12T21:36:35Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:55:16Z",
+        "last_synced_at": "2026-11-08T11:55:16Z"
+    },
+    "search": "staza br. 9 \"sijanka\" 7-9-9 jugoistocna srbija kukavica hotel \"vlaina\", 624 m planinarski dom \"preka voda\", 1270 m kukavica psk zahtevna hotel vlaina - zelengrad - sijanka - brestov rid - planinarski dom \"preka voda\"",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:55:16Z"
+    }
+}

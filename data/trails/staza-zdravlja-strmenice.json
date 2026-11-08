@@ -1,0 +1,123 @@
+{
+    "schema_version": 1,
+    "slug": "staza-zdravlja-strmenice",
+    "name": "Staza zdravlja Strmenice",
+    "code": "6-2-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 4512,
+        "category_id": 28,
+        "region_ids": [
+            6
+        ],
+        "mountain_ids": [
+            106
+        ]
+    },
+    "region": "Kopaoničko-Toplička regija",
+    "mountain": "Ozren (Kraljevo)",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 8.0,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": 409.0,
+        "official_loss_m": 409.0,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": "3km od Žiče uz reku kod kafane i vira za kupanje, 270m",
+    "end": "3km od Žiče uz reku kod kafane i vira za kupanje, 270m",
+    "description": "• Od mosta u Žiči crveno-belom bojom, obeleženim putem (2,8km) uz Žičku reku, kod poslednjih kuća, počinje obeležena plava staza za rekreaciju i trening sportista.\n\n • Ukupna dužina staza 14,39km\n\n • Propisna planinarska markacija u pet boja: plava staza (8km), zelena staza (2,55km), žuta staza (2,14km), crvena staza (1,3km), braon staza (0,4km)",
+    "landmarks": "Vidikovac na vrhu Strmenica (679 m)",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Staze je trasirao Branislav Binić Bine 2008. a poslednji put su markirane april-maj 2015.",
+    "map_reference": null,
+    "map_sheet": "Štampan je putni vodič A5 formata sa skicom staze",
+    "club": {
+        "name": "Kraljevo PAK",
+        "url": "https://pss.rs/adresar_klubova/kraljevo-pak/",
+        "contact": "Cara Lazara 77, 36000 Kraljevo\n+38165 654 98 74",
+        "clubs": [
+            {
+                "name": "Kraljevo PAK",
+                "url": "https://pss.rs/adresar_klubova/kraljevo-pak/",
+                "contact": "Cara Lazara 77, 36000 Kraljevo\n+38165 654 98 74"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": false,
+        "status": "missing",
+        "source_url": null,
+        "fetched_at": null,
+        "checked_at": "2026-11-08T11:57:31Z",
+        "bytes": null,
+        "sha256": null,
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": null,
+        "tracks": null,
+        "segments": null,
+        "waypoints": null,
+        "error": null,
+        "download": {
+            "mode": "none",
+            "url": null
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_gpx"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/staza-zdravlja-strmenice/",
+        "canonical_url": "https://pss.rs/terenipp/staza-zdravlja-strmenice/",
+        "pss_id": 4512,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:57:31Z",
+        "last_synced_at": "2026-11-08T11:57:31Z"
+    },
+    "search": "staza zdravlja strmenice 6-2-1 kopaonicko-toplicka regija ozren (kraljevo) 3km od zice uz reku kod kafane i vira za kupanje, 270m 3km od zice uz reku kod kafane i vira za kupanje, 270m kraljevo pak vidikovac na vrhu strmenica (679 m) laka • od mosta u zici crveno-belom bojom, obelezenim putem (2,8km) uz zicku reku, kod poslednjih kuca, pocinje obelezena plava staza za rekreaciju i trening sportista. • ukupna duzina staza 14,39km • propisna planinarska markacija u pet boja: plava staza (8km), zelena staza (2,55km), zuta staza (2,14km), crvena staza (1,3km), braon staza (0,4km)",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:57:31Z"
+    }
+}

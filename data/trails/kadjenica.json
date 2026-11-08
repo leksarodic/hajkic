@@ -1,0 +1,173 @@
+{
+    "schema_version": 1,
+    "slug": "kadjenica",
+    "name": "Kađenica",
+    "code": "5-15-2",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 19528,
+        "category_id": 28,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            408
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Debela gora",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 4.35,
+        "calculated_km": 4.26
+    },
+    "duration": {
+        "official_minutes": 105,
+        "official_text": "1 h 45 min",
+        "official_raw": "1:45"
+    },
+    "elevation": {
+        "official_gain_m": 20.0,
+        "official_loss_m": 513.0,
+        "calculated_gain_m": 98.5,
+        "calculated_loss_m": 591.4,
+        "min_m": 289.7,
+        "max_m": 785.9
+    },
+    "start": "Branojevac - 791 m",
+    "end": "Ovčar Banja, bivši auto kamp - 278 m",
+    "description": "Staza se može posmatrati kao varijanta staze Debela gora sa oblilaskom spomen kosturnice crkve pećine Kađenica. Može se ići iz oba snmera, mi opis dajemo iz smera Branojevac na dole ka Ovčar Banji. Staza je sve vreme u šumi, mestimično strma do izlaska na put koji vodi iz Dljina ka brani He Ovčar Banja. U ovom delu staza je gotovo položena.",
+    "landmarks": "spomen kosturnica crkva pećina Kađenica",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Snabdevenost pitkom vodom: na trasi / izvodi pitke vode: nema\n\n • Ko je i kada trasirao stazu: polovina XX veka, nepoznato\n\n • Kada je staza poslednji put markirana: 2018",
+    "map_reference": null,
+    "map_sheet": "Planinarske staze Ovčara i Kablara 1 : 20 000 i Čačak 1 (529/1) 1:50000",
+    "club": {
+        "name": "Kablar PD",
+        "url": "https://pss.rs/adresar_klubova/kablar-pd/",
+        "contact": "Kneza Miloša 1, 32000 Čačak\n+38164 852 60 48\nhttps://www.kablar.rs",
+        "clubs": [
+            {
+                "name": "Kablar PD",
+                "url": "https://pss.rs/adresar_klubova/kablar-pd/",
+                "contact": "Kneza Miloša 1, 32000 Čačak\n+38164 852 60 48\nhttps://www.kablar.rs"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2023/05/10-Kadjenica-sa-Branojevca-data.gpx",
+        "fetched_at": "2026-11-08T12:03:29Z",
+        "checked_at": "2026-11-08T12:03:29Z",
+        "bytes": 30023,
+        "sha256": "5730b3ecafbe7b7a9e307e2b2e431483e4847973c67e427cdb0bd87fe457e257",
+        "etag": null,
+        "last_modified": "Sun, 07 May 2023 19:35:28 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 338,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2023/05/10-Kadjenica-sa-Branojevca-data.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/kadjenica.geojson",
+        "bbox": [
+            20.158230532,
+            43.886935059,
+            20.17593395,
+            43.900326071
+        ],
+        "center": [
+            20.167082,
+            43.893631
+        ],
+        "start_point": [
+            20.166619979,
+            43.887230605
+        ],
+        "end_point": [
+            20.175539665,
+            43.900326071
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    20.16662,
+                    43.88723
+                ],
+                [
+                    20.16528,
+                    43.8914
+                ],
+                [
+                    20.16154,
+                    43.8896
+                ],
+                [
+                    20.16215,
+                    43.89511
+                ],
+                [
+                    20.15823,
+                    43.89659
+                ],
+                [
+                    20.17554,
+                    43.90033
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/kadjenica/",
+        "canonical_url": "https://pss.rs/terenipp/kadjenica/",
+        "pss_id": 19528,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:03:30Z",
+        "last_synced_at": "2026-11-08T12:03:30Z"
+    },
+    "search": "kadjenica 5-15-2 jugozapadna srbija debela gora branojevac - 791 m ovcar banja, bivsi auto kamp - 278 m kablar pd spomen kosturnica crkva pecina kadjenica laka staza se moze posmatrati kao varijanta staze debela gora sa oblilaskom spomen kosturnice crkve pecine kadjenica. moze se ici iz oba snmera, mi opis dajemo iz smera branojevac na dole ka ovcar banji. staza je sve vreme u sumi, mestimicno strma do izlaska na put koji vodi iz dljina ka brani he ovcar banja. u ovom delu staza je gotovo polozena.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:03:30Z"
+    }
+}

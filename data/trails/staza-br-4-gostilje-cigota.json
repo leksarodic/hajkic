@@ -1,0 +1,249 @@
+{
+    "schema_version": 1,
+    "slug": "staza-br-4-gostilje-cigota",
+    "name": "Staza br. 4: Gostilje – Čigota",
+    "code": "5-12-8",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 19085,
+        "category_id": 28,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            122
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Zlatibor",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 17.6,
+        "calculated_km": 17.65
+    },
+    "duration": {
+        "official_minutes": 390,
+        "official_text": "6 h 30 min",
+        "official_raw": "6:30"
+    },
+    "elevation": {
+        "official_gain_m": 850.0,
+        "official_loss_m": 850.0,
+        "calculated_gain_m": 1228.8,
+        "calculated_loss_m": 1226.0,
+        "min_m": 811.0,
+        "max_m": 1392.0
+    },
+    "start": "Centar sela Gostilja",
+    "end": "Centar sela Gostilja",
+    "description": "Centar sela Gostilja - Vučajica (1,0 km) – Rakovička pećina (5,7 km) - Osoje (8,0 km) – vrh Čigota (10,9 km) – Zaugline (12,7 km) – Svinjčine (15,4 km) - Centar sela Gostilja (17,6 km)",
+    "landmarks": "Gostiljski vodopad, Rakovička pećina, Izletište Zaugline i vrh Čigota (1422 m)",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Stazu je trasirao Šuljagić Veliša sa Zlatibora 2020. godine i markirana je 2021. godine.\n\nStaza je izgrađena sredstvima JP-a \"Srbijašume\" Beograd.",
+    "map_reference": null,
+    "map_sheet": "1:50000 Titovo Užice 4 (528-4)",
+    "club": {
+        "name": "Tornik PK",
+        "url": "https://pss.rs/adresar_klubova/tornik-pk/",
+        "contact": "Zlatiborska 28\n064 156 55 78",
+        "clubs": [
+            {
+                "name": "Tornik PK",
+                "url": "https://pss.rs/adresar_klubova/tornik-pk/",
+                "contact": "Zlatiborska 28\n064 156 55 78"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 5,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2023/03/Staza-4-Gostilje-Cigota.gpx",
+        "fetched_at": "2026-11-08T12:02:50Z",
+        "checked_at": "2026-11-08T12:02:50Z",
+        "bytes": 549483,
+        "sha256": "1a59246f23f303b5f53080bf9be13e90fbb00176ea0e1f9ccf2672cdd8dbcbeb",
+        "etag": null,
+        "last_modified": "Tue, 21 Mar 2023 16:55:47 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 5085,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 7,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2023/03/Staza-4-Gostilje-Cigota.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/staza-br-4-gostilje-cigota.geojson",
+        "bbox": [
+            19.766722,
+            43.640123,
+            19.829317,
+            43.660758
+        ],
+        "center": [
+            19.79802,
+            43.650441
+        ],
+        "start_point": [
+            19.829258,
+            43.653654
+        ],
+        "end_point": [
+            19.829317,
+            43.653595
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    19.82926,
+                    43.65365
+                ],
+                [
+                    19.81853,
+                    43.65525
+                ],
+                [
+                    19.80979,
+                    43.65066
+                ],
+                [
+                    19.80113,
+                    43.65253
+                ],
+                [
+                    19.79084,
+                    43.64912
+                ],
+                [
+                    19.79317,
+                    43.657
+                ],
+                [
+                    19.79661,
+                    43.65883
+                ],
+                [
+                    19.7952,
+                    43.66076
+                ],
+                [
+                    19.79626,
+                    43.65806
+                ],
+                [
+                    19.79234,
+                    43.65739
+                ],
+                [
+                    19.78907,
+                    43.65861
+                ],
+                [
+                    19.78578,
+                    43.65748
+                ],
+                [
+                    19.78358,
+                    43.65926
+                ],
+                [
+                    19.77647,
+                    43.65828
+                ],
+                [
+                    19.77621,
+                    43.65649
+                ],
+                [
+                    19.77093,
+                    43.65512
+                ],
+                [
+                    19.77321,
+                    43.65248
+                ],
+                [
+                    19.76838,
+                    43.65219
+                ],
+                [
+                    19.76672,
+                    43.64915
+                ],
+                [
+                    19.7796,
+                    43.64871
+                ],
+                [
+                    19.78958,
+                    43.64012
+                ],
+                [
+                    19.79709,
+                    43.64241
+                ],
+                [
+                    19.80597,
+                    43.64039
+                ],
+                [
+                    19.8205,
+                    43.64676
+                ],
+                [
+                    19.82932,
+                    43.6536
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/staza-br-4-gostilje-cigota/",
+        "canonical_url": "https://pss.rs/terenipp/staza-br-4-gostilje-cigota/",
+        "pss_id": 19085,
+        "updated_at": "2023-03-21T17:49:39Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:02:50Z",
+        "last_synced_at": "2026-11-08T12:02:50Z"
+    },
+    "search": "staza br. 4: gostilje – cigota 5-12-8 jugozapadna srbija zlatibor centar sela gostilja centar sela gostilja tornik pk gostiljski vodopad, rakovicka pecina, izletiste zaugline i vrh cigota (1422 m) zahtevna centar sela gostilja - vucajica (1,0 km) – rakovicka pecina (5,7 km) - osoje (8,0 km) – vrh cigota (10,9 km) – zaugline (12,7 km) – svinjcine (15,4 km) - centar sela gostilja (17,6 km)",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:02:50Z"
+    }
+}

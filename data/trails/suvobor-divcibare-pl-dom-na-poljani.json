@@ -1,0 +1,244 @@
+{
+    "schema_version": 1,
+    "slug": "suvobor-divcibare-pl-dom-na-poljani",
+    "name": "Suvobor - Divčibare (Pl.dom \"Na poljanama\")",
+    "code": "3-20-7",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 3849,
+        "category_id": 28,
+        "region_ids": [
+            3
+        ],
+        "mountain_ids": [
+            155,
+            40
+        ]
+    },
+    "region": "Zapadna Srbija",
+    "mountain": "Maljen, Suvobor",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 19.0,
+        "calculated_km": 18.9
+    },
+    "duration": {
+        "official_minutes": 390,
+        "official_text": "6 h 30 min",
+        "official_raw": "6:30"
+    },
+    "elevation": {
+        "official_gain_m": 790.0,
+        "official_loss_m": 670.0,
+        "calculated_gain_m": 931.9,
+        "calculated_loss_m": 857.5,
+        "min_m": 629.5,
+        "max_m": 1020.9
+    },
+    "start": "Vrh Suvobora, 866 m",
+    "end": "Maljen (Divčibare, Pl. dom \"Na poljanama\"), 980 m",
+    "description": "Planinarski put polazi sa vrha Suvobora na zapad, spušta se na asfaltni put koji ide do spomen komplaksa na Ravnoj gori. Spušta se dalje makadamskim putem do potoka Grab (nema obezbeđen prelaz - most), a zatim se lagano penje šumskom pa livadskom stazom u pravcu zapada ka kotama Riorak-721 i Rior-882. Put dalje nastavlja takođe na zapad (pretežno livadskom stazom) prolazeći sa severne strane ispod Malog i Velikog Maljena, preko kote Vlasovi 1003 m, preseca makadamski put, spušta se ka lokalnom potočiću i potom izlazi na proplanak gde se nalazi planinarski dom \"Na poljanama\".",
+    "landmarks": "• Spomenik borcima Suvoborsko-kolubarske bitke\n\n • Spomen komplaks na Ravnoj Gori\n\n • Mokra pećina\n\n • Spomenik palim u Velikom Ratu",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinarska kuća \"Dobra voda\", Planinarski dom \"Čika Duško Jovanović\", Planinarski dom na poljanama Maljen",
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": "Planinarsko-turistička topografska karta 1:25000, Suvoborski Rajac (st. br.7), u izdanju ”Geokarte” Beograd (Prvo izdanje, 2008)",
+    "club": {
+        "name": "Pobeda PSK",
+        "url": "https://pss.rs/adresar_klubova/pobeda-pk/",
+        "contact": "Mačvanska 8, 11000 Beograd\n+38163 329 434 ; +38163 32 94 50\nhttps://www.pskpobeda.rs",
+        "clubs": [
+            {
+                "name": "Pobeda PSK",
+                "url": "https://pss.rs/adresar_klubova/pobeda-pk/",
+                "contact": "Mačvanska 8, 11000 Beograd\n+38163 329 434 ; +38163 32 94 50\nhttps://www.pskpobeda.rs"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/3-20-7-Suvobor-Divcibare.gpx",
+        "fetched_at": "2026-11-08T11:55:44Z",
+        "checked_at": "2026-11-08T11:55:44Z",
+        "bytes": 219259,
+        "sha256": "e96dc8825bb997c0e0f6d34c64a56ecc10dce7048e2bd746886fe7a22a41fef7",
+        "etag": null,
+        "last_modified": "Sat, 21 May 2022 17:13:08 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 1643,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 20,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/3-20-7-Suvobor-Divcibare.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/suvobor-divcibare-pl-dom-na-poljani.geojson",
+        "bbox": [
+            20.01370078884065,
+            44.10681450739503,
+            20.181842017918825,
+            44.12965200841427
+        ],
+        "center": [
+            20.097771,
+            44.118233
+        ],
+        "start_point": [
+            20.181842017918825,
+            44.12104102782905
+        ],
+        "end_point": [
+            20.01370078884065,
+            44.12930675782263
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    20.18184,
+                    44.12104
+                ],
+                [
+                    20.17352,
+                    44.11864
+                ],
+                [
+                    20.17346,
+                    44.11656
+                ],
+                [
+                    20.17004,
+                    44.11611
+                ],
+                [
+                    20.16541,
+                    44.11095
+                ],
+                [
+                    20.15603,
+                    44.10836
+                ],
+                [
+                    20.14583,
+                    44.11169
+                ],
+                [
+                    20.14216,
+                    44.11539
+                ],
+                [
+                    20.14246,
+                    44.1099
+                ],
+                [
+                    20.13725,
+                    44.11073
+                ],
+                [
+                    20.13482,
+                    44.10823
+                ],
+                [
+                    20.11712,
+                    44.1094
+                ],
+                [
+                    20.11475,
+                    44.10681
+                ],
+                [
+                    20.11135,
+                    44.1095
+                ],
+                [
+                    20.09715,
+                    44.10746
+                ],
+                [
+                    20.08735,
+                    44.11021
+                ],
+                [
+                    20.0827,
+                    44.1144
+                ],
+                [
+                    20.07284,
+                    44.11281
+                ],
+                [
+                    20.05721,
+                    44.12238
+                ],
+                [
+                    20.05563,
+                    44.12579
+                ],
+                [
+                    20.04533,
+                    44.12643
+                ],
+                [
+                    20.0412,
+                    44.12965
+                ],
+                [
+                    20.03685,
+                    44.12805
+                ],
+                [
+                    20.02671,
+                    44.12934
+                ],
+                [
+                    20.02192,
+                    44.1254
+                ],
+                [
+                    20.0137,
+                    44.12931
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/suvobor-divcibare-pl-dom-na-poljani/",
+        "canonical_url": "https://pss.rs/terenipp/suvobor-divcibare-pl-dom-na-poljani/",
+        "pss_id": 3849,
+        "updated_at": "2022-05-21T17:17:37Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:55:45Z",
+        "last_synced_at": "2026-11-08T11:55:45Z"
+    },
+    "search": "suvobor - divcibare (pl.dom \"na poljanama\") 3-20-7 zapadna srbija maljen, suvobor vrh suvobora, 866 m maljen (divcibare, pl. dom \"na poljanama\"), 980 m pobeda psk • spomenik borcima suvoborsko-kolubarske bitke • spomen komplaks na ravnoj gori • mokra pecina • spomenik palim u velikom ratu zahtevna planinarski put polazi sa vrha suvobora na zapad, spusta se na asfaltni put koji ide do spomen komplaksa na ravnoj gori. spusta se dalje makadamskim putem do potoka grab (nema obezbedjen prelaz - most), a zatim se lagano penje sumskom pa livadskom stazom u pravcu zapada ka kotama riorak-721 i rior-882. put dalje nastavlja takodje na zapad (pretezno livadskom stazom) prolazeci sa severne strane ispod malog i velikog maljena, preko kote vlasovi 1003 m, preseca makadamski put, spusta se ka lokalnom potocicu i potom izlazi na proplanak gde se nalazi planinarski dom \"na poljanama\".",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:55:45Z"
+    }
+}

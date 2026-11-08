@@ -1,0 +1,187 @@
+{
+    "schema_version": 1,
+    "slug": "tri-cesme-koviljacka-kosa-crni-vrh-gucevo",
+    "name": "Tri česme - Koviljačka kosa - Crni vrh (Gučevo)",
+    "code": "3-3-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 7892,
+        "category_id": 28,
+        "region_ids": [
+            3
+        ],
+        "mountain_ids": [
+            89
+        ]
+    },
+    "region": "Zapadna Srbija",
+    "mountain": "Gučevo",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 6.0,
+        "calculated_km": 6.2
+    },
+    "duration": {
+        "official_minutes": 150,
+        "official_text": "2 h 30 min",
+        "official_raw": "2:30"
+    },
+    "elevation": {
+        "official_gain_m": 690.0,
+        "official_loss_m": 42.0,
+        "calculated_gain_m": 670.6,
+        "calculated_loss_m": 49.0,
+        "min_m": 126.3,
+        "max_m": 777.3
+    },
+    "start": "Banja Koviljača, \"Tri česme\", 156m",
+    "end": "Crni vrh, vrh Gučeva, 779m",
+    "description": "Od izvora \"Tri česme\" krenuti istočno ka crkvi Svetog Petra i Pavla, potom pored starog zdanja Železničkog doma uputiti se ka izvoru Ilidža i otpočeti uspon na Koviljačku kosu. Kroz retku bukovu šumu izbiti na asfalt kod vikendica i nakon naglog uspona od 1,5km doći do Spomen kosturnice i Crnog vrha najviše kote Gučeva.",
+    "landmarks": "• Banja Koviljača\n\n • Crkva Svetog Petra i Pavla\n\n • Brdo Gradac sa ostacima iz rimskog perioda\n\n • Spomen kosturnica iz Prvog svetskog rata\n\n • Dva vidikovaca",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Na trasi ima privatni smeštaj\n\n • Van trase ima planinarski objekat, kamp, privatni smeštaj i odmaralište\n\n • Na trasi ima 4 izvora pitke vode",
+    "map_reference": null,
+    "map_sheet": "Planinarsko-turistička info karta, razmera 1:15000, formata A3",
+    "club": {
+        "name": "Gučevo PK",
+        "url": "https://pss.rs/adresar_klubova/gucevo-pk/",
+        "contact": "Gimnazijska bb, 15300 Loznica\n+38164 1882423 ; +38169 1011687",
+        "clubs": [
+            {
+                "name": "Gučevo PK",
+                "url": "https://pss.rs/adresar_klubova/gucevo-pk/",
+                "contact": "Gimnazijska bb, 15300 Loznica\n+38164 1882423 ; +38169 1011687"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 13,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2018/12/3-3-1-Staza-1.gpx",
+        "fetched_at": "2026-11-08T11:59:28Z",
+        "checked_at": "2026-11-08T11:59:28Z",
+        "bytes": 69512,
+        "sha256": "b076018cfedd17696e86e91e67270d3a8c9a82ab4716b4ed2f8c2f4d6a54c4e2",
+        "etag": null,
+        "last_modified": "Mon, 17 Dec 2018 18:01:56 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 568,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 4,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2018/12/3-3-1-Staza-1.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/tri-cesme-koviljacka-kosa-crni-vrh-gucevo.geojson",
+        "bbox": [
+            19.156335024163127,
+            44.48830811306834,
+            19.18160554021597,
+            44.513992108404636
+        ],
+        "center": [
+            19.16897,
+            44.50115
+        ],
+        "start_point": [
+            19.1564176697284,
+            44.51111284084618
+        ],
+        "end_point": [
+            19.177298163995147,
+            44.48857222683728
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    19.15642,
+                    44.51111
+                ],
+                [
+                    19.16172,
+                    44.51199
+                ],
+                [
+                    19.16239,
+                    44.51399
+                ],
+                [
+                    19.17281,
+                    44.50979
+                ],
+                [
+                    19.17679,
+                    44.51122
+                ],
+                [
+                    19.18109,
+                    44.50936
+                ],
+                [
+                    19.17847,
+                    44.50168
+                ],
+                [
+                    19.17457,
+                    44.49823
+                ],
+                [
+                    19.17917,
+                    44.49121
+                ],
+                [
+                    19.17507,
+                    44.49133
+                ],
+                [
+                    19.17426,
+                    44.48966
+                ],
+                [
+                    19.1773,
+                    44.48857
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/tri-cesme-koviljacka-kosa-crni-vrh-gucevo/",
+        "canonical_url": "https://pss.rs/terenipp/tri-cesme-koviljacka-kosa-crni-vrh-gucevo/",
+        "pss_id": 7892,
+        "updated_at": "2018-12-17T18:14:46Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:59:29Z",
+        "last_synced_at": "2026-11-08T11:59:29Z"
+    },
+    "search": "tri cesme - koviljacka kosa - crni vrh (gucevo) 3-3-1 zapadna srbija gucevo banja koviljaca, \"tri cesme\", 156m crni vrh, vrh guceva, 779m gucevo pk • banja koviljaca • crkva svetog petra i pavla • brdo gradac sa ostacima iz rimskog perioda • spomen kosturnica iz prvog svetskog rata • dva vidikovaca laka od izvora \"tri cesme\" krenuti istocno ka crkvi svetog petra i pavla, potom pored starog zdanja zeleznickog doma uputiti se ka izvoru ilidza i otpoceti uspon na koviljacku kosu. kroz retku bukovu sumu izbiti na asfalt kod vikendica i nakon naglog uspona od 1,5km doci do spomen kosturnice i crnog vrha najvise kote guceva.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:59:29Z"
+    }
+}

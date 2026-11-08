@@ -1,0 +1,125 @@
+{
+    "schema_version": 1,
+    "slug": "tri-vrha-atomske-banje",
+    "name": "Tri vrha Atomske banje",
+    "code": "2-11-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 13550,
+        "category_id": 28,
+        "region_ids": [
+            2
+        ],
+        "mountain_ids": [
+            203,
+            202,
+            84
+        ]
+    },
+    "region": "Šumadija",
+    "mountain": "Bukovik (Čačak), Ostrica, Vujan",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 28.2,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": 480,
+        "official_text": "8 h",
+        "official_raw": "8:00"
+    },
+    "elevation": {
+        "official_gain_m": 1375.0,
+        "official_loss_m": 1300.0,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": "Centar banje - hotel Vujan KT-1, 330 m",
+    "end": "Mesna zajednica - škola KT-8, 380 m",
+    "description": "Staza povezuje jednosmerne staze koje iz banje izlaze na vrhove Vujna, Bukovika i Ostrice i može se deliti na više nezavisnih celina koje mogu biti kružne u kombinaciji jednog, dva ili sva tri vrha i tačko bi činila jedinstvenu stazu.",
+    "landmarks": "• Manastir Vujan\n\n • Arheološko nalazište Sokolica\n\n • Vidikovci: Bukovik, Majdan, Ostrica\n\n • Na trasi ima izvor pitke vode: Bukovik\n\n • Naselja: Gornja Trepča, Vujetinci\n\n • Na trasi ima privatni smeštaj i odmaralište.",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Staza je poslednji put markirana 2019. -2020. - 2021. godine.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "FRA PK",
+        "url": "https://pss.rs/adresar_klubova/fra-pk/",
+        "contact": "Hajduk Veljkova 37, 32000 Čačak\n+38132 826 470 ; +38160 66 01 509",
+        "clubs": [
+            {
+                "name": "FRA PK",
+                "url": "https://pss.rs/adresar_klubova/fra-pk/",
+                "contact": "Hajduk Veljkova 37, 32000 Čačak\n+38132 826 470 ; +38160 66 01 509"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": false,
+        "status": "missing",
+        "source_url": null,
+        "fetched_at": null,
+        "checked_at": "2026-11-08T12:02:03Z",
+        "bytes": null,
+        "sha256": null,
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": null,
+        "tracks": null,
+        "segments": null,
+        "waypoints": null,
+        "error": null,
+        "download": {
+            "mode": "none",
+            "url": null
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_gpx"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/tri-vrha-atomske-banje/",
+        "canonical_url": "https://pss.rs/terenipp/tri-vrha-atomske-banje/",
+        "pss_id": 13550,
+        "updated_at": "2021-04-16T13:13:48Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:02:03Z",
+        "last_synced_at": "2026-11-08T12:02:03Z"
+    },
+    "search": "tri vrha atomske banje 2-11-1 sumadija bukovik (cacak), ostrica, vujan centar banje - hotel vujan kt-1, 330 m mesna zajednica - skola kt-8, 380 m fra pk • manastir vujan • arheolosko nalaziste sokolica • vidikovci: bukovik, majdan, ostrica • na trasi ima izvor pitke vode: bukovik • naselja: gornja trepca, vujetinci • na trasi ima privatni smestaj i odmaraliste. zahtevna staza povezuje jednosmerne staze koje iz banje izlaze na vrhove vujna, bukovika i ostrice i moze se deliti na vise nezavisnih celina koje mogu biti kruzne u kombinaciji jednog, dva ili sva tri vrha i tacko bi cinila jedinstvenu stazu.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:02:03Z"
+    }
+}

@@ -1,0 +1,183 @@
+{
+    "schema_version": 1,
+    "slug": "veliki-vukan-od-zdrela",
+    "name": "Veliki Vukan od Ždrela",
+    "code": "4-48-4",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 5841,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            111
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Vukan",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 8.4,
+        "calculated_km": 8.05
+    },
+    "duration": {
+        "official_minutes": 270,
+        "official_text": "4 h 30 min",
+        "official_raw": "4:30"
+    },
+    "elevation": {
+        "official_gain_m": 620.0,
+        "official_loss_m": 620.0,
+        "calculated_gain_m": 623.9,
+        "calculated_loss_m": 623.9,
+        "min_m": 207.8,
+        "max_m": 823.6
+    },
+    "start": "Centar sela Ždrelo, 205m",
+    "end": "Centar sela Ždrelo, 205m",
+    "description": "Staza kreće iz centra sela, nakon 200m se nalazi česma sa pijaćom vodom. Staza nastavlja iznad manastira Ždrelo gde takođe ima izvor sa vodom u dvorištu manastira. Nakon toga se izlazi na put kojim se ide oko 700m i dalje se nastavlja strmijom stazom kroz šumu do sedla gde se u borovoj šumi skreće levo ka vrhu Veliki Vukan (825m). Povratak je istom stazom.",
+    "landmarks": "• Manastir Ždrelo\n\n • Vidikovaci: 4\n\n • Dva izvora pitke vode\n\n • Smeštaj van staze: Izviđački dom Ždrelo\n\n • Privatni smeštaj van staze: Banja Ždrelo i smeštaji u okolini",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Ne zna se ko je trasirao stazu, a poslednji put je markirana 2017. godine.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Gornjak PD",
+        "url": "https://pss.rs/adresar_klubova/gornjak-pd/",
+        "contact": "Prvomajska bb, 12300 Petrovac na Mlavi\n+38164 2345 518 ; +38163 696 682\nhttp://www.gornjak.org.rs",
+        "clubs": [
+            {
+                "name": "Gornjak PD",
+                "url": "https://pss.rs/adresar_klubova/gornjak-pd/",
+                "contact": "Prvomajska bb, 12300 Petrovac na Mlavi\n+38164 2345 518 ; +38163 696 682\nhttp://www.gornjak.org.rs"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2018/01/4-48-4-zdrelo_v-vukan.gpx",
+        "fetched_at": "2026-11-08T11:59:18Z",
+        "checked_at": "2026-11-08T11:59:18Z",
+        "bytes": 64993,
+        "sha256": "9ca50d748723a08810b539d90697b0e7dd175692b5b31eae6f2054d6b4ca2ce7",
+        "etag": null,
+        "last_modified": "Thu, 25 Jan 2018 12:30:50 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 386,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 3,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2018/01/4-48-4-zdrelo_v-vukan.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/veliki-vukan-od-zdrela.geojson",
+        "bbox": [
+            21.505499007180333,
+            44.29062897339463,
+            21.53823603875935,
+            44.298990005627275
+        ],
+        "center": [
+            21.521868,
+            44.294809
+        ],
+        "start_point": [
+            21.505499007180333,
+            44.29453996941447
+        ],
+        "end_point": [
+            21.505499007180333,
+            44.29453996941447
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    21.5055,
+                    44.29454
+                ],
+                [
+                    21.51119,
+                    44.29164
+                ],
+                [
+                    21.51891,
+                    44.29431
+                ],
+                [
+                    21.53565,
+                    44.29063
+                ],
+                [
+                    21.53607,
+                    44.29743
+                ],
+                [
+                    21.53824,
+                    44.29899
+                ],
+                [
+                    21.53607,
+                    44.29743
+                ],
+                [
+                    21.53565,
+                    44.29063
+                ],
+                [
+                    21.51891,
+                    44.29431
+                ],
+                [
+                    21.51119,
+                    44.29164
+                ],
+                [
+                    21.5055,
+                    44.29454
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/veliki-vukan-od-zdrela/",
+        "canonical_url": "https://pss.rs/terenipp/veliki-vukan-od-zdrela/",
+        "pss_id": 5841,
+        "updated_at": "2018-01-25T12:35:32Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:59:18Z",
+        "last_synced_at": "2026-11-08T11:59:18Z"
+    },
+    "search": "veliki vukan od zdrela 4-48-4 istocna srbija vukan centar sela zdrelo, 205m centar sela zdrelo, 205m gornjak pd • manastir zdrelo • vidikovaci: 4 • dva izvora pitke vode • smestaj van staze: izvidjacki dom zdrelo • privatni smestaj van staze: banja zdrelo i smestaji u okolini zahtevna staza krece iz centra sela, nakon 200m se nalazi cesma sa pijacom vodom. staza nastavlja iznad manastira zdrelo gde takodje ima izvor sa vodom u dvoristu manastira. nakon toga se izlazi na put kojim se ide oko 700m i dalje se nastavlja strmijom stazom kroz sumu do sedla gde se u borovoj sumi skrece levo ka vrhu veliki vukan (825m). povratak je istom stazom.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:59:18Z"
+    }
+}

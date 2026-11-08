@@ -1,0 +1,229 @@
+{
+    "schema_version": 1,
+    "slug": "homoljski-planinarski-polumaraton",
+    "name": "Homoljski planinarski polumaraton",
+    "code": "4-4-2",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 5632,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            54
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Homoljske planine",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 16.0,
+        "calculated_km": 15.26
+    },
+    "duration": {
+        "official_minutes": 300,
+        "official_text": "5 h",
+        "official_raw": "5:00"
+    },
+    "elevation": {
+        "official_gain_m": 800.0,
+        "official_loss_m": 800.0,
+        "calculated_gain_m": 918.8,
+        "calculated_loss_m": 899.2,
+        "min_m": 243.8,
+        "max_m": 836.5
+    },
+    "start": "Centar sela Vitovnica, 230m",
+    "end": "Centar sela Vitovnica, 230m",
+    "description": "• Iz centra sela Vitovnica, preko puta manastira uspon šumskom stazom, preko vrha Šest, spust i uspon vrha Dragišonj, spust šumom Trest, uspon na vrh Vrata - KT6 (815m), spust do prevoja i uspon i prelazak grebenom Kobilje glave (778m), teži spust do reke Vitovnice i makadamom pored reke do centra sela.\n\n • Lokalna markacija (plavo-žuta)\n\n • Na stazi potrebna opreznost !",
+    "landmarks": "• Srednjovekovni manastir Vitovnica\n\n • Vidikovci: vrh Vrata",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Stazu je trasirao PK Vukan 2014. godine, a poslednji put je markirana 2016. godine.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Vukan PK",
+        "url": "https://pss.rs/adresar_klubova/vukan-pk/",
+        "contact": "Voje Dulića 41 12000 Požerevac\n+38164 280 6730; +38163 8826271\nhttp://www.pkvukan.rs",
+        "clubs": [
+            {
+                "name": "Vukan PK",
+                "url": "https://pss.rs/adresar_klubova/vukan-pk/",
+                "contact": "Voje Dulića 41 12000 Požerevac\n+38164 280 6730; +38163 8826271\nhttp://www.pkvukan.rs"
+            }
+        ]
+    },
+    "legend": [
+        "KT - kontrolna tačka"
+    ],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/12/4-4-2-Homoljski-polumaraton.gpx",
+        "fetched_at": "2026-11-08T11:59:11Z",
+        "checked_at": "2026-11-08T11:59:11Z",
+        "bytes": 822057,
+        "sha256": "54fd22ff857383f91f0445ef2733a508f1a85fa516c6e518d88b95d726f2b399",
+        "etag": null,
+        "last_modified": "Mon, 31 Oct 2022 01:21:51 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 5064,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 6,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/12/4-4-2-Homoljski-polumaraton.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/homoljski-planinarski-polumaraton.geojson",
+        "bbox": [
+            21.535993041470647,
+            44.339145021513104,
+            21.583499992266297,
+            44.378207037225366
+        ],
+        "center": [
+            21.559747,
+            44.358676
+        ],
+        "start_point": [
+            21.537393992766738,
+            44.37641800381243
+        ],
+        "end_point": [
+            21.535993041470647,
+            44.37639595940709
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.53739,
+                    44.37642
+                ],
+                [
+                    21.54203,
+                    44.37707
+                ],
+                [
+                    21.53828,
+                    44.37105
+                ],
+                [
+                    21.54063,
+                    44.36745
+                ],
+                [
+                    21.55291,
+                    44.35963
+                ],
+                [
+                    21.5558,
+                    44.3597
+                ],
+                [
+                    21.5559,
+                    44.35802
+                ],
+                [
+                    21.55919,
+                    44.35832
+                ],
+                [
+                    21.56637,
+                    44.35413
+                ],
+                [
+                    21.57319,
+                    44.34383
+                ],
+                [
+                    21.57914,
+                    44.34287
+                ],
+                [
+                    21.5802,
+                    44.33915
+                ],
+                [
+                    21.58345,
+                    44.34473
+                ],
+                [
+                    21.5816,
+                    44.35048
+                ],
+                [
+                    21.57213,
+                    44.35816
+                ],
+                [
+                    21.57068,
+                    44.35475
+                ],
+                [
+                    21.56697,
+                    44.36423
+                ],
+                [
+                    21.55935,
+                    44.37197
+                ],
+                [
+                    21.55472,
+                    44.37496
+                ],
+                [
+                    21.54853,
+                    44.3745
+                ],
+                [
+                    21.54762,
+                    44.37804
+                ],
+                [
+                    21.53599,
+                    44.3764
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/homoljski-planinarski-polumaraton/",
+        "canonical_url": "https://pss.rs/terenipp/homoljski-planinarski-polumaraton/",
+        "pss_id": 5632,
+        "updated_at": "2022-10-31T01:22:27Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:59:12Z",
+        "last_synced_at": "2026-11-08T11:59:12Z"
+    },
+    "search": "homoljski planinarski polumaraton 4-4-2 istocna srbija homoljske planine centar sela vitovnica, 230m centar sela vitovnica, 230m vukan pk • srednjovekovni manastir vitovnica • vidikovci: vrh vrata zahtevna • iz centra sela vitovnica, preko puta manastira uspon sumskom stazom, preko vrha sest, spust i uspon vrha dragisonj, spust sumom trest, uspon na vrh vrata - kt6 (815m), spust do prevoja i uspon i prelazak grebenom kobilje glave (778m), tezi spust do reke vitovnice i makadamom pored reke do centra sela. • lokalna markacija (plavo-zuta) • na stazi potrebna opreznost !",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:59:12Z"
+    }
+}

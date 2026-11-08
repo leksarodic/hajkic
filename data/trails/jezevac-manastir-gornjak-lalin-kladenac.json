@@ -1,0 +1,203 @@
+{
+    "schema_version": 1,
+    "slug": "jezevac-manastir-gornjak-lalin-kladenac",
+    "name": "Ježevac, Manastir Gornjak-Lalin kladenac",
+    "code": "4-49-2",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 5088,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            112
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Ježevac",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 9.2,
+        "calculated_km": 9.22
+    },
+    "duration": {
+        "official_minutes": 360,
+        "official_text": "6 h",
+        "official_raw": "6:00"
+    },
+    "elevation": {
+        "official_gain_m": 498.0,
+        "official_loss_m": 512.0,
+        "calculated_gain_m": 574.5,
+        "calculated_loss_m": 616.3,
+        "min_m": 164.0,
+        "max_m": 714.5
+    },
+    "start": "Manastir Gornjak (177m)",
+    "end": "Asfaltni put u blizini Šetonjskog mosta na reci Mlavi (163m)",
+    "description": "Na startu i cilju ima mesta za parkiranje vozila. Iz oba smera se jednim delom ide nasutim ili zemljenim putem, dok ostatak čine planinarske staze sa većinski zemljanom podlogom. Staza nije strma i prikladna je za početnike i osobe sa slabijom kondicijom.",
+    "landmarks": "• Manastir Gornjak\n\n • Izletište Čvarinac\n\n • Veštački tuneli iznad Manastira Gornjak\n\n • 2 vidikovca",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Staza je poslednji put markirana 2016. godine.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Gornjak PD",
+        "url": "https://pss.rs/adresar_klubova/gornjak-pd/",
+        "contact": "Prvomajska bb, 12300 Petrovac na Mlavi\n+38164 2345 518 ; +38163 696 682\nhttp://www.gornjak.org.rs",
+        "clubs": [
+            {
+                "name": "Gornjak PD",
+                "url": "https://pss.rs/adresar_klubova/gornjak-pd/",
+                "contact": "Prvomajska bb, 12300 Petrovac na Mlavi\n+38164 2345 518 ; +38163 696 682\nhttp://www.gornjak.org.rs"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/10/4-49-2_Jezevac-Lalin_kladenac.gpx",
+        "fetched_at": "2026-11-08T11:59:07Z",
+        "checked_at": "2026-11-08T11:59:07Z",
+        "bytes": 154951,
+        "sha256": "300ff58b6422de3faaaa015a499cbf4cd9ab1b169e7382b0b3f85e1b4dca7b78",
+        "etag": null,
+        "last_modified": "Fri, 20 Oct 2017 15:57:40 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 986,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 5,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/10/4-49-2_Jezevac-Lalin_kladenac.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/jezevac-manastir-gornjak-lalin-kladenac.geojson",
+        "bbox": [
+            21.50343001820147,
+            44.25548700615764,
+            21.54459798708558,
+            44.28129203617573
+        ],
+        "center": [
+            21.524014,
+            44.26839
+        ],
+        "start_point": [
+            21.54459798708558,
+            44.26609296351671
+        ],
+        "end_point": [
+            21.505482997745275,
+            44.28129203617573
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.5446,
+                    44.26609
+                ],
+                [
+                    21.53772,
+                    44.26006
+                ],
+                [
+                    21.53776,
+                    44.25684
+                ],
+                [
+                    21.52379,
+                    44.25585
+                ],
+                [
+                    21.51687,
+                    44.26475
+                ],
+                [
+                    21.51482,
+                    44.25983
+                ],
+                [
+                    21.51631,
+                    44.25775
+                ],
+                [
+                    21.51397,
+                    44.2568
+                ],
+                [
+                    21.51046,
+                    44.26154
+                ],
+                [
+                    21.51129,
+                    44.26402
+                ],
+                [
+                    21.50919,
+                    44.26306
+                ],
+                [
+                    21.50455,
+                    44.26505
+                ],
+                [
+                    21.50815,
+                    44.26852
+                ],
+                [
+                    21.50343,
+                    44.27247
+                ],
+                [
+                    21.50552,
+                    44.27371
+                ],
+                [
+                    21.50548,
+                    44.28129
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/jezevac-manastir-gornjak-lalin-kladenac/",
+        "canonical_url": "https://pss.rs/terenipp/jezevac-manastir-gornjak-lalin-kladenac/",
+        "pss_id": 5088,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:59:08Z",
+        "last_synced_at": "2026-11-08T11:59:08Z"
+    },
+    "search": "jezevac, manastir gornjak-lalin kladenac 4-49-2 istocna srbija jezevac manastir gornjak (177m) asfaltni put u blizini setonjskog mosta na reci mlavi (163m) gornjak pd • manastir gornjak • izletiste cvarinac • vestacki tuneli iznad manastira gornjak • 2 vidikovca laka na startu i cilju ima mesta za parkiranje vozila. iz oba smera se jednim delom ide nasutim ili zemljenim putem, dok ostatak cine planinarske staze sa vecinski zemljanom podlogom. staza nije strma i prikladna je za pocetnike i osobe sa slabijom kondicijom.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:59:08Z"
+    }
+}

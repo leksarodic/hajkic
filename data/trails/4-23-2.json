@@ -1,0 +1,257 @@
+{
+    "schema_version": 1,
+    "slug": "4-23-2",
+    "name": "Мали ртањски врхови - Баба",
+    "code": "4-23-2",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 28842,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            71
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Rtanj",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 15.0,
+        "calculated_km": 15.23
+    },
+    "duration": {
+        "official_minutes": 300,
+        "official_text": "5 h",
+        "official_raw": "5 h"
+    },
+    "elevation": {
+        "official_gain_m": 590.0,
+        "official_loss_m": null,
+        "calculated_gain_m": 548.6,
+        "calculated_loss_m": 556.4,
+        "min_m": 674.1,
+        "max_m": 1059.2
+    },
+    "start": "Церови",
+    "end": "Церови",
+    "description": null,
+    "landmarks": "Голема Порица\n\nЗвечана пропаст",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": null,
+    "map_reference": "https://staze.pss.rs/#trail=4-23-2",
+    "map_sheet": null,
+    "club": {
+        "name": "Oštra čuka PD",
+        "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+        "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/",
+        "clubs": [
+            {
+                "name": "Oštra čuka PD",
+                "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+                "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2026/10/Mali-rtanjski-vrhoviBaba-2025-05-15-1359__20250515_1359.gpx",
+        "fetched_at": "2026-11-08T12:06:29Z",
+        "checked_at": "2026-11-08T12:06:29Z",
+        "bytes": 98599,
+        "sha256": "a0d1beca4a704d19363ff4a08b0e0ee01afb484c1e8c23750b45232d58e581c4",
+        "etag": null,
+        "last_modified": "Thu, 08 Oct 2026 21:00:41 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 742,
+        "tracks": 1,
+        "segments": 4,
+        "waypoints": 41,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2026/10/Mali-rtanjski-vrhoviBaba-2025-05-15-1359__20250515_1359.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/4-23-2.geojson",
+        "bbox": [
+            21.9170507,
+            43.7139746,
+            21.9396904,
+            43.7613846
+        ],
+        "center": [
+            21.928371,
+            43.73768
+        ],
+        "start_point": [
+            21.9396208,
+            43.7141198
+        ],
+        "end_point": [
+            21.9396904,
+            43.7139746
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    21.93962,
+                    43.71412
+                ],
+                [
+                    21.9362,
+                    43.71848
+                ],
+                [
+                    21.93038,
+                    43.71943
+                ],
+                [
+                    21.93061,
+                    43.72772
+                ],
+                [
+                    21.91973,
+                    43.7328
+                ],
+                [
+                    21.91705,
+                    43.73686
+                ],
+                [
+                    21.92343,
+                    43.74012
+                ],
+                [
+                    21.92254,
+                    43.74338
+                ]
+            ],
+            [
+                [
+                    21.92254,
+                    43.74338
+                ],
+                [
+                    21.93148,
+                    43.75079
+                ],
+                [
+                    21.9292,
+                    43.75891
+                ],
+                [
+                    21.92453,
+                    43.76138
+                ],
+                [
+                    21.9305,
+                    43.75474
+                ],
+                [
+                    21.93151,
+                    43.75057
+                ],
+                [
+                    21.92883,
+                    43.7479
+                ]
+            ],
+            [
+                [
+                    21.92883,
+                    43.7479
+                ],
+                [
+                    21.93341,
+                    43.7429
+                ],
+                [
+                    21.92614,
+                    43.7384
+                ],
+                [
+                    21.92854,
+                    43.73695
+                ],
+                [
+                    21.93158,
+                    43.72601
+                ],
+                [
+                    21.93047,
+                    43.71931
+                ],
+                [
+                    21.93615,
+                    43.71847
+                ],
+                [
+                    21.93892,
+                    43.71494
+                ]
+            ],
+            [
+                [
+                    21.93892,
+                    43.71494
+                ],
+                [
+                    21.93969,
+                    43.71397
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/4-23-2/",
+        "canonical_url": "https://pss.rs/terenipp/4-23-2/",
+        "pss_id": 28842,
+        "updated_at": "2026-10-08T21:44:20Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:06:29Z",
+        "last_synced_at": "2026-11-08T12:06:29Z"
+    },
+    "search": "мали ртањски врхови - баба 4-23-2 istocna srbija rtanj церови церови ostra cuka pd голема порица звечана пропаст zahtevna",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:06:29Z"
+    }
+}

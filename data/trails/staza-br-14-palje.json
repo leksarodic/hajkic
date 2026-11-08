@@ -1,0 +1,123 @@
+{
+    "schema_version": 1,
+    "slug": "staza-br-14-palje",
+    "name": "Staza br. 14. \"Palje\"",
+    "code": "7-9-14",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 3771,
+        "category_id": 28,
+        "region_ids": [
+            7
+        ],
+        "mountain_ids": [
+            69
+        ]
+    },
+    "region": "Jugoistočna Srbija",
+    "mountain": "Kukavica",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 8.0,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": 240,
+        "official_text": "4 h",
+        "official_raw": "4"
+    },
+    "elevation": {
+        "official_gain_m": null,
+        "official_loss_m": null,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": "Selo Rudare, 250 m",
+    "end": "Selo Čukljenik, 376 m",
+    "description": "Selo Rudare - crkva sv. Petka Trnovka - Visoki breg kota 351 - Željkovac - Krušar - selo Mala Grabovica - selo Zagužane - Tulovska reka - Kosanovac kota 378 - selo Tulovo - Turska groblja - selo Čukljenik",
+    "landmarks": "• Crkva sv. Petka Trnovska\n\n • Konak u porti crkve iz 17. veka u selu Rudare\n\n • Arheološko nalazište \"Progon\" u selu Mala Grabovnica\n\n • Jezera kod Male Grabovnice\n\n • Spomenik Vlajku Stoiljkoviću",
+    "maintenance": "zapuštena",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": "1:25000, TK Leskovac 632 2-4",
+    "club": {
+        "name": "Kukavica PSK",
+        "url": "https://pss.rs/adresar_klubova/kukavica-psk/",
+        "contact": "Deligradska 5, 16000 Leskovac\n+381652824655",
+        "clubs": [
+            {
+                "name": "Kukavica PSK",
+                "url": "https://pss.rs/adresar_klubova/kukavica-psk/",
+                "contact": "Deligradska 5, 16000 Leskovac\n+381652824655"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 5,
+    "gpx": {
+        "available": false,
+        "status": "missing",
+        "source_url": null,
+        "fetched_at": null,
+        "checked_at": "2026-11-08T11:55:23Z",
+        "bytes": null,
+        "sha256": null,
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": null,
+        "tracks": null,
+        "segments": null,
+        "waypoints": null,
+        "error": null,
+        "download": {
+            "mode": "none",
+            "url": null
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_gpx"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/staza-br-14-palje/",
+        "canonical_url": "https://pss.rs/terenipp/staza-br-14-palje/",
+        "pss_id": 3771,
+        "updated_at": "2021-02-11T11:08:53Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:55:23Z",
+        "last_synced_at": "2026-11-08T11:55:23Z"
+    },
+    "search": "staza br. 14. \"palje\" 7-9-14 jugoistocna srbija kukavica selo rudare, 250 m selo cukljenik, 376 m kukavica psk • crkva sv. petka trnovska • konak u porti crkve iz 17. veka u selu rudare • arheolosko nalaziste \"progon\" u selu mala grabovnica • jezera kod male grabovnice • spomenik vlajku stoiljkovicu zahtevna selo rudare - crkva sv. petka trnovka - visoki breg kota 351 - zeljkovac - krusar - selo mala grabovica - selo zaguzane - tulovska reka - kosanovac kota 378 - selo tulovo - turska groblja - selo cukljenik",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:55:23Z"
+    }
+}

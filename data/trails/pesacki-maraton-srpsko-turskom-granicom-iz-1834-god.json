@@ -1,0 +1,124 @@
+{
+    "schema_version": 1,
+    "slug": "pesacki-maraton-srpsko-turskom-granicom-iz-1834-god",
+    "name": "Pešački maraton / Srpsko - turskom granicom iz 1834. god",
+    "code": "6-21-2",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 3948,
+        "category_id": 28,
+        "region_ids": [
+            6
+        ],
+        "mountain_ids": [
+            85
+        ]
+    },
+    "region": "Kopaoničko-Toplička regija",
+    "mountain": "Mali Jastrebac",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 30.0,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": 600,
+        "official_text": "10 h",
+        "official_raw": "10:00"
+    },
+    "elevation": {
+        "official_gain_m": 660.0,
+        "official_loss_m": 285.0,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": "Veliki Drenovac (crkva Sv.Petke) -260 mnv",
+    "end": "Prevoj GREBAC (Etno kuća) - 635 mnv",
+    "description": null,
+    "landmarks": null,
+    "maintenance": "delimično uređena",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Brđanka PSK",
+        "url": "https://pss.rs/adresar_klubova/psd-brdanka/",
+        "contact": "Dušana Trivunca 54, 18220 Aleksinac\n060 680 29 75\nhttp://www.planinari-brdjanka.org",
+        "clubs": [
+            {
+                "name": "Brđanka PSK",
+                "url": "https://pss.rs/adresar_klubova/psd-brdanka/",
+                "contact": "Dušana Trivunca 54, 18220 Aleksinac\n060 680 29 75\nhttp://www.planinari-brdjanka.org"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": false,
+        "status": "missing",
+        "source_url": null,
+        "fetched_at": null,
+        "checked_at": "2026-11-08T11:56:25Z",
+        "bytes": null,
+        "sha256": null,
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": null,
+        "tracks": null,
+        "segments": null,
+        "waypoints": null,
+        "error": null,
+        "download": {
+            "mode": "none",
+            "url": null
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description",
+            "missing_gpx"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/pesacki-maraton-srpsko-turskom-granicom-iz-1834-god/",
+        "canonical_url": "https://pss.rs/terenipp/pesacki-maraton-srpsko-turskom-granicom-iz-1834-god/",
+        "pss_id": 3948,
+        "updated_at": "2017-06-02T13:21:32Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:56:25Z",
+        "last_synced_at": "2026-11-08T11:56:25Z"
+    },
+    "search": "pesacki maraton / srpsko - turskom granicom iz 1834. god 6-21-2 kopaonicko-toplicka regija mali jastrebac veliki drenovac (crkva sv.petke) -260 mnv prevoj grebac (etno kuca) - 635 mnv brdjanka psk laka",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:56:25Z"
+    }
+}

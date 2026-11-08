@@ -1,0 +1,213 @@
+{
+    "schema_version": 1,
+    "slug": "19291",
+    "name": "Staza br. 13: Stublo – Omarski potok",
+    "code": "5-12-19",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 19291,
+        "category_id": 28,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            122
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Zlatibor",
+    "difficulty": {
+        "key": "vrlo_teska",
+        "label": "Vrlo teška",
+        "source": "vrlo teška"
+    },
+    "distance": {
+        "official_km": 9.0,
+        "calculated_km": 8.98
+    },
+    "duration": {
+        "official_minutes": 350,
+        "official_text": "5 h 50 min",
+        "official_raw": "5:50"
+    },
+    "elevation": {
+        "official_gain_m": 520.0,
+        "official_loss_m": 520.0,
+        "calculated_gain_m": 576.6,
+        "calculated_loss_m": 576.6,
+        "min_m": 670.7,
+        "max_m": 1162.4
+    },
+    "start": "Metaljka u selu Stublo - 1160 m",
+    "end": "Metaljka u selu Stublo - 1160 m",
+    "description": "Metaljka - Kanjon Omarskog potoka (3,6 km) - Vrh Vis (5,9 km) - Metaljka (9,0 km)",
+    "landmarks": "Klisura Omarskog potoka i vrh Vis",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Stazu je trasirao Stefanović Slobodan iz Užica 2019. godine i markirana je 2020. godine. Staza je izgrađena sredstvima JP-a \"Srbijašume\" Beograd, upravitelja Parka prirode \"Zlatibor\". Neophodno je da im se pre obilaska staze najavite na telefon: 031/3841-278.",
+    "map_reference": null,
+    "map_sheet": "1:50000 Užice 3 (528/3)",
+    "club": {
+        "name": "Omorika PD",
+        "url": "https://pss.rs/adresar_klubova/omorika-pd/",
+        "contact": "Vukole Dabića 4/1/9, Užice\n064 881 86 97",
+        "clubs": [
+            {
+                "name": "Omorika PD",
+                "url": "https://pss.rs/adresar_klubova/omorika-pd/",
+                "contact": "Vukole Dabića 4/1/9, Užice\n064 881 86 97"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 10,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2023/03/Staza-13-Stublo-Omarski-potok.gpx",
+        "fetched_at": "2026-11-08T12:03:07Z",
+        "checked_at": "2026-11-08T12:03:07Z",
+        "bytes": 122041,
+        "sha256": "f19099bea5613ca7847c790aa7e49511ef38853c02f461e6692c9c394838cbaf",
+        "etag": null,
+        "last_modified": "Fri, 31 Mar 2023 18:43:25 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 1125,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 3,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2023/03/Staza-13-Stublo-Omarski-potok.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/19291.geojson",
+        "bbox": [
+            19.621959,
+            43.60174,
+            19.64822,
+            43.625729
+        ],
+        "center": [
+            19.63509,
+            43.613735
+        ],
+        "start_point": [
+            19.64822,
+            43.625729
+        ],
+        "end_point": [
+            19.648198,
+            43.625712
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    19.64822,
+                    43.62573
+                ],
+                [
+                    19.6436,
+                    43.62434
+                ],
+                [
+                    19.64311,
+                    43.62165
+                ],
+                [
+                    19.64041,
+                    43.62217
+                ],
+                [
+                    19.63409,
+                    43.61846
+                ],
+                [
+                    19.63233,
+                    43.61161
+                ],
+                [
+                    19.62204,
+                    43.60458
+                ],
+                [
+                    19.62844,
+                    43.60391
+                ],
+                [
+                    19.63021,
+                    43.60177
+                ],
+                [
+                    19.63355,
+                    43.6024
+                ],
+                [
+                    19.6334,
+                    43.60739
+                ],
+                [
+                    19.64142,
+                    43.60956
+                ],
+                [
+                    19.64515,
+                    43.61508
+                ],
+                [
+                    19.64217,
+                    43.61915
+                ],
+                [
+                    19.64344,
+                    43.62414
+                ],
+                [
+                    19.6482,
+                    43.62571
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/19291/",
+        "canonical_url": "https://pss.rs/terenipp/19291/",
+        "pss_id": 19291,
+        "updated_at": "2023-09-08T20:00:08Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:03:08Z",
+        "last_synced_at": "2026-11-08T12:03:08Z"
+    },
+    "search": "staza br. 13: stublo – omarski potok 5-12-19 jugozapadna srbija zlatibor metaljka u selu stublo - 1160 m metaljka u selu stublo - 1160 m omorika pd klisura omarskog potoka i vrh vis vrlo teska metaljka - kanjon omarskog potoka (3,6 km) - vrh vis (5,9 km) - metaljka (9,0 km)",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:03:08Z"
+    }
+}

@@ -1,0 +1,195 @@
+{
+    "schema_version": 1,
+    "slug": "sarbanovac-v-porica-baba",
+    "name": "Šarbanovac - V. Porica - Baba",
+    "code": "4-27-6",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 4616,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            71
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Rtanj",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 22.0,
+        "calculated_km": 11.22
+    },
+    "duration": {
+        "official_minutes": 420,
+        "official_text": "7 h",
+        "official_raw": "7:00"
+    },
+    "elevation": {
+        "official_gain_m": 781.0,
+        "official_loss_m": 779.0,
+        "calculated_gain_m": 120.6,
+        "calculated_loss_m": 616.7,
+        "min_m": 530.8,
+        "max_m": 1034.4
+    },
+    "start": "Selo Šarbanovac - 535 mnv",
+    "end": "Baba - 1060 mnv - selo Šarbanovac - 535 mnv",
+    "description": "Staza je samostalna, ali prvih 7 km je zajedničko sa stazom koja vodi do vrha Gola planina.",
+    "landmarks": "• Kostadinovica, lovište Cara Konstantina\n\n • Vidikovaca: 4\n\n • Na trasi nema izvora pitke vode\n\n • Na trasi nema smeštaja",
+    "maintenance": "delimično uređena",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu su trasirali planinari PD \"Oštra čuka\" maja 2016.\n\n • Poslednji put staza je markirana 14. avgusta 2016.",
+    "map_reference": null,
+    "map_sheet": "Aleksinac 2-4",
+    "club": {
+        "name": "Oštra čuka PD",
+        "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+        "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/",
+        "clubs": [
+            {
+                "name": "Oštra čuka PD",
+                "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+                "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/08/4-27-6-Sarbanovac-Javor-Porica-Baba.gpx",
+        "fetched_at": "2026-11-08T11:59:00Z",
+        "checked_at": "2026-11-08T11:59:00Z",
+        "bytes": 54799,
+        "sha256": "824c825130a8f38856ca1433ee12c4638a733d8ebac281f8b5b484cd59815ab5",
+        "etag": null,
+        "last_modified": "Mon, 11 May 2020 14:29:54 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 425,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 8,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/08/4-27-6-Sarbanovac-Javor-Porica-Baba.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/sarbanovac-v-porica-baba.geojson",
+        "bbox": [
+            21.883943108841777,
+            43.70453185401857,
+            21.93323666229844,
+            43.76055775210261
+        ],
+        "center": [
+            21.90859,
+            43.732545
+        ],
+        "start_point": [
+            21.926686204969883,
+            43.76055775210261
+        ],
+        "end_point": [
+            21.883943108841777,
+            43.705200562253594
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.92669,
+                    43.76056
+                ],
+                [
+                    21.93154,
+                    43.7512
+                ],
+                [
+                    21.92868,
+                    43.74736
+                ],
+                [
+                    21.93324,
+                    43.74287
+                ],
+                [
+                    21.92675,
+                    43.73916
+                ],
+                [
+                    21.92024,
+                    43.74335
+                ],
+                [
+                    21.91012,
+                    43.72852
+                ],
+                [
+                    21.90125,
+                    43.72994
+                ],
+                [
+                    21.89762,
+                    43.72802
+                ],
+                [
+                    21.89242,
+                    43.72245
+                ],
+                [
+                    21.89523,
+                    43.718
+                ],
+                [
+                    21.89466,
+                    43.70987
+                ],
+                [
+                    21.88742,
+                    43.70453
+                ],
+                [
+                    21.88394,
+                    43.7052
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/sarbanovac-v-porica-baba/",
+        "canonical_url": "https://pss.rs/terenipp/sarbanovac-v-porica-baba/",
+        "pss_id": 4616,
+        "updated_at": "2020-05-11T14:35:15Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:59:00Z",
+        "last_synced_at": "2026-11-08T11:59:00Z"
+    },
+    "search": "sarbanovac - v. porica - baba 4-27-6 istocna srbija rtanj selo sarbanovac - 535 mnv baba - 1060 mnv - selo sarbanovac - 535 mnv ostra cuka pd • kostadinovica, loviste cara konstantina • vidikovaca: 4 • na trasi nema izvora pitke vode • na trasi nema smestaja zahtevna staza je samostalna, ali prvih 7 km je zajednicko sa stazom koja vodi do vrha gola planina.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:59:00Z"
+    }
+}

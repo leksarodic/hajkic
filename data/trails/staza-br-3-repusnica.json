@@ -1,0 +1,215 @@
+{
+    "schema_version": 1,
+    "slug": "staza-br-3-repusnica",
+    "name": "Staza br. 3 \"Repušnica\"",
+    "code": "7-9-3",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 3760,
+        "category_id": 28,
+        "region_ids": [
+            7
+        ],
+        "mountain_ids": [
+            69
+        ]
+    },
+    "region": "Jugoistočna Srbija",
+    "mountain": "Kukavica",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 14.4,
+        "calculated_km": 14.37
+    },
+    "duration": {
+        "official_minutes": 240,
+        "official_text": "4 h",
+        "official_raw": "4"
+    },
+    "elevation": {
+        "official_gain_m": 1226.0,
+        "official_loss_m": 342.0,
+        "calculated_gain_m": 1113.4,
+        "calculated_loss_m": 226.2,
+        "min_m": 377.9,
+        "max_m": 1301.3
+    },
+    "start": "Selo Čukljenik, 376 m",
+    "end": "Planinarski dom \"Preka voda\", 1270 m",
+    "description": "Selo Čukljenik - Repušnica - Strmac - planinarski dom \"Preka voda\"",
+    "landmarks": null,
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinarski dom \"Preka voda\"",
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": "1:25000, TK Leskovac 632 2-4",
+    "club": {
+        "name": "Kukavica PSK",
+        "url": "https://pss.rs/adresar_klubova/kukavica-psk/",
+        "contact": "Deligradska 5, 16000 Leskovac\n+381652824655",
+        "clubs": [
+            {
+                "name": "Kukavica PSK",
+                "url": "https://pss.rs/adresar_klubova/kukavica-psk/",
+                "contact": "Deligradska 5, 16000 Leskovac\n+381652824655"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 10,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/7-9-3-Staza-br.3-Repusnica.gpx",
+        "fetched_at": "2026-11-08T11:55:07Z",
+        "checked_at": "2026-11-08T11:55:07Z",
+        "bytes": 179790,
+        "sha256": "92098d05148f95cf7c7949a3bdaab116105437e30ab2410e43f1ad5d596db34d",
+        "etag": null,
+        "last_modified": "Wed, 20 Jan 2021 20:00:58 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 1092,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 10,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/7-9-3-Staza-br.3-Repusnica.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/staza-br-3-repusnica.geojson",
+        "bbox": [
+            21.95147425867617,
+            42.781593119725585,
+            21.984157478436828,
+            42.866377579048276
+        ],
+        "center": [
+            21.967816,
+            42.823985
+        ],
+        "start_point": [
+            21.9605284743011,
+            42.86635184660554
+        ],
+        "end_point": [
+            21.951501416042447,
+            42.78500153683126
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.96053,
+                    42.86635
+                ],
+                [
+                    21.96806,
+                    42.85623
+                ],
+                [
+                    21.97335,
+                    42.84265
+                ],
+                [
+                    21.97982,
+                    42.83595
+                ],
+                [
+                    21.98416,
+                    42.83523
+                ],
+                [
+                    21.97963,
+                    42.83383
+                ],
+                [
+                    21.97587,
+                    42.82733
+                ],
+                [
+                    21.97519,
+                    42.81964
+                ],
+                [
+                    21.96965,
+                    42.80868
+                ],
+                [
+                    21.97042,
+                    42.8019
+                ],
+                [
+                    21.96429,
+                    42.79654
+                ],
+                [
+                    21.96474,
+                    42.79292
+                ],
+                [
+                    21.96819,
+                    42.79409
+                ],
+                [
+                    21.96695,
+                    42.78541
+                ],
+                [
+                    21.96179,
+                    42.78517
+                ],
+                [
+                    21.96046,
+                    42.78396
+                ],
+                [
+                    21.9624,
+                    42.78292
+                ],
+                [
+                    21.95746,
+                    42.78159
+                ],
+                [
+                    21.9515,
+                    42.785
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/staza-br-3-repusnica/",
+        "canonical_url": "https://pss.rs/terenipp/staza-br-3-repusnica/",
+        "pss_id": 3760,
+        "updated_at": "2021-02-27T11:43:01Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:55:07Z",
+        "last_synced_at": "2026-11-08T11:55:07Z"
+    },
+    "search": "staza br. 3 \"repusnica\" 7-9-3 jugoistocna srbija kukavica selo cukljenik, 376 m planinarski dom \"preka voda\", 1270 m kukavica psk zahtevna selo cukljenik - repusnica - strmac - planinarski dom \"preka voda\"",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:55:07Z"
+    }
+}

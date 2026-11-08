@@ -1,0 +1,124 @@
+{
+    "schema_version": 1,
+    "slug": "bela-stena",
+    "name": "Bela stena",
+    "code": "2-5-2",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 4329,
+        "category_id": 28,
+        "region_ids": [
+            2
+        ],
+        "mountain_ids": [
+            86
+        ]
+    },
+    "region": "Šumadija",
+    "mountain": "Bukulja",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 21.0,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": 420,
+        "official_text": "7 h",
+        "official_raw": "7:00"
+    },
+    "elevation": {
+        "official_gain_m": 324.0,
+        "official_loss_m": 39.0,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": "Bela stena - Vukosavci 411m",
+    "end": "Vrh Bukulje 696m",
+    "description": null,
+    "landmarks": "Vidikovac na vrhu Bukulje",
+    "maintenance": "zapuštena",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinarska kuća PD \"Bukulja\"",
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Bukulja PD",
+        "url": "https://pss.rs/adresar_klubova/bukulja-pd/",
+        "contact": "Knjaza Miloša 69, 34300 Aranđelovac\n060 141 65 75",
+        "clubs": [
+            {
+                "name": "Bukulja PD",
+                "url": "https://pss.rs/adresar_klubova/bukulja-pd/",
+                "contact": "Knjaza Miloša 69, 34300 Aranđelovac\n060 141 65 75"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": false,
+        "status": "missing",
+        "source_url": null,
+        "fetched_at": null,
+        "checked_at": "2026-11-08T11:56:37Z",
+        "bytes": null,
+        "sha256": null,
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": null,
+        "tracks": null,
+        "segments": null,
+        "waypoints": null,
+        "error": null,
+        "download": {
+            "mode": "none",
+            "url": null
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description",
+            "missing_gpx"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/bela-stena/",
+        "canonical_url": "https://pss.rs/terenipp/bela-stena/",
+        "pss_id": 4329,
+        "updated_at": "2017-08-02T11:01:31Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:56:37Z",
+        "last_synced_at": "2026-11-08T11:56:37Z"
+    },
+    "search": "bela stena 2-5-2 sumadija bukulja bela stena - vukosavci 411m vrh bukulje 696m bukulja pd vidikovac na vrhu bukulje zahtevna",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:56:37Z"
+    }
+}

@@ -1,0 +1,219 @@
+{
+    "schema_version": 1,
+    "slug": "citluk-krstatac",
+    "name": "Čitluk - Krstatac",
+    "code": "4-45-3",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 8316,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            70
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Krstatac",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 12.0,
+        "calculated_km": 15.26
+    },
+    "duration": {
+        "official_minutes": 360,
+        "official_text": "6 h",
+        "official_raw": "6:00"
+    },
+    "elevation": {
+        "official_gain_m": 585.0,
+        "official_loss_m": 580.0,
+        "calculated_gain_m": 633.1,
+        "calculated_loss_m": 635.3,
+        "min_m": 455.9,
+        "max_m": 1056.1
+    },
+    "start": "Selo Čitluk, 500m",
+    "end": "Vrh Šiljak, 1070m",
+    "description": "Staza se na vrhu Šiljak spaja sa stazom PD \"Oštra Čuka\" koja vodi iz sela Milušinac.",
+    "landmarks": "• Vidikovci: ima\n\n • Na stazi ima dva izvora pitke vode\n\n • Na trasi nema smeštaja",
+    "maintenance": "delimično uređena",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu su trasirali planinari PD \"Oštra Čuka\" oktobra 2016. godine.\n\n • Poslednji put staza je markirana 5. novembra 2016. godine.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Oštra čuka PD",
+        "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+        "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/",
+        "clubs": [
+            {
+                "name": "Oštra čuka PD",
+                "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+                "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2019/02/4-45-3-Citluk-Krstatac.gpx",
+        "fetched_at": "2026-11-08T12:00:06Z",
+        "checked_at": "2026-11-08T12:00:06Z",
+        "bytes": 85464,
+        "sha256": "eba28355bb6c88d78ca9a2928c99cb9dee9a126a4e34625a11fc7a642c5b3869",
+        "etag": null,
+        "last_modified": "Tue, 12 Feb 2019 15:22:13 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 698,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 5,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2019/02/4-45-3-Citluk-Krstatac.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/citluk-krstatac.geojson",
+        "bbox": [
+            22.01552859507501,
+            43.629958061501384,
+            22.064044727012515,
+            43.66200031712651
+        ],
+        "center": [
+            22.039787,
+            43.645979
+        ],
+        "start_point": [
+            22.01979037374258,
+            43.63169537857175
+        ],
+        "end_point": [
+            22.019730610772967,
+            43.63163779489696
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    22.01979,
+                    43.6317
+                ],
+                [
+                    22.01553,
+                    43.6412
+                ],
+                [
+                    22.0187,
+                    43.64382
+                ],
+                [
+                    22.024,
+                    43.64017
+                ],
+                [
+                    22.03741,
+                    43.64436
+                ],
+                [
+                    22.05275,
+                    43.64101
+                ],
+                [
+                    22.0565,
+                    43.64357
+                ],
+                [
+                    22.06292,
+                    43.64412
+                ],
+                [
+                    22.06404,
+                    43.64703
+                ],
+                [
+                    22.0603,
+                    43.64343
+                ],
+                [
+                    22.05649,
+                    43.64725
+                ],
+                [
+                    22.05926,
+                    43.64695
+                ],
+                [
+                    22.05319,
+                    43.662
+                ],
+                [
+                    22.05436,
+                    43.65736
+                ],
+                [
+                    22.0477,
+                    43.65644
+                ],
+                [
+                    22.04256,
+                    43.65054
+                ],
+                [
+                    22.03348,
+                    43.64847
+                ],
+                [
+                    22.02292,
+                    43.6324
+                ],
+                [
+                    22.02387,
+                    43.63
+                ],
+                [
+                    22.01973,
+                    43.63164
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/citluk-krstatac/",
+        "canonical_url": "https://pss.rs/terenipp/citluk-krstatac/",
+        "pss_id": 8316,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:00:06Z",
+        "last_synced_at": "2026-11-08T12:00:06Z"
+    },
+    "search": "citluk - krstatac 4-45-3 istocna srbija krstatac selo citluk, 500m vrh siljak, 1070m ostra cuka pd • vidikovci: ima • na stazi ima dva izvora pitke vode • na trasi nema smestaja zahtevna staza se na vrhu siljak spaja sa stazom pd \"ostra cuka\" koja vodi iz sela milusinac.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:00:06Z"
+    }
+}

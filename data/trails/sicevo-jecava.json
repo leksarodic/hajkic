@@ -1,0 +1,171 @@
+{
+    "schema_version": 1,
+    "slug": "sicevo-jecava",
+    "name": "Sićevo - Ječava",
+    "code": "4-39-7",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 12392,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            51
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Svrljiške planine",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 6.0,
+        "calculated_km": 5.93
+    },
+    "duration": {
+        "official_minutes": 150,
+        "official_text": "2 h 30 min",
+        "official_raw": "2:30"
+    },
+    "elevation": {
+        "official_gain_m": 305.0,
+        "official_loss_m": 222.0,
+        "calculated_gain_m": 268.6,
+        "calculated_loss_m": 182.7,
+        "min_m": 341.6,
+        "max_m": 586.7
+    },
+    "start": "Sićevo, 330 m",
+    "end": "Sićevo, 410 m",
+    "description": "Polazak na stazu je sa lokalnog puta na ulazu u selo Sićevo. Zatim vodi obodom istoimenog sela, preko Vlaškog dola do same Ječave na litici Sićevačke klisure. Zatim se liticom vraća do sela Sićevo.",
+    "landmarks": "• Vidikovac: Ječava\n\n • Naseljeno mesto: Sićevo\n\n • Na trasi nema izvora pitke vode\n\n • Na trasi nema smeštajnih objekata",
+    "maintenance": "delimično uređena",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu je trasirao Marko Milošević\n\n • Poslednji put staza ja markirana 31.03.2018. godine",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Mosor PSK",
+        "url": "https://pss.rs/adresar_klubova/mosor-pak/",
+        "contact": "Tvrđava bb, 18000 Niš\n063 1023016, 063 406025, 064 665 41 58\nhttp://www.pakmosor.org/",
+        "clubs": [
+            {
+                "name": "Mosor PSK",
+                "url": "https://pss.rs/adresar_klubova/mosor-pak/",
+                "contact": "Tvrđava bb, 18000 Niš\n063 1023016, 063 406025, 064 665 41 58\nhttp://www.pakmosor.org/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 8,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2020/11/4-39-7-Sicevo-Jecava.gpx",
+        "fetched_at": "2026-11-08T12:01:23Z",
+        "checked_at": "2026-11-08T12:01:23Z",
+        "bytes": 22124,
+        "sha256": "a0d2cf2570c6e91926c3d31f3ebf87c3d3a48f7b8b6c2cd84afa96b8de03f8a6",
+        "etag": null,
+        "last_modified": "Sat, 14 Nov 2020 13:23:19 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 164,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 4,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2020/11/4-39-7-Sicevo-Jecava.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/sicevo-jecava.geojson",
+        "bbox": [
+            22.057113982737064,
+            43.334799986332655,
+            22.08148998208344,
+            43.34370399825275
+        ],
+        "center": [
+            22.069302,
+            43.339252
+        ],
+        "start_point": [
+            22.07895797677338,
+            43.33656404167414
+        ],
+        "end_point": [
+            22.080816077068448,
+            43.341989731416106
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    22.07896,
+                    43.33656
+                ],
+                [
+                    22.08131,
+                    43.3415
+                ],
+                [
+                    22.07441,
+                    43.3437
+                ],
+                [
+                    22.0681,
+                    43.34261
+                ],
+                [
+                    22.06858,
+                    43.33971
+                ],
+                [
+                    22.05711,
+                    43.33503
+                ],
+                [
+                    22.07315,
+                    43.3379
+                ],
+                [
+                    22.08082,
+                    43.34199
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/sicevo-jecava/",
+        "canonical_url": "https://pss.rs/terenipp/sicevo-jecava/",
+        "pss_id": 12392,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:01:24Z",
+        "last_synced_at": "2026-11-08T12:01:24Z"
+    },
+    "search": "sicevo - jecava 4-39-7 istocna srbija svrljiske planine sicevo, 330 m sicevo, 410 m mosor psk • vidikovac: jecava • naseljeno mesto: sicevo • na trasi nema izvora pitke vode • na trasi nema smestajnih objekata laka polazak na stazu je sa lokalnog puta na ulazu u selo sicevo. zatim vodi obodom istoimenog sela, preko vlaskog dola do same jecave na litici sicevacke klisure. zatim se liticom vraca do sela sicevo.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:01:24Z"
+    }
+}

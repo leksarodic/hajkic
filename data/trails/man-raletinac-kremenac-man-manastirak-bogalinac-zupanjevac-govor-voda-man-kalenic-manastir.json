@@ -1,0 +1,347 @@
+{
+    "schema_version": 1,
+    "slug": "man-raletinac-kremenac-man-manastirak-bogalinac-zupanjevac-govor-voda-man-kalenic-manastir",
+    "name": "Man. Raletinac - Kremenac - man. Manastirak - Bogalinac - Županjevac - Govor voda - man. Kalenić (\"Manastirska tura\")",
+    "code": "2-14-19",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 8950,
+        "category_id": 28,
+        "region_ids": [
+            2
+        ],
+        "mountain_ids": [
+            61
+        ]
+    },
+    "region": "Šumadija",
+    "mountain": "Gledićke planine",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 33.0,
+        "calculated_km": 33.45
+    },
+    "duration": {
+        "official_minutes": 600,
+        "official_text": "10 h",
+        "official_raw": "10:00"
+    },
+    "elevation": {
+        "official_gain_m": 1570.0,
+        "official_loss_m": 1400.0,
+        "calculated_gain_m": 1377.8,
+        "calculated_loss_m": 1214.4,
+        "min_m": 271.9,
+        "max_m": 812.3
+    },
+    "start": "Manastir Raletinac, 295m",
+    "end": "Manastir Kalenić, 456m",
+    "description": "• Ova \"manastirska\" ruta vodi nas od Raletinca, preko Manastirka sve do Kalenića.\n\n • Na početku se treba malo oznojiti - očekuje nas intezivan uspon na Kremeničku kosu (568m). A odatle ćemo lako - najpre do vrha Kremenac (640m), potom do lovačke kolibe (levo od puta, \"gospodari\" lepom livadom, prijatno mesto za predah) i na kraju nizbrdo do manastira Manastirak.\n\n • Iz Velike Kruševice se penjemo na uzani asfaltni put po dugačkom grebenu i njime stižemo do Bogalinca. Dugačka asfaltna deonica (6,5 km) nam ipak neće previše teško pasti jer je pešačenje lagano, put vrlo miran a vidici sjajni.\n\n • Iznad Županjevca prolazimo kroz arheološki kompleks pa se penjemo pod brdo Grad na kome se nalaze ostaci još jednog drevnog grada. Malo dalje, pod zapadnom stranom brda, stižemo do izvora Govor voda i odmorišta. Voda je na jakom glasu - veruje se da je čudotvorna i da leči probleme sa govorom. Na preostalom delu rute spuštamo se do manastira Kalenić - većim delom lagano a samo na poslednjem kilometru intenzivno.",
+    "landmarks": "• Manastiri Reletinac, Manastirak i Kalenić\n\n • Arheološko nalazište Županjevac\n\n • Ostaci srednjovekovnog grada\n\n • Izvor Govor voda\n\n • Na trasi ima 5 izvora pitke vode\n\n • Veći broj vidikovaca\n\n • Privatni smeštaj na trasi: 2\n\n • Odmarališta na trasi: 2",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Uz saradnju sa TO \"Rekovac\", Rekovac\n\n • Direktor TO Rekovac Momčilo Sretenović, tel. 062 657 026, e-mail: turist.orgrk@gmail.com\n\n • Stazu su trasirali Momčilo Sretenović i Jovan Eraković, oktobra 2018.god.\n\n • Poslednji put staza je markirana marta 2019.god.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Žeželj PD",
+        "url": "https://pss.rs/adresar_klubova/zezelj-pd/",
+        "contact": "Rudnička 7a 34000 Kragujevac\n+38164 21 83 412\nhttp://www.pdzezelj.org",
+        "clubs": [
+            {
+                "name": "Žeželj PD",
+                "url": "https://pss.rs/adresar_klubova/zezelj-pd/",
+                "contact": "Rudnička 7a 34000 Kragujevac\n+38164 21 83 412\nhttp://www.pdzezelj.org"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2019/05/2-14-19-Man.RaletinacManastirakKalenic.gpx",
+        "fetched_at": "2026-11-08T12:00:23Z",
+        "checked_at": "2026-11-08T12:00:23Z",
+        "bytes": 613814,
+        "sha256": "e7c972b336343431c5a5764be83ec99e2ef4afb12943b129e69dcf35a8c5345e",
+        "etag": null,
+        "last_modified": "Fri, 10 May 2019 18:15:28 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 3725,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 24,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2019/05/2-14-19-Man.RaletinacManastirakKalenic.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/man-raletinac-kremenac-man-manastirak-bogalinac-zupanjevac-govor-voda-man-kalenic-manastir.geojson",
+        "bbox": [
+            20.98785001784563,
+            43.771874997764826,
+            21.081231040880084,
+            43.89217500574887
+        ],
+        "center": [
+            21.034541,
+            43.832025
+        ],
+        "start_point": [
+            21.02093598805368,
+            43.88893799856305
+        ],
+        "end_point": [
+            20.99427499808371,
+            43.771874997764826
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.02094,
+                    43.88894
+                ],
+                [
+                    21.02642,
+                    43.89218
+                ],
+                [
+                    21.03,
+                    43.88938
+                ],
+                [
+                    21.02804,
+                    43.88365
+                ],
+                [
+                    21.02528,
+                    43.88442
+                ],
+                [
+                    21.02564,
+                    43.88116
+                ],
+                [
+                    21.03203,
+                    43.87401
+                ],
+                [
+                    21.03266,
+                    43.86897
+                ],
+                [
+                    21.05164,
+                    43.87341
+                ],
+                [
+                    21.06006,
+                    43.86825
+                ],
+                [
+                    21.06655,
+                    43.86686
+                ],
+                [
+                    21.07089,
+                    43.86227
+                ],
+                [
+                    21.06762,
+                    43.86118
+                ],
+                [
+                    21.06904,
+                    43.86002
+                ],
+                [
+                    21.06134,
+                    43.85998
+                ],
+                [
+                    21.05902,
+                    43.86171
+                ],
+                [
+                    21.07643,
+                    43.85544
+                ],
+                [
+                    21.08113,
+                    43.84666
+                ],
+                [
+                    21.07766,
+                    43.84525
+                ],
+                [
+                    21.07823,
+                    43.84253
+                ],
+                [
+                    21.07526,
+                    43.84086
+                ],
+                [
+                    21.06966,
+                    43.83938
+                ],
+                [
+                    21.06075,
+                    43.84085
+                ],
+                [
+                    21.05253,
+                    43.83281
+                ],
+                [
+                    21.04168,
+                    43.83755
+                ],
+                [
+                    21.03816,
+                    43.83626
+                ],
+                [
+                    21.03853,
+                    43.83264
+                ],
+                [
+                    21.03528,
+                    43.83144
+                ],
+                [
+                    21.03172,
+                    43.82176
+                ],
+                [
+                    21.03697,
+                    43.81941
+                ],
+                [
+                    21.04247,
+                    43.81315
+                ],
+                [
+                    21.03942,
+                    43.81148
+                ],
+                [
+                    21.02771,
+                    43.81093
+                ],
+                [
+                    21.02551,
+                    43.808
+                ],
+                [
+                    21.02834,
+                    43.80676
+                ],
+                [
+                    21.03105,
+                    43.80077
+                ],
+                [
+                    21.02517,
+                    43.8006
+                ],
+                [
+                    21.02439,
+                    43.79785
+                ],
+                [
+                    21.01895,
+                    43.79652
+                ],
+                [
+                    21.01171,
+                    43.79843
+                ],
+                [
+                    21.00551,
+                    43.79737
+                ],
+                [
+                    21.001,
+                    43.79984
+                ],
+                [
+                    20.99923,
+                    43.7967
+                ],
+                [
+                    21.00095,
+                    43.79981
+                ],
+                [
+                    20.99488,
+                    43.79579
+                ],
+                [
+                    20.99732,
+                    43.79405
+                ],
+                [
+                    20.98991,
+                    43.79455
+                ],
+                [
+                    20.98788,
+                    43.7924
+                ],
+                [
+                    20.98883,
+                    43.78975
+                ],
+                [
+                    20.9949,
+                    43.78669
+                ],
+                [
+                    20.99748,
+                    43.78015
+                ],
+                [
+                    20.99427,
+                    43.77187
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/man-raletinac-kremenac-man-manastirak-bogalinac-zupanjevac-govor-voda-man-kalenic-manastirska-tura/",
+        "canonical_url": "https://pss.rs/terenipp/man-raletinac-kremenac-man-manastirak-bogalinac-zupanjevac-govor-voda-man-kalenic-manastirska-tura/",
+        "pss_id": 8950,
+        "updated_at": "2019-10-30T17:30:43Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:00:24Z",
+        "last_synced_at": "2026-11-08T12:00:24Z"
+    },
+    "search": "man. raletinac - kremenac - man. manastirak - bogalinac - zupanjevac - govor voda - man. kalenic (\"manastirska tura\") 2-14-19 sumadija gledicke planine manastir raletinac, 295m manastir kalenic, 456m zezelj pd • manastiri reletinac, manastirak i kalenic • arheolosko nalaziste zupanjevac • ostaci srednjovekovnog grada • izvor govor voda • na trasi ima 5 izvora pitke vode • veci broj vidikovaca • privatni smestaj na trasi: 2 • odmaralista na trasi: 2 zahtevna • ova \"manastirska\" ruta vodi nas od raletinca, preko manastirka sve do kalenica. • na pocetku se treba malo oznojiti - ocekuje nas intezivan uspon na kremenicku kosu (568m). a odatle cemo lako - najpre do vrha kremenac (640m), potom do lovacke kolibe (levo od puta, \"gospodari\" lepom livadom, prijatno mesto za predah) i na kraju nizbrdo do manastira manastirak. • iz velike krusevice se penjemo na uzani asfaltni put po dugackom grebenu i njime stizemo do bogalinca. dugacka asfaltna deonica (6,5 km) nam ipak nece previse tesko pasti jer je pesacenje lagano, put vrlo miran a vidici sjajni. • iznad zupanjevca prolazimo kroz arheoloski kompleks pa se penjemo pod brdo grad na kome se nalaze ostaci jos jednog drevnog grada. malo dalje, pod zapadnom stranom brda, stizemo do izvora govor voda i odmorista. voda je na jakom glasu - veruje se da je cudotvorna i da leci probleme sa govorom. na preostalom delu rute spustamo se do manastira kalenic - vecim delom lagano a samo na poslednjem kilometru intenzivno.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:00:24Z"
+    }
+}

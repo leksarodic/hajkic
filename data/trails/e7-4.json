@@ -1,0 +1,449 @@
+{
+    "schema_version": 1,
+    "slug": "e7-4",
+    "name": "Bač - Novi Sad",
+    "code": "E7-4",
+    "category": {
+        "key": "evropski-pesacki-putevi-u-srbiji",
+        "label": "Evropski pešački putevi u Srbiji"
+    },
+    "pss": {
+        "post_id": 3595,
+        "category_id": 29,
+        "region_ids": [
+            1
+        ],
+        "mountain_ids": [
+            43
+        ]
+    },
+    "region": "Vojvodina",
+    "mountain": "Karađorđevo",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "lak"
+    },
+    "distance": {
+        "official_km": 80.1,
+        "calculated_km": 80.22
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": 124.0,
+        "official_loss_m": 126.0,
+        "calculated_gain_m": 0.0,
+        "calculated_loss_m": 0.0,
+        "min_m": 0.0,
+        "max_m": 0.0
+    },
+    "start": null,
+    "end": null,
+    "description": "• Od drevnog Bača preko istorijske rečice Mostonga put ide prema\nMladenovu i Karađorđevu koje je poznato kao turističko mesto,\nekskluzivno lovište sa ergelom konja koja je osnovana 1885. godine\nu Austrougarskoj monarhiji. Ovo je bilo lovište srpske kraljevske\ndinastije Karađorđević, a zatim i predsednika nekadašnje Jugoslavije.\nJosipa Broza Tita.\n\n • Deo Karađorđeva zaštićen je kao specijalni rezervat prirode sa\nvrednim sadržajem flore i faune nekadašnjih ritskih šuma pored\nDunava.\n\n • Od Karađorđeva put vodi za grad Bačku Palanku sa vrednom\npaleontoškom postavkom izumrlih životinja sa teritorije Vojvodine.\nMeđu njima su ostaci mamuta stari preko 25.000 godina. U Bačkoj\nPalanci organizuje se poznati džez i bluz festival u mesecu junu kada\nse obeležava i dan Dunava 29. jun.\n\n • Kod mesta Čelarevo je najveća otkrivena nekropola iz 8. i 9. veka sa\nvrednim nalazima zlatnog nakita, oružja i oruđa. U blizini je i gradić\nBački Petrovac. Posebno su značajne Slovačke narodne svečanosti u\navgustu mesecu koje se održavaju od 1919. godine. Na njima se pokazuje\nbogatstvo kulturnog nasleđa Slovaka koji žive u ovom delu Vojvodine.\n\n • U mestu Kulpin nalazi se dvorac grofovske porodice Dunđerski\nkoji mnogi smatraju najromantičnijim mestom u Vojvodini, a takođe\ni poljoprivredni muzej Vojvodine. Put nastavlja nasipom leve obale\nDunava sa lepim vidicima prema vencu planine Fruške gore.\n\n • Hodajući niz Dunav sa njegove leve strane prema mestu futog put E7\nprolazi pored Zaštićenog prirodnog dobra Park prirode Begečka\nJama. Ovo je prava oaza raznovrsne flore i faune takozvanih vlažnih\nstaništa. Prisutne su skoro sve ptičje vrste barske faune. Veoma\nčesto se mogu videti velika jata labudova. Lagano pored Dunava koji nas deli od severnih padina planine Fruške gore, koja je u davno geološko\nvreme bila ostrvo u Panonskom moru, prolazimo kroz mesto Futog i\nstižemo u glavni grad Vojvodine Novi Sad. To je moderan grad sa oko\n260 hiljada stanovnika. Njegova istorija počinje još u bronzano doba,\na prva naselja nastala su na desnoj obali Dunava.\n\n • Carica Marija Terezija dodelila je Novom Sadu status slobodnog\nkraljevskog grada u 17. veku i od tada je on postao važan privredni i\nkulturni centar ovog dela Vojvodine.\n\n • U njemu se pokreće moderni književni časopis Letopis Matice srpske,\na zatim i Srpsko narodno pozorište. Na centralnom trgu dominira\nneogotička rimokatolička katedrala a iza nje otmena Gradska kuća u\nneorenesansnom stilu kao kopija gradske kuće u Gracu u Austriji. U\nNovom Sadu postoji veliki izbor prijatnih mesta i kvalitetnih\nrestorana za odmor i opuštanje uz muziku i gastronomske specijalitete\niz cele Vojvodine.",
+    "landmarks": "• Karađorđevo - spec. rezervat prirode\n\n • Čelarevo - nekropola iz 8. i 9. veka\n\n • Kulpin - dvorac grofovske porodice Dunđerski",
+    "maintenance": null,
+    "marking": "Propisna evropska crveno-žuta",
+    "accommodation": "Bač, Bačka Palanka, Novi Sad",
+    "notes": "• Е7-4-1 Бач – Младеново 19,7 км\n\n • Е7-4-2 Младеново – Бачка Паланка 15,4 км\n\n • Е7-4-3 Бачка Паланка – Челарево 14,0 км\n\n • E7-4-4 Челарево – Футог 17,3 км\n\n • Е7-4-5 Футог – Нови Сад (Петроварадин) 13,7 км",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Ravničar PSD",
+        "url": "https://pss.rs/adresar_klubova/ravnicar-pd/",
+        "contact": "Žarka Zrenjanina 43, 21400 Bačka Palanka\n+38164 46 42 867",
+        "clubs": [
+            {
+                "name": "Ravničar PSD",
+                "url": "https://pss.rs/adresar_klubova/ravnicar-pd/",
+                "contact": "Žarka Zrenjanina 43, 21400 Bačka Palanka\n+38164 46 42 867"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/E7-4-Bac-Novi-Sad.gpx",
+        "fetched_at": "2026-11-08T12:50:02Z",
+        "checked_at": "2026-11-08T12:50:02Z",
+        "bytes": 78584,
+        "sha256": "c4cbd69ada8e4b81ab6d06e165f086aaf7e7bd163d207220501abb739bfcc9d3",
+        "etag": null,
+        "last_modified": "Sat, 07 Dec 2024 21:22:34 GMT",
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": 1079,
+        "tracks": 5,
+        "segments": 5,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/E7-4-Bac-Novi-Sad.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/e7-4.geojson",
+        "bbox": [
+            19.218881611,
+            45.223716952,
+            19.859406361,
+            45.391529841
+        ],
+        "center": [
+            19.539144,
+            45.307623
+        ],
+        "start_point": [
+            19.23278842,
+            45.391529841
+        ],
+        "end_point": [
+            19.859406361,
+            45.254860003
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    19.23279,
+                    45.39153
+                ],
+                [
+                    19.23481,
+                    45.39024
+                ],
+                [
+                    19.23126,
+                    45.38706
+                ],
+                [
+                    19.22654,
+                    45.38735
+                ],
+                [
+                    19.21888,
+                    45.36484
+                ],
+                [
+                    19.22496,
+                    45.36324
+                ],
+                [
+                    19.23164,
+                    45.34662
+                ],
+                [
+                    19.23556,
+                    45.34766
+                ],
+                [
+                    19.23522,
+                    45.34974
+                ],
+                [
+                    19.2402,
+                    45.35258
+                ],
+                [
+                    19.24346,
+                    45.3666
+                ],
+                [
+                    19.25684,
+                    45.37007
+                ],
+                [
+                    19.26844,
+                    45.37057
+                ],
+                [
+                    19.27136,
+                    45.36791
+                ],
+                [
+                    19.27289,
+                    45.35812
+                ],
+                [
+                    19.26609,
+                    45.34725
+                ],
+                [
+                    19.26502,
+                    45.33299
+                ],
+                [
+                    19.27101,
+                    45.33081
+                ],
+                [
+                    19.2614,
+                    45.31793
+                ],
+                [
+                    19.26542,
+                    45.31634
+                ],
+                [
+                    19.26377,
+                    45.31086
+                ],
+                [
+                    19.25829,
+                    45.30913
+                ],
+                [
+                    19.26134,
+                    45.30374
+                ]
+            ],
+            [
+                [
+                    19.26134,
+                    45.30374
+                ],
+                [
+                    19.26384,
+                    45.29953
+                ],
+                [
+                    19.26956,
+                    45.30108
+                ],
+                [
+                    19.2704,
+                    45.2984
+                ],
+                [
+                    19.30028,
+                    45.28747
+                ],
+                [
+                    19.28705,
+                    45.26862
+                ],
+                [
+                    19.33021,
+                    45.25249
+                ],
+                [
+                    19.32802,
+                    45.24803
+                ],
+                [
+                    19.3356,
+                    45.24411
+                ],
+                [
+                    19.35993,
+                    45.24252
+                ],
+                [
+                    19.36793,
+                    45.23888
+                ],
+                [
+                    19.38307,
+                    45.23897
+                ]
+            ],
+            [
+                [
+                    19.38308,
+                    45.23895
+                ],
+                [
+                    19.38832,
+                    45.23548
+                ],
+                [
+                    19.40242,
+                    45.23659
+                ],
+                [
+                    19.40774,
+                    45.24107
+                ],
+                [
+                    19.42055,
+                    45.23988
+                ],
+                [
+                    19.4371,
+                    45.2427
+                ],
+                [
+                    19.44388,
+                    45.24239
+                ],
+                [
+                    19.4459,
+                    45.23992
+                ],
+                [
+                    19.4663,
+                    45.24131
+                ],
+                [
+                    19.47956,
+                    45.24392
+                ],
+                [
+                    19.47612,
+                    45.25264
+                ],
+                [
+                    19.50574,
+                    45.25849
+                ],
+                [
+                    19.50745,
+                    45.25661
+                ],
+                [
+                    19.53139,
+                    45.25661
+                ]
+            ],
+            [
+                [
+                    19.53138,
+                    45.25659
+                ],
+                [
+                    19.54489,
+                    45.25524
+                ],
+                [
+                    19.55203,
+                    45.2521
+                ],
+                [
+                    19.57351,
+                    45.22804
+                ],
+                [
+                    19.58301,
+                    45.22381
+                ],
+                [
+                    19.60537,
+                    45.22842
+                ],
+                [
+                    19.6053,
+                    45.22436
+                ],
+                [
+                    19.61606,
+                    45.2239
+                ],
+                [
+                    19.62825,
+                    45.22718
+                ],
+                [
+                    19.6433,
+                    45.23741
+                ],
+                [
+                    19.65569,
+                    45.24042
+                ],
+                [
+                    19.67825,
+                    45.23803
+                ],
+                [
+                    19.69489,
+                    45.23283
+                ],
+                [
+                    19.71189,
+                    45.23539
+                ]
+            ],
+            [
+                [
+                    19.71191,
+                    45.23539
+                ],
+                [
+                    19.73945,
+                    45.23448
+                ],
+                [
+                    19.77492,
+                    45.22898
+                ],
+                [
+                    19.78004,
+                    45.23219
+                ],
+                [
+                    19.79625,
+                    45.23466
+                ],
+                [
+                    19.80048,
+                    45.23911
+                ],
+                [
+                    19.81529,
+                    45.23772
+                ],
+                [
+                    19.84184,
+                    45.24376
+                ],
+                [
+                    19.83943,
+                    45.24816
+                ],
+                [
+                    19.84789,
+                    45.25687
+                ],
+                [
+                    19.85192,
+                    45.25427
+                ],
+                [
+                    19.85941,
+                    45.25486
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": [
+            "missing_elevation"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/e7-4/",
+        "canonical_url": "https://pss.rs/terenipp/e7-4/",
+        "pss_id": 3595,
+        "updated_at": "2024-12-07T21:22:42Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:50:03Z",
+        "last_synced_at": "2026-11-08T12:50:03Z"
+    },
+    "search": "bac - novi sad e7-4 vojvodina karadjordjevo ravnicar psd • karadjordjevo - spec. rezervat prirode • celarevo - nekropola iz 8. i 9. veka • kulpin - dvorac grofovske porodice dundjerski laka • od drevnog baca preko istorijske recice mostonga put ide prema mladenovu i karadjordjevu koje je poznato kao turisticko mesto, ekskluzivno loviste sa ergelom konja koja je osnovana 1885. godine u austrougarskoj monarhiji. ovo je bilo loviste srpske kraljevske dinastije karadjordjevic, a zatim i predsednika nekadasnje jugoslavije. josipa broza tita. • deo karadjordjeva zasticen je kao specijalni rezervat prirode sa vrednim sadrzajem flore i faune nekadasnjih ritskih suma pored dunava. • od karadjordjeva put vodi za grad backu palanku sa vrednom paleontoskom postavkom izumrlih zivotinja sa teritorije vojvodine. medju njima su ostaci mamuta stari preko 25.000 godina. u backoj palanci organizuje se poznati dzez i bluz festival u mesecu junu kada se obelezava i dan dunava 29. jun. • kod mesta celarevo je najveca otkrivena nekropola iz 8. i 9. veka sa vrednim nalazima zlatnog nakita, oruzja i orudja. u blizini je i gradic backi petrovac. posebno su znacajne slovacke narodne svecanosti u avgustu mesecu koje se odrzavaju od 1919. godine. na njima se pokazuje bogatstvo kulturnog nasledja slovaka koji zive u ovom delu vojvodine. • u mestu kulpin nalazi se dvorac grofovske porodice dundjerski koji mnogi smatraju najromanticnijim mestom u vojvodini, a takodje i poljoprivredni muzej vojvodine. put nastavlja nasipom leve obale dunava sa lepim vidicima prema vencu planine fruske gore. • hodajuci niz dunav sa njegove leve strane prema mestu futog put e7 prolazi pored zasticenog prirodnog dobra park prirode begecka jama. ovo je prava oaza raznovrsne flore i faune takozvanih vlaznih stanista. prisutne su skoro sve pticje vrste barske faune. veoma cesto se mogu videti velika jata labudova. lagano pored dunava koji nas deli od severnih padina planine fruske gore, koja je u davno geolosko vr",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:50:03Z"
+    }
+}

@@ -1,0 +1,175 @@
+{
+    "schema_version": 1,
+    "slug": "ostra-cuka-selo-jezero",
+    "name": "Oštra Čuka- selo Jezero",
+    "code": "4-31-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 3797,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            57
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Devica",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 5.1,
+        "calculated_km": 5.12
+    },
+    "duration": {
+        "official_minutes": 120,
+        "official_text": "2 h",
+        "official_raw": "2:00"
+    },
+    "elevation": {
+        "official_gain_m": 104.0,
+        "official_loss_m": 316.0,
+        "calculated_gain_m": 59.9,
+        "calculated_loss_m": 280.8,
+        "min_m": 797.2,
+        "max_m": 1044.2
+    },
+    "start": "Oštra Čuka - vrh, 1075m",
+    "end": "selo Jezero, 820m",
+    "description": "Spaja sledeće staze/puteve: \"Vlasina - Leskovik\", \"Sokobanja - Golemi kamen - Oštra Čuka\" i \"Sokobanja - Kalinovica - Oštra Čuka\"",
+    "landmarks": "• Vidikovac: Oštra Čuka\n\n • Na stazi nema izvora pitke vode\n\n • Na staze nema smeštaja",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu je trasiralo PD \"Oštra Čuka\", jula 2014. godine\n\n • Staza je poslednji put markirana jula 2014. godine",
+    "map_reference": null,
+    "map_sheet": "1:50000 (532 Aleksinac C3)",
+    "club": {
+        "name": "Oštra čuka PD",
+        "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+        "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/",
+        "clubs": [
+            {
+                "name": "Oštra čuka PD",
+                "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+                "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 7,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/4-31-1-Ostra-cuka-Jezero.gpx",
+        "fetched_at": "2026-11-08T11:55:25Z",
+        "checked_at": "2026-11-08T11:55:25Z",
+        "bytes": 12615,
+        "sha256": "80c5e0e05a6c270f553a719b2da8fbc1d4a112306616475ffb3f3a67b7ea63d3",
+        "etag": null,
+        "last_modified": "Fri, 21 Dec 2018 10:20:20 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 92,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 2,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/4-31-1-Ostra-cuka-Jezero.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/ostra-cuka-selo-jezero.geojson",
+        "bbox": [
+            21.895154742524028,
+            43.56780138798058,
+            21.9034296926111,
+            43.598469933494925
+        ],
+        "center": [
+            21.899292,
+            43.583136
+        ],
+        "start_point": [
+            21.897269329056144,
+            43.596013030037284
+        ],
+        "end_point": [
+            21.9034296926111,
+            43.568005319684744
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.89727,
+                    43.59601
+                ],
+                [
+                    21.89705,
+                    43.59847
+                ],
+                [
+                    21.89554,
+                    43.5907
+                ],
+                [
+                    21.90169,
+                    43.58607
+                ],
+                [
+                    21.89748,
+                    43.58451
+                ],
+                [
+                    21.89969,
+                    43.57897
+                ],
+                [
+                    21.89624,
+                    43.57908
+                ],
+                [
+                    21.89515,
+                    43.57726
+                ],
+                [
+                    21.90343,
+                    43.56801
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/ostra-cuka-selo-jezero/",
+        "canonical_url": "https://pss.rs/terenipp/ostra-cuka-selo-jezero/",
+        "pss_id": 3797,
+        "updated_at": "2018-12-21T10:23:45Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:55:25Z",
+        "last_synced_at": "2026-11-08T11:55:25Z"
+    },
+    "search": "ostra cuka- selo jezero 4-31-1 istocna srbija devica ostra cuka - vrh, 1075m selo jezero, 820m ostra cuka pd • vidikovac: ostra cuka • na stazi nema izvora pitke vode • na staze nema smestaja laka spaja sledece staze/puteve: \"vlasina - leskovik\", \"sokobanja - golemi kamen - ostra cuka\" i \"sokobanja - kalinovica - ostra cuka\"",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:55:25Z"
+    }
+}

@@ -1,0 +1,269 @@
+{
+    "schema_version": 1,
+    "slug": "staza-br-2-murtenica-tavnicko-jezero",
+    "name": "Staza br. 2: Murtenica – Tavničko jezero",
+    "code": "5-12-7",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 19059,
+        "category_id": 28,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            122
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Zlatibor",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 16.8,
+        "calculated_km": 16.83
+    },
+    "duration": {
+        "official_minutes": 300,
+        "official_text": "5 h",
+        "official_raw": "5:00"
+    },
+    "elevation": {
+        "official_gain_m": 700.0,
+        "official_loss_m": 700.0,
+        "calculated_gain_m": 909.3,
+        "calculated_loss_m": 893.2,
+        "min_m": 993.6,
+        "max_m": 1402.9
+    },
+    "start": "Drvena crkva Svete Trojice u Draglici",
+    "end": "Drvena crkva Svete Trojice u Draglici",
+    "description": "Šumarska kuća u Pragovima - vrh Medje brdo (1,5 km) - Šišaci (3,4 km) - Previja (4,5 km) - crkva brvnara u Draglici (7,3 km) - Tavničko jezero (11,4 km) - Stolovi (15,1 km) - Stojkovača (15,8 km) - Šumarska kuća u Pragovima (16,8 km)",
+    "landmarks": "Crkva Svete Trojice u Draglici, vrh Medje brdo i Tavničko jezero",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Stazu je trasirao Šuljagić Veliša sa Zlatibora 2020. godine i markirana je 2021. godine.\n\nStaza je izgrađena sredstvima JP-a \"Srbijašume\" Beograd.",
+    "map_reference": null,
+    "map_sheet": "1:50000 Titovo Užice 4 (528-4)",
+    "club": {
+        "name": "Tornik PK",
+        "url": "https://pss.rs/adresar_klubova/tornik-pk/",
+        "contact": "Zlatiborska 28\n064 156 55 78",
+        "clubs": [
+            {
+                "name": "Tornik PK",
+                "url": "https://pss.rs/adresar_klubova/tornik-pk/",
+                "contact": "Zlatiborska 28\n064 156 55 78"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 9,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2023/03/Staza-2-Murtenica-Tavnicko-jezero.gpx",
+        "fetched_at": "2026-11-08T12:02:48Z",
+        "checked_at": "2026-11-08T12:02:48Z",
+        "bytes": 315732,
+        "sha256": "da54760eb91144cfb819d8da55a6e2fec446a90e8aa7b013bd8b3ead4f8c4420",
+        "etag": null,
+        "last_modified": "Mon, 20 Mar 2023 23:10:05 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 2898,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 11,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2023/03/Staza-2-Murtenica-Tavnicko-jezero.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/staza-br-2-murtenica-tavnicko-jezero.geojson",
+        "bbox": [
+            19.743604,
+            43.572524,
+            19.788432,
+            43.603405
+        ],
+        "center": [
+            19.766018,
+            43.587965
+        ],
+        "start_point": [
+            19.7825,
+            43.598748
+        ],
+        "end_point": [
+            19.782512,
+            43.598672
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    19.7825,
+                    43.59875
+                ],
+                [
+                    19.7803,
+                    43.59776
+                ],
+                [
+                    19.77674,
+                    43.60113
+                ],
+                [
+                    19.77026,
+                    43.59956
+                ],
+                [
+                    19.7611,
+                    43.60051
+                ],
+                [
+                    19.76147,
+                    43.60336
+                ],
+                [
+                    19.75185,
+                    43.60334
+                ],
+                [
+                    19.74555,
+                    43.60023
+                ],
+                [
+                    19.7436,
+                    43.59504
+                ],
+                [
+                    19.75094,
+                    43.59291
+                ],
+                [
+                    19.75099,
+                    43.5899
+                ],
+                [
+                    19.75516,
+                    43.58929
+                ],
+                [
+                    19.75604,
+                    43.58726
+                ],
+                [
+                    19.75894,
+                    43.58968
+                ],
+                [
+                    19.75923,
+                    43.5878
+                ],
+                [
+                    19.76574,
+                    43.58674
+                ],
+                [
+                    19.76741,
+                    43.58172
+                ],
+                [
+                    19.76557,
+                    43.58027
+                ],
+                [
+                    19.76955,
+                    43.57444
+                ],
+                [
+                    19.76734,
+                    43.57256
+                ],
+                [
+                    19.76379,
+                    43.57423
+                ],
+                [
+                    19.76266,
+                    43.57252
+                ],
+                [
+                    19.76373,
+                    43.57425
+                ],
+                [
+                    19.76725,
+                    43.57263
+                ],
+                [
+                    19.77321,
+                    43.5733
+                ],
+                [
+                    19.78352,
+                    43.58138
+                ],
+                [
+                    19.78348,
+                    43.58404
+                ],
+                [
+                    19.78843,
+                    43.58881
+                ],
+                [
+                    19.78269,
+                    43.59267
+                ],
+                [
+                    19.78251,
+                    43.59867
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/staza-br-2-murtenica-tavnicko-jezero/",
+        "canonical_url": "https://pss.rs/terenipp/staza-br-2-murtenica-tavnicko-jezero/",
+        "pss_id": 19059,
+        "updated_at": "2023-03-20T23:26:00Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:02:49Z",
+        "last_synced_at": "2026-11-08T12:02:49Z"
+    },
+    "search": "staza br. 2: murtenica – tavnicko jezero 5-12-7 jugozapadna srbija zlatibor drvena crkva svete trojice u draglici drvena crkva svete trojice u draglici tornik pk crkva svete trojice u draglici, vrh medje brdo i tavnicko jezero laka sumarska kuca u pragovima - vrh medje brdo (1,5 km) - sisaci (3,4 km) - previja (4,5 km) - crkva brvnara u draglici (7,3 km) - tavnicko jezero (11,4 km) - stolovi (15,1 km) - stojkovaca (15,8 km) - sumarska kuca u pragovima (16,8 km)",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:02:49Z"
+    }
+}

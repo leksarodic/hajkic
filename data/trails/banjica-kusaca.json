@@ -1,0 +1,227 @@
+{
+    "schema_version": 1,
+    "slug": "banjica-kusaca",
+    "name": "Banjica - Kusača",
+    "code": "7-3-11",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 9341,
+        "category_id": 28,
+        "region_ids": [
+            7
+        ],
+        "mountain_ids": [
+            50
+        ]
+    },
+    "region": "Jugoistočna Srbija",
+    "mountain": "Suva planina",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 11.0,
+        "calculated_km": 10.92
+    },
+    "duration": {
+        "official_minutes": 300,
+        "official_text": "5 h",
+        "official_raw": "5:00"
+    },
+    "elevation": {
+        "official_gain_m": 700.0,
+        "official_loss_m": 700.0,
+        "calculated_gain_m": 723.1,
+        "calculated_loss_m": 714.8,
+        "min_m": 223.0,
+        "max_m": 771.0
+    },
+    "start": "Izletište Banjica, naselje Orovica, 230 m",
+    "end": "Izletište Banjica, naselje Orovica, 230 m",
+    "description": "• Cilj staze: vrh Vis (Kusača), 771 m\n\n • Početak staze je na prelepom izletištu Banjica, pored samog toka reke Nišave. U prvom delu staze je makadamski put a zatim se ulazi u listopadnu šumu. Staza je dobo markirana i uređena, istu stazu koriste i trkači i rekreativci. Nakon izlaska iz šume staza je prilično strma, ima dosta kamenja i potrebna je obuća sa jakim đonom. Sa vrh se odlično vide na jednoj strani Svrljiške planine, a na drugoj kompletna Suva planina. Sa vrha je dobar pogled i na Sićevačku klisuru i tok reke Nišave. Na početku staze, na izletištu ima uređena česma sa pijaćom vodom, a postavljen je i tuš.",
+    "landmarks": "• Vidikovci: Veći broj vidikovaca prema Svrljiškim planinama i prema Suvoj planini. Sa vrha se odlično vidi Sićevačka klisura i tok reke Nišave.\n\n • Na početku staze ima jedan izvor pitke vode.\n\n • Najbliže naselje Ostrovica\n\n • Na trasi nema smeštaja. U blizini su Niška banja i Bela Palanka.",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu je trasirao Slaviša Ivanović 2019. god.\n\n • Poslednji put staza je markirana 11.07.2019.god.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Mosor PSK",
+        "url": "https://pss.rs/adresar_klubova/mosor-pak/",
+        "contact": "Tvrđava bb, 18000 Niš\n063 1023016, 063 406025, 064 665 41 58\nhttp://www.pakmosor.org/",
+        "clubs": [
+            {
+                "name": "Mosor PSK",
+                "url": "https://pss.rs/adresar_klubova/mosor-pak/",
+                "contact": "Tvrđava bb, 18000 Niš\n063 1023016, 063 406025, 064 665 41 58\nhttp://www.pakmosor.org/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 10,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2019/07/7-3-11-Banjica-Kusaca.gpx",
+        "fetched_at": "2026-11-08T12:00:32Z",
+        "checked_at": "2026-11-08T12:00:32Z",
+        "bytes": 90509,
+        "sha256": "6ab98037fbe52d527cc3ff4aa10a7836fb1f11e85fbe767ad9540bb2ebc53329",
+        "etag": null,
+        "last_modified": "Tue, 23 Jul 2019 12:36:03 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 595,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 4,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2019/07/7-3-11-Banjica-Kusaca.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/banjica-kusaca.geojson",
+        "bbox": [
+            22.079750150442123,
+            43.31755355000496,
+            22.116531282663345,
+            43.326982855796814
+        ],
+        "center": [
+            22.098141,
+            43.322268
+        ],
+        "start_point": [
+            22.11110919713974,
+            43.32665763795376
+        ],
+        "end_point": [
+            22.110975086688995,
+            43.326982855796814
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    22.11111,
+                    43.32666
+                ],
+                [
+                    22.11128,
+                    43.32476
+                ],
+                [
+                    22.11445,
+                    43.32434
+                ],
+                [
+                    22.11653,
+                    43.31763
+                ],
+                [
+                    22.11274,
+                    43.31811
+                ],
+                [
+                    22.10823,
+                    43.3221
+                ],
+                [
+                    22.10599,
+                    43.31966
+                ],
+                [
+                    22.09937,
+                    43.32147
+                ],
+                [
+                    22.0922,
+                    43.32088
+                ],
+                [
+                    22.08682,
+                    43.32406
+                ],
+                [
+                    22.07975,
+                    43.32391
+                ],
+                [
+                    22.08704,
+                    43.32404
+                ],
+                [
+                    22.09195,
+                    43.32095
+                ],
+                [
+                    22.09907,
+                    43.32163
+                ],
+                [
+                    22.10627,
+                    43.31958
+                ],
+                [
+                    22.10666,
+                    43.32203
+                ],
+                [
+                    22.10927,
+                    43.3219
+                ],
+                [
+                    22.11059,
+                    43.31934
+                ],
+                [
+                    22.11646,
+                    43.31755
+                ],
+                [
+                    22.11452,
+                    43.32431
+                ],
+                [
+                    22.11139,
+                    43.32463
+                ],
+                [
+                    22.11098,
+                    43.32698
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/banjica-kusaca/",
+        "canonical_url": "https://pss.rs/terenipp/banjica-kusaca/",
+        "pss_id": 9341,
+        "updated_at": "2019-07-23T12:42:08Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:00:33Z",
+        "last_synced_at": "2026-11-08T12:00:33Z"
+    },
+    "search": "banjica - kusaca 7-3-11 jugoistocna srbija suva planina izletiste banjica, naselje orovica, 230 m izletiste banjica, naselje orovica, 230 m mosor psk • vidikovci: veci broj vidikovaca prema svrljiskim planinama i prema suvoj planini. sa vrha se odlicno vidi sicevacka klisura i tok reke nisave. • na pocetku staze ima jedan izvor pitke vode. • najblize naselje ostrovica • na trasi nema smestaja. u blizini su niska banja i bela palanka. zahtevna • cilj staze: vrh vis (kusaca), 771 m • pocetak staze je na prelepom izletistu banjica, pored samog toka reke nisave. u prvom delu staze je makadamski put a zatim se ulazi u listopadnu sumu. staza je dobo markirana i uredjena, istu stazu koriste i trkaci i rekreativci. nakon izlaska iz sume staza je prilicno strma, ima dosta kamenja i potrebna je obuca sa jakim djonom. sa vrh se odlicno vide na jednoj strani svrljiske planine, a na drugoj kompletna suva planina. sa vrha je dobar pogled i na sicevacku klisuru i tok reke nisave. na pocetku staze, na izletistu ima uredjena cesma sa pijacom vodom, a postavljen je i tus.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:00:33Z"
+    }
+}

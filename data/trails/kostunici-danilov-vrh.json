@@ -1,0 +1,185 @@
+{
+    "schema_version": 1,
+    "slug": "kostunici-danilov-vrh",
+    "name": "Koštunići - Danilov vrh",
+    "code": "3-20-12",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 3915,
+        "category_id": 28,
+        "region_ids": [
+            3
+        ],
+        "mountain_ids": [
+            40
+        ]
+    },
+    "region": "Zapadna Srbija",
+    "mountain": "Suvobor",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 5.5,
+        "calculated_km": 4.83
+    },
+    "duration": {
+        "official_minutes": 120,
+        "official_text": "2 h",
+        "official_raw": "2:00"
+    },
+    "elevation": {
+        "official_gain_m": 260.0,
+        "official_loss_m": 90.0,
+        "calculated_gain_m": 217.1,
+        "calculated_loss_m": 43.6,
+        "min_m": 642.7,
+        "max_m": 828.6
+    },
+    "start": "s. Koštunići (crkva), 600 m",
+    "end": "Danilov vrh, 842 m",
+    "description": null,
+    "landmarks": "Koštunići",
+    "maintenance": "delimično uređena",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": "Planinarsko-turistička topografska karta 1:25000, Suvoborski Rajac (st. br.12), u izdanju ”Geokarte” Beograd (Prvo izdanje 2008)",
+    "club": {
+        "name": "Pobeda PSK",
+        "url": "https://pss.rs/adresar_klubova/pobeda-pk/",
+        "contact": "Mačvanska 8, 11000 Beograd\n+38163 329 434 ; +38163 32 94 50\nhttps://www.pskpobeda.rs",
+        "clubs": [
+            {
+                "name": "Pobeda PSK",
+                "url": "https://pss.rs/adresar_klubova/pobeda-pk/",
+                "contact": "Mačvanska 8, 11000 Beograd\n+38163 329 434 ; +38163 32 94 50\nhttps://www.pskpobeda.rs"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 3,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/06/3-20-12-Kostunici-Danilov-vrh.gpx",
+        "fetched_at": "2026-11-08T11:56:12Z",
+        "checked_at": "2026-11-08T11:56:12Z",
+        "bytes": 30250,
+        "sha256": "2c5b885a142f16400db97832a6b4b5af78e022e85e33261dd8087caf135d834a",
+        "etag": null,
+        "last_modified": "Sat, 03 Jul 2021 12:33:07 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 235,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 3,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/06/3-20-12-Kostunici-Danilov-vrh.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/kostunici-danilov-vrh.geojson",
+        "bbox": [
+            20.186937963590026,
+            44.08294603228569,
+            20.206185998395085,
+            44.103862987831235
+        ],
+        "center": [
+            20.196562,
+            44.093405
+        ],
+        "start_point": [
+            20.19027496688068,
+            44.08294603228569
+        ],
+        "end_point": [
+            20.202848995104432,
+            44.102833019569516
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    20.19027,
+                    44.08295
+                ],
+                [
+                    20.18715,
+                    44.08804
+                ],
+                [
+                    20.19001,
+                    44.09247
+                ],
+                [
+                    20.19456,
+                    44.09228
+                ],
+                [
+                    20.19426,
+                    44.09579
+                ],
+                [
+                    20.20094,
+                    44.09411
+                ],
+                [
+                    20.20103,
+                    44.10016
+                ],
+                [
+                    20.20464,
+                    44.09937
+                ],
+                [
+                    20.20619,
+                    44.101
+                ],
+                [
+                    20.20437,
+                    44.10384
+                ],
+                [
+                    20.20285,
+                    44.10283
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/kostunici-danilov-vrh/",
+        "canonical_url": "https://pss.rs/terenipp/kostunici-danilov-vrh/",
+        "pss_id": 3915,
+        "updated_at": "2021-07-03T12:33:54Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:56:13Z",
+        "last_synced_at": "2026-11-08T11:56:13Z"
+    },
+    "search": "kostunici - danilov vrh 3-20-12 zapadna srbija suvobor s. kostunici (crkva), 600 m danilov vrh, 842 m pobeda psk kostunici laka",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:56:13Z"
+    }
+}

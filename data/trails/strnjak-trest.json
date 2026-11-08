@@ -1,0 +1,159 @@
+{
+    "schema_version": 1,
+    "slug": "strnjak-trest",
+    "name": "Strnjak - Trest",
+    "code": "4-4-4",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 11581,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            54
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Homoljske planine",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 6.5,
+        "calculated_km": 3.02
+    },
+    "duration": {
+        "official_minutes": 240,
+        "official_text": "4 h",
+        "official_raw": "4:00"
+    },
+    "elevation": {
+        "official_gain_m": 333.0,
+        "official_loss_m": 333.0,
+        "calculated_gain_m": 373.0,
+        "calculated_loss_m": 36.8,
+        "min_m": 270.0,
+        "max_m": 613.0
+    },
+    "start": "Put ka Trestu od sela Vitovnice, 280 m",
+    "end": "Put ka Trestu od sela Vitovnice, 280 m",
+    "description": "Staza kreće od puta ka izletištu Trest od sela Vitovnice pre prvog mosta na Vitovničkoj reci. Staza ide zemljenim šumskim putem i na oko 1,5 km seče ponovo put sa koga smo prošli, ko ima džip ili višlje vozilo može krenuti i odavde. Od ove tačke kreće uspon kroz šumu do izlaska na greben. Grebenom se ide još oko 300 m i stiže se na vrh Strnjak (613 m). Staza je skoro celom dužinom u šumi.",
+    "landmarks": "• Na stazi ima 3 vidikovca\n\n • Van trase ima Izviđački dom \"Ždrelo\"\n\n • Van trase je Banja Ždrelo i privatni smeštaj u okolini",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu su trasirali Darica i Dejan Dragojević\n\n • Poslednji put staza je markirana 2020. godine",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Gornjak PD",
+        "url": "https://pss.rs/adresar_klubova/gornjak-pd/",
+        "contact": "Prvomajska bb, 12300 Petrovac na Mlavi\n+38164 2345 518 ; +38163 696 682\nhttp://www.gornjak.org.rs",
+        "clubs": [
+            {
+                "name": "Gornjak PD",
+                "url": "https://pss.rs/adresar_klubova/gornjak-pd/",
+                "contact": "Prvomajska bb, 12300 Petrovac na Mlavi\n+38164 2345 518 ; +38163 696 682\nhttp://www.gornjak.org.rs"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 7,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2020/06/4-4-4-Strnjak-Trest.gpx",
+        "fetched_at": "2026-11-08T12:00:46Z",
+        "checked_at": "2026-11-08T12:00:46Z",
+        "bytes": 26889,
+        "sha256": "777ff92ab530a7e6be9872c3f623393d4a11c5b18e91dad562e54baeb286860e",
+        "etag": null,
+        "last_modified": "Tue, 09 Jun 2020 16:37:04 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 146,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 5,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2020/06/4-4-4-Strnjak-Trest.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/strnjak-trest.geojson",
+        "bbox": [
+            21.553759993985295,
+            44.368858030065894,
+            21.577476002275944,
+            44.37666904181242
+        ],
+        "center": [
+            21.565618,
+            44.372764
+        ],
+        "start_point": [
+            21.553759993985295,
+            44.37478504143655
+        ],
+        "end_point": [
+            21.577476002275944,
+            44.368858030065894
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.55376,
+                    44.37479
+                ],
+                [
+                    21.56376,
+                    44.37347
+                ],
+                [
+                    21.56908,
+                    44.37659
+                ],
+                [
+                    21.57091,
+                    44.37241
+                ],
+                [
+                    21.57748,
+                    44.36886
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/strnjak-trest/",
+        "canonical_url": "https://pss.rs/terenipp/strnjak-trest/",
+        "pss_id": 11581,
+        "updated_at": "2020-06-09T16:41:20Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:00:47Z",
+        "last_synced_at": "2026-11-08T12:00:47Z"
+    },
+    "search": "strnjak - trest 4-4-4 istocna srbija homoljske planine put ka trestu od sela vitovnice, 280 m put ka trestu od sela vitovnice, 280 m gornjak pd • na stazi ima 3 vidikovca • van trase ima izvidjacki dom \"zdrelo\" • van trase je banja zdrelo i privatni smestaj u okolini laka staza krece od puta ka izletistu trest od sela vitovnice pre prvog mosta na vitovnickoj reci. staza ide zemljenim sumskim putem i na oko 1,5 km sece ponovo put sa koga smo prosli, ko ima dzip ili vislje vozilo moze krenuti i odavde. od ove tacke krece uspon kroz sumu do izlaska na greben. grebenom se ide jos oko 300 m i stize se na vrh strnjak (613 m). staza je skoro celom duzinom u sumi.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:00:47Z"
+    }
+}

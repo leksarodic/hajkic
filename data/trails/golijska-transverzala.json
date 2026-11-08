@@ -1,0 +1,127 @@
+{
+    "schema_version": 1,
+    "slug": "golijska-transverzala",
+    "name": "Golijska transverzala",
+    "code": "T-5-4",
+    "category": {
+        "key": "planinarske-transverzale",
+        "label": "Planinarske transverzale"
+    },
+    "pss": {
+        "post_id": 3543,
+        "category_id": 30,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            34
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Golija",
+    "difficulty": {
+        "key": "nepoznato",
+        "label": "Nije navedeno",
+        "source": null
+    },
+    "distance": {
+        "official_km": 129.7,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": 5377.0,
+        "official_loss_m": 4234.0,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": null,
+    "end": null,
+    "description": null,
+    "landmarks": "• manastiri: Žiča, Studenica, Gradac, Đurđevi stupovi, Petrova crkva\n\n • Donja i Gornja isposnica Svetoga Save\n\n • stari grad Maglič\n\n • Mataruška banja\n\n •",
+    "maintenance": null,
+    "marking": "propisana planinarska",
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": null,
+    "club": null,
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": false,
+        "status": "missing",
+        "source_url": null,
+        "fetched_at": null,
+        "checked_at": "2026-11-08T12:49:54Z",
+        "bytes": null,
+        "sha256": null,
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": null,
+        "tracks": null,
+        "segments": null,
+        "waypoints": null,
+        "error": null,
+        "download": {
+            "mode": "none",
+            "url": null
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "minimal",
+        "issues": [
+            "missing_difficulty",
+            "missing_description",
+            "missing_gpx"
+        ]
+    },
+    "additional": {
+        "Planine/predeli": "Golija",
+        "Status": "aktivna",
+        "Datum poslednje verifikacije": "2012",
+        "Društvo": "Železničar PSK Kraljevo",
+        "Vreme obilaska (dana)": "5",
+        "Godina otvaranja": "2003.",
+        "Kontakt": "https://pss.rs/kontakti/dragan-jovanovic/, Dragan, Jovanović, 064-891 2243, 064-321 1144, Dragan Jovanović",
+        "Vrsta": "linijska",
+        "Broj kontrolnih tačaka": "10",
+        "Opis puta": "• Start kod manastira Žiča - 226 mnv, Stolovi, Maglič, Studenica, Bzovik, Odvraćenica, Cilj Duga poljana - 1180 mnv\n\n • KT-1 Žiča 226mnv -- KT-2 Usovica 1375mnv -- KT-3 Grad Maglič 365mnv -- KT-4 Smrdljuč 1579mnv -- KT-5 Gornja isposnica 930mnv -- KT-6 Studenica 486mnv -- KT-7 Krivača 1643 mnv -- KT-8 Odvraćenica 1629mnv -- KT-9 Jankov Kamen 1833mnv -- KT-10 Duga poljana 1180mnv\n\n • Planine: Stolovi, Čemerno, Radočelo, Golija",
+        "Dnevnik": "Ima Dnevnik",
+        "Priznanja": "Značka, Bedž"
+    },
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/golijska-transverzala/",
+        "canonical_url": "https://pss.rs/terenipp/golijska-transverzala/",
+        "pss_id": 3543,
+        "updated_at": "2017-06-01T20:10:45Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:49:54Z",
+        "last_synced_at": "2026-11-08T12:49:54Z"
+    },
+    "search": "golijska transverzala t-5-4 jugozapadna srbija golija • manastiri: zica, studenica, gradac, djurdjevi stupovi, petrova crkva • donja i gornja isposnica svetoga save • stari grad maglic • mataruska banja • nije navedeno",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:49:54Z"
+    }
+}

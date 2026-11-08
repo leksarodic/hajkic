@@ -1,0 +1,507 @@
+{
+    "schema_version": 1,
+    "slug": "e4-4",
+    "name": "Padina - Beograd (Krnjača)",
+    "code": "E4-4",
+    "category": {
+        "key": "evropski-pesacki-putevi-u-srbiji",
+        "label": "Evropski pešački putevi u Srbiji"
+    },
+    "pss": {
+        "post_id": 3639,
+        "category_id": 29,
+        "region_ids": [
+            1
+        ],
+        "mountain_ids": [
+            48
+        ]
+    },
+    "region": "Vojvodina",
+    "mountain": "Deliblatska peščara",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "lak"
+    },
+    "distance": {
+        "official_km": 97.7,
+        "calculated_km": 97.9
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": 84.0,
+        "official_loss_m": 136.0,
+        "calculated_gain_m": 100.6,
+        "calculated_loss_m": 71.1,
+        "min_m": 68.0,
+        "max_m": 154.0
+    },
+    "start": null,
+    "end": null,
+    "description": "• Posle ritova Tamiša zalazimo u predele poslednje kontinentalne\npeščare u Evropi. Deliblatska peščara, na površini od\n35.000ha pretstavlja stecifičan rezervat prirode, sa tipičnim\nkarakteristikama nekadašnjeg navejavanja i kretanja peska i bogatim\nbiodiverzitetom. Ima prepoznatljivu stepsku vegetaciju (40 biljnih\nvrsta ima status prirodnih retkosti). Veliki deo peščare je sada\npošumljen. U peščari žive, pored sitnih životinja i vukovi.\n\n • Ambijent peščare pruža mogućnosti za pešačenje, sport, rekreaciju,\nistraživanje i obrazovanje. Peščane dine su visine od 70 do 200m.\nPeščara na jugoistoku dopire do reke Dunav gde se nalazi Specijalni\nrezervat prirode Labudovo okno. Najveća kolonija laste bregunice\ngnezdi se u peskovitoj obali Dunava.",
+    "landmarks": "Deliblatska peščara (poslednja kontinentalna peščara u Evropi), \n\nSpecijalni rezervat prirode Labudovo okno",
+    "maintenance": null,
+    "marking": "evropska crveno-žuta",
+    "accommodation": "Alibunar, Devojački bunar, Pančevo, Beograd",
+    "notes": "• E4-4-1 Padina – Vladimirovac 18,6 km\n\n • E4-4-2 Vladimirovac – Alibunar 12,6 km\n\n • E4-4-3 Alibunar – Devojački Bunar 13,0 km\n\n • E4-4-4 Devojački Bunar – Dolovo 16,8 km\n\n • E4-4-5 Dolovo – Pančevo 22,9 km\n\n • E4-4-6 Pančevo – Beograd (Krnjača) 13,8 km",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Jelenak PD",
+        "url": "https://pss.rs/adresar_klubova/jelenak-pd/",
+        "contact": "Svetog Save 10, 26000 Pančevo\n+38163 247 466 ; +38163 250 398\nhttp://www.jelenak.rs",
+        "clubs": [
+            {
+                "name": "Jelenak PD",
+                "url": "https://pss.rs/adresar_klubova/jelenak-pd/",
+                "contact": "Svetog Save 10, 26000 Pančevo\n+38163 247 466 ; +38163 250 398\nhttp://www.jelenak.rs"
+            },
+            {
+                "name": "Karpati PD",
+                "url": "https://pss.rs/adresar_klubova/karpati-pd/",
+                "contact": "Jovana Popovića 45 26340 Bela Crkva\n+381 63 247371 ; +381 63 8007931"
+            },
+            {
+                "name": "Soko PEK",
+                "url": "https://pss.rs/adresar_klubova/soko-pek/",
+                "contact": "Dušana Petrovića Šaneta 9/31, 26000 Pančevo\n+38113 320 762 ; +38164 27 60 539\nhttps://www.soko.rs"
+            },
+            {
+                "name": "Vršačka kula PSD",
+                "url": "https://pss.rs/adresar_klubova/vrsacka-kula-psd/",
+                "contact": "Svetosavski trg 1a, 26300 Vršac\n+38169 164 14 76\nhttps://www.psdkulavrsac.com/"
+            },
+            {
+                "name": "Zrenjanin KP",
+                "url": "https://pss.rs/adresar_klubova/zrenjanin-kp/",
+                "contact": "Makedonska 11, 23000 Zrenjanin\n 063/1841370; 063/8461255.\nhttps://kpzrenjanin.org.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 16,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/E4-4-Padina-Beograd.gpx",
+        "fetched_at": "2026-11-08T12:50:16Z",
+        "checked_at": "2026-11-08T12:50:16Z",
+        "bytes": 237796,
+        "sha256": "f27711f2018a38f24205026a34d728884c6bce57b46108fa0b76030646d10a15",
+        "etag": null,
+        "last_modified": "Thu, 05 Dec 2024 23:00:41 GMT",
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": 3265,
+        "tracks": 6,
+        "segments": 6,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/E4-4-Padina-Beograd.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/e4-4.geojson",
+        "bbox": [
+            20.491870344,
+            44.834996033,
+            20.974590015,
+            45.119101983
+        ],
+        "center": [
+            20.73323,
+            44.977049
+        ],
+        "start_point": [
+            20.721608,
+            45.119101983
+        ],
+        "end_point": [
+            20.491870344,
+            44.839194864
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    20.72161,
+                    45.1191
+                ],
+                [
+                    20.72444,
+                    45.11844
+                ],
+                [
+                    20.72396,
+                    45.11128
+                ],
+                [
+                    20.73141,
+                    45.10823
+                ],
+                [
+                    20.73401,
+                    45.10223
+                ],
+                [
+                    20.75252,
+                    45.08891
+                ],
+                [
+                    20.76151,
+                    45.08595
+                ],
+                [
+                    20.76723,
+                    45.08157
+                ],
+                [
+                    20.76904,
+                    45.08424
+                ],
+                [
+                    20.78331,
+                    45.07269
+                ],
+                [
+                    20.7929,
+                    45.07002
+                ],
+                [
+                    20.79888,
+                    45.0825
+                ],
+                [
+                    20.84824,
+                    45.03783
+                ],
+                [
+                    20.86244,
+                    45.03039
+                ]
+            ],
+            [
+                [
+                    20.86244,
+                    45.03039
+                ],
+                [
+                    20.87222,
+                    45.03949
+                ],
+                [
+                    20.87113,
+                    45.04933
+                ],
+                [
+                    20.87347,
+                    45.05418
+                ],
+                [
+                    20.90007,
+                    45.06708
+                ],
+                [
+                    20.91933,
+                    45.08501
+                ],
+                [
+                    20.92618,
+                    45.08178
+                ],
+                [
+                    20.95484,
+                    45.08212
+                ],
+                [
+                    20.9565,
+                    45.08495
+                ],
+                [
+                    20.96495,
+                    45.08004
+                ]
+            ],
+            [
+                [
+                    20.96495,
+                    45.08004
+                ],
+                [
+                    20.97459,
+                    45.06685
+                ],
+                [
+                    20.96813,
+                    45.05901
+                ],
+                [
+                    20.97249,
+                    45.05258
+                ],
+                [
+                    20.96931,
+                    45.04778
+                ],
+                [
+                    20.97317,
+                    45.04313
+                ],
+                [
+                    20.95291,
+                    45.03372
+                ],
+                [
+                    20.93933,
+                    45.03267
+                ],
+                [
+                    20.95661,
+                    45.01572
+                ],
+                [
+                    20.95287,
+                    45.01046
+                ],
+                [
+                    20.95577,
+                    45.00179
+                ],
+                [
+                    20.94876,
+                    44.99793
+                ],
+                [
+                    20.94708,
+                    44.99445
+                ]
+            ],
+            [
+                [
+                    20.94708,
+                    44.99445
+                ],
+                [
+                    20.96681,
+                    44.9799
+                ],
+                [
+                    20.9637,
+                    44.97654
+                ],
+                [
+                    20.95814,
+                    44.97955
+                ],
+                [
+                    20.95711,
+                    44.97757
+                ],
+                [
+                    20.96553,
+                    44.96191
+                ],
+                [
+                    20.95893,
+                    44.95635
+                ],
+                [
+                    20.94903,
+                    44.9545
+                ],
+                [
+                    20.95333,
+                    44.94814
+                ],
+                [
+                    20.94035,
+                    44.94068
+                ],
+                [
+                    20.93354,
+                    44.94059
+                ],
+                [
+                    20.9154,
+                    44.93071
+                ],
+                [
+                    20.89342,
+                    44.91521
+                ],
+                [
+                    20.89047,
+                    44.91555
+                ],
+                [
+                    20.8831,
+                    44.91033
+                ],
+                [
+                    20.88284,
+                    44.90546
+                ],
+                [
+                    20.87643,
+                    44.90023
+                ]
+            ],
+            [
+                [
+                    20.87643,
+                    44.90023
+                ],
+                [
+                    20.8691,
+                    44.89063
+                ],
+                [
+                    20.86596,
+                    44.89241
+                ],
+                [
+                    20.8594,
+                    44.89151
+                ],
+                [
+                    20.8364,
+                    44.88117
+                ],
+                [
+                    20.80275,
+                    44.88822
+                ],
+                [
+                    20.78807,
+                    44.88919
+                ],
+                [
+                    20.78968,
+                    44.88742
+                ],
+                [
+                    20.77428,
+                    44.88142
+                ],
+                [
+                    20.74259,
+                    44.87674
+                ],
+                [
+                    20.74092,
+                    44.87909
+                ],
+                [
+                    20.73488,
+                    44.87935
+                ],
+                [
+                    20.73641,
+                    44.87581
+                ],
+                [
+                    20.73424,
+                    44.86811
+                ],
+                [
+                    20.67934,
+                    44.87177
+                ],
+                [
+                    20.66809,
+                    44.87074
+                ],
+                [
+                    20.65679,
+                    44.86454
+                ],
+                [
+                    20.64892,
+                    44.87063
+                ],
+                [
+                    20.63863,
+                    44.8688
+                ]
+            ],
+            [
+                [
+                    20.63863,
+                    44.8688
+                ],
+                [
+                    20.63321,
+                    44.87018
+                ],
+                [
+                    20.63493,
+                    44.87254
+                ],
+                [
+                    20.62709,
+                    44.86823
+                ],
+                [
+                    20.6004,
+                    44.86808
+                ],
+                [
+                    20.56132,
+                    44.85583
+                ],
+                [
+                    20.53942,
+                    44.84173
+                ],
+                [
+                    20.52592,
+                    44.83672
+                ],
+                [
+                    20.50279,
+                    44.83509
+                ],
+                [
+                    20.49567,
+                    44.8362
+                ],
+                [
+                    20.49187,
+                    44.83919
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": [
+            "missing_elevation"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/e4-4/",
+        "canonical_url": "https://pss.rs/terenipp/e4-4/",
+        "pss_id": 3639,
+        "updated_at": "2024-12-05T23:00:53Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:50:17Z",
+        "last_synced_at": "2026-11-08T12:50:17Z"
+    },
+    "search": "padina - beograd (krnjaca) e4-4 vojvodina deliblatska pescara jelenak pd deliblatska pescara (poslednja kontinentalna pescara u evropi), specijalni rezervat prirode labudovo okno laka • posle ritova tamisa zalazimo u predele poslednje kontinentalne pescare u evropi. deliblatska pescara, na povrsini od 35.000ha pretstavlja stecifican rezervat prirode, sa tipicnim karakteristikama nekadasnjeg navejavanja i kretanja peska i bogatim biodiverzitetom. ima prepoznatljivu stepsku vegetaciju (40 biljnih vrsta ima status prirodnih retkosti). veliki deo pescare je sada posumljen. u pescari zive, pored sitnih zivotinja i vukovi. • ambijent pescare pruza mogucnosti za pesacenje, sport, rekreaciju, istrazivanje i obrazovanje. pescane dine su visine od 70 do 200m. pescara na jugoistoku dopire do reke dunav gde se nalazi specijalni rezervat prirode labudovo okno. najveca kolonija laste bregunice gnezdi se u peskovitoj obali dunava.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:50:17Z"
+    }
+}

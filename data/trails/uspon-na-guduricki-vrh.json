@@ -1,0 +1,241 @@
+{
+    "schema_version": 1,
+    "slug": "uspon-na-guduricki-vrh",
+    "name": "Uspon na Gudurički vrh",
+    "code": "1-4-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 3650,
+        "category_id": 28,
+        "region_ids": [
+            1
+        ],
+        "mountain_ids": [
+            33
+        ]
+    },
+    "region": "Vojvodina",
+    "mountain": "Vršačke planine",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 16.0,
+        "calculated_km": 15.96
+    },
+    "duration": {
+        "official_minutes": 360,
+        "official_text": "6 h",
+        "official_raw": "6:00"
+    },
+    "elevation": {
+        "official_gain_m": 475.0,
+        "official_loss_m": 475.0,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": "Planinarski dom \"Široko bilo\" 280mnv",
+    "end": "Planinarski dom \"Široko bilo\" 280mnv",
+    "description": "Staza je deonica Vršačke transverzale ( T-1-3 )",
+    "landmarks": "Gudurički vrh",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinarski dom \"Široko bilo\"",
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Vršačka kula PSD",
+        "url": "https://pss.rs/adresar_klubova/vrsacka-kula-psd/",
+        "contact": "Svetosavski trg 1a, 26300 Vršac\n+38169 164 14 76\nhttps://www.psdkulavrsac.com/",
+        "clubs": [
+            {
+                "name": "Vršačka kula PSD",
+                "url": "https://pss.rs/adresar_klubova/vrsacka-kula-psd/",
+                "contact": "Svetosavski trg 1a, 26300 Vršac\n+38169 164 14 76\nhttps://www.psdkulavrsac.com/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/1-4-1.gpx",
+        "fetched_at": "2026-11-08T12:50:26Z",
+        "checked_at": "2026-11-08T12:50:26Z",
+        "bytes": 20704,
+        "sha256": "a62ffdef0f6ae7a6345325c22dc3be1edb3d321f1d5e01caad6eeb9346ea9978",
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": 464,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/1-4-1.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/uspon-na-guduricki-vrh.geojson",
+        "bbox": [
+            21.3600403,
+            45.1254091,
+            21.4153343,
+            45.1384308
+        ],
+        "center": [
+            21.387687,
+            45.13192
+        ],
+        "start_point": [
+            21.3600403,
+            45.1265209
+        ],
+        "end_point": [
+            21.3600403,
+            45.1265209
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    21.36004,
+                    45.12652
+                ],
+                [
+                    21.3641,
+                    45.12541
+                ],
+                [
+                    21.36962,
+                    45.13156
+                ],
+                [
+                    21.37154,
+                    45.1299
+                ],
+                [
+                    21.37335,
+                    45.13346
+                ],
+                [
+                    21.37162,
+                    45.13579
+                ],
+                [
+                    21.37495,
+                    45.13516
+                ],
+                [
+                    21.37937,
+                    45.13843
+                ],
+                [
+                    21.38446,
+                    45.13221
+                ],
+                [
+                    21.38966,
+                    45.13659
+                ],
+                [
+                    21.40398,
+                    45.13486
+                ],
+                [
+                    21.4126,
+                    45.13716
+                ],
+                [
+                    21.41533,
+                    45.12719
+                ],
+                [
+                    21.41215,
+                    45.12776
+                ],
+                [
+                    21.4089,
+                    45.13441
+                ],
+                [
+                    21.38966,
+                    45.13659
+                ],
+                [
+                    21.38446,
+                    45.13221
+                ],
+                [
+                    21.37937,
+                    45.13843
+                ],
+                [
+                    21.37495,
+                    45.13516
+                ],
+                [
+                    21.37162,
+                    45.13579
+                ],
+                [
+                    21.37335,
+                    45.13346
+                ],
+                [
+                    21.37154,
+                    45.1299
+                ],
+                [
+                    21.36962,
+                    45.13156
+                ],
+                [
+                    21.3641,
+                    45.12541
+                ],
+                [
+                    21.36004,
+                    45.12652
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": [
+            "missing_elevation"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/uspon-na-guduricki-vrh/",
+        "canonical_url": "https://pss.rs/terenipp/uspon-na-guduricki-vrh/",
+        "pss_id": 3650,
+        "updated_at": "2023-03-11T10:21:59Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:50:27Z",
+        "last_synced_at": "2026-11-08T12:50:27Z"
+    },
+    "search": "uspon na guduricki vrh 1-4-1 vojvodina vrsacke planine planinarski dom \"siroko bilo\" 280mnv planinarski dom \"siroko bilo\" 280mnv vrsacka kula psd guduricki vrh zahtevna staza je deonica vrsacke transverzale ( t-1-3 )",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:50:27Z"
+    }
+}

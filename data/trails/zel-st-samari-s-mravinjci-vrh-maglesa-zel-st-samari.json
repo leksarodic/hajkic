@@ -1,0 +1,241 @@
+{
+    "schema_version": 1,
+    "slug": "zel-st-samari-s-mravinjci-vrh-maglesa-zel-st-samari",
+    "name": "Žel. stanica Samari - Mravinjci",
+    "code": "3-14-7",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 12775,
+        "category_id": 28,
+        "region_ids": [
+            3
+        ],
+        "mountain_ids": [
+            199,
+            200,
+            66
+        ]
+    },
+    "region": "Zapadna Srbija",
+    "mountain": "Magleš, Ostreš, Povlen",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 23.0,
+        "calculated_km": 18.49
+    },
+    "duration": {
+        "official_minutes": 480,
+        "official_text": "8 h",
+        "official_raw": "8:00"
+    },
+    "elevation": {
+        "official_gain_m": 982.0,
+        "official_loss_m": 982.0,
+        "calculated_gain_m": 906.9,
+        "calculated_loss_m": 912.1,
+        "min_m": 480.9,
+        "max_m": 1028.1
+    },
+    "start": "Žel. stanica Samari, 485 m",
+    "end": "Žel. stanica Samari, 485 m",
+    "description": "Staza je kružna. Na start staze na železničkoj stanici Samari može se doći putničkim vozom iz pravca Beograda i Užica. U selo Mravinjce može se doći autobusom. Od Samara pešači se uz reku Veliku Zabavu kolskim putem kroz bukovu šumu. Pri tome sve do sela Mravinjci je stalni uspon. Staza prolazi kroz Ostreš gde ima par naseljenih kuća. Nakon 10-ak km dolazi u selo Mravinjci (oko 900 m nadmorske visine) na asfaltni put Valjevo - Taorska vrela. Zatim pored vikend naselja Matića ravan (kafana \"Panorama\") staza ide kroz četinarsku i bukovu šumu ka vrhu Magleša (1036 m). Dalje staza ide stalno nizbrdo i delimično je pošumljena. Pri kraju ide se nizvodno pored reke Zabavice, ponovo do Samara.",
+    "landmarks": "• Reke Zabava i Zabavica\n\n • Privatni smeštaj u selu Mravinjci",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu trasirali Dušan Drakulić i Zoran Vesić.\n\n • Staza je markirana u oktobru 2020 godine.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Povlen PK",
+        "url": "https://pss.rs/adresar_klubova/povlen-pk/",
+        "contact": "Doktora Pantića 131/6 14000 Valjevo\n063-232039",
+        "clubs": [
+            {
+                "name": "Povlen PK",
+                "url": "https://pss.rs/adresar_klubova/povlen-pk/",
+                "contact": "Doktora Pantića 131/6 14000 Valjevo\n063-232039"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 8,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2021/01/3-14-7-Samari-s.Mravinjci-vrh-Maglesa.gpx",
+        "fetched_at": "2026-11-08T12:01:46Z",
+        "checked_at": "2026-11-08T12:01:46Z",
+        "bytes": 128329,
+        "sha256": "b6429fe57bf5b4a05ea2a1fbf42913fb712014d936309858455b74c20e789ac4",
+        "etag": null,
+        "last_modified": "Fri, 08 Jan 2021 15:22:10 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 1046,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 9,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2021/01/3-14-7-Samari-s.Mravinjci-vrh-Maglesa.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/zel-st-samari-s-mravinjci-vrh-maglesa-zel-st-samari.geojson",
+        "bbox": [
+            19.791904566809535,
+            44.117513755336404,
+            19.858047673478723,
+            44.15881642140448
+        ],
+        "center": [
+            19.824976,
+            44.138165
+        ],
+        "start_point": [
+            19.857868887484074,
+            44.12342065013945
+        ],
+        "end_point": [
+            19.858001740649343,
+            44.12350161932409
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    19.85787,
+                    44.12342
+                ],
+                [
+                    19.85478,
+                    44.12069
+                ],
+                [
+                    19.84431,
+                    44.1197
+                ],
+                [
+                    19.84295,
+                    44.11755
+                ],
+                [
+                    19.82776,
+                    44.12713
+                ],
+                [
+                    19.83115,
+                    44.13007
+                ],
+                [
+                    19.81291,
+                    44.13186
+                ],
+                [
+                    19.80878,
+                    44.13568
+                ],
+                [
+                    19.79673,
+                    44.1366
+                ],
+                [
+                    19.79207,
+                    44.1388
+                ],
+                [
+                    19.79565,
+                    44.14292
+                ],
+                [
+                    19.79393,
+                    44.14442
+                ],
+                [
+                    19.796,
+                    44.14807
+                ],
+                [
+                    19.80151,
+                    44.14964
+                ],
+                [
+                    19.81176,
+                    44.14736
+                ],
+                [
+                    19.81456,
+                    44.15185
+                ],
+                [
+                    19.82335,
+                    44.1553
+                ],
+                [
+                    19.82287,
+                    44.1579
+                ],
+                [
+                    19.83021,
+                    44.15772
+                ],
+                [
+                    19.83496,
+                    44.14968
+                ],
+                [
+                    19.84404,
+                    44.14773
+                ],
+                [
+                    19.84316,
+                    44.1461
+                ],
+                [
+                    19.85455,
+                    44.12958
+                ],
+                [
+                    19.85422,
+                    44.12509
+                ],
+                [
+                    19.858,
+                    44.1235
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/zel-st-samari-s-mravinjci-vrh-maglesa-zel-st-samari/",
+        "canonical_url": "https://pss.rs/terenipp/zel-st-samari-s-mravinjci-vrh-maglesa-zel-st-samari/",
+        "pss_id": 12775,
+        "updated_at": "2022-04-28T16:28:54Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:01:46Z",
+        "last_synced_at": "2026-11-08T12:01:46Z"
+    },
+    "search": "zel. stanica samari - mravinjci 3-14-7 zapadna srbija magles, ostres, povlen zel. stanica samari, 485 m zel. stanica samari, 485 m povlen pk • reke zabava i zabavica • privatni smestaj u selu mravinjci zahtevna staza je kruzna. na start staze na zeleznickoj stanici samari moze se doci putnickim vozom iz pravca beograda i uzica. u selo mravinjce moze se doci autobusom. od samara pesaci se uz reku veliku zabavu kolskim putem kroz bukovu sumu. pri tome sve do sela mravinjci je stalni uspon. staza prolazi kroz ostres gde ima par naseljenih kuca. nakon 10-ak km dolazi u selo mravinjci (oko 900 m nadmorske visine) na asfaltni put valjevo - taorska vrela. zatim pored vikend naselja matica ravan (kafana \"panorama\") staza ide kroz cetinarsku i bukovu sumu ka vrhu maglesa (1036 m). dalje staza ide stalno nizbrdo i delimicno je posumljena. pri kraju ide se nizvodno pored reke zabavice, ponovo do samara.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:01:46Z"
+    }
+}

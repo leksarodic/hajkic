@@ -1,0 +1,219 @@
+{
+    "schema_version": 1,
+    "slug": "selo-radanovci-obradovic",
+    "name": "Selo Radanovci - \"Obradovići\"",
+    "code": "3-18-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 16565,
+        "category_id": 28,
+        "region_ids": [
+            3
+        ],
+        "mountain_ids": [
+            199
+        ]
+    },
+    "region": "Zapadna Srbija",
+    "mountain": "Magleš",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 14.8,
+        "calculated_km": 14.79
+    },
+    "duration": {
+        "official_minutes": 300,
+        "official_text": "5 h",
+        "official_raw": "5:00"
+    },
+    "elevation": {
+        "official_gain_m": 376.0,
+        "official_loss_m": 500.0,
+        "calculated_gain_m": 455.0,
+        "calculated_loss_m": 585.4,
+        "min_m": 531.8,
+        "max_m": 919.0
+    },
+    "start": "Selo Radanovci (zaseok Ćirovine), 665 m",
+    "end": "Etno domaćinstvo \"Obradović\" (Podbukovi), 524 m",
+    "description": "Start staze je u selu Radanovci (zaseok Ćirovine). Iz pravca Beograda i Užica najlakše je doći preko Kosjerića (put je prohodan i za velike autobuse). Dalje se ide uzbrdo prema uzvišenju gde je spomenik Žikici Jovanoviću Špancu. Odatle se pruža lep pogled prema Kozomoru i Subjelu. Staza produžava dalje makadamskim putem u pravcu sela Drenovci. Prolazi preko tunela Drenovački kik (pruga Beograd-Bar), stazom južno od vrha Drenovački kik (946 m) i penje na vrh Mali Bašinac (876 m). Staza posle produžava na vrh Veliki Bašinac (821 m). Potom, izbija na asfaltni put Valjevo-Kosjerić, na koti 759 Kaona. Dalje se sa Kaone ide u pravcu Valjeva oko 500 m, pa skreće desno nizbrdo preko Babinog groba i dalje do etno domaćinstava „Obradovići“.",
+    "landmarks": "• Spomenik Žikici Jovanoviću Špancu\n\n • Vidikovci: 3\n\n • Naselja: Radanovci, Drenovci, Podbukovi\n\n • Planinarsko sklonište \"Kik\"\n\n • Privatni smeštaj na trasi: 1\n\n • Odmaralište na trasi: 1",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu je trasirao PK \"Povlen\" Valjevo, 15.04.2022.\n\n • Poslednji put staza je markirana maja 2022.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Povlen PK",
+        "url": "https://pss.rs/adresar_klubova/povlen-pk/",
+        "contact": "Doktora Pantića 131/6 14000 Valjevo\n063-232039",
+        "clubs": [
+            {
+                "name": "Povlen PK",
+                "url": "https://pss.rs/adresar_klubova/povlen-pk/",
+                "contact": "Doktora Pantića 131/6 14000 Valjevo\n063-232039"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 6,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2022/04/3-18-1-Radanovci-Obradovic.gpx",
+        "fetched_at": "2026-11-08T12:02:34Z",
+        "checked_at": "2026-11-08T12:02:34Z",
+        "bytes": 101131,
+        "sha256": "01422d9b6c5f132d217bab24d6a21630ac932516019e8d9fd270a41b7134d979",
+        "etag": null,
+        "last_modified": "Thu, 28 Apr 2022 10:26:33 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 597,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 10,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2022/04/3-18-1-Radanovci-Obradovic.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/selo-radanovci-obradovic.geojson",
+        "bbox": [
+            19.839844023808837,
+            44.08174297772348,
+            19.936007000505924,
+            44.12628097459674
+        ],
+        "center": [
+            19.887926,
+            44.104012
+        ],
+        "start_point": [
+            19.84034299850464,
+            44.08174297772348
+        ],
+        "end_point": [
+            19.93595897220075,
+            44.12621601484716
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    19.84034,
+                    44.08174
+                ],
+                [
+                    19.84005,
+                    44.08639
+                ],
+                [
+                    19.84614,
+                    44.08864
+                ],
+                [
+                    19.84862,
+                    44.09481
+                ],
+                [
+                    19.8399,
+                    44.10326
+                ],
+                [
+                    19.85127,
+                    44.10417
+                ],
+                [
+                    19.85929,
+                    44.10082
+                ],
+                [
+                    19.87108,
+                    44.11232
+                ],
+                [
+                    19.87697,
+                    44.11131
+                ],
+                [
+                    19.88137,
+                    44.1142
+                ],
+                [
+                    19.89084,
+                    44.11435
+                ],
+                [
+                    19.89324,
+                    44.11285
+                ],
+                [
+                    19.89846,
+                    44.11424
+                ],
+                [
+                    19.9007,
+                    44.10906
+                ],
+                [
+                    19.90791,
+                    44.11059
+                ],
+                [
+                    19.9148,
+                    44.11949
+                ],
+                [
+                    19.91976,
+                    44.11954
+                ],
+                [
+                    19.92413,
+                    44.11617
+                ],
+                [
+                    19.93196,
+                    44.12566
+                ],
+                [
+                    19.93596,
+                    44.12622
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/selo-radanovci-obradovic/",
+        "canonical_url": "https://pss.rs/terenipp/selo-radanovci-obradovic/",
+        "pss_id": 16565,
+        "updated_at": "2022-04-28T15:12:47Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:02:34Z",
+        "last_synced_at": "2026-11-08T12:02:34Z"
+    },
+    "search": "selo radanovci - \"obradovici\" 3-18-1 zapadna srbija magles selo radanovci (zaseok cirovine), 665 m etno domacinstvo \"obradovic\" (podbukovi), 524 m povlen pk • spomenik zikici jovanovicu spancu • vidikovci: 3 • naselja: radanovci, drenovci, podbukovi • planinarsko skloniste \"kik\" • privatni smestaj na trasi: 1 • odmaraliste na trasi: 1 laka start staze je u selu radanovci (zaseok cirovine). iz pravca beograda i uzica najlakse je doci preko kosjerica (put je prohodan i za velike autobuse). dalje se ide uzbrdo prema uzvisenju gde je spomenik zikici jovanovicu spancu. odatle se pruza lep pogled prema kozomoru i subjelu. staza produzava dalje makadamskim putem u pravcu sela drenovci. prolazi preko tunela drenovacki kik (pruga beograd-bar), stazom juzno od vrha drenovacki kik (946 m) i penje na vrh mali basinac (876 m). staza posle produzava na vrh veliki basinac (821 m). potom, izbija na asfaltni put valjevo-kosjeric, na koti 759 kaona. dalje se sa kaone ide u pravcu valjeva oko 500 m, pa skrece desno nizbrdo preko babinog groba i dalje do etno domacinstava „obradovici“.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:02:34Z"
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "schema_version": 1,
+    "slug": "e7-2",
+    "name": "Stari Žednik - Sombor",
+    "code": "E7-2",
+    "category": {
+        "key": "evropski-pesacki-putevi-u-srbiji",
+        "label": "Evropski pešački putevi u Srbiji"
+    },
+    "pss": {
+        "post_id": 3556,
+        "category_id": 29,
+        "region_ids": [
+            1
+        ],
+        "mountain_ids": [
+            41
+        ]
+    },
+    "region": "Vojvodina",
+    "mountain": "Telečka visoravan",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "lak"
+    },
+    "distance": {
+        "official_km": 74.8,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": 174.0,
+        "official_loss_m": 177.0,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": null,
+    "end": null,
+    "description": "• Od Žednika put E-7 prolazi kroz Zobnaticu koja je poznata kao\nodgajalište konja duže od dva veka. Za posetioce su organizovani\nprogrami, škola jahanja i vožnje fijakera. Vredi posetiti muzej\nkonjarstva. Velika manifestacija „Zobnatičke konjičke igre” održava\nse svake godine u drugoj nedelji septembra.\n\n • Put dalje prelazi preko lesnih platoa i dolina nekadašnjih prostranih\nstepa. Veoma je zanimljiv zaštićeni Predeo izuzetnih odlika lesnih\ndolina Krivaje sa izuzetnim pejzažnim vrednostima.\n\n • Bez obzira na male visinske razlike na putu je prepoznatljiv silazak\nsa niskih platoa Telečke visoravni u široku ravan Dunava. Od mesta\nSivac do grada Sombora put ide širokom ravnicom zanimljivih\npejzaža lokalnih kanala i vodotokova. Grad Sombor smešten je\nnedaleko od obale Dunava. Centralni trg izgrađuje više baroknih\nzdanja, posebno Gradske kuće sa visokim tornjem iz 1842. godine.\n\n • U lepoj zgradi Županije iz devetnaestog veka nalazi se najveća slika u\nSrbiji površine 28m2 i predstavlja čuvenu bitku kod Sente. Sombor\nje poznat po dobrim muzičarima tamburašima, lepim zabavama i\nraskošnim fijakerima. Oko grada se nalazi šesnaest salaša – naselja\nu polju sa sačuvanim etno nasleđem. Mnogi od njih su otvoreni za\nposetioce. U okolini grada su veliki Bački i Bajski kanal i reka\nDunav.",
+    "landmarks": "• Zobnatica - odgajalište konja,\n\n • lesna dolina Krivaje - zaštićeni predeo izuzetnih odlika\n\n • Telečka visoravan",
+    "maintenance": null,
+    "marking": "Propisna evropska crveno-žuta",
+    "accommodation": "Zobnatica, Bačka Topola, Sombor",
+    "notes": "• E7-2-1 Stari Žednik – Zobnatica 13,9 km\n\n • E7-2-2 Zobnatica – Duboka 25,0 km\n\n • E7-2-3 Duboka – Sivac 11,0 km\n\n • E7-2-4 Sivac – Sombor 24,9 km",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Dr. Radivoj Simonović PD",
+        "url": "https://pss.rs/adresar_klubova/dr-r-simonovic-zpk/",
+        "contact": "Pariska 10, 25000 Sombor\n063 8888 100, 063 520 954 \nhttp://www.rsimonovic.org",
+        "clubs": [
+            {
+                "name": "Dr. Radivoj Simonović PD",
+                "url": "https://pss.rs/adresar_klubova/dr-r-simonovic-zpk/",
+                "contact": "Pariska 10, 25000 Sombor\n063 8888 100, 063 520 954 \nhttp://www.rsimonovic.org"
+            },
+            {
+                "name": "Spartak PSK",
+                "url": "https://pss.rs/adresar_klubova/spartak-zpk/",
+                "contact": "Bose Miličević BB, 24000 Subotica \n+38163 87 94 681; +38164 666 12 87\nhttp://www.suplaninari.co.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": false,
+        "status": "invalid",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/E7-2-Stari-Zednik-__-Sombor.gpx",
+        "fetched_at": "2026-11-08T12:49:55Z",
+        "checked_at": "2026-11-08T12:49:55Z",
+        "bytes": 89539,
+        "sha256": "ea12cb491b666aa79b8a726c6bece4d93018b282d3ff56dce4fecb7498c408de",
+        "etag": null,
+        "last_modified": "Sat, 07 Nov 2026 16:41:33 GMT",
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": 0,
+        "tracks": 0,
+        "segments": 0,
+        "waypoints": 0,
+        "error": "Datoteka nema <gpx> koren.",
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/E7-2-Stari-Zednik-__-Sombor.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_gpx"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/e7-2/",
+        "canonical_url": "https://pss.rs/terenipp/e7-2/",
+        "pss_id": 3556,
+        "updated_at": "2024-12-07T21:21:28Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:49:56Z",
+        "last_synced_at": "2026-11-08T12:49:56Z"
+    },
+    "search": "stari zednik - sombor e7-2 vojvodina telecka visoravan dr. radivoj simonovic pd • zobnatica - odgajaliste konja, • lesna dolina krivaje - zasticeni predeo izuzetnih odlika • telecka visoravan laka • od zednika put e-7 prolazi kroz zobnaticu koja je poznata kao odgajaliste konja duze od dva veka. za posetioce su organizovani programi, skola jahanja i voznje fijakera. vredi posetiti muzej konjarstva. velika manifestacija „zobnaticke konjicke igre” odrzava se svake godine u drugoj nedelji septembra. • put dalje prelazi preko lesnih platoa i dolina nekadasnjih prostranih stepa. veoma je zanimljiv zasticeni predeo izuzetnih odlika lesnih dolina krivaje sa izuzetnim pejzaznim vrednostima. • bez obzira na male visinske razlike na putu je prepoznatljiv silazak sa niskih platoa telecke visoravni u siroku ravan dunava. od mesta sivac do grada sombora put ide sirokom ravnicom zanimljivih pejzaza lokalnih kanala i vodotokova. grad sombor smesten je nedaleko od obale dunava. centralni trg izgradjuje vise baroknih zdanja, posebno gradske kuce sa visokim tornjem iz 1842. godine. • u lepoj zgradi zupanije iz devetnaestog veka nalazi se najveca slika u srbiji povrsine 28m2 i predstavlja cuvenu bitku kod sente. sombor je poznat po dobrim muzicarima tamburasima, lepim zabavama i raskosnim fijakerima. oko grada se nalazi sesnaest salasa – naselja u polju sa sacuvanim etno nasledjem. mnogi od njih su otvoreni za posetioce. u okolini grada su veliki backi i bajski kanal i reka dunav.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:49:56Z"
+    }
+}

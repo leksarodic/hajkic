@@ -1,0 +1,18 @@
+{
+    "schema_version": 1,
+    "generated_at": "2026-11-08T12:07:43Z",
+    "counts": {
+        "trails": 355,
+        "with_gpx": 232,
+        "with_elevation": 225,
+        "missing_gpx": 119,
+        "invalid_gpx": 4,
+        "complete": 200,
+        "partial": 152,
+        "minimal": 3
+    },
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/planinarski-objekti-i-tereni/tereni/?tip=planinarski-putevi"
+    }
+}

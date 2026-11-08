@@ -1,0 +1,171 @@
+{
+    "schema_version": 1,
+    "slug": "kanjon-kratovske-reke",
+    "name": "Kanjon Kratovske reke",
+    "code": "5-11-2",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 12527,
+        "category_id": 28,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            197
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Stari Vlah",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 7.0,
+        "calculated_km": 5.55
+    },
+    "duration": {
+        "official_minutes": 180,
+        "official_text": "3 h",
+        "official_raw": "3:00"
+    },
+    "elevation": {
+        "official_gain_m": 150.0,
+        "official_loss_m": 315.0,
+        "calculated_gain_m": 396.6,
+        "calculated_loss_m": 443.4,
+        "min_m": 448.8,
+        "max_m": 773.2
+    },
+    "start": "Naselje Kratovo, 604 m",
+    "end": "Ribarsko naselje (Potpeć), 440 m",
+    "description": "• Od škole u Kratovu u pravcu jugozapada dolazimo do skretanja za veliku pećinu u Bjeličkovici (u smeru juga). Ispod same pećine se nalazi vidikovac. Iz pećine se vraća istim putem do Kratovske reke, a onda se staza nastavlja kroz njen kanjon. Uz stazu nalazi se i isposnica sa leve strane u stenama. Staza dalje vodi ka magistralnom putu Bistrica - Priboj i železničkoj trasi Beograd - Bar. Pre prelaska magistrale sa leve strane ispod puta nalazi se izvor pijaće vode. Po prelasku magistrale i železničke pruge staza od oko 300 m vodi ka Ribarskom naselju. Od Ribarskog naselja, magistralnim putem Bistrica - Priboj, oko 7 km udaljen je centar grada Priboja.",
+    "landmarks": "• Pribojska banja\n\n • Velika pećina u Bjeličkovici\n\n • Isposnica u Bjeličkovici\n\n • Ribarsko naselje\n\n • Vidikovac: Ispod velike pećine u Bjeličkovici\n\n • Naselja: Kratovo, zaseoko Ćirkovici, Potpeć\n\n • Na trasi 1 izvor pijaće vode\n\n • U Ribarskom naselju postoji smeštaj Turističke organizacije Priboj sa pet dvokrevetnih bungalova.\n\n • Pored ovog smeštaja u Pribojskoj banji razvijen je banjski turizam i u ponudi ima dosta smeštajnog kapaciteta, kao i u centru grada smeštajnog kapaciteta ima u hotelu Lim.",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu su trasirali planinari ŽKP Ljeskovac 2017. godine.\n\n • Poslednji put staza je markirana 2017. godine.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Ljeskovac ŽKP",
+        "url": "https://pss.rs/adresar_klubova/ljeskovac-zkp/",
+        "contact": "8.mart bb, 31330 Priboj\n+ 381 64 3140810",
+        "clubs": [
+            {
+                "name": "Ljeskovac ŽKP",
+                "url": "https://pss.rs/adresar_klubova/ljeskovac-zkp/",
+                "contact": "8.mart bb, 31330 Priboj\n+ 381 64 3140810"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 13,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2020/11/5-11-2-Kanjon-Kratovske-reke.gpx",
+        "fetched_at": "2026-11-08T12:01:34Z",
+        "checked_at": "2026-11-08T12:01:34Z",
+        "bytes": 80934,
+        "sha256": "860e2d35837932fb55269ee1b0c7f620b12ef3387780972f4d6dbb86efc12a20",
+        "etag": null,
+        "last_modified": "Fri, 20 Nov 2020 15:44:59 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 477,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 7,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2020/11/5-11-2-Kanjon-Kratovske-reke.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/kanjon-kratovske-reke.geojson",
+        "bbox": [
+            19.58854492753744,
+            43.51720528677106,
+            19.62525011971593,
+            43.53259873576462
+        ],
+        "center": [
+            19.606898,
+            43.524902
+        ],
+        "start_point": [
+            19.62525011971593,
+            43.53252883069217
+        ],
+        "end_point": [
+            19.5886127371341,
+            43.51723227649927
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    19.62525,
+                    43.53253
+                ],
+                [
+                    19.62292,
+                    43.53187
+                ],
+                [
+                    19.62089,
+                    43.52672
+                ],
+                [
+                    19.62283,
+                    43.53066
+                ],
+                [
+                    19.61475,
+                    43.52356
+                ],
+                [
+                    19.60203,
+                    43.52033
+                ],
+                [
+                    19.59136,
+                    43.52083
+                ],
+                [
+                    19.58861,
+                    43.51723
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/kanjon-kratovske-reke/",
+        "canonical_url": "https://pss.rs/terenipp/kanjon-kratovske-reke/",
+        "pss_id": 12527,
+        "updated_at": "2020-11-26T15:45:04Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:01:34Z",
+        "last_synced_at": "2026-11-08T12:01:34Z"
+    },
+    "search": "kanjon kratovske reke 5-11-2 jugozapadna srbija stari vlah naselje kratovo, 604 m ribarsko naselje (potpec), 440 m ljeskovac zkp • pribojska banja • velika pecina u bjelickovici • isposnica u bjelickovici • ribarsko naselje • vidikovac: ispod velike pecine u bjelickovici • naselja: kratovo, zaseoko cirkovici, potpec • na trasi 1 izvor pijace vode • u ribarskom naselju postoji smestaj turisticke organizacije priboj sa pet dvokrevetnih bungalova. • pored ovog smestaja u pribojskoj banji razvijen je banjski turizam i u ponudi ima dosta smestajnog kapaciteta, kao i u centru grada smestajnog kapaciteta ima u hotelu lim. laka • od skole u kratovu u pravcu jugozapada dolazimo do skretanja za veliku pecinu u bjelickovici (u smeru juga). ispod same pecine se nalazi vidikovac. iz pecine se vraca istim putem do kratovske reke, a onda se staza nastavlja kroz njen kanjon. uz stazu nalazi se i isposnica sa leve strane u stenama. staza dalje vodi ka magistralnom putu bistrica - priboj i zeleznickoj trasi beograd - bar. pre prelaska magistrale sa leve strane ispod puta nalazi se izvor pijace vode. po prelasku magistrale i zeleznicke pruge staza od oko 300 m vodi ka ribarskom naselju. od ribarskog naselja, magistralnim putem bistrica - priboj, oko 7 km udaljen je centar grada priboja.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:01:34Z"
+    }
+}

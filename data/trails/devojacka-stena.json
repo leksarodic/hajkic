@@ -1,0 +1,173 @@
+{
+    "schema_version": 1,
+    "slug": "devojacka-stena",
+    "name": "Devojačka stena",
+    "code": "3-28-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 19507,
+        "category_id": 28,
+        "region_ids": [
+            3
+        ],
+        "mountain_ids": [
+            390
+        ]
+    },
+    "region": "Zapadna Srbija",
+    "mountain": "Kablar",
+    "difficulty": {
+        "key": "vrlo_teska",
+        "label": "Vrlo teška",
+        "source": "vrlo teška"
+    },
+    "distance": {
+        "official_km": 2.5,
+        "calculated_km": 2.45
+    },
+    "duration": {
+        "official_minutes": 120,
+        "official_text": "2 h",
+        "official_raw": "2:00"
+    },
+    "elevation": {
+        "official_gain_m": 595.0,
+        "official_loss_m": 0.0,
+        "calculated_gain_m": 3.7,
+        "calculated_loss_m": 550.5,
+        "min_m": 294.6,
+        "max_m": 865.8
+    },
+    "start": "Ovčar Banja, planinarski dom „Bogoljub Đurić“ - 290 m",
+    "end": "vrh Kablara - 885 m",
+    "description": "Jedna od najatraktivnijih staza na Kablaru. Staza je u stalnom usponu,koji je u središnjem delu veoma izražen, posebno u delu od crkve Svetog Save do Devojačke stene. Podloga je zamlja na početku i na deonici nakon Devojačke stene. Središnji deo je kamen i stena, na nekim mestima otvoren teren. Potreban je oprez, dobra psiho-fizička spremnost.",
+    "landmarks": "Crkva Svetog Save",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinarski dom \"Bogoljub Ćurić\"",
+    "notes": "Ko je i kada trasirao stazu: polovina XX veka, nepoznato\n\nKada je staza poslednji put markirana: 2017",
+    "map_reference": null,
+    "map_sheet": "Planinarske staze Ovčara i Kablara 1 : 20 000 i Čačak 1 (529/1) 1:50000",
+    "club": {
+        "name": "Kablar PD",
+        "url": "https://pss.rs/adresar_klubova/kablar-pd/",
+        "contact": "Kneza Miloša 1, 32000 Čačak\n+38164 852 60 48\nhttps://www.kablar.rs",
+        "clubs": [
+            {
+                "name": "Kablar PD",
+                "url": "https://pss.rs/adresar_klubova/kablar-pd/",
+                "contact": "Kneza Miloša 1, 32000 Čačak\n+38164 852 60 48\nhttps://www.kablar.rs"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2023/05/1-Devojacka-stena-.gpx",
+        "fetched_at": "2026-11-08T12:03:14Z",
+        "checked_at": "2026-11-08T12:03:14Z",
+        "bytes": 4426,
+        "sha256": "60b77882bf49d31cd36456b73eec0f6aab2597da4a7e31027f2dd0ce66fbeadf",
+        "etag": null,
+        "last_modified": "Sun, 07 May 2023 16:45:25 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 46,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2023/05/1-Devojacka-stena-.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/devojacka-stena.geojson",
+        "bbox": [
+            20.187320262,
+            43.904213095,
+            20.19425285,
+            43.913849685
+        ],
+        "center": [
+            20.190787,
+            43.909031
+        ],
+        "start_point": [
+            20.191383222,
+            43.912534649
+        ],
+        "end_point": [
+            20.19425285,
+            43.905018512
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    20.19138,
+                    43.91253
+                ],
+                [
+                    20.18742,
+                    43.91385
+                ],
+                [
+                    20.19023,
+                    43.90834
+                ],
+                [
+                    20.19283,
+                    43.90766
+                ],
+                [
+                    20.19197,
+                    43.90429
+                ],
+                [
+                    20.19425,
+                    43.90502
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/devojacka-stena/",
+        "canonical_url": "https://pss.rs/terenipp/devojacka-stena/",
+        "pss_id": 19507,
+        "updated_at": "2023-05-07T17:20:41Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:03:15Z",
+        "last_synced_at": "2026-11-08T12:03:15Z"
+    },
+    "search": "devojacka stena 3-28-1 zapadna srbija kablar ovcar banja, planinarski dom „bogoljub djuric“ - 290 m vrh kablara - 885 m kablar pd crkva svetog save vrlo teska jedna od najatraktivnijih staza na kablaru. staza je u stalnom usponu,koji je u sredisnjem delu veoma izrazen, posebno u delu od crkve svetog save do devojacke stene. podloga je zamlja na pocetku i na deonici nakon devojacke stene. sredisnji deo je kamen i stena, na nekim mestima otvoren teren. potreban je oprez, dobra psiho-fizicka spremnost.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:03:15Z"
+    }
+}

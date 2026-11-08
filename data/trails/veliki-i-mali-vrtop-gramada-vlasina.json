@@ -1,0 +1,247 @@
+{
+    "schema_version": 1,
+    "slug": "veliki-i-mali-vrtop-gramada-vlasina",
+    "name": "Veliki i Mali Vrtop - Gramada, Vlasina",
+    "code": "7-15-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 11091,
+        "category_id": 28,
+        "region_ids": [
+            7
+        ],
+        "mountain_ids": [
+            162
+        ]
+    },
+    "region": "Jugoistočna Srbija",
+    "mountain": "Gramada",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 20.0,
+        "calculated_km": 19.9
+    },
+    "duration": {
+        "official_minutes": 360,
+        "official_text": "6 h",
+        "official_raw": "6:00"
+    },
+    "elevation": {
+        "official_gain_m": 601.0,
+        "official_loss_m": 601.0,
+        "calculated_gain_m": 661.5,
+        "calculated_loss_m": 688.9,
+        "min_m": 1188.3,
+        "max_m": 1726.7
+    },
+    "start": "Skretanje za selo Polom na magistralnom putu Vlasina - Crna Trava, 1120 m",
+    "end": "Skretanje za selo Polom na magistralnom putu Vlasina - Crna Trava, 1120 m",
+    "description": "Staza prolazi sve vreme kroz izuzetno lepe predele Vlasinske visoravni. Nema nikakvih naglih i teških uspona i silazaka. Vrlo brzo se izlazi na greben i onda je konstantan pogled na Vlasinsko jezero, visoravan i okolne planine.",
+    "landmarks": "• Na trasi 2 izvora pitke vode\n\n • Selo Polom\n\n • Van trase 1 motel, 1 kamp i nekoliko desetina privatnog smeštaja",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu je trasirao SPK \"Vlasina\" iz Surdulice maja 2012. godine.\n\n • Poslednji put staza je markirana jula 2019. godine.",
+    "map_reference": null,
+    "map_sheet": "Vlasina, 1:30, izdanje Geokarta",
+    "club": {
+        "name": "Vlasina SPK",
+        "url": "https://pss.rs/adresar_klubova/vlasina-spk/",
+        "contact": "Srpskih Vladara bb, 17530 Surdulica\n064/8535708",
+        "clubs": [
+            {
+                "name": "Vlasina SPK",
+                "url": "https://pss.rs/adresar_klubova/vlasina-spk/",
+                "contact": "Srpskih Vladara bb, 17530 Surdulica\n064/8535708"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 8,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2020/03/7-15-1-GRAMADA-Vlasina-vrh-Vrtop-Vlasina.gpx",
+        "fetched_at": "2026-11-08T12:00:39Z",
+        "checked_at": "2026-11-08T12:00:39Z",
+        "bytes": 50778,
+        "sha256": "02fcc01fab76954f60dc78f2f8acf2b89008bdd8ca0d845087c38da0c60fda3c",
+        "etag": null,
+        "last_modified": "Thu, 19 Mar 2020 15:09:15 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 409,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 5,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2020/03/7-15-1-GRAMADA-Vlasina-vrh-Vrtop-Vlasina.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/veliki-i-mali-vrtop-gramada-vlasina.geojson",
+        "bbox": [
+            22.324751000851393,
+            42.74575101211667,
+            22.373340977355838,
+            42.79293400235474
+        ],
+        "center": [
+            22.349046,
+            42.769343
+        ],
+        "start_point": [
+            22.324751000851393,
+            42.75233801454306
+        ],
+        "end_point": [
+            22.324772039428353,
+            42.75239400565624
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    22.32475,
+                    42.75234
+                ],
+                [
+                    22.32775,
+                    42.74932
+                ],
+                [
+                    22.32763,
+                    42.75084
+                ],
+                [
+                    22.33459,
+                    42.74883
+                ],
+                [
+                    22.35207,
+                    42.74853
+                ],
+                [
+                    22.3599,
+                    42.74575
+                ],
+                [
+                    22.36249,
+                    42.74673
+                ],
+                [
+                    22.35997,
+                    42.76275
+                ],
+                [
+                    22.36514,
+                    42.76956
+                ],
+                [
+                    22.3599,
+                    42.77511
+                ],
+                [
+                    22.35607,
+                    42.77625
+                ],
+                [
+                    22.36086,
+                    42.78375
+                ],
+                [
+                    22.37334,
+                    42.7929
+                ],
+                [
+                    22.36538,
+                    42.78891
+                ],
+                [
+                    22.35896,
+                    42.78218
+                ],
+                [
+                    22.34813,
+                    42.78165
+                ],
+                [
+                    22.34556,
+                    42.77896
+                ],
+                [
+                    22.33049,
+                    42.77439
+                ],
+                [
+                    22.33269,
+                    42.76584
+                ],
+                [
+                    22.33624,
+                    42.76658
+                ],
+                [
+                    22.34021,
+                    42.76449
+                ],
+                [
+                    22.34122,
+                    42.75889
+                ],
+                [
+                    22.33357,
+                    42.75731
+                ],
+                [
+                    22.33348,
+                    42.75431
+                ],
+                [
+                    22.32692,
+                    42.75589
+                ],
+                [
+                    22.32657,
+                    42.75238
+                ],
+                [
+                    22.32477,
+                    42.75239
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/veliki-i-mali-vrtop-gramada-vlasina/",
+        "canonical_url": "https://pss.rs/terenipp/veliki-i-mali-vrtop-gramada-vlasina/",
+        "pss_id": 11091,
+        "updated_at": "2020-03-30T13:36:25Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:00:40Z",
+        "last_synced_at": "2026-11-08T12:00:40Z"
+    },
+    "search": "veliki i mali vrtop - gramada, vlasina 7-15-1 jugoistocna srbija gramada skretanje za selo polom na magistralnom putu vlasina - crna trava, 1120 m skretanje za selo polom na magistralnom putu vlasina - crna trava, 1120 m vlasina spk • na trasi 2 izvora pitke vode • selo polom • van trase 1 motel, 1 kamp i nekoliko desetina privatnog smestaja laka staza prolazi sve vreme kroz izuzetno lepe predele vlasinske visoravni. nema nikakvih naglih i teskih uspona i silazaka. vrlo brzo se izlazi na greben i onda je konstantan pogled na vlasinsko jezero, visoravan i okolne planine.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:00:40Z"
+    }
+}

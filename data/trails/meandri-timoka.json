@@ -1,0 +1,133 @@
+{
+    "schema_version": 1,
+    "slug": "meandri-timoka",
+    "name": "Meandri Timoka",
+    "code": "4-54-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 23150,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            415
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Dolina Timoka",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 4.8,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": 150,
+        "official_text": "2 h 30 min",
+        "official_raw": "2:30"
+    },
+    "elevation": {
+        "official_gain_m": 179.0,
+        "official_loss_m": 179.0,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": "Hidroelektrana \"Sokolovica\" - 100 m.n.v.",
+    "end": "Vidikovac \"Kravul cetec\" (vidikovac \"Timok\") - 297 m.n.v.",
+    "description": "Pešačka staza vodi od HE „Sokolovica“, preko same brane.\nMala hidroelektrana „Sokolovica” se nalazi na 25 km nizvodno od Zaječara i\nprva je hidroelektrana izgrađena posle Drugog svetskog rata. HE „Sokolovica” je jedna od retkih u Srbiji koja ima takozvanu „riblju stazu”, odnosno, mogućnost nesmetanog prolaska ribe sa obe strane brane, što značajno pomaže očuvanju ribljeg fonda. Odatle staza skreće uzbrdo, kroz šumicu, do vidikovca iznad brane. Pogled sa vidikovca je prelep – na meandre Timoka koji neverovatno i po obliku i po boji podsećaju na čuvene meandre Uvca. Povratak je istom stazom.",
+    "landmarks": "Hidroelektrana \"Sokolovica\" i vidikovac \"Kravul cetec\" (vidikovac \"Timok\")",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Ko je i kada trasirao stazu: _PSD „Ljuba Nešić“ , novembar 2020.\nKada je staza poslednji put markirana: 16.09.2023.",
+    "map_reference": null,
+    "map_sheet": "1:50000 Bor 4 (483-4)",
+    "club": {
+        "name": "Ljuba Nešić PSD",
+        "url": "https://pss.rs/adresar_klubova/ljuba-nesic-psd/",
+        "contact": "Planinarska kuća u istočnoj Kraljevici bb (poštanski fah 148), 19000 Zaječar\n+38163 759 85 50, 060 82 11 502",
+        "clubs": [
+            {
+                "name": "Ljuba Nešić PSD",
+                "url": "https://pss.rs/adresar_klubova/ljuba-nesic-psd/",
+                "contact": "Planinarska kuća u istočnoj Kraljevici bb (poštanski fah 148), 19000 Zaječar\n+38163 759 85 50, 060 82 11 502"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 12,
+    "gpx": {
+        "available": false,
+        "status": "missing",
+        "source_url": null,
+        "fetched_at": null,
+        "checked_at": "2026-11-08T12:03:46Z",
+        "bytes": null,
+        "sha256": null,
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": null,
+        "tracks": null,
+        "segments": null,
+        "waypoints": null,
+        "error": null,
+        "download": {
+            "mode": "none",
+            "url": null
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_gpx"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/meandri-timoka/",
+        "canonical_url": "https://pss.rs/terenipp/meandri-timoka/",
+        "pss_id": 23150,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:03:46Z",
+        "last_synced_at": "2026-11-08T12:03:46Z"
+    },
+    "search": "meandri timoka 4-54-1 istocna srbija dolina timoka hidroelektrana \"sokolovica\" - 100 m.n.v. vidikovac \"kravul cetec\" (vidikovac \"timok\") - 297 m.n.v. ljuba nesic psd hidroelektrana \"sokolovica\" i vidikovac \"kravul cetec\" (vidikovac \"timok\") laka pesacka staza vodi od he „sokolovica“, preko same brane. mala hidroelektrana „sokolovica” se nalazi na 25 km nizvodno od zajecara i prva je hidroelektrana izgradjena posle drugog svetskog rata. he „sokolovica” je jedna od retkih u srbiji koja ima takozvanu „riblju stazu”, odnosno, mogucnost nesmetanog prolaska ribe sa obe strane brane, sto znacajno pomaze ocuvanju ribljeg fonda. odatle staza skrece uzbrdo, kroz sumicu, do vidikovca iznad brane. pogled sa vidikovca je prelep – na meandre timoka koji neverovatno i po obliku i po boji podsecaju na cuvene meandre uvca. povratak je istom stazom.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:03:46Z"
+    }
+}

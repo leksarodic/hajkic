@@ -1,0 +1,171 @@
+{
+    "schema_version": 1,
+    "slug": "milusinac-bogova-vrata",
+    "name": "Milušinac - Bogova vrata",
+    "code": "4-45-4",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 13417,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            70
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Krstatac",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 8.0,
+        "calculated_km": 7.94
+    },
+    "duration": {
+        "official_minutes": 180,
+        "official_text": "3 h",
+        "official_raw": "3:00"
+    },
+    "elevation": {
+        "official_gain_m": 390.0,
+        "official_loss_m": 390.0,
+        "calculated_gain_m": 369.2,
+        "calculated_loss_m": 368.3,
+        "min_m": 443.3,
+        "max_m": 715.0
+    },
+    "start": "Selo Milušinac, 443 m",
+    "end": "Selo Milušinac, 443 m",
+    "description": "Staza je kružna i polazi od doma u Milušincu i ide asfaltnim i posle zemljanim putem do raskršća. Na raskršću se odvaja levo prema Manastirištu. Nakon toga staza ide do vidikovca i zatim na kolski put. Zatim skreće desno i spaja se sa stazom koja silazi sa Krstatca i odvaja se prema Bogovim vratima i vodopadu Urdeškog potoka. Povratak ide niz potok uz nekoliko prelazaka potoka i dolazi se do Manastirišta, a odatle do raskršća i zatim do polazne lokacije.",
+    "landmarks": "• Bogova vrata\n\n • Vidikovac: Urdeš\n\n • Na trasi ima izvora pitke vode\n\n • Naselje: Milušinac\n\n • Smeštaj: kamp, odmaralište, privatni smeštaj",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu su trasirali marta 2015. članovi PK \"Ozren\" Sokobanja (Dejan Jorgić, Nebojša Ilić, Milan Dukilić, Ilija Knežević)\n\n • Poslednji put staza je markirana 2018. godine",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Ozren PK",
+        "url": "https://pss.rs/adresar_klubova/ozren-pk/",
+        "contact": "Alekse Markišića 28/3 18230 Sokobanja (poštanski fah 63)\n+38164 855 33 61",
+        "clubs": [
+            {
+                "name": "Ozren PK",
+                "url": "https://pss.rs/adresar_klubova/ozren-pk/",
+                "contact": "Alekse Markišića 28/3 18230 Sokobanja (poštanski fah 63)\n+38164 855 33 61"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2021/03/4-45-4-Milusinac-Bogova-vrata.gpx",
+        "fetched_at": "2026-11-08T12:02:02Z",
+        "checked_at": "2026-11-08T12:02:02Z",
+        "bytes": 127811,
+        "sha256": "59c2a309097caa1015f9bd23cb696e922ea4df17b87e54377b17ba086e5aacf0",
+        "etag": null,
+        "last_modified": "Mon, 13 Dec 2021 13:40:38 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 770,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 5,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2021/03/4-45-4-Milusinac-Bogova-vrata.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/milusinac-bogova-vrata.geojson",
+        "bbox": [
+            22.01067203655839,
+            43.667005989700556,
+            22.04743900336325,
+            43.67529200389981
+        ],
+        "center": [
+            22.029056,
+            43.671149
+        ],
+        "start_point": [
+            22.01067203655839,
+            43.67012104019523
+        ],
+        "end_point": [
+            22.01078301295638,
+            43.670164961367846
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    22.01067,
+                    43.67012
+                ],
+                [
+                    22.02336,
+                    43.66701
+                ],
+                [
+                    22.02615,
+                    43.6736
+                ],
+                [
+                    22.02966,
+                    43.67529
+                ],
+                [
+                    22.04744,
+                    43.67496
+                ],
+                [
+                    22.0262,
+                    43.67261
+                ],
+                [
+                    22.02333,
+                    43.66701
+                ],
+                [
+                    22.01078,
+                    43.67016
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/milusinac-bogova-vrata/",
+        "canonical_url": "https://pss.rs/terenipp/milusinac-bogova-vrata/",
+        "pss_id": 13417,
+        "updated_at": "2021-12-13T13:41:34Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:02:02Z",
+        "last_synced_at": "2026-11-08T12:02:02Z"
+    },
+    "search": "milusinac - bogova vrata 4-45-4 istocna srbija krstatac selo milusinac, 443 m selo milusinac, 443 m ozren pk • bogova vrata • vidikovac: urdes • na trasi ima izvora pitke vode • naselje: milusinac • smestaj: kamp, odmaraliste, privatni smestaj laka staza je kruzna i polazi od doma u milusincu i ide asfaltnim i posle zemljanim putem do raskrsca. na raskrscu se odvaja levo prema manastiristu. nakon toga staza ide do vidikovca i zatim na kolski put. zatim skrece desno i spaja se sa stazom koja silazi sa krstatca i odvaja se prema bogovim vratima i vodopadu urdeskog potoka. povratak ide niz potok uz nekoliko prelazaka potoka i dolazi se do manastirista, a odatle do raskrsca i zatim do polazne lokacije.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:02:02Z"
+    }
+}

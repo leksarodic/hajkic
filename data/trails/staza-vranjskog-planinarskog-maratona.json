@@ -1,0 +1,123 @@
+{
+    "schema_version": 1,
+    "slug": "staza-vranjskog-planinarskog-maratona",
+    "name": "Staza vranjskog planinarskog maratona",
+    "code": "7-10-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 4498,
+        "category_id": 28,
+        "region_ids": [
+            7
+        ],
+        "mountain_ids": [
+            102
+        ]
+    },
+    "region": "Jugoistočna Srbija",
+    "mountain": "Grot",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 33.0,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": 720,
+        "official_text": "12 h",
+        "official_raw": "12:00"
+    },
+    "elevation": {
+        "official_gain_m": 1500.0,
+        "official_loss_m": 1485.0,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": "Grad Vranje (Čika Mitkin spomenik), 485m",
+    "end": "Grad Vranje (Beli most), 500m",
+    "description": "Staza: Krstilovica (1154m) - Grot (1327m) - Oblik (1310m)",
+    "landmarks": "• Markovo kale\n\n • Beli most\n\n • Crkva Svete Petke poznatija kao \"Krstata džamija\"\n\n • Vidikovci: Borino brdo i Oblik",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Stazu trasirao Staniša Marković 2000.-2006. a poslednji put je markirana 2012.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Železničar 2006 PK Vranje",
+        "url": "https://pss.rs/adresar_klubova/zeleznicar-2006-pk/",
+        "contact": "Kralja Stefana Prvovenčanog bb, 17500 Vranje\n+38164 836 7865\nhttp://www.spidzelznicar.com",
+        "clubs": [
+            {
+                "name": "Železničar 2006 PK Vranje",
+                "url": "https://pss.rs/adresar_klubova/zeleznicar-2006-pk/",
+                "contact": "Kralja Stefana Prvovenčanog bb, 17500 Vranje\n+38164 836 7865\nhttp://www.spidzelznicar.com"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": false,
+        "status": "missing",
+        "source_url": null,
+        "fetched_at": null,
+        "checked_at": "2026-11-08T11:57:25Z",
+        "bytes": null,
+        "sha256": null,
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": null,
+        "tracks": null,
+        "segments": null,
+        "waypoints": null,
+        "error": null,
+        "download": {
+            "mode": "none",
+            "url": null
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_gpx"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/staza-vranjskog-planinarskog-maratona/",
+        "canonical_url": "https://pss.rs/terenipp/staza-vranjskog-planinarskog-maratona/",
+        "pss_id": 4498,
+        "updated_at": "2017-08-20T12:54:37Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:57:25Z",
+        "last_synced_at": "2026-11-08T11:57:25Z"
+    },
+    "search": "staza vranjskog planinarskog maratona 7-10-1 jugoistocna srbija grot grad vranje (cika mitkin spomenik), 485m grad vranje (beli most), 500m zeleznicar 2006 pk vranje • markovo kale • beli most • crkva svete petke poznatija kao \"krstata dzamija\" • vidikovci: borino brdo i oblik zahtevna staza: krstilovica (1154m) - grot (1327m) - oblik (1310m)",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:57:25Z"
+    }
+}

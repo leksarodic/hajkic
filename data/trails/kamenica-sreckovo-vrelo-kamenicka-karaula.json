@@ -1,0 +1,175 @@
+{
+    "schema_version": 1,
+    "slug": "kamenica-sreckovo-vrelo-kamenicka-karaula",
+    "name": "Kamenica - Srećkovo vrelo - Kamenička karaula",
+    "code": "4-47-3",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 4491,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            96
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Kalafat",
+    "difficulty": {
+        "key": "srednje_teska",
+        "label": "Srednje teška",
+        "source": "srednje teška"
+    },
+    "distance": {
+        "official_km": 6.25,
+        "calculated_km": 6.23
+    },
+    "duration": {
+        "official_minutes": 160,
+        "official_text": "2 h 40 min",
+        "official_raw": "2:40"
+    },
+    "elevation": {
+        "official_gain_m": 416.0,
+        "official_loss_m": 0.0,
+        "calculated_gain_m": 448.6,
+        "calculated_loss_m": 37.7,
+        "min_m": 366.6,
+        "max_m": 779.7
+    },
+    "start": "Spomenik u centru sela Kamenica, 365m",
+    "end": "Kamenička karaula, 783m",
+    "description": "Staza: Kamenica (365m) - Srećkovo vrelo - Kamenička karaula (783m)",
+    "landmarks": "• Staza je zahtevna i na jednom delu staze je potrebna OPREZNOST",
+    "maintenance": "delimično uređena",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Staza je poslednji put delimično markirana 1.10.2014.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Železničar PK Niš",
+        "url": "https://pss.rs/adresar_klubova/zeleznicar-pk/",
+        "contact": "Tvrđava bb, 18000 Niš\n064 833 000 3, 061 168 777 1\nhttp://www.planinari-zeleznicar.rs/",
+        "clubs": [
+            {
+                "name": "Železničar PK Niš",
+                "url": "https://pss.rs/adresar_klubova/zeleznicar-pk/",
+                "contact": "Tvrđava bb, 18000 Niš\n064 833 000 3, 061 168 777 1\nhttp://www.planinari-zeleznicar.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/08/4-47-3-Kamenica-Sreckovo-vrelo-Kamenicka-karaula.gpx",
+        "fetched_at": "2026-11-08T11:57:16Z",
+        "checked_at": "2026-11-08T11:57:16Z",
+        "bytes": 38162,
+        "sha256": "2f2d9a315c52f305ef1a600aa2b81d6698563d391f0eafefe9045f0a2d52e72f",
+        "etag": null,
+        "last_modified": "Wed, 31 Jan 2018 10:54:47 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 304,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 3,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/08/4-47-3-Kamenica-Sreckovo-vrelo-Kamenicka-karaula.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/kamenica-sreckovo-vrelo-kamenicka-karaula.geojson",
+        "bbox": [
+            21.94102881476283,
+            43.37598807178438,
+            21.967082284390926,
+            43.411091063171625
+        ],
+        "center": [
+            21.954056,
+            43.39354
+        ],
+        "start_point": [
+            21.94102881476283,
+            43.37598807178438
+        ],
+        "end_point": [
+            21.96176430210471,
+            43.411091063171625
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.94103,
+                    43.37599
+                ],
+                [
+                    21.94431,
+                    43.37779
+                ],
+                [
+                    21.94444,
+                    43.38304
+                ],
+                [
+                    21.94844,
+                    43.38874
+                ],
+                [
+                    21.96383,
+                    43.39036
+                ],
+                [
+                    21.96708,
+                    43.39926
+                ],
+                [
+                    21.96408,
+                    43.4019
+                ],
+                [
+                    21.96489,
+                    43.40845
+                ],
+                [
+                    21.96176,
+                    43.41109
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/kamenica-sreckovo-vrelo-kamenicka-karaula/",
+        "canonical_url": "https://pss.rs/terenipp/kamenica-sreckovo-vrelo-kamenicka-karaula/",
+        "pss_id": 4491,
+        "updated_at": "2020-08-24T15:28:47Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:57:17Z",
+        "last_synced_at": "2026-11-08T11:57:17Z"
+    },
+    "search": "kamenica - sreckovo vrelo - kamenicka karaula 4-47-3 istocna srbija kalafat spomenik u centru sela kamenica, 365m kamenicka karaula, 783m zeleznicar pk nis • staza je zahtevna i na jednom delu staze je potrebna opreznost srednje teska staza: kamenica (365m) - sreckovo vrelo - kamenicka karaula (783m)",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:57:17Z"
+    }
+}

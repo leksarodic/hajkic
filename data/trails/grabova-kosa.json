@@ -1,0 +1,177 @@
+{
+    "schema_version": 1,
+    "slug": "grabova-kosa",
+    "name": "Grabova kosa",
+    "code": "3-28-4",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 19514,
+        "category_id": 28,
+        "region_ids": [
+            3
+        ],
+        "mountain_ids": [
+            390
+        ]
+    },
+    "region": "Zapadna Srbija",
+    "mountain": "Kablar",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 5.7,
+        "calculated_km": 5.65
+    },
+    "duration": {
+        "official_minutes": 150,
+        "official_text": "2 h 30 min",
+        "official_raw": "2:30"
+    },
+    "elevation": {
+        "official_gain_m": 607.0,
+        "official_loss_m": 0.0,
+        "calculated_gain_m": 658.5,
+        "calculated_loss_m": 74.4,
+        "min_m": 276.9,
+        "max_m": 866.1
+    },
+    "start": "Ovčar Banja - 278 m",
+    "end": "vrh Kablara - 885 m",
+    "description": "Staza kreće iz centra Ovčar Banje, asfaltnim putem ka manastiru Blagoveštenje . Od manastira Blagoveštenje staza ulazi u šumu do crkve Svetog Ilije, na kratko opet izlazi na asalt do imanja Radovića. Potom staza ponovo ide kroz šumu, podloga je zemlja. Najveći deo staze je u šumi.",
+    "landmarks": "manastir Blagoveštenje, crkva Svetog Ilije - Ilinje",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Snabdevenost pitkom vodom: na trasi / izvodi pitke vode: nema\n\nKo je i kada trasirao stazu: polovina XX veka, nepoznato\n\nKada je staza poslednji put markirana: 2018",
+    "map_reference": null,
+    "map_sheet": "Planinarske staze Ovčara i Kablara 1 : 20 000 i Čačak 1 (529/1) 1:50000",
+    "club": {
+        "name": "Kablar PD",
+        "url": "https://pss.rs/adresar_klubova/kablar-pd/",
+        "contact": "Kneza Miloša 1, 32000 Čačak\n+38164 852 60 48\nhttps://www.kablar.rs",
+        "clubs": [
+            {
+                "name": "Kablar PD",
+                "url": "https://pss.rs/adresar_klubova/kablar-pd/",
+                "contact": "Kneza Miloša 1, 32000 Čačak\n+38164 852 60 48\nhttps://www.kablar.rs"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2023/05/Grabova-kosa.gpx",
+        "fetched_at": "2026-11-08T12:03:20Z",
+        "checked_at": "2026-11-08T12:03:20Z",
+        "bytes": 30204,
+        "sha256": "415d438b8152defe50a6ac22517a61a3314fd39130fc59dd971f42cb9909da9b",
+        "etag": null,
+        "last_modified": "Fri, 15 Dec 2023 09:08:57 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 340,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2023/05/Grabova-kosa.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/grabova-kosa.geojson",
+        "bbox": [
+            20.171712739,
+            43.897689628,
+            20.191396298,
+            43.917415515
+        ],
+        "center": [
+            20.181555,
+            43.907553
+        ],
+        "start_point": [
+            20.187231246,
+            43.899707152
+        ],
+        "end_point": [
+            20.191396298,
+            43.91253138
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    20.18723,
+                    43.89971
+                ],
+                [
+                    20.18432,
+                    43.89771
+                ],
+                [
+                    20.18252,
+                    43.89874
+                ],
+                [
+                    20.18208,
+                    43.90463
+                ],
+                [
+                    20.17171,
+                    43.91184
+                ],
+                [
+                    20.17695,
+                    43.91742
+                ],
+                [
+                    20.1914,
+                    43.91253
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/grabova-kosa/",
+        "canonical_url": "https://pss.rs/terenipp/grabova-kosa/",
+        "pss_id": 19514,
+        "updated_at": "2023-12-15T09:09:09Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:03:20Z",
+        "last_synced_at": "2026-11-08T12:03:20Z"
+    },
+    "search": "grabova kosa 3-28-4 zapadna srbija kablar ovcar banja - 278 m vrh kablara - 885 m kablar pd manastir blagovestenje, crkva svetog ilije - ilinje laka staza krece iz centra ovcar banje, asfaltnim putem ka manastiru blagovestenje . od manastira blagovestenje staza ulazi u sumu do crkve svetog ilije, na kratko opet izlazi na asalt do imanja radovica. potom staza ponovo ide kroz sumu, podloga je zemlja. najveci deo staze je u sumi.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:03:20Z"
+    }
+}

@@ -1,0 +1,245 @@
+{
+    "schema_version": 1,
+    "slug": "sretenjski-susreti-koprivnica-v-drenovac",
+    "name": "Sretenjski susreti / Koprivnica - Veliki Drenovac",
+    "code": "6-21-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 3947,
+        "category_id": 28,
+        "region_ids": [
+            6
+        ],
+        "mountain_ids": [
+            85
+        ]
+    },
+    "region": "Kopaoničko-Toplička regija",
+    "mountain": "Mali Jastrebac",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 18.2,
+        "calculated_km": 18.45
+    },
+    "duration": {
+        "official_minutes": 450,
+        "official_text": "7 h 30 min",
+        "official_raw": "7:30"
+    },
+    "elevation": {
+        "official_gain_m": 539.0,
+        "official_loss_m": 479.0,
+        "calculated_gain_m": 671.1,
+        "calculated_loss_m": 646.2,
+        "min_m": 237.5,
+        "max_m": 704.4
+    },
+    "start": "Koprivnica, 200 m",
+    "end": "Veliki Drenovac, 260 m",
+    "description": null,
+    "landmarks": "Crkve Sv.Ilije, Sv.Petka i Lazarica",
+    "maintenance": "delimično uređena",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Brđanka PSK",
+        "url": "https://pss.rs/adresar_klubova/psd-brdanka/",
+        "contact": "Dušana Trivunca 54, 18220 Aleksinac\n060 680 29 75\nhttp://www.planinari-brdjanka.org",
+        "clubs": [
+            {
+                "name": "Brđanka PSK",
+                "url": "https://pss.rs/adresar_klubova/psd-brdanka/",
+                "contact": "Dušana Trivunca 54, 18220 Aleksinac\n060 680 29 75\nhttp://www.planinari-brdjanka.org"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 4,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/06/6-21-1-Koprivnica-Veliki-Drenovac.gpx",
+        "fetched_at": "2026-11-08T11:56:23Z",
+        "checked_at": "2026-11-08T11:56:23Z",
+        "bytes": 145122,
+        "sha256": "7565f340b2d35e8f18fb74549582078af326102e72357ef4b2198a6ccf830a10",
+        "etag": null,
+        "last_modified": "Fri, 16 Apr 2021 10:19:22 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 856,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 13,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/06/6-21-1-Koprivnica-Veliki-Drenovac.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/sretenjski-susreti-koprivnica-v-drenovac.geojson",
+        "bbox": [
+            21.668270034715533,
+            43.37802303023636,
+            21.75283396616578,
+            43.421343974769115
+        ],
+        "center": [
+            21.710552,
+            43.399684
+        ],
+        "start_point": [
+            21.70450600795448,
+            43.421343974769115
+        ],
+        "end_point": [
+            21.75244303420186,
+            43.40287302620709
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.70451,
+                    43.42134
+                ],
+                [
+                    21.69993,
+                    43.41832
+                ],
+                [
+                    21.69211,
+                    43.4045
+                ],
+                [
+                    21.67732,
+                    43.39554
+                ],
+                [
+                    21.67541,
+                    43.38756
+                ],
+                [
+                    21.67094,
+                    43.38168
+                ],
+                [
+                    21.6687,
+                    43.38163
+                ],
+                [
+                    21.66948,
+                    43.37893
+                ],
+                [
+                    21.68851,
+                    43.37891
+                ],
+                [
+                    21.69613,
+                    43.38193
+                ],
+                [
+                    21.69905,
+                    43.38555
+                ],
+                [
+                    21.70242,
+                    43.3852
+                ],
+                [
+                    21.70418,
+                    43.38274
+                ],
+                [
+                    21.71183,
+                    43.38198
+                ],
+                [
+                    21.71369,
+                    43.38398
+                ],
+                [
+                    21.71861,
+                    43.38325
+                ],
+                [
+                    21.72866,
+                    43.38678
+                ],
+                [
+                    21.73349,
+                    43.38467
+                ],
+                [
+                    21.73349,
+                    43.38617
+                ],
+                [
+                    21.73822,
+                    43.38533
+                ],
+                [
+                    21.74151,
+                    43.38686
+                ],
+                [
+                    21.74864,
+                    43.38463
+                ],
+                [
+                    21.75089,
+                    43.38578
+                ],
+                [
+                    21.74399,
+                    43.3914
+                ],
+                [
+                    21.74994,
+                    43.396
+                ],
+                [
+                    21.75244,
+                    43.40287
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/sretenjski-susreti-koprivnica-v-drenovac/",
+        "canonical_url": "https://pss.rs/terenipp/sretenjski-susreti-koprivnica-v-drenovac/",
+        "pss_id": 3947,
+        "updated_at": "2021-04-16T10:24:20Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:56:23Z",
+        "last_synced_at": "2026-11-08T11:56:23Z"
+    },
+    "search": "sretenjski susreti / koprivnica - veliki drenovac 6-21-1 kopaonicko-toplicka regija mali jastrebac koprivnica, 200 m veliki drenovac, 260 m brdjanka psk crkve sv.ilije, sv.petka i lazarica laka",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:56:23Z"
+    }
+}

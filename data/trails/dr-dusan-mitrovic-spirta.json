@@ -1,0 +1,124 @@
+{
+    "schema_version": 1,
+    "slug": "dr-dusan-mitrovic-spirta",
+    "name": "Dr. Dušan Mitrović - Spirta",
+    "code": "2-5-5",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 4332,
+        "category_id": 28,
+        "region_ids": [
+            2
+        ],
+        "mountain_ids": [
+            86
+        ]
+    },
+    "region": "Šumadija",
+    "mountain": "Bukulja",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 4.5,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": 105,
+        "official_text": "1 h 45 min",
+        "official_raw": "1:45"
+    },
+    "elevation": {
+        "official_gain_m": 429.0,
+        "official_loss_m": 0.0,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": "Gradski park 267m",
+    "end": "Vrh Bukulje 696m",
+    "description": null,
+    "landmarks": "Vidikovac na vrhu Bukulje",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinarska kuća PD \"Bukulja\"",
+    "notes": "Staza poslednji put markirana 2010.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Bukulja PD",
+        "url": "https://pss.rs/adresar_klubova/bukulja-pd/",
+        "contact": "Knjaza Miloša 69, 34300 Aranđelovac\n060 141 65 75",
+        "clubs": [
+            {
+                "name": "Bukulja PD",
+                "url": "https://pss.rs/adresar_klubova/bukulja-pd/",
+                "contact": "Knjaza Miloša 69, 34300 Aranđelovac\n060 141 65 75"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": false,
+        "status": "missing",
+        "source_url": null,
+        "fetched_at": null,
+        "checked_at": "2026-11-08T11:56:40Z",
+        "bytes": null,
+        "sha256": null,
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": null,
+        "tracks": null,
+        "segments": null,
+        "waypoints": null,
+        "error": null,
+        "download": {
+            "mode": "none",
+            "url": null
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description",
+            "missing_gpx"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/dr-dusan-mitrovic-spirta/",
+        "canonical_url": "https://pss.rs/terenipp/dr-dusan-mitrovic-spirta/",
+        "pss_id": 4332,
+        "updated_at": "2017-08-02T11:07:02Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:56:40Z",
+        "last_synced_at": "2026-11-08T11:56:40Z"
+    },
+    "search": "dr. dusan mitrovic - spirta 2-5-5 sumadija bukulja gradski park 267m vrh bukulje 696m bukulja pd vidikovac na vrhu bukulje laka",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:56:40Z"
+    }
+}

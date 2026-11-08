@@ -1,0 +1,213 @@
+{
+    "schema_version": 1,
+    "slug": "edukativna-staza-next-borovnice",
+    "name": "Edukativna staza \"neXt borovnice\"",
+    "code": "7-22-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 20031,
+        "category_id": 28,
+        "region_ids": [
+            7
+        ],
+        "mountain_ids": [
+            78
+        ]
+    },
+    "region": "Jugoistočna Srbija",
+    "mountain": "Čemernik",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 7.7,
+        "calculated_km": 7.65
+    },
+    "duration": {
+        "official_minutes": 210,
+        "official_text": "3 h 30 min",
+        "official_raw": "3:30"
+    },
+    "elevation": {
+        "official_gain_m": 280.0,
+        "official_loss_m": 280.0,
+        "calculated_gain_m": 334.9,
+        "calculated_loss_m": 355.1,
+        "min_m": 1298.9,
+        "max_m": 1588.7
+    },
+    "start": "Vlasina Rid 1310 m",
+    "end": "Vlasina Rid 1310 m",
+    "description": "Početak staze je kod Visitorskog centra Turističke organizacije opštine Surdulica u Vlasina Ridu koja upravlja zaštićenim prirodnim dobrom PIO ,,Vlasina\". Prvi kraći deo staze vodi asfaltnim putem ka raskrsnici u mestu Jele, gde se levim makadamskim putem skreće prema izvoru Sv. Nikole uz konstantan uspon. Od ovog mesta, put nastavlja terenima na kojima dominiraju šume, ali nakon izlaska iz njih, sledi završnica uspona kroz pašnjačke strane obrasle borovnicom i brusnicom. U mestu Preslap se skreće desno sa puta koji dalje vodi ka vrhu Čemernik. Uska staza kroz travnati pokrivač se izdiže do vidikovca, odnosno zaravnjenog platoa na kome su vidni ostaci rovova iz perioda Velikog rata. U povratku sa vrha se vraćamo istom stazom u dužini od 900 metara, gde se naša staza, na raskrsnici odvaja levo i vrlo brzo i strmo ulazi u gustu šumu. Pratimo širi šumski put do zaseoka Čerdarovi i dalje do početne tačke ravnom deonicom do Visitorskog centra u Vlasina Ridu.\n\nSmer kretanja:\n- Vizitorski centar u Vlasina Ridu\n- Jele – raskrsnica (0,2 km)\n- Izvor Sveti Nikola (0,9 km)\n- Čemernik – raskrsnica (2,1 km)\n- Preslap – vidikovac (3,0 km)\n- Čemernik – raskrsnica (3,9 km)\n- Čerdarovi (6,1 km)\n- Vizitorski centar u Vlasina Ridu (7,7 km)",
+    "landmarks": "Vlasina Rid, izvor Sv. Nikole i Preslap",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Staza je uređena u drugoj polovini 2023. godine sredstvima kompanije ,,Coca - Cola\" HBC Srbija u saradnji sa UNDP u okviru Projekta ,,Vlasina - čista ljubav\".",
+    "map_reference": null,
+    "map_sheet": "1:50000 Vlasotince 4 (633/4)",
+    "club": {
+        "name": "Svarog PSU",
+        "url": "https://pss.rs/adresar_klubova/svarog-psu/",
+        "contact": "Vojvode Sinđelića 1/9\n+38162 81 49 023",
+        "clubs": [
+            {
+                "name": "Svarog PSU",
+                "url": "https://pss.rs/adresar_klubova/svarog-psu/",
+                "contact": "Vojvode Sinđelića 1/9\n+38162 81 49 023"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 12,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2023/08/Edukat-staza-GPS.gpx",
+        "fetched_at": "2026-11-08T12:03:34Z",
+        "checked_at": "2026-11-08T12:03:34Z",
+        "bytes": 82254,
+        "sha256": "091cc516632077cc16ef4375a02de3cbadb275953997ca06d9f0a02782c4affe",
+        "etag": null,
+        "last_modified": "Wed, 16 Aug 2023 21:01:25 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 749,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 4,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2023/08/Edukat-staza-GPS.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/edukativna-staza-next-borovnice.geojson",
+        "bbox": [
+            22.300489917,
+            42.7231301,
+            22.326008538,
+            42.737894654
+        ],
+        "center": [
+            22.313249,
+            42.730512
+        ],
+        "start_point": [
+            22.326008538,
+            42.72567166
+        ],
+        "end_point": [
+            22.325965881,
+            42.725708008
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    22.32601,
+                    42.72567
+                ],
+                [
+                    22.32119,
+                    42.72791
+                ],
+                [
+                    22.31805,
+                    42.72707
+                ],
+                [
+                    22.31658,
+                    42.72333
+                ],
+                [
+                    22.31286,
+                    42.72336
+                ],
+                [
+                    22.30991,
+                    42.72616
+                ],
+                [
+                    22.30049,
+                    42.72478
+                ],
+                [
+                    22.3045,
+                    42.72415
+                ],
+                [
+                    22.30991,
+                    42.72619
+                ],
+                [
+                    22.31347,
+                    42.73563
+                ],
+                [
+                    22.3196,
+                    42.73789
+                ],
+                [
+                    22.32108,
+                    42.73643
+                ],
+                [
+                    22.31915,
+                    42.73412
+                ],
+                [
+                    22.32347,
+                    42.7317
+                ],
+                [
+                    22.32137,
+                    42.72984
+                ],
+                [
+                    22.32597,
+                    42.72571
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/edukativna-staza-next-borovnice/",
+        "canonical_url": "https://pss.rs/terenipp/edukativna-staza-next-borovnice/",
+        "pss_id": 20031,
+        "updated_at": "2023-11-26T19:21:50Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:03:35Z",
+        "last_synced_at": "2026-11-08T12:03:35Z"
+    },
+    "search": "edukativna staza \"next borovnice\" 7-22-1 jugoistocna srbija cemernik vlasina rid 1310 m vlasina rid 1310 m svarog psu vlasina rid, izvor sv. nikole i preslap laka pocetak staze je kod visitorskog centra turisticke organizacije opstine surdulica u vlasina ridu koja upravlja zasticenim prirodnim dobrom pio ,,vlasina\". prvi kraci deo staze vodi asfaltnim putem ka raskrsnici u mestu jele, gde se levim makadamskim putem skrece prema izvoru sv. nikole uz konstantan uspon. od ovog mesta, put nastavlja terenima na kojima dominiraju sume, ali nakon izlaska iz njih, sledi zavrsnica uspona kroz pasnjacke strane obrasle borovnicom i brusnicom. u mestu preslap se skrece desno sa puta koji dalje vodi ka vrhu cemernik. uska staza kroz travnati pokrivac se izdize do vidikovca, odnosno zaravnjenog platoa na kome su vidni ostaci rovova iz perioda velikog rata. u povratku sa vrha se vracamo istom stazom u duzini od 900 metara, gde se nasa staza, na raskrsnici odvaja levo i vrlo brzo i strmo ulazi u gustu sumu. pratimo siri sumski put do zaseoka cerdarovi i dalje do pocetne tacke ravnom deonicom do visitorskog centra u vlasina ridu. smer kretanja: - vizitorski centar u vlasina ridu - jele – raskrsnica (0,2 km) - izvor sveti nikola (0,9 km) - cemernik – raskrsnica (2,1 km) - preslap – vidikovac (3,0 km) - cemernik – raskrsnica (3,9 km) - cerdarovi (6,1 km) - vizitorski centar u vlasina ridu (7,7 km)",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:03:35Z"
+    }
+}

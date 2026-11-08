@@ -1,0 +1,279 @@
+{
+    "schema_version": 1,
+    "slug": "pozdrav-prolecu-aleksinac-sokobanja-ripaljka",
+    "name": "Pozdrav proleću / Aleksinac - Sokobanja (Ripaljka)",
+    "code": "4-33-3",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 3943,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            74
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Ozren",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 27.0,
+        "calculated_km": 27.16
+    },
+    "duration": {
+        "official_minutes": 480,
+        "official_text": "8 h",
+        "official_raw": "8:00"
+    },
+    "elevation": {
+        "official_gain_m": 837.0,
+        "official_loss_m": 499.0,
+        "calculated_gain_m": 1190.6,
+        "calculated_loss_m": 861.5,
+        "min_m": 145.3,
+        "max_m": 981.6
+    },
+    "start": "Aleksinac (centar) - 168 mnv",
+    "end": "Sokobanja, vodopad Ripaljka - 506 mnv",
+    "description": "Staza kreća iz centra Aleksinca, preko Vakupa, zatim pored crkve Sv. Trojice, šumarske kuće (Janjin grob), Čardaka, Prisada, Jovanovog kamena, do vodopada Ripaljka.",
+    "landmarks": "• Ruski spomenik na Brđanci, crkva Sv. Trojice i spomen-obeležje na Šumatovcu, manastir Jermenčić, spomenik prirode \"Ripaljka\". \n\n • Aleksinac i Sokobanja",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Brđanka PSK",
+        "url": "https://pss.rs/adresar_klubova/psd-brdanka/",
+        "contact": "Dušana Trivunca 54, 18220 Aleksinac\n060 680 29 75\nhttp://www.planinari-brdjanka.org",
+        "clubs": [
+            {
+                "name": "Brđanka PSK",
+                "url": "https://pss.rs/adresar_klubova/psd-brdanka/",
+                "contact": "Dušana Trivunca 54, 18220 Aleksinac\n060 680 29 75\nhttp://www.planinari-brdjanka.org"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/06/4-33-3-Aleksinac-Sokobanja.gpx",
+        "fetched_at": "2026-11-08T11:56:17Z",
+        "checked_at": "2026-11-08T11:56:17Z",
+        "bytes": 236304,
+        "sha256": "a2cd4b4ec685fdf7321c8e3114d242b03236191927593aace7b54a6000a1e81f",
+        "etag": null,
+        "last_modified": "Wed, 19 Feb 2020 13:43:29 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 1438,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 8,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/06/4-33-3-Aleksinac-Sokobanja.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/pozdrav-prolecu-aleksinac-sokobanja-ripaljka.geojson",
+        "bbox": [
+            21.709394920617342,
+            43.54051334783435,
+            21.85433487407863,
+            43.624555841088295
+        ],
+        "center": [
+            21.781865,
+            43.582535
+        ],
+        "start_point": [
+            21.709394920617342,
+            43.5405174549669
+        ],
+        "end_point": [
+            21.85430847108364,
+            43.62399718724191
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.70939,
+                    43.54052
+                ],
+                [
+                    21.71336,
+                    43.5406
+                ],
+                [
+                    21.71192,
+                    43.54953
+                ],
+                [
+                    21.7183,
+                    43.55335
+                ],
+                [
+                    21.72274,
+                    43.55501
+                ],
+                [
+                    21.7395,
+                    43.55281
+                ],
+                [
+                    21.74333,
+                    43.55472
+                ],
+                [
+                    21.74601,
+                    43.55737
+                ],
+                [
+                    21.74516,
+                    43.56347
+                ],
+                [
+                    21.75598,
+                    43.56672
+                ],
+                [
+                    21.76297,
+                    43.57465
+                ],
+                [
+                    21.75797,
+                    43.58214
+                ],
+                [
+                    21.75815,
+                    43.59911
+                ],
+                [
+                    21.76288,
+                    43.59663
+                ],
+                [
+                    21.77388,
+                    43.59717
+                ],
+                [
+                    21.78417,
+                    43.59149
+                ],
+                [
+                    21.78966,
+                    43.59121
+                ],
+                [
+                    21.79281,
+                    43.58831
+                ],
+                [
+                    21.79513,
+                    43.59152
+                ],
+                [
+                    21.80204,
+                    43.59349
+                ],
+                [
+                    21.81005,
+                    43.59214
+                ],
+                [
+                    21.8165,
+                    43.59352
+                ],
+                [
+                    21.82111,
+                    43.59699
+                ],
+                [
+                    21.8197,
+                    43.60554
+                ],
+                [
+                    21.82721,
+                    43.60198
+                ],
+                [
+                    21.83276,
+                    43.60182
+                ],
+                [
+                    21.82112,
+                    43.61196
+                ],
+                [
+                    21.82203,
+                    43.62227
+                ],
+                [
+                    21.82945,
+                    43.62441
+                ],
+                [
+                    21.82687,
+                    43.6208
+                ],
+                [
+                    21.83112,
+                    43.61947
+                ],
+                [
+                    21.83342,
+                    43.62093
+                ],
+                [
+                    21.83574,
+                    43.6184
+                ],
+                [
+                    21.83749,
+                    43.62264
+                ],
+                [
+                    21.85431,
+                    43.624
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/pozdrav-prolecu-aleksinac-sokobanja-ripaljka/",
+        "canonical_url": "https://pss.rs/terenipp/pozdrav-prolecu-aleksinac-sokobanja-ripaljka/",
+        "pss_id": 3943,
+        "updated_at": "2020-02-19T13:45:56Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:56:18Z",
+        "last_synced_at": "2026-11-08T11:56:18Z"
+    },
+    "search": "pozdrav prolecu / aleksinac - sokobanja (ripaljka) 4-33-3 istocna srbija ozren aleksinac (centar) - 168 mnv sokobanja, vodopad ripaljka - 506 mnv brdjanka psk • ruski spomenik na brdjanci, crkva sv. trojice i spomen-obelezje na sumatovcu, manastir jermencic, spomenik prirode \"ripaljka\". • aleksinac i sokobanja zahtevna staza kreca iz centra aleksinca, preko vakupa, zatim pored crkve sv. trojice, sumarske kuce (janjin grob), cardaka, prisada, jovanovog kamena, do vodopada ripaljka.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:56:18Z"
+    }
+}

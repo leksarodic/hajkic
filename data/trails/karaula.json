@@ -1,0 +1,124 @@
+{
+    "schema_version": 1,
+    "slug": "karaula",
+    "name": "Karaula",
+    "code": "2-17-3",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 3715,
+        "category_id": 28,
+        "region_ids": [
+            2
+        ],
+        "mountain_ids": [
+            62
+        ]
+    },
+    "region": "Šumadija",
+    "mountain": "Radovanjska brda",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 24.0,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": 480,
+        "official_text": "8 h",
+        "official_raw": "8:00"
+    },
+    "elevation": {
+        "official_gain_m": 600.0,
+        "official_loss_m": 510.0,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": "sporski centar u Velikoj Plani (130)",
+    "end": "sporski centar u Velikoj Plani (130)",
+    "description": null,
+    "landmarks": "Manastiri Koporin i crkva Pokajnica",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": "1:25000 br 099-1-3 Velika Plana",
+    "club": {
+        "name": "Vrbica PK",
+        "url": "https://pss.rs/adresar_klubova/vrbica-pk/",
+        "contact": "I Mesna zajednica Nikole Pašića 17, 11320 Velika Plana\n0641178141\nhttp://www.pdvrbica.org.rs",
+        "clubs": [
+            {
+                "name": "Vrbica PK",
+                "url": "https://pss.rs/adresar_klubova/vrbica-pk/",
+                "contact": "I Mesna zajednica Nikole Pašića 17, 11320 Velika Plana\n0641178141\nhttp://www.pdvrbica.org.rs"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": false,
+        "status": "missing",
+        "source_url": null,
+        "fetched_at": null,
+        "checked_at": "2026-11-08T12:50:52Z",
+        "bytes": null,
+        "sha256": null,
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": null,
+        "tracks": null,
+        "segments": null,
+        "waypoints": null,
+        "error": null,
+        "download": {
+            "mode": "none",
+            "url": null
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description",
+            "missing_gpx"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/karaula/",
+        "canonical_url": "https://pss.rs/terenipp/karaula/",
+        "pss_id": 3715,
+        "updated_at": "2017-05-14T17:59:29Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:50:52Z",
+        "last_synced_at": "2026-11-08T12:50:52Z"
+    },
+    "search": "karaula 2-17-3 sumadija radovanjska brda sporski centar u velikoj plani (130) sporski centar u velikoj plani (130) vrbica pk manastiri koporin i crkva pokajnica laka",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:50:52Z"
+    }
+}

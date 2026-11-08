@@ -1,0 +1,183 @@
+{
+    "schema_version": 1,
+    "slug": "dreznik-zaseok-joletici-vrh-kucista",
+    "name": "Drežnik (zaseok Joletići) – vrh Kućišta",
+    "code": "5-12-23",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 23081,
+        "category_id": 28,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            122
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Zlatibor",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 3.4,
+        "calculated_km": 3.56
+    },
+    "duration": {
+        "official_minutes": 75,
+        "official_text": "1 h 15 min",
+        "official_raw": "1:15"
+    },
+    "elevation": {
+        "official_gain_m": 316.0,
+        "official_loss_m": 316.0,
+        "calculated_gain_m": 0.0,
+        "calculated_loss_m": 0.0,
+        "min_m": 0.0,
+        "max_m": 0.0
+    },
+    "start": "Od zaseoka Joletići u selu Drežnik - 614 m",
+    "end": "Vrh Kućišta (Lipovac) - 932 m",
+    "description": "Staza kreće od zaseoka Joletići u selu Drežnik blago uzbrdo, sa asfaltnog puta, koji vodi do lokalne Crkvice. U početku se jednim delom svoje trase poklapa sa evropskim pešačkim putem E7, koji vodi prema Skržutima i Zbojštici i to oko 1,7 km. Na mestu gde pešački put E7 izlazi na omanju, udubljenu livadu i skreće desno, na tom mestu, staza za vrh Kućišta skreće levo, i blago kreće uzbrdo šumskim putem. Nakon 200m opet se skreće levo jače uzbrdo, pa desno i grebenom vijuga uzbrdo kroz šumu. Na 2,4 km izalazi se prvu livadu, a potom za 300m i na drugi livadu, gde je treća raskrsnica i ima odvajanje šumski put za centar Drežnika. Zatim put nastavlja dalje do četvrte rasksnice, za sela Vrane i Ravni, odnosno za vrh Kućišta. Nakon 300m, preko livada, uzbrdo, izlazi se na vrh Kućišta (932m).",
+    "landmarks": "vrh Lipovca - Kućišta",
+    "maintenance": "delimično uređena",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Ko je i kada trasirao stazu: Članovi planinarskog društva „Zltibor“ Užice: Zlatan Brkić, Ljiljana Glogovac i Godana Trmčić Brkić u septembru i novembru 2023. godine.\n\nKada je staza poslednji put markirana: staza nije nikada markirana.\n\nSTAZA JE U IZGRADNJI",
+    "map_reference": null,
+    "map_sheet": "1:50000 Užice 2 (528/2)",
+    "club": {
+        "name": "Zlatibor PD",
+        "url": "https://pss.rs/adresar_klubova/zlatibor-pd/",
+        "contact": "Užičke republike 1, 31000 Užice\n+381645807738",
+        "clubs": [
+            {
+                "name": "Zlatibor PD",
+                "url": "https://pss.rs/adresar_klubova/zlatibor-pd/",
+                "contact": "Užičke republike 1, 31000 Užice\n+381645807738"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 6,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2023/11/Dreznik-Kucista.gpx",
+        "fetched_at": "2026-11-08T12:03:45Z",
+        "checked_at": "2026-11-08T12:03:45Z",
+        "bytes": 47448,
+        "sha256": "52373a19697416a66499dfa2a1c0153813f8a7656eb48066d062f15961321dc7",
+        "etag": null,
+        "last_modified": "Wed, 29 Nov 2023 19:44:29 GMT",
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": 651,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2023/11/Dreznik-Kucista.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/dreznik-zaseok-joletici-vrh-kucista.geojson",
+        "bbox": [
+            19.89322719,
+            43.75873236,
+            19.90203485,
+            43.77708457
+        ],
+        "center": [
+            19.897631,
+            43.767908
+        ],
+        "start_point": [
+            19.90065205,
+            43.75873236
+        ],
+        "end_point": [
+            19.89999954,
+            43.77708457
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    19.90065,
+                    43.75873
+                ],
+                [
+                    19.90203,
+                    43.76125
+                ],
+                [
+                    19.89977,
+                    43.76379
+                ],
+                [
+                    19.89323,
+                    43.76678
+                ],
+                [
+                    19.89518,
+                    43.77077
+                ],
+                [
+                    19.89913,
+                    43.77061
+                ],
+                [
+                    19.8974,
+                    43.77384
+                ],
+                [
+                    19.9,
+                    43.77708
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": [
+            "missing_elevation"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/dreznik-zaseok-joletici-vrh-kucista/",
+        "canonical_url": "https://pss.rs/terenipp/dreznik-zaseok-joletici-vrh-kucista/",
+        "pss_id": 23081,
+        "updated_at": "2023-11-29T20:50:43Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:03:45Z",
+        "last_synced_at": "2026-11-08T12:03:45Z"
+    },
+    "search": "dreznik (zaseok joletici) – vrh kucista 5-12-23 jugozapadna srbija zlatibor od zaseoka joletici u selu dreznik - 614 m vrh kucista (lipovac) - 932 m zlatibor pd vrh lipovca - kucista laka staza krece od zaseoka joletici u selu dreznik blago uzbrdo, sa asfaltnog puta, koji vodi do lokalne crkvice. u pocetku se jednim delom svoje trase poklapa sa evropskim pesackim putem e7, koji vodi prema skrzutima i zbojstici i to oko 1,7 km. na mestu gde pesacki put e7 izlazi na omanju, udubljenu livadu i skrece desno, na tom mestu, staza za vrh kucista skrece levo, i blago krece uzbrdo sumskim putem. nakon 200m opet se skrece levo jace uzbrdo, pa desno i grebenom vijuga uzbrdo kroz sumu. na 2,4 km izalazi se prvu livadu, a potom za 300m i na drugi livadu, gde je treca raskrsnica i ima odvajanje sumski put za centar dreznika. zatim put nastavlja dalje do cetvrte rasksnice, za sela vrane i ravni, odnosno za vrh kucista. nakon 300m, preko livada, uzbrdo, izlazi se na vrh kucista (932m).",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:03:45Z"
+    }
+}

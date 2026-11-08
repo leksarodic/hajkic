@@ -1,0 +1,175 @@
+{
+    "schema_version": 1,
+    "slug": "mali-vukan-od-cetiri-lule-do-manastira-zdrelo",
+    "name": "Mali Vukan od Četiri lule do manastira Ždrelo",
+    "code": "4-48-3",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 5767,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            111
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Vukan",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 6.3,
+        "calculated_km": 6.34
+    },
+    "duration": {
+        "official_minutes": 210,
+        "official_text": "3 h 30 min",
+        "official_raw": "3:30"
+    },
+    "elevation": {
+        "official_gain_m": 556.0,
+        "official_loss_m": 476.0,
+        "calculated_gain_m": 559.0,
+        "calculated_loss_m": 491.4,
+        "min_m": 187.1,
+        "max_m": 750.3
+    },
+    "start": "Česma Četiri lule, 176m",
+    "end": "Parking ispred manastira Ždrelo, 256m",
+    "description": "Staza kreće od česme \"4 lule\" pored koje ima dovoljno mesta za parking. Prvi deo staze vodi šumskim putem, posle nekih 2,5km silazi sa šumskog puta i nastavlja stazom malo strmijom od puta. Pri vrhu staze podloga je delimično kamenita. Pri silasku sa vrha dolazi se do lepe borove šume gde se nalazi raskrsnica koja desno vodi ka Velikom Vukanu, a pravo je spust ka selu Ždrelu. Završetak staze je parking 100m udaljenom od manastira Ždrelo.",
+    "landmarks": "• Izvor pitke vode 4 lule na početku staze\n\n • Vidikovac na vrhu Mali Vukan\n\n • Smeštaj van trase u Domu izviđača i planinara\n\n • Smeštaj van trase u Banji Ždrelo i privatni smeštaj u okolini",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Nije poznato ko je trasirao stazu, a poslednji put je markirana 2016. godine.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Gornjak PD",
+        "url": "https://pss.rs/adresar_klubova/gornjak-pd/",
+        "contact": "Prvomajska bb, 12300 Petrovac na Mlavi\n+38164 2345 518 ; +38163 696 682\nhttp://www.gornjak.org.rs",
+        "clubs": [
+            {
+                "name": "Gornjak PD",
+                "url": "https://pss.rs/adresar_klubova/gornjak-pd/",
+                "contact": "Prvomajska bb, 12300 Petrovac na Mlavi\n+38164 2345 518 ; +38163 696 682\nhttp://www.gornjak.org.rs"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/12/4-48-3-Mali-Vukan-od-Cetiri-lule-do-manastira-Zdrelo.gpx",
+        "fetched_at": "2026-11-08T11:59:16Z",
+        "checked_at": "2026-11-08T11:59:16Z",
+        "bytes": 53099,
+        "sha256": "37499f5e9d984846eac1e3991c76b9a5a51cd5fc4136c92b833193c6b6348879",
+        "etag": null,
+        "last_modified": "Mon, 31 Oct 2022 01:22:00 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 310,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 3,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/12/4-48-3-Mali-Vukan-od-Cetiri-lule-do-manastira-Zdrelo.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/mali-vukan-od-cetiri-lule-do-manastira-zdrelo.geojson",
+        "bbox": [
+            21.512317014858127,
+            44.27405904047191,
+            21.546175964176655,
+            44.29435707628727
+        ],
+        "center": [
+            21.529246,
+            44.284208
+        ],
+        "start_point": [
+            21.532489992678165,
+            44.27405904047191
+        ],
+        "end_point": [
+            21.512317014858127,
+            44.29118100553751
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.53249,
+                    44.27406
+                ],
+                [
+                    21.53634,
+                    44.2798
+                ],
+                [
+                    21.53979,
+                    44.27564
+                ],
+                [
+                    21.5421,
+                    44.27922
+                ],
+                [
+                    21.54618,
+                    44.27997
+                ],
+                [
+                    21.53748,
+                    44.28566
+                ],
+                [
+                    21.53749,
+                    44.29023
+                ],
+                [
+                    21.51869,
+                    44.29436
+                ],
+                [
+                    21.51232,
+                    44.29118
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/mali-vukan-od-cetiri-lule-do-manastira-zdrelo/",
+        "canonical_url": "https://pss.rs/terenipp/mali-vukan-od-cetiri-lule-do-manastira-zdrelo/",
+        "pss_id": 5767,
+        "updated_at": "2022-10-31T01:26:39Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:59:17Z",
+        "last_synced_at": "2026-11-08T11:59:17Z"
+    },
+    "search": "mali vukan od cetiri lule do manastira zdrelo 4-48-3 istocna srbija vukan cesma cetiri lule, 176m parking ispred manastira zdrelo, 256m gornjak pd • izvor pitke vode 4 lule na pocetku staze • vidikovac na vrhu mali vukan • smestaj van trase u domu izvidjaca i planinara • smestaj van trase u banji zdrelo i privatni smestaj u okolini laka staza krece od cesme \"4 lule\" pored koje ima dovoljno mesta za parking. prvi deo staze vodi sumskim putem, posle nekih 2,5km silazi sa sumskog puta i nastavlja stazom malo strmijom od puta. pri vrhu staze podloga je delimicno kamenita. pri silasku sa vrha dolazi se do lepe borove sume gde se nalazi raskrsnica koja desno vodi ka velikom vukanu, a pravo je spust ka selu zdrelu. zavrsetak staze je parking 100m udaljenom od manastira zdrelo.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:59:17Z"
+    }
+}

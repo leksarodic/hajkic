@@ -1,0 +1,229 @@
+{
+    "schema_version": 1,
+    "slug": "ravni-centar-dreznik-centar",
+    "name": "Ravni (centar) – Drežnik (centar)",
+    "code": "5-12-25",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 24752,
+        "category_id": 28,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            122
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Zlatibor",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 10.0,
+        "calculated_km": 10.11
+    },
+    "duration": {
+        "official_minutes": 190,
+        "official_text": "3 h 10 min",
+        "official_raw": "3:10"
+    },
+    "elevation": {
+        "official_gain_m": 494.0,
+        "official_loss_m": 354.0,
+        "calculated_gain_m": 605.2,
+        "calculated_loss_m": 476.1,
+        "min_m": 513.1,
+        "max_m": 941.7
+    },
+    "start": "Ravni (centar) - autobusko stajalište, kafana i prodavnica - 522 m",
+    "end": "Drežnik (centar) - autobusko stajalište i prodavnica - 624 m",
+    "description": "Polazak iz pravca Ravni od centra sela – kafana, prodavnica i autobusko stajalište, gde je planirano postavljanje info table (kod pošte i bivše prodavnice). Staza ide asfaltnim putem za Skržuti jedan kilometar, pa skreće desno putem za selo Vrane, nakon kilometr i dvesta metara, kod mosta skreće levo blago uzbrdo za Gornje Vrane (drugi put nastavlja desno za Donje Vrane), i nakon 1200m napušta asfaltni put i skreće levo uzbrdo prema Lipovcu (i Drežniku). Ide dobrim makadamskim putem uzbrdo. Nakon devetstotina metara se napušta dobar makadam i skreće levo na dobar zemljani put i dalje narednih pet stotina metara dolazi na četvorostruko račvanje puta. Mi skrećemo, opet levo, na lošiji zemljani put uzbrdo i njega se držimo i polako penjemo, ka najvišim tačkama Lipovca. Nakon kilometar i petstotina metara stižemo na mesto, gde se odvaja staza za vrh Kućišta 932m. Od tog mesta do vrha 360m, a mi produžavamo pravo, do nove raskrsnice (na kilometar i sto od prethodne), gde se desno produžava dobar zemljani put za Drežnik centar, a levo zemljanim putem preko livade za Skržuti i vezu sa E7 putem. Od tog mesta staza kreće nizbrdo (posle petstotina metara kreće asfalni put) i tako sve do dna Drežničke doline, a onda asfaltnim seoskim putem, blago uzbrdo, do centra Drežnika.",
+    "landmarks": "Vrh Kućišta (vrh planine Lipovac), crkava u Dražniku, kanjon reke Veliki Rzav, bliznina Zlatibora kao turističeke destinacije.\n\nVidikovci: pre raskrsnice za Kućišta (na Kućišta), nakon raskrsnice za Kućišta (malo niže), na greben Lipovca, kada se pređe na drežničku stranu ka Drežničkoj gradini i šire.",
+    "maintenance": "delimično uređena",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Snabdevenost pitkom vodom: na trasi / izvodi pitke vode: na stazi nema (ima\n\nna početku i kraju staze).\n\n \n\nKo je i kada trasirao stazu: Zlatan Brkić i Gordana Trmčić Brkić\n\nKada je staza poslednji put markirana: prvi put se markira.\n\n \n\nSTAZA JE U FAZI UREĐIVANJA.",
+    "map_reference": null,
+    "map_sheet": "1:50000 Užice 2 (528/2) i 1:50000 Užice 4 (528/4)",
+    "club": {
+        "name": "Zlatibor PD",
+        "url": "https://pss.rs/adresar_klubova/zlatibor-pd/",
+        "contact": "Užičke republike 1, 31000 Užice\n+381645807738",
+        "clubs": [
+            {
+                "name": "Zlatibor PD",
+                "url": "https://pss.rs/adresar_klubova/zlatibor-pd/",
+                "contact": "Užičke republike 1, 31000 Užice\n+381645807738"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 13,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2024/06/Ravni-Dreznik.gpx",
+        "fetched_at": "2026-11-08T12:05:55Z",
+        "checked_at": "2026-11-08T12:05:55Z",
+        "bytes": 198050,
+        "sha256": "66789441fbeedc2a6ecde5d60946ba3000bda38ee68a2fd576243599027f1597",
+        "etag": null,
+        "last_modified": "Tue, 18 Jun 2024 08:06:40 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 1823,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 12,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2024/06/Ravni-Dreznik.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/ravni-centar-dreznik-centar.geojson",
+        "bbox": [
+            19.88798835,
+            43.74065052,
+            19.91307974,
+            43.77846314
+        ],
+        "center": [
+            19.900534,
+            43.759557
+        ],
+        "start_point": [
+            19.88806982,
+            43.74065052
+        ],
+        "end_point": [
+            19.91307974,
+            43.7779141
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    19.88807,
+                    43.74065
+                ],
+                [
+                    19.8932,
+                    43.7469
+                ],
+                [
+                    19.89987,
+                    43.7457
+                ],
+                [
+                    19.90468,
+                    43.7497
+                ],
+                [
+                    19.90699,
+                    43.74777
+                ],
+                [
+                    19.90631,
+                    43.74984
+                ],
+                [
+                    19.91019,
+                    43.74787
+                ],
+                [
+                    19.90738,
+                    43.75208
+                ],
+                [
+                    19.90952,
+                    43.75128
+                ],
+                [
+                    19.91247,
+                    43.75536
+                ],
+                [
+                    19.90865,
+                    43.75539
+                ],
+                [
+                    19.90413,
+                    43.76087
+                ],
+                [
+                    19.90131,
+                    43.76093
+                ],
+                [
+                    19.90067,
+                    43.75891
+                ],
+                [
+                    19.90201,
+                    43.76137
+                ],
+                [
+                    19.89907,
+                    43.76272
+                ],
+                [
+                    19.90715,
+                    43.76917
+                ],
+                [
+                    19.90469,
+                    43.77404
+                ],
+                [
+                    19.90594,
+                    43.77796
+                ],
+                [
+                    19.91308,
+                    43.77791
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/ravni-centar-dreznik-centar/",
+        "canonical_url": "https://pss.rs/terenipp/ravni-centar-dreznik-centar/",
+        "pss_id": 24752,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:05:56Z",
+        "last_synced_at": "2026-11-08T12:05:56Z"
+    },
+    "search": "ravni (centar) – dreznik (centar) 5-12-25 jugozapadna srbija zlatibor ravni (centar) - autobusko stajaliste, kafana i prodavnica - 522 m dreznik (centar) - autobusko stajaliste i prodavnica - 624 m zlatibor pd vrh kucista (vrh planine lipovac), crkava u drazniku, kanjon reke veliki rzav, bliznina zlatibora kao turisticeke destinacije. vidikovci: pre raskrsnice za kucista (na kucista), nakon raskrsnice za kucista (malo nize), na greben lipovca, kada se predje na dreznicku stranu ka dreznickoj gradini i sire. laka polazak iz pravca ravni od centra sela – kafana, prodavnica i autobusko stajaliste, gde je planirano postavljanje info table (kod poste i bivse prodavnice). staza ide asfaltnim putem za skrzuti jedan kilometar, pa skrece desno putem za selo vrane, nakon kilometr i dvesta metara, kod mosta skrece levo blago uzbrdo za gornje vrane (drugi put nastavlja desno za donje vrane), i nakon 1200m napusta asfaltni put i skrece levo uzbrdo prema lipovcu (i drezniku). ide dobrim makadamskim putem uzbrdo. nakon devetstotina metara se napusta dobar makadam i skrece levo na dobar zemljani put i dalje narednih pet stotina metara dolazi na cetvorostruko racvanje puta. mi skrecemo, opet levo, na losiji zemljani put uzbrdo i njega se drzimo i polako penjemo, ka najvisim tackama lipovca. nakon kilometar i petstotina metara stizemo na mesto, gde se odvaja staza za vrh kucista 932m. od tog mesta do vrha 360m, a mi produzavamo pravo, do nove raskrsnice (na kilometar i sto od prethodne), gde se desno produzava dobar zemljani put za dreznik centar, a levo zemljanim putem preko livade za skrzuti i vezu sa e7 putem. od tog mesta staza krece nizbrdo (posle petstotina metara krece asfalni put) i tako sve do dna dreznicke doline, a onda asfaltnim seoskim putem, blago uzbrdo, do centra dreznika.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:05:56Z"
+    }
+}

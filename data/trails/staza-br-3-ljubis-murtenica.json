@@ -1,0 +1,273 @@
+{
+    "schema_version": 1,
+    "slug": "staza-br-3-ljubis-murtenica",
+    "name": "Staza br. 3: Ljubiš – Murtenica",
+    "code": "5-12-13",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 19197,
+        "category_id": 28,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            122
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Zlatibor",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 18.1,
+        "calculated_km": 18.08
+    },
+    "duration": {
+        "official_minutes": 410,
+        "official_text": "6 h 50 min",
+        "official_raw": "6:50"
+    },
+    "elevation": {
+        "official_gain_m": 810.0,
+        "official_loss_m": 810.0,
+        "calculated_gain_m": 1386.0,
+        "calculated_loss_m": 1387.5,
+        "min_m": 944.2,
+        "max_m": 1353.2
+    },
+    "start": "Dacovića previja na putu Vodice - Ljubiš",
+    "end": "Dacovića previja na putu Vodice - Ljubiš",
+    "description": "Dacovića previja - vrh Nevolja (1,3 km) - Boškova voda (4,5 km) -Čičina pećina (8,7 km) - Hajdučka voda (10,9 km) - Pragovi (12,4 km) - Dacovića previja (18,1 km)",
+    "landmarks": "Vrh Nevolja, Boškova voda, Čičina pećina, Pragovi",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Stazu je trasirao Stefanović Slobodan iz Užica 2019. godine i markirana je 2020. godine. Staza je izgrađena sredstvima JP-a \"Srbijašume\" Beograd, upravitelja Parka prirode \"Zlatibor\". Neophodno je da im se pre obilaska staze najavite na telefon: 031/3841-278.",
+    "map_reference": null,
+    "map_sheet": "1:50000 Užice 4 (528/4)",
+    "club": {
+        "name": "Tornik PK",
+        "url": "https://pss.rs/adresar_klubova/tornik-pk/",
+        "contact": "Zlatiborska 28\n064 156 55 78",
+        "clubs": [
+            {
+                "name": "Tornik PK",
+                "url": "https://pss.rs/adresar_klubova/tornik-pk/",
+                "contact": "Zlatiborska 28\n064 156 55 78"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 9,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2023/03/Staza-3-Ljubis-Murtenica.gpx",
+        "fetched_at": "2026-11-08T12:02:57Z",
+        "checked_at": "2026-11-08T12:02:57Z",
+        "bytes": 502419,
+        "sha256": "3a7bbaa0f5bde7419343743dc23fe8e9440e099036df8e4f4bd22bcf7493d4e7",
+        "etag": null,
+        "last_modified": "Wed, 29 Mar 2023 10:59:32 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 4824,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 6,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2023/03/Staza-3-Ljubis-Murtenica.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/staza-br-3-ljubis-murtenica.geojson",
+        "bbox": [
+            19.776259661,
+            43.597652782,
+            19.809743604,
+            43.640200999
+        ],
+        "center": [
+            19.793002,
+            43.618927
+        ],
+        "start_point": [
+            19.776608264,
+            43.629881451
+        ],
+        "end_point": [
+            19.776485385,
+            43.629910704
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    19.77661,
+                    43.62988
+                ],
+                [
+                    19.77857,
+                    43.6285
+                ],
+                [
+                    19.777,
+                    43.62672
+                ],
+                [
+                    19.78146,
+                    43.62307
+                ],
+                [
+                    19.78017,
+                    43.61861
+                ],
+                [
+                    19.78323,
+                    43.61598
+                ],
+                [
+                    19.78283,
+                    43.61317
+                ],
+                [
+                    19.79414,
+                    43.61051
+                ],
+                [
+                    19.78662,
+                    43.60452
+                ],
+                [
+                    19.78817,
+                    43.6022
+                ],
+                [
+                    19.78251,
+                    43.59896
+                ],
+                [
+                    19.7854,
+                    43.59765
+                ],
+                [
+                    19.78791,
+                    43.60033
+                ],
+                [
+                    19.79568,
+                    43.60095
+                ],
+                [
+                    19.79903,
+                    43.60516
+                ],
+                [
+                    19.80449,
+                    43.60499
+                ],
+                [
+                    19.80974,
+                    43.61279
+                ],
+                [
+                    19.80299,
+                    43.61636
+                ],
+                [
+                    19.79403,
+                    43.61437
+                ],
+                [
+                    19.79329,
+                    43.61756
+                ],
+                [
+                    19.79782,
+                    43.62169
+                ],
+                [
+                    19.78945,
+                    43.6267
+                ],
+                [
+                    19.79575,
+                    43.62674
+                ],
+                [
+                    19.79658,
+                    43.62848
+                ],
+                [
+                    19.78825,
+                    43.6357
+                ],
+                [
+                    19.79145,
+                    43.63931
+                ],
+                [
+                    19.7901,
+                    43.64019
+                ],
+                [
+                    19.78544,
+                    43.63829
+                ],
+                [
+                    19.78528,
+                    43.63633
+                ],
+                [
+                    19.77967,
+                    43.63602
+                ],
+                [
+                    19.77649,
+                    43.62991
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/staza-br-3-ljubis-murtenica/",
+        "canonical_url": "https://pss.rs/terenipp/staza-br-3-ljubis-murtenica/",
+        "pss_id": 19197,
+        "updated_at": "2023-09-08T20:25:33Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:02:57Z",
+        "last_synced_at": "2026-11-08T12:02:57Z"
+    },
+    "search": "staza br. 3: ljubis – murtenica 5-12-13 jugozapadna srbija zlatibor dacovica previja na putu vodice - ljubis dacovica previja na putu vodice - ljubis tornik pk vrh nevolja, boskova voda, cicina pecina, pragovi zahtevna dacovica previja - vrh nevolja (1,3 km) - boskova voda (4,5 km) -cicina pecina (8,7 km) - hajducka voda (10,9 km) - pragovi (12,4 km) - dacovica previja (18,1 km)",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:02:57Z"
+    }
+}

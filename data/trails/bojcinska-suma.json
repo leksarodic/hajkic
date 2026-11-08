@@ -1,0 +1,163 @@
+{
+    "schema_version": 1,
+    "slug": "bojcinska-suma",
+    "name": "Bojčinska šuma",
+    "code": "1-15-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 11734,
+        "category_id": 28,
+        "region_ids": [
+            1
+        ],
+        "mountain_ids": [
+            192
+        ]
+    },
+    "region": "Vojvodina",
+    "mountain": "Bojčinska šuma",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 6.0,
+        "calculated_km": 6.0
+    },
+    "duration": {
+        "official_minutes": 150,
+        "official_text": "2 h 30 min",
+        "official_raw": "2:30"
+    },
+    "elevation": {
+        "official_gain_m": 5.0,
+        "official_loss_m": 5.0,
+        "calculated_gain_m": 33.5,
+        "calculated_loss_m": 46.7,
+        "min_m": -6.1,
+        "max_m": 87.6
+    },
+    "start": "Stanica GSP na ulazu u Bojčinsku šumu, 80 m",
+    "end": "Stanica GSP na izlasku iz Bojčinske šume, 80 m",
+    "description": "• Bojčinska šuma se nalazi na teritoriji opštine Surčin i zaštićena je kao Spomenik prirode zbog svojih posebnosti (neke od retkih biljnih i životinjskih vrsta, među kojima i orao belorepan). Prostire se na oko 650 hektara, a na njenom samom početku se nalazi Letnja pozornica na kojoj se održava čuvena manifestacija \"Bojčinsko kulturno leto\".\n\n • Staza je trasirana kroz najlepše delove Bojčinske šume. U početku prolazi pored ograde farme mangulica, zatim pored Partizanskih baza i ergele lipicanera, a završava Trim stazom i etno kompleksom \"Bojčinska koleba\".",
+    "landmarks": "• Letnja pozornica (http://surcin.rs/?page_id=3279&script=lat)\n\n • Etno kompleks \"Bojčinska koleba\" (https://koleba.rs/)\n\n • Partizanske baze\n\n • Farma mangulica\n\n • Ergela konja\n\n • Vode za piće ima samo na početku staze\n\n • Smeštaj u bungalovima etno kompleksa \"Bojčinska šuma\"\n\n • Selo Progar",
+    "maintenance": "odlično uređena",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu su trasirali Dragan Dimitrijević i markiranti PD \"Železničar\" Beograd, 01.02.2020.\n\n • Poslednji put staza je markirana 22. avgusta 2020. godine.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Železničar PD Beograd",
+        "url": "https://pss.rs/adresar_klubova/zeleznicar-pk-2/",
+        "contact": "Bulevar Mihajla Pupina 167, 11070 Novi Beograd\n063 66 44 22; 064 293 0877\nhttp://www.zeleznicar.org.rs",
+        "clubs": [
+            {
+                "name": "Železničar PD Beograd",
+                "url": "https://pss.rs/adresar_klubova/zeleznicar-pk-2/",
+                "contact": "Bulevar Mihajla Pupina 167, 11070 Novi Beograd\n063 66 44 22; 064 293 0877\nhttp://www.zeleznicar.org.rs"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 12,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2020/07/1-15-1-Bojcinska-suma.gpx",
+        "fetched_at": "2026-11-08T12:01:00Z",
+        "checked_at": "2026-11-08T12:01:00Z",
+        "bytes": 76563,
+        "sha256": "9cc40f59cc180e2110865806e9101ca9095e04b945cf9edad78aef5114d9a4ea",
+        "etag": null,
+        "last_modified": "Mon, 13 Jul 2020 08:41:45 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 450,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 10,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2020/07/1-15-1-Bojcinska-suma.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/bojcinska-suma.geojson",
+        "bbox": [
+            20.14392857439816,
+            44.72654367797077,
+            20.164385866373777,
+            44.7434220649302
+        ],
+        "center": [
+            20.154157,
+            44.734983
+        ],
+        "start_point": [
+            20.16419199295342,
+            44.72691424190998
+        ],
+        "end_point": [
+            20.164150837808847,
+            44.72654367797077
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    20.16419,
+                    44.72691
+                ],
+                [
+                    20.16047,
+                    44.73745
+                ],
+                [
+                    20.15222,
+                    44.73901
+                ],
+                [
+                    20.15154,
+                    44.74342
+                ],
+                [
+                    20.14393,
+                    44.73742
+                ],
+                [
+                    20.16415,
+                    44.72654
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/bojcinska-suma/",
+        "canonical_url": "https://pss.rs/terenipp/bojcinska-suma/",
+        "pss_id": 11734,
+        "updated_at": "2020-08-24T10:52:15Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:01:01Z",
+        "last_synced_at": "2026-11-08T12:01:01Z"
+    },
+    "search": "bojcinska suma 1-15-1 vojvodina bojcinska suma stanica gsp na ulazu u bojcinsku sumu, 80 m stanica gsp na izlasku iz bojcinske sume, 80 m zeleznicar pd beograd • letnja pozornica (http://surcin.rs/?page_id=3279&script=lat) • etno kompleks \"bojcinska koleba\" (https://koleba.rs/) • partizanske baze • farma mangulica • ergela konja • vode za pice ima samo na pocetku staze • smestaj u bungalovima etno kompleksa \"bojcinska suma\" • selo progar laka • bojcinska suma se nalazi na teritoriji opstine surcin i zasticena je kao spomenik prirode zbog svojih posebnosti (neke od retkih biljnih i zivotinjskih vrsta, medju kojima i orao belorepan). prostire se na oko 650 hektara, a na njenom samom pocetku se nalazi letnja pozornica na kojoj se odrzava cuvena manifestacija \"bojcinsko kulturno leto\". • staza je trasirana kroz najlepse delove bojcinske sume. u pocetku prolazi pored ograde farme mangulica, zatim pored partizanskih baza i ergele lipicanera, a zavrsava trim stazom i etno kompleksom \"bojcinska koleba\".",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:01:01Z"
+    }
+}

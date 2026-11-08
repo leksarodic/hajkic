@@ -1,0 +1,251 @@
+{
+    "schema_version": 1,
+    "slug": "pd-grza-veliki-kozji-rog-vis-crni-vrh-javorak-pd-grza",
+    "name": "PD Grza - Veliki Kozji Rog - Vis - Crni vrh - Javorak - PD Grza",
+    "code": "4-26-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 8945,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            127
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Južni Kučaj",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 21.0,
+        "calculated_km": 20.82
+    },
+    "duration": {
+        "official_minutes": 420,
+        "official_text": "7 h",
+        "official_raw": "7:00"
+    },
+    "elevation": {
+        "official_gain_m": 1230.0,
+        "official_loss_m": 1230.0,
+        "calculated_gain_m": 1005.7,
+        "calculated_loss_m": 1008.4,
+        "min_m": 405.2,
+        "max_m": 933.8
+    },
+    "start": "Planinarski dom \"Grza\" (\"Đorđe Živković\"), 405m",
+    "end": "Planinarski dom \"Grza\" (\"Đorđe Živković\"), 405m",
+    "description": "• Odmah na startu se treba malo oznojiti - čeka nas strm uspon do kolibe pod Velikim Kozjim rogom (682 mnv). Odatle ćemo laganije nastaviti uspon do vrha Vis (873 mnv, oko 7 km od starta). Sa Visa se strmom padinom spuštamo na put za Krivi Vir i krećemo njime levo (na sever), do tačke na kojoj ćemo ga napustiti i, zaobilazeći Crni vrh jednim od najlepših delova ove dinamične rute, stići do odmorišta \"Pojilo\" (13 km od starta).\n\n • Zatim prolazimo zapadno od Javoračkog vrha (927 mnv): blizu je i možemo ga lako posetiti, ali ne treba očekivati i daleke vidike - vrh je obrastao šumom. No vrh Mali Javorak (756 mnv, oko 3 km dalje) i još jedan vidikovac malo posle njega pružiće nam i to zadovoljstvo. Na preostalom delu rute ćemo se, najpre lagano a na zadnjem kilometru vrlo strmo, spustiti nazad do planinarskog doma.",
+    "landmarks": "• Vis\n\n • Javorački vrh\n\n • Mali Javorak",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinarski dom \"Đorde Živković\"",
+    "notes": "• Stazu je trasirao Jovan Eraković oktobra 2018.god. po treku dobijenom od PD Javorak\n\n • Poslednji put staza je markirana marta 2019.god.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Javorak PK",
+        "url": "https://pss.rs/adresar_klubova/javorak-psd/",
+        "contact": "Kragujevačka 4, 35250 Paraćin\n066009754\nhttp://www.javorakpn.com/",
+        "clubs": [
+            {
+                "name": "Javorak PK",
+                "url": "https://pss.rs/adresar_klubova/javorak-psd/",
+                "contact": "Kragujevačka 4, 35250 Paraćin\n066009754\nhttp://www.javorakpn.com/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2019/05/4-26-1-Dom-Vis-Javoracki-vrh.gpx",
+        "fetched_at": "2026-11-08T12:00:21Z",
+        "checked_at": "2026-11-08T12:00:21Z",
+        "bytes": 537621,
+        "sha256": "7bcc5ae46cd1f9317df380a196e7b653eaec791a9cec72c72a4907b5695004e6",
+        "etag": null,
+        "last_modified": "Fri, 10 May 2019 17:21:05 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 3232,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 25,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2019/05/4-26-1-Dom-Vis-Javoracki-vrh.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/pd-grza-veliki-kozji-rog-vis-crni-vrh-javorak-pd-grza.geojson",
+        "bbox": [
+            21.640264000743628,
+            43.87260502204299,
+            21.7012669891119,
+            43.91592697240412
+        ],
+        "center": [
+            21.670765,
+            43.894266
+        ],
+        "start_point": [
+            21.64626603014767,
+            43.896549018099904
+        ],
+        "end_point": [
+            21.64626603014767,
+            43.896555975079536
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    21.64627,
+                    43.89655
+                ],
+                [
+                    21.65611,
+                    43.89509
+                ],
+                [
+                    21.65699,
+                    43.88997
+                ],
+                [
+                    21.66737,
+                    43.89282
+                ],
+                [
+                    21.67668,
+                    43.88987
+                ],
+                [
+                    21.67438,
+                    43.87924
+                ],
+                [
+                    21.68074,
+                    43.87422
+                ],
+                [
+                    21.68526,
+                    43.87261
+                ],
+                [
+                    21.68759,
+                    43.87592
+                ],
+                [
+                    21.69144,
+                    43.87678
+                ],
+                [
+                    21.70127,
+                    43.87504
+                ],
+                [
+                    21.69397,
+                    43.88768
+                ],
+                [
+                    21.6703,
+                    43.89492
+                ],
+                [
+                    21.67837,
+                    43.90386
+                ],
+                [
+                    21.67143,
+                    43.90907
+                ],
+                [
+                    21.6755,
+                    43.91163
+                ],
+                [
+                    21.67874,
+                    43.91081
+                ],
+                [
+                    21.67465,
+                    43.9127
+                ],
+                [
+                    21.66874,
+                    43.91424
+                ],
+                [
+                    21.66054,
+                    43.91148
+                ],
+                [
+                    21.65657,
+                    43.91592
+                ],
+                [
+                    21.65333,
+                    43.91256
+                ],
+                [
+                    21.64529,
+                    43.91033
+                ],
+                [
+                    21.64175,
+                    43.90727
+                ],
+                [
+                    21.64026,
+                    43.89921
+                ],
+                [
+                    21.6409,
+                    43.89749
+                ],
+                [
+                    21.64264,
+                    43.89883
+                ],
+                [
+                    21.64627,
+                    43.89656
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/pd-grza-veliki-kozji-rog-vis-crni-vrh-javorak-pd-grza/",
+        "canonical_url": "https://pss.rs/terenipp/pd-grza-veliki-kozji-rog-vis-crni-vrh-javorak-pd-grza/",
+        "pss_id": 8945,
+        "updated_at": "2019-05-10T17:32:35Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:00:22Z",
+        "last_synced_at": "2026-11-08T12:00:22Z"
+    },
+    "search": "pd grza - veliki kozji rog - vis - crni vrh - javorak - pd grza 4-26-1 istocna srbija juzni kucaj planinarski dom \"grza\" (\"djordje zivkovic\"), 405m planinarski dom \"grza\" (\"djordje zivkovic\"), 405m javorak pk • vis • javoracki vrh • mali javorak zahtevna • odmah na startu se treba malo oznojiti - ceka nas strm uspon do kolibe pod velikim kozjim rogom (682 mnv). odatle cemo laganije nastaviti uspon do vrha vis (873 mnv, oko 7 km od starta). sa visa se strmom padinom spustamo na put za krivi vir i krecemo njime levo (na sever), do tacke na kojoj cemo ga napustiti i, zaobilazeci crni vrh jednim od najlepsih delova ove dinamicne rute, stici do odmorista \"pojilo\" (13 km od starta). • zatim prolazimo zapadno od javorackog vrha (927 mnv): blizu je i mozemo ga lako posetiti, ali ne treba ocekivati i daleke vidike - vrh je obrastao sumom. no vrh mali javorak (756 mnv, oko 3 km dalje) i jos jedan vidikovac malo posle njega pruzice nam i to zadovoljstvo. na preostalom delu rute cemo se, najpre lagano a na zadnjem kilometru vrlo strmo, spustiti nazad do planinarskog doma.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:00:22Z"
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "schema_version": 1,
+    "slug": "garasko-jezero",
+    "name": "Garaško jezero",
+    "code": "2-5-3",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 4330,
+        "category_id": 28,
+        "region_ids": [
+            2
+        ],
+        "mountain_ids": [
+            86
+        ]
+    },
+    "region": "Šumadija",
+    "mountain": "Bukulja",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 9.0,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": 180,
+        "official_text": "3 h",
+        "official_raw": "3:00"
+    },
+    "elevation": {
+        "official_gain_m": 406.0,
+        "official_loss_m": 0.0,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": "Garaško jezero 290m",
+    "end": "Vrh Bukulje 696m",
+    "description": null,
+    "landmarks": "• Garaško jezero\n\n • Vidikovac na vrhu Bukulje",
+    "maintenance": "delimično uređena",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinarska kuća PD \"Bukulja\"",
+    "notes": "Staza poslednji put markirana 2013.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Bukulja PD",
+        "url": "https://pss.rs/adresar_klubova/bukulja-pd/",
+        "contact": "Knjaza Miloša 69, 34300 Aranđelovac\n060 141 65 75",
+        "clubs": [
+            {
+                "name": "Bukulja PD",
+                "url": "https://pss.rs/adresar_klubova/bukulja-pd/",
+                "contact": "Knjaza Miloša 69, 34300 Aranđelovac\n060 141 65 75"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": false,
+        "status": "missing",
+        "source_url": null,
+        "fetched_at": null,
+        "checked_at": "2026-11-08T11:56:38Z",
+        "bytes": null,
+        "sha256": null,
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": null,
+        "tracks": null,
+        "segments": null,
+        "waypoints": null,
+        "error": null,
+        "download": {
+            "mode": "none",
+            "url": null
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description",
+            "missing_gpx"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/garasko-jezero/",
+        "canonical_url": "https://pss.rs/terenipp/garasko-jezero/",
+        "pss_id": 4330,
+        "updated_at": "2017-08-02T11:02:45Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:56:38Z",
+        "last_synced_at": "2026-11-08T11:56:38Z"
+    },
+    "search": "garasko jezero 2-5-3 sumadija bukulja garasko jezero 290m vrh bukulje 696m bukulja pd • garasko jezero • vidikovac na vrhu bukulje laka",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:56:38Z"
+    }
+}

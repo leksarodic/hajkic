@@ -1,0 +1,191 @@
+{
+    "schema_version": 1,
+    "slug": "ostrovica-oblik",
+    "name": "Ostrovica - Oblik",
+    "code": "7-47-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 8594,
+        "category_id": 28,
+        "region_ids": [
+            7
+        ],
+        "mountain_ids": [
+            101
+        ]
+    },
+    "region": "Jugoistočna Srbija",
+    "mountain": "Oblik",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 8.0,
+        "calculated_km": 8.11
+    },
+    "duration": {
+        "official_minutes": 300,
+        "official_text": "5 h",
+        "official_raw": "5:00"
+    },
+    "elevation": {
+        "official_gain_m": 556.0,
+        "official_loss_m": 554.0,
+        "calculated_gain_m": 570.7,
+        "calculated_loss_m": 578.8,
+        "min_m": 345.0,
+        "max_m": 899.0
+    },
+    "start": "Selo Ostrovica, mesna zajednica, 350m",
+    "end": "Selo Ostrovica, mesna zajednica, 350m",
+    "description": "Staza polazi iz centra sela Ostrovica. Prvi deo vodi asfaltnim putem pored škole, a zatim kolskim putem. Veći deo staze prolazi kroz šumu, tako da je pogodna u letnjim mesecima. Staza je kružna. Na stazi postoje dva izvora (jedan na samom početku staze, a drugi na kraju kružne staze).",
+    "landmarks": "• Veći broj vidikovaca: prema Svrljiškim planinama, prema Suvoj planini\n\n • Na trasi ima dva izvora pitke vode\n\n • Na trasi nema smeštajnih objekata",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu je trasirao Slaviša Ivanović 2018. godine.\n\n • Poslednji put staza je markirana 17. marta 2019. godine.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Mosor PSK",
+        "url": "https://pss.rs/adresar_klubova/mosor-pak/",
+        "contact": "Tvrđava bb, 18000 Niš\n063 1023016, 063 406025, 064 665 41 58\nhttp://www.pakmosor.org/",
+        "clubs": [
+            {
+                "name": "Mosor PSK",
+                "url": "https://pss.rs/adresar_klubova/mosor-pak/",
+                "contact": "Tvrđava bb, 18000 Niš\n063 1023016, 063 406025, 064 665 41 58\nhttp://www.pakmosor.org/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 10,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2019/03/7-47-1-Ostrovica-Oblik.gpx",
+        "fetched_at": "2026-11-08T12:00:09Z",
+        "checked_at": "2026-11-08T12:00:09Z",
+        "bytes": 83716,
+        "sha256": "ab9bfdc86a1e306d4630d4c20823d4356288b44bece356e6e5b0117b894f4bf2",
+        "etag": null,
+        "last_modified": "Sun, 24 Mar 2019 16:51:13 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 548,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 6,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2019/03/7-47-1-Ostrovica-Oblik.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/ostrovica-oblik.geojson",
+        "bbox": [
+            22.12434070184827,
+            43.31218846142292,
+            22.147604674100876,
+            43.32273490726948
+        ],
+        "center": [
+            22.135973,
+            43.317462
+        ],
+        "start_point": [
+            22.12434070184827,
+            43.31365470774472
+        ],
+        "end_point": [
+            22.124475985765457,
+            43.313651606440544
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    22.12434,
+                    43.31365
+                ],
+                [
+                    22.12662,
+                    43.31232
+                ],
+                [
+                    22.12716,
+                    43.31671
+                ],
+                [
+                    22.14343,
+                    43.31675
+                ],
+                [
+                    22.14004,
+                    43.32178
+                ],
+                [
+                    22.14498,
+                    43.32219
+                ],
+                [
+                    22.14125,
+                    43.3227
+                ],
+                [
+                    22.14,
+                    43.32103
+                ],
+                [
+                    22.14718,
+                    43.31458
+                ],
+                [
+                    22.13999,
+                    43.31219
+                ],
+                [
+                    22.12711,
+                    43.31423
+                ],
+                [
+                    22.12624,
+                    43.31222
+                ],
+                [
+                    22.12448,
+                    43.31365
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/ostrovica-oblik/",
+        "canonical_url": "https://pss.rs/terenipp/ostrovica-oblik/",
+        "pss_id": 8594,
+        "updated_at": "2019-03-24T17:01:15Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:00:10Z",
+        "last_synced_at": "2026-11-08T12:00:10Z"
+    },
+    "search": "ostrovica - oblik 7-47-1 jugoistocna srbija oblik selo ostrovica, mesna zajednica, 350m selo ostrovica, mesna zajednica, 350m mosor psk • veci broj vidikovaca: prema svrljiskim planinama, prema suvoj planini • na trasi ima dva izvora pitke vode • na trasi nema smestajnih objekata laka staza polazi iz centra sela ostrovica. prvi deo vodi asfaltnim putem pored skole, a zatim kolskim putem. veci deo staze prolazi kroz sumu, tako da je pogodna u letnjim mesecima. staza je kruzna. na stazi postoje dva izvora (jedan na samom pocetku staze, a drugi na kraju kruzne staze).",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:00:10Z"
+    }
+}

@@ -1,0 +1,211 @@
+{
+    "schema_version": 1,
+    "slug": "kanjon-zdrelo-na-devici-levovik",
+    "name": "Kanjon Ždrelo na Devici (Levovik)",
+    "code": "4-31-6",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 4572,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            57
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Devica",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 13.0,
+        "calculated_km": 13.07
+    },
+    "duration": {
+        "official_minutes": 300,
+        "official_text": "5 h",
+        "official_raw": "5:00"
+    },
+    "elevation": {
+        "official_gain_m": 759.0,
+        "official_loss_m": 762.0,
+        "calculated_gain_m": 693.0,
+        "calculated_loss_m": 696.0,
+        "min_m": 431.5,
+        "max_m": 938.3
+    },
+    "start": "Stari Rudnik, 458m",
+    "end": "Stari Rudnik, 458m",
+    "description": "• Cilj staze: Busarnik 938m\n\n • Spaja sledeće staze/puteve: spaja se sa stazom \"Velika i Mala Propast na Devici\" i \"Kanjonom Izgarske reke (Dikulićeva staza)\"\n\n • Napomena: Neophodna je opreznost u blizini kanjona",
+    "landmarks": "• Vidikovci: Špic, Orlov kamen, Busarnik\n\n • Na stazi ima izvor pitke vode\n\n • Nema smeštaja\n\n • Naseljeno mesto: Levovik",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu je trasiralo PD \"Oštra Čuka\", decembra 2016. godine\n\n • Poslednji put staza je markirana decembra 2016. godine",
+    "map_reference": null,
+    "map_sheet": "533-3-3 Zaječar",
+    "club": {
+        "name": "Oštra čuka PD",
+        "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+        "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/",
+        "clubs": [
+            {
+                "name": "Oštra čuka PD",
+                "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+                "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/08/4-31-6-Kanjon-Zdrelo-na-Devici.gpx",
+        "fetched_at": "2026-11-08T11:57:39Z",
+        "checked_at": "2026-11-08T11:57:39Z",
+        "bytes": 106433,
+        "sha256": "50ddf7b37b7a223c7ea5d72a60b1e78db2b2a9a950685cfb87a6e3d91860031b",
+        "etag": null,
+        "last_modified": "Fri, 21 Dec 2018 11:35:32 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 629,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 9,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/08/4-31-6-Kanjon-Zdrelo-na-Devici.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/kanjon-zdrelo-na-devici-levovik.geojson",
+        "bbox": [
+            22.009948007762432,
+            43.59417697414756,
+            22.03067704103887,
+            43.631938034668565
+        ],
+        "center": [
+            22.020313,
+            43.613058
+        ],
+        "start_point": [
+            22.01999698765576,
+            43.631938034668565
+        ],
+        "end_point": [
+            22.019792972132564,
+            43.631872991099954
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    22.02,
+                    43.63194
+                ],
+                [
+                    22.0276,
+                    43.62252
+                ],
+                [
+                    22.02534,
+                    43.61728
+                ],
+                [
+                    22.03007,
+                    43.61618
+                ],
+                [
+                    22.02982,
+                    43.60886
+                ],
+                [
+                    22.01783,
+                    43.59703
+                ],
+                [
+                    22.01124,
+                    43.59419
+                ],
+                [
+                    22.01138,
+                    43.60145
+                ],
+                [
+                    22.02353,
+                    43.60456
+                ],
+                [
+                    22.02978,
+                    43.60908
+                ],
+                [
+                    22.02996,
+                    43.61633
+                ],
+                [
+                    22.02532,
+                    43.61733
+                ],
+                [
+                    22.02764,
+                    43.62241
+                ],
+                [
+                    22.02444,
+                    43.62457
+                ],
+                [
+                    22.02527,
+                    43.62707
+                ],
+                [
+                    22.02209,
+                    43.62828
+                ],
+                [
+                    22.02363,
+                    43.62985
+                ],
+                [
+                    22.01979,
+                    43.63187
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/kanjon-zdrelo-na-devici-levovik/",
+        "canonical_url": "https://pss.rs/terenipp/kanjon-zdrelo-na-devici-levovik/",
+        "pss_id": 4572,
+        "updated_at": "2018-12-21T11:37:56Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:57:40Z",
+        "last_synced_at": "2026-11-08T11:57:40Z"
+    },
+    "search": "kanjon zdrelo na devici (levovik) 4-31-6 istocna srbija devica stari rudnik, 458m stari rudnik, 458m ostra cuka pd • vidikovci: spic, orlov kamen, busarnik • na stazi ima izvor pitke vode • nema smestaja • naseljeno mesto: levovik zahtevna • cilj staze: busarnik 938m • spaja sledece staze/puteve: spaja se sa stazom \"velika i mala propast na devici\" i \"kanjonom izgarske reke (dikuliceva staza)\" • napomena: neophodna je opreznost u blizini kanjona",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:57:40Z"
+    }
+}

@@ -1,0 +1,133 @@
+{
+    "schema_version": 1,
+    "slug": "priboj-stari-deo-grada-crni-vrh",
+    "name": "Priboj (stari deo grada) - Crni vrh",
+    "code": "5-65-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 24298,
+        "category_id": 28,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            417
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Crni vrh (pribojski)",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 7.0,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": null,
+        "official_loss_m": null,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": "Priboj - stari deo grada",
+    "end": "Crni vrh - 1186",
+    "description": "Staza vodi od Železničke stanice ka Goduši. Od Goduše izlazi na Bjeliš, pa zatim ide ka selu Lunići i šumskoj kući. Od šumske kuće se penje ka Crnom vrhu.",
+    "landmarks": null,
+    "maintenance": "delimično uređena",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "STAZA JE U POSTUPKU UREĐENJA",
+    "map_reference": null,
+    "map_sheet": "1:50000 Titovo Užice 3 (528-3)",
+    "club": {
+        "name": "Ljeskovac ŽKP",
+        "url": "https://pss.rs/adresar_klubova/ljeskovac-zkp/",
+        "contact": "8.mart bb, 31330 Priboj\n+ 381 64 3140810",
+        "clubs": [
+            {
+                "name": "Ljeskovac ŽKP",
+                "url": "https://pss.rs/adresar_klubova/ljeskovac-zkp/",
+                "contact": "8.mart bb, 31330 Priboj\n+ 381 64 3140810"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 1,
+    "gpx": {
+        "available": false,
+        "status": "missing",
+        "source_url": null,
+        "fetched_at": null,
+        "checked_at": "2026-11-08T12:04:04Z",
+        "bytes": null,
+        "sha256": null,
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": null,
+        "tracks": null,
+        "segments": null,
+        "waypoints": null,
+        "error": null,
+        "download": {
+            "mode": "none",
+            "url": null
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_gpx"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/priboj-stari-deo-grada-crni-vrh/",
+        "canonical_url": "https://pss.rs/terenipp/priboj-stari-deo-grada-crni-vrh/",
+        "pss_id": 24298,
+        "updated_at": "2024-12-14T19:08:35Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:04:04Z",
+        "last_synced_at": "2026-11-08T12:04:04Z"
+    },
+    "search": "priboj (stari deo grada) - crni vrh 5-65-1 jugozapadna srbija crni vrh (pribojski) priboj - stari deo grada crni vrh - 1186 ljeskovac zkp laka staza vodi od zeleznicke stanice ka godusi. od goduse izlazi na bjelis, pa zatim ide ka selu lunici i sumskoj kuci. od sumske kuce se penje ka crnom vrhu.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:04:04Z"
+    }
+}

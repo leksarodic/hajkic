@@ -1,0 +1,231 @@
+{
+    "schema_version": 1,
+    "slug": "sesalac-slemen-sesalacka-pecina",
+    "name": "Sesalac - Slemen - Sesalačka pećina",
+    "code": "4-37-3",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 13387,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            73
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Slemen",
+    "difficulty": {
+        "key": "srednje_teska",
+        "label": "Srednje teška",
+        "source": "srednje teška"
+    },
+    "distance": {
+        "official_km": 18.3,
+        "calculated_km": 18.31
+    },
+    "duration": {
+        "official_minutes": 420,
+        "official_text": "7 h",
+        "official_raw": "7:00"
+    },
+    "elevation": {
+        "official_gain_m": 675.0,
+        "official_loss_m": 675.0,
+        "calculated_gain_m": 668.2,
+        "calculated_loss_m": 671.3,
+        "min_m": 430.1,
+        "max_m": 1099.0
+    },
+    "start": "Selo Sesalac, 433 m",
+    "end": "Selo Sesalac, 433 m",
+    "description": "Staza je kružna i polazi od doma u Sesalcu i blizu planinarskog doma se odvaja prema Rtu i dalje prema Vardištu. Prati kolski put i nastavlja prema Banovom brdu (861 m) i preko Kamenčića (1080 m) se na kraju dolazi do najvišeg vrha Slemena (1099 m). Povratak je istom stazom do Vardište, gde se odvaja u desno prema Sesalačkoj pećini. Nakon toga staza silazi u Sesalac.",
+    "landmarks": "• Slemen, Sesalačka pećina\n\n • Vidikovci: Vardište, Banovo brdo\n\n • Naselje: Sesalac\n\n • Na trasi ima pitke vode\n\n • Smeštaj: kamp, odmaralište, privatni smeštaj",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu su trasirali aprila 2015. članovi PK \"Ozren\" Sokobanja (Ninić Zvezdan, Dragan Knežević, Ljubinko Stevanović)\n\n • Poslednji put staza je markirana 2020. godine",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Ozren PK",
+        "url": "https://pss.rs/adresar_klubova/ozren-pk/",
+        "contact": "Alekse Markišića 28/3 18230 Sokobanja (poštanski fah 63)\n+38164 855 33 61",
+        "clubs": [
+            {
+                "name": "Ozren PK",
+                "url": "https://pss.rs/adresar_klubova/ozren-pk/",
+                "contact": "Alekse Markišića 28/3 18230 Sokobanja (poštanski fah 63)\n+38164 855 33 61"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2021/03/4-37-3-Sesalac-Slemen-Sesalacka-pecina.gpx",
+        "fetched_at": "2026-11-08T12:01:53Z",
+        "checked_at": "2026-11-08T12:01:53Z",
+        "bytes": 93184,
+        "sha256": "0ed942b3d31e22be249e9464bf04b793d73642c35acbffa4f988b22a5ee23479",
+        "etag": null,
+        "last_modified": "Tue, 30 Mar 2021 17:47:23 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 554,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 7,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2021/03/4-37-3-Sesalac-Slemen-Sesalacka-pecina.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/sesalac-slemen-sesalacka-pecina.geojson",
+        "bbox": [
+            21.976135997101665,
+            43.68057302199304,
+            22.05527801066637,
+            43.69999296963215
+        ],
+        "center": [
+            22.015707,
+            43.690283
+        ],
+        "start_point": [
+            21.97786401025951,
+            43.68062197230756
+        ],
+        "end_point": [
+            21.977787986397743,
+            43.68057302199304
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    21.97786,
+                    43.68062
+                ],
+                [
+                    21.986,
+                    43.68355
+                ],
+                [
+                    21.99344,
+                    43.68089
+                ],
+                [
+                    21.99733,
+                    43.68245
+                ],
+                [
+                    21.99623,
+                    43.6875
+                ],
+                [
+                    22.00089,
+                    43.69341
+                ],
+                [
+                    22.00459,
+                    43.69649
+                ],
+                [
+                    22.01408,
+                    43.69929
+                ],
+                [
+                    22.03766,
+                    43.69631
+                ],
+                [
+                    22.05527,
+                    43.68969
+                ],
+                [
+                    22.02543,
+                    43.69897
+                ],
+                [
+                    22.01386,
+                    43.69924
+                ],
+                [
+                    22.00472,
+                    43.69652
+                ],
+                [
+                    21.9974,
+                    43.69661
+                ],
+                [
+                    21.99135,
+                    43.69736
+                ],
+                [
+                    21.99292,
+                    43.69904
+                ],
+                [
+                    21.99055,
+                    43.69994
+                ],
+                [
+                    21.98498,
+                    43.69325
+                ],
+                [
+                    21.97862,
+                    43.69103
+                ],
+                [
+                    21.97724,
+                    43.68739
+                ],
+                [
+                    21.97923,
+                    43.6822
+                ],
+                [
+                    21.97614,
+                    43.68374
+                ],
+                [
+                    21.97779,
+                    43.68057
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/sesalac-slemen-sesalacka-pecina/",
+        "canonical_url": "https://pss.rs/terenipp/sesalac-slemen-sesalacka-pecina/",
+        "pss_id": 13387,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:01:54Z",
+        "last_synced_at": "2026-11-08T12:01:54Z"
+    },
+    "search": "sesalac - slemen - sesalacka pecina 4-37-3 istocna srbija slemen selo sesalac, 433 m selo sesalac, 433 m ozren pk • slemen, sesalacka pecina • vidikovci: vardiste, banovo brdo • naselje: sesalac • na trasi ima pitke vode • smestaj: kamp, odmaraliste, privatni smestaj srednje teska staza je kruzna i polazi od doma u sesalcu i blizu planinarskog doma se odvaja prema rtu i dalje prema vardistu. prati kolski put i nastavlja prema banovom brdu (861 m) i preko kamencica (1080 m) se na kraju dolazi do najviseg vrha slemena (1099 m). povratak je istom stazom do vardiste, gde se odvaja u desno prema sesalackoj pecini. nakon toga staza silazi u sesalac.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:01:54Z"
+    }
+}

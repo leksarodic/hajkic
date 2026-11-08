@@ -1,0 +1,171 @@
+{
+    "schema_version": 1,
+    "slug": "vlasina-leskovik-2",
+    "name": "Vlasina - Leskovik",
+    "code": "4-33-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 8222,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            74
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Ozren",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 7.0,
+        "calculated_km": 5.31
+    },
+    "duration": {
+        "official_minutes": 120,
+        "official_text": "2 h",
+        "official_raw": "2:00"
+    },
+    "elevation": {
+        "official_gain_m": 235.0,
+        "official_loss_m": 0.0,
+        "calculated_gain_m": 250.1,
+        "calculated_loss_m": 23.7,
+        "min_m": 941.0,
+        "max_m": 1169.5
+    },
+    "start": "Visoravan Vlasina (granica između Device i Ozrena), 939m",
+    "end": "Leskovik, 1174m",
+    "description": "Spaja sledeće staze/puteve: spaja stazu \"Sokobanja - Kalinovica - Vlasina - Oštra čuka\" sa stazom \"Lipovac - Leskovik\"",
+    "landmarks": "• Vidikovci: Vlasina i Leskovik\n\n • Na stazi nema izvora pitke vode\n\n • Nema smeštaja",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu je trasiralo PD \"Oštra Čuka\" septembra 2011. godine\n\n • Poslednji put staza je markirana oktobra 2013. godine",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Oštra čuka PD",
+        "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+        "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/",
+        "clubs": [
+            {
+                "name": "Oštra čuka PD",
+                "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+                "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2019/01/4-33-1-Vlasina-Leskovik.gpx",
+        "fetched_at": "2026-11-08T11:59:53Z",
+        "checked_at": "2026-11-08T11:59:53Z",
+        "bytes": 12165,
+        "sha256": "0c4645e95d243eae828720161642d3836c56616f7bc2edc0fa74b1f67d027ca8",
+        "etag": null,
+        "last_modified": "Thu, 24 Jan 2019 12:39:10 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 86,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 3,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2019/01/4-33-1-Vlasina-Leskovik.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/vlasina-leskovik-2.geojson",
+        "bbox": [
+            21.841506958007812,
+            43.5833215713501,
+            21.887915544211864,
+            43.59349250793457
+        ],
+        "center": [
+            21.864711,
+            43.588407
+        ],
+        "start_point": [
+            21.887915544211864,
+            43.59051123261452
+        ],
+        "end_point": [
+            21.84154987335205,
+            43.5833215713501
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.88792,
+                    43.59051
+                ],
+                [
+                    21.87202,
+                    43.59285
+                ],
+                [
+                    21.86906,
+                    43.58993
+                ],
+                [
+                    21.86344,
+                    43.59345
+                ],
+                [
+                    21.8582,
+                    43.59109
+                ],
+                [
+                    21.85906,
+                    43.58817
+                ],
+                [
+                    21.85215,
+                    43.5889
+                ],
+                [
+                    21.84155,
+                    43.58332
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/vlasina-leskovik-2/",
+        "canonical_url": "https://pss.rs/terenipp/vlasina-leskovik-2/",
+        "pss_id": 8222,
+        "updated_at": "2019-01-24T12:40:14Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:59:54Z",
+        "last_synced_at": "2026-11-08T11:59:54Z"
+    },
+    "search": "vlasina - leskovik 4-33-1 istocna srbija ozren visoravan vlasina (granica izmedju device i ozrena), 939m leskovik, 1174m ostra cuka pd • vidikovci: vlasina i leskovik • na stazi nema izvora pitke vode • nema smestaja laka spaja sledece staze/puteve: spaja stazu \"sokobanja - kalinovica - vlasina - ostra cuka\" sa stazom \"lipovac - leskovik\"",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:59:54Z"
+    }
+}

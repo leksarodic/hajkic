@@ -1,0 +1,464 @@
+{
+    "schema_version": 1,
+    "slug": "e4-6",
+    "name": "Osipaonica - Veliko Gradište",
+    "code": "E4-6",
+    "category": {
+        "key": "evropski-pesacki-putevi-u-srbiji",
+        "label": "Evropski pešački putevi u Srbiji"
+    },
+    "pss": {
+        "post_id": 3665,
+        "category_id": 29,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            52
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Stig",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "lak"
+    },
+    "distance": {
+        "official_km": 79.4,
+        "calculated_km": 79.62
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": 479.0,
+        "official_loss_m": 489831.0,
+        "calculated_gain_m": 0.0,
+        "calculated_loss_m": 0.0,
+        "min_m": 0.0,
+        "max_m": 0.0
+    },
+    "start": null,
+    "end": null,
+    "description": "• Širokom dolinom Velike Morave stiže se u grad Požarevac,\nregionalni centar ovog dela Srbije. U njemu je 1842. godine održana\nprva premijera „Romea i Julije“ na Balkanu. Vredi posetiti galeriju\nčuvene slikarke Milene Pavlović Barili u njenoj rodnoj kući.\nArheološka zbirka iz rimskog Viminacijuma nalazi se u Narodnom\nmuzeju.\n\n • Iz Požarevca, pored rudnika uglja i starog rudarskog naselja Kostolac,\nstiže se na lokalitet Viminacijuma, rimskog utvrđenja prvobitno\nnamenjenog kao logor VII rimske legije. Od cara Hadrijana dobio je\nstatus grada, a zatim 239. godine n.e. i status kolonije.\nKod sela Kličevac pronađena je svetski poznata figura Velike majke\niz bronzanog doba.\n\n • Na velikoj krivini Dunava, preko puta ušća reke Nere, dominira\nsrednjevekovna tvrđava Ram koju je podigao turski sultan Bajazit II,\n1483. godine.\n\n • Veliko Gradište je gradić sa pristaništem na Dunavu. U 19. veku je\nbio važna izvozna stanica. Ovde je rođen istaknuti srpski arheolog\nakademik Miloje Vasić. Turistički, grad je veoma atraktivan, posebno\nu letnjim mesecima. Uslovi za nautički turizam i odmor na Dunavu su\nveoma povoljni. Dunav ovde dostiže širinu i do 2 000 m. Nizvodno\nu rukavcu Dunava izgrađena veštačka brana stvorila je lepo jezero\nkoje je dobilo ime Srebrno, sada izvanredna turistička oaza. U celoj\novoj zoni stvoreni su uslovi za brojna staništa raznovrsnih ptičjih\nvrsta.",
+    "landmarks": "Požarevac, Viminacijum, Srebrno jezero, Ram, Petrovac na Mlavi, Ceremošnja",
+    "maintenance": null,
+    "marking": "evropska crveno-žuta",
+    "accommodation": "Požarevac, Kostolac, Srebrno jezero, Veliko Gradište, Petrovac na Mlavi, Kučevo, Ceremošnja",
+    "notes": "• E4-6-1 Osipaonica – Požarevac 18,3 km\n\n • E4-6-2 Požarevac – Viminacium 22,9 km\n\n • E4-6-3 Viminacium – Ram 17,6 km\n\n • E4-6-4 Ram – Veliko Gradište 20,6 km",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Gornjak PD",
+        "url": "https://pss.rs/adresar_klubova/gornjak-pd/",
+        "contact": "Prvomajska bb, 12300 Petrovac na Mlavi\n+38164 2345 518 ; +38163 696 682\nhttp://www.gornjak.org.rs",
+        "clubs": [
+            {
+                "name": "Gornjak PD",
+                "url": "https://pss.rs/adresar_klubova/gornjak-pd/",
+                "contact": "Prvomajska bb, 12300 Petrovac na Mlavi\n+38164 2345 518 ; +38163 696 682\nhttp://www.gornjak.org.rs"
+            },
+            {
+                "name": "Vukan PK",
+                "url": "https://pss.rs/adresar_klubova/vukan-pk/",
+                "contact": "Voje Dulića 41 12000 Požerevac\n+38164 280 6730; +38163 8826271\nhttp://www.pkvukan.rs"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/E4-6-Osipaonica-V-Gradiste.gpx",
+        "fetched_at": "2026-11-08T12:50:33Z",
+        "checked_at": "2026-11-08T12:50:33Z",
+        "bytes": 127390,
+        "sha256": "8eaa2ebf6b4d7f34b83fbe40db37eab3d045a4b71c7b4d0dda8cd23976dc99ce",
+        "etag": null,
+        "last_modified": "Thu, 05 Dec 2024 23:02:14 GMT",
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": 1758,
+        "tracks": 4,
+        "segments": 4,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/E4-6-Osipaonica-V-Gradiste.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/e4-6.geojson",
+        "bbox": [
+            21.058684936,
+            44.543407048,
+            21.514715368,
+            44.815998328
+        ],
+        "center": [
+            21.2867,
+            44.679703
+        ],
+        "start_point": [
+            21.058684936,
+            44.549542483
+        ],
+        "end_point": [
+            21.514715368,
+            44.761561758
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.05868,
+                    44.54954
+                ],
+                [
+                    21.07603,
+                    44.5446
+                ],
+                [
+                    21.09589,
+                    44.54341
+                ],
+                [
+                    21.10292,
+                    44.54921
+                ],
+                [
+                    21.11592,
+                    44.55093
+                ],
+                [
+                    21.11957,
+                    44.56882
+                ],
+                [
+                    21.11519,
+                    44.57091
+                ],
+                [
+                    21.11747,
+                    44.57591
+                ],
+                [
+                    21.13578,
+                    44.5895
+                ],
+                [
+                    21.15057,
+                    44.58635
+                ],
+                [
+                    21.15225,
+                    44.59225
+                ],
+                [
+                    21.15833,
+                    44.58996
+                ],
+                [
+                    21.18079,
+                    44.58963
+                ],
+                [
+                    21.18026,
+                    44.59988
+                ],
+                [
+                    21.18455,
+                    44.6209
+                ]
+            ],
+            [
+                [
+                    21.18454,
+                    44.6209
+                ],
+                [
+                    21.19684,
+                    44.61957
+                ],
+                [
+                    21.19943,
+                    44.62323
+                ],
+                [
+                    21.20571,
+                    44.6228
+                ],
+                [
+                    21.21398,
+                    44.62861
+                ],
+                [
+                    21.22575,
+                    44.63145
+                ],
+                [
+                    21.22496,
+                    44.63329
+                ],
+                [
+                    21.22078,
+                    44.63249
+                ],
+                [
+                    21.21716,
+                    44.63764
+                ],
+                [
+                    21.21775,
+                    44.6418
+                ],
+                [
+                    21.22009,
+                    44.64236
+                ],
+                [
+                    21.21946,
+                    44.6502
+                ],
+                [
+                    21.21251,
+                    44.65877
+                ],
+                [
+                    21.21303,
+                    44.67108
+                ],
+                [
+                    21.21119,
+                    44.67012
+                ],
+                [
+                    21.19459,
+                    44.6752
+                ],
+                [
+                    21.18866,
+                    44.67258
+                ],
+                [
+                    21.18329,
+                    44.68208
+                ],
+                [
+                    21.18278,
+                    44.69193
+                ],
+                [
+                    21.20001,
+                    44.69905
+                ],
+                [
+                    21.19441,
+                    44.7148
+                ],
+                [
+                    21.19579,
+                    44.71707
+                ],
+                [
+                    21.19945,
+                    44.71753
+                ],
+                [
+                    21.19567,
+                    44.72822
+                ],
+                [
+                    21.19911,
+                    44.72766
+                ],
+                [
+                    21.20727,
+                    44.7307
+                ],
+                [
+                    21.21158,
+                    44.73592
+                ],
+                [
+                    21.22869,
+                    44.7345
+                ],
+                [
+                    21.22952,
+                    44.7331
+                ],
+                [
+                    21.23083,
+                    44.7343
+                ]
+            ],
+            [
+                [
+                    21.23081,
+                    44.73432
+                ],
+                [
+                    21.22859,
+                    44.7357
+                ],
+                [
+                    21.23033,
+                    44.7401
+                ],
+                [
+                    21.21399,
+                    44.7476
+                ],
+                [
+                    21.21411,
+                    44.76511
+                ],
+                [
+                    21.20846,
+                    44.76381
+                ],
+                [
+                    21.2037,
+                    44.7679
+                ],
+                [
+                    21.22545,
+                    44.78025
+                ],
+                [
+                    21.28325,
+                    44.78663
+                ],
+                [
+                    21.29729,
+                    44.79203
+                ],
+                [
+                    21.31152,
+                    44.79446
+                ],
+                [
+                    21.33163,
+                    44.80911
+                ],
+                [
+                    21.33073,
+                    44.81274
+                ]
+            ],
+            [
+                [
+                    21.33073,
+                    44.81275
+                ],
+                [
+                    21.33323,
+                    44.816
+                ],
+                [
+                    21.34145,
+                    44.81028
+                ],
+                [
+                    21.37115,
+                    44.80636
+                ],
+                [
+                    21.37959,
+                    44.79682
+                ],
+                [
+                    21.37968,
+                    44.78701
+                ],
+                [
+                    21.39083,
+                    44.76724
+                ],
+                [
+                    21.40419,
+                    44.7668
+                ],
+                [
+                    21.4186,
+                    44.76907
+                ],
+                [
+                    21.42727,
+                    44.76251
+                ],
+                [
+                    21.44035,
+                    44.7675
+                ],
+                [
+                    21.45929,
+                    44.7637
+                ],
+                [
+                    21.46868,
+                    44.76488
+                ],
+                [
+                    21.47802,
+                    44.76877
+                ],
+                [
+                    21.48121,
+                    44.76507
+                ],
+                [
+                    21.48551,
+                    44.76695
+                ],
+                [
+                    21.49532,
+                    44.76691
+                ],
+                [
+                    21.50374,
+                    44.76472
+                ],
+                [
+                    21.5078,
+                    44.76085
+                ],
+                [
+                    21.51472,
+                    44.76156
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": [
+            "missing_elevation"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/e4-6/",
+        "canonical_url": "https://pss.rs/terenipp/e4-6/",
+        "pss_id": 3665,
+        "updated_at": "2024-12-05T23:02:27Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:50:34Z",
+        "last_synced_at": "2026-11-08T12:50:34Z"
+    },
+    "search": "osipaonica - veliko gradiste e4-6 istocna srbija stig gornjak pd pozarevac, viminacijum, srebrno jezero, ram, petrovac na mlavi, ceremosnja laka • sirokom dolinom velike morave stize se u grad pozarevac, regionalni centar ovog dela srbije. u njemu je 1842. godine odrzana prva premijera „romea i julije“ na balkanu. vredi posetiti galeriju cuvene slikarke milene pavlovic barili u njenoj rodnoj kuci. arheoloska zbirka iz rimskog viminacijuma nalazi se u narodnom muzeju. • iz pozarevca, pored rudnika uglja i starog rudarskog naselja kostolac, stize se na lokalitet viminacijuma, rimskog utvrdjenja prvobitno namenjenog kao logor vii rimske legije. od cara hadrijana dobio je status grada, a zatim 239. godine n.e. i status kolonije. kod sela klicevac pronadjena je svetski poznata figura velike majke iz bronzanog doba. • na velikoj krivini dunava, preko puta usca reke nere, dominira srednjevekovna tvrdjava ram koju je podigao turski sultan bajazit ii, 1483. godine. • veliko gradiste je gradic sa pristanistem na dunavu. u 19. veku je bio vazna izvozna stanica. ovde je rodjen istaknuti srpski arheolog akademik miloje vasic. turisticki, grad je veoma atraktivan, posebno u letnjim mesecima. uslovi za nauticki turizam i odmor na dunavu su veoma povoljni. dunav ovde dostize sirinu i do 2 000 m. nizvodno u rukavcu dunava izgradjena vestacka brana stvorila je lepo jezero koje je dobilo ime srebrno, sada izvanredna turisticka oaza. u celoj ovoj zoni stvoreni su uslovi za brojna stanista raznovrsnih pticjih vrsta.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:50:34Z"
+    }
+}

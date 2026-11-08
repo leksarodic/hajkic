@@ -1,0 +1,908 @@
+{
+    "schema_version": 1,
+    "slug": "e7-8",
+    "name": "Krupanj - Divčibare",
+    "code": "E7-8",
+    "category": {
+        "key": "evropski-pesacki-putevi-u-srbiji",
+        "label": "Evropski pešački putevi u Srbiji"
+    },
+    "pss": {
+        "post_id": 3728,
+        "category_id": 29,
+        "region_ids": [
+            3
+        ],
+        "mountain_ids": [
+            128,
+            198,
+            384,
+            155,
+            66,
+            129
+        ]
+    },
+    "region": "Zapadna Srbija",
+    "mountain": "Bobija",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevan"
+    },
+    "distance": {
+        "official_km": 137.0,
+        "calculated_km": 137.04
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": 4963.0,
+        "official_loss_m": 4293.0,
+        "calculated_gain_m": 3000.8,
+        "calculated_loss_m": 3180.2,
+        "min_m": 178.0,
+        "max_m": 1248.0
+    },
+    "start": null,
+    "end": null,
+    "description": "• Iz Krupnja put E7 prelazi preko Sokolskih planina čiji je najviši\nvrh Rožanj 973 metra i kroz područje bregovite Azbukovice silazi\nka ostacima starog utvrđenja Soko grad ispod koga je krajem prošlog\nveka podignut veliki pravoslavni manastir Sv. Nikolaja Žičkog. Put\ndalje vodi ka varošici Ljubovija, na reci Drini. Na ovom delu trase\nputa nalaze se brojna rasuta planinska sela sa sačuvanom lokalnom\narhitekturom i tradicijom pripreme lokalnih specijaliteta. Kraj je\npoznat po proizvodnji voća, posebno šljiva od kojih se pravi čuvena\nrakija srpska šljivovica.\n\n • Grad Ljubovija nalazi se na ušću rečice Ljuboviđe u reku Drinu. Na\nreci Drini koja spada u najčistije reke Evrope održavaju se brojne\nmanifestacije, ribolov, rafting, sportovi na vodi i dr. U celoj\nokolini razvijen je seoski turizam u velikom broju domaćinstava.\n\n • Nakon Ljubovije put E7 podiže se prema Valjevskim planinama i\nprolazi iznad kanjona reke Trešnjice, specijalnog rezervata prirode.\n\n • U ovom kanjonu koji je prirodno veoma atraktivan nalazi se kolonija\nbeloglavih supova o kojima brinu lokalna ekološka društva. Put E7\nide, preko prevoja Debelo brdo, vencem Valjevskih planina visine\nod 1000 do 1300 metara, kroz relativno pitomi planinski kraj, a\nzatim silazi u Podgorinu Valjevskih planina na krašku površ sela\nLeskovica i Lelić. Zanimljiv je ovaj prolazak kroz raznovrsne oblike\nreljefa koji se smenjuju u svojoj raznovrsnosti, kanjoni, vrtače, ponori,\npećine.\n\n • Sa desne strane puta nalazi se kanjon reke Gradac koji je takođe pod\nrežimom zaštite zahvaljujući sačuvanoj izvornoj čistoći vode i\nprirode. Zatim put E7 silazi u grad Valjevo, credište regiona.\n\n • Grad Valjevo predstavlja važan istorijski, kulturni i privredni\ncentar ovog kraja Srbije. Arheološki podaci govore o njegovom\npreromanckom naseljavanju iz vremena kada se zvao Valva. Prvi\nzapisi o gradu su iz 1339. godine u spisima starog Dubrovnika. Grad\nje okružen izvanrednom prirodom. Posebno se izdvajaju specijalni\nrezervat prirode kanjon reke Gradac, a zatim i Petnička pećina u\nkojoj je otkriveno stanište pračoveka. U blizini grada takođe su dva\nvredna manastira, Pustinja i Ćelije oba iz 15. veka. U centru grada\nje zanimljiva stara trgovačka ulica „Tešnjar” sa tradicionalnim\nzanatskim radionicama. Sada je to turistička atrakcija. U gradu\nse nalazi muzej smešten u zgradi iz 1870. godine. Veoma je poznata i\nModerna galerija koja je osnovana na inicijativu poznatog slikara\nLjube Popovića.\n\n • U blizini grada u selu Petnica nalazi se Obrazovni centar -\nistraživačka stanica u kojoj borave talentovani mladi učenici i\nstudenti. Bliža okolina grada bogata je i istorijskim i etnokulturnim\nnasleđem posebno iz perioda borbe za oslobođenje od Turaka.\n\n • Put E7 iz Valjeva ulazi u kanjon reke Gradac i dalje se penje prema\nplanini Maljen i poznatom planinskom turističkom mestu Divčibare.\nOvde se nalazi letnji i zimski rekreativni centar, poznat u Srbiji.\n\n • Dostupni su brojni hoteli i kuće za odmor. Na Divčibarama postoji\nširoka mreža obeleženih staza za pešačenje u okolini.",
+    "landmarks": "• Sokograd,\n\n • Ljubovija,\n\n • Kanjon reke Trešnjice,\n\n • Klisura reke Gradac,\n\n • Grad Valjevo,\n\n • Manastiri Pustinja, Ćelije i Lelić,\n\n • Divčibare",
+    "maintenance": null,
+    "marking": "evropska crveno-žuta",
+    "accommodation": "Krupanj, u manastiru Sokograd, Ljubovija, Bobija, Debelo brdo, Valjevo, Divčibare",
+    "notes": "• E7-8-1 Krupanj – Soko grad 20,0 km\n\n • E7-8-2 Soko grad – Ljubovija 17,2 km\n\n • E7-8-3 Ljubovija – Bobija 22,0 km\n\n • E7-8-4 Bobija – Debelo brdo 13,2 km\n\n • E7-8-5 Debelo brdo – Mravinjci 10,0 km\n\n • E7-8-6 Mravinjci – Bogatić 13,9 km\n\n • E7-8-7 Bogatić – Valjevo 10,3 km\n\n • E7-8-8 Valjevo – Bačevci 15,6 km\n\n • E7-8-9 Bačevci – Divčibare 14,8 km",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Brđanka PSK",
+        "url": "https://pss.rs/adresar_klubova/psd-brdanka/",
+        "contact": "Dušana Trivunca 54, 18220 Aleksinac\n060 680 29 75\nhttp://www.planinari-brdjanka.org",
+        "clubs": [
+            {
+                "name": "Brđanka PSK",
+                "url": "https://pss.rs/adresar_klubova/psd-brdanka/",
+                "contact": "Dušana Trivunca 54, 18220 Aleksinac\n060 680 29 75\nhttp://www.planinari-brdjanka.org"
+            },
+            {
+                "name": "Magleš PSD",
+                "url": "https://pss.rs/adresar_klubova/magles-psd/",
+                "contact": "Sindjelićeva 14, 14000 Valjevo\n+38114 236 377 ; 064/6461103\nhttps://www.magles.org.rs/"
+            },
+            {
+                "name": "Povlen PK",
+                "url": "https://pss.rs/adresar_klubova/povlen-pk/",
+                "contact": "Doktora Pantića 131/6 14000 Valjevo\n063-232039"
+            },
+            {
+                "name": "Subjel PED",
+                "url": "https://pss.rs/adresar_klubova/subjel-ped/",
+                "contact": "Poštanski fax 66, 31260 Kosjerić\n064/108 24 75\nhttp://subjel.earth.rs/"
+            },
+            {
+                "name": "Tornička Bobija PK",
+                "url": "https://pss.rs/adresar_klubova/tornicka-bobija-pk/",
+                "contact": "Vojvode Mišića 89, 15320 Ljubovija\n+381 60 381 62 01"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 3,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/E7-8-Krupanj-Divcibare.gpx",
+        "fetched_at": "2026-11-08T12:50:59Z",
+        "checked_at": "2026-11-08T12:50:59Z",
+        "bytes": 443221,
+        "sha256": "f3024b644587eaf54d2f06d682796afcb527ec96144cd97acc4e777a9fa49207",
+        "etag": null,
+        "last_modified": "Sat, 07 Dec 2024 21:26:20 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 6002,
+        "tracks": 9,
+        "segments": 9,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/E7-8-Krupanj-Divcibare.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/e7-8.geojson",
+        "bbox": [
+            19.354433363,
+            44.128899649,
+            20.014561107,
+            44.365328045
+        ],
+        "center": [
+            19.684497,
+            44.247114
+        ],
+        "start_point": [
+            19.36357457,
+            44.365328045
+        ],
+        "end_point": [
+            20.01370414,
+            44.129294594
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    19.36357,
+                    44.36533
+                ],
+                [
+                    19.36836,
+                    44.35249
+                ],
+                [
+                    19.36206,
+                    44.34906
+                ],
+                [
+                    19.3595,
+                    44.34443
+                ],
+                [
+                    19.36343,
+                    44.34244
+                ],
+                [
+                    19.35445,
+                    44.33925
+                ],
+                [
+                    19.36196,
+                    44.33487
+                ],
+                [
+                    19.36142,
+                    44.32834
+                ],
+                [
+                    19.37802,
+                    44.32331
+                ],
+                [
+                    19.38174,
+                    44.31845
+                ],
+                [
+                    19.38869,
+                    44.31723
+                ],
+                [
+                    19.40129,
+                    44.3096
+                ],
+                [
+                    19.40785,
+                    44.30931
+                ],
+                [
+                    19.40974,
+                    44.30705
+                ],
+                [
+                    19.41993,
+                    44.30474
+                ],
+                [
+                    19.42161,
+                    44.29875
+                ],
+                [
+                    19.42703,
+                    44.30011
+                ],
+                [
+                    19.42803,
+                    44.29487
+                ],
+                [
+                    19.43609,
+                    44.29406
+                ],
+                [
+                    19.44284,
+                    44.28474
+                ],
+                [
+                    19.45079,
+                    44.2878
+                ],
+                [
+                    19.45146,
+                    44.278
+                ],
+                [
+                    19.43073,
+                    44.27095
+                ]
+            ],
+            [
+                [
+                    19.43064,
+                    44.27095
+                ],
+                [
+                    19.43704,
+                    44.26991
+                ],
+                [
+                    19.42777,
+                    44.26869
+                ],
+                [
+                    19.42859,
+                    44.2667
+                ],
+                [
+                    19.43942,
+                    44.26365
+                ],
+                [
+                    19.44421,
+                    44.26002
+                ],
+                [
+                    19.44317,
+                    44.25847
+                ],
+                [
+                    19.43493,
+                    44.25767
+                ],
+                [
+                    19.43436,
+                    44.25911
+                ],
+                [
+                    19.43007,
+                    44.25534
+                ],
+                [
+                    19.42222,
+                    44.25519
+                ],
+                [
+                    19.42552,
+                    44.25061
+                ],
+                [
+                    19.4083,
+                    44.23608
+                ],
+                [
+                    19.39637,
+                    44.2306
+                ],
+                [
+                    19.39492,
+                    44.22765
+                ],
+                [
+                    19.37113,
+                    44.22239
+                ],
+                [
+                    19.36786,
+                    44.21872
+                ],
+                [
+                    19.36947,
+                    44.21004
+                ],
+                [
+                    19.36604,
+                    44.20336
+                ],
+                [
+                    19.3676,
+                    44.19876
+                ],
+                [
+                    19.37177,
+                    44.19816
+                ],
+                [
+                    19.3696,
+                    44.19396
+                ],
+                [
+                    19.37495,
+                    44.18959
+                ]
+            ],
+            [
+                [
+                    19.37495,
+                    44.18959
+                ],
+                [
+                    19.39017,
+                    44.18653
+                ],
+                [
+                    19.40667,
+                    44.17971
+                ],
+                [
+                    19.40835,
+                    44.18099
+                ],
+                [
+                    19.41973,
+                    44.17371
+                ],
+                [
+                    19.43345,
+                    44.16981
+                ],
+                [
+                    19.43512,
+                    44.1706
+                ],
+                [
+                    19.43141,
+                    44.17416
+                ],
+                [
+                    19.42958,
+                    44.1835
+                ],
+                [
+                    19.44536,
+                    44.19369
+                ],
+                [
+                    19.4603,
+                    44.19209
+                ],
+                [
+                    19.47154,
+                    44.19664
+                ],
+                [
+                    19.48367,
+                    44.19548
+                ],
+                [
+                    19.50391,
+                    44.19761
+                ],
+                [
+                    19.51059,
+                    44.19314
+                ],
+                [
+                    19.51115,
+                    44.18342
+                ],
+                [
+                    19.52247,
+                    44.17853
+                ],
+                [
+                    19.52527,
+                    44.17978
+                ],
+                [
+                    19.53549,
+                    44.17808
+                ],
+                [
+                    19.5473,
+                    44.1868
+                ],
+                [
+                    19.55103,
+                    44.18448
+                ],
+                [
+                    19.55703,
+                    44.18421
+                ],
+                [
+                    19.56177,
+                    44.18634
+                ],
+                [
+                    19.56504,
+                    44.18508
+                ]
+            ],
+            [
+                [
+                    19.56504,
+                    44.18508
+                ],
+                [
+                    19.56674,
+                    44.18261
+                ],
+                [
+                    19.5784,
+                    44.17925
+                ],
+                [
+                    19.58244,
+                    44.17563
+                ],
+                [
+                    19.59907,
+                    44.17412
+                ],
+                [
+                    19.60475,
+                    44.16881
+                ],
+                [
+                    19.62069,
+                    44.16529
+                ],
+                [
+                    19.62582,
+                    44.16168
+                ],
+                [
+                    19.6367,
+                    44.15978
+                ],
+                [
+                    19.65419,
+                    44.16085
+                ],
+                [
+                    19.65921,
+                    44.15905
+                ],
+                [
+                    19.66666,
+                    44.16098
+                ],
+                [
+                    19.66892,
+                    44.1568
+                ],
+                [
+                    19.68734,
+                    44.15689
+                ],
+                [
+                    19.69087,
+                    44.15478
+                ],
+                [
+                    19.69168,
+                    44.15076
+                ]
+            ],
+            [
+                [
+                    19.69168,
+                    44.15076
+                ],
+                [
+                    19.69492,
+                    44.14543
+                ],
+                [
+                    19.70754,
+                    44.14097
+                ],
+                [
+                    19.70968,
+                    44.1422
+                ],
+                [
+                    19.72091,
+                    44.13954
+                ],
+                [
+                    19.72486,
+                    44.14265
+                ],
+                [
+                    19.73129,
+                    44.14282
+                ],
+                [
+                    19.73494,
+                    44.13681
+                ],
+                [
+                    19.75371,
+                    44.13772
+                ],
+                [
+                    19.75438,
+                    44.13995
+                ],
+                [
+                    19.76066,
+                    44.13442
+                ],
+                [
+                    19.76167,
+                    44.13789
+                ],
+                [
+                    19.76615,
+                    44.13951
+                ],
+                [
+                    19.76866,
+                    44.13842
+                ],
+                [
+                    19.7763,
+                    44.14287
+                ]
+            ],
+            [
+                [
+                    19.7763,
+                    44.14287
+                ],
+                [
+                    19.78354,
+                    44.1371
+                ],
+                [
+                    19.78865,
+                    44.13699
+                ],
+                [
+                    19.78907,
+                    44.13914
+                ],
+                [
+                    19.79431,
+                    44.14118
+                ],
+                [
+                    19.79667,
+                    44.14841
+                ],
+                [
+                    19.80161,
+                    44.14967
+                ],
+                [
+                    19.81176,
+                    44.14737
+                ],
+                [
+                    19.81843,
+                    44.15409
+                ],
+                [
+                    19.81877,
+                    44.15753
+                ],
+                [
+                    19.83242,
+                    44.15775
+                ],
+                [
+                    19.83754,
+                    44.15983
+                ],
+                [
+                    19.83856,
+                    44.16685
+                ],
+                [
+                    19.84465,
+                    44.17487
+                ],
+                [
+                    19.8478,
+                    44.17564
+                ],
+                [
+                    19.84496,
+                    44.18061
+                ],
+                [
+                    19.84585,
+                    44.18515
+                ],
+                [
+                    19.84211,
+                    44.19028
+                ],
+                [
+                    19.84597,
+                    44.19535
+                ],
+                [
+                    19.84349,
+                    44.19955
+                ],
+                [
+                    19.84454,
+                    44.20437
+                ],
+                [
+                    19.85031,
+                    44.20685
+                ]
+            ],
+            [
+                [
+                    19.85031,
+                    44.20685
+                ],
+                [
+                    19.85504,
+                    44.20819
+                ],
+                [
+                    19.85417,
+                    44.21323
+                ],
+                [
+                    19.85788,
+                    44.2195
+                ],
+                [
+                    19.855,
+                    44.22129
+                ],
+                [
+                    19.85916,
+                    44.22526
+                ],
+                [
+                    19.8601,
+                    44.23116
+                ],
+                [
+                    19.86708,
+                    44.23708
+                ],
+                [
+                    19.87381,
+                    44.23868
+                ],
+                [
+                    19.87773,
+                    44.24399
+                ],
+                [
+                    19.88366,
+                    44.24444
+                ],
+                [
+                    19.88246,
+                    44.24854
+                ],
+                [
+                    19.88635,
+                    44.25119
+                ],
+                [
+                    19.88361,
+                    44.25371
+                ],
+                [
+                    19.88798,
+                    44.25443
+                ],
+                [
+                    19.88802,
+                    44.25693
+                ],
+                [
+                    19.8929,
+                    44.26037
+                ],
+                [
+                    19.8905,
+                    44.26783
+                ]
+            ],
+            [
+                [
+                    19.8905,
+                    44.26783
+                ],
+                [
+                    19.89343,
+                    44.26039
+                ],
+                [
+                    19.88819,
+                    44.25672
+                ],
+                [
+                    19.88833,
+                    44.25418
+                ],
+                [
+                    19.88516,
+                    44.2535
+                ],
+                [
+                    19.8866,
+                    44.24616
+                ],
+                [
+                    19.88463,
+                    44.24478
+                ],
+                [
+                    19.88878,
+                    44.24199
+                ],
+                [
+                    19.88189,
+                    44.23679
+                ],
+                [
+                    19.88738,
+                    44.22934
+                ],
+                [
+                    19.8915,
+                    44.22842
+                ],
+                [
+                    19.88937,
+                    44.22554
+                ],
+                [
+                    19.88258,
+                    44.22595
+                ],
+                [
+                    19.88237,
+                    44.21948
+                ],
+                [
+                    19.87873,
+                    44.21635
+                ],
+                [
+                    19.88036,
+                    44.21419
+                ],
+                [
+                    19.8724,
+                    44.20721
+                ],
+                [
+                    19.8741,
+                    44.20586
+                ],
+                [
+                    19.8755,
+                    44.20763
+                ],
+                [
+                    19.87996,
+                    44.20499
+                ],
+                [
+                    19.87582,
+                    44.19939
+                ],
+                [
+                    19.87733,
+                    44.19377
+                ],
+                [
+                    19.89508,
+                    44.18374
+                ],
+                [
+                    19.89818,
+                    44.17869
+                ],
+                [
+                    19.90359,
+                    44.1779
+                ]
+            ],
+            [
+                [
+                    19.90359,
+                    44.1779
+                ],
+                [
+                    19.90553,
+                    44.17928
+                ],
+                [
+                    19.91931,
+                    44.17346
+                ],
+                [
+                    19.93031,
+                    44.17279
+                ],
+                [
+                    19.93986,
+                    44.16526
+                ],
+                [
+                    19.94661,
+                    44.15492
+                ],
+                [
+                    19.9495,
+                    44.15296
+                ],
+                [
+                    19.95628,
+                    44.15389
+                ],
+                [
+                    19.95556,
+                    44.14807
+                ],
+                [
+                    19.96539,
+                    44.14478
+                ],
+                [
+                    19.96862,
+                    44.13667
+                ],
+                [
+                    19.98464,
+                    44.13647
+                ],
+                [
+                    19.9895,
+                    44.13071
+                ],
+                [
+                    19.99485,
+                    44.12922
+                ],
+                [
+                    20.01371,
+                    44.1321
+                ],
+                [
+                    20.0137,
+                    44.12929
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/e7-8/",
+        "canonical_url": "https://pss.rs/terenipp/e7-8/",
+        "pss_id": 3728,
+        "updated_at": "2024-12-07T21:26:28Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:50:59Z",
+        "last_synced_at": "2026-11-08T12:50:59Z"
+    },
+    "search": "krupanj - divcibare e7-8 zapadna srbija bobija brdjanka psk • sokograd, • ljubovija, • kanjon reke tresnjice, • klisura reke gradac, • grad valjevo, • manastiri pustinja, celije i lelic, • divcibare zahtevna • iz krupnja put e7 prelazi preko sokolskih planina ciji je najvisi vrh rozanj 973 metra i kroz podrucje bregovite azbukovice silazi ka ostacima starog utvrdjenja soko grad ispod koga je krajem proslog veka podignut veliki pravoslavni manastir sv. nikolaja zickog. put dalje vodi ka varosici ljubovija, na reci drini. na ovom delu trase puta nalaze se brojna rasuta planinska sela sa sacuvanom lokalnom arhitekturom i tradicijom pripreme lokalnih specijaliteta. kraj je poznat po proizvodnji voca, posebno sljiva od kojih se pravi cuvena rakija srpska sljivovica. • grad ljubovija nalazi se na uscu recice ljubovidje u reku drinu. na reci drini koja spada u najcistije reke evrope odrzavaju se brojne manifestacije, ribolov, rafting, sportovi na vodi i dr. u celoj okolini razvijen je seoski turizam u velikom broju domacinstava. • nakon ljubovije put e7 podize se prema valjevskim planinama i prolazi iznad kanjona reke tresnjice, specijalnog rezervata prirode. • u ovom kanjonu koji je prirodno veoma atraktivan nalazi se kolonija beloglavih supova o kojima brinu lokalna ekoloska drustva. put e7 ide, preko prevoja debelo brdo, vencem valjevskih planina visine od 1000 do 1300 metara, kroz relativno pitomi planinski kraj, a zatim silazi u podgorinu valjevskih planina na krasku povrs sela leskovica i lelic. zanimljiv je ovaj prolazak kroz raznovrsne oblike reljefa koji se smenjuju u svojoj raznovrsnosti, kanjoni, vrtace, ponori, pecine. • sa desne strane puta nalazi se kanjon reke gradac koji je takodje pod rezimom zastite zahvaljujuci sacuvanoj izvornoj cistoci vode i prirode. zatim put e7 silazi u grad valjevo, crediste regiona. • grad valjevo predstavlja vazan istorijski, kulturni i privredni centar ovog kraja srbije. arheoloski podaci govore o njegovom preromanckom naseljavan",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:50:59Z"
+    }
+}

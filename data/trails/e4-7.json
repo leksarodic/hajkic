@@ -1,0 +1,916 @@
+{
+    "schema_version": 1,
+    "slug": "e4-7",
+    "name": "Veliko Gradište - Beljanica vrh",
+    "code": "E4-7",
+    "category": {
+        "key": "evropski-pesacki-putevi-u-srbiji",
+        "label": "Evropski pešački putevi u Srbiji"
+    },
+    "pss": {
+        "post_id": 3668,
+        "category_id": 29,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            53
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Braničevo",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevan"
+    },
+    "distance": {
+        "official_km": 149.6,
+        "calculated_km": 150.28
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": 6565.0,
+        "official_loss_m": 6545.0,
+        "calculated_gain_m": 0.0,
+        "calculated_loss_m": 0.0,
+        "min_m": 0.0,
+        "max_m": 0.0
+    },
+    "start": null,
+    "end": null,
+    "description": "• Desnom obalom Dunava, koji je u ovom delu veliko jezero, put E4 ide\nprema gradu Golupcu sa tvrđavom iz XIV veka. Tvrđava je štitila\nulaz u veliku klisuru Dunava-Đerdap, koja se u Rumuniji zove Port\nFere (Gvozdena vrata). Odavde počinje teritorija Nacionalnog parka\nĐerdap. Od Golupca pešački put napušta uzanu obalu reke i ulazi u\nplaninski masiv Severnog Kučaja, prema gradu Kučevo i zlatonosnoj\nreci Pek. Iz reke je tradicionalnim načinom ispirano zlato iz rečnog\nnanosa. Rimski car Hadrijan ovde je imao rudnike zlata i srebra od\nčega je kovao zlatni novac sa svojim likom. Na mestu današnjeg Kučeva\nbio je utvrđen grad Guduskum. U ovom kraju pored izvanredne lepote\nu čistoće prirode, vrela, reka i šuma, prisustvovaćete sačuvanim\nčudesnim običajima etno nasleđa. Ovim krajevima u HІH veku putovao\nje putopisac Žigmund Avgust Heder i opisao tradiciju ispiranja\nzlata iz rečnog nanosa.\n\n • Na daljem pravcu puta prema klisuri reke Mlave i Gornjaku preko\nHomoljskih planina nalaze se raznovrsni prirodni geomorfološki\nfenomeni karstne oblasti Homolja, izvori. vrela, ponornice, kanjoni\ni pećine. Poznate su pećine Ceremošnja, Duboka i Ravništarka kod\nKučeva.\n\n • Kod Žagubice se nalazi izvor reke Mlave koji ističe iz velikog vrela\nuzlaznog tipa. U lepoj i očuvanoj prirodi smešteni su srednjevekovni\nmanastiri Tumane kod Golupca i manastir Gornjak u klisuri reke\nMlave. Homoljske planine su izvanredan prostor za sve vrste aktivnog\nistraživačkog turizma u otvorenoj prirodi.",
+    "landmarks": "Golubac, Zlatni Pek, manastiri Tumane i Gornjak, pećine: Ceremošnja, Duboka, Ravništarka, Majdanpek, Rudna glava, Rajkova pećina, Lepenski vir",
+    "maintenance": null,
+    "marking": "evropska crveno-žuta",
+    "accommodation": "V. Gradište, Golubac, Kučevo, Krupaja, Žagubica, Majdanpek",
+    "notes": "• E4-7-1 Veliko Gradište – Golubac 18,0 km\n\n • E4-7-2 Golubac – Tumane 16,2 km\n\n • E4-7-3 Tumane – Duboka 17,1 km\n\n • E4-7-4 Duboka – Kučevo 14,0 km\n\n • E4-7-5 Kučevo – Štubej vrh 20,8 km\n\n • E4-7-6 Štubej vrh – Manastir Gornjak 28,9 km\n\n • E4-7-7 Manastir Gornjak – Milanovac 18,1 km\n\n • E4-7-8 Milanovac – Beljanica vrh 16,5 km",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Gornjak PD",
+        "url": "https://pss.rs/adresar_klubova/gornjak-pd/",
+        "contact": "Prvomajska bb, 12300 Petrovac na Mlavi\n+38164 2345 518 ; +38163 696 682\nhttp://www.gornjak.org.rs",
+        "clubs": [
+            {
+                "name": "Gornjak PD",
+                "url": "https://pss.rs/adresar_klubova/gornjak-pd/",
+                "contact": "Prvomajska bb, 12300 Petrovac na Mlavi\n+38164 2345 518 ; +38163 696 682\nhttp://www.gornjak.org.rs"
+            },
+            {
+                "name": "Vukan PK",
+                "url": "https://pss.rs/adresar_klubova/vukan-pk/",
+                "contact": "Voje Dulića 41 12000 Požerevac\n+38164 280 6730; +38163 8826271\nhttp://www.pkvukan.rs"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/E4-7-V-Gradiste-Beljanica-vrh.gpx",
+        "fetched_at": "2026-11-08T12:50:35Z",
+        "checked_at": "2026-11-08T12:50:35Z",
+        "bytes": 501517,
+        "sha256": "8935fcf139785d59906ddb621cff5ebfbad1f6829d370e6e637b8966fad1a64d",
+        "etag": null,
+        "last_modified": "Thu, 05 Dec 2024 23:02:58 GMT",
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": 6950,
+        "tracks": 8,
+        "segments": 8,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/E4-7-V-Gradiste-Beljanica-vrh.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/e4-7.geojson",
+        "bbox": [
+            21.514744902,
+            44.11152994,
+            21.764784884,
+            44.761556908
+        ],
+        "center": [
+            21.639765,
+            44.436543
+        ],
+        "start_point": [
+            21.514744902,
+            44.761556908
+        ],
+        "end_point": [
+            21.699864846,
+            44.11152994
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.51474,
+                    44.76156
+                ],
+                [
+                    21.54004,
+                    44.75012
+                ],
+                [
+                    21.54502,
+                    44.74112
+                ],
+                [
+                    21.56004,
+                    44.73587
+                ],
+                [
+                    21.55725,
+                    44.73217
+                ],
+                [
+                    21.57527,
+                    44.72229
+                ],
+                [
+                    21.5773,
+                    44.71845
+                ],
+                [
+                    21.57575,
+                    44.71473
+                ],
+                [
+                    21.60751,
+                    44.71
+                ],
+                [
+                    21.60393,
+                    44.69943
+                ],
+                [
+                    21.60416,
+                    44.68608
+                ],
+                [
+                    21.60162,
+                    44.68486
+                ],
+                [
+                    21.60576,
+                    44.68134
+                ],
+                [
+                    21.61393,
+                    44.66266
+                ],
+                [
+                    21.6233,
+                    44.65452
+                ]
+            ],
+            [
+                [
+                    21.6233,
+                    44.65452
+                ],
+                [
+                    21.63877,
+                    44.65264
+                ],
+                [
+                    21.65496,
+                    44.6552
+                ],
+                [
+                    21.66313,
+                    44.65131
+                ],
+                [
+                    21.66416,
+                    44.65333
+                ],
+                [
+                    21.66903,
+                    44.65387
+                ],
+                [
+                    21.66638,
+                    44.65473
+                ],
+                [
+                    21.66782,
+                    44.65584
+                ],
+                [
+                    21.6879,
+                    44.64445
+                ],
+                [
+                    21.68404,
+                    44.64385
+                ],
+                [
+                    21.68075,
+                    44.63838
+                ],
+                [
+                    21.68541,
+                    44.6357
+                ],
+                [
+                    21.67446,
+                    44.63281
+                ],
+                [
+                    21.67201,
+                    44.6212
+                ],
+                [
+                    21.66901,
+                    44.61804
+                ],
+                [
+                    21.66411,
+                    44.61712
+                ],
+                [
+                    21.66384,
+                    44.61458
+                ],
+                [
+                    21.6678,
+                    44.61195
+                ],
+                [
+                    21.66764,
+                    44.60592
+                ],
+                [
+                    21.66633,
+                    44.60176
+                ],
+                [
+                    21.66194,
+                    44.59924
+                ],
+                [
+                    21.65879,
+                    44.58739
+                ]
+            ],
+            [
+                [
+                    21.6588,
+                    44.58735
+                ],
+                [
+                    21.66291,
+                    44.58624
+                ],
+                [
+                    21.66717,
+                    44.58102
+                ],
+                [
+                    21.66773,
+                    44.56916
+                ],
+                [
+                    21.67727,
+                    44.5686
+                ],
+                [
+                    21.66971,
+                    44.55861
+                ],
+                [
+                    21.67598,
+                    44.55035
+                ],
+                [
+                    21.687,
+                    44.5513
+                ],
+                [
+                    21.68301,
+                    44.5523
+                ],
+                [
+                    21.68462,
+                    44.55531
+                ],
+                [
+                    21.69131,
+                    44.55559
+                ],
+                [
+                    21.6983,
+                    44.55339
+                ],
+                [
+                    21.70546,
+                    44.55636
+                ],
+                [
+                    21.70911,
+                    44.55597
+                ],
+                [
+                    21.71201,
+                    44.55498
+                ],
+                [
+                    21.70923,
+                    44.55243
+                ],
+                [
+                    21.71072,
+                    44.5441
+                ],
+                [
+                    21.72165,
+                    44.54165
+                ],
+                [
+                    21.72548,
+                    44.53606
+                ],
+                [
+                    21.72824,
+                    44.53565
+                ],
+                [
+                    21.72999,
+                    44.53776
+                ],
+                [
+                    21.73577,
+                    44.53685
+                ],
+                [
+                    21.74873,
+                    44.52602
+                ],
+                [
+                    21.75994,
+                    44.52254
+                ]
+            ],
+            [
+                [
+                    21.75998,
+                    44.52252
+                ],
+                [
+                    21.76329,
+                    44.52015
+                ],
+                [
+                    21.76476,
+                    44.51311
+                ],
+                [
+                    21.75829,
+                    44.50639
+                ],
+                [
+                    21.73437,
+                    44.50651
+                ],
+                [
+                    21.72467,
+                    44.50828
+                ],
+                [
+                    21.72331,
+                    44.50592
+                ],
+                [
+                    21.71518,
+                    44.50494
+                ],
+                [
+                    21.7121,
+                    44.51148
+                ],
+                [
+                    21.70589,
+                    44.51428
+                ],
+                [
+                    21.69884,
+                    44.50963
+                ],
+                [
+                    21.69264,
+                    44.51295
+                ],
+                [
+                    21.68495,
+                    44.50873
+                ],
+                [
+                    21.68299,
+                    44.49974
+                ],
+                [
+                    21.67687,
+                    44.49622
+                ],
+                [
+                    21.67591,
+                    44.48786
+                ],
+                [
+                    21.66961,
+                    44.48295
+                ],
+                [
+                    21.66848,
+                    44.47854
+                ]
+            ],
+            [
+                [
+                    21.66849,
+                    44.47853
+                ],
+                [
+                    21.65303,
+                    44.44949
+                ],
+                [
+                    21.64143,
+                    44.44495
+                ],
+                [
+                    21.63011,
+                    44.44588
+                ],
+                [
+                    21.62642,
+                    44.44278
+                ],
+                [
+                    21.62665,
+                    44.43759
+                ],
+                [
+                    21.63263,
+                    44.43425
+                ],
+                [
+                    21.63141,
+                    44.42449
+                ],
+                [
+                    21.63466,
+                    44.42169
+                ],
+                [
+                    21.63827,
+                    44.42186
+                ],
+                [
+                    21.63318,
+                    44.41425
+                ],
+                [
+                    21.62863,
+                    44.4124
+                ],
+                [
+                    21.62888,
+                    44.40758
+                ],
+                [
+                    21.62282,
+                    44.40355
+                ],
+                [
+                    21.62166,
+                    44.39626
+                ],
+                [
+                    21.62552,
+                    44.39102
+                ],
+                [
+                    21.63079,
+                    44.39275
+                ],
+                [
+                    21.63498,
+                    44.39035
+                ],
+                [
+                    21.63799,
+                    44.38387
+                ],
+                [
+                    21.63941,
+                    44.38652
+                ],
+                [
+                    21.64027,
+                    44.38482
+                ],
+                [
+                    21.6366,
+                    44.37544
+                ],
+                [
+                    21.63384,
+                    44.37865
+                ],
+                [
+                    21.63129,
+                    44.3786
+                ],
+                [
+                    21.63437,
+                    44.36459
+                ],
+                [
+                    21.62919,
+                    44.35844
+                ]
+            ],
+            [
+                [
+                    21.62923,
+                    44.35846
+                ],
+                [
+                    21.63346,
+                    44.35689
+                ],
+                [
+                    21.63456,
+                    44.35112
+                ],
+                [
+                    21.62875,
+                    44.34682
+                ],
+                [
+                    21.61776,
+                    44.34602
+                ],
+                [
+                    21.61744,
+                    44.33933
+                ],
+                [
+                    21.6129,
+                    44.33671
+                ],
+                [
+                    21.59965,
+                    44.33714
+                ],
+                [
+                    21.59416,
+                    44.33449
+                ],
+                [
+                    21.58558,
+                    44.33791
+                ],
+                [
+                    21.57324,
+                    44.32962
+                ],
+                [
+                    21.56839,
+                    44.32958
+                ],
+                [
+                    21.56341,
+                    44.33261
+                ],
+                [
+                    21.56096,
+                    44.32822
+                ],
+                [
+                    21.55584,
+                    44.33004
+                ],
+                [
+                    21.55904,
+                    44.32066
+                ],
+                [
+                    21.56674,
+                    44.31681
+                ],
+                [
+                    21.56123,
+                    44.30997
+                ],
+                [
+                    21.55456,
+                    44.31171
+                ],
+                [
+                    21.55332,
+                    44.31006
+                ],
+                [
+                    21.5564,
+                    44.30698
+                ],
+                [
+                    21.55245,
+                    44.3081
+                ],
+                [
+                    21.54651,
+                    44.30481
+                ],
+                [
+                    21.53514,
+                    44.31215
+                ],
+                [
+                    21.52803,
+                    44.31429
+                ],
+                [
+                    21.52223,
+                    44.31308
+                ],
+                [
+                    21.52109,
+                    44.30163
+                ],
+                [
+                    21.53322,
+                    44.30457
+                ],
+                [
+                    21.53853,
+                    44.30002
+                ],
+                [
+                    21.53542,
+                    44.29533
+                ],
+                [
+                    21.5373,
+                    44.28603
+                ],
+                [
+                    21.54613,
+                    44.27999
+                ],
+                [
+                    21.54192,
+                    44.27922
+                ],
+                [
+                    21.53971,
+                    44.27564
+                ],
+                [
+                    21.5364,
+                    44.2798
+                ],
+                [
+                    21.53235,
+                    44.274
+                ],
+                [
+                    21.53479,
+                    44.27173
+                ],
+                [
+                    21.54007,
+                    44.2712
+                ],
+                [
+                    21.54236,
+                    44.26837
+                ],
+                [
+                    21.54691,
+                    44.26978
+                ],
+                [
+                    21.54429,
+                    44.26589
+                ]
+            ],
+            [
+                [
+                    21.5443,
+                    44.26589
+                ],
+                [
+                    21.53772,
+                    44.25999
+                ],
+                [
+                    21.5366,
+                    44.25648
+                ],
+                [
+                    21.54083,
+                    44.25553
+                ],
+                [
+                    21.53704,
+                    44.25476
+                ],
+                [
+                    21.53483,
+                    44.25022
+                ],
+                [
+                    21.54403,
+                    44.24822
+                ],
+                [
+                    21.54067,
+                    44.24542
+                ],
+                [
+                    21.54266,
+                    44.24005
+                ],
+                [
+                    21.54032,
+                    44.23487
+                ],
+                [
+                    21.54241,
+                    44.23649
+                ],
+                [
+                    21.55059,
+                    44.22826
+                ],
+                [
+                    21.55261,
+                    44.23324
+                ],
+                [
+                    21.55754,
+                    44.23406
+                ],
+                [
+                    21.55987,
+                    44.22883
+                ],
+                [
+                    21.56379,
+                    44.22752
+                ],
+                [
+                    21.56698,
+                    44.22307
+                ],
+                [
+                    21.57534,
+                    44.22302
+                ],
+                [
+                    21.57908,
+                    44.21115
+                ],
+                [
+                    21.57237,
+                    44.19263
+                ],
+                [
+                    21.57591,
+                    44.19393
+                ],
+                [
+                    21.58144,
+                    44.19252
+                ],
+                [
+                    21.58118,
+                    44.19016
+                ],
+                [
+                    21.5911,
+                    44.18465
+                ],
+                [
+                    21.60469,
+                    44.18393
+                ]
+            ],
+            [
+                [
+                    21.6047,
+                    44.18394
+                ],
+                [
+                    21.60824,
+                    44.17858
+                ],
+                [
+                    21.6193,
+                    44.18352
+                ],
+                [
+                    21.63227,
+                    44.17969
+                ],
+                [
+                    21.64482,
+                    44.16491
+                ],
+                [
+                    21.63983,
+                    44.15617
+                ],
+                [
+                    21.65637,
+                    44.14484
+                ],
+                [
+                    21.66458,
+                    44.14389
+                ],
+                [
+                    21.66491,
+                    44.13633
+                ],
+                [
+                    21.66884,
+                    44.13101
+                ],
+                [
+                    21.67509,
+                    44.12878
+                ],
+                [
+                    21.67545,
+                    44.1265
+                ],
+                [
+                    21.68472,
+                    44.1282
+                ],
+                [
+                    21.69612,
+                    44.12614
+                ],
+                [
+                    21.70563,
+                    44.12184
+                ],
+                [
+                    21.71047,
+                    44.12199
+                ],
+                [
+                    21.70505,
+                    44.12015
+                ],
+                [
+                    21.69986,
+                    44.11153
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": [
+            "missing_elevation"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/e4-7/",
+        "canonical_url": "https://pss.rs/terenipp/e4-7/",
+        "pss_id": 3668,
+        "updated_at": "2024-12-05T23:03:16Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:50:36Z",
+        "last_synced_at": "2026-11-08T12:50:36Z"
+    },
+    "search": "veliko gradiste - beljanica vrh e4-7 istocna srbija branicevo gornjak pd golubac, zlatni pek, manastiri tumane i gornjak, pecine: ceremosnja, duboka, ravnistarka, majdanpek, rudna glava, rajkova pecina, lepenski vir zahtevna • desnom obalom dunava, koji je u ovom delu veliko jezero, put e4 ide prema gradu golupcu sa tvrdjavom iz xiv veka. tvrdjava je stitila ulaz u veliku klisuru dunava-djerdap, koja se u rumuniji zove port fere (gvozdena vrata). odavde pocinje teritorija nacionalnog parka djerdap. od golupca pesacki put napusta uzanu obalu reke i ulazi u planinski masiv severnog kucaja, prema gradu kucevo i zlatonosnoj reci pek. iz reke je tradicionalnim nacinom ispirano zlato iz recnog nanosa. rimski car hadrijan ovde je imao rudnike zlata i srebra od cega je kovao zlatni novac sa svojim likom. na mestu danasnjeg kuceva bio je utvrdjen grad guduskum. u ovom kraju pored izvanredne lepote u cistoce prirode, vrela, reka i suma, prisustvovacete sacuvanim cudesnim obicajima etno nasledja. ovim krajevima u hіh veku putovao je putopisac zigmund avgust heder i opisao tradiciju ispiranja zlata iz recnog nanosa. • na daljem pravcu puta prema klisuri reke mlave i gornjaku preko homoljskih planina nalaze se raznovrsni prirodni geomorfoloski fenomeni karstne oblasti homolja, izvori. vrela, ponornice, kanjoni i pecine. poznate su pecine ceremosnja, duboka i ravnistarka kod kuceva. • kod zagubice se nalazi izvor reke mlave koji istice iz velikog vrela uzlaznog tipa. u lepoj i ocuvanoj prirodi smesteni su srednjevekovni manastiri tumane kod golupca i manastir gornjak u klisuri reke mlave. homoljske planine su izvanredan prostor za sve vrste aktivnog istrazivackog turizma u otvorenoj prirodi.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:50:36Z"
+    }
+}

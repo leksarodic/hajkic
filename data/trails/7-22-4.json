@@ -1,0 +1,112 @@
+{
+    "schema_version": 1,
+    "slug": "7-22-4",
+    "name": "Donji Del – Veliki Čemernik (staza br. 6)",
+    "code": "7-22-4",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 28529,
+        "category_id": 28,
+        "region_ids": [
+            7
+        ],
+        "mountain_ids": [
+            78
+        ]
+    },
+    "region": "Jugoistočna Srbija",
+    "mountain": "Čemernik",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 11.3,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": null,
+        "official_loss_m": null,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": null,
+    "end": null,
+    "description": "STAZA U FAZI REALIZACIJE PROJEKTA",
+    "landmarks": null,
+    "maintenance": "zapuštena",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": null,
+    "club": null,
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": false,
+        "status": "missing",
+        "source_url": null,
+        "fetched_at": null,
+        "checked_at": "2026-11-08T12:06:26Z",
+        "bytes": null,
+        "sha256": null,
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": null,
+        "tracks": null,
+        "segments": null,
+        "waypoints": null,
+        "error": null,
+        "download": {
+            "mode": "none",
+            "url": null
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_gpx"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/7-22-4/",
+        "canonical_url": "https://pss.rs/terenipp/7-22-4/",
+        "pss_id": 28529,
+        "updated_at": "2026-08-31T08:23:35Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:06:26Z",
+        "last_synced_at": "2026-11-08T12:06:26Z"
+    },
+    "search": "donji del – veliki cemernik (staza br. 6) 7-22-4 jugoistocna srbija cemernik laka staza u fazi realizacije projekta",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:06:26Z"
+    }
+}

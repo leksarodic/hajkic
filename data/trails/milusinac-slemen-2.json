@@ -1,0 +1,179 @@
+{
+    "schema_version": 1,
+    "slug": "milusinac-slemen-2",
+    "name": "Milušinac - Slemen",
+    "code": "4-37-2",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 8308,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            73
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Slemen",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 7.0,
+        "calculated_km": 6.73
+    },
+    "duration": {
+        "official_minutes": 180,
+        "official_text": "3 h",
+        "official_raw": "3:00"
+    },
+    "elevation": {
+        "official_gain_m": 649.0,
+        "official_loss_m": 0.0,
+        "calculated_gain_m": 701.7,
+        "calculated_loss_m": 46.2,
+        "min_m": 441.3,
+        "max_m": 1097.1
+    },
+    "start": "Milušinac, centar sela, 450m",
+    "end": "Slemen, vrh (spomenik), 1099m",
+    "description": "Slemen (južna strana i vrh)",
+    "landmarks": "• Spomenik iz Slemenske bitke\n\n • Crkva\n\n • Vidikovci: Srednji rt i vrh Slemena\n\n • Na stazi ima izvor pitke vode\n\n • Na trasi nema smeštaja",
+    "maintenance": "delimično uređena",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu je trasiralo PD \"Oštra Čuka\" marta 2014. godine.\n\n • Poslednji put staza je markirana marta 2014. godine.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Oštra čuka PD",
+        "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+        "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/",
+        "clubs": [
+            {
+                "name": "Oštra čuka PD",
+                "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+                "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2019/02/4-37-2-Milusinac-Slemen.gpx",
+        "fetched_at": "2026-11-08T12:00:02Z",
+        "checked_at": "2026-11-08T12:00:02Z",
+        "bytes": 187885,
+        "sha256": "db7a291d86a0cd88f846a295b85bf2f02acb68fa112a2b8298adc14099da9e90",
+        "etag": null,
+        "last_modified": "Tue, 12 Feb 2019 14:59:56 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 1152,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 4,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2019/02/4-37-2-Milusinac-Slemen.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/milusinac-slemen-2.geojson",
+        "bbox": [
+            22.011260027065873,
+            43.66701202467084,
+            22.05543198622763,
+            43.689520033076406
+        ],
+        "center": [
+            22.033346,
+            43.678266
+        ],
+        "start_point": [
+            22.011260027065873,
+            43.66947999224067
+        ],
+        "end_point": [
+            22.05521699041128,
+            43.689520033076406
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    22.01126,
+                    43.66948
+                ],
+                [
+                    22.0235,
+                    43.66709
+                ],
+                [
+                    22.02837,
+                    43.67614
+                ],
+                [
+                    22.02906,
+                    43.67481
+                ],
+                [
+                    22.036,
+                    43.67538
+                ],
+                [
+                    22.04055,
+                    43.67745
+                ],
+                [
+                    22.05101,
+                    43.68665
+                ],
+                [
+                    22.05542,
+                    43.68689
+                ],
+                [
+                    22.05311,
+                    43.68874
+                ],
+                [
+                    22.05522,
+                    43.68952
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/milusinac-slemen-2/",
+        "canonical_url": "https://pss.rs/terenipp/milusinac-slemen-2/",
+        "pss_id": 8308,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:00:03Z",
+        "last_synced_at": "2026-11-08T12:00:03Z"
+    },
+    "search": "milusinac - slemen 4-37-2 istocna srbija slemen milusinac, centar sela, 450m slemen, vrh (spomenik), 1099m ostra cuka pd • spomenik iz slemenske bitke • crkva • vidikovci: srednji rt i vrh slemena • na stazi ima izvor pitke vode • na trasi nema smestaja zahtevna slemen (juzna strana i vrh)",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:00:03Z"
+    }
+}

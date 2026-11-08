@@ -1,0 +1,193 @@
+{
+    "schema_version": 1,
+    "slug": "vrbovac-djurkov-vrh",
+    "name": "Vrbovac- Đurkov vrh",
+    "code": "4-29-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 3833,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            75
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Rožanj",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 7.0,
+        "calculated_km": 7.03
+    },
+    "duration": {
+        "official_minutes": 120,
+        "official_text": "2 h",
+        "official_raw": "2:00"
+    },
+    "elevation": {
+        "official_gain_m": 357.0,
+        "official_loss_m": 177.0,
+        "calculated_gain_m": 354.6,
+        "calculated_loss_m": 183.1,
+        "min_m": 347.6,
+        "max_m": 556.4
+    },
+    "start": "Vrbovac- centar sela, 370 mnv",
+    "end": "Đurkov vrh, 544 mnv",
+    "description": null,
+    "landmarks": "• Crkva sv. Nikole\n\n • Vidikovac Đurkov vrh\n\n • Na stazi ima izvor pitke vode\n\n • Na stazi nema smeštaja",
+    "maintenance": "delimično uređena",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu je trasiralo PD \"Ošta čuka\", septembra 2014. god.\n\n • Staza je poslednji put markirana septembra 2014. god.",
+    "map_reference": null,
+    "map_sheet": "532-3-2 Aleksinac",
+    "club": {
+        "name": "Oštra čuka PD",
+        "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+        "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/",
+        "clubs": [
+            {
+                "name": "Oštra čuka PD",
+                "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+                "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/4-29-1-Vrbovac-Djurkov-vrh.gpx",
+        "fetched_at": "2026-11-08T11:55:40Z",
+        "checked_at": "2026-11-08T11:55:40Z",
+        "bytes": 204835,
+        "sha256": "2f24a67d96cf0216455d46b0a555634047ad7efc3b8b0947a0052dd1b05d0fae",
+        "etag": null,
+        "last_modified": "Fri, 21 Dec 2018 08:35:09 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 1264,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 3,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/4-29-1-Vrbovac-Djurkov-vrh.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/vrbovac-djurkov-vrh.geojson",
+        "bbox": [
+            21.73568501137197,
+            43.66365917958319,
+            21.751188347116113,
+            43.68526998907328
+        ],
+        "center": [
+            21.743437,
+            43.674465
+        ],
+        "start_point": [
+            21.750061651691794,
+            43.683329997584224
+        ],
+        "end_point": [
+            21.73688990995288,
+            43.66365917958319
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.75006,
+                    43.68333
+                ],
+                [
+                    21.74919,
+                    43.67927
+                ],
+                [
+                    21.75101,
+                    43.67863
+                ],
+                [
+                    21.74504,
+                    43.67718
+                ],
+                [
+                    21.74495,
+                    43.67876
+                ],
+                [
+                    21.74203,
+                    43.67776
+                ],
+                [
+                    21.73978,
+                    43.67917
+                ],
+                [
+                    21.73893,
+                    43.68322
+                ],
+                [
+                    21.7413,
+                    43.68419
+                ],
+                [
+                    21.73576,
+                    43.68505
+                ],
+                [
+                    21.7389,
+                    43.67501
+                ],
+                [
+                    21.74422,
+                    43.67144
+                ],
+                [
+                    21.73689,
+                    43.66366
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/vrbovac-djurkov-vrh/",
+        "canonical_url": "https://pss.rs/terenipp/vrbovac-djurkov-vrh/",
+        "pss_id": 3833,
+        "updated_at": "2018-12-21T08:37:59Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:55:40Z",
+        "last_synced_at": "2026-11-08T11:55:40Z"
+    },
+    "search": "vrbovac- djurkov vrh 4-29-1 istocna srbija rozanj vrbovac- centar sela, 370 mnv djurkov vrh, 544 mnv ostra cuka pd • crkva sv. nikole • vidikovac djurkov vrh • na stazi ima izvor pitke vode • na stazi nema smestaja laka",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:55:40Z"
+    }
+}

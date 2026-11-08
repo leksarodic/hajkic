@@ -1,0 +1,171 @@
+{
+    "schema_version": 1,
+    "slug": "stubej-od-ceremosnje",
+    "name": "Štubej od Ceremošnje",
+    "code": "4-4-5",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 11590,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            54
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Homoljske planine",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 9.6,
+        "calculated_km": 4.64
+    },
+    "duration": {
+        "official_minutes": 360,
+        "official_text": "6 h",
+        "official_raw": "6"
+    },
+    "elevation": {
+        "official_gain_m": 400.0,
+        "official_loss_m": 400.0,
+        "calculated_gain_m": 430.5,
+        "calculated_loss_m": 30.3,
+        "min_m": 542.3,
+        "max_m": 954.7
+    },
+    "start": "Pećina Ceremošnja, 545 m",
+    "end": "Pećina Ceremošnja, 545 m",
+    "description": "Staza kreće od parkinga ispred pećine Ceremošnje, gde postoji restoran. Restoran i pećina ne rade stalno tako da je potrebno ranije pozvati na telefon 012/855-039 i 063/238-090. Od pećine se prvo ide kroz lepu šumu do izlaska na seoski put, njime se stiže do vrha Čuček (822 m). Dalje se prati isti put do pred sam vrh Štubej (940 m). Na vrhu se nalazi predajnik.",
+    "landmarks": "• Pećina Ceremošnja\n\n • Vidikovac: 1\n\n • Selo Ceremošnja",
+    "maintenance": "delimično uređena",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Gornjak PD",
+        "url": "https://pss.rs/adresar_klubova/gornjak-pd/",
+        "contact": "Prvomajska bb, 12300 Petrovac na Mlavi\n+38164 2345 518 ; +38163 696 682\nhttp://www.gornjak.org.rs",
+        "clubs": [
+            {
+                "name": "Gornjak PD",
+                "url": "https://pss.rs/adresar_klubova/gornjak-pd/",
+                "contact": "Prvomajska bb, 12300 Petrovac na Mlavi\n+38164 2345 518 ; +38163 696 682\nhttp://www.gornjak.org.rs"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 7,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2020/06/4-4-5-Ceremosnja-Stubej.gpx",
+        "fetched_at": "2026-11-08T12:00:48Z",
+        "checked_at": "2026-11-08T12:00:48Z",
+        "bytes": 85729,
+        "sha256": "03c1cf7b9d274cda13707484fa1e7f3ad0f5a0b4347a85fb3b676fdcf1a465fe",
+        "etag": null,
+        "last_modified": "Tue, 09 Jun 2020 16:53:14 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 516,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 3,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2020/06/4-4-5-Ceremosnja-Stubej.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/stubej-od-ceremosnje.geojson",
+        "bbox": [
+            21.628781966865063,
+            44.35804001055658,
+            21.638779984787107,
+            44.3833289667964
+        ],
+        "center": [
+            21.633781,
+            44.370684
+        ],
+        "start_point": [
+            21.637900974601507,
+            44.3833289667964
+        ],
+        "end_point": [
+            21.628781966865063,
+            44.35809197835624
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.6379,
+                    44.38333
+                ],
+                [
+                    21.63878,
+                    44.37742
+                ],
+                [
+                    21.63665,
+                    44.37549
+                ],
+                [
+                    21.63387,
+                    44.37861
+                ],
+                [
+                    21.63085,
+                    44.37756
+                ],
+                [
+                    21.63368,
+                    44.37409
+                ],
+                [
+                    21.63438,
+                    44.36456
+                ],
+                [
+                    21.62878,
+                    44.35809
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/stubej-od-ceremosnje/",
+        "canonical_url": "https://pss.rs/terenipp/stubej-od-ceremosnje/",
+        "pss_id": 11590,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:00:48Z",
+        "last_synced_at": "2026-11-08T12:00:48Z"
+    },
+    "search": "stubej od ceremosnje 4-4-5 istocna srbija homoljske planine pecina ceremosnja, 545 m pecina ceremosnja, 545 m gornjak pd • pecina ceremosnja • vidikovac: 1 • selo ceremosnja laka staza krece od parkinga ispred pecine ceremosnje, gde postoji restoran. restoran i pecina ne rade stalno tako da je potrebno ranije pozvati na telefon 012/855-039 i 063/238-090. od pecine se prvo ide kroz lepu sumu do izlaska na seoski put, njime se stize do vrha cucek (822 m). dalje se prati isti put do pred sam vrh stubej (940 m). na vrhu se nalazi predajnik.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:00:48Z"
+    }
+}

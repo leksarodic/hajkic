@@ -1,0 +1,191 @@
+{
+    "schema_version": 1,
+    "slug": "divcibare-centar-planinarski-dom-na-poljanama",
+    "name": "Divčibare centar - Planinarski dom \"Na Poljanama\"",
+    "code": "3-22-5",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 16690,
+        "category_id": 28,
+        "region_ids": [
+            3
+        ],
+        "mountain_ids": [
+            155
+        ]
+    },
+    "region": "Zapadna Srbija",
+    "mountain": "Maljen",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 5.9,
+        "calculated_km": 5.85
+    },
+    "duration": {
+        "official_minutes": 150,
+        "official_text": "2 h 30 min",
+        "official_raw": "2:30"
+    },
+    "elevation": {
+        "official_gain_m": 170.0,
+        "official_loss_m": 149.0,
+        "calculated_gain_m": 190.0,
+        "calculated_loss_m": 169.1,
+        "min_m": 941.7,
+        "max_m": 1084.2
+    },
+    "start": "Centar Divčibara, 945 m",
+    "end": "Planinarski dom \"Na Poljanama\", 1000 m",
+    "description": "• Staza je laka turističko-planinarska. Polazi se iz centra Divčibara severo-istočno pored nove pijace. Kroz vikend naselje dolazimo do putokaza i stazu nastavljamo severno ka vili Plamenac. Na raskrsnici kod vile Plamenac pratimo makadamski put koji se uzbrdo odvaja ka severo-istoku. Par desetina metara staza prolazi obodom oštre krivine na asfaltnom glavnom putu Divčibare-Krčmar i makadamskim putem istočno se odvaja prema livadama. Sa usputnih livada ka jugu se može videti u celosti velika ski staza Crni Vrh.\n\n • Kroz livade dalje se krećemo zemljanim putem koji se kroz šumoviti deo spušta ka Čalačkom potoku. Zatim se krećemo uzvodno stotinak metara do useka u kome se nalaze bandere. U zavisnosti od nivoa vode u potoku u ovom delu od stotinak metara potrebno je na najzgodnijem mestu preći na drugu stranu. Staza se nastavlja uzbrdo severo-istočno pored drvenih bandera do vrha grebena. Sa ovog dela grebena ka zapadu jasno se mogu videti oba repetitora na Golubcu. Dalje se grebenom krećemo zemljanim kolskim putem jugo-istočno. Prolazeći pored vikendica staza se uključuje na širi zemljani put. Na raskršću nastavljamo blago severo-istočno do spomen crkve na Kraljevom stolu (1104 m) posvećene nastradalim vojnicima u NATO bombardovanju.\n\n • Od crkvice glavnim putem spuštamo se ka severu kroz šumu pored vojnog objekta do velike asfaltne raskrsnice. Biramo severo-istočni pravac, a na prvom sledećem raskršću oko 250 m dalje biramo severo-zapadni. Dalje dobro obeležena staza vodi kolskim putem kroz vikend naselje do planinarskog doma na Poljanama. U ovom delu staza se poklapa sa Evropskim pešačkim putem E7-9.\n\n • Planinarski dom na Poljanama je kapaciteta 25 ležajeva i nalazi se u vlasništvu Planinarskog-smučarskog društva Magleš iz Valjeva. Ispred doma se nalazi info tabla na kojoj se može videti geografska karta ovog kraja. Dvesta metara severo-zapadno od doma na glavnom putu Krčmar-Divčibare nalazi se autobusko stajalište koje je udaljeno 4,5 km od centra Divčibara. Više od polovine staze nalazi se u Predelu izuzetnih odlika „Maljen“.",
+    "landmarks": "• Vidikovac: Kraljev sto\n\n • Naselje: Divčibare",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinarski dom na poljanama Maljen",
+    "notes": "• Stazu je trasirao PSD Magleš januara 2022.\n\n • Poslednji put staza je markirana maja 2022.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Magleš PSD",
+        "url": "https://pss.rs/adresar_klubova/magles-psd/",
+        "contact": "Sindjelićeva 14, 14000 Valjevo\n+38114 236 377 ; 064/6461103\nhttps://www.magles.org.rs/",
+        "clubs": [
+            {
+                "name": "Magleš PSD",
+                "url": "https://pss.rs/adresar_klubova/magles-psd/",
+                "contact": "Sindjelićeva 14, 14000 Valjevo\n+38114 236 377 ; 064/6461103\nhttps://www.magles.org.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 12,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2022/04/3-22-5-Centar-Pl.dom-na-Poljanama.gpx",
+        "fetched_at": "2026-11-08T12:02:37Z",
+        "checked_at": "2026-11-08T12:02:37Z",
+        "bytes": 41112,
+        "sha256": "6bc477e77a21a9358556371d9a27ffea1eb283b179471694d0df9b51478afb4a",
+        "etag": null,
+        "last_modified": "Sat, 30 Apr 2022 17:19:23 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 230,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 10,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2022/04/3-22-5-Centar-Pl.dom-na-Poljanama.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/divcibare-centar-planinarski-dom-na-poljanama.geojson",
+        "bbox": [
+            19.99166803434491,
+            44.10475197248161,
+            20.0236380379647,
+            44.12925001233816
+        ],
+        "center": [
+            20.007653,
+            44.117001
+        ],
+        "start_point": [
+            19.99166803434491,
+            44.10475197248161
+        ],
+        "end_point": [
+            20.013715960085392,
+            44.12925001233816
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    19.99167,
+                    44.10475
+                ],
+                [
+                    19.99679,
+                    44.10645
+                ],
+                [
+                    19.99923,
+                    44.11183
+                ],
+                [
+                    20.00378,
+                    44.11423
+                ],
+                [
+                    20.00893,
+                    44.11352
+                ],
+                [
+                    20.01177,
+                    44.11618
+                ],
+                [
+                    20.01738,
+                    44.11406
+                ],
+                [
+                    20.02349,
+                    44.1153
+                ],
+                [
+                    20.01985,
+                    44.11949
+                ],
+                [
+                    20.02158,
+                    44.12102
+                ],
+                [
+                    20.01849,
+                    44.12396
+                ],
+                [
+                    20.01966,
+                    44.12667
+                ],
+                [
+                    20.01372,
+                    44.12925
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/divcibare-centar-planinarski-dom-na-poljanama/",
+        "canonical_url": "https://pss.rs/terenipp/divcibare-centar-planinarski-dom-na-poljanama/",
+        "pss_id": 16690,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:02:38Z",
+        "last_synced_at": "2026-11-08T12:02:38Z"
+    },
+    "search": "divcibare centar - planinarski dom \"na poljanama\" 3-22-5 zapadna srbija maljen centar divcibara, 945 m planinarski dom \"na poljanama\", 1000 m magles psd • vidikovac: kraljev sto • naselje: divcibare laka • staza je laka turisticko-planinarska. polazi se iz centra divcibara severo-istocno pored nove pijace. kroz vikend naselje dolazimo do putokaza i stazu nastavljamo severno ka vili plamenac. na raskrsnici kod vile plamenac pratimo makadamski put koji se uzbrdo odvaja ka severo-istoku. par desetina metara staza prolazi obodom ostre krivine na asfaltnom glavnom putu divcibare-krcmar i makadamskim putem istocno se odvaja prema livadama. sa usputnih livada ka jugu se moze videti u celosti velika ski staza crni vrh. • kroz livade dalje se krecemo zemljanim putem koji se kroz sumoviti deo spusta ka calackom potoku. zatim se krecemo uzvodno stotinak metara do useka u kome se nalaze bandere. u zavisnosti od nivoa vode u potoku u ovom delu od stotinak metara potrebno je na najzgodnijem mestu preci na drugu stranu. staza se nastavlja uzbrdo severo-istocno pored drvenih bandera do vrha grebena. sa ovog dela grebena ka zapadu jasno se mogu videti oba repetitora na golubcu. dalje se grebenom krecemo zemljanim kolskim putem jugo-istocno. prolazeci pored vikendica staza se ukljucuje na siri zemljani put. na raskrscu nastavljamo blago severo-istocno do spomen crkve na kraljevom stolu (1104 m) posvecene nastradalim vojnicima u nato bombardovanju. • od crkvice glavnim putem spustamo se ka severu kroz sumu pored vojnog objekta do velike asfaltne raskrsnice. biramo severo-istocni pravac, a na prvom sledecem raskrscu oko 250 m dalje biramo severo-zapadni. dalje dobro obelezena staza vodi kolskim putem kroz vikend naselje do planinarskog doma na poljanama. u ovom delu staza se poklapa sa evropskim pesackim putem e7-9. • planinarski dom na poljanama je kapaciteta 25 lezajeva i nalazi se u vlasnistvu planinarskog-smucarskog drustva magles iz valjeva. ispred doma se nalazi info tabla na k",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:02:38Z"
+    }
+}

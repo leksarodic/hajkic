@@ -1,0 +1,124 @@
+{
+    "schema_version": 1,
+    "slug": "pesacka-staza-kroz-suboticku-pescaru",
+    "name": "Pešačka staza kroz Subotičku peščaru",
+    "code": "1-1-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 4619,
+        "category_id": 28,
+        "region_ids": [
+            1
+        ],
+        "mountain_ids": [
+            35
+        ]
+    },
+    "region": "Vojvodina",
+    "mountain": "Palićko jezero",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 29.0,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": 420,
+        "official_text": "7 h",
+        "official_raw": "7:00"
+    },
+    "elevation": {
+        "official_gain_m": 25.0,
+        "official_loss_m": 25.0,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": "Palić, Majkin salaš - 110 mnv",
+    "end": "Kelebija državna granica, autobuska okretnica - 130 mnv",
+    "description": null,
+    "landmarks": "Jezera Tresetište i Majdan",
+    "maintenance": "delimično uređena",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Spartak PSK",
+        "url": "https://pss.rs/adresar_klubova/spartak-zpk/",
+        "contact": "Bose Miličević BB, 24000 Subotica \n+38163 87 94 681; +38164 666 12 87\nhttp://www.suplaninari.co.rs/",
+        "clubs": [
+            {
+                "name": "Spartak PSK",
+                "url": "https://pss.rs/adresar_klubova/spartak-zpk/",
+                "contact": "Bose Miličević BB, 24000 Subotica \n+38163 87 94 681; +38164 666 12 87\nhttp://www.suplaninari.co.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": false,
+        "status": "missing",
+        "source_url": null,
+        "fetched_at": null,
+        "checked_at": "2026-11-08T11:59:03Z",
+        "bytes": null,
+        "sha256": null,
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": null,
+        "tracks": null,
+        "segments": null,
+        "waypoints": null,
+        "error": null,
+        "download": {
+            "mode": "none",
+            "url": null
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description",
+            "missing_gpx"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/pesacka-staza-kroz-suboticku-pescaru/",
+        "canonical_url": "https://pss.rs/terenipp/pesacka-staza-kroz-suboticku-pescaru/",
+        "pss_id": 4619,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:59:03Z",
+        "last_synced_at": "2026-11-08T11:59:03Z"
+    },
+    "search": "pesacka staza kroz suboticku pescaru 1-1-1 vojvodina palicko jezero palic, majkin salas - 110 mnv kelebija drzavna granica, autobuska okretnica - 130 mnv spartak psk jezera tresetiste i majdan laka",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:59:03Z"
+    }
+}

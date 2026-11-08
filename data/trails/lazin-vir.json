@@ -1,0 +1,124 @@
+{
+    "schema_version": 1,
+    "slug": "lazin-vir",
+    "name": "Lazin vir",
+    "code": "1-3-5",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 8108,
+        "category_id": 28,
+        "region_ids": [
+            1
+        ],
+        "mountain_ids": [
+            63
+        ]
+    },
+    "region": "Vojvodina",
+    "mountain": "Fruška gora",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 8.0,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": 150,
+        "official_text": "2 h 30 min",
+        "official_raw": "2:30"
+    },
+    "elevation": {
+        "official_gain_m": 286.0,
+        "official_loss_m": 245.0,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": "Stari Ledinci (autobuska okretnica) - 200 mnv",
+    "end": "Lazin vir (Vrdnik) - 239 mnv",
+    "description": null,
+    "landmarks": null,
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "PS Vojvodine",
+        "url": "https://pss.rs/adresar_klubova/ps-vojvodine/",
+        "contact": "Masarikova 25\n+38163 589 873\nhttp://www.planinari.org.rs/",
+        "clubs": [
+            {
+                "name": "PS Vojvodine",
+                "url": "https://pss.rs/adresar_klubova/ps-vojvodine/",
+                "contact": "Masarikova 25\n+38163 589 873\nhttp://www.planinari.org.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": false,
+        "status": "missing",
+        "source_url": null,
+        "fetched_at": null,
+        "checked_at": "2026-11-08T11:59:41Z",
+        "bytes": null,
+        "sha256": null,
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": null,
+        "tracks": null,
+        "segments": null,
+        "waypoints": null,
+        "error": null,
+        "download": {
+            "mode": "none",
+            "url": null
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description",
+            "missing_gpx"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/lazin-vir/",
+        "canonical_url": "https://pss.rs/terenipp/lazin-vir/",
+        "pss_id": 8108,
+        "updated_at": "2019-01-09T14:46:18Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:59:41Z",
+        "last_synced_at": "2026-11-08T11:59:41Z"
+    },
+    "search": "lazin vir 1-3-5 vojvodina fruska gora stari ledinci (autobuska okretnica) - 200 mnv lazin vir (vrdnik) - 239 mnv ps vojvodine laka",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:59:41Z"
+    }
+}

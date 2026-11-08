@@ -1,0 +1,199 @@
+{
+    "schema_version": 1,
+    "slug": "mali-bic",
+    "name": "Priboj - Tvrđava Jagat",
+    "code": "5-6-2",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 11974,
+        "category_id": 28,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            193
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Bič",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 9.5,
+        "calculated_km": 9.49
+    },
+    "duration": {
+        "official_minutes": 220,
+        "official_text": "3 h 40 min",
+        "official_raw": "3:40"
+    },
+    "elevation": {
+        "official_gain_m": 530.0,
+        "official_loss_m": 0.0,
+        "calculated_gain_m": 707.5,
+        "calculated_loss_m": 721.3,
+        "min_m": 380.3,
+        "max_m": 943.4
+    },
+    "start": "Stari deo grada (od železničke stanice), 390 m",
+    "end": "Tvrđava Jagat, na malo Biču, vrh Grad, 920 m",
+    "description": "Staza polazi iz starog dela grada (od železničke stanice) ide stazom zdravlja na Osovniku. Izlazi na proplanak Tepa (620 m). Sa Tepe staza nastavlja ka trvđavi Jagat koja se nalazi na malom Biču, vrh Grad na 920 m. Staza se u selu Crnuzi spaja sa stazom 5-6-1 koja iz novog dela grada ide na veliki Bič (1386 m).",
+    "landmarks": "• Tvrđava Jagat\n\n • Na stazi ima 1 izvor pitke vode.",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Poslednji put staza je markirana 2020. godine.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Ljeskovac ŽKP",
+        "url": "https://pss.rs/adresar_klubova/ljeskovac-zkp/",
+        "contact": "8.mart bb, 31330 Priboj\n+ 381 64 3140810",
+        "clubs": [
+            {
+                "name": "Ljeskovac ŽKP",
+                "url": "https://pss.rs/adresar_klubova/ljeskovac-zkp/",
+                "contact": "8.mart bb, 31330 Priboj\n+ 381 64 3140810"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 7,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2020/08/5-6-2-Priboj-Tvrdjava-Jagat.gpx",
+        "fetched_at": "2026-11-08T12:01:07Z",
+        "checked_at": "2026-11-08T12:01:07Z",
+        "bytes": 119738,
+        "sha256": "7ecd91ac5ec2eea0bcde4651621698c77b6860e0bd14b6af835022583e642099",
+        "etag": null,
+        "last_modified": "Thu, 26 Nov 2020 15:22:55 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 723,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 5,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2020/08/5-6-2-Priboj-Tvrdjava-Jagat.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/mali-bic.geojson",
+        "bbox": [
+            19.503910671919584,
+            43.5732710827142,
+            19.526457572355866,
+            43.58269477263093
+        ],
+        "center": [
+            19.515184,
+            43.577983
+        ],
+        "start_point": [
+            19.52531771734357,
+            43.58250265941024
+        ],
+        "end_point": [
+            19.52540824189782,
+            43.5825374443084
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    19.52532,
+                    43.5825
+                ],
+                [
+                    19.52284,
+                    43.58162
+                ],
+                [
+                    19.5256,
+                    43.57623
+                ],
+                [
+                    19.52035,
+                    43.5792
+                ],
+                [
+                    19.52235,
+                    43.57578
+                ],
+                [
+                    19.51446,
+                    43.57329
+                ],
+                [
+                    19.50403,
+                    43.57527
+                ],
+                [
+                    19.50628,
+                    43.57984
+                ],
+                [
+                    19.50404,
+                    43.57616
+                ],
+                [
+                    19.50602,
+                    43.57415
+                ],
+                [
+                    19.51432,
+                    43.57327
+                ],
+                [
+                    19.5223,
+                    43.57567
+                ],
+                [
+                    19.51964,
+                    43.58268
+                ],
+                [
+                    19.5235,
+                    43.5814
+                ],
+                [
+                    19.52541,
+                    43.58254
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/mali-bic/",
+        "canonical_url": "https://pss.rs/terenipp/mali-bic/",
+        "pss_id": 11974,
+        "updated_at": "2020-11-26T15:25:14Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:01:08Z",
+        "last_synced_at": "2026-11-08T12:01:08Z"
+    },
+    "search": "priboj - tvrdjava jagat 5-6-2 jugozapadna srbija bic stari deo grada (od zeleznicke stanice), 390 m tvrdjava jagat, na malo bicu, vrh grad, 920 m ljeskovac zkp • tvrdjava jagat • na stazi ima 1 izvor pitke vode. laka staza polazi iz starog dela grada (od zeleznicke stanice) ide stazom zdravlja na osovniku. izlazi na proplanak tepa (620 m). sa tepe staza nastavlja ka trvdjavi jagat koja se nalazi na malom bicu, vrh grad na 920 m. staza se u selu crnuzi spaja sa stazom 5-6-1 koja iz novog dela grada ide na veliki bic (1386 m).",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:01:08Z"
+    }
+}

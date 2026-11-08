@@ -1,0 +1,358 @@
+{
+    "schema_version": 1,
+    "slug": "e4-1",
+    "name": "Horgoš - Ada",
+    "code": "E4-1",
+    "category": {
+        "key": "evropski-pesacki-putevi-u-srbiji",
+        "label": "Evropski pešački putevi u Srbiji"
+    },
+    "pss": {
+        "post_id": 3626,
+        "category_id": 29,
+        "region_ids": [
+            1
+        ],
+        "mountain_ids": [
+            44
+        ]
+    },
+    "region": "Vojvodina",
+    "mountain": "Kanjiža",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "lak"
+    },
+    "distance": {
+        "official_km": 65.3,
+        "calculated_km": 65.66
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": 277.0,
+        "official_loss_m": 286.0,
+        "calculated_gain_m": 0.0,
+        "calculated_loss_m": 0.0,
+        "min_m": 0.0,
+        "max_m": 0.0
+    },
+    "start": null,
+    "end": null,
+    "description": "• Evropski put E4 silazi u Srbiju iz Mađarske krivudajući mirnim\ntokom ravničarske reke Tise od severa prema jugu Banata. Ko prolazi u\nranom letnjem mesecu kroz Kanjižu i njene tople banje doživeće možda\nneobično cvetanje reke kada se iz vode pojavljuju bezbrojni rojevi\ninsekta zvanog ,,Tiski cvet”.\n\n • Put prolazi kroz gradove i manja naselja\nkoja su sačuvala tradiciju stare austrougarske monarhije i bogatog\netnokulturnog nasleđa. Danas je Kanjiža centar savremene kulture\ni stvaralaštva. Na putu od Kanjiže ka Senti i Adi, iz do line Tise\nprema zapadu uočavaju se konture blago zatalasanog Gornjeg brega koji\npredstavlja istočne obode Horgoške i Subotičke peščare.\n\n • Takođe prema zapadu, u blizini Subotice, nalaze se i poznata jezera Palić i\nLudoško, zaštićeni parkovi prirode, pored kojih prolazi put E7. U\nsačuvanim predelima Panonske ravnice, pored reke Zlatice, nalaze se\npašnjaci veoma retke najveće ptice Evrope, „Velike droplje”",
+    "landmarks": "• Banja Kanjiža, park prirode Kamaraš, jezera Adorjan, Martonoš i Šarvaško, \"Cvetanje Tise\"; \n\n • U Senti Spomenik Senćanske bitke - 1697.g, zavičajna kuća Stevana Sremca, pravoslavna i katolička crkva;\n\n • Ada - salaši u blizini veštačkog jezera Budžak.",
+    "maintenance": null,
+    "marking": "evropska crveno-žuta",
+    "accommodation": "Kanjiža, Senta, Ada",
+    "notes": "• E4-1-1 Horgoš – Novi Kneževac 24,9 km\n\n • E4-1-2 Novi Kneževac – Senta 18,0 km\n\n • E4-1-3 Senta – Ada 22,4 km",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Kinđa PD",
+        "url": "https://pss.rs/adresar_klubova/kinda-pd/",
+        "contact": "Dom omladine Trg srpskih dobrovoljaca 23, 23300 Kikinda\n0648230660, 0642104980",
+        "clubs": [
+            {
+                "name": "Kinđa PD",
+                "url": "https://pss.rs/adresar_klubova/kinda-pd/",
+                "contact": "Dom omladine Trg srpskih dobrovoljaca 23, 23300 Kikinda\n0648230660, 0642104980"
+            },
+            {
+                "name": "Spartak PSK",
+                "url": "https://pss.rs/adresar_klubova/spartak-zpk/",
+                "contact": "Bose Miličević BB, 24000 Subotica \n+38163 87 94 681; +38164 666 12 87\nhttp://www.suplaninari.co.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 12,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/E4-1-Horgos-Ada.gpx",
+        "fetched_at": "2026-11-08T12:50:09Z",
+        "checked_at": "2026-11-08T12:50:09Z",
+        "bytes": 45446,
+        "sha256": "8b8ba735a909a58d91e803e70357cba1f50e544d8736892ee80a9c9224b0c1f2",
+        "etag": null,
+        "last_modified": "Thu, 05 Dec 2024 19:15:42 GMT",
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": 621,
+        "tracks": 3,
+        "segments": 3,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/E4-1-Horgos-Ada.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/e4-1.geojson",
+        "bbox": [
+            19.9711804,
+            45.784079066,
+            20.154055334,
+            46.175920546
+        ],
+        "center": [
+            20.062618,
+            45.98
+        ],
+        "start_point": [
+            20.07827743,
+            46.048003375
+        ],
+        "end_point": [
+            20.154012751,
+            45.784079066
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    20.07828,
+                    46.048
+                ],
+                [
+                    20.07819,
+                    46.05174
+                ],
+                [
+                    20.07126,
+                    46.05574
+                ],
+                [
+                    20.07157,
+                    46.06436
+                ],
+                [
+                    20.0393,
+                    46.08123
+                ],
+                [
+                    20.03416,
+                    46.09103
+                ],
+                [
+                    20.03851,
+                    46.09107
+                ],
+                [
+                    20.04269,
+                    46.09502
+                ],
+                [
+                    20.05571,
+                    46.09956
+                ],
+                [
+                    20.07101,
+                    46.10955
+                ],
+                [
+                    20.06339,
+                    46.11617
+                ],
+                [
+                    20.05796,
+                    46.11432
+                ],
+                [
+                    20.05504,
+                    46.11905
+                ],
+                [
+                    20.04529,
+                    46.1156
+                ],
+                [
+                    20.03092,
+                    46.12006
+                ],
+                [
+                    20.01362,
+                    46.12015
+                ],
+                [
+                    20.0135,
+                    46.12343
+                ],
+                [
+                    20.0081,
+                    46.12665
+                ],
+                [
+                    20.00303,
+                    46.13716
+                ],
+                [
+                    20.00643,
+                    46.14429
+                ],
+                [
+                    19.9972,
+                    46.14575
+                ],
+                [
+                    19.99181,
+                    46.16179
+                ],
+                [
+                    19.97617,
+                    46.16418
+                ],
+                [
+                    19.97118,
+                    46.16215
+                ],
+                [
+                    19.98429,
+                    46.17592
+                ]
+            ],
+            [
+                [
+                    20.07826,
+                    46.04799
+                ],
+                [
+                    20.07284,
+                    46.03107
+                ],
+                [
+                    20.05316,
+                    46.02215
+                ],
+                [
+                    20.03422,
+                    46.02204
+                ],
+                [
+                    20.03101,
+                    46.01953
+                ],
+                [
+                    20.03019,
+                    46.01203
+                ],
+                [
+                    20.03661,
+                    46.00883
+                ],
+                [
+                    20.04974,
+                    45.99484
+                ],
+                [
+                    20.06986,
+                    45.98465
+                ],
+                [
+                    20.0844,
+                    45.98345
+                ],
+                [
+                    20.08908,
+                    45.97997
+                ],
+                [
+                    20.08762,
+                    45.96672
+                ],
+                [
+                    20.09065,
+                    45.9338
+                ]
+            ],
+            [
+                [
+                    20.09066,
+                    45.93379
+                ],
+                [
+                    20.09705,
+                    45.93532
+                ],
+                [
+                    20.11039,
+                    45.91346
+                ],
+                [
+                    20.11592,
+                    45.90852
+                ],
+                [
+                    20.13182,
+                    45.90172
+                ],
+                [
+                    20.13594,
+                    45.89664
+                ],
+                [
+                    20.1292,
+                    45.88212
+                ],
+                [
+                    20.10768,
+                    45.86704
+                ],
+                [
+                    20.09229,
+                    45.86128
+                ],
+                [
+                    20.08926,
+                    45.85251
+                ],
+                [
+                    20.0937,
+                    45.8479
+                ],
+                [
+                    20.13943,
+                    45.82768
+                ],
+                [
+                    20.15324,
+                    45.80405
+                ],
+                [
+                    20.15401,
+                    45.78408
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": [
+            "missing_elevation"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/e4-1/",
+        "canonical_url": "https://pss.rs/terenipp/e4-1/",
+        "pss_id": 3626,
+        "updated_at": "2024-12-05T20:45:47Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:50:10Z",
+        "last_synced_at": "2026-11-08T12:50:10Z"
+    },
+    "search": "horgos - ada e4-1 vojvodina kanjiza kindja pd • banja kanjiza, park prirode kamaras, jezera adorjan, martonos i sarvasko, \"cvetanje tise\"; • u senti spomenik sencanske bitke - 1697.g, zavicajna kuca stevana sremca, pravoslavna i katolicka crkva; • ada - salasi u blizini vestackog jezera budzak. laka • evropski put e4 silazi u srbiju iz madjarske krivudajuci mirnim tokom ravnicarske reke tise od severa prema jugu banata. ko prolazi u ranom letnjem mesecu kroz kanjizu i njene tople banje dozivece mozda neobicno cvetanje reke kada se iz vode pojavljuju bezbrojni rojevi insekta zvanog ,,tiski cvet”. • put prolazi kroz gradove i manja naselja koja su sacuvala tradiciju stare austrougarske monarhije i bogatog etnokulturnog nasledja. danas je kanjiza centar savremene kulture i stvaralastva. na putu od kanjize ka senti i adi, iz do line tise prema zapadu uocavaju se konture blago zatalasanog gornjeg brega koji predstavlja istocne obode horgoske i suboticke pescare. • takodje prema zapadu, u blizini subotice, nalaze se i poznata jezera palic i ludosko, zasticeni parkovi prirode, pored kojih prolazi put e7. u sacuvanim predelima panonske ravnice, pored reke zlatice, nalaze se pasnjaci veoma retke najvece ptice evrope, „velike droplje”",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:50:10Z"
+    }
+}

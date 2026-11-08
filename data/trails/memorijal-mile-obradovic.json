@@ -1,0 +1,207 @@
+{
+    "schema_version": 1,
+    "slug": "memorijal-mile-obradovic",
+    "name": "Memorijal \"Mile Obradović\"",
+    "code": "3-22-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 10444,
+        "category_id": 28,
+        "region_ids": [
+            3
+        ],
+        "mountain_ids": [
+            155
+        ]
+    },
+    "region": "Zapadna Srbija",
+    "mountain": "Maljen",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 10.8,
+        "calculated_km": 12.06
+    },
+    "duration": {
+        "official_minutes": 300,
+        "official_text": "5 h",
+        "official_raw": "5"
+    },
+    "elevation": {
+        "official_gain_m": 650.0,
+        "official_loss_m": 650.0,
+        "calculated_gain_m": 666.4,
+        "calculated_loss_m": 674.6,
+        "min_m": 535.1,
+        "max_m": 1063.4
+    },
+    "start": "mesto Podbukovi, 512 m",
+    "end": "mesto Podbukovi, 512 m",
+    "description": "Staza je kružnog tipa i počinje u mestu Podbukovi, tačnije na ušću Crne reke u Bukovsku reku kod domaćinstva porodice Obradović, na nadmorskoj visini od 512 mnv. Dobar deo staze vodi uz Bukovsku reku makadamskim (šumskim putem). Prilikom izlaska prema beogradskom vikend naselju staza vodi kroz šumu uz solidan uspon, gde izlazi na kružnu stazu koja povezuje vrhove Maljena oko naseljenog mesta Divčibare. Zatim prati kružnu stazu makadamsko-zemljanim putem do obližnjeg vrha – Golubac (1056 mnv). Sa vrha Golubac uz blagi spust staza vodi preko livade, pa makadamsko-zemljanim putem do vrha Mali Golubac (995 mnv). A potom uglavno šumskom stazom kroz četinarsku šumu pored nekoliko vidikovaca, pa preko Sedla i Crvenog brega (852 mnv) do polazne tačke 512 mnv. Na startu-cilju staze postoji domaćinstvo Obradović koji se bave seoskim turizmom gde je moguć smeštaj i ishrana. Takođe je moguć smeštaj u planinarskom domu PTT–Beograd, u neposrednoj blizini staze kod naselja Divčibare kao i u samom naselju. Pored staze je i staro okno rudnika magnezita u koje je moguće ući uz osvetljenje lampama. Neposredna blizina zaštićenog Prirodnog rezervata Crna reka doprinosi još više lepoti i čarima ove staze.",
+    "landmarks": "• Naselje Divčibare\n\n • Okno starog rudnika magnezita\n\n • Park prirode \"Crna reka\"",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinarski dom na poljanama Maljen",
+    "notes": "• Stazu je trasirao Dragan Radojčić, 25.08.2019. godine\n\n • Stazu su po dogovoru markirali Dragan Radojčić iz PSK \"Soko\" Krupanj, Dragan Pantelić iz PSD \"Magleš\" Valjevo i Predrag Alić iz PK \"Povlen\" Valjevo, poslednji put 01.09.2019. godine",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Magleš PSD",
+        "url": "https://pss.rs/adresar_klubova/magles-psd/",
+        "contact": "Sindjelićeva 14, 14000 Valjevo\n+38114 236 377 ; 064/6461103\nhttps://www.magles.org.rs/",
+        "clubs": [
+            {
+                "name": "Magleš PSD",
+                "url": "https://pss.rs/adresar_klubova/magles-psd/",
+                "contact": "Sindjelićeva 14, 14000 Valjevo\n+38114 236 377 ; 064/6461103\nhttps://www.magles.org.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 14,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2019/11/3-22-1-Podbukovi-Golubac.gpx",
+        "fetched_at": "2026-11-08T12:00:36Z",
+        "checked_at": "2026-11-08T12:00:36Z",
+        "bytes": 204687,
+        "sha256": "63d98a43e014919eb573d36546f387f06bd944044396a3a4688b40b4dca6d9b5",
+        "etag": null,
+        "last_modified": "Mon, 11 Nov 2019 13:45:31 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 1219,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 19,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2019/11/3-22-1-Podbukovi-Golubac.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/memorijal-mile-obradovic.geojson",
+        "bbox": [
+            19.935922594740987,
+            44.10424989648163,
+            19.978323290124536,
+            44.1265885066241
+        ],
+        "center": [
+            19.957123,
+            44.115419
+        ],
+        "start_point": [
+            19.935922594740987,
+            44.12612431682646
+        ],
+        "end_point": [
+            19.93617773987353,
+            44.12616781890392
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    19.93592,
+                    44.12612
+                ],
+                [
+                    19.94613,
+                    44.11863
+                ],
+                [
+                    19.94902,
+                    44.12002
+                ],
+                [
+                    19.95362,
+                    44.11561
+                ],
+                [
+                    19.96211,
+                    44.11355
+                ],
+                [
+                    19.96897,
+                    44.10835
+                ],
+                [
+                    19.97014,
+                    44.10494
+                ],
+                [
+                    19.97821,
+                    44.10595
+                ],
+                [
+                    19.97434,
+                    44.11277
+                ],
+                [
+                    19.97686,
+                    44.11407
+                ],
+                [
+                    19.97602,
+                    44.11629
+                ],
+                [
+                    19.96925,
+                    44.11938
+                ],
+                [
+                    19.97128,
+                    44.12438
+                ],
+                [
+                    19.96923,
+                    44.12307
+                ],
+                [
+                    19.96091,
+                    44.12658
+                ],
+                [
+                    19.94153,
+                    44.12437
+                ],
+                [
+                    19.93618,
+                    44.12617
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/memorijal-mile-obradovic/",
+        "canonical_url": "https://pss.rs/terenipp/memorijal-mile-obradovic/",
+        "pss_id": 10444,
+        "updated_at": "2022-03-16T14:44:28Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:00:36Z",
+        "last_synced_at": "2026-11-08T12:00:36Z"
+    },
+    "search": "memorijal \"mile obradovic\" 3-22-1 zapadna srbija maljen mesto podbukovi, 512 m mesto podbukovi, 512 m magles psd • naselje divcibare • okno starog rudnika magnezita • park prirode \"crna reka\" zahtevna staza je kruznog tipa i pocinje u mestu podbukovi, tacnije na uscu crne reke u bukovsku reku kod domacinstva porodice obradovic, na nadmorskoj visini od 512 mnv. dobar deo staze vodi uz bukovsku reku makadamskim (sumskim putem). prilikom izlaska prema beogradskom vikend naselju staza vodi kroz sumu uz solidan uspon, gde izlazi na kruznu stazu koja povezuje vrhove maljena oko naseljenog mesta divcibare. zatim prati kruznu stazu makadamsko-zemljanim putem do obliznjeg vrha – golubac (1056 mnv). sa vrha golubac uz blagi spust staza vodi preko livade, pa makadamsko-zemljanim putem do vrha mali golubac (995 mnv). a potom uglavno sumskom stazom kroz cetinarsku sumu pored nekoliko vidikovaca, pa preko sedla i crvenog brega (852 mnv) do polazne tacke 512 mnv. na startu-cilju staze postoji domacinstvo obradovic koji se bave seoskim turizmom gde je moguc smestaj i ishrana. takodje je moguc smestaj u planinarskom domu ptt–beograd, u neposrednoj blizini staze kod naselja divcibare kao i u samom naselju. pored staze je i staro okno rudnika magnezita u koje je moguce uci uz osvetljenje lampama. neposredna blizina zasticenog prirodnog rezervata crna reka doprinosi jos vise lepoti i carima ove staze.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:00:36Z"
+    }
+}

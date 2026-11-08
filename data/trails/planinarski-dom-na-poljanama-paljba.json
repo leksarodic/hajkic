@@ -1,0 +1,195 @@
+{
+    "schema_version": 1,
+    "slug": "planinarski-dom-na-poljanama-paljba",
+    "name": "Planinarski dom \"Na Poljanama\" - Paljba",
+    "code": "3-22-2",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 16547,
+        "category_id": 28,
+        "region_ids": [
+            3
+        ],
+        "mountain_ids": [
+            155
+        ]
+    },
+    "region": "Zapadna Srbija",
+    "mountain": "Maljen",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 7.8,
+        "calculated_km": 7.82
+    },
+    "duration": {
+        "official_minutes": 180,
+        "official_text": "3 h",
+        "official_raw": "3:00"
+    },
+    "elevation": {
+        "official_gain_m": 290.0,
+        "official_loss_m": 224.0,
+        "calculated_gain_m": 305.1,
+        "calculated_loss_m": 244.0,
+        "min_m": 917.3,
+        "max_m": 1055.9
+    },
+    "start": "Planinarski dom \"Na Poljanama\", 980 m",
+    "end": "Vidikovac Paljba, 1042 m",
+    "description": "• Na stazu se može krenuti već od autobuskog stajališta na asfaltnom putu jugo-istočno ka planinarskom domu „Na Poljanama“ (kapaciteta 25 ležajeva). Staza je planinarsko-turističkog tipa i pogodna je za sve uzraste. Prvih 150 m se poklapa sa Evropskim pešačkim putem E7. Kod planinarskog doma staza se odvaja južno i prolazi kroz vikend naselje. U pravcu ka vrhu Stražara staza na 3 mesta prelazi preko asfaltnog puta. Od Stražare staza se spušta ka Stražarskoj reci na kojoj se nalaze dva manja vodopada. U ovom delu postoji odvajanje ka vidokovcu Ljuti Krš i klisuri Crne reke koji nisu deo staze. Prelaskom preko Stražarske reke idemo jugo-zapadno ka vidikovcu Golubac. Uovom delu imamo poklapanje sa stazom Memorijal „Mile Obradović“. Vidikovac Golubac je na 1056 m, sa njega se priža fantastičan pogled na deo zapadne Srbije i vide se vrhovi valjevskih planina: Magleš, Povlen sa svoja tri vrha, Jablanik i Medvednik.\n\n • Na horizontu po vedrom vremenu može se videti i planina Cer. Vidikovac se nalazi iznad guste četinarske šume u čijem je podnožju dolina Bukovske reke. Makadamom nastavljamo obodom Beogradskog naselja i odvajamo se zapadno na šumsku stazu ka vidikovcu Paljba.\n\n • Vidikovac se nalazi pored puta koji vodi sa regionalnog puta Valjevo-Kosjerić ka Divčibarama. Sam vidikovac se nalazi na 1051 m, orjentisan ka jugu, sa koga se vide planine zlatiborskog okruga. Ovo je jedan od najpristupačnijih vidikovaca Maljena do kog se može doći kolima.\n\n • U zavisnosti od godišnjeg doba na stazi je mogiće videti veliki broj različitih biljnih vrsta: šafran, jeremičak, beli narcis, vres, beli i crno bor, breze...\n\n • Pri poseti Divčibarama nemojte izostaviti da obiđete ovu stazu.",
+    "landmarks": "• Strogi rezervati prirode I kategorije: klisura Crne reke sa grebenom Ljuti krš (nije dozvoljen pristup bez dozvole)\n\n • Naselje: Divčibare\n\n • Vidikovci: Stražara, Golubac, Paljba",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinarski dom na poljanama Maljen",
+    "notes": "• Stazu je trasirao PSD \"Magleš\" januara 2022.\n\n • Poslednji put staza je markirana maja 2022.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Magleš PSD",
+        "url": "https://pss.rs/adresar_klubova/magles-psd/",
+        "contact": "Sindjelićeva 14, 14000 Valjevo\n+38114 236 377 ; 064/6461103\nhttps://www.magles.org.rs/",
+        "clubs": [
+            {
+                "name": "Magleš PSD",
+                "url": "https://pss.rs/adresar_klubova/magles-psd/",
+                "contact": "Sindjelićeva 14, 14000 Valjevo\n+38114 236 377 ; 064/6461103\nhttps://www.magles.org.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 12,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2022/04/3-22-2-Pl-dom-na-Poljanama-Paljba.gpx",
+        "fetched_at": "2026-11-08T12:02:29Z",
+        "checked_at": "2026-11-08T12:02:29Z",
+        "bytes": 56975,
+        "sha256": "0b6cae8618aa01b49f0daad00213d430e897826fd720e211945522c98cdaac3d",
+        "etag": null,
+        "last_modified": "Sat, 30 Apr 2022 12:03:56 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 338,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 11,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2022/04/3-22-2-Pl-dom-na-Poljanama-Paljba.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/planinarski-dom-na-poljanama-paljba.geojson",
+        "bbox": [
+            19.968002988025546,
+            44.09686703234911,
+            20.016059959307313,
+            44.12922796793282
+        ],
+        "center": [
+            19.992031,
+            44.113048
+        ],
+        "start_point": [
+            20.013759965077043,
+            44.12922796793282
+        ],
+        "end_point": [
+            19.968002988025546,
+            44.09686703234911
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    20.01376,
+                    44.12923
+                ],
+                [
+                    20.01601,
+                    44.125
+                ],
+                [
+                    20.01281,
+                    44.12061
+                ],
+                [
+                    20.00088,
+                    44.11874
+                ],
+                [
+                    19.99832,
+                    44.12029
+                ],
+                [
+                    19.99155,
+                    44.11754
+                ],
+                [
+                    19.98827,
+                    44.11929
+                ],
+                [
+                    19.98428,
+                    44.11461
+                ],
+                [
+                    19.97698,
+                    44.11477
+                ],
+                [
+                    19.97441,
+                    44.11285
+                ],
+                [
+                    19.97551,
+                    44.10752
+                ],
+                [
+                    19.97828,
+                    44.10641
+                ],
+                [
+                    19.97655,
+                    44.10078
+                ],
+                [
+                    19.968,
+                    44.09687
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/planinarski-dom-na-poljanama-paljba/",
+        "canonical_url": "https://pss.rs/terenipp/planinarski-dom-na-poljanama-paljba/",
+        "pss_id": 16547,
+        "updated_at": "2023-03-29T14:20:03Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:02:29Z",
+        "last_synced_at": "2026-11-08T12:02:29Z"
+    },
+    "search": "planinarski dom \"na poljanama\" - paljba 3-22-2 zapadna srbija maljen planinarski dom \"na poljanama\", 980 m vidikovac paljba, 1042 m magles psd • strogi rezervati prirode i kategorije: klisura crne reke sa grebenom ljuti krs (nije dozvoljen pristup bez dozvole) • naselje: divcibare • vidikovci: strazara, golubac, paljba laka • na stazu se moze krenuti vec od autobuskog stajalista na asfaltnom putu jugo-istocno ka planinarskom domu „na poljanama“ (kapaciteta 25 lezajeva). staza je planinarsko-turistickog tipa i pogodna je za sve uzraste. prvih 150 m se poklapa sa evropskim pesackim putem e7. kod planinarskog doma staza se odvaja juzno i prolazi kroz vikend naselje. u pravcu ka vrhu strazara staza na 3 mesta prelazi preko asfaltnog puta. od strazare staza se spusta ka strazarskoj reci na kojoj se nalaze dva manja vodopada. u ovom delu postoji odvajanje ka vidokovcu ljuti krs i klisuri crne reke koji nisu deo staze. prelaskom preko strazarske reke idemo jugo-zapadno ka vidikovcu golubac. uovom delu imamo poklapanje sa stazom memorijal „mile obradovic“. vidikovac golubac je na 1056 m, sa njega se priza fantastican pogled na deo zapadne srbije i vide se vrhovi valjevskih planina: magles, povlen sa svoja tri vrha, jablanik i medvednik. • na horizontu po vedrom vremenu moze se videti i planina cer. vidikovac se nalazi iznad guste cetinarske sume u cijem je podnozju dolina bukovske reke. makadamom nastavljamo obodom beogradskog naselja i odvajamo se zapadno na sumsku stazu ka vidikovcu paljba. • vidikovac se nalazi pored puta koji vodi sa regionalnog puta valjevo-kosjeric ka divcibarama. sam vidikovac se nalazi na 1051 m, orjentisan ka jugu, sa koga se vide planine zlatiborskog okruga. ovo je jedan od najpristupacnijih vidikovaca maljena do kog se moze doci kolima. • u zavisnosti od godisnjeg doba na stazi je mogice videti veliki broj razlicitih biljnih vrsta: safran, jeremicak, beli narcis, vres, beli i crno bor, breze... • pri poseti divcibarama nemojte izostaviti da obidjete ovu stazu.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:02:29Z"
+    }
+}

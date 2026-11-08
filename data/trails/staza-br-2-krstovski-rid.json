@@ -1,0 +1,207 @@
+{
+    "schema_version": 1,
+    "slug": "staza-br-2-krstovski-rid",
+    "name": "Staza br. 2 \"Krstovski rid\"",
+    "code": "7-9-2",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 3759,
+        "category_id": 28,
+        "region_ids": [
+            7
+        ],
+        "mountain_ids": [
+            69
+        ]
+    },
+    "region": "Jugoistočna Srbija",
+    "mountain": "Kukavica",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 14.6,
+        "calculated_km": 13.1
+    },
+    "duration": {
+        "official_minutes": 270,
+        "official_text": "4 h 30 min",
+        "official_raw": "4:30"
+    },
+    "elevation": {
+        "official_gain_m": 935.0,
+        "official_loss_m": 50.0,
+        "calculated_gain_m": 1004.5,
+        "calculated_loss_m": 118.6,
+        "min_m": 378.7,
+        "max_m": 1314.8
+    },
+    "start": "Selo Čukljenik, 376 m",
+    "end": "Planinarski dom \"Preka voda\", 1270 m",
+    "description": "Selo Čukljenik - Strugara - Krstovski rid - Strmac - planinarski dom \"Preka voda\"",
+    "landmarks": "• Crkva sv. Nikole\n\n • Spomenik Vlajku Stoiljkoviću",
+    "maintenance": "zapuštena",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinarski dom \"Preka voda\"",
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": "1:25000, TK Leskovac 632 2-4",
+    "club": {
+        "name": "Kukavica PSK",
+        "url": "https://pss.rs/adresar_klubova/kukavica-psk/",
+        "contact": "Deligradska 5, 16000 Leskovac\n+381652824655",
+        "clubs": [
+            {
+                "name": "Kukavica PSK",
+                "url": "https://pss.rs/adresar_klubova/kukavica-psk/",
+                "contact": "Deligradska 5, 16000 Leskovac\n+381652824655"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 8,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/Staza-br.-2-Krstovski-Rid.gpx",
+        "fetched_at": "2026-11-08T11:55:05Z",
+        "checked_at": "2026-11-08T11:55:05Z",
+        "bytes": 85578,
+        "sha256": "7532163573a59881be1e2b255320ada002e1f26a7dba09138f554fb2eca2e870",
+        "etag": null,
+        "last_modified": "Sun, 31 Oct 2021 13:30:44 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 527,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 3,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/Staza-br.-2-Krstovski-Rid.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/staza-br-2-krstovski-rid.geojson",
+        "bbox": [
+            21.951455986127257,
+            42.78497597202659,
+            21.969002997502685,
+            42.866575978696346
+        ],
+        "center": [
+            21.960229,
+            42.825776
+        ],
+        "start_point": [
+            21.960710026323795,
+            42.866575978696346
+        ],
+        "end_point": [
+            21.951455986127257,
+            42.78499600477517
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.96071,
+                    42.86658
+                ],
+                [
+                    21.95965,
+                    42.85195
+                ],
+                [
+                    21.9625,
+                    42.84879
+                ],
+                [
+                    21.96002,
+                    42.84586
+                ],
+                [
+                    21.95993,
+                    42.83522
+                ],
+                [
+                    21.95671,
+                    42.83365
+                ],
+                [
+                    21.95977,
+                    42.82202
+                ],
+                [
+                    21.95636,
+                    42.81519
+                ],
+                [
+                    21.96423,
+                    42.80345
+                ],
+                [
+                    21.96529,
+                    42.80791
+                ],
+                [
+                    21.9684,
+                    42.80685
+                ],
+                [
+                    21.96574,
+                    42.80534
+                ],
+                [
+                    21.969,
+                    42.80169
+                ],
+                [
+                    21.96527,
+                    42.80073
+                ],
+                [
+                    21.96182,
+                    42.79293
+                ],
+                [
+                    21.95592,
+                    42.79194
+                ],
+                [
+                    21.95146,
+                    42.785
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/staza-br-2-krstovski-rid/",
+        "canonical_url": "https://pss.rs/terenipp/staza-br-2-krstovski-rid/",
+        "pss_id": 3759,
+        "updated_at": "2021-10-31T13:31:59Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:55:06Z",
+        "last_synced_at": "2026-11-08T11:55:06Z"
+    },
+    "search": "staza br. 2 \"krstovski rid\" 7-9-2 jugoistocna srbija kukavica selo cukljenik, 376 m planinarski dom \"preka voda\", 1270 m kukavica psk • crkva sv. nikole • spomenik vlajku stoiljkovicu zahtevna selo cukljenik - strugara - krstovski rid - strmac - planinarski dom \"preka voda\"",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:55:06Z"
+    }
+}

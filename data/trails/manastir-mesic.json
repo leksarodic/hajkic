@@ -1,0 +1,169 @@
+{
+    "schema_version": 1,
+    "slug": "manastir-mesic",
+    "name": "Manastir Mesić",
+    "code": "1-4-3",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 3535,
+        "category_id": 28,
+        "region_ids": [
+            1
+        ],
+        "mountain_ids": [
+            33
+        ]
+    },
+    "region": "Vojvodina",
+    "mountain": "Vršačke planine",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 16.0,
+        "calculated_km": 5.41
+    },
+    "duration": {
+        "official_minutes": 240,
+        "official_text": "4 h",
+        "official_raw": "4:00"
+    },
+    "elevation": {
+        "official_gain_m": 50.0,
+        "official_loss_m": 155.0,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": "Planinarski dom \"Široko bilo\"",
+    "end": "Manastir Mesić",
+    "description": "Staza je deonica Vršačke transverzale T-1-3",
+    "landmarks": null,
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Vršačka kula PSD",
+        "url": "https://pss.rs/adresar_klubova/vrsacka-kula-psd/",
+        "contact": "Svetosavski trg 1a, 26300 Vršac\n+38169 164 14 76\nhttps://www.psdkulavrsac.com/",
+        "clubs": [
+            {
+                "name": "Vršačka kula PSD",
+                "url": "https://pss.rs/adresar_klubova/vrsacka-kula-psd/",
+                "contact": "Svetosavski trg 1a, 26300 Vršac\n+38169 164 14 76\nhttps://www.psdkulavrsac.com/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/1-4-3.gpx",
+        "fetched_at": "2026-11-08T12:49:50Z",
+        "checked_at": "2026-11-08T12:49:50Z",
+        "bytes": 7303,
+        "sha256": "015160fbdf0f5535a0a7c234419ee95bdadc0529516180e98674688c8ddd96bd",
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": 153,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/1-4-3.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/manastir-mesic.geojson",
+        "bbox": [
+            21.3600403,
+            45.1029647,
+            21.3939524,
+            45.126624
+        ],
+        "center": [
+            21.376996,
+            45.114794
+        ],
+        "start_point": [
+            21.3600403,
+            45.1265209
+        ],
+        "end_point": [
+            21.3939524,
+            45.1039074
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.36004,
+                    45.12652
+                ],
+                [
+                    21.36676,
+                    45.1197
+                ],
+                [
+                    21.36856,
+                    45.10983
+                ],
+                [
+                    21.37188,
+                    45.1127
+                ],
+                [
+                    21.37735,
+                    45.10982
+                ],
+                [
+                    21.38003,
+                    45.10365
+                ],
+                [
+                    21.39395,
+                    45.10391
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": [
+            "missing_elevation"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/manastir-mesic/",
+        "canonical_url": "https://pss.rs/terenipp/manastir-mesic/",
+        "pss_id": 3535,
+        "updated_at": "2023-03-11T10:33:53Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:49:51Z",
+        "last_synced_at": "2026-11-08T12:49:51Z"
+    },
+    "search": "manastir mesic 1-4-3 vojvodina vrsacke planine planinarski dom \"siroko bilo\" manastir mesic vrsacka kula psd laka staza je deonica vrsacke transverzale t-1-3",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:49:51Z"
+    }
+}

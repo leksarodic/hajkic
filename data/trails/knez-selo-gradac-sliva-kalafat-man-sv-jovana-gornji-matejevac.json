@@ -1,0 +1,223 @@
+{
+    "schema_version": 1,
+    "slug": "knez-selo-gradac-sliva-kalafat-man-sv-jovana-gornji-matejevac",
+    "name": "Knez Selo-Gradac-Sliva-Kalafat-man.Sv.Jovana-Gornji Matejevac",
+    "code": "4-47-6",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 8547,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            96
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Kalafat",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 16.0,
+        "calculated_km": 16.01
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": "8 - 9:00",
+        "official_raw": "8 - 9:00"
+    },
+    "elevation": {
+        "official_gain_m": 660.0,
+        "official_loss_m": 758.0,
+        "calculated_gain_m": 609.0,
+        "calculated_loss_m": 714.2,
+        "min_m": 352.2,
+        "max_m": 830.9
+    },
+    "start": "Knez Selo, 455m",
+    "end": "Gornji Matejevac, 358m",
+    "description": "• Polazak je sa autobuske stanice u Knez Selu, oko 10km severno od Niša. Do sela se može doći redovnom prigradskom linijom za Knez Selo. Ide se seoskim makadamskim putem u blagom usponu nepuna 2km do izletišta Gradac. Potom se nešto strmijom stazom dolazi do glavnog šumskog puta, kojim se dolazi do velike raskrsnice Sliva. Završni uspon od Slive na vrh Kalafat se obavlja širokom i prohodnom markiranom stazom koja pripada \"Niškoj transverzali\". Vrh Kalafat je prekriven šumskim pojasom, ali je očišćen i prohodan. Sledi povratak pomenutom stazom do raskrsnice Sliva, a onda i spuštanje ka jugu širokim putem u dužini od 3km do manastira Sv. Jovan. Od manastira se prati staza koja vodi do Temenog vrha, obilazeći ga sa severne strane. Ta staza je u blagom nagibu, najpre široka, a potom uska u zoni vrha. Ova deonica je godinama bila urasla i vrlo teško prohodna, ali sada je ona očišćena i spremna za bezbedan prolazak planinara.\n\n • Plato ispod Temenog vrha je uglavnom ogoljen i lako prohodan, ali potrebno je dobro pratiti markacije kako bi se izašlo na stari put koji vodi do Gornjeg Matejevca. Taj put je prohodan i u blagom spustu dolazi do glavnog makadamskog puta između Gornjeg Matejevca i Kamenice. Na ulasku u Gornji Matejevac se nalazi Latinska crkva, odakle se pruža sjajan pogled na Niš i kotlinu. Završetak staze je u centru Gornjeg Matejevca, oko 1 km nakon Latinske ckrve, odakle se može sačekati autobus koji iz Knez Sela vozi za Niš.\n\n • Cela staza je dobro markirana propisanim oznakama, koje osvežene i na nekim mestima dodatno i gušće raspoređene, kao što je slučaj u zoni Temenog vrha. Staza je markirana u oba smera.",
+    "landmarks": "• Manastir Sv. Jovana\n\n • Srećkovo vrelo\n\n • Latinska crkva\n\n • Čegar\n\n • Vidikovci: Kalafat (838m), Temeni vrh (730m), Latinska crkva (437m)\n\n • Izvori pitke vode na trasi: Knez Selo, izletište Gradac, manastir Sv. Jovana, Gornji Matejevac\n\n • Na trasi ima 2 odmarališta, 2 privatna smeštaja i 1 kamp, van trase ima 2 odmarališta, 2 privatna smeštaja i 2 kampa.",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu je trasiralo planinarsko društvo Preslap 24.02.2019.\n\n • Poslednji put staza je markirana 24.02.2019.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Preslap PD",
+        "url": "https://pss.rs/adresar_klubova/preslap-pd/",
+        "contact": "Bulevar dr. Zorana Đinđića 19/130, 18000 Niš\n+38162 205 977\nhttps://www.preslap.rs/",
+        "clubs": [
+            {
+                "name": "Preslap PD",
+                "url": "https://pss.rs/adresar_klubova/preslap-pd/",
+                "contact": "Bulevar dr. Zorana Đinđića 19/130, 18000 Niš\n+38162 205 977\nhttps://www.preslap.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 12,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2019/03/4-47-6-Knez-Selo-Kalafat-G.Matejevac.gpx",
+        "fetched_at": "2026-11-08T12:00:07Z",
+        "checked_at": "2026-11-08T12:00:07Z",
+        "bytes": 129299,
+        "sha256": "5f0fd2d13d0fa5a047ad26aca33332a8757cd652a168cc4f0fbe8a70ebd2b32c",
+        "etag": null,
+        "last_modified": "Sun, 17 Mar 2019 15:14:39 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 776,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 8,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2019/03/4-47-6-Knez-Selo-Kalafat-G.Matejevac.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/knez-selo-gradac-sliva-kalafat-man-sv-jovana-gornji-matejevac.geojson",
+        "bbox": [
+            21.95021068677306,
+            43.3639314584434,
+            22.0037744846195,
+            43.39701374061406
+        ],
+        "center": [
+            21.976993,
+            43.380473
+        ],
+        "start_point": [
+            21.994720017537475,
+            43.36651258170605
+        ],
+        "end_point": [
+            21.96755351498723,
+            43.3639314584434
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.99472,
+                    43.36651
+                ],
+                [
+                    21.99194,
+                    43.37393
+                ],
+                [
+                    21.99593,
+                    43.37692
+                ],
+                [
+                    21.99982,
+                    43.3764
+                ],
+                [
+                    22.00362,
+                    43.383
+                ],
+                [
+                    21.99413,
+                    43.39009
+                ],
+                [
+                    21.98547,
+                    43.39138
+                ],
+                [
+                    21.98448,
+                    43.39701
+                ],
+                [
+                    21.98533,
+                    43.39154
+                ],
+                [
+                    21.98917,
+                    43.38695
+                ],
+                [
+                    21.97871,
+                    43.37799
+                ],
+                [
+                    21.97918,
+                    43.37508
+                ],
+                [
+                    21.97356,
+                    43.37916
+                ],
+                [
+                    21.96961,
+                    43.37828
+                ],
+                [
+                    21.97309,
+                    43.38077
+                ],
+                [
+                    21.96643,
+                    43.38684
+                ],
+                [
+                    21.95194,
+                    43.38332
+                ],
+                [
+                    21.95021,
+                    43.38061
+                ],
+                [
+                    21.95641,
+                    43.37125
+                ],
+                [
+                    21.96554,
+                    43.37012
+                ],
+                [
+                    21.96755,
+                    43.36393
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/knez-selo-gradac-sliva-kalafat-man-sv-jovana-gornji-matejevac/",
+        "canonical_url": "https://pss.rs/terenipp/knez-selo-gradac-sliva-kalafat-man-sv-jovana-gornji-matejevac/",
+        "pss_id": 8547,
+        "updated_at": "2019-11-21T15:45:52Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:00:08Z",
+        "last_synced_at": "2026-11-08T12:00:08Z"
+    },
+    "search": "knez selo-gradac-sliva-kalafat-man.sv.jovana-gornji matejevac 4-47-6 istocna srbija kalafat knez selo, 455m gornji matejevac, 358m preslap pd • manastir sv. jovana • sreckovo vrelo • latinska crkva • cegar • vidikovci: kalafat (838m), temeni vrh (730m), latinska crkva (437m) • izvori pitke vode na trasi: knez selo, izletiste gradac, manastir sv. jovana, gornji matejevac • na trasi ima 2 odmaralista, 2 privatna smestaja i 1 kamp, van trase ima 2 odmaralista, 2 privatna smestaja i 2 kampa. laka • polazak je sa autobuske stanice u knez selu, oko 10km severno od nisa. do sela se moze doci redovnom prigradskom linijom za knez selo. ide se seoskim makadamskim putem u blagom usponu nepuna 2km do izletista gradac. potom se nesto strmijom stazom dolazi do glavnog sumskog puta, kojim se dolazi do velike raskrsnice sliva. zavrsni uspon od slive na vrh kalafat se obavlja sirokom i prohodnom markiranom stazom koja pripada \"niskoj transverzali\". vrh kalafat je prekriven sumskim pojasom, ali je ociscen i prohodan. sledi povratak pomenutom stazom do raskrsnice sliva, a onda i spustanje ka jugu sirokim putem u duzini od 3km do manastira sv. jovan. od manastira se prati staza koja vodi do temenog vrha, obilazeci ga sa severne strane. ta staza je u blagom nagibu, najpre siroka, a potom uska u zoni vrha. ova deonica je godinama bila urasla i vrlo tesko prohodna, ali sada je ona ociscena i spremna za bezbedan prolazak planinara. • plato ispod temenog vrha je uglavnom ogoljen i lako prohodan, ali potrebno je dobro pratiti markacije kako bi se izaslo na stari put koji vodi do gornjeg matejevca. taj put je prohodan i u blagom spustu dolazi do glavnog makadamskog puta izmedju gornjeg matejevca i kamenice. na ulasku u gornji matejevac se nalazi latinska crkva, odakle se pruza sjajan pogled na nis i kotlinu. zavrsetak staze je u centru gornjeg matejevca, oko 1 km nakon latinske ckrve, odakle se moze sacekati autobus koji iz knez sela vozi za nis. • cela staza je dobro markirana propisanim oznakama, koje osvezene i na nekim mestima dodatno i gusce rasporedjene, kao sto je slucaj u zoni temenog vrha. staza je markirana u oba smera.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:00:08Z"
+    }
+}

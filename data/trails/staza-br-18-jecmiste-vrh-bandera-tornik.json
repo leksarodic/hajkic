@@ -1,0 +1,241 @@
+{
+    "schema_version": 1,
+    "slug": "staza-br-18-jecmiste-vrh-bandera-tornik",
+    "name": "Staza br. 18: Ječmište – vrh Bandera (Tornik)",
+    "code": "5-12-11",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 19140,
+        "category_id": 28,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            122
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Zlatibor",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 16.1,
+        "calculated_km": 16.09
+    },
+    "duration": {
+        "official_minutes": 330,
+        "official_text": "5 h 30 min",
+        "official_raw": "5:30"
+    },
+    "elevation": {
+        "official_gain_m": 670.0,
+        "official_loss_m": 670.0,
+        "calculated_gain_m": 802.7,
+        "calculated_loss_m": 800.5,
+        "min_m": 1067.7,
+        "max_m": 1496.0
+    },
+    "start": "Parking Ski centra \"Tornik\" na Ječmištu",
+    "end": "Parking Ski centra \"Tornik\" na Ječmištu",
+    "description": "Parking Ski centra „Tornik“ na Ječmištu – Savića česma (0,5 km) – vrh Bandera (3,6 km) – Dragovića presedo (5,6 km) – vrh Ravni Tornik (7,5 km) – izvor Veliki Zaglavak (9,3 km) – Marinkova kosa (13,6 km) - Parking Ski centra „Tornik“ na Ječmištu (16,1 km)",
+    "landmarks": "Vrh Bandera (Tornik), vrh Ravni Tornik, Savića spomen-česma",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Stazu je trasirao Šuljagić Veliša sa Zlatibora 2020. godine i markirana je 2021. godine.\n\nStaza je izgrađena sredstvima JP-a \"Srbijašume\" Beograd.",
+    "map_reference": null,
+    "map_sheet": "1:50000 Titovo Užice 3 (528-3)",
+    "club": {
+        "name": "Tornik PK",
+        "url": "https://pss.rs/adresar_klubova/tornik-pk/",
+        "contact": "Zlatiborska 28\n064 156 55 78",
+        "clubs": [
+            {
+                "name": "Tornik PK",
+                "url": "https://pss.rs/adresar_klubova/tornik-pk/",
+                "contact": "Zlatiborska 28\n064 156 55 78"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 9,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2023/03/Staza-18-Jecmiste-vrh-Bandera.gpx",
+        "fetched_at": "2026-11-08T12:02:53Z",
+        "checked_at": "2026-11-08T12:02:53Z",
+        "bytes": 243607,
+        "sha256": "daca16cad8946a4f5cf785b6926aa16e5a21194c4e19bf1dc95126bc6230a310",
+        "etag": null,
+        "last_modified": "Mon, 27 Mar 2023 14:32:41 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 2237,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 7,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2023/03/Staza-18-Jecmiste-vrh-Bandera.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/staza-br-18-jecmiste-vrh-bandera-tornik.geojson",
+        "bbox": [
+            19.629065,
+            43.6423333,
+            19.6911702,
+            43.6720312
+        ],
+        "center": [
+            19.660118,
+            43.657182
+        ],
+        "start_point": [
+            19.6469458,
+            43.6714394
+        ],
+        "end_point": [
+            19.6470413,
+            43.6713905
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    19.64695,
+                    43.67144
+                ],
+                [
+                    19.63629,
+                    43.66953
+                ],
+                [
+                    19.63442,
+                    43.66283
+                ],
+                [
+                    19.62907,
+                    43.661
+                ],
+                [
+                    19.63351,
+                    43.65704
+                ],
+                [
+                    19.63986,
+                    43.65377
+                ],
+                [
+                    19.64857,
+                    43.65633
+                ],
+                [
+                    19.66338,
+                    43.65567
+                ],
+                [
+                    19.67015,
+                    43.64953
+                ],
+                [
+                    19.68041,
+                    43.64809
+                ],
+                [
+                    19.69117,
+                    43.64233
+                ],
+                [
+                    19.69085,
+                    43.64743
+                ],
+                [
+                    19.68693,
+                    43.6499
+                ],
+                [
+                    19.67625,
+                    43.65203
+                ],
+                [
+                    19.67312,
+                    43.65512
+                ],
+                [
+                    19.66714,
+                    43.6553
+                ],
+                [
+                    19.66773,
+                    43.65952
+                ],
+                [
+                    19.66241,
+                    43.66092
+                ],
+                [
+                    19.66056,
+                    43.65977
+                ],
+                [
+                    19.66022,
+                    43.66979
+                ],
+                [
+                    19.65133,
+                    43.67202
+                ],
+                [
+                    19.64698,
+                    43.66891
+                ],
+                [
+                    19.64704,
+                    43.67139
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/staza-br-18-jecmiste-vrh-bandera-tornik/",
+        "canonical_url": "https://pss.rs/terenipp/staza-br-18-jecmiste-vrh-bandera-tornik/",
+        "pss_id": 19140,
+        "updated_at": "2023-03-28T18:08:58Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:02:54Z",
+        "last_synced_at": "2026-11-08T12:02:54Z"
+    },
+    "search": "staza br. 18: jecmiste – vrh bandera (tornik) 5-12-11 jugozapadna srbija zlatibor parking ski centra \"tornik\" na jecmistu parking ski centra \"tornik\" na jecmistu tornik pk vrh bandera (tornik), vrh ravni tornik, savica spomen-cesma laka parking ski centra „tornik“ na jecmistu – savica cesma (0,5 km) – vrh bandera (3,6 km) – dragovica presedo (5,6 km) – vrh ravni tornik (7,5 km) – izvor veliki zaglavak (9,3 km) – marinkova kosa (13,6 km) - parking ski centra „tornik“ na jecmistu (16,1 km)",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:02:54Z"
+    }
+}

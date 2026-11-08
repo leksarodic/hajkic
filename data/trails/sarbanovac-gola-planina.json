@@ -1,0 +1,175 @@
+{
+    "schema_version": 1,
+    "slug": "sarbanovac-gola-planina",
+    "name": "Gola planina",
+    "code": "4-27-5",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 4614,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            71
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Rtanj",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 8.0,
+        "calculated_km": 6.28
+    },
+    "duration": {
+        "official_minutes": 300,
+        "official_text": "5 h",
+        "official_raw": "5:00"
+    },
+    "elevation": {
+        "official_gain_m": 583.0,
+        "official_loss_m": 17.0,
+        "calculated_gain_m": 571.2,
+        "calculated_loss_m": 2.2,
+        "min_m": 530.5,
+        "max_m": 1105.8
+    },
+    "start": "selo Šarbanovac, 530 mnv",
+    "end": "Gola planina (Greda), 1113 mnv",
+    "description": "Staza koristi poljske i šumske puteve (početni kilometri), 3 kilometara pred kraj staza postaje uža sa stenovitom podlogom. Postoji i izvor na stazi (na 2km od vrha). Sa vrha se pruža lep pogled ka Rtnju i sokobanjskoj kotlini.",
+    "landmarks": "• Vidikovaca ima, uključujući i sam vrh\n\n • Na stazi ima izvor pitke vode - Bogojevski kladenac\n\n • Na trasi nema smeštaja",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu su trasirali Milan Dikulić, Marko Bogićević i Mladen Antić\n\n • Poslednji put staza je markirana septembra 2018.godine.",
+    "map_reference": null,
+    "map_sheet": "TK Aleksinac (Sokobanja zapad, 1:50.000)",
+    "club": {
+        "name": "Oštra čuka PD",
+        "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+        "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/",
+        "clubs": [
+            {
+                "name": "Oštra čuka PD",
+                "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+                "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/08/4-27-5-Gola-planina.gpx",
+        "fetched_at": "2026-11-08T11:58:58Z",
+        "checked_at": "2026-11-08T11:58:58Z",
+        "bytes": 19076,
+        "sha256": "2c8cb0c017e4294fc3ede09ae268f61e04d3e5d2db48d32b041b6dd65b467a9d",
+        "etag": null,
+        "last_modified": "Fri, 21 Dec 2018 08:01:40 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 146,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 2,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/08/4-27-5-Gola-planina.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/sarbanovac-gola-planina.geojson",
+        "bbox": [
+            21.88391980715096,
+            43.704538978636265,
+            21.901940312236547,
+            43.74491351656616
+        ],
+        "center": [
+            21.89293,
+            43.724726
+        ],
+        "start_point": [
+            21.88391980715096,
+            43.70517692528665
+        ],
+        "end_point": [
+            21.897803507745266,
+            43.74491351656616
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.88392,
+                    43.70518
+                ],
+                [
+                    21.88786,
+                    43.70498
+                ],
+                [
+                    21.89533,
+                    43.71117
+                ],
+                [
+                    21.8953,
+                    43.71788
+                ],
+                [
+                    21.8924,
+                    43.72255
+                ],
+                [
+                    21.90007,
+                    43.72875
+                ],
+                [
+                    21.89818,
+                    43.73428
+                ],
+                [
+                    21.90194,
+                    43.73528
+                ],
+                [
+                    21.8978,
+                    43.74491
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/sarbanovac-gola-planina/",
+        "canonical_url": "https://pss.rs/terenipp/sarbanovac-gola-planina/",
+        "pss_id": 4614,
+        "updated_at": "2019-02-12T15:36:50Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:58:59Z",
+        "last_synced_at": "2026-11-08T11:58:59Z"
+    },
+    "search": "gola planina 4-27-5 istocna srbija rtanj selo sarbanovac, 530 mnv gola planina (greda), 1113 mnv ostra cuka pd • vidikovaca ima, ukljucujuci i sam vrh • na stazi ima izvor pitke vode - bogojevski kladenac • na trasi nema smestaja zahtevna staza koristi poljske i sumske puteve (pocetni kilometri), 3 kilometara pred kraj staza postaje uza sa stenovitom podlogom. postoji i izvor na stazi (na 2km od vrha). sa vrha se pruza lep pogled ka rtnju i sokobanjskoj kotlini.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:58:59Z"
+    }
+}

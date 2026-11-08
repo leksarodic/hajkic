@@ -1,0 +1,193 @@
+{
+    "schema_version": 1,
+    "slug": "manastirska-staza",
+    "name": "Manastirska staza",
+    "code": "2-8-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 3642,
+        "category_id": 28,
+        "region_ids": [
+            2
+        ],
+        "mountain_ids": [
+            49
+        ]
+    },
+    "region": "Šumadija",
+    "mountain": "Rudnik",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 12.5,
+        "calculated_km": 12.99
+    },
+    "duration": {
+        "official_minutes": 330,
+        "official_text": "5 h 30 min",
+        "official_raw": "5:30"
+    },
+    "elevation": {
+        "official_gain_m": 586.0,
+        "official_loss_m": 641.0,
+        "calculated_gain_m": 661.1,
+        "calculated_loss_m": 577.8,
+        "min_m": 422.2,
+        "max_m": 815.8
+    },
+    "start": "Crkva u selu Ramaća - 500",
+    "end": "Crkva u selu Ramaća - 500",
+    "description": null,
+    "landmarks": "Crkva Kumanica u Ramaći i manastir Voljavča",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Staza nije kružna",
+    "map_reference": null,
+    "map_sheet": "1:50000, Kragujevac 3",
+    "club": {
+        "name": "Žeželj PD",
+        "url": "https://pss.rs/adresar_klubova/zezelj-pd/",
+        "contact": "Rudnička 7a 34000 Kragujevac\n+38164 21 83 412\nhttp://www.pdzezelj.org",
+        "clubs": [
+            {
+                "name": "Žeželj PD",
+                "url": "https://pss.rs/adresar_klubova/zezelj-pd/",
+                "contact": "Rudnička 7a 34000 Kragujevac\n+38164 21 83 412\nhttp://www.pdzezelj.org"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/Manastir-Voljavca-Ramaca_PD-Zezelj.gpx",
+        "fetched_at": "2026-11-08T12:50:18Z",
+        "checked_at": "2026-11-08T12:50:18Z",
+        "bytes": 130240,
+        "sha256": "ed7410f73dddae8e26584d47a65a51fe54a5b6033dc999163f97541a93e8fba4",
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 1204,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 5,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/Manastir-Voljavca-Ramaca_PD-Zezelj.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/manastirska-staza.geojson",
+        "bbox": [
+            20.6181562,
+            44.0995465,
+            20.6757649,
+            44.1285771
+        ],
+        "center": [
+            20.646961,
+            44.114062
+        ],
+        "start_point": [
+            20.6347875,
+            44.1258025
+        ],
+        "end_point": [
+            20.6757649,
+            44.09959
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    20.63479,
+                    44.1258
+                ],
+                [
+                    20.63356,
+                    44.12479
+                ],
+                [
+                    20.64629,
+                    44.12817
+                ],
+                [
+                    20.6371,
+                    44.11658
+                ],
+                [
+                    20.62121,
+                    44.11545
+                ],
+                [
+                    20.61816,
+                    44.10813
+                ],
+                [
+                    20.62385,
+                    44.10415
+                ],
+                [
+                    20.62266,
+                    44.10331
+                ],
+                [
+                    20.63724,
+                    44.10368
+                ],
+                [
+                    20.64356,
+                    44.10094
+                ],
+                [
+                    20.65706,
+                    44.10034
+                ],
+                [
+                    20.66476,
+                    44.10842
+                ],
+                [
+                    20.67576,
+                    44.09959
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/manastirska-staza/",
+        "canonical_url": "https://pss.rs/terenipp/manastirska-staza/",
+        "pss_id": 3642,
+        "updated_at": "2022-09-05T19:33:03Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:50:19Z",
+        "last_synced_at": "2026-11-08T12:50:19Z"
+    },
+    "search": "manastirska staza 2-8-1 sumadija rudnik crkva u selu ramaca - 500 crkva u selu ramaca - 500 zezelj pd crkva kumanica u ramaci i manastir voljavca laka",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:50:19Z"
+    }
+}

@@ -1,0 +1,292 @@
+{
+    "schema_version": 1,
+    "slug": "leskovac-kotlenjaca-gruzansko-jezero-knic",
+    "name": "Leskovac - Kotlenjača - Gružansko jezero - Knić",
+    "code": "2-13-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 8935,
+        "category_id": 28,
+        "region_ids": [
+            2
+        ],
+        "mountain_ids": [
+            126
+        ]
+    },
+    "region": "Šumadija",
+    "mountain": "Kotlenik",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 26.5,
+        "calculated_km": 26.46
+    },
+    "duration": {
+        "official_minutes": 540,
+        "official_text": "9 h",
+        "official_raw": "9:00"
+    },
+    "elevation": {
+        "official_gain_m": 1260.0,
+        "official_loss_m": 1230.0,
+        "calculated_gain_m": 1003.7,
+        "calculated_loss_m": 978.2,
+        "min_m": 253.3,
+        "max_m": 733.9
+    },
+    "start": "Lekovac, 280m",
+    "end": "Knić, 305m",
+    "description": "• Na ruti nema ekstremno napornih delova - ali je staza duga. Vodi kroz nenastanjene predela Kotlenika, pa uz sebe treba kao minimum imati zalihu vode, telefon i baterijsku lampu. Iako je obeležena, GPS uređaj sa učitanim trekom i tačkama na ruti će biti koristan \"alat\".\n\n • Prvi deo rute je pretežno šumski. Na 5 kilometru od starta uživaćemo u lepoj stazi usečenu u strmu stranu sa bukovom šumom, a posle vodopada na Kotlenjači (ativan uglavnom do aprila) izlazimo na brdo sa temeljima tajanstvenog starog grada. Na 9 kilometru stižemo do odmorišta na brdu Cerje - vrh i lovačka koliba su samo nekoliko stotina metara dalje. Odatle se brzo spuštamo u pitomine oko Gružanskog jezera i izbijamo na njegovu obalu. Divnom stazom uz vodu i kroz bukovu šumu stižemo do brane pa silazimo u Pajsijević - odatle nas čeka dug uspon na Lipov vrh, a potom nam preostaje prijatan silazak u Knić.",
+    "landmarks": "• Vodopad Kotlenjača\n\n • Ostaci starog grada\n\n • Gružansko jezero\n\n • Vidikovci: 2\n\n • Izvori pitke vode na trasi: 5\n\n • Privatni smeštaj, na trasi 2, van trase 1 (4km od starta)\n\n • Odmaralište na trasi 1",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• PD \"Kamenac\", Gruža\n\n • Predsednik Gordan Miladinović, tel. 063 79 96 224\n\n • Stazu su trasirali Gordan Miladinović i Jovan Eraković, oktobra 2018.god.\n\n • Poslednji put staza je markirana marta 2019.god.\n\n.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": null,
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2019/05/2-13-1-Leskovac-Kotlenjaca-Knic.gpx",
+        "fetched_at": "2026-11-08T12:00:18Z",
+        "checked_at": "2026-11-08T12:00:18Z",
+        "bytes": 706595,
+        "sha256": "a3ec8d9ab7000f6c1987af01bf2c6f2389f7bbca8c5249b5491e161edddeacbf",
+        "etag": null,
+        "last_modified": "Fri, 10 May 2019 13:31:58 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 4323,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 18,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2019/05/2-13-1-Leskovac-Kotlenjaca-Knic.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/leskovac-kotlenjaca-gruzansko-jezero-knic.geojson",
+        "bbox": [
+            20.676858024671674,
+            43.842150969430804,
+            20.752882976084948,
+            43.926482973620296
+        ],
+        "center": [
+            20.714871,
+            43.884317
+        ],
+        "start_point": [
+            20.752882976084948,
+            43.846339993178844
+        ],
+        "end_point": [
+            20.719689968973398,
+            43.926482973620296
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    20.75288,
+                    43.84634
+                ],
+                [
+                    20.74499,
+                    43.84637
+                ],
+                [
+                    20.72902,
+                    43.84229
+                ],
+                [
+                    20.72472,
+                    43.84532
+                ],
+                [
+                    20.72547,
+                    43.84683
+                ],
+                [
+                    20.71765,
+                    43.84943
+                ],
+                [
+                    20.72217,
+                    43.85648
+                ],
+                [
+                    20.719,
+                    43.85765
+                ],
+                [
+                    20.70987,
+                    43.85727
+                ],
+                [
+                    20.70243,
+                    43.84962
+                ],
+                [
+                    20.69846,
+                    43.8513
+                ],
+                [
+                    20.69906,
+                    43.85358
+                ],
+                [
+                    20.69501,
+                    43.85264
+                ],
+                [
+                    20.68515,
+                    43.85755
+                ],
+                [
+                    20.68147,
+                    43.86504
+                ],
+                [
+                    20.67715,
+                    43.86781
+                ],
+                [
+                    20.68217,
+                    43.87732
+                ],
+                [
+                    20.68219,
+                    43.8837
+                ],
+                [
+                    20.69238,
+                    43.88616
+                ],
+                [
+                    20.69374,
+                    43.88803
+                ],
+                [
+                    20.69168,
+                    43.89082
+                ],
+                [
+                    20.6962,
+                    43.89063
+                ],
+                [
+                    20.69666,
+                    43.89476
+                ],
+                [
+                    20.70016,
+                    43.89747
+                ],
+                [
+                    20.69908,
+                    43.89578
+                ],
+                [
+                    20.70278,
+                    43.89606
+                ],
+                [
+                    20.70326,
+                    43.89215
+                ],
+                [
+                    20.71302,
+                    43.887
+                ],
+                [
+                    20.71309,
+                    43.88473
+                ],
+                [
+                    20.72407,
+                    43.88383
+                ],
+                [
+                    20.72551,
+                    43.8881
+                ],
+                [
+                    20.72162,
+                    43.89408
+                ],
+                [
+                    20.72536,
+                    43.8973
+                ],
+                [
+                    20.72337,
+                    43.90164
+                ],
+                [
+                    20.71873,
+                    43.90402
+                ],
+                [
+                    20.7232,
+                    43.90417
+                ],
+                [
+                    20.72517,
+                    43.91082
+                ],
+                [
+                    20.72026,
+                    43.91655
+                ],
+                [
+                    20.71297,
+                    43.91807
+                ],
+                [
+                    20.70988,
+                    43.92347
+                ],
+                [
+                    20.71969,
+                    43.92648
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/leskovac-kotlenjaca-gruzansko-jezero-knic/",
+        "canonical_url": "https://pss.rs/terenipp/leskovac-kotlenjaca-gruzansko-jezero-knic/",
+        "pss_id": 8935,
+        "updated_at": "2019-05-10T14:21:24Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:00:19Z",
+        "last_synced_at": "2026-11-08T12:00:19Z"
+    },
+    "search": "leskovac - kotlenjaca - gruzansko jezero - knic 2-13-1 sumadija kotlenik lekovac, 280m knic, 305m • vodopad kotlenjaca • ostaci starog grada • gruzansko jezero • vidikovci: 2 • izvori pitke vode na trasi: 5 • privatni smestaj, na trasi 2, van trase 1 (4km od starta) • odmaraliste na trasi 1 zahtevna • na ruti nema ekstremno napornih delova - ali je staza duga. vodi kroz nenastanjene predela kotlenika, pa uz sebe treba kao minimum imati zalihu vode, telefon i baterijsku lampu. iako je obelezena, gps uredjaj sa ucitanim trekom i tackama na ruti ce biti koristan \"alat\". • prvi deo rute je pretezno sumski. na 5 kilometru od starta uzivacemo u lepoj stazi usecenu u strmu stranu sa bukovom sumom, a posle vodopada na kotlenjaci (ativan uglavnom do aprila) izlazimo na brdo sa temeljima tajanstvenog starog grada. na 9 kilometru stizemo do odmorista na brdu cerje - vrh i lovacka koliba su samo nekoliko stotina metara dalje. odatle se brzo spustamo u pitomine oko gruzanskog jezera i izbijamo na njegovu obalu. divnom stazom uz vodu i kroz bukovu sumu stizemo do brane pa silazimo u pajsijevic - odatle nas ceka dug uspon na lipov vrh, a potom nam preostaje prijatan silazak u knic.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:00:19Z"
+    }
+}

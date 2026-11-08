@@ -1,0 +1,199 @@
+{
+    "schema_version": 1,
+    "slug": "sokobanja-kalinovica-ostra-cuka",
+    "name": "Sokobanja - Kalinovica - Oštra Čuka",
+    "code": "4-31-2",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 3798,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            57
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Devica",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 9.0,
+        "calculated_km": 9.02
+    },
+    "duration": {
+        "official_minutes": 240,
+        "official_text": "4 h",
+        "official_raw": "4"
+    },
+    "elevation": {
+        "official_gain_m": 780.0,
+        "official_loss_m": 47.0,
+        "calculated_gain_m": 750.0,
+        "calculated_loss_m": 16.6,
+        "min_m": 308.3,
+        "max_m": 1043.9
+    },
+    "start": "Sokobanja centar, 300mnv",
+    "end": "Oštra Čuka, 1075mnv",
+    "description": "Spaja sledeće staze/puteve: \"Šopur - Čapljinac\", \"Oštra Čuka - selo Jezero\" i \"Vlasina - Leskovik\"",
+    "landmarks": "• Sokobanja\n\n • Vidikovci: Janior, Ozrenske livade, Vlasina i Oštra Čuka\n\n • Na stazi ima izvora pitke vode: Borići, Barudžija, Kalinovica, Šopur\n\n • Na stazi ima odmaralište i privatni smeštaj, a van trase smeštaj u Sokobanji",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu je trasiralo PD \"Ošta Čuka\", avgusta 2011. godine\n\n • Poslednji put staza je markirana oktobra 2014. godine",
+    "map_reference": null,
+    "map_sheet": "1:50000 (532 Aleksinac C3)",
+    "club": {
+        "name": "Oštra čuka PD",
+        "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+        "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/",
+        "clubs": [
+            {
+                "name": "Oštra čuka PD",
+                "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+                "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/4-31-2-Sokobanja-Ostra-Cuka.gpx",
+        "fetched_at": "2026-11-08T11:55:26Z",
+        "checked_at": "2026-11-08T11:55:26Z",
+        "bytes": 21375,
+        "sha256": "3526beb2c8a38662d0f3f44c2f872f8a80720350c5abbf6e710f887dd59abb2a",
+        "etag": null,
+        "last_modified": "Fri, 21 Dec 2018 10:41:14 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 163,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 3,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/4-31-2-Sokobanja-Ostra-Cuka.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/sokobanja-kalinovica-ostra-cuka.geojson",
+        "bbox": [
+            21.869702339172363,
+            43.59306335449219,
+            21.897683143615723,
+            43.64396095275879
+        ],
+        "center": [
+            21.883693,
+            43.618512
+        ],
+        "start_point": [
+            21.87352180480957,
+            43.64396095275879
+        ],
+        "end_point": [
+            21.89748658798635,
+            43.59623531810939
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.87352,
+                    43.64396
+                ],
+                [
+                    21.87232,
+                    43.63649
+                ],
+                [
+                    21.87614,
+                    43.63864
+                ],
+                [
+                    21.87567,
+                    43.63426
+                ],
+                [
+                    21.87099,
+                    43.63096
+                ],
+                [
+                    21.8697,
+                    43.62701
+                ],
+                [
+                    21.87365,
+                    43.61555
+                ],
+                [
+                    21.87854,
+                    43.608
+                ],
+                [
+                    21.88725,
+                    43.60426
+                ],
+                [
+                    21.89125,
+                    43.59624
+                ],
+                [
+                    21.8897,
+                    43.59658
+                ],
+                [
+                    21.89339,
+                    43.59328
+                ],
+                [
+                    21.89592,
+                    43.59332
+                ],
+                [
+                    21.89674,
+                    43.59843
+                ],
+                [
+                    21.89749,
+                    43.59624
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/sokobanja-kalinovica-ostra-cuka/",
+        "canonical_url": "https://pss.rs/terenipp/sokobanja-kalinovica-ostra-cuka/",
+        "pss_id": 3798,
+        "updated_at": "2018-12-21T10:43:14Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:55:27Z",
+        "last_synced_at": "2026-11-08T11:55:27Z"
+    },
+    "search": "sokobanja - kalinovica - ostra cuka 4-31-2 istocna srbija devica sokobanja centar, 300mnv ostra cuka, 1075mnv ostra cuka pd • sokobanja • vidikovci: janior, ozrenske livade, vlasina i ostra cuka • na stazi ima izvora pitke vode: borici, barudzija, kalinovica, sopur • na stazi ima odmaraliste i privatni smestaj, a van trase smestaj u sokobanji zahtevna spaja sledece staze/puteve: \"sopur - capljinac\", \"ostra cuka - selo jezero\" i \"vlasina - leskovik\"",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:55:27Z"
+    }
+}

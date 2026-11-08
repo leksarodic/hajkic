@@ -1,0 +1,123 @@
+{
+    "schema_version": 1,
+    "slug": "katici-mucanj",
+    "name": "Katići - Mučanj",
+    "code": "5-23-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 4481,
+        "category_id": 28,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            95
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Mučanj",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 17.0,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": 240,
+        "official_text": "4 h",
+        "official_raw": "4:00"
+    },
+    "elevation": {
+        "official_gain_m": 510.0,
+        "official_loss_m": 510.0,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": "Katići 1024m",
+    "end": "Katići 1024m",
+    "description": "Staza markirana u oba pravca",
+    "landmarks": "Vidikovac: Mučanj",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Stazu trasirao i markirao Aleksandar Marković 2014.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Golija PD",
+        "url": "https://pss.rs/adresar_klubova/golija-pd/",
+        "contact": "Braće Rabrenović 11, 32250 Ivanjica\n062 223797",
+        "clubs": [
+            {
+                "name": "Golija PD",
+                "url": "https://pss.rs/adresar_klubova/golija-pd/",
+                "contact": "Braće Rabrenović 11, 32250 Ivanjica\n062 223797"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": false,
+        "status": "missing",
+        "source_url": null,
+        "fetched_at": null,
+        "checked_at": "2026-11-08T11:56:59Z",
+        "bytes": null,
+        "sha256": null,
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": null,
+        "tracks": null,
+        "segments": null,
+        "waypoints": null,
+        "error": null,
+        "download": {
+            "mode": "none",
+            "url": null
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_gpx"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/katici-mucanj/",
+        "canonical_url": "https://pss.rs/terenipp/katici-mucanj/",
+        "pss_id": 4481,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:56:59Z",
+        "last_synced_at": "2026-11-08T11:56:59Z"
+    },
+    "search": "katici - mucanj 5-23-1 jugozapadna srbija mucanj katici 1024m katici 1024m golija pd vidikovac: mucanj laka staza markirana u oba pravca",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:56:59Z"
+    }
+}

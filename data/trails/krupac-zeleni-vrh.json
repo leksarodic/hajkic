@@ -1,0 +1,185 @@
+{
+    "schema_version": 1,
+    "slug": "krupac-zeleni-vrh",
+    "name": "Krupac - Zeleni vrh",
+    "code": "4-39-3",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 4494,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            51
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Svrljiške planine",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 6.6,
+        "calculated_km": 6.5
+    },
+    "duration": {
+        "official_minutes": 180,
+        "official_text": "3 h",
+        "official_raw": "3:00"
+    },
+    "elevation": {
+        "official_gain_m": 1084.0,
+        "official_loss_m": 0.0,
+        "calculated_gain_m": 1079.8,
+        "calculated_loss_m": 27.0,
+        "min_m": 272.8,
+        "max_m": 1329.2
+    },
+    "start": "Dom izviđača u selu Krupac, 250m",
+    "end": "Zeleni vrh, 1134m",
+    "description": null,
+    "landmarks": "• Izvor pitke vode samo na početku staze.\n\n • Na stazi drugi smeštaj: 1",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Staza je poslednji put markirana maja 2015.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Železničar PK Niš",
+        "url": "https://pss.rs/adresar_klubova/zeleznicar-pk/",
+        "contact": "Tvrđava bb, 18000 Niš\n064 833 000 3, 061 168 777 1\nhttp://www.planinari-zeleznicar.rs/",
+        "clubs": [
+            {
+                "name": "Železničar PK Niš",
+                "url": "https://pss.rs/adresar_klubova/zeleznicar-pk/",
+                "contact": "Tvrđava bb, 18000 Niš\n064 833 000 3, 061 168 777 1\nhttp://www.planinari-zeleznicar.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/08/4-39-3-Krupac-Zeleni-vrh.gpx",
+        "fetched_at": "2026-11-08T11:57:21Z",
+        "checked_at": "2026-11-08T11:57:21Z",
+        "bytes": 68222,
+        "sha256": "a1e608f1adab3e15482094da1734780f54a4bf1ec323eb20066f0c6c7fb36285",
+        "etag": null,
+        "last_modified": "Wed, 31 Jan 2018 10:45:12 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 566,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 2,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/08/4-39-3-Krupac-Zeleni-vrh.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/krupac-zeleni-vrh.geojson",
+        "bbox": [
+            22.223389986902475,
+            43.29402999021113,
+            22.254279982298613,
+            43.330439971759915
+        ],
+        "center": [
+            22.238835,
+            43.312235
+        ],
+        "start_point": [
+            22.223389986902475,
+            43.29524000175297
+        ],
+        "end_point": [
+            22.25292001850903,
+            43.330439971759915
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    22.22339,
+                    43.29524
+                ],
+                [
+                    22.23182,
+                    43.29424
+                ],
+                [
+                    22.23325,
+                    43.29648
+                ],
+                [
+                    22.23021,
+                    43.29697
+                ],
+                [
+                    22.23065,
+                    43.30157
+                ],
+                [
+                    22.24332,
+                    43.31649
+                ],
+                [
+                    22.24324,
+                    43.32214
+                ],
+                [
+                    22.24867,
+                    43.3207
+                ],
+                [
+                    22.251,
+                    43.32314
+                ],
+                [
+                    22.25428,
+                    43.32824
+                ],
+                [
+                    22.25292,
+                    43.33044
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/krupac-zeleni-vrh/",
+        "canonical_url": "https://pss.rs/terenipp/krupac-zeleni-vrh/",
+        "pss_id": 4494,
+        "updated_at": "2018-01-31T10:45:53Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:57:22Z",
+        "last_synced_at": "2026-11-08T11:57:22Z"
+    },
+    "search": "krupac - zeleni vrh 4-39-3 istocna srbija svrljiske planine dom izvidjaca u selu krupac, 250m zeleni vrh, 1134m zeleznicar pk nis • izvor pitke vode samo na pocetku staze. • na stazi drugi smestaj: 1 zahtevna",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:57:22Z"
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "schema_version": 1,
+    "slug": "staza-vedrog-duha",
+    "name": "Staza Vedrog duha",
+    "code": "2-5-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 4327,
+        "category_id": 28,
+        "region_ids": [
+            2
+        ],
+        "mountain_ids": [
+            86
+        ]
+    },
+    "region": "Šumadija",
+    "mountain": "Bukulja",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 17.0,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": 300,
+        "official_text": "5 h",
+        "official_raw": "5:00"
+    },
+    "elevation": {
+        "official_gain_m": 800.0,
+        "official_loss_m": 800.0,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": "Manastir Brezovac 255m",
+    "end": "Vrh Bukulje 696m",
+    "description": null,
+    "landmarks": "• Manastir Brezovac, \n\n • Vidikovac na Bukulji",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinarska kuća PD \"Bukulja\"",
+    "notes": "• Stazu trasirao Aleksandar Milinković 1981.\n\n • Poslednji put markirana 2015.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Bukulja PD",
+        "url": "https://pss.rs/adresar_klubova/bukulja-pd/",
+        "contact": "Knjaza Miloša 69, 34300 Aranđelovac\n060 141 65 75",
+        "clubs": [
+            {
+                "name": "Bukulja PD",
+                "url": "https://pss.rs/adresar_klubova/bukulja-pd/",
+                "contact": "Knjaza Miloša 69, 34300 Aranđelovac\n060 141 65 75"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": false,
+        "status": "missing",
+        "source_url": null,
+        "fetched_at": null,
+        "checked_at": "2026-11-08T11:56:36Z",
+        "bytes": null,
+        "sha256": null,
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": null,
+        "tracks": null,
+        "segments": null,
+        "waypoints": null,
+        "error": null,
+        "download": {
+            "mode": "none",
+            "url": null
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description",
+            "missing_gpx"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/staza-vedrog-duha/",
+        "canonical_url": "https://pss.rs/terenipp/staza-vedrog-duha/",
+        "pss_id": 4327,
+        "updated_at": "2017-08-02T10:58:19Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:56:36Z",
+        "last_synced_at": "2026-11-08T11:56:36Z"
+    },
+    "search": "staza vedrog duha 2-5-1 sumadija bukulja manastir brezovac 255m vrh bukulje 696m bukulja pd • manastir brezovac, • vidikovac na bukulji zahtevna",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:56:36Z"
+    }
+}

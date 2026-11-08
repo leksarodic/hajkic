@@ -1,0 +1,905 @@
+{
+    "schema_version": 1,
+    "slug": "e7-9",
+    "name": "Divčibare - Ovčar Banja",
+    "code": "E7-9",
+    "category": {
+        "key": "evropski-pesacki-putevi-u-srbiji",
+        "label": "Evropski pešački putevi u Srbiji"
+    },
+    "pss": {
+        "post_id": 3730,
+        "category_id": 29,
+        "region_ids": [
+            3
+        ],
+        "mountain_ids": [
+            390,
+            155,
+            49,
+            40
+        ]
+    },
+    "region": "Zapadna Srbija",
+    "mountain": "Kablar",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevan"
+    },
+    "distance": {
+        "official_km": 133.2,
+        "calculated_km": 133.65
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": 4578.0,
+        "official_loss_m": 5264.0,
+        "calculated_gain_m": 3888.7,
+        "calculated_loss_m": 4603.1,
+        "min_m": 264.0,
+        "max_m": 1105.0
+    },
+    "start": null,
+    "end": null,
+    "description": "• Sa Divčibara put E7 prelazi na dugački greben planina Suvobor i\nRajac koje su niže od 1000 metara i prekrivene pašnjacima i šumama.\nOvo je takođe istorijski put po planinskom vencu na kome je održana\nznačajna Kolubarska bitka u Prvom svetskom ratu.\n\n • Na planini Rajac koji je takođe turistička zona nalazi se planinarski\ndom podignut 1953. godine. U široj okolini Rajca i Suvobora nalazi\nse dobro obeležena mreža staza za rekreativno pešačenje. Postoje i\nkvalitetne karte za orijentaciojsko takmičenje. Ovde se održavaju\nbrojne manifestacije i događaji usko vezani za etno-kulturno nasleđe.\n\n • Poznato je veliko takmičenje Kosidba na Rajcu koje okuplja i učesnike\niz inostranstva.\n\n • Sa Rajca put nastavlja prema planini Rudnik poznatoj po veoma starim\nostacima rudarske aktivnosti. Rudnik olova, cinka i srebra i danas\nje aktivan. U direkciji rudnika nalazi se mali muzej. Na Rudniku i u\nokolini nalazi se nekoliko aktivnih manastira izgrađenih od 15. do\n18. veka.\n\n • Put E7 padinama Rudnika silazi u grad Gornji Milanovac, a zatim\nprolazi kroz niz sela Takovskog kraja koja su smeštena u prirodnim\noazama zelenih bregova na južnim padinama planina Suvobor i Rajac.\n\n • U mestu Takovo nalaze se spomenici posvećeni Drugom srpskom ustanku\nprotiv turske okupacije. U celom kraju već je razvijen etnoturizam.\n\n • Seoska arhitektura šumadijskog tipa budi posebnu pažnju. Prizemne\nkuće sa tremovima i doksatima su pravo mesto za odmor. Ovo je voćarski\nkraj i gosti se pridružuju u berbama voća i pripremanju džemova i\nrakija.\n\n • Kroz Takovski kraj i selo Pranjane, pored Kamenice, stiže se u poznatu\nOvčarsko-Kablarsku klisuru reke Zapadne Morave. Ova klisura\nzaštićena je kao Predeo izuzetnih odlika. Karakteriše je živi svet\nsa 150 vrsta ptica, 30 vrsta riba i više od 600 biljnih vrsta. Okolne\nstene vrhova Ovčar (986m) i Kablar (889m) veoma su dobri poligoni za\nalpinizam. Ovo je takođe istorijsko-kulturni predeo u kome se nalazi čak 10 živih manastira iz 14. veka sa izvanrednim freskama. Zbog toga\novu klisuru nazivaju „Srpska sveta gora”. Turističko naselje Ovčar\nBanja je poznato lečilište sa termalnim vodama. U blizini se nalazi\ngrad Čačak, privredni i kulturni centar. Iznad Čačka na planini\nJelici nalazi se značajan arheološki lokalitet Gradina sa ostacima\nranovizantijskog grada iz perioda 4. do 6. veka.",
+    "landmarks": "• Spomenik palim u Velikom ratu,\n\n • Spomen kompleks na Ravnoj Gori,\n\n • Rajac, Spomenik borcima Suvoborsko-kolubarske bitke,\n\n • Rudnik,\n\n • Spomen-kompleks Takovo,\n\n • Arheološki lokalitet Gradina na Jelici,\n\n • Ovčarsko-kablarska klisura sa svojim manastirima,\n\n • Ovčar banja",
+    "maintenance": null,
+    "marking": "evropska crveno-žuta",
+    "accommodation": "Divčibare, Dobra voda, Vrujci, Rajac, G. Milanovac, Čačak, Ovčar banja",
+    "notes": "• E7-9-1 Divčibare – Ravna Gora 14,9 km\n\n • E7-9-2 Ravna Gora – Rajac 11,4 km\n\n • E7-9-3 Rajac – Boljkovci 10,6 km\n\n • E7-9-4 Boljkovci – Rudnik 20,0 km\n\n • E7-9-5 Rudnik – Gornji Milanovac 28,4 km\n\n • E7-9-6 Gornji Milanovac – Takovo 8,1 km\n\n • E7-9-7 Takovo – Gornja Gorevnica 18,7 km\n\n • E7-9-8 Gornja Gorevnica – Ovčar Banja 21,1 km",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Kablar PD",
+        "url": "https://pss.rs/adresar_klubova/kablar-pd/",
+        "contact": "Kneza Miloša 1, 32000 Čačak\n+38164 852 60 48\nhttps://www.kablar.rs",
+        "clubs": [
+            {
+                "name": "Kablar PD",
+                "url": "https://pss.rs/adresar_klubova/kablar-pd/",
+                "contact": "Kneza Miloša 1, 32000 Čačak\n+38164 852 60 48\nhttps://www.kablar.rs"
+            },
+            {
+                "name": "Pobeda PSK",
+                "url": "https://pss.rs/adresar_klubova/pobeda-pk/",
+                "contact": "Mačvanska 8, 11000 Beograd\n+38163 329 434 ; +38163 32 94 50\nhttps://www.pskpobeda.rs"
+            },
+            {
+                "name": "Povlen PK",
+                "url": "https://pss.rs/adresar_klubova/povlen-pk/",
+                "contact": "Doktora Pantića 131/6 14000 Valjevo\n063-232039"
+            },
+            {
+                "name": "PTT POSK",
+                "url": "https://pss.rs/adresar_klubova/ptt-pd/",
+                "contact": "Kosovska 49, 11000 Beograd\n064 6653 609, 064 651 2972, 064 651 36 29\nhttp://www.pdptt.rs/"
+            },
+            {
+                "name": "Rudnik PSD",
+                "url": "https://pss.rs/adresar_klubova/rudnik-pd/",
+                "contact": "Karađorđeva 21, 32300 Gornji Milanovac\n 063 601 081"
+            },
+            {
+                "name": "Železničar PD Beograd",
+                "url": "https://pss.rs/adresar_klubova/zeleznicar-pk-2/",
+                "contact": "Bulevar Mihajla Pupina 167, 11070 Novi Beograd\n063 66 44 22; 064 293 0877\nhttp://www.zeleznicar.org.rs"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 7,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/E7-9-Divcibare-Ovcar-Banja.gpx",
+        "fetched_at": "2026-11-08T12:51:00Z",
+        "checked_at": "2026-11-08T12:51:00Z",
+        "bytes": 221070,
+        "sha256": "22175b18ab82bb79431da16cbd2fb7c45a119fbfcdf0f8a545a3ef61aa5a404c",
+        "etag": null,
+        "last_modified": "Sat, 07 Dec 2024 21:27:12 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 2971,
+        "tracks": 8,
+        "segments": 8,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/E7-9-Divcibare-Ovcar-Banja.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/e7-9.geojson",
+        "bbox": [
+            20.013701,
+            43.899736,
+            20.552748,
+            44.173213
+        ],
+        "center": [
+            20.283225,
+            44.036475
+        ],
+        "start_point": [
+            20.013701,
+            44.129307
+        ],
+        "end_point": [
+            20.187244,
+            43.899736
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    20.0137,
+                    44.12931
+                ],
+                [
+                    20.02192,
+                    44.1254
+                ],
+                [
+                    20.02671,
+                    44.12934
+                ],
+                [
+                    20.03685,
+                    44.12805
+                ],
+                [
+                    20.0412,
+                    44.12965
+                ],
+                [
+                    20.04533,
+                    44.12643
+                ],
+                [
+                    20.05562,
+                    44.12578
+                ],
+                [
+                    20.05721,
+                    44.12238
+                ],
+                [
+                    20.07284,
+                    44.11281
+                ],
+                [
+                    20.0827,
+                    44.1144
+                ],
+                [
+                    20.08735,
+                    44.11021
+                ],
+                [
+                    20.09715,
+                    44.10746
+                ],
+                [
+                    20.11135,
+                    44.10951
+                ],
+                [
+                    20.11475,
+                    44.10682
+                ],
+                [
+                    20.11712,
+                    44.1094
+                ],
+                [
+                    20.13482,
+                    44.10823
+                ],
+                [
+                    20.13838,
+                    44.11095
+                ],
+                [
+                    20.15672,
+                    44.1089
+                ]
+            ],
+            [
+                [
+                    20.15672,
+                    44.1089
+                ],
+                [
+                    20.1654,
+                    44.111
+                ],
+                [
+                    20.17575,
+                    44.11998
+                ],
+                [
+                    20.18114,
+                    44.12038
+                ],
+                [
+                    20.17541,
+                    44.12729
+                ],
+                [
+                    20.18155,
+                    44.12965
+                ],
+                [
+                    20.18184,
+                    44.13188
+                ],
+                [
+                    20.19376,
+                    44.13629
+                ],
+                [
+                    20.19119,
+                    44.14058
+                ],
+                [
+                    20.21087,
+                    44.13938
+                ],
+                [
+                    20.21536,
+                    44.14101
+                ],
+                [
+                    20.22541,
+                    44.13607
+                ],
+                [
+                    20.2404,
+                    44.1386
+                ],
+                [
+                    20.24506,
+                    44.14282
+                ]
+            ],
+            [
+                [
+                    20.24506,
+                    44.14282
+                ],
+                [
+                    20.24493,
+                    44.14068
+                ],
+                [
+                    20.25003,
+                    44.13971
+                ],
+                [
+                    20.2522,
+                    44.13644
+                ],
+                [
+                    20.2711,
+                    44.14345
+                ],
+                [
+                    20.27977,
+                    44.14407
+                ],
+                [
+                    20.29345,
+                    44.14129
+                ],
+                [
+                    20.30501,
+                    44.14243
+                ],
+                [
+                    20.3144,
+                    44.13846
+                ],
+                [
+                    20.31843,
+                    44.13245
+                ],
+                [
+                    20.3281,
+                    44.13625
+                ],
+                [
+                    20.33197,
+                    44.1405
+                ],
+                [
+                    20.33931,
+                    44.14165
+                ],
+                [
+                    20.33914,
+                    44.14349
+                ],
+                [
+                    20.34633,
+                    44.14384
+                ]
+            ],
+            [
+                [
+                    20.34633,
+                    44.14384
+                ],
+                [
+                    20.35544,
+                    44.14728
+                ],
+                [
+                    20.36641,
+                    44.1429
+                ],
+                [
+                    20.378,
+                    44.1483
+                ],
+                [
+                    20.39229,
+                    44.14503
+                ],
+                [
+                    20.40882,
+                    44.15332
+                ],
+                [
+                    20.40644,
+                    44.15688
+                ],
+                [
+                    20.42259,
+                    44.15386
+                ],
+                [
+                    20.42517,
+                    44.15825
+                ],
+                [
+                    20.43556,
+                    44.15904
+                ],
+                [
+                    20.43285,
+                    44.16097
+                ],
+                [
+                    20.43464,
+                    44.16448
+                ],
+                [
+                    20.43825,
+                    44.16488
+                ],
+                [
+                    20.44244,
+                    44.17132
+                ],
+                [
+                    20.45879,
+                    44.17166
+                ],
+                [
+                    20.45962,
+                    44.17321
+                ],
+                [
+                    20.46594,
+                    44.17049
+                ],
+                [
+                    20.4697,
+                    44.17139
+                ],
+                [
+                    20.4748,
+                    44.16631
+                ],
+                [
+                    20.47962,
+                    44.16543
+                ],
+                [
+                    20.47922,
+                    44.16305
+                ],
+                [
+                    20.48641,
+                    44.15932
+                ],
+                [
+                    20.49398,
+                    44.14122
+                ],
+                [
+                    20.49891,
+                    44.14078
+                ]
+            ],
+            [
+                [
+                    20.49891,
+                    44.14078
+                ],
+                [
+                    20.50232,
+                    44.1368
+                ],
+                [
+                    20.50836,
+                    44.13707
+                ],
+                [
+                    20.50659,
+                    44.1337
+                ],
+                [
+                    20.50939,
+                    44.13203
+                ],
+                [
+                    20.51032,
+                    44.13408
+                ],
+                [
+                    20.51397,
+                    44.13141
+                ],
+                [
+                    20.51891,
+                    44.13202
+                ],
+                [
+                    20.52566,
+                    44.1285
+                ],
+                [
+                    20.53716,
+                    44.13174
+                ],
+                [
+                    20.55275,
+                    44.1261
+                ],
+                [
+                    20.55262,
+                    44.11768
+                ],
+                [
+                    20.55005,
+                    44.1154
+                ],
+                [
+                    20.55234,
+                    44.11035
+                ],
+                [
+                    20.54975,
+                    44.10795
+                ],
+                [
+                    20.55244,
+                    44.10421
+                ],
+                [
+                    20.54727,
+                    44.10247
+                ],
+                [
+                    20.55156,
+                    44.09869
+                ],
+                [
+                    20.54544,
+                    44.09554
+                ],
+                [
+                    20.55082,
+                    44.08929
+                ],
+                [
+                    20.54421,
+                    44.08712
+                ],
+                [
+                    20.54541,
+                    44.07639
+                ],
+                [
+                    20.54141,
+                    44.07111
+                ],
+                [
+                    20.53875,
+                    44.07071
+                ],
+                [
+                    20.53942,
+                    44.06715
+                ],
+                [
+                    20.53509,
+                    44.06115
+                ],
+                [
+                    20.53571,
+                    44.056
+                ],
+                [
+                    20.53324,
+                    44.05228
+                ],
+                [
+                    20.53468,
+                    44.04677
+                ],
+                [
+                    20.53192,
+                    44.04072
+                ],
+                [
+                    20.53523,
+                    44.03549
+                ],
+                [
+                    20.52882,
+                    44.03252
+                ],
+                [
+                    20.51989,
+                    44.03284
+                ],
+                [
+                    20.52244,
+                    44.02889
+                ],
+                [
+                    20.52145,
+                    44.02382
+                ],
+                [
+                    20.49792,
+                    44.01611
+                ],
+                [
+                    20.49108,
+                    44.01579
+                ],
+                [
+                    20.4862,
+                    44.0197
+                ],
+                [
+                    20.47269,
+                    44.02205
+                ],
+                [
+                    20.46548,
+                    44.02106
+                ],
+                [
+                    20.45594,
+                    44.02665
+                ]
+            ],
+            [
+                [
+                    20.45594,
+                    44.02665
+                ],
+                [
+                    20.4487,
+                    44.03117
+                ],
+                [
+                    20.43738,
+                    44.02741
+                ],
+                [
+                    20.42552,
+                    44.03025
+                ],
+                [
+                    20.41767,
+                    44.0384
+                ],
+                [
+                    20.41862,
+                    44.04145
+                ],
+                [
+                    20.4149,
+                    44.04123
+                ],
+                [
+                    20.40969,
+                    44.03672
+                ],
+                [
+                    20.40112,
+                    44.03902
+                ],
+                [
+                    20.3957,
+                    44.03801
+                ],
+                [
+                    20.3879,
+                    44.04307
+                ]
+            ],
+            [
+                [
+                    20.3879,
+                    44.04307
+                ],
+                [
+                    20.38519,
+                    44.04296
+                ],
+                [
+                    20.37537,
+                    44.05028
+                ],
+                [
+                    20.37403,
+                    44.04714
+                ],
+                [
+                    20.37766,
+                    44.03999
+                ],
+                [
+                    20.37484,
+                    44.03668
+                ],
+                [
+                    20.36569,
+                    44.03553
+                ],
+                [
+                    20.3642,
+                    44.02865
+                ],
+                [
+                    20.36084,
+                    44.02802
+                ],
+                [
+                    20.35475,
+                    44.02194
+                ],
+                [
+                    20.35627,
+                    44.01805
+                ],
+                [
+                    20.35207,
+                    44.01815
+                ],
+                [
+                    20.34542,
+                    44.00154
+                ],
+                [
+                    20.33365,
+                    44.00381
+                ],
+                [
+                    20.33068,
+                    44.0024
+                ],
+                [
+                    20.33,
+                    43.99877
+                ],
+                [
+                    20.33822,
+                    43.99359
+                ],
+                [
+                    20.33622,
+                    43.98663
+                ],
+                [
+                    20.33922,
+                    43.98617
+                ],
+                [
+                    20.33699,
+                    43.98214
+                ],
+                [
+                    20.33317,
+                    43.98322
+                ],
+                [
+                    20.32642,
+                    43.97993
+                ],
+                [
+                    20.32152,
+                    43.98023
+                ],
+                [
+                    20.31903,
+                    43.97196
+                ],
+                [
+                    20.30558,
+                    43.96693
+                ],
+                [
+                    20.3042,
+                    43.969
+                ],
+                [
+                    20.29087,
+                    43.96418
+                ]
+            ],
+            [
+                [
+                    20.29087,
+                    43.96418
+                ],
+                [
+                    20.28543,
+                    43.96091
+                ],
+                [
+                    20.28477,
+                    43.95528
+                ],
+                [
+                    20.27653,
+                    43.95682
+                ],
+                [
+                    20.27299,
+                    43.95451
+                ],
+                [
+                    20.27248,
+                    43.94864
+                ],
+                [
+                    20.26688,
+                    43.9437
+                ],
+                [
+                    20.27089,
+                    43.93716
+                ],
+                [
+                    20.26685,
+                    43.93959
+                ],
+                [
+                    20.26164,
+                    43.93309
+                ],
+                [
+                    20.26033,
+                    43.91981
+                ],
+                [
+                    20.25159,
+                    43.92306
+                ],
+                [
+                    20.24661,
+                    43.92253
+                ],
+                [
+                    20.23729,
+                    43.92977
+                ],
+                [
+                    20.23732,
+                    43.92265
+                ],
+                [
+                    20.23371,
+                    43.92542
+                ],
+                [
+                    20.22958,
+                    43.92483
+                ],
+                [
+                    20.22656,
+                    43.92883
+                ],
+                [
+                    20.21827,
+                    43.93263
+                ],
+                [
+                    20.20715,
+                    43.92791
+                ],
+                [
+                    20.20585,
+                    43.92423
+                ],
+                [
+                    20.19485,
+                    43.92439
+                ],
+                [
+                    20.19532,
+                    43.92097
+                ],
+                [
+                    20.19281,
+                    43.9193
+                ],
+                [
+                    20.19465,
+                    43.91628
+                ],
+                [
+                    20.2013,
+                    43.91711
+                ],
+                [
+                    20.20305,
+                    43.91275
+                ],
+                [
+                    20.20743,
+                    43.91166
+                ],
+                [
+                    20.20088,
+                    43.90577
+                ],
+                [
+                    20.19621,
+                    43.90594
+                ],
+                [
+                    20.18724,
+                    43.89974
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/e7-9/",
+        "canonical_url": "https://pss.rs/terenipp/e7-9/",
+        "pss_id": 3730,
+        "updated_at": "2024-12-07T21:28:02Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:51:01Z",
+        "last_synced_at": "2026-11-08T12:51:01Z"
+    },
+    "search": "divcibare - ovcar banja e7-9 zapadna srbija kablar kablar pd • spomenik palim u velikom ratu, • spomen kompleks na ravnoj gori, • rajac, spomenik borcima suvoborsko-kolubarske bitke, • rudnik, • spomen-kompleks takovo, • arheoloski lokalitet gradina na jelici, • ovcarsko-kablarska klisura sa svojim manastirima, • ovcar banja zahtevna • sa divcibara put e7 prelazi na dugacki greben planina suvobor i rajac koje su nize od 1000 metara i prekrivene pasnjacima i sumama. ovo je takodje istorijski put po planinskom vencu na kome je odrzana znacajna kolubarska bitka u prvom svetskom ratu. • na planini rajac koji je takodje turisticka zona nalazi se planinarski dom podignut 1953. godine. u siroj okolini rajca i suvobora nalazi se dobro obelezena mreza staza za rekreativno pesacenje. postoje i kvalitetne karte za orijentaciojsko takmicenje. ovde se odrzavaju brojne manifestacije i dogadjaji usko vezani za etno-kulturno nasledje. • poznato je veliko takmicenje kosidba na rajcu koje okuplja i ucesnike iz inostranstva. • sa rajca put nastavlja prema planini rudnik poznatoj po veoma starim ostacima rudarske aktivnosti. rudnik olova, cinka i srebra i danas je aktivan. u direkciji rudnika nalazi se mali muzej. na rudniku i u okolini nalazi se nekoliko aktivnih manastira izgradjenih od 15. do 18. veka. • put e7 padinama rudnika silazi u grad gornji milanovac, a zatim prolazi kroz niz sela takovskog kraja koja su smestena u prirodnim oazama zelenih bregova na juznim padinama planina suvobor i rajac. • u mestu takovo nalaze se spomenici posveceni drugom srpskom ustanku protiv turske okupacije. u celom kraju vec je razvijen etnoturizam. • seoska arhitektura sumadijskog tipa budi posebnu paznju. prizemne kuce sa tremovima i doksatima su pravo mesto za odmor. ovo je vocarski kraj i gosti se pridruzuju u berbama voca i pripremanju dzemova i rakija. • kroz takovski kraj i selo pranjane, pored kamenice, stize se u poznatu ovcarsko-kablarsku klisuru reke zapadne morave. ova klisura zasticena je kao predeo izuzetnih odlika. karakterise je zivi svet sa 150 vrsta ptica, 30 vrsta riba i vise od 600 biljnih vrsta. okolne",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:51:01Z"
+    }
+}

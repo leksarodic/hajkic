@@ -1,0 +1,223 @@
+{
+    "schema_version": 1,
+    "slug": "djacka-staza-kanjon-tresnjice-gornje-koslje",
+    "name": "Đačka staza, Kanjon Trešnjice - Gornje Košlje",
+    "code": "3-8-3",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 9254,
+        "category_id": 28,
+        "region_ids": [
+            3
+        ],
+        "mountain_ids": [
+            128
+        ]
+    },
+    "region": "Zapadna Srbija",
+    "mountain": "Bobija",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 12.5,
+        "calculated_km": 12.18
+    },
+    "duration": {
+        "official_minutes": 300,
+        "official_text": "5 h",
+        "official_raw": "5:00"
+    },
+    "elevation": {
+        "official_gain_m": 747.0,
+        "official_loss_m": 747.0,
+        "calculated_gain_m": 652.7,
+        "calculated_loss_m": 660.0,
+        "min_m": 231.4,
+        "max_m": 831.6
+    },
+    "start": "Selo Gornja Trešnjica, 239 m",
+    "end": "Selo Gornje Košlje, 832 m",
+    "description": "• Gornja Trešnjica - kroz kanjon uz reku Trešnjicu - prelazak reke Tribuća - ispod vrha Mitrova stena do sela Gornje Košlje i nazad istim putem.\n\n • Na stazi je potrebna opreznost",
+    "landmarks": "• Specijalni rezervat prirode \"Kanjon reke Trešnjice\"\n\n • Arheološki Rimski put\n\n • Veliki i Mali Grad\n\n • Vidikovci: 5\n\n • Na trasi 4 izvora pitke vode\n\n • Naselja: Gornja Trešnjica i selo Gornje Košlje\n\n • Na trasi 1 kamp\n\n • Van trase 1 planinarski objekat i 8 privatnih smeštaja",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu je trasirao Dragan O. Pavlović-Pop.\n\n • Poslednji put staza je markirana 2018. god.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Avala PD",
+        "url": "https://pss.rs/adresar_klubova/psk-avala/",
+        "contact": "Murska 14, 11000 Beograd\n+38111 386 00 64 ; +38160 04 28 252, \nhttp://www.avala.club/",
+        "clubs": [
+            {
+                "name": "Avala PD",
+                "url": "https://pss.rs/adresar_klubova/psk-avala/",
+                "contact": "Murska 14, 11000 Beograd\n+38111 386 00 64 ; +38160 04 28 252, \nhttp://www.avala.club/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2019/07/3-8-3-djacka-staza-kanjon-tresnjice-gornje-koslje.gpx",
+        "fetched_at": "2026-11-08T12:00:30Z",
+        "checked_at": "2026-11-08T12:00:30Z",
+        "bytes": 33057,
+        "sha256": "60e47fb7cb8c39e21c728c83bad4b2ad339bbf11acd37d98b7c9a154263bbdba",
+        "etag": null,
+        "last_modified": "Tue, 02 Jul 2019 14:34:10 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 191,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 5,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2019/07/3-8-3-djacka-staza-kanjon-tresnjice-gornje-koslje.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/djacka-staza-kanjon-tresnjice-gornje-koslje.geojson",
+        "bbox": [
+            19.517998388037086,
+            44.136306988075376,
+            19.563267035409808,
+            44.15002699010074
+        ],
+        "center": [
+            19.540633,
+            44.143167
+        ],
+        "start_point": [
+            19.518077010288835,
+            44.13637203164399
+        ],
+        "end_point": [
+            19.517998388037086,
+            44.13632140494883
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    19.51808,
+                    44.13637
+                ],
+                [
+                    19.52456,
+                    44.14095
+                ],
+                [
+                    19.53288,
+                    44.14251
+                ],
+                [
+                    19.53909,
+                    44.14077
+                ],
+                [
+                    19.54391,
+                    44.14498
+                ],
+                [
+                    19.54741,
+                    44.14381
+                ],
+                [
+                    19.5473,
+                    44.14929
+                ],
+                [
+                    19.5525,
+                    44.14962
+                ],
+                [
+                    19.55617,
+                    44.14759
+                ],
+                [
+                    19.56256,
+                    44.14819
+                ],
+                [
+                    19.56275,
+                    44.14992
+                ],
+                [
+                    19.56258,
+                    44.14824
+                ],
+                [
+                    19.55598,
+                    44.14753
+                ],
+                [
+                    19.55243,
+                    44.14956
+                ],
+                [
+                    19.54715,
+                    44.14937
+                ],
+                [
+                    19.54752,
+                    44.14383
+                ],
+                [
+                    19.54402,
+                    44.14497
+                ],
+                [
+                    19.53943,
+                    44.14065
+                ],
+                [
+                    19.53294,
+                    44.14247
+                ],
+                [
+                    19.5246,
+                    44.14085
+                ],
+                [
+                    19.518,
+                    44.13632
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/djacka-staza-kanjon-tresnjice-gornje-koslje/",
+        "canonical_url": "https://pss.rs/terenipp/djacka-staza-kanjon-tresnjice-gornje-koslje/",
+        "pss_id": 9254,
+        "updated_at": "2019-07-02T15:06:28Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:00:31Z",
+        "last_synced_at": "2026-11-08T12:00:31Z"
+    },
+    "search": "djacka staza, kanjon tresnjice - gornje koslje 3-8-3 zapadna srbija bobija selo gornja tresnjica, 239 m selo gornje koslje, 832 m avala pd • specijalni rezervat prirode \"kanjon reke tresnjice\" • arheoloski rimski put • veliki i mali grad • vidikovci: 5 • na trasi 4 izvora pitke vode • naselja: gornja tresnjica i selo gornje koslje • na trasi 1 kamp • van trase 1 planinarski objekat i 8 privatnih smestaja laka • gornja tresnjica - kroz kanjon uz reku tresnjicu - prelazak reke tribuca - ispod vrha mitrova stena do sela gornje koslje i nazad istim putem. • na stazi je potrebna opreznost",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:00:31Z"
+    }
+}

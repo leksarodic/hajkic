@@ -1,0 +1,123 @@
+{
+    "schema_version": 1,
+    "slug": "veliki-blagotin",
+    "name": "Veliki Blagotin",
+    "code": "2-14-18",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 3960,
+        "category_id": 28,
+        "region_ids": [
+            2
+        ],
+        "mountain_ids": [
+            61
+        ]
+    },
+    "region": "Šumadija",
+    "mountain": "Gledićke planine",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 12.0,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": 245,
+        "official_text": "4 h 05 min",
+        "official_raw": "4:5"
+    },
+    "elevation": {
+        "official_gain_m": 555.0,
+        "official_loss_m": 133.0,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": "Poljna (crkva) 291 mnv",
+    "end": "pl. dom Gornji Dubič",
+    "description": "Poljna (crkva)-neolitsko nalazište Blagotin-Veliki Blagotin-Vukovac-Pl.dom G. Dubič",
+    "landmarks": "crkva u Poljni, neolitsko nalazište Blagotin, Preveštansko jezero",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": "1:25000, 531-3-1 Kruševac",
+    "club": {
+        "name": "Ljukten PSD",
+        "url": "https://pss.rs/adresar_klubova/ljukten-psd/",
+        "contact": "Čajkina 20, 37240 Trstenik\n+3869 614 035",
+        "clubs": [
+            {
+                "name": "Ljukten PSD",
+                "url": "https://pss.rs/adresar_klubova/ljukten-psd/",
+                "contact": "Čajkina 20, 37240 Trstenik\n+3869 614 035"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": false,
+        "status": "missing",
+        "source_url": null,
+        "fetched_at": null,
+        "checked_at": "2026-11-08T11:56:29Z",
+        "bytes": null,
+        "sha256": null,
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": null,
+        "tracks": null,
+        "segments": null,
+        "waypoints": null,
+        "error": null,
+        "download": {
+            "mode": "none",
+            "url": null
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_gpx"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/veliki-blagotin/",
+        "canonical_url": "https://pss.rs/terenipp/veliki-blagotin/",
+        "pss_id": 3960,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:56:29Z",
+        "last_synced_at": "2026-11-08T11:56:29Z"
+    },
+    "search": "veliki blagotin 2-14-18 sumadija gledicke planine poljna (crkva) 291 mnv pl. dom gornji dubic ljukten psd crkva u poljni, neolitsko nalaziste blagotin, prevestansko jezero zahtevna poljna (crkva)-neolitsko nalaziste blagotin-veliki blagotin-vukovac-pl.dom g. dubic",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:56:29Z"
+    }
+}

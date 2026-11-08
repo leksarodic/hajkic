@@ -1,0 +1,133 @@
+{
+    "schema_version": 1,
+    "slug": "stazama-kolubarske-bitke",
+    "name": "Stazama Kolubarske bitke",
+    "code": "2-18-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 19735,
+        "category_id": 28,
+        "region_ids": [
+            2
+        ],
+        "mountain_ids": [
+            409
+        ]
+    },
+    "region": "Šumadija",
+    "mountain": "Lajkovac",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 11.5,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": 300,
+        "official_text": "5 h",
+        "official_raw": "5:00"
+    },
+    "elevation": {
+        "official_gain_m": 146.0,
+        "official_loss_m": 146.0,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": "Igralište FK“D. Tucović“ Ćelije - 126 m.n.v.",
+    "end": "Igralište FK“D. Tucović“ Ćelije - 126 m.n.v.",
+    "description": "Polazak od igrališta u selu Ćelije ka arheološkom nalazištu „Anine“. Staza je laka i sa par izvora vode. Od „Anina“ staza vodi ka Čovci ( do šume sve ravno, široka staza). Ulazak u šumi i uspon ka Čovci. Od spomenika na Čovci kojeg su planinari Ćire podigli 2014. na stogodišnjicu „Kolubarske bitke“ ide se kroz šumu i pažljivim razgledanjem mogu se videti obrisi rovova. Dolazak do dela gde se skreće ka manastiru Sv.Georgija i spomen kosturnici (može i pravo, ovaj put se koristi u slučaju kiše jer se ide makadamom). Od manastira livadom (vidikovac) se penje ka spomeniku Dimitriju Tucović a zatim ka izvoru Vreline. Prolazi se podhodnik ispod Ibarske magistrele i za nekih 10-15 minuta se dolazi do kraja staze-igralište. Staza je kružna.",
+    "landmarks": "Vidikovci: livada iznad manastira ka spomeniku Dimitriju Tucović i silazak ka izvoru Vreline\n\nNaselja i zaseoci sa nazivima: cela staza je na teritoriji sela Ćelije (Kolubarske) opština Lajkovac\n\nZnačajni lokaliteti: arheološko nalazište“Anine“, kota Čovka 272 iz Prvog svetskog rata-Kolubarska bitka 1914 godine, manastir Sv.Georgija i spomen kosturnica, spomenik Dimitriju Tucoviću",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Ko je i kada trasirao stazu: 2014 godine članovi PSD“Ćire“Lajkovac\n\nKada je staza poslednji put markirana: novembar 2022.godine",
+    "map_reference": null,
+    "map_sheet": "TK Lazarevac 1 (479/1) 1:50 000",
+    "club": {
+        "name": "Ćira PSD",
+        "url": "https://pss.rs/adresar_klubova/cira-psd/",
+        "contact": "Cvijićeva 17, 14224 Lajkovac\n+38114 343 37 10 ; +38163 253 054\nhttp://psdciralajkovac.com",
+        "clubs": [
+            {
+                "name": "Ćira PSD",
+                "url": "https://pss.rs/adresar_klubova/cira-psd/",
+                "contact": "Cvijićeva 17, 14224 Lajkovac\n+38114 343 37 10 ; +38163 253 054\nhttp://psdciralajkovac.com"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 1,
+    "gpx": {
+        "available": false,
+        "status": "missing",
+        "source_url": null,
+        "fetched_at": null,
+        "checked_at": "2026-11-08T12:03:33Z",
+        "bytes": null,
+        "sha256": null,
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": null,
+        "tracks": null,
+        "segments": null,
+        "waypoints": null,
+        "error": null,
+        "download": {
+            "mode": "none",
+            "url": null
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_gpx"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/stazama-kolubarske-bitke/",
+        "canonical_url": "https://pss.rs/terenipp/stazama-kolubarske-bitke/",
+        "pss_id": 19735,
+        "updated_at": "2024-12-14T16:19:37Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:03:33Z",
+        "last_synced_at": "2026-11-08T12:03:33Z"
+    },
+    "search": "stazama kolubarske bitke 2-18-1 sumadija lajkovac igraliste fk“d. tucovic“ celije - 126 m.n.v. igraliste fk“d. tucovic“ celije - 126 m.n.v. cira psd vidikovci: livada iznad manastira ka spomeniku dimitriju tucovic i silazak ka izvoru vreline naselja i zaseoci sa nazivima: cela staza je na teritoriji sela celije (kolubarske) opstina lajkovac znacajni lokaliteti: arheolosko nalaziste“anine“, kota covka 272 iz prvog svetskog rata-kolubarska bitka 1914 godine, manastir sv.georgija i spomen kosturnica, spomenik dimitriju tucovicu laka polazak od igralista u selu celije ka arheoloskom nalazistu „anine“. staza je laka i sa par izvora vode. od „anina“ staza vodi ka covci ( do sume sve ravno, siroka staza). ulazak u sumi i uspon ka covci. od spomenika na covci kojeg su planinari cire podigli 2014. na stogodisnjicu „kolubarske bitke“ ide se kroz sumu i pazljivim razgledanjem mogu se videti obrisi rovova. dolazak do dela gde se skrece ka manastiru sv.georgija i spomen kosturnici (moze i pravo, ovaj put se koristi u slucaju kise jer se ide makadamom). od manastira livadom (vidikovac) se penje ka spomeniku dimitriju tucovic a zatim ka izvoru vreline. prolazi se podhodnik ispod ibarske magistrele i za nekih 10-15 minuta se dolazi do kraja staze-igraliste. staza je kruzna.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:03:33Z"
+    }
+}

@@ -1,0 +1,219 @@
+{
+    "schema_version": 1,
+    "slug": "kalafat-tvrdjava-nis",
+    "name": "Kalafat - Tvrđava Niš",
+    "code": "4-47-7",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 8712,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            96
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Kalafat",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 18.0,
+        "calculated_km": 17.56
+    },
+    "duration": {
+        "official_minutes": 420,
+        "official_text": "7 h",
+        "official_raw": "7:00"
+    },
+    "elevation": {
+        "official_gain_m": 149.0,
+        "official_loss_m": 811.0,
+        "calculated_gain_m": 198.8,
+        "calculated_loss_m": 853.0,
+        "min_m": 184.0,
+        "max_m": 846.0
+    },
+    "start": "Kalafat, 838m",
+    "end": "Tvrđava, 200m",
+    "description": "• Od Kalafata prvi deo staze je loš kolski put, a zatim se izlazi na makadamski široki put koji vodi sve do Kameničkog visa. Put dalje prolazi kroz listopadnu šumu, te je staza odlična za toplo i sunčano vreme, jer pruža hladovinu. Na Kameničkom visu postoji odlično mesto za kampovanje, a odatle se pruža pogled na ceo Niš. Od Kameničkog visa staza vodi pored Dabila. Dabilo je izletničko mesto gde možete uzeti vodu za piće sa česme. Na tom mestu je račvanje staze i može se otići do stene na kojoj je postavljen krst i odakle se vidi niška dolina. Posle Dabila staza ide kroz lepu četinarsku borovu šumu sve do sela Kamenica. Na ulazu u selo je prelepa crkva. Odatle se može stići do manastira Sv. Đorđe i Srećkovog vrela. Do Čegra je asfaltni put. Na Čegru je spomenik Stevanu Sinđeliću, a odatle na nekih 200m je crkva Sv.Petke sa odlično urađenim mestom za odmor, tu se možete snabdeti vodom za piće. Od Čegra kolskim putem se stiže do brda Vinik, a zatim asfaltnim putem do Niške tvrđave.\n\n • Ova staza je izuzetno dobra za biciklističke ture.",
+    "landmarks": "• Manastir Sv. Đorđa, crkva Sv. Nikola, crkva Sv. Petka, spomenik Vojvodi Stevanu Sinđeliću i njegovim junacima palim na Čegru 19.maja 1809., Latinska crkva\n\n • Izletište Kamenički vis, izletište Dabilo, Srećkovo vrelo\n\n • Ranohrišćanska bazilika sa matirijumom\n\n • Niška tvrđava sa brojnim istorijskim objektima i spomenicima\n\n • Vidikovci: Kalafat, Kamenički vis, Dabilo (krst), Čegar\n\n • Na trasi ima dva kampa i dva privatna smeštaja\n\n • Na trasi ima dosta izvora pitke vode",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu je trasirao Slaviša Ivanović.\n\n • Poslednji put staza je markirana 3. aprila 2019. godine.\n\n • Staza je deonica Niške transferzale i Evropskog pešačkog puta E7.\n\n • Staza spaja sledeće staze/puteve: Kalafat - manastir Sv.Jovan - Kamenica, Kamenički vis - Cerje - Cerjanska pećina.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Mosor PSK",
+        "url": "https://pss.rs/adresar_klubova/mosor-pak/",
+        "contact": "Tvrđava bb, 18000 Niš\n063 1023016, 063 406025, 064 665 41 58\nhttp://www.pakmosor.org/",
+        "clubs": [
+            {
+                "name": "Mosor PSK",
+                "url": "https://pss.rs/adresar_klubova/mosor-pak/",
+                "contact": "Tvrđava bb, 18000 Niš\n063 1023016, 063 406025, 064 665 41 58\nhttp://www.pakmosor.org/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 12,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2019/04/4-47-7-Kalafat-Tvrdjava-Nis.gpx",
+        "fetched_at": "2026-11-08T12:00:13Z",
+        "checked_at": "2026-11-08T12:00:13Z",
+        "bytes": 108437,
+        "sha256": "b97b7329742a9c4e985b04d55a4b7c13cdedbd48e8717de895b65536c1cf521b",
+        "etag": null,
+        "last_modified": "Thu, 04 Apr 2019 12:36:44 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 667,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 21,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2019/04/4-47-7-Kalafat-Tvrdjava-Nis.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/kalafat-tvrdjava-nis.geojson",
+        "bbox": [
+            21.89533662982285,
+            43.32324997521937,
+            21.984628289937973,
+            43.409956991672516
+        ],
+        "center": [
+            21.939982,
+            43.366603
+        ],
+        "start_point": [
+            21.98459878563881,
+            43.397032096982
+        ],
+        "end_point": [
+            21.89533662982285,
+            43.32324997521937
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.9846,
+                    43.39703
+                ],
+                [
+                    21.98371,
+                    43.40137
+                ],
+                [
+                    21.97935,
+                    43.40403
+                ],
+                [
+                    21.96313,
+                    43.40996
+                ],
+                [
+                    21.9545,
+                    43.40438
+                ],
+                [
+                    21.95427,
+                    43.40159
+                ],
+                [
+                    21.95057,
+                    43.40052
+                ],
+                [
+                    21.95615,
+                    43.39475
+                ],
+                [
+                    21.94867,
+                    43.39585
+                ],
+                [
+                    21.94495,
+                    43.38942
+                ],
+                [
+                    21.93996,
+                    43.3884
+                ],
+                [
+                    21.93911,
+                    43.38247
+                ],
+                [
+                    21.94426,
+                    43.378
+                ],
+                [
+                    21.93934,
+                    43.37396
+                ],
+                [
+                    21.94392,
+                    43.35759
+                ],
+                [
+                    21.93254,
+                    43.36038
+                ],
+                [
+                    21.92973,
+                    43.35015
+                ],
+                [
+                    21.91285,
+                    43.33838
+                ],
+                [
+                    21.90651,
+                    43.3281
+                ],
+                [
+                    21.89534,
+                    43.32325
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/kalafat-tvrdjava-nis/",
+        "canonical_url": "https://pss.rs/terenipp/kalafat-tvrdjava-nis/",
+        "pss_id": 8712,
+        "updated_at": "2019-04-04T12:48:55Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:00:13Z",
+        "last_synced_at": "2026-11-08T12:00:13Z"
+    },
+    "search": "kalafat - tvrdjava nis 4-47-7 istocna srbija kalafat kalafat, 838m tvrdjava, 200m mosor psk • manastir sv. djordja, crkva sv. nikola, crkva sv. petka, spomenik vojvodi stevanu sindjelicu i njegovim junacima palim na cegru 19.maja 1809., latinska crkva • izletiste kamenicki vis, izletiste dabilo, sreckovo vrelo • ranohriscanska bazilika sa matirijumom • niska tvrdjava sa brojnim istorijskim objektima i spomenicima • vidikovci: kalafat, kamenicki vis, dabilo (krst), cegar • na trasi ima dva kampa i dva privatna smestaja • na trasi ima dosta izvora pitke vode laka • od kalafata prvi deo staze je los kolski put, a zatim se izlazi na makadamski siroki put koji vodi sve do kamenickog visa. put dalje prolazi kroz listopadnu sumu, te je staza odlicna za toplo i suncano vreme, jer pruza hladovinu. na kamenickom visu postoji odlicno mesto za kampovanje, a odatle se pruza pogled na ceo nis. od kamenickog visa staza vodi pored dabila. dabilo je izletnicko mesto gde mozete uzeti vodu za pice sa cesme. na tom mestu je racvanje staze i moze se otici do stene na kojoj je postavljen krst i odakle se vidi niska dolina. posle dabila staza ide kroz lepu cetinarsku borovu sumu sve do sela kamenica. na ulazu u selo je prelepa crkva. odatle se moze stici do manastira sv. djordje i sreckovog vrela. do cegra je asfaltni put. na cegru je spomenik stevanu sindjelicu, a odatle na nekih 200m je crkva sv.petke sa odlicno uradjenim mestom za odmor, tu se mozete snabdeti vodom za pice. od cegra kolskim putem se stize do brda vinik, a zatim asfaltnim putem do niske tvrdjave. • ova staza je izuzetno dobra za biciklisticke ture.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:00:13Z"
+    }
+}

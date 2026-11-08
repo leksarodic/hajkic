@@ -1,0 +1,123 @@
+{
+    "schema_version": 1,
+    "slug": "staza-zdravlja-rogovi",
+    "name": "Staza zdravlja \"Rogovi\"",
+    "code": "6-5-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 3859,
+        "category_id": 28,
+        "region_ids": [
+            6
+        ],
+        "mountain_ids": [
+            72
+        ]
+    },
+    "region": "Kopaoničko-Toplička regija",
+    "mountain": "Goč",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 12.0,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": 270,
+        "official_text": "4 h 30 min",
+        "official_raw": "4:30"
+    },
+    "elevation": {
+        "official_gain_m": 253.0,
+        "official_loss_m": 338.0,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": "Čairi- crkva sv. Petke 260 mnv",
+    "end": "Osaonica 175 mnv",
+    "description": "Čairi-Rogovi-Osaonica",
+    "landmarks": "crkva sv. Petke u Čairima",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": "1:25000 531-3-3 Kruševac, 530-4-4 Kraljevo",
+    "club": {
+        "name": "Ljukten PSD",
+        "url": "https://pss.rs/adresar_klubova/ljukten-psd/",
+        "contact": "Čajkina 20, 37240 Trstenik\n+3869 614 035",
+        "clubs": [
+            {
+                "name": "Ljukten PSD",
+                "url": "https://pss.rs/adresar_klubova/ljukten-psd/",
+                "contact": "Čajkina 20, 37240 Trstenik\n+3869 614 035"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": false,
+        "status": "missing",
+        "source_url": null,
+        "fetched_at": null,
+        "checked_at": "2026-11-08T11:55:51Z",
+        "bytes": null,
+        "sha256": null,
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": null,
+        "tracks": null,
+        "segments": null,
+        "waypoints": null,
+        "error": null,
+        "download": {
+            "mode": "none",
+            "url": null
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_gpx"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/staza-zdravlja-rogovi/",
+        "canonical_url": "https://pss.rs/terenipp/staza-zdravlja-rogovi/",
+        "pss_id": 3859,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:55:51Z",
+        "last_synced_at": "2026-11-08T11:55:51Z"
+    },
+    "search": "staza zdravlja \"rogovi\" 6-5-1 kopaonicko-toplicka regija goc cairi- crkva sv. petke 260 mnv osaonica 175 mnv ljukten psd crkva sv. petke u cairima laka cairi-rogovi-osaonica",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:55:51Z"
+    }
+}

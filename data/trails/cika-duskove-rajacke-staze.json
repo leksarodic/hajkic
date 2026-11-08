@@ -1,0 +1,413 @@
+{
+    "schema_version": 1,
+    "slug": "cika-duskove-rajacke-staze",
+    "name": "Čika Duškove rajačke staze",
+    "code": "T-3-2",
+    "category": {
+        "key": "planinarske-transverzale",
+        "label": "Planinarske transverzale"
+    },
+    "pss": {
+        "post_id": 3619,
+        "category_id": 30,
+        "region_ids": [
+            3
+        ],
+        "mountain_ids": [
+            42,
+            40
+        ]
+    },
+    "region": "Zapadna Srbija",
+    "mountain": "Rajac (suvoborski)",
+    "difficulty": {
+        "key": "nepoznato",
+        "label": "Nije navedeno",
+        "source": null
+    },
+    "distance": {
+        "official_km": 44.3,
+        "calculated_km": 45.35
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": 2247.0,
+        "official_loss_m": 2134.0,
+        "calculated_gain_m": 1920.4,
+        "calculated_loss_m": 1822.3,
+        "min_m": 348.1,
+        "max_m": 849.4
+    },
+    "start": null,
+    "end": null,
+    "description": null,
+    "landmarks": "• Izvanredni vidikovci, Purina crkva, vodopad,\n\n • spomenik borcima Kolubarske bitke “1300 kaplara”,\n\n • Turistička manifestacija “Kosidba na Rajcu”,\n\n • na 1 sat hoda od vrha Suvobora je i spomen komplaks na Ravnoj Gori i Mokra pećina.",
+    "maintenance": null,
+    "marking": "propisana planinarska",
+    "accommodation": "Planinarska kuća \"Dobra voda\", Planinarski dom \"Čika Duško Jovanović\"",
+    "notes": "Na svim kontrolnim tačkama ubetonirani su metalni pečati sa oznakom broja i visine. Pečat na KT-1 čuva se u Domu na Rajcu, a od KT-7 (izvor Ljiga) pečat se nalazi kod čuvara vodovoda u selu Ba.",
+    "map_reference": null,
+    "map_sheet": "Transverzala je ucrtana kao kružna staza broj 2 na planinarsko-turističkoj topografskoj karti 1:25000, Suvoborski Rajac, u izdanju ”Geokarte” Beograd (Prvo izdanje 2008)",
+    "club": null,
+    "legend": [],
+    "photos_count": 6,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/T-3-2-Rajacka-transverzala.gpx",
+        "fetched_at": "2026-11-08T12:50:08Z",
+        "checked_at": "2026-11-08T12:50:08Z",
+        "bytes": 225990,
+        "sha256": "009a2e645d54ede32026b11f81a746d820e8d730041f68011854acf48e186657",
+        "etag": null,
+        "last_modified": "Sun, 31 Oct 2021 15:21:18 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 1310,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 32,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/T-3-2-Rajacka-transverzala.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/cika-duskove-rajacke-staze.geojson",
+        "bbox": [
+            20.174900041893125,
+            44.10099998116493,
+            20.265597011893988,
+            44.157081032171845
+        ],
+        "center": [
+            20.220249,
+            44.129041
+        ],
+        "start_point": [
+            20.24456799030304,
+            44.14106103591621
+        ],
+        "end_point": [
+            20.191853027790785,
+            44.13524399511516
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    20.24457,
+                    44.14106
+                ],
+                [
+                    20.24041,
+                    44.1386
+                ],
+                [
+                    20.22539,
+                    44.13607
+                ],
+                [
+                    20.21535,
+                    44.14099
+                ],
+                [
+                    20.21099,
+                    44.13937
+                ],
+                [
+                    20.19188,
+                    44.14056
+                ],
+                [
+                    20.19233,
+                    44.13551
+                ],
+                [
+                    20.18405,
+                    44.13243
+                ],
+                [
+                    20.18555,
+                    44.12944
+                ],
+                [
+                    20.17853,
+                    44.1292
+                ],
+                [
+                    20.17543,
+                    44.12709
+                ],
+                [
+                    20.18183,
+                    44.12106
+                ],
+                [
+                    20.18156,
+                    44.11397
+                ],
+                [
+                    20.18537,
+                    44.10758
+                ],
+                [
+                    20.19448,
+                    44.10112
+                ],
+                [
+                    20.20423,
+                    44.10392
+                ],
+                [
+                    20.20598,
+                    44.10108
+                ],
+                [
+                    20.20909,
+                    44.10129
+                ],
+                [
+                    20.20859,
+                    44.10873
+                ],
+                [
+                    20.21242,
+                    44.11072
+                ],
+                [
+                    20.21843,
+                    44.10681
+                ],
+                [
+                    20.22536,
+                    44.10583
+                ],
+                [
+                    20.22338,
+                    44.10687
+                ],
+                [
+                    20.22709,
+                    44.10734
+                ],
+                [
+                    20.23579,
+                    44.10242
+                ],
+                [
+                    20.26404,
+                    44.10287
+                ],
+                [
+                    20.26547,
+                    44.10491
+                ],
+                [
+                    20.25807,
+                    44.11792
+                ],
+                [
+                    20.25898,
+                    44.12115
+                ],
+                [
+                    20.2548,
+                    44.12329
+                ],
+                [
+                    20.2478,
+                    44.12165
+                ],
+                [
+                    20.24579,
+                    44.12837
+                ],
+                [
+                    20.25018,
+                    44.13242
+                ],
+                [
+                    20.24801,
+                    44.13548
+                ],
+                [
+                    20.26441,
+                    44.13674
+                ],
+                [
+                    20.26469,
+                    44.14079
+                ],
+                [
+                    20.25221,
+                    44.13645
+                ],
+                [
+                    20.25004,
+                    44.1397
+                ],
+                [
+                    20.24694,
+                    44.13919
+                ],
+                [
+                    20.24343,
+                    44.14555
+                ],
+                [
+                    20.24924,
+                    44.14923
+                ],
+                [
+                    20.24731,
+                    44.14712
+                ],
+                [
+                    20.24422,
+                    44.14882
+                ],
+                [
+                    20.24162,
+                    44.14586
+                ],
+                [
+                    20.23926,
+                    44.14751
+                ],
+                [
+                    20.23411,
+                    44.14212
+                ],
+                [
+                    20.22638,
+                    44.14142
+                ],
+                [
+                    20.22323,
+                    44.14487
+                ],
+                [
+                    20.21877,
+                    44.14146
+                ],
+                [
+                    20.21859,
+                    44.1448
+                ],
+                [
+                    20.22239,
+                    44.14698
+                ],
+                [
+                    20.22044,
+                    44.14689
+                ],
+                [
+                    20.21812,
+                    44.15367
+                ],
+                [
+                    20.21024,
+                    44.15457
+                ],
+                [
+                    20.20597,
+                    44.15708
+                ],
+                [
+                    20.20457,
+                    44.15451
+                ],
+                [
+                    20.1997,
+                    44.15384
+                ],
+                [
+                    20.19663,
+                    44.15569
+                ],
+                [
+                    20.18898,
+                    44.14922
+                ],
+                [
+                    20.18516,
+                    44.15366
+                ],
+                [
+                    20.17873,
+                    44.15626
+                ],
+                [
+                    20.1749,
+                    44.15428
+                ],
+                [
+                    20.17901,
+                    44.15519
+                ],
+                [
+                    20.18197,
+                    44.1534
+                ],
+                [
+                    20.18371,
+                    44.14803
+                ],
+                [
+                    20.19118,
+                    44.14058
+                ],
+                [
+                    20.19185,
+                    44.13524
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_difficulty",
+            "missing_description"
+        ]
+    },
+    "additional": {
+        "Planine/predeli": "Rajac (suvoborski), Suvobor",
+        "Status": "aktivna",
+        "Datum poslednje verifikacije": "10/10/2010",
+        "Društvo": "Pobeda PSK",
+        "Vreme obilaska (dana)": "2",
+        "Godina otvaranja": "1982",
+        "Kontakt": "https://pss.rs/terenipp/cika-duskove-rajacke-staze/",
+        "Vrsta": "kružna",
+        "Broj kontrolnih tačaka": "14",
+        "Opis puta": "• \n\n • KT-1 Planinarski dom „Čika-Duško Jovanović“ (648 m) – (stara trasa) put ide pored česme, asfaltom do kote 686 (Lovačka priča), skreće u desno na zapad sporednim asfaltom, pored vikendica ka vrhu Rajca (848 m);\n\n • KT-2 Vrh Rajca – spuštanje na severni put iznad Kojića česme, nastavak makadamskim putem na zapad pored kote 806 – sve makadamskim putem, severno od kote 804 do Planinarske kuće na Dobroj vodi;\n\n • KT-8 Dobra voda – preko kote 802 nastavak trasom ka vrhu Šiljak (846 m);\n\n • KT-9 Vrh Šiljak – nastavak trasom do vrha Suvobor (866 m);\n\n • KT-10 Vrh Suvobora – nastavak trasom do asfalta, a zatim asfaltnim putem do lokaliteta Zoblje, skretanje sa asfalta u levo na istok i preko livada ka Danilovom vrhu (842 m). Vrhu se obilazi sa severne strane i prilaz vrhu je sa istoka;\n\n • KT-11 Danilov vrh – nastavak trasom na sever spuštenje niz Jasenoviti Do u kanjon Velike Dičine, nastavak na istok niz Veliku Dičinu, a zatim odvajanje od potoka i lagano penjanje do grupe kuća, a zatim spuštanje do izvora Toplike, pored Velike Dičine;\n\n • KT-12 Toplike – povratak do prvih kuća i nastavak laganog penjanja makadamskim putem ka koti 629 (stara kruška). Od kote 629 put ide makadamom ka zaseoku Miloševići i nastavlja kroz šumu Bubovačkom kosom iznad centra Poloma, spušta se pored brane makadamom na asfaltni put i posle oko 1 km dolazi u Gornje Banjane. Put ide dalje na sever, makadamskim putem dolinom Male Dičine, ispod Jelen stene do Crvenog vrela;\n\n • KT-13 Crveno vrelo – put se dalje penje šumskom stazom do asfaltnog puta (Rajac – Takovo) i vojne kasarne, nastavlja na sever asfaltom do repetitota i skreće desno na istok, pored vikendica, do kote 725 (iznad vojske) – nastavlja makadamom blago u desno pored Šumareve kuće do izvora Čanak;\n\n • KT-14 Čanak – put nastavlja dalje oko Debelog brda (745 m), makadamskim putem - pravi petlju i vraća se do kote 725, skreće desno makadamskim putem iznad Doma izviđača do Česme i nastavlja ka Planinarskom domu (KT-1). Nastavak od Planinarskog doma asfaltnim putem do skretanja za Slap;\n\n • KT-3 Slap – povratak do asfaltnog puta, prelazak istoga i preko livade, duž stubova dalekovoda spuštanje do proplanka i skretanje u levo na jug šumskom stazom ka Purinoj crkvi;\n\n • KT-4 Purina crkva – nastavak starom trasom (izohipsom) kroz Veliku provaliju do kote Provalija;\n\n • KT-5 Provalija – nastavak šumskom stazom do Kojića koma (801 m);\n\n • KT-6 Kojića kom – spuštanje na zapad niz livadu na makadamski put kod Pojila, ispod (severno) od kote 806. U nastavku spuštenje makadamskim putem preko Kikova, ispod kote 508 do iznad kuća Topalovića, a zatim skretanje na levo na zapad (izohipsom) putem iznad sela ka izvoru Ljiga kod crkve u selu Ba;\n\n • KT-7 Izvor Ljiga - nastavak uz serpentine do zaseoka Đurđevići, odakle se put penje na jug preko Crvene kose i izlazi preko Dobrog polja, na Dobru vodu (KT-8);\n\n • Transverzala završava kod Planinarske kuće na Dobroj vodi (KT-8).\n\nNAPOMENA:\n\n • Transverzala je linijska, u obliku nepravilne osmice, dvodnevna, duga oko 44,3 km, ima 14 KT. Najniža tačka je u selu Ba – 350 m, a najviša na vrhu Suvobora – 866 m. Ukupan uspon je 2247 m, a spust 2134 m. Trek je snimljen u jednoj neprekidnoj liniji prema prethodnom opisu puta.\n\n • Transverzala ima Dnevnik obilaznika i značku.\n\n \n\n • Način obilaska transverzale:\n\n • PRVI NAČIN:\n\n • - Prvi dan: (spavanje u Pl. domu na Rajcu) START Pl. dom – vrh Rajca – Dobra voda – Šiljak – Suvobor – Danilov vrh – Toplike – Gornji Banjani – Crveno vrelo – Čanak – Pl.dom (spavanje u Pl. domu na Rajcu);\n\n • - Drugi dan: Pl. dom – Slap – Purina crkva – Provalija – Kojića kom – izvor Ljiga (selo Ba) – Dobra voda – Pl. dom na Rajcu KRAJ. (Obilazak se može okončati i kod izvora Ljiga u selu Ba, u zavisnosti od organizacije pravoza.)\n\n • DRUGI NAČIN:\n\n • - Prvi dan: (spavanje u Pl. domu na Rajcu) START Uveče obilazak Vrha Rajca – ujutru se kreće od Pl. doma – Čanak – Crveno vrelo – Gornji Banjani – Toplike – Danilov vrh – Suvobor – Šiljak – Dobra voda (spavanje u Pl. kući na Dobroj vodi);\n\n • - Drugi dan: Dobra voda – izvor Ljiga (selo Ba) – Kojića kom – Provalija – Purina crkva – Slap – Pl. dom KRAJ",
+        "Dnevnik": "Postoji Dnevnik u obliku kartona sa šemom staze i kontrolnim tačkama, a može se kupiti u PSK \"Pobeda\", Mačvanska 8, Beograd.",
+        "Priznanja": "značka"
+    },
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/cika-duskove-rajacke-staze/",
+        "canonical_url": "https://pss.rs/terenipp/cika-duskove-rajacke-staze/",
+        "pss_id": 3619,
+        "updated_at": "2022-02-02T16:01:28Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:50:08Z",
+        "last_synced_at": "2026-11-08T12:50:08Z"
+    },
+    "search": "cika duskove rajacke staze t-3-2 zapadna srbija rajac (suvoborski) • izvanredni vidikovci, purina crkva, vodopad, • spomenik borcima kolubarske bitke “1300 kaplara”, • turisticka manifestacija “kosidba na rajcu”, • na 1 sat hoda od vrha suvobora je i spomen komplaks na ravnoj gori i mokra pecina. nije navedeno",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:50:08Z"
+    }
+}

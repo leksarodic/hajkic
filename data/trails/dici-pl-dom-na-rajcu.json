@@ -1,0 +1,207 @@
+{
+    "schema_version": 1,
+    "slug": "dici-pl-dom-na-rajcu",
+    "name": "Dići – Pl. dom na Rajcu",
+    "code": "3-20-5",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 3617,
+        "category_id": 28,
+        "region_ids": [
+            3
+        ],
+        "mountain_ids": [
+            40
+        ]
+    },
+    "region": "Zapadna Srbija",
+    "mountain": "Suvobor",
+    "difficulty": {
+        "key": "srednje_teska",
+        "label": "Srednje teška",
+        "source": "srednje teška"
+    },
+    "distance": {
+        "official_km": 13.0,
+        "calculated_km": 12.86
+    },
+    "duration": {
+        "official_minutes": 300,
+        "official_text": "5 h",
+        "official_raw": "5.00"
+    },
+    "elevation": {
+        "official_gain_m": 700.0,
+        "official_loss_m": 300.0,
+        "calculated_gain_m": 693.9,
+        "calculated_loss_m": 267.2,
+        "min_m": 190.5,
+        "max_m": 728.8
+    },
+    "start": "s. Dići (most na r. Dragobilj), 200 m",
+    "end": "Pl. dom na Rajcu, 625 m",
+    "description": "Staza kreće iz s. Dići od mosta na reci Dragobilj, kod petlje na Ibarskoj magistrali i novog auto-puta i penje se pravcem jug, naizmenično kroz predeo obrastao šumom i livadske proplanke.Prolazi zapadno od kote 406 - Palež, a zatim neposredno ispod kote 486 – Dudić i dalje ide makadamskim putem do zaseoka Radivojevići. Zatim ulazi u bukovu šumu ka Repinom brdu - kota 574 i dalje ka Lipovači, zapadno od kote 683. Na Lipovači izlazi na makadamski put koji od s. Boljkovci (iz pravca Rudnika) vodi ka Rajcu. Tu staza skreće na zapad i makadamskim putem prolazi iznad Čanka i zapadno od Debelog brda, pored Doma izviđača i Česme na Rajcu, stiže u Planinarski dom ”Čika Duško Jovanović” na Rajcu.",
+    "landmarks": "• Spomenik \"1300 kaplara\"",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinarski dom \"Čika Duško Jovanović\"",
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": "Planinarsko-turistička topografska karta 1:25000, Suvoborski Rajac (staza broj 5), u izdanju ”Geokarte” Beograd (Prvo izdanje 2008)",
+    "club": {
+        "name": "Pobeda PSK",
+        "url": "https://pss.rs/adresar_klubova/pobeda-pk/",
+        "contact": "Mačvanska 8, 11000 Beograd\n+38163 329 434 ; +38163 32 94 50\nhttps://www.pskpobeda.rs",
+        "clubs": [
+            {
+                "name": "Pobeda PSK",
+                "url": "https://pss.rs/adresar_klubova/pobeda-pk/",
+                "contact": "Mačvanska 8, 11000 Beograd\n+38163 329 434 ; +38163 32 94 50\nhttps://www.pskpobeda.rs"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 3,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/3-20-5-Dici-Rajac-dom.gpx",
+        "fetched_at": "2026-11-08T12:50:06Z",
+        "checked_at": "2026-11-08T12:50:06Z",
+        "bytes": 59609,
+        "sha256": "2a9871c6668c74ac35c4c48daad5679779ad03a07ef2cb641ca754ada83fca95",
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 453,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 11,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/3-20-5-Dici-Rajac-dom.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/dici-pl-dom-na-rajcu.geojson",
+        "bbox": [
+            20.24458902888,
+            44.13646096363664,
+            20.294634019955993,
+            44.19711300171912
+        ],
+        "center": [
+            20.269612,
+            44.166787
+        ],
+        "start_point": [
+            20.286345994099975,
+            44.19709003530443
+        ],
+        "end_point": [
+            20.24503997527063,
+            44.14285199716687
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    20.28635,
+                    44.19709
+                ],
+                [
+                    20.28714,
+                    44.19499
+                ],
+                [
+                    20.28473,
+                    44.1948
+                ],
+                [
+                    20.28125,
+                    44.18836
+                ],
+                [
+                    20.28639,
+                    44.18398
+                ],
+                [
+                    20.28695,
+                    44.17551
+                ],
+                [
+                    20.2802,
+                    44.17226
+                ],
+                [
+                    20.27665,
+                    44.16432
+                ],
+                [
+                    20.28977,
+                    44.15347
+                ],
+                [
+                    20.29438,
+                    44.14441
+                ],
+                [
+                    20.29165,
+                    44.14269
+                ],
+                [
+                    20.28614,
+                    44.14517
+                ],
+                [
+                    20.27091,
+                    44.14345
+                ],
+                [
+                    20.25229,
+                    44.13646
+                ],
+                [
+                    20.24994,
+                    44.13975
+                ],
+                [
+                    20.24499,
+                    44.1405
+                ],
+                [
+                    20.24504,
+                    44.14285
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/dici-pl-dom-na-rajcu/",
+        "canonical_url": "https://pss.rs/terenipp/dici-pl-dom-na-rajcu/",
+        "pss_id": 3617,
+        "updated_at": "2021-07-03T11:48:50Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:50:07Z",
+        "last_synced_at": "2026-11-08T12:50:07Z"
+    },
+    "search": "dici – pl. dom na rajcu 3-20-5 zapadna srbija suvobor s. dici (most na r. dragobilj), 200 m pl. dom na rajcu, 625 m pobeda psk • spomenik \"1300 kaplara\" srednje teska staza krece iz s. dici od mosta na reci dragobilj, kod petlje na ibarskoj magistrali i novog auto-puta i penje se pravcem jug, naizmenicno kroz predeo obrastao sumom i livadske proplanke.prolazi zapadno od kote 406 - palez, a zatim neposredno ispod kote 486 – dudic i dalje ide makadamskim putem do zaseoka radivojevici. zatim ulazi u bukovu sumu ka repinom brdu - kota 574 i dalje ka lipovaci, zapadno od kote 683. na lipovaci izlazi na makadamski put koji od s. boljkovci (iz pravca rudnika) vodi ka rajcu. tu staza skrece na zapad i makadamskim putem prolazi iznad canka i zapadno od debelog brda, pored doma izvidjaca i cesme na rajcu, stize u planinarski dom ”cika dusko jovanovic” na rajcu.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:50:07Z"
+    }
+}

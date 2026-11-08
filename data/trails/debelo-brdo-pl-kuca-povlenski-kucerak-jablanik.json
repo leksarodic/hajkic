@@ -1,0 +1,204 @@
+{
+    "schema_version": 1,
+    "slug": "debelo-brdo-pl-kuca-povlenski-kucerak-jablanik",
+    "name": "Debelo Brdo - Pl. kuća \"Povlenski kućerak\" - Jablanik",
+    "code": "3-14-4",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 12751,
+        "category_id": 28,
+        "region_ids": [
+            3
+        ],
+        "mountain_ids": [
+            198,
+            66
+        ]
+    },
+    "region": "Zapadna Srbija",
+    "mountain": "Jablanik, Povlen",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 9.6,
+        "calculated_km": 9.63
+    },
+    "duration": {
+        "official_minutes": 210,
+        "official_text": "3 h 30 min",
+        "official_raw": "3:30"
+    },
+    "elevation": {
+        "official_gain_m": 420.0,
+        "official_loss_m": 377.0,
+        "calculated_gain_m": 376.6,
+        "calculated_loss_m": 332.7,
+        "min_m": 905.9,
+        "max_m": 1163.1
+    },
+    "start": "Debelo Brdo, 1044 m",
+    "end": "Raskrsnica za Jablanik, 1088 m",
+    "description": "Staza polazi od prevoja Debelo brdo i makadamskim putem ide do planinarske kuće \"Povlenski kućerak\", a zatim se oko 400 m vraća nazad i na lokaciji Ivlje skreće levo preko mosta na reci Trešnjici i ide kroz bukovu šumu prema selu Pašna ravan. Staza zatim izbija na asfaltni put koji ide od zaseoka Kosići u Pašnu ravan i prolazi kroz centar sela. Nakon toga staza se lagano penje pokraj seoske crkve, kroz vašarište, zaseok Prokići i izbija na makadamski put Debelo brdo - Bobija u podnožju Jablanika. U podnožju Jablanika, staza izlazi na Evropski pešački put E7 i spaja se sa stazom koja sa prevoja Debelo brdo ide na vrh Jablanika. Ovde se staza 3-14-4 završava.",
+    "landmarks": "• Reka Trešnjica\n\n • spomenik Živanu Đurđeviću na Debelom brdu",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinarska kuća \"Povlenski kućerak\"",
+    "notes": "• Stazu je trasirao i učestvovao u markiranju 2017. godine Dušan Drakulić.\n\n • Markacije su osvežene septembra 2020. godine.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Povlen PK",
+        "url": "https://pss.rs/adresar_klubova/povlen-pk/",
+        "contact": "Doktora Pantića 131/6 14000 Valjevo\n063-232039",
+        "clubs": [
+            {
+                "name": "Povlen PK",
+                "url": "https://pss.rs/adresar_klubova/povlen-pk/",
+                "contact": "Doktora Pantića 131/6 14000 Valjevo\n063-232039"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 3,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2021/01/3-14-4-Debelo-brdo-pl.dom-Jablanik.gpx",
+        "fetched_at": "2026-11-08T12:01:41Z",
+        "checked_at": "2026-11-08T12:01:41Z",
+        "bytes": 59705,
+        "sha256": "b468d0093a98e30595c791d08705419055b84c3a8a836cb38031839fd601b819",
+        "etag": null,
+        "last_modified": "Thu, 28 Apr 2022 17:15:44 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 447,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 7,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2021/01/3-14-4-Debelo-brdo-pl.dom-Jablanik.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/debelo-brdo-pl-kuca-povlenski-kucerak-jablanik.geojson",
+        "bbox": [
+            19.66167736798525,
+            44.13951398804784,
+            19.712613774463534,
+            44.15847645141184
+        ],
+        "center": [
+            19.687146,
+            44.148995
+        ],
+        "start_point": [
+            19.691694220528007,
+            44.15056653320789
+        ],
+        "end_point": [
+            19.667060310021043,
+            44.15847645141184
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    19.69169,
+                    44.15057
+                ],
+                [
+                    19.69511,
+                    44.14534
+                ],
+                [
+                    19.70751,
+                    44.14108
+                ],
+                [
+                    19.7125,
+                    44.14152
+                ],
+                [
+                    19.70764,
+                    44.14094
+                ],
+                [
+                    19.70137,
+                    44.14382
+                ],
+                [
+                    19.70278,
+                    44.14182
+                ],
+                [
+                    19.68903,
+                    44.14226
+                ],
+                [
+                    19.6817,
+                    44.13951
+                ],
+                [
+                    19.67898,
+                    44.14109
+                ],
+                [
+                    19.67508,
+                    44.14006
+                ],
+                [
+                    19.6702,
+                    44.14488
+                ],
+                [
+                    19.66761,
+                    44.14342
+                ],
+                [
+                    19.66168,
+                    44.15055
+                ],
+                [
+                    19.66274,
+                    44.15577
+                ],
+                [
+                    19.66706,
+                    44.15848
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/debelo-brdo-pl-kuca-povlenski-kucerak-jablanik/",
+        "canonical_url": "https://pss.rs/terenipp/debelo-brdo-pl-kuca-povlenski-kucerak-jablanik/",
+        "pss_id": 12751,
+        "updated_at": "2022-04-28T17:21:45Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:01:41Z",
+        "last_synced_at": "2026-11-08T12:01:41Z"
+    },
+    "search": "debelo brdo - pl. kuca \"povlenski kucerak\" - jablanik 3-14-4 zapadna srbija jablanik, povlen debelo brdo, 1044 m raskrsnica za jablanik, 1088 m povlen pk • reka tresnjica • spomenik zivanu djurdjevicu na debelom brdu laka staza polazi od prevoja debelo brdo i makadamskim putem ide do planinarske kuce \"povlenski kucerak\", a zatim se oko 400 m vraca nazad i na lokaciji ivlje skrece levo preko mosta na reci tresnjici i ide kroz bukovu sumu prema selu pasna ravan. staza zatim izbija na asfaltni put koji ide od zaseoka kosici u pasnu ravan i prolazi kroz centar sela. nakon toga staza se lagano penje pokraj seoske crkve, kroz vasariste, zaseok prokici i izbija na makadamski put debelo brdo - bobija u podnozju jablanika. u podnozju jablanika, staza izlazi na evropski pesacki put e7 i spaja se sa stazom koja sa prevoja debelo brdo ide na vrh jablanika. ovde se staza 3-14-4 zavrsava.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:01:41Z"
+    }
+}

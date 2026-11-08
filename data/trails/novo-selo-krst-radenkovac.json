@@ -1,0 +1,199 @@
+{
+    "schema_version": 1,
+    "slug": "novo-selo-krst-radenkovac",
+    "name": "Novo Selo - Krst - Radenkovac",
+    "code": "4-31-4",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 3828,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            57
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Devica",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 9.0,
+        "calculated_km": 8.91
+    },
+    "duration": {
+        "official_minutes": 180,
+        "official_text": "3 h",
+        "official_raw": "3"
+    },
+    "elevation": {
+        "official_gain_m": 372.0,
+        "official_loss_m": 392.0,
+        "calculated_gain_m": 350.0,
+        "calculated_loss_m": 373.6,
+        "min_m": 698.5,
+        "max_m": 970.2
+    },
+    "start": "Novo Selo, 720m",
+    "end": "Radenkovac, 700m",
+    "description": "Spaja sledeće staze/puteve: sa stazom \"Čapljinac - Ravnište\"",
+    "landmarks": "• Crkva Petrovdan (XVII vek)\n\n • Vidikovci: Ravnište, Krst i Golemi vrh\n\n • Na stazi ima izvora pitke vode: Božin kladenac, Petrovdan\n\n • Na trasi nema smeštaja",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu je trasiralo PD \"Oštra Čuka\", 18. novembra 2012. godine\n\n • Poslednji put staza je markirana 4. juna 2015. godine",
+    "map_reference": null,
+    "map_sheet": "1:50000 (Aleksinac C3)",
+    "club": {
+        "name": "Oštra čuka PD",
+        "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+        "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/",
+        "clubs": [
+            {
+                "name": "Oštra čuka PD",
+                "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+                "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/4-31-4-Novo-Selo-Radenkovac.gpx",
+        "fetched_at": "2026-11-08T11:55:32Z",
+        "checked_at": "2026-11-08T11:55:32Z",
+        "bytes": 23086,
+        "sha256": "e69902ee47d91843098ef029d33906ac232e66dbfe22531f2a88629b6516e0c8",
+        "etag": null,
+        "last_modified": "Fri, 21 Dec 2018 10:53:40 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 176,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 3,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/4-31-4-Novo-Selo-Radenkovac.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/novo-selo-krst-radenkovac.geojson",
+        "bbox": [
+            21.920730946585536,
+            43.54135036468506,
+            21.952271461486816,
+            43.56903076171875
+        ],
+        "center": [
+            21.936501,
+            43.555191
+        ],
+        "start_point": [
+            21.920771598815918,
+            43.56546878814697
+        ],
+        "end_point": [
+            21.93441867828369,
+            43.54856014251709
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.92077,
+                    43.56547
+                ],
+                [
+                    21.92515,
+                    43.56693
+                ],
+                [
+                    21.93154,
+                    43.56538
+                ],
+                [
+                    21.94107,
+                    43.56903
+                ],
+                [
+                    21.95034,
+                    43.56289
+                ],
+                [
+                    21.94845,
+                    43.55779
+                ],
+                [
+                    21.95103,
+                    43.55491
+                ],
+                [
+                    21.94858,
+                    43.54976
+                ],
+                [
+                    21.94476,
+                    43.54895
+                ],
+                [
+                    21.95206,
+                    43.54594
+                ],
+                [
+                    21.95098,
+                    43.54324
+                ],
+                [
+                    21.94622,
+                    43.54156
+                ],
+                [
+                    21.93931,
+                    43.54573
+                ],
+                [
+                    21.93296,
+                    43.54556
+                ],
+                [
+                    21.93442,
+                    43.54856
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/novo-selo-krst-radenkovac/",
+        "canonical_url": "https://pss.rs/terenipp/novo-selo-krst-radenkovac/",
+        "pss_id": 3828,
+        "updated_at": "2018-12-21T10:57:47Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:55:33Z",
+        "last_synced_at": "2026-11-08T11:55:33Z"
+    },
+    "search": "novo selo - krst - radenkovac 4-31-4 istocna srbija devica novo selo, 720m radenkovac, 700m ostra cuka pd • crkva petrovdan (xvii vek) • vidikovci: ravniste, krst i golemi vrh • na stazi ima izvora pitke vode: bozin kladenac, petrovdan • na trasi nema smestaja laka spaja sledece staze/puteve: sa stazom \"capljinac - ravniste\"",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:55:33Z"
+    }
+}

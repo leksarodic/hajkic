@@ -1,0 +1,161 @@
+{
+    "schema_version": 1,
+    "slug": "kravlje-pecurina-ljuti-vrh",
+    "name": "Kravlje - Pećurina - Ljuti vrh",
+    "code": "4-47-5",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 4493,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            96
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Kalafat",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 4.17,
+        "calculated_km": 4.12
+    },
+    "duration": {
+        "official_minutes": 120,
+        "official_text": "2 h",
+        "official_raw": "2:00"
+    },
+    "elevation": {
+        "official_gain_m": 483.0,
+        "official_loss_m": 0.0,
+        "calculated_gain_m": 502.6,
+        "calculated_loss_m": 21.7,
+        "min_m": 287.0,
+        "max_m": 784.9
+    },
+    "start": "Autobusko stajalište i česma u selu Kravlje, 300m",
+    "end": "Ljuti vrh, 783m",
+    "description": null,
+    "landmarks": null,
+    "maintenance": "teško prohodna",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Staza je poslednji put markirana 14.5.2015.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Železničar PK Niš",
+        "url": "https://pss.rs/adresar_klubova/zeleznicar-pk/",
+        "contact": "Tvrđava bb, 18000 Niš\n064 833 000 3, 061 168 777 1\nhttp://www.planinari-zeleznicar.rs/",
+        "clubs": [
+            {
+                "name": "Železničar PK Niš",
+                "url": "https://pss.rs/adresar_klubova/zeleznicar-pk/",
+                "contact": "Tvrđava bb, 18000 Niš\n064 833 000 3, 061 168 777 1\nhttp://www.planinari-zeleznicar.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/08/4-47-5-Kravlje-Pecurina-Ljuti-vrh.gpx",
+        "fetched_at": "2026-11-08T11:57:20Z",
+        "checked_at": "2026-11-08T11:57:20Z",
+        "bytes": 23765,
+        "sha256": "b22cfd4700eb28a89e9f86ef4bbf63af0f0d6231f7afe22c21fb7c9616ea8d3c",
+        "etag": null,
+        "last_modified": "Wed, 31 Jan 2018 11:01:30 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 184,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 3,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/08/4-47-5-Kravlje-Pecurina-Ljuti-vrh.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/kravlje-pecurina-ljuti-vrh.geojson",
+        "bbox": [
+            21.907584769651294,
+            43.44320842064917,
+            21.940948013216257,
+            43.458937648683786
+        ],
+        "center": [
+            21.924266,
+            43.451073
+        ],
+        "start_point": [
+            21.907584769651294,
+            43.45779343508184
+        ],
+        "end_point": [
+            21.940948013216257,
+            43.443588539958
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.90758,
+                    43.45779
+                ],
+                [
+                    21.91692,
+                    43.45827
+                ],
+                [
+                    21.92266,
+                    43.45207
+                ],
+                [
+                    21.92946,
+                    43.45369
+                ],
+                [
+                    21.94095,
+                    43.44359
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/kravlje-pecurina-ljuti-vrh/",
+        "canonical_url": "https://pss.rs/terenipp/kravlje-pecurina-ljuti-vrh/",
+        "pss_id": 4493,
+        "updated_at": "2018-01-31T11:02:16Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:57:20Z",
+        "last_synced_at": "2026-11-08T11:57:20Z"
+    },
+    "search": "kravlje - pecurina - ljuti vrh 4-47-5 istocna srbija kalafat autobusko stajaliste i cesma u selu kravlje, 300m ljuti vrh, 783m zeleznicar pk nis laka",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:57:20Z"
+    }
+}

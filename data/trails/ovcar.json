@@ -1,0 +1,209 @@
+{
+    "schema_version": 1,
+    "slug": "ovcar",
+    "name": "Ovčar",
+    "code": "5-17-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 19523,
+        "category_id": 28,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            83
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Ovčar",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 9.54,
+        "calculated_km": 9.9
+    },
+    "duration": {
+        "official_minutes": 240,
+        "official_text": "4 h",
+        "official_raw": "4:00"
+    },
+    "elevation": {
+        "official_gain_m": 708.0,
+        "official_loss_m": 708.0,
+        "calculated_gain_m": 749.0,
+        "calculated_loss_m": 745.5,
+        "min_m": 278.7,
+        "max_m": 971.3
+    },
+    "start": "Ovčar Banja, bivši auto kamp - 278 m",
+    "end": "Ovčar Banja, parking ispod manastira Preobraženje - 278 m",
+    "description": "Staza kreće od auto kampa ka vikend naselju Grabovi i Trojičkom potoku, u prvom delu blaga, da bi posle potoka krenuo uspon do manastira Svete Trojice. Od manastira nastavljamo ka česmi Glogovac i izlazimo na asfaltni put do manastira Sretenje. Od manastira Sretenje sledi jači uspon do livade Koronja i zatim starim putem do vrha. Povratak istom stazom do manastira Sretenje, odakle se nastavi stazom niz Koronjskido do manastira Preobraženje.",
+    "landmarks": "manastiri: Sveta Trojica, Sretenje i Preobraženje",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Snabdevenost pitkom vodom: na trasi / izvodi pitke vode: manastir Svete Trojice, česma Glogovac /presuši tokom leta), manastir Sretenje, česme kod Preobraženja.\n\nKo je i kada trasirao stazu: polovina XX veka, nepoznato.\n\n Kada je staza poslednji put markirana: 2020",
+    "map_reference": null,
+    "map_sheet": "Planinarske staze Ovčara i Kablara 1 : 20 000 i Čačak 1 (529/1) 1:50000",
+    "club": {
+        "name": "Kablar PD",
+        "url": "https://pss.rs/adresar_klubova/kablar-pd/",
+        "contact": "Kneza Miloša 1, 32000 Čačak\n+38164 852 60 48\nhttps://www.kablar.rs",
+        "clubs": [
+            {
+                "name": "Kablar PD",
+                "url": "https://pss.rs/adresar_klubova/kablar-pd/",
+                "contact": "Kneza Miloša 1, 32000 Čačak\n+38164 852 60 48\nhttps://www.kablar.rs"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2023/05/7-Ovcar-data.gpx",
+        "fetched_at": "2026-11-08T12:03:25Z",
+        "checked_at": "2026-11-08T12:03:25Z",
+        "bytes": 42628,
+        "sha256": "b93d292bb26e42dce04ea81c740e5acfe073cbab6d89ee140ee70ea4aee9f8bb",
+        "etag": null,
+        "last_modified": "Sun, 07 May 2023 18:51:07 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 482,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2023/05/7-Ovcar-data.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/ovcar.geojson",
+        "bbox": [
+            20.186113436,
+            43.889701171,
+            20.215594182,
+            43.904895885
+        ],
+        "center": [
+            20.200854,
+            43.897299
+        ],
+        "start_point": [
+            20.186113436,
+            43.896169066
+        ],
+        "end_point": [
+            20.194618553,
+            43.904735036
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    20.18611,
+                    43.89617
+                ],
+                [
+                    20.19371,
+                    43.89715
+                ],
+                [
+                    20.19768,
+                    43.89405
+                ],
+                [
+                    20.19717,
+                    43.89178
+                ],
+                [
+                    20.20238,
+                    43.8897
+                ],
+                [
+                    20.20537,
+                    43.89122
+                ],
+                [
+                    20.20053,
+                    43.89615
+                ],
+                [
+                    20.20643,
+                    43.89575
+                ],
+                [
+                    20.20981,
+                    43.89106
+                ],
+                [
+                    20.21554,
+                    43.89685
+                ],
+                [
+                    20.21471,
+                    43.89428
+                ],
+                [
+                    20.20992,
+                    43.89127
+                ],
+                [
+                    20.20306,
+                    43.90045
+                ],
+                [
+                    20.20223,
+                    43.89847
+                ],
+                [
+                    20.19462,
+                    43.90474
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/ovcar/",
+        "canonical_url": "https://pss.rs/terenipp/ovcar/",
+        "pss_id": 19523,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:03:25Z",
+        "last_synced_at": "2026-11-08T12:03:25Z"
+    },
+    "search": "ovcar 5-17-1 jugozapadna srbija ovcar ovcar banja, bivsi auto kamp - 278 m ovcar banja, parking ispod manastira preobrazenje - 278 m kablar pd manastiri: sveta trojica, sretenje i preobrazenje laka staza krece od auto kampa ka vikend naselju grabovi i trojickom potoku, u prvom delu blaga, da bi posle potoka krenuo uspon do manastira svete trojice. od manastira nastavljamo ka cesmi glogovac i izlazimo na asfaltni put do manastira sretenje. od manastira sretenje sledi jaci uspon do livade koronja i zatim starim putem do vrha. povratak istom stazom do manastira sretenje, odakle se nastavi stazom niz koronjskido do manastira preobrazenje.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:03:25Z"
+    }
+}

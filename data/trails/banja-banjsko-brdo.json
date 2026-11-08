@@ -1,0 +1,239 @@
+{
+    "schema_version": 1,
+    "slug": "banja-banjsko-brdo",
+    "name": "Banja - Banjsko brdo",
+    "code": "5-11-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 12511,
+        "category_id": 28,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            197
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Stari Vlah",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 17.0,
+        "calculated_km": 16.11
+    },
+    "duration": {
+        "official_minutes": 480,
+        "official_text": "8 h",
+        "official_raw": "8:00"
+    },
+    "elevation": {
+        "official_gain_m": 957.0,
+        "official_loss_m": 957.0,
+        "calculated_gain_m": 982.7,
+        "calculated_loss_m": 1003.3,
+        "min_m": 576.0,
+        "max_m": 1294.1
+    },
+    "start": "Pribojska Banja - OŠ \"Nikola Tesla\", 580 m",
+    "end": "Pribojska Banja - OŠ \"Nikola Tesla\", 580 m",
+    "description": "• Od OŠ \"Nikola Tesla\" na Banji ide se u pravcu istoka ka naselju Gračanica (sedlo ispod Velikog Krša). Odatle u pravcu severoistoka staza se spušta ka potoku Miajlovac, a odatle u pravcu jugozapada ide ka groblju Šaponjića i ka Previji. Od Previje u pravcu juga staza ide ka vrhu Banjskog brda. Sa vrha Banjskog brda pruža se pogled u pravcu 360 stepeni. Sa Banjskog brda staza se vraća ka Previji a onda u smeru severa, idući grebenom Pot, staza dolazi do Petibora (raskrsnica puteva). U pravcu severozapada staza vodi ka manastiru Uvac. U pravcu jugozapada spuštamo se ka Pjevčevom vrelu (izvor pijaće vode). odatle u pravcu juga spušta se ka zaseoku Gračanica i staza dalje vodi ka Pribojskoj banji. \n\n • Staza se spaja sa stazom Kanjon Kratovske reke u pravcu istoka preko zaseoka Orašac. Sa severne stane vezuje se sa stazom ka manastiru Uvac.",
+    "landmarks": "• Pribojska banja\n\n • Manastir Sv. Nikole\n\n • Vidikovac: Banjsko brdo\n\n • Naselje: Gračanica\n\n • Na trasi ima 1 izvor pitke vode\n\n • U naselju Pribojska banja postoje bazeni termalne izvorske vode kao i veliki broj privatnog smeštaja namenjenog banjskom turizmu.",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu su trasirali planinari ŽKP Ljeskovac 2017. godine.\n\n • Poslednji put staza je markirana 2017. godine.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Ljeskovac ŽKP",
+        "url": "https://pss.rs/adresar_klubova/ljeskovac-zkp/",
+        "contact": "8.mart bb, 31330 Priboj\n+ 381 64 3140810",
+        "clubs": [
+            {
+                "name": "Ljeskovac ŽKP",
+                "url": "https://pss.rs/adresar_klubova/ljeskovac-zkp/",
+                "contact": "8.mart bb, 31330 Priboj\n+ 381 64 3140810"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 14,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2020/11/5-11-1-Banjsko-brdo.gpx",
+        "fetched_at": "2026-11-08T12:01:32Z",
+        "checked_at": "2026-11-08T12:01:32Z",
+        "bytes": 221708,
+        "sha256": "23129fe644e014e3552137b5a165deb7c588e16aec3008203021265f2d0896c4",
+        "etag": null,
+        "last_modified": "Fri, 20 Nov 2020 15:10:56 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 1349,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 12,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2020/11/5-11-1-Banjsko-brdo.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/banja-banjsko-brdo.geojson",
+        "bbox": [
+            19.559779660776258,
+            43.538099862635136,
+            19.604114228859544,
+            43.57016449794173
+        ],
+        "center": [
+            19.581947,
+            43.554132
+        ],
+        "start_point": [
+            19.559779660776258,
+            43.54963134974241
+        ],
+        "end_point": [
+            19.560016617178917,
+            43.54961349628866
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    19.55978,
+                    43.54963
+                ],
+                [
+                    19.56197,
+                    43.54881
+                ],
+                [
+                    19.56173,
+                    43.55044
+                ],
+                [
+                    19.56974,
+                    43.55274
+                ],
+                [
+                    19.57611,
+                    43.55037
+                ],
+                [
+                    19.58501,
+                    43.553
+                ],
+                [
+                    19.59226,
+                    43.5596
+                ],
+                [
+                    19.59465,
+                    43.56898
+                ],
+                [
+                    19.59772,
+                    43.56794
+                ],
+                [
+                    19.60003,
+                    43.56986
+                ],
+                [
+                    19.60319,
+                    43.56944
+                ],
+                [
+                    19.60293,
+                    43.56055
+                ],
+                [
+                    19.59767,
+                    43.54441
+                ],
+                [
+                    19.60115,
+                    43.54163
+                ],
+                [
+                    19.59925,
+                    43.53815
+                ],
+                [
+                    19.59771,
+                    43.53898
+                ],
+                [
+                    19.59922,
+                    43.53812
+                ],
+                [
+                    19.60126,
+                    43.54181
+                ],
+                [
+                    19.59264,
+                    43.55025
+                ],
+                [
+                    19.58627,
+                    43.55194
+                ],
+                [
+                    19.58177,
+                    43.54909
+                ],
+                [
+                    19.57024,
+                    43.55259
+                ],
+                [
+                    19.56198,
+                    43.55054
+                ],
+                [
+                    19.56188,
+                    43.54877
+                ],
+                [
+                    19.56002,
+                    43.54961
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/banja-banjsko-brdo/",
+        "canonical_url": "https://pss.rs/terenipp/banja-banjsko-brdo/",
+        "pss_id": 12511,
+        "updated_at": "2020-11-20T15:17:59Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:01:32Z",
+        "last_synced_at": "2026-11-08T12:01:32Z"
+    },
+    "search": "banja - banjsko brdo 5-11-1 jugozapadna srbija stari vlah pribojska banja - os \"nikola tesla\", 580 m pribojska banja - os \"nikola tesla\", 580 m ljeskovac zkp • pribojska banja • manastir sv. nikole • vidikovac: banjsko brdo • naselje: gracanica • na trasi ima 1 izvor pitke vode • u naselju pribojska banja postoje bazeni termalne izvorske vode kao i veliki broj privatnog smestaja namenjenog banjskom turizmu. zahtevna • od os \"nikola tesla\" na banji ide se u pravcu istoka ka naselju gracanica (sedlo ispod velikog krsa). odatle u pravcu severoistoka staza se spusta ka potoku miajlovac, a odatle u pravcu jugozapada ide ka groblju saponjica i ka previji. od previje u pravcu juga staza ide ka vrhu banjskog brda. sa vrha banjskog brda pruza se pogled u pravcu 360 stepeni. sa banjskog brda staza se vraca ka previji a onda u smeru severa, iduci grebenom pot, staza dolazi do petibora (raskrsnica puteva). u pravcu severozapada staza vodi ka manastiru uvac. u pravcu jugozapada spustamo se ka pjevcevom vrelu (izvor pijace vode). odatle u pravcu juga spusta se ka zaseoku gracanica i staza dalje vodi ka pribojskoj banji. • staza se spaja sa stazom kanjon kratovske reke u pravcu istoka preko zaseoka orasac. sa severne stane vezuje se sa stazom ka manastiru uvac.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:01:32Z"
+    }
+}

@@ -1,0 +1,193 @@
+{
+    "schema_version": 1,
+    "slug": "veliki-vrtop-golemo-straziste",
+    "name": "Veliki Vrtop - Golemo Stražište",
+    "code": "7-3-9",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 4488,
+        "category_id": 28,
+        "region_ids": [
+            7
+        ],
+        "mountain_ids": [
+            50
+        ]
+    },
+    "region": "Jugoistočna Srbija",
+    "mountain": "Suva planina",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 6.33,
+        "calculated_km": 6.21
+    },
+    "duration": {
+        "official_minutes": 240,
+        "official_text": "4 h",
+        "official_raw": "4:00"
+    },
+    "elevation": {
+        "official_gain_m": 1149.0,
+        "official_loss_m": 0.0,
+        "calculated_gain_m": 1123.4,
+        "calculated_loss_m": 1.6,
+        "min_m": 576.5,
+        "max_m": 1701.0
+    },
+    "start": "Veliki Vrtop, 565m",
+    "end": "Golemo Stražište, 1714m",
+    "description": null,
+    "landmarks": "Na trasi dva izvora pitke vode.",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Staza poslednji put markirana 23.10.2013.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Železničar PK Niš",
+        "url": "https://pss.rs/adresar_klubova/zeleznicar-pk/",
+        "contact": "Tvrđava bb, 18000 Niš\n064 833 000 3, 061 168 777 1\nhttp://www.planinari-zeleznicar.rs/",
+        "clubs": [
+            {
+                "name": "Železničar PK Niš",
+                "url": "https://pss.rs/adresar_klubova/zeleznicar-pk/",
+                "contact": "Tvrđava bb, 18000 Niš\n064 833 000 3, 061 168 777 1\nhttp://www.planinari-zeleznicar.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/08/7-3-9-Veliki-Vrtop-Golemo-Straziste.gpx",
+        "fetched_at": "2026-11-08T11:57:11Z",
+        "checked_at": "2026-11-08T11:57:11Z",
+        "bytes": 37753,
+        "sha256": "6615837103970492fa3899ca28a5b0cc22960d151a9dc1d827754d123a95d615",
+        "etag": null,
+        "last_modified": "Wed, 31 Jan 2018 11:20:24 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 304,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 4,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/08/7-3-9-Veliki-Vrtop-Golemo-Straziste.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/veliki-vrtop-golemo-straziste.geojson",
+        "bbox": [
+            22.17075959779322,
+            43.13194661401212,
+            22.21521293744445,
+            43.14696899615228
+        ],
+        "center": [
+            22.192986,
+            43.139458
+        ],
+        "start_point": [
+            22.17075959779322,
+            43.13194661401212
+        ],
+        "end_point": [
+            22.21521293744445,
+            43.143989061936736
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    22.17076,
+                    43.13195
+                ],
+                [
+                    22.17262,
+                    43.13469
+                ],
+                [
+                    22.18155,
+                    43.13622
+                ],
+                [
+                    22.18334,
+                    43.13491
+                ],
+                [
+                    22.19007,
+                    43.14148
+                ],
+                [
+                    22.19302,
+                    43.14136
+                ],
+                [
+                    22.1951,
+                    43.13797
+                ],
+                [
+                    22.19798,
+                    43.13878
+                ],
+                [
+                    22.20286,
+                    43.14196
+                ],
+                [
+                    22.20027,
+                    43.14518
+                ],
+                [
+                    22.20396,
+                    43.14661
+                ],
+                [
+                    22.20837,
+                    43.14697
+                ],
+                [
+                    22.21521,
+                    43.14399
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/veliki-vrtop-golemo-straziste/",
+        "canonical_url": "https://pss.rs/terenipp/veliki-vrtop-golemo-straziste/",
+        "pss_id": 4488,
+        "updated_at": "2018-01-31T11:20:51Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:57:11Z",
+        "last_synced_at": "2026-11-08T11:57:11Z"
+    },
+    "search": "veliki vrtop - golemo straziste 7-3-9 jugoistocna srbija suva planina veliki vrtop, 565m golemo straziste, 1714m zeleznicar pk nis na trasi dva izvora pitke vode. zahtevna",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:57:11Z"
+    }
+}

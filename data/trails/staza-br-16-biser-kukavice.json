@@ -1,0 +1,189 @@
+{
+    "schema_version": 1,
+    "slug": "staza-br-16-biser-kukavice",
+    "name": "Staza br. 16. \"Biser Kukavice\"",
+    "code": "7-9-16",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 17521,
+        "category_id": 28,
+        "region_ids": [
+            7
+        ],
+        "mountain_ids": [
+            69
+        ]
+    },
+    "region": "Jugoistočna Srbija",
+    "mountain": "Kukavica",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 5.2,
+        "calculated_km": 5.06
+    },
+    "duration": {
+        "official_minutes": 150,
+        "official_text": "2 h 30 min",
+        "official_raw": "2:30"
+    },
+    "elevation": {
+        "official_gain_m": 233.0,
+        "official_loss_m": 202.0,
+        "calculated_gain_m": 299.3,
+        "calculated_loss_m": 288.3,
+        "min_m": 308.2,
+        "max_m": 554.9
+    },
+    "start": "Crkva Sv. Jovana Krstitelja u Vučju, 309 m",
+    "end": "Hidroelektrana u Vučju, 340 m",
+    "description": "Crkva – Skobaljić grad – kamen čuvar – Sokolica – Vidikovac ,,Orlovo gnezdo” – Hidroelektrana i vodopadi u kanjonu Vučjanke",
+    "landmarks": "- Crkva Sv. Jovana Krstitelja u Vučju\n\n- Skobaljić grad\n\n- Kamen čuvar\n\n- Sokolica\n\n- Vidikovac ,,Orlovo gnezdo”\n\n- Hidroelektrana i vodopadi u kanjonu Vučjanke",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Staza je poslednji put markirana 17. 07. 2022.\n\nStaza spaja sledeće staze/puteve: 7-9-15 i E7-20 (devijacija)",
+    "map_reference": null,
+    "map_sheet": "1:25000, TK Leskovac 632 2-4",
+    "club": {
+        "name": "Kukavica PSK",
+        "url": "https://pss.rs/adresar_klubova/kukavica-psk/",
+        "contact": "Deligradska 5, 16000 Leskovac\n+381652824655",
+        "clubs": [
+            {
+                "name": "Kukavica PSK",
+                "url": "https://pss.rs/adresar_klubova/kukavica-psk/",
+                "contact": "Deligradska 5, 16000 Leskovac\n+381652824655"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 4,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2022/08/7-9-16-Staza-br.16-Biser_Kukavice.gpx",
+        "fetched_at": "2026-11-08T12:02:41Z",
+        "checked_at": "2026-11-08T12:02:41Z",
+        "bytes": 33066,
+        "sha256": "c2dbf4f6a7d73db280d153ab8c3506db6cf07594cb008382f640340d1e62d9bb",
+        "etag": null,
+        "last_modified": "Mon, 08 Aug 2022 18:16:10 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 231,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 17,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2022/08/7-9-16-Staza-br.16-Biser_Kukavice.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/staza-br-16-biser-kukavice.geojson",
+        "bbox": [
+            21.9082123,
+            42.8461037,
+            21.9189794,
+            42.8567427
+        ],
+        "center": [
+            21.913596,
+            42.851423
+        ],
+        "start_point": [
+            21.9140781,
+            42.8557321
+        ],
+        "end_point": [
+            21.9137907,
+            42.8556548
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    21.91408,
+                    42.85573
+                ],
+                [
+                    21.90821,
+                    42.85148
+                ],
+                [
+                    21.91312,
+                    42.85153
+                ],
+                [
+                    21.91088,
+                    42.84697
+                ],
+                [
+                    21.91428,
+                    42.8461
+                ],
+                [
+                    21.91898,
+                    42.85131
+                ],
+                [
+                    21.91606,
+                    42.85249
+                ],
+                [
+                    21.91725,
+                    42.85131
+                ],
+                [
+                    21.91638,
+                    42.85604
+                ],
+                [
+                    21.91379,
+                    42.85565
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/staza-br-16-biser-kukavice/",
+        "canonical_url": "https://pss.rs/terenipp/staza-br-16-biser-kukavice/",
+        "pss_id": 17521,
+        "updated_at": "2022-08-08T18:30:28Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:02:41Z",
+        "last_synced_at": "2026-11-08T12:02:41Z"
+    },
+    "search": "staza br. 16. \"biser kukavice\" 7-9-16 jugoistocna srbija kukavica crkva sv. jovana krstitelja u vucju, 309 m hidroelektrana u vucju, 340 m kukavica psk - crkva sv. jovana krstitelja u vucju - skobaljic grad - kamen cuvar - sokolica - vidikovac ,,orlovo gnezdo” - hidroelektrana i vodopadi u kanjonu vucjanke laka crkva – skobaljic grad – kamen cuvar – sokolica – vidikovac ,,orlovo gnezdo” – hidroelektrana i vodopadi u kanjonu vucjanke",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:02:41Z"
+    }
+}

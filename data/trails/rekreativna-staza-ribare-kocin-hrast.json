@@ -1,0 +1,163 @@
+{
+    "schema_version": 1,
+    "slug": "rekreativna-staza-ribare-kocin-hrast",
+    "name": "Rekreativna staza “Ribare-Kočin hrast”",
+    "code": "2-16-2",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 14243,
+        "category_id": 28,
+        "region_ids": [
+            2
+        ],
+        "mountain_ids": [
+            204
+        ]
+    },
+    "region": "Šumadija",
+    "mountain": "Crni vrh",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 6.0,
+        "calculated_km": 5.2
+    },
+    "duration": {
+        "official_minutes": 120,
+        "official_text": "2 h",
+        "official_raw": "2:00"
+    },
+    "elevation": {
+        "official_gain_m": 10.0,
+        "official_loss_m": 20.0,
+        "calculated_gain_m": 10.8,
+        "calculated_loss_m": 21.8,
+        "min_m": 105.7,
+        "max_m": 121.8
+    },
+    "start": "Selo Ribare, brana na reci Lugomir, 110m",
+    "end": "Park prirode Kočin hrast u Kočinom selu, 100m",
+    "description": "Planinarski put se nalazi u selu Ribare, nadomak Jagodine. Početak puta je u selu Ribare - brana na reci Lugomir. Put nastavlja krunom nasipa brane do ušća reke Lugomir u Veliku Moravu. Zatim krunom nasipa brane na Velikoj Moravi, kroz vikend naselje Brioni, ispod metalnog mosta, kroz naselje Sampas Dibona, krunom nasipa na reci Velika Morava do Parka prirode Kočin hrast.",
+    "landmarks": "• Na kraju staze nalazi se Park prirode Kočin hrast,\n\n • Duž cele staze pogled se prostire na polja u blizini sela Ribare, kao i na reke Lugomir i Veliku Moravu,\n\n • Staza se prostire na području grada Jagodina, sela Ribare i Kočino selo,\n\n • Na kraju staze postoji česma i restoran,\n\n • Na stazi nema smeštaja.",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu su trasirali licencirani markiranti Radivoje Marković, Sanja Simonović i Suzana Balać 2020. godine.\n\n • Poslednji put staza je markirana jula 2021. godine.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Planinski duh PD",
+        "url": "https://pss.rs/adresar_klubova/planinski-duh-pd/",
+        "contact": "Kralja Petra Prvog 63 35220 Ribare Jagodina\n0691530989\nhttps://www.instagram.com/pdplaninski",
+        "clubs": [
+            {
+                "name": "Planinski duh PD",
+                "url": "https://pss.rs/adresar_klubova/planinski-duh-pd/",
+                "contact": "Kralja Petra Prvog 63 35220 Ribare Jagodina\n0691530989\nhttps://www.instagram.com/pdplaninski"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 15,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2021/08/2-16-2-Rekreativna-staza-Ribare-Kocin-hrast.gpx",
+        "fetched_at": "2026-11-08T12:02:06Z",
+        "checked_at": "2026-11-08T12:02:06Z",
+        "bytes": 46846,
+        "sha256": "c8e0ecf067485701c1e038095428a24d57cac9ae6121fabaccc1ca9227fb09c7",
+        "etag": null,
+        "last_modified": "Fri, 06 Aug 2021 23:50:55 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 251,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 10,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2021/08/2-16-2-Rekreativna-staza-Ribare-Kocin-hrast.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/rekreativna-staza-ribare-kocin-hrast.geojson",
+        "bbox": [
+            21.278100237250328,
+            44.007768323644996,
+            21.30231522023678,
+            44.041809579357505
+        ],
+        "center": [
+            21.290208,
+            44.024789
+        ],
+        "start_point": [
+            21.295840367674828,
+            44.007768323644996
+        ],
+        "end_point": [
+            21.278100237250328,
+            44.041809579357505
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.29584,
+                    44.00777
+                ],
+                [
+                    21.3011,
+                    44.01405
+                ],
+                [
+                    21.3021,
+                    44.02223
+                ],
+                [
+                    21.29185,
+                    44.02885
+                ],
+                [
+                    21.29062,
+                    44.03776
+                ],
+                [
+                    21.2781,
+                    44.04181
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/rekreativna-staza-ribare-kocin-hrast/",
+        "canonical_url": "https://pss.rs/terenipp/rekreativna-staza-ribare-kocin-hrast/",
+        "pss_id": 14243,
+        "updated_at": "2021-08-06T23:54:56Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:02:07Z",
+        "last_synced_at": "2026-11-08T12:02:07Z"
+    },
+    "search": "rekreativna staza “ribare-kocin hrast” 2-16-2 sumadija crni vrh selo ribare, brana na reci lugomir, 110m park prirode kocin hrast u kocinom selu, 100m planinski duh pd • na kraju staze nalazi se park prirode kocin hrast, • duz cele staze pogled se prostire na polja u blizini sela ribare, kao i na reke lugomir i veliku moravu, • staza se prostire na podrucju grada jagodina, sela ribare i kocino selo, • na kraju staze postoji cesma i restoran, • na stazi nema smestaja. laka planinarski put se nalazi u selu ribare, nadomak jagodine. pocetak puta je u selu ribare - brana na reci lugomir. put nastavlja krunom nasipa brane do usca reke lugomir u veliku moravu. zatim krunom nasipa brane na velikoj moravi, kroz vikend naselje brioni, ispod metalnog mosta, kroz naselje sampas dibona, krunom nasipa na reci velika morava do parka prirode kocin hrast.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:02:07Z"
+    }
+}

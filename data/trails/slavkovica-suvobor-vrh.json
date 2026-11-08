@@ -1,0 +1,211 @@
+{
+    "schema_version": 1,
+    "slug": "slavkovica-suvobor-vrh",
+    "name": "Slavkovica - Suvobor (vrh)",
+    "code": "3-20-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 3591,
+        "category_id": 28,
+        "region_ids": [
+            3
+        ],
+        "mountain_ids": [
+            40
+        ]
+    },
+    "region": "Zapadna Srbija",
+    "mountain": "Suvobor",
+    "difficulty": {
+        "key": "srednje_teska",
+        "label": "Srednje teška",
+        "source": "srednje teška"
+    },
+    "distance": {
+        "official_km": 14.0,
+        "calculated_km": 13.06
+    },
+    "duration": {
+        "official_minutes": 270,
+        "official_text": "4 h 30 min",
+        "official_raw": "4:30"
+    },
+    "elevation": {
+        "official_gain_m": 740.0,
+        "official_loss_m": 110.0,
+        "calculated_gain_m": 780.1,
+        "calculated_loss_m": 167.2,
+        "min_m": 240.7,
+        "max_m": 856.7
+    },
+    "start": "s. Slavkovica (crkva), 240 m",
+    "end": "Suvobor (vrh). 866 m",
+    "description": "Staza kreće od crkve u selu Slavkovica i penje se asvaltnim putem u pravcu juga do Planinarskog doma na Rajcu i nastavlja dalje do kafane ”Lovačka priča” gde skreće na zapad i nakon 400 m prelazi u makadamski put koji sa severne strane obilazi vrh Rajac (848 mnv). Put dalje nastavlja ka planinarskoj kući Dobra voda, a zatim se pravcem jug staza lagano penje pored vrha Šiljak na vrh Suvobora",
+    "landmarks": "• Vodopad Crkvine\n\n • Spomenik \"1300 kaplara\"\n\n • Suvoborski Rajac\n\n • Spomenik borcima Suvoborsko-kolubarske bitke",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinarska kuća \"Dobra voda\", Planinarski dom \"Čika Duško Jovanović\"",
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": "Planinarsko-turistička topografska karta 1:25000, Suvoborski Rajac (staza broj 1), u izdanju ”Geokarte” Beograd (Prvo izdanje 2008)",
+    "club": {
+        "name": "Pobeda PSK",
+        "url": "https://pss.rs/adresar_klubova/pobeda-pk/",
+        "contact": "Mačvanska 8, 11000 Beograd\n+38163 329 434 ; +38163 32 94 50\nhttps://www.pskpobeda.rs",
+        "clubs": [
+            {
+                "name": "Pobeda PSK",
+                "url": "https://pss.rs/adresar_klubova/pobeda-pk/",
+                "contact": "Mačvanska 8, 11000 Beograd\n+38163 329 434 ; +38163 32 94 50\nhttps://www.pskpobeda.rs"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 3,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/3-20-1-Slavkovica-Suvobor-vrh.gpx",
+        "fetched_at": "2026-11-08T12:50:00Z",
+        "checked_at": "2026-11-08T12:50:00Z",
+        "bytes": 67596,
+        "sha256": "b27a24aa1e15895c65f4c83af352114556bfbcbeedb6ef8cba58fe26c097fe38",
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 519,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 10,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/3-20-1-Slavkovica-Suvobor-vrh.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/slavkovica-suvobor-vrh.geojson",
+        "bbox": [
+            20.17553899437189,
+            44.12106298841536,
+            20.250291991978884,
+            44.168791975826025
+        ],
+        "center": [
+            20.212915,
+            44.144927
+        ],
+        "start_point": [
+            20.247137965634465,
+            44.168791975826025
+        ],
+        "end_point": [
+            20.18183397129178,
+            44.121070029214025
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    20.24714,
+                    44.16879
+                ],
+                [
+                    20.25029,
+                    44.16273
+                ],
+                [
+                    20.24929,
+                    44.1579
+                ],
+                [
+                    20.24363,
+                    44.15465
+                ],
+                [
+                    20.2436,
+                    44.1503
+                ],
+                [
+                    20.24748,
+                    44.14933
+                ],
+                [
+                    20.24368,
+                    44.14594
+                ],
+                [
+                    20.24487,
+                    44.14123
+                ],
+                [
+                    20.24043,
+                    44.13857
+                ],
+                [
+                    20.23042,
+                    44.13806
+                ],
+                [
+                    20.21537,
+                    44.14101
+                ],
+                [
+                    20.21077,
+                    44.13938
+                ],
+                [
+                    20.19119,
+                    44.14059
+                ],
+                [
+                    20.19175,
+                    44.13512
+                ],
+                [
+                    20.1819,
+                    44.13194
+                ],
+                [
+                    20.18147,
+                    44.12959
+                ],
+                [
+                    20.17559,
+                    44.12731
+                ],
+                [
+                    20.18183,
+                    44.12107
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/slavkovica-suvobor-vrh/",
+        "canonical_url": "https://pss.rs/terenipp/slavkovica-suvobor-vrh/",
+        "pss_id": 3591,
+        "updated_at": "2021-07-03T11:35:23Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:50:01Z",
+        "last_synced_at": "2026-11-08T12:50:01Z"
+    },
+    "search": "slavkovica - suvobor (vrh) 3-20-1 zapadna srbija suvobor s. slavkovica (crkva), 240 m suvobor (vrh). 866 m pobeda psk • vodopad crkvine • spomenik \"1300 kaplara\" • suvoborski rajac • spomenik borcima suvoborsko-kolubarske bitke srednje teska staza krece od crkve u selu slavkovica i penje se asvaltnim putem u pravcu juga do planinarskog doma na rajcu i nastavlja dalje do kafane ”lovacka prica” gde skrece na zapad i nakon 400 m prelazi u makadamski put koji sa severne strane obilazi vrh rajac (848 mnv). put dalje nastavlja ka planinarskoj kuci dobra voda, a zatim se pravcem jug staza lagano penje pored vrha siljak na vrh suvobora",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:50:01Z"
+    }
+}

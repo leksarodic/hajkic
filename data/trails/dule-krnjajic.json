@@ -1,0 +1,205 @@
+{
+    "schema_version": 1,
+    "slug": "dule-krnjajic",
+    "name": "Dule Krnjajić",
+    "code": "5-17-2",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 19525,
+        "category_id": 28,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            83
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Ovčar",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 5.6,
+        "calculated_km": 8.21
+    },
+    "duration": {
+        "official_minutes": 105,
+        "official_text": "1 h 45 min",
+        "official_raw": "1:45"
+    },
+    "elevation": {
+        "official_gain_m": 365.0,
+        "official_loss_m": 0.0,
+        "calculated_gain_m": 763.1,
+        "calculated_loss_m": 74.2,
+        "min_m": 289.3,
+        "max_m": 980.2
+    },
+    "start": "Međuvršje, Pejičina krivina - 280 m",
+    "end": "Dučalovići, česma Stublina - 645 m",
+    "description": "Staza kreće iz Međuvršja sa magistralnog puta kod lakat krivine Pejice, Uspon pored groblja do proplanka na čijem se kraju nalzi lep vidikovac. Nastavak staze kroz šumu, gotovo ravno do manastira Vaznesenje. Zatim uspon kroz šumu sa blažim usponima do česme Stublina.",
+    "landmarks": "manastir Vaznesenje",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Snabdevenost pitkom vodom: na trasi / izvodi pitke vode: manastir Vaznesenje. \n\nKo je i kada trasirao stazu: 2004, Dušan Krnjajić i Goran Nikolić.\n\nKada je staza poslednji put markirana: 2016",
+    "map_reference": null,
+    "map_sheet": "Planinarske staze Ovčara i Kablara 1 : 20 000 i Čačak 1 (529/1) 1:50000",
+    "club": {
+        "name": "Kablar PD",
+        "url": "https://pss.rs/adresar_klubova/kablar-pd/",
+        "contact": "Kneza Miloša 1, 32000 Čačak\n+38164 852 60 48\nhttps://www.kablar.rs",
+        "clubs": [
+            {
+                "name": "Kablar PD",
+                "url": "https://pss.rs/adresar_klubova/kablar-pd/",
+                "contact": "Kneza Miloša 1, 32000 Čačak\n+38164 852 60 48\nhttps://www.kablar.rs"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2023/05/8-Dusan-Krnjajic-data.gpx",
+        "fetched_at": "2026-11-08T12:03:27Z",
+        "checked_at": "2026-11-08T12:03:27Z",
+        "bytes": 46854,
+        "sha256": "09f575044c14fe6b0a8de4206021d9cb99d290797f1779495908f6fadc72e66b",
+        "etag": null,
+        "last_modified": "Sun, 07 May 2023 19:01:59 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 530,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2023/05/8-Dusan-Krnjajic-data.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/dule-krnjajic.geojson",
+        "bbox": [
+            20.210331483,
+            43.888721761,
+            20.230102812,
+            43.918593639
+        ],
+        "center": [
+            20.220217,
+            43.903658
+        ],
+        "start_point": [
+            20.222928171,
+            43.918315401
+        ],
+        "end_point": [
+            20.213994312,
+            43.896662446
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    20.22293,
+                    43.91832
+                ],
+                [
+                    20.22568,
+                    43.91295
+                ],
+                [
+                    20.2238,
+                    43.90372
+                ],
+                [
+                    20.22681,
+                    43.90584
+                ],
+                [
+                    20.2301,
+                    43.90271
+                ],
+                [
+                    20.22756,
+                    43.898
+                ],
+                [
+                    20.22836,
+                    43.89196
+                ],
+                [
+                    20.21854,
+                    43.88878
+                ],
+                [
+                    20.21392,
+                    43.88952
+                ],
+                [
+                    20.21475,
+                    43.89053
+                ],
+                [
+                    20.21181,
+                    43.88969
+                ],
+                [
+                    20.21035,
+                    43.89119
+                ],
+                [
+                    20.21486,
+                    43.89439
+                ],
+                [
+                    20.21399,
+                    43.89666
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/dule-krnjajic/",
+        "canonical_url": "https://pss.rs/terenipp/dule-krnjajic/",
+        "pss_id": 19525,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:03:27Z",
+        "last_synced_at": "2026-11-08T12:03:27Z"
+    },
+    "search": "dule krnjajic 5-17-2 jugozapadna srbija ovcar medjuvrsje, pejicina krivina - 280 m ducalovici, cesma stublina - 645 m kablar pd manastir vaznesenje laka staza krece iz medjuvrsja sa magistralnog puta kod lakat krivine pejice, uspon pored groblja do proplanka na cijem se kraju nalzi lep vidikovac. nastavak staze kroz sumu, gotovo ravno do manastira vaznesenje. zatim uspon kroz sumu sa blazim usponima do cesme stublina.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:03:27Z"
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "schema_version": 1,
+    "slug": "tomiceva-koliba-jama-ledenica",
+    "name": "Tomićeva koliba - jama Ledenica",
+    "code": "4-27-4",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 4592,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            71
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Rtanj",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 1.1,
+        "calculated_km": 1.1
+    },
+    "duration": {
+        "official_minutes": 20,
+        "official_text": "20 min",
+        "official_raw": "0:20"
+    },
+    "elevation": {
+        "official_gain_m": 102.0,
+        "official_loss_m": 0.0,
+        "calculated_gain_m": 86.1,
+        "calculated_loss_m": 0.0,
+        "min_m": 835.0,
+        "max_m": 921.6
+    },
+    "start": "Tomićeva koliba, 820m",
+    "end": "Jama Ledenica, 922m",
+    "description": "• Spaja sledeće staze: Povezane je sa stazom koja vodi od Tomićeve kolibe do vrha Šiljak na Rtnju i stazom od Tomićeve kolibe do sela Mužinac.\n\n • Napomena: Potrebna je opreznost pri prilasku jami. Jama nije uređena za posetu !!!",
+    "landmarks": "• Jama Ledenica za Rtnju\n\n • Na stazi nema izvora pitke vode\n\n • Nema smeštaja",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu je trasiralo PD \"Oštra čuka\", 6. jula 2017. godine.\n\n • Poslednji put staza je markirana 6. jula 2017. godine.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Oštra čuka PD",
+        "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+        "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/",
+        "clubs": [
+            {
+                "name": "Oštra čuka PD",
+                "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+                "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/08/4-27-4-Tomiceva-koliba-jama-Ledenica.gpx",
+        "fetched_at": "2026-11-08T11:58:55Z",
+        "checked_at": "2026-11-08T11:58:55Z",
+        "bytes": 18469,
+        "sha256": "e88c3dc8ce189f2369059cc788c55be8eb93fa1a022b39bd3a2a412ed2960c0d",
+        "etag": null,
+        "last_modified": "Tue, 18 Dec 2018 13:25:53 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 140,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 2,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/08/4-27-4-Tomiceva-koliba-jama-Ledenica.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/tomiceva-koliba-jama-ledenica.geojson",
+        "bbox": [
+            21.884079985320568,
+            43.74927503988147,
+            21.89353996887803,
+            43.75546499155462
+        ],
+        "center": [
+            21.88881,
+            43.75237
+        ],
+        "start_point": [
+            21.88408501446247,
+            43.75546499155462
+        ],
+        "end_point": [
+            21.89353996887803,
+            43.74927503988147
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.88409,
+                    43.75546
+                ],
+                [
+                    21.89354,
+                    43.74928
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/tomiceva-koliba-jama-ledenica/",
+        "canonical_url": "https://pss.rs/terenipp/tomiceva-koliba-jama-ledenica/",
+        "pss_id": 4592,
+        "updated_at": "2018-12-18T13:26:58Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:58:55Z",
+        "last_synced_at": "2026-11-08T11:58:55Z"
+    },
+    "search": "tomiceva koliba - jama ledenica 4-27-4 istocna srbija rtanj tomiceva koliba, 820m jama ledenica, 922m ostra cuka pd • jama ledenica za rtnju • na stazi nema izvora pitke vode • nema smestaja laka • spaja sledece staze: povezane je sa stazom koja vodi od tomiceve kolibe do vrha siljak na rtnju i stazom od tomiceve kolibe do sela muzinac. • napomena: potrebna je opreznost pri prilasku jami. jama nije uredjena za posetu !!!",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:58:55Z"
+    }
+}

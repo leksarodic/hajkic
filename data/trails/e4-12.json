@@ -1,0 +1,638 @@
+{
+    "schema_version": 1,
+    "slug": "e4-12",
+    "name": "Sokobanja - Jalovik",
+    "code": "E4-12",
+    "category": {
+        "key": "evropski-pesacki-putevi-u-srbiji",
+        "label": "Evropski pešački putevi u Srbiji"
+    },
+    "pss": {
+        "post_id": 3683,
+        "category_id": 29,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            57
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Devica",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevan"
+    },
+    "distance": {
+        "official_km": 86.0,
+        "calculated_km": 86.92
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": 2741.0,
+        "official_loss_m": 2541.0,
+        "calculated_gain_m": 1912.7,
+        "calculated_loss_m": 2162.7,
+        "min_m": 227.0,
+        "max_m": 978.0
+    },
+    "start": null,
+    "end": null,
+    "description": "• Sokobanja je korišćena još od antičkih vremena, za vreme turske\nimperije i kasnije oslobođene srpske države. Sačuvana su kupališta i\nturski hamami, koji su još u upotrebi. U varošici i okolini nalaze se\nhoteli, sanatorijumi, galerija i muzej, a u okolini šumovite planine\ni kanjon reke Moravice sa zanimljivim vodopadom Ripaljka.\n\n • U Sokobanji se svakog leta, preko šezdeset godina održava međunarodni\nfestival harmonike na koji dolaze majstori ovog instrumenta.\nOd Sokobanje do grada Knjaževca odabran je pravac za put E4 preko\nplanine Device i njenih šumovitih grebena kroz stara sela Beli\npotok, rudnik uglja Podvis i sela Rgošte.\n\n • Kroz ovaj deo jugoistočne Srbije retko se prolazi. Nekada su ovde bili\nstari rudnici uglja u bližoj okolini. Put vodi iznad atraktivne\nklisure reke Svrljiški Timok do grada Knjaževca. U kanjonu reke\nuočava se trasa antičkog puta Via Militaris i ostaci tvrđave koja je\nštitila put. Grad Knjaževac podignut je na ostacima rimskih naselja\nTimacum mains (Veliki Timok). Knjaževac je sačuvao tradiciju i\ndelom autentičnu arhitekturu. Poznat je po vinovoj lozi, vinu i siru.\nU okolini su brojni kulturni i istorijski spomenici od rimskog\ndoba i srednjeg veka.\n\n • U selu Donja Kamenica nalazi se zanimljiva crkva iz XIV veka,\npodignuta od bugarskog vlastelina Mihajla. Sa zapadne strane crkve\nnalaze se dva oštra tornja sa elementima jednostavne gotike a odmah\niza njih je romanička kupola. Crkva je freskopisana. Put E4 ide dalje\npadinama planine Tresibaba sa izvanrednim pogledima prema Staroj\nplanini do sela Jalovik Izvor i predgorja Stare planine.",
+    "landmarks": "Soko banja, planina Devica, klisura Svrljiškog Timoka i trasa antičkog puta Via Militaris, Knjaževac, crkva iz XIV veka u Donjoj Kamenici",
+    "maintenance": null,
+    "marking": "evropska crveno-žuta",
+    "accommodation": "Soko banja, Knjaževac, Kalna",
+    "notes": "• E4-12-1 Sokobanja – Beli Potok 32,9 km\n\n • E4-12-2 Beli Potok – Knjaževac 18,9 km\n\n • E4-12-3 Knjaževac – Donja Kamenica 19,0 km\n\n • E4-12-4 Donja Kamenica – Jalovik 15,2 km",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Babin zub PD",
+        "url": "https://pss.rs/adresar_klubova/babin-zub-pd/",
+        "contact": "Svetozara Markovića 7\n+38164 389 64 96",
+        "clubs": [
+            {
+                "name": "Babin zub PD",
+                "url": "https://pss.rs/adresar_klubova/babin-zub-pd/",
+                "contact": "Svetozara Markovića 7\n+38164 389 64 96"
+            },
+            {
+                "name": "Ozren PK",
+                "url": "https://pss.rs/adresar_klubova/ozren-pk/",
+                "contact": "Alekse Markišića 28/3 18230 Sokobanja (poštanski fah 63)\n+38164 855 33 61"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/E4-12-Sokobanja-Jalovik.gpx",
+        "fetched_at": "2026-11-08T12:50:42Z",
+        "checked_at": "2026-11-08T12:50:42Z",
+        "bytes": 306147,
+        "sha256": "44a9e9c4c62c16a33d0c70cf7c061586b671265573e9dc308ffd0590fe0a0297",
+        "etag": null,
+        "last_modified": "Thu, 05 Dec 2024 23:06:32 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 4161,
+        "tracks": 4,
+        "segments": 4,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/E4-12-Sokobanja-Jalovik.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/e4-12.geojson",
+        "bbox": [
+            21.873309011,
+            43.393706591,
+            22.398401876,
+            43.644594309
+        ],
+        "center": [
+            22.135855,
+            43.51915
+        ],
+        "start_point": [
+            21.873309011,
+            43.6440408
+        ],
+        "end_point": [
+            22.387678236,
+            43.393957274
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.87331,
+                    43.64404
+                ],
+                [
+                    21.87732,
+                    43.64459
+                ],
+                [
+                    21.87973,
+                    43.63904
+                ],
+                [
+                    21.88726,
+                    43.63738
+                ],
+                [
+                    21.88984,
+                    43.63411
+                ],
+                [
+                    21.89552,
+                    43.63565
+                ],
+                [
+                    21.89598,
+                    43.63875
+                ],
+                [
+                    21.89823,
+                    43.63694
+                ],
+                [
+                    21.89804,
+                    43.62958
+                ],
+                [
+                    21.88742,
+                    43.6322
+                ],
+                [
+                    21.88531,
+                    43.62297
+                ],
+                [
+                    21.88768,
+                    43.62302
+                ],
+                [
+                    21.89181,
+                    43.61834
+                ],
+                [
+                    21.89393,
+                    43.60842
+                ],
+                [
+                    21.89937,
+                    43.60685
+                ],
+                [
+                    21.90241,
+                    43.60055
+                ],
+                [
+                    21.90846,
+                    43.59991
+                ],
+                [
+                    21.91322,
+                    43.59554
+                ],
+                [
+                    21.91829,
+                    43.59474
+                ],
+                [
+                    21.92053,
+                    43.5912
+                ],
+                [
+                    21.94012,
+                    43.58834
+                ],
+                [
+                    21.95652,
+                    43.59082
+                ],
+                [
+                    21.9609,
+                    43.5939
+                ],
+                [
+                    21.95938,
+                    43.59638
+                ],
+                [
+                    21.96601,
+                    43.59826
+                ],
+                [
+                    21.97354,
+                    43.59721
+                ],
+                [
+                    21.97626,
+                    43.59352
+                ],
+                [
+                    21.98127,
+                    43.59315
+                ],
+                [
+                    21.98104,
+                    43.59014
+                ],
+                [
+                    21.9891,
+                    43.58844
+                ],
+                [
+                    21.9963,
+                    43.58051
+                ],
+                [
+                    22.00295,
+                    43.57834
+                ],
+                [
+                    22.00461,
+                    43.57386
+                ],
+                [
+                    22.01798,
+                    43.57691
+                ],
+                [
+                    22.02276,
+                    43.56922
+                ],
+                [
+                    22.03144,
+                    43.56368
+                ],
+                [
+                    22.03299,
+                    43.55963
+                ],
+                [
+                    22.03912,
+                    43.55516
+                ],
+                [
+                    22.04821,
+                    43.55122
+                ],
+                [
+                    22.06064,
+                    43.54912
+                ],
+                [
+                    22.0646,
+                    43.53791
+                ],
+                [
+                    22.06141,
+                    43.53221
+                ],
+                [
+                    22.06763,
+                    43.5297
+                ],
+                [
+                    22.06825,
+                    43.5263
+                ],
+                [
+                    22.07147,
+                    43.53137
+                ],
+                [
+                    22.07514,
+                    43.53065
+                ],
+                [
+                    22.07746,
+                    43.53448
+                ],
+                [
+                    22.08099,
+                    43.53462
+                ]
+            ],
+            [
+                [
+                    22.08099,
+                    43.53462
+                ],
+                [
+                    22.08328,
+                    43.53624
+                ],
+                [
+                    22.08826,
+                    43.53048
+                ],
+                [
+                    22.09992,
+                    43.52859
+                ],
+                [
+                    22.10544,
+                    43.52868
+                ],
+                [
+                    22.10743,
+                    43.53159
+                ],
+                [
+                    22.10987,
+                    43.53012
+                ],
+                [
+                    22.11559,
+                    43.53124
+                ],
+                [
+                    22.11871,
+                    43.53407
+                ],
+                [
+                    22.12096,
+                    43.53138
+                ],
+                [
+                    22.12805,
+                    43.52996
+                ],
+                [
+                    22.13359,
+                    43.53285
+                ],
+                [
+                    22.1408,
+                    43.53276
+                ],
+                [
+                    22.15497,
+                    43.53676
+                ],
+                [
+                    22.1608,
+                    43.53563
+                ],
+                [
+                    22.16373,
+                    43.54096
+                ],
+                [
+                    22.16222,
+                    43.54209
+                ],
+                [
+                    22.16916,
+                    43.54335
+                ],
+                [
+                    22.16829,
+                    43.54492
+                ],
+                [
+                    22.17055,
+                    43.54571
+                ],
+                [
+                    22.17644,
+                    43.54414
+                ],
+                [
+                    22.18123,
+                    43.54692
+                ],
+                [
+                    22.19556,
+                    43.54231
+                ],
+                [
+                    22.19915,
+                    43.54742
+                ],
+                [
+                    22.20674,
+                    43.54447
+                ],
+                [
+                    22.22262,
+                    43.54626
+                ],
+                [
+                    22.23228,
+                    43.54481
+                ],
+                [
+                    22.24299,
+                    43.55463
+                ],
+                [
+                    22.25654,
+                    43.5605
+                ]
+            ],
+            [
+                [
+                    22.25654,
+                    43.5605
+                ],
+                [
+                    22.25782,
+                    43.55898
+                ],
+                [
+                    22.25477,
+                    43.55629
+                ],
+                [
+                    22.25932,
+                    43.55071
+                ],
+                [
+                    22.2595,
+                    43.53938
+                ],
+                [
+                    22.26647,
+                    43.53076
+                ],
+                [
+                    22.26097,
+                    43.51449
+                ],
+                [
+                    22.26693,
+                    43.50453
+                ],
+                [
+                    22.26762,
+                    43.49872
+                ],
+                [
+                    22.2713,
+                    43.49607
+                ],
+                [
+                    22.2664,
+                    43.49582
+                ],
+                [
+                    22.26504,
+                    43.49153
+                ],
+                [
+                    22.27153,
+                    43.48402
+                ],
+                [
+                    22.27652,
+                    43.48211
+                ],
+                [
+                    22.27145,
+                    43.48033
+                ],
+                [
+                    22.26892,
+                    43.47699
+                ],
+                [
+                    22.27739,
+                    43.4736
+                ],
+                [
+                    22.27984,
+                    43.47803
+                ],
+                [
+                    22.28819,
+                    43.47839
+                ],
+                [
+                    22.29594,
+                    43.4846
+                ],
+                [
+                    22.3073,
+                    43.48154
+                ],
+                [
+                    22.31658,
+                    43.48624
+                ],
+                [
+                    22.3214,
+                    43.48629
+                ],
+                [
+                    22.31863,
+                    43.4881
+                ],
+                [
+                    22.32657,
+                    43.48681
+                ]
+            ],
+            [
+                [
+                    22.32657,
+                    43.48681
+                ],
+                [
+                    22.32085,
+                    43.47586
+                ],
+                [
+                    22.32082,
+                    43.46987
+                ],
+                [
+                    22.32368,
+                    43.46565
+                ],
+                [
+                    22.33566,
+                    43.45998
+                ],
+                [
+                    22.34528,
+                    43.44942
+                ],
+                [
+                    22.35559,
+                    43.4441
+                ],
+                [
+                    22.35477,
+                    43.43516
+                ],
+                [
+                    22.35861,
+                    43.43433
+                ],
+                [
+                    22.36041,
+                    43.43132
+                ],
+                [
+                    22.3654,
+                    43.43306
+                ],
+                [
+                    22.37294,
+                    43.43
+                ],
+                [
+                    22.3791,
+                    43.42466
+                ],
+                [
+                    22.37985,
+                    43.41989
+                ],
+                [
+                    22.38278,
+                    43.41953
+                ],
+                [
+                    22.38514,
+                    43.41502
+                ],
+                [
+                    22.39675,
+                    43.40808
+                ],
+                [
+                    22.3984,
+                    43.40329
+                ],
+                [
+                    22.3966,
+                    43.39893
+                ],
+                [
+                    22.38768,
+                    43.39396
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/e4-12/",
+        "canonical_url": "https://pss.rs/terenipp/e4-12/",
+        "pss_id": 3683,
+        "updated_at": "2024-12-05T23:07:03Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:50:43Z",
+        "last_synced_at": "2026-11-08T12:50:43Z"
+    },
+    "search": "sokobanja - jalovik e4-12 istocna srbija devica babin zub pd soko banja, planina devica, klisura svrljiskog timoka i trasa antickog puta via militaris, knjazevac, crkva iz xiv veka u donjoj kamenici zahtevna • sokobanja je koriscena jos od antickih vremena, za vreme turske imperije i kasnije oslobodjene srpske drzave. sacuvana su kupalista i turski hamami, koji su jos u upotrebi. u varosici i okolini nalaze se hoteli, sanatorijumi, galerija i muzej, a u okolini sumovite planine i kanjon reke moravice sa zanimljivim vodopadom ripaljka. • u sokobanji se svakog leta, preko sezdeset godina odrzava medjunarodni festival harmonike na koji dolaze majstori ovog instrumenta. od sokobanje do grada knjazevca odabran je pravac za put e4 preko planine device i njenih sumovitih grebena kroz stara sela beli potok, rudnik uglja podvis i sela rgoste. • kroz ovaj deo jugoistocne srbije retko se prolazi. nekada su ovde bili stari rudnici uglja u blizoj okolini. put vodi iznad atraktivne klisure reke svrljiski timok do grada knjazevca. u kanjonu reke uocava se trasa antickog puta via militaris i ostaci tvrdjave koja je stitila put. grad knjazevac podignut je na ostacima rimskih naselja timacum mains (veliki timok). knjazevac je sacuvao tradiciju i delom autenticnu arhitekturu. poznat je po vinovoj lozi, vinu i siru. u okolini su brojni kulturni i istorijski spomenici od rimskog doba i srednjeg veka. • u selu donja kamenica nalazi se zanimljiva crkva iz xiv veka, podignuta od bugarskog vlastelina mihajla. sa zapadne strane crkve nalaze se dva ostra tornja sa elementima jednostavne gotike a odmah iza njih je romanicka kupola. crkva je freskopisana. put e4 ide dalje padinama planine tresibaba sa izvanrednim pogledima prema staroj planini do sela jalovik izvor i predgorja stare planine.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:50:43Z"
+    }
+}

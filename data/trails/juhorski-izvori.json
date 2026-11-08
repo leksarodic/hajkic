@@ -1,0 +1,265 @@
+{
+    "schema_version": 1,
+    "slug": "juhorski-izvori",
+    "name": "Juhorski izvori",
+    "code": "2-16-3",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 19716,
+        "category_id": 28,
+        "region_ids": [
+            2
+        ],
+        "mountain_ids": [
+            191
+        ]
+    },
+    "region": "Šumadija",
+    "mountain": "Juhor",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 18.0,
+        "calculated_km": 18.33
+    },
+    "duration": {
+        "official_minutes": 360,
+        "official_text": "6 h",
+        "official_raw": "6:00"
+    },
+    "elevation": {
+        "official_gain_m": 650.0,
+        "official_loss_m": 650.0,
+        "calculated_gain_m": 625.6,
+        "calculated_loss_m": 590.9,
+        "min_m": 320.0,
+        "max_m": 672.8
+    },
+    "start": "Dvorište crkve Svetog Arhangela Gavrila u selu Sekurič, opština Rekovac",
+    "end": "Dvorište crkve Svetog Arhangela Gavrila u selu Sekurič, opština Rekovac",
+    "description": "Planinarska staza se nalazi na planini Juhor. Početak staze je dvorište crkve Sv. Arhangela Gavrila u selu Sekurič opština Rekovac. Nedaleko od crkve se nalazi izvor Crkvište. Staza dalje nastavlja preko izvora –česme Bukovica do lovačkog doma na Zmajevici, pored koga se nalazi i istoimeni izvor. Idućim istom izohipsom dolazimo do prelepog vidikovca, sa kojim se pruža pogled na meandre Velike Morave, i na Šiljak, vrh Rtanj planine. U povratku staza vodi pored dva kladenca i to Sv. Trojice i Starčevog brega. Put je kružan, to jest završava se na polaznom mestu. Postoji mogućnos da se okviru ove staze uredi i još jedan vidikovac tako da bi se dobila i kraća staza od 9 km.",
+    "landmarks": "Vidikovci: Na stazi postoji vidikovac. Od toga je jedan uređen sa izgrađenom infrastrukturom sa pogledom na planinu Ratanj i meandre Velike Morave.\n\nNaselja i zaseoci sa nazivima: Staza počinje u selu Sekurič, opština Rekovac.\n\nZnačajni lokaliteti: U blizini staze nema značajnih lokaliteta.",
+    "maintenance": "delimično uređena",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "STAZA JE DELIMIČNO UREĐENA\n\nKo je i kada trasirao stazu: 2023. godine Radivoje Marković (licencirani markirant), uz pomoć Olivera Aleksića predstavnika turističe organizacije Rekovac i Dragiše Minića predsednika mesne zajednice Sekurič.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Planinski duh PD",
+        "url": "https://pss.rs/adresar_klubova/planinski-duh-pd/",
+        "contact": "Kralja Petra Prvog 63 35220 Ribare Jagodina\n0691530989\nhttps://www.instagram.com/pdplaninski",
+        "clubs": [
+            {
+                "name": "Planinski duh PD",
+                "url": "https://pss.rs/adresar_klubova/planinski-duh-pd/",
+                "contact": "Kralja Petra Prvog 63 35220 Ribare Jagodina\n0691530989\nhttps://www.instagram.com/pdplaninski"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 9,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2023/06/Juhorski-izvori.gpx",
+        "fetched_at": "2026-11-08T12:03:31Z",
+        "checked_at": "2026-11-08T12:03:31Z",
+        "bytes": 96992,
+        "sha256": "17c5e4a5d4b939460d1cff18c60a76111d1dc26cec666e7912e621cb377e312d",
+        "etag": null,
+        "last_modified": "Fri, 09 Jun 2023 09:33:30 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 888,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 10,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2023/06/Juhorski-izvori.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/juhorski-izvori.geojson",
+        "bbox": [
+            21.1838824,
+            43.7849878,
+            21.2537992,
+            43.7992966
+        ],
+        "center": [
+            21.218841,
+            43.792142
+        ],
+        "start_point": [
+            21.1844289,
+            43.7913077
+        ],
+        "end_point": [
+            21.187162,
+            43.7943313
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.18443,
+                    43.79131
+                ],
+                [
+                    21.18827,
+                    43.79519
+                ],
+                [
+                    21.193,
+                    43.79583
+                ],
+                [
+                    21.20737,
+                    43.79137
+                ],
+                [
+                    21.21207,
+                    43.7931
+                ],
+                [
+                    21.22036,
+                    43.78506
+                ],
+                [
+                    21.22932,
+                    43.78532
+                ],
+                [
+                    21.23227,
+                    43.78882
+                ],
+                [
+                    21.23894,
+                    43.78602
+                ],
+                [
+                    21.24332,
+                    43.78747
+                ],
+                [
+                    21.24333,
+                    43.78916
+                ],
+                [
+                    21.24899,
+                    43.78943
+                ],
+                [
+                    21.25021,
+                    43.79667
+                ],
+                [
+                    21.2538,
+                    43.7993
+                ],
+                [
+                    21.24854,
+                    43.78905
+                ],
+                [
+                    21.24337,
+                    43.7891
+                ],
+                [
+                    21.24336,
+                    43.78741
+                ],
+                [
+                    21.23869,
+                    43.78596
+                ],
+                [
+                    21.23213,
+                    43.78875
+                ],
+                [
+                    21.22892,
+                    43.78521
+                ],
+                [
+                    21.22005,
+                    43.78516
+                ],
+                [
+                    21.21206,
+                    43.79309
+                ],
+                [
+                    21.20561,
+                    43.7918
+                ],
+                [
+                    21.20467,
+                    43.79606
+                ],
+                [
+                    21.20054,
+                    43.79873
+                ],
+                [
+                    21.19685,
+                    43.79718
+                ],
+                [
+                    21.19932,
+                    43.79605
+                ],
+                [
+                    21.19709,
+                    43.79695
+                ],
+                [
+                    21.18716,
+                    43.79433
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/juhorski-izvori/",
+        "canonical_url": "https://pss.rs/terenipp/juhorski-izvori/",
+        "pss_id": 19716,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:03:32Z",
+        "last_synced_at": "2026-11-08T12:03:32Z"
+    },
+    "search": "juhorski izvori 2-16-3 sumadija juhor dvoriste crkve svetog arhangela gavrila u selu sekuric, opstina rekovac dvoriste crkve svetog arhangela gavrila u selu sekuric, opstina rekovac planinski duh pd vidikovci: na stazi postoji vidikovac. od toga je jedan uredjen sa izgradjenom infrastrukturom sa pogledom na planinu ratanj i meandre velike morave. naselja i zaseoci sa nazivima: staza pocinje u selu sekuric, opstina rekovac. znacajni lokaliteti: u blizini staze nema znacajnih lokaliteta. laka planinarska staza se nalazi na planini juhor. pocetak staze je dvoriste crkve sv. arhangela gavrila u selu sekuric opstina rekovac. nedaleko od crkve se nalazi izvor crkviste. staza dalje nastavlja preko izvora –cesme bukovica do lovackog doma na zmajevici, pored koga se nalazi i istoimeni izvor. iducim istom izohipsom dolazimo do prelepog vidikovca, sa kojim se pruza pogled na meandre velike morave, i na siljak, vrh rtanj planine. u povratku staza vodi pored dva kladenca i to sv. trojice i starcevog brega. put je kruzan, to jest zavrsava se na polaznom mestu. postoji mogucnos da se okviru ove staze uredi i jos jedan vidikovac tako da bi se dobila i kraca staza od 9 km.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:03:32Z"
+    }
+}

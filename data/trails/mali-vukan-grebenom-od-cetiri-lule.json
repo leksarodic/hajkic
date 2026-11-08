@@ -1,0 +1,179 @@
+{
+    "schema_version": 1,
+    "slug": "mali-vukan-grebenom-od-cetiri-lule",
+    "name": "Mali Vukan grebenom od Četiri lule",
+    "code": "4-48-5",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 11614,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            111
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Vukan",
+    "difficulty": {
+        "key": "srednje_teska",
+        "label": "Srednje teška",
+        "source": "srednje teška"
+    },
+    "distance": {
+        "official_km": 6.0,
+        "calculated_km": 5.94
+    },
+    "duration": {
+        "official_minutes": 270,
+        "official_text": "4 h 30 min",
+        "official_raw": "4:30"
+    },
+    "elevation": {
+        "official_gain_m": 556.0,
+        "official_loss_m": 556.0,
+        "calculated_gain_m": 566.5,
+        "calculated_loss_m": 539.4,
+        "min_m": 155.4,
+        "max_m": 732.7
+    },
+    "start": "Česma Četiri lula, 176 m",
+    "end": "Česma Četiri lula, 176 m",
+    "description": "• Start je od česme 4 lule ispred koje ima dovoljno mesta za parking. Staza kreće putem iznad 4 lule i nakon 200 m se skreće levo i ide do početka grebena. Nakon toga staza nastavlja grebenom, gde je potrebno koristiti ruke za pridržavanje na steni. Na jednom mestu ima i postavljen lanac za pridržavanje tokom penjanja. Kada se stigne do Kudelinove tvrđave staza je malo ravnija i pri kraju se sa grebena ulazi u šumu. Silazak je klasičnom stazom ka 4 lule gde se nakon oko 1 km stiže do šumskog puta kojim se ide do kraja.\n\n • Staza nije preporučljiva za početnike, jer je potrebno i penjanje uz stenu.\n\n • Takođe tokom toplijih meseci treba paziti na zmije.\n\n • Na grebenskom delu staze je POTREBNA OPREZNOST.",
+    "landmarks": "• Srednjevekovna Mitropolija (200 m iznad izvora 4 lule)\n\n • Na trasi izvor pitke vode \"4 lule\"\n\n • Van trase smeštaj u Izviđačkom domu \"Ždrelo\"\n\n • Van trase smeštaj u Banji Ždrelo i u privatnom smeštaju u okolini",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu su trasirali Alpinisti Požarevac\n\n • Poslednji put staza je markirana 2019. godine",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Gornjak PD",
+        "url": "https://pss.rs/adresar_klubova/gornjak-pd/",
+        "contact": "Prvomajska bb, 12300 Petrovac na Mlavi\n+38164 2345 518 ; +38163 696 682\nhttp://www.gornjak.org.rs",
+        "clubs": [
+            {
+                "name": "Gornjak PD",
+                "url": "https://pss.rs/adresar_klubova/gornjak-pd/",
+                "contact": "Prvomajska bb, 12300 Petrovac na Mlavi\n+38164 2345 518 ; +38163 696 682\nhttp://www.gornjak.org.rs"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 8,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2020/06/4-48-5-Mali-Vukan_greben.gpx",
+        "fetched_at": "2026-11-08T12:00:53Z",
+        "checked_at": "2026-11-08T12:00:53Z",
+        "bytes": 49855,
+        "sha256": "7719d7fcb4c7a81d293968aeb453607e6c0c535017458f3a612b55131e3af506",
+        "etag": null,
+        "last_modified": "Tue, 09 Jun 2020 17:47:42 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 291,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 3,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2020/06/4-48-5-Mali-Vukan_greben.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/mali-vukan-grebenom-od-cetiri-lule.geojson",
+        "bbox": [
+            21.528410017490387,
+            44.27401604130864,
+            21.546175964176655,
+            44.28762900643051
+        ],
+        "center": [
+            21.537293,
+            44.280823
+        ],
+        "start_point": [
+            21.53230802156031,
+            44.27401604130864
+        ],
+        "end_point": [
+            21.532489992678165,
+            44.27405904047191
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    21.53231,
+                    44.27402
+                ],
+                [
+                    21.52883,
+                    44.27633
+                ],
+                [
+                    21.52872,
+                    44.28137
+                ],
+                [
+                    21.53733,
+                    44.28763
+                ],
+                [
+                    21.53748,
+                    44.28566
+                ],
+                [
+                    21.54618,
+                    44.27997
+                ],
+                [
+                    21.5421,
+                    44.27922
+                ],
+                [
+                    21.53979,
+                    44.27564
+                ],
+                [
+                    21.53634,
+                    44.2798
+                ],
+                [
+                    21.53249,
+                    44.27406
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/mali-vukan-grebenom-od-cetiri-lule/",
+        "canonical_url": "https://pss.rs/terenipp/mali-vukan-grebenom-od-cetiri-lule/",
+        "pss_id": 11614,
+        "updated_at": "2020-06-09T17:52:00Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:00:54Z",
+        "last_synced_at": "2026-11-08T12:00:54Z"
+    },
+    "search": "mali vukan grebenom od cetiri lule 4-48-5 istocna srbija vukan cesma cetiri lula, 176 m cesma cetiri lula, 176 m gornjak pd • srednjevekovna mitropolija (200 m iznad izvora 4 lule) • na trasi izvor pitke vode \"4 lule\" • van trase smestaj u izvidjackom domu \"zdrelo\" • van trase smestaj u banji zdrelo i u privatnom smestaju u okolini srednje teska • start je od cesme 4 lule ispred koje ima dovoljno mesta za parking. staza krece putem iznad 4 lule i nakon 200 m se skrece levo i ide do pocetka grebena. nakon toga staza nastavlja grebenom, gde je potrebno koristiti ruke za pridrzavanje na steni. na jednom mestu ima i postavljen lanac za pridrzavanje tokom penjanja. kada se stigne do kudelinove tvrdjave staza je malo ravnija i pri kraju se sa grebena ulazi u sumu. silazak je klasicnom stazom ka 4 lule gde se nakon oko 1 km stize do sumskog puta kojim se ide do kraja. • staza nije preporucljiva za pocetnike, jer je potrebno i penjanje uz stenu. • takodje tokom toplijih meseci treba paziti na zmije. • na grebenskom delu staze je potrebna opreznost.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:00:54Z"
+    }
+}

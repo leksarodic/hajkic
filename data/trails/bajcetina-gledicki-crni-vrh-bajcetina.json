@@ -1,0 +1,199 @@
+{
+    "schema_version": 1,
+    "slug": "bajcetina-gledicki-crni-vrh-bajcetina",
+    "name": "Bajčetina - Gledićki Crni vrh - Bajčetina",
+    "code": "2-14-21",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 13001,
+        "category_id": 28,
+        "region_ids": [
+            2
+        ],
+        "mountain_ids": [
+            61
+        ]
+    },
+    "region": "Šumadija",
+    "mountain": "Gledićke planine",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 9.5,
+        "calculated_km": 9.17
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": "3,5",
+        "official_raw": "3,5"
+    },
+    "elevation": {
+        "official_gain_m": 431.0,
+        "official_loss_m": 431.0,
+        "calculated_gain_m": 371.1,
+        "calculated_loss_m": 362.8,
+        "min_m": 609.1,
+        "max_m": 904.7
+    },
+    "start": "Raskrsnica u selu Bajčetina, 676 m",
+    "end": "Raskrsnica u selu Bajčetina, 676 m",
+    "description": "Staza polazi od raskrsnice u selu Bajčetina, ujedno je to i krajnja tačka staze. Staza je deo Gledićke transverzale. Veoma je laka za prolazak i snalaženje. Odlikuju je dva fantastična vidikovca koja su obeležena. Na stazi postoje i tri izvora pitke vode. Cela staza se prelazi za manje od 3,5 sata laganog hoda. Na Gledićkom Crnom vrhu nalaze se dva privatna objekta koja su uvek otvorena i gde svako može da svrati, da napravi pauzu, da se odmori. Klupe i stolovi su postavljeni i u dvorištu. U istim postoji tehnička voda.",
+    "landmarks": "• Manastir Svetog Dimitrija u Bajčetini\n\n • Dva vidikovca, jedan pri penjanju ka Gledićkom Crnom vrhu, drugi pri silasku sa Crnog vrha\n\n • Na trasi ima tri izvora pitke vode u delu staze koji vodi kroz Bajčetinu pri silasku sa Gledićkog Crnog vrha\n\n • Naselja: Lazarevići i Karajovići\n\n • Na trasi nema smeštaja",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu su trasirali Danijela Dimitrijević i Voja Milić, avgusta 2020. godine.\n\n • Poslednji put staza je markirana avgusta 2020. godine.",
+    "map_reference": null,
+    "map_sheet": "1:500000, Kraljevo 2",
+    "club": {
+        "name": "Žeželj PD",
+        "url": "https://pss.rs/adresar_klubova/zezelj-pd/",
+        "contact": "Rudnička 7a 34000 Kragujevac\n+38164 21 83 412\nhttp://www.pdzezelj.org",
+        "clubs": [
+            {
+                "name": "Žeželj PD",
+                "url": "https://pss.rs/adresar_klubova/zezelj-pd/",
+                "contact": "Rudnička 7a 34000 Kragujevac\n+38164 21 83 412\nhttp://www.pdzezelj.org"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 6,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2021/02/2-14-21-Bajcetina-Crni-vrh-Bajcetina.gpx",
+        "fetched_at": "2026-11-08T12:01:49Z",
+        "checked_at": "2026-11-08T12:01:49Z",
+        "bytes": 119025,
+        "sha256": "42ab024547a9883c3e678ae4d2964d0b7cca5e9b750e7a0eceb0ed410ecf9fef",
+        "etag": null,
+        "last_modified": "Tue, 09 Feb 2021 14:28:52 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 950,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 14,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2021/02/2-14-21-Bajcetina-Crni-vrh-Bajcetina.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/bajcetina-gledicki-crni-vrh-bajcetina.geojson",
+        "bbox": [
+            20.881641414016485,
+            43.843704387545586,
+            20.909204967319965,
+            43.867680821567774
+        ],
+        "center": [
+            20.895423,
+            43.855693
+        ],
+        "start_point": [
+            20.881753815338016,
+            43.86516918428242
+        ],
+        "end_point": [
+            20.881641414016485,
+            43.86514236219227
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    20.88175,
+                    43.86517
+                ],
+                [
+                    20.88688,
+                    43.86696
+                ],
+                [
+                    20.89348,
+                    43.86485
+                ],
+                [
+                    20.89573,
+                    43.8586
+                ],
+                [
+                    20.89927,
+                    43.85746
+                ],
+                [
+                    20.89831,
+                    43.85282
+                ],
+                [
+                    20.90251,
+                    43.84625
+                ],
+                [
+                    20.90776,
+                    43.84428
+                ],
+                [
+                    20.9092,
+                    43.84688
+                ],
+                [
+                    20.9069,
+                    43.8493
+                ],
+                [
+                    20.90547,
+                    43.86121
+                ],
+                [
+                    20.90188,
+                    43.86157
+                ],
+                [
+                    20.89413,
+                    43.86717
+                ],
+                [
+                    20.88819,
+                    43.86767
+                ],
+                [
+                    20.88164,
+                    43.86514
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/bajcetina-gledicki-crni-vrh-bajcetina/",
+        "canonical_url": "https://pss.rs/terenipp/bajcetina-gledicki-crni-vrh-bajcetina/",
+        "pss_id": 13001,
+        "updated_at": "2021-02-09T14:41:03Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:01:50Z",
+        "last_synced_at": "2026-11-08T12:01:50Z"
+    },
+    "search": "bajcetina - gledicki crni vrh - bajcetina 2-14-21 sumadija gledicke planine raskrsnica u selu bajcetina, 676 m raskrsnica u selu bajcetina, 676 m zezelj pd • manastir svetog dimitrija u bajcetini • dva vidikovca, jedan pri penjanju ka gledickom crnom vrhu, drugi pri silasku sa crnog vrha • na trasi ima tri izvora pitke vode u delu staze koji vodi kroz bajcetinu pri silasku sa gledickog crnog vrha • naselja: lazarevici i karajovici • na trasi nema smestaja laka staza polazi od raskrsnice u selu bajcetina, ujedno je to i krajnja tacka staze. staza je deo gledicke transverzale. veoma je laka za prolazak i snalazenje. odlikuju je dva fantasticna vidikovca koja su obelezena. na stazi postoje i tri izvora pitke vode. cela staza se prelazi za manje od 3,5 sata laganog hoda. na gledickom crnom vrhu nalaze se dva privatna objekta koja su uvek otvorena i gde svako moze da svrati, da napravi pauzu, da se odmori. klupe i stolovi su postavljeni i u dvoristu. u istim postoji tehnicka voda.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:01:50Z"
+    }
+}

@@ -1,0 +1,187 @@
+{
+    "schema_version": 1,
+    "slug": "staza-br-1-strugara",
+    "name": "Staza br. 1 \"Strugara\"",
+    "code": "7-9-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 3758,
+        "category_id": 28,
+        "region_ids": [
+            7
+        ],
+        "mountain_ids": [
+            69
+        ]
+    },
+    "region": "Jugoistočna Srbija",
+    "mountain": "Kukavica",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 13.7,
+        "calculated_km": 11.46
+    },
+    "duration": {
+        "official_minutes": 210,
+        "official_text": "3 h 30 min",
+        "official_raw": "3:30"
+    },
+    "elevation": {
+        "official_gain_m": 1038.0,
+        "official_loss_m": 153.0,
+        "calculated_gain_m": 1245.3,
+        "calculated_loss_m": 363.3,
+        "min_m": 383.2,
+        "max_m": 1309.9
+    },
+    "start": "Selo Čukljenik, 376 m",
+    "end": "Planinarski dom \"Preka voda\", 1270 m",
+    "description": "Selo Čukljenik - Strugara - Čukare - Strmac - pl.dom \"Preka Voda\"",
+    "landmarks": "• Crkva Sv. Nikole\n\n • Spomenik Vlajku Stojiljkoviću (vođa ustanka 1878.)\n\n • Crkvena vodenica - potočara (Čukljenik)",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinarski dom \"Preka voda\"",
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": "1:25000, TK Leskovac 632 2-4",
+    "club": {
+        "name": "Kukavica PSK",
+        "url": "https://pss.rs/adresar_klubova/kukavica-psk/",
+        "contact": "Deligradska 5, 16000 Leskovac\n+381652824655",
+        "clubs": [
+            {
+                "name": "Kukavica PSK",
+                "url": "https://pss.rs/adresar_klubova/kukavica-psk/",
+                "contact": "Deligradska 5, 16000 Leskovac\n+381652824655"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 9,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/7-9-1-Staza-br.1-Strugara.gpx",
+        "fetched_at": "2026-11-08T11:55:03Z",
+        "checked_at": "2026-11-08T11:55:03Z",
+        "bytes": 175175,
+        "sha256": "64ae060a52f68d4b7a9be4395d9e8a1607ca5211dcdef62b7ace2b8fff586812",
+        "etag": null,
+        "last_modified": "Wed, 20 Jan 2021 19:56:42 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 1053,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 14,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/7-9-1-Staza-br.1-Strugara.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/staza-br-1-strugara.geojson",
+        "bbox": [
+            21.951696379110217,
+            42.78503866866231,
+            21.965349577367306,
+            42.86638763733208
+        ],
+        "center": [
+            21.958523,
+            42.825713
+        ],
+        "start_point": [
+            21.96045278571546,
+            42.866382943466306
+        ],
+        "end_point": [
+            21.95175572298467,
+            42.78503866866231
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.96045,
+                    42.86638
+                ],
+                [
+                    21.95963,
+                    42.85211
+                ],
+                [
+                    21.96249,
+                    42.8485
+                ],
+                [
+                    21.95984,
+                    42.84551
+                ],
+                [
+                    21.95992,
+                    42.8351
+                ],
+                [
+                    21.95651,
+                    42.83367
+                ],
+                [
+                    21.95965,
+                    42.82169
+                ],
+                [
+                    21.95621,
+                    42.81518
+                ],
+                [
+                    21.96524,
+                    42.80006
+                ],
+                [
+                    21.96169,
+                    42.79295
+                ],
+                [
+                    21.95605,
+                    42.79199
+                ],
+                [
+                    21.95176,
+                    42.78504
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/staza-br-1-strugara/",
+        "canonical_url": "https://pss.rs/terenipp/staza-br-1-strugara/",
+        "pss_id": 3758,
+        "updated_at": "2021-02-27T11:29:11Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:55:04Z",
+        "last_synced_at": "2026-11-08T11:55:04Z"
+    },
+    "search": "staza br. 1 \"strugara\" 7-9-1 jugoistocna srbija kukavica selo cukljenik, 376 m planinarski dom \"preka voda\", 1270 m kukavica psk • crkva sv. nikole • spomenik vlajku stojiljkovicu (vodja ustanka 1878.) • crkvena vodenica - potocara (cukljenik) zahtevna selo cukljenik - strugara - cukare - strmac - pl.dom \"preka voda\"",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:55:04Z"
+    }
+}

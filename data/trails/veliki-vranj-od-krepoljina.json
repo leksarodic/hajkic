@@ -1,0 +1,223 @@
+{
+    "schema_version": 1,
+    "slug": "veliki-vranj-od-krepoljina",
+    "name": "Veliki Vranj od Krepoljina",
+    "code": "4-4-7",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 11606,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            54
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Homoljske planine",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 12.5,
+        "calculated_km": 11.66
+    },
+    "duration": {
+        "official_minutes": 300,
+        "official_text": "5 h",
+        "official_raw": "5:00"
+    },
+    "elevation": {
+        "official_gain_m": 630.0,
+        "official_loss_m": 630.0,
+        "calculated_gain_m": 594.3,
+        "calculated_loss_m": 594.2,
+        "min_m": 309.4,
+        "max_m": 874.5
+    },
+    "start": "Gavranova stena (put u blizini Krepoljina), 290 m",
+    "end": "Gavranova stena (put u blizini Krepoljina), 290 m",
+    "description": "• Start je u blizini Gavranove stene na putu koji ide od centra Krepoljina pored škole do starog stajališta za autobus. Put od centra Krepoljina je asfalt i dobar makadam u dužini od 4,5 km. Staza većinom ide šumskim putevima, dok u drugoj polovini prati stazu Homoljskog maratona. Na stazi ima izvora sa vodom i većinom se ide kroz šumu. Staza u prvoj polovini nije označena dok u drugoj postoje plavo-žute oznake Homoljskog maratona. Sam pristup vrhu Veliki Vranj (884 m) u zadnjih 100 m je stena sa dosta oštrog kamenja. \n\n • Pri usponu na sam vrh POTREBNA JE OPREZNOST.",
+    "landmarks": "• Izvor Krepoljinske reke\n\n • Naselje: Krepoljin\n\n • Pitka voda na izvoru Krepoljinske reke",
+    "maintenance": "delimično uređena",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Gornjak PD",
+        "url": "https://pss.rs/adresar_klubova/gornjak-pd/",
+        "contact": "Prvomajska bb, 12300 Petrovac na Mlavi\n+38164 2345 518 ; +38163 696 682\nhttp://www.gornjak.org.rs",
+        "clubs": [
+            {
+                "name": "Gornjak PD",
+                "url": "https://pss.rs/adresar_klubova/gornjak-pd/",
+                "contact": "Prvomajska bb, 12300 Petrovac na Mlavi\n+38164 2345 518 ; +38163 696 682\nhttp://www.gornjak.org.rs"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 6,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2020/06/4-4-7-Krepoljin-Veliki-Vranj.gpx",
+        "fetched_at": "2026-11-08T12:00:51Z",
+        "checked_at": "2026-11-08T12:00:51Z",
+        "bytes": 91938,
+        "sha256": "0657650396f367356b441d0b3fc7050d9ce1e1b8a8079e9b42387cb1cf84487f",
+        "etag": null,
+        "last_modified": "Tue, 09 Jun 2020 17:23:28 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 555,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 3,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2020/06/4-4-7-Krepoljin-Veliki-Vranj.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/veliki-vranj-od-krepoljina.geojson",
+        "bbox": [
+            21.60445097833872,
+            44.29494498297572,
+            21.62048497237265,
+            44.33247897773981
+        ],
+        "center": [
+            21.612468,
+            44.313712
+        ],
+        "start_point": [
+            21.607682034373283,
+            44.29494498297572
+        ],
+        "end_point": [
+            21.607682034373283,
+            44.29494498297572
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    21.60768,
+                    44.29494
+                ],
+                [
+                    21.60451,
+                    44.29789
+                ],
+                [
+                    21.60507,
+                    44.303
+                ],
+                [
+                    21.61308,
+                    44.3145
+                ],
+                [
+                    21.6118,
+                    44.31986
+                ],
+                [
+                    21.61469,
+                    44.3233
+                ],
+                [
+                    21.6192,
+                    44.32241
+                ],
+                [
+                    21.62048,
+                    44.32427
+                ],
+                [
+                    21.62025,
+                    44.32655
+                ],
+                [
+                    21.61472,
+                    44.32803
+                ],
+                [
+                    21.61471,
+                    44.33248
+                ],
+                [
+                    21.61472,
+                    44.32803
+                ],
+                [
+                    21.62025,
+                    44.32655
+                ],
+                [
+                    21.62048,
+                    44.32427
+                ],
+                [
+                    21.6192,
+                    44.32241
+                ],
+                [
+                    21.61469,
+                    44.3233
+                ],
+                [
+                    21.6118,
+                    44.31986
+                ],
+                [
+                    21.61308,
+                    44.3145
+                ],
+                [
+                    21.60507,
+                    44.303
+                ],
+                [
+                    21.60451,
+                    44.29789
+                ],
+                [
+                    21.60768,
+                    44.29494
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/veliki-vranj-od-krepoljina/",
+        "canonical_url": "https://pss.rs/terenipp/veliki-vranj-od-krepoljina/",
+        "pss_id": 11606,
+        "updated_at": "2020-06-09T17:28:00Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:00:52Z",
+        "last_synced_at": "2026-11-08T12:00:52Z"
+    },
+    "search": "veliki vranj od krepoljina 4-4-7 istocna srbija homoljske planine gavranova stena (put u blizini krepoljina), 290 m gavranova stena (put u blizini krepoljina), 290 m gornjak pd • izvor krepoljinske reke • naselje: krepoljin • pitka voda na izvoru krepoljinske reke zahtevna • start je u blizini gavranove stene na putu koji ide od centra krepoljina pored skole do starog stajalista za autobus. put od centra krepoljina je asfalt i dobar makadam u duzini od 4,5 km. staza vecinom ide sumskim putevima, dok u drugoj polovini prati stazu homoljskog maratona. na stazi ima izvora sa vodom i vecinom se ide kroz sumu. staza u prvoj polovini nije oznacena dok u drugoj postoje plavo-zute oznake homoljskog maratona. sam pristup vrhu veliki vranj (884 m) u zadnjih 100 m je stena sa dosta ostrog kamenja. • pri usponu na sam vrh potrebna je opreznost.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:00:52Z"
+    }
+}

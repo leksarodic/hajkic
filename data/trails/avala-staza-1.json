@@ -1,0 +1,209 @@
+{
+    "schema_version": 1,
+    "slug": "avala-staza-1",
+    "name": "Avala, staza 1",
+    "code": "2-3-2",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 12282,
+        "category_id": 28,
+        "region_ids": [
+            2
+        ],
+        "mountain_ids": [
+            47
+        ]
+    },
+    "region": "Šumadija",
+    "mountain": "Avala",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 9.13,
+        "calculated_km": 9.11
+    },
+    "duration": {
+        "official_minutes": 225,
+        "official_text": "3 h 45 min",
+        "official_raw": "3:45"
+    },
+    "elevation": {
+        "official_gain_m": 582.0,
+        "official_loss_m": 582.0,
+        "calculated_gain_m": 305.6,
+        "calculated_loss_m": 335.6,
+        "min_m": 263.1,
+        "max_m": 448.1
+    },
+    "start": "Autobuska stanica \"Avala\" u Pinosavi, 265 m",
+    "end": "Autobuska stanica \"Avala\" u Pinosavi, 265 m",
+    "description": null,
+    "landmarks": "• Česma Sakinac\n\n • Drveni spomenik Vasi Čarapiću\n\n • Spomenik Vasi Čarapiću\n\n • Planinarski dom \"Čarapićev brest\"",
+    "maintenance": "odlično uređena",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinarski dom \"Čarapićev Brest\"",
+    "notes": "• Stazu je trasirao Dragan Dimitrijević, oktobra 2020. godine.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Avala PD",
+        "url": "https://pss.rs/adresar_klubova/psk-avala/",
+        "contact": "Murska 14, 11000 Beograd\n+38111 386 00 64 ; +38160 04 28 252, \nhttp://www.avala.club/",
+        "clubs": [
+            {
+                "name": "Avala PD",
+                "url": "https://pss.rs/adresar_klubova/psk-avala/",
+                "contact": "Murska 14, 11000 Beograd\n+38111 386 00 64 ; +38160 04 28 252, \nhttp://www.avala.club/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2020/10/2-3-2-Avala-staza-1.gpx",
+        "fetched_at": "2026-11-08T12:01:11Z",
+        "checked_at": "2026-11-08T12:01:11Z",
+        "bytes": 125858,
+        "sha256": "b9ac7f607d087b71dabe0b323d43417bfa81d6d4c3f9c4dec3bb993ad6ad6f16",
+        "etag": null,
+        "last_modified": "Wed, 21 Oct 2020 12:58:48 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 759,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 8,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2020/10/2-3-2-Avala-staza-1.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/avala-staza-1.geojson",
+        "bbox": [
+            20.501848831772804,
+            44.683377631008625,
+            20.53196190856397,
+            44.70105246640742
+        ],
+        "center": [
+            20.516905,
+            44.692215
+        ],
+        "start_point": [
+            20.501848831772804,
+            44.696070179343224
+        ],
+        "end_point": [
+            20.501997778192163,
+            44.69648432917893
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    20.50185,
+                    44.69607
+                ],
+                [
+                    20.5124,
+                    44.68804
+                ],
+                [
+                    20.51211,
+                    44.68524
+                ],
+                [
+                    20.51845,
+                    44.68338
+                ],
+                [
+                    20.52341,
+                    44.68415
+                ],
+                [
+                    20.52575,
+                    44.68735
+                ],
+                [
+                    20.52997,
+                    44.68453
+                ],
+                [
+                    20.52877,
+                    44.68807
+                ],
+                [
+                    20.53193,
+                    44.69036
+                ],
+                [
+                    20.52602,
+                    44.6896
+                ],
+                [
+                    20.5232,
+                    44.69139
+                ],
+                [
+                    20.52363,
+                    44.69542
+                ],
+                [
+                    20.52076,
+                    44.69496
+                ],
+                [
+                    20.52254,
+                    44.69809
+                ],
+                [
+                    20.50911,
+                    44.70105
+                ],
+                [
+                    20.50359,
+                    44.69583
+                ],
+                [
+                    20.502,
+                    44.69648
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/avala-staza-1/",
+        "canonical_url": "https://pss.rs/terenipp/avala-staza-1/",
+        "pss_id": 12282,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:01:11Z",
+        "last_synced_at": "2026-11-08T12:01:11Z"
+    },
+    "search": "avala, staza 1 2-3-2 sumadija avala autobuska stanica \"avala\" u pinosavi, 265 m autobuska stanica \"avala\" u pinosavi, 265 m avala pd • cesma sakinac • drveni spomenik vasi carapicu • spomenik vasi carapicu • planinarski dom \"carapicev brest\" laka",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:01:11Z"
+    }
+}

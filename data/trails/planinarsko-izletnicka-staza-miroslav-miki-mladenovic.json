@@ -1,0 +1,239 @@
+{
+    "schema_version": 1,
+    "slug": "planinarsko-izletnicka-staza-miroslav-miki-mladenovic",
+    "name": "Planinarsko-izletnička staza \"Miroslav Miki Mladenović\"",
+    "code": "5-66-2",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 26474,
+        "category_id": 28,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            421
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Vigošte-Pogled",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 15.2,
+        "calculated_km": 15.25
+    },
+    "duration": {
+        "official_minutes": 300,
+        "official_text": "5 h",
+        "official_raw": "5:00"
+    },
+    "elevation": {
+        "official_gain_m": 405.0,
+        "official_loss_m": 405.0,
+        "calculated_gain_m": 0.0,
+        "calculated_loss_m": 0.0,
+        "min_m": 0.0,
+        "max_m": 0.0
+    },
+    "start": "Gradska plaža u Arilju (330 m)",
+    "end": "Gradska plaža u Arilju (330 m)",
+    "description": "Staza kreće od gradske plaže (visećeg mosta), pravo kroz naselje Vrane, pored gradskog groblja, posle 100 m, skretanje levo, pored rodne kuće Miroslava Mikija Mladenovića, kao i firme ,,Soliton\".\n\nPravo do raskrsnice puta Arilje-Svračkovo-Roge, skreće desno ka Arilju i na prvoj raskrsnice levo pored Bagremske česme (IZVORSKA VODA), na istoj raskrsnici desno se nalazi smeštajni objekat ,,Kačara\" tel. 065-9898298, dalje pored ,,Čolovića kapije\", prema ,,Danilovim vratima\" kroz zaseok Andrići sa leve strane pored Andrića groblja, nakon toga skretanje levo ka potoku, i uzbrdo prema Grdovićima, gde skrećemo levo kroz šumu ka lovačkoj čeki, poznatija kao ,,Limarova čeka\", ispred koje se nalazi prelep vidikovac (Ovčar, Kablar, Jelica...).\n\nOd čeke se ide dalje levo prema zaseoku Đunisijevići (desno zaseok Žirave),\n\nodakle 500 m do vrha Karaula 705 mnv. Sledi kratak odmor u letnjikovcu i fotografisanje na vidikovcu.\n\nPovratak do skretanja za vidikovac, gde se skreće levo kroz zaseok Savovići, kroz zaseok Grabovik, zatim na Piperskoj kosi skretanje levo ka Arilju, gde se staza ukršta sa Evropskim pešačkim putem E-7 i dalje nastavlja istom trasom, gde u zaseoku Ratkovići skreće desno ka zaseoku Đurići, pored Đurića groblja silazi do ušća Malog u Veliki Rzav. Prelazak levo, preko mosta na Velikom Rzavu ( desno Vaskovića vodenica i plaža Urjak), a u neposrednoj blizini su dve neimenovane IZVORSKE vode, dalje, levo preko mosta na Malom Rzavu (sa desne strane se vidi ušće Malog u Veliki Rzav. Ispod se nalazi i Đurića vodenica. Posle mosta desno, pored Borovnjačke česme (IZVORSKA VODA), kroz zaseok Lazine ispod Klokoča ka naselju Pogled, do raskrsnice s putem Arilje-Visoka-Zlatibor, skretanje desno (s leve strane 400 m., smeštajni objekat ,,Mlinarev san\" tel. 064-649-60-77 i 064-649-60-78), dalje putem pored prodajnih objekata ,,Zlatna truba\", prema Arilju, pored plaže ,,Uski vir\", gde se staza ukršta s stazom ,,Dobrilo Nenadić\" i skreće levo do gradske plaže i visećeg mosta na početnu tačku.",
+    "landmarks": null,
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Stazu su uredili i markirali planinari iz SUPSD \"Sunčevica\" iz Arilja u toku 2024. i 2025. godine. Na stazi ima izvorske vode za piće.",
+    "map_reference": null,
+    "map_sheet": "1:50000 Čačak 3 (529-3)",
+    "club": {
+        "name": "Sunčevica SUPSD",
+        "url": "https://pss.rs/adresar_klubova/suncevica-supsd/",
+        "contact": "Stevana Čolovića 2, Arilje 31230\n060/0894113",
+        "clubs": [
+            {
+                "name": "Sunčevica SUPSD",
+                "url": "https://pss.rs/adresar_klubova/suncevica-supsd/",
+                "contact": "Stevana Čolovića 2, Arilje 31230\n060/0894113"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 7,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2025/05/Staza-M-M-Mladenovic.gpx",
+        "fetched_at": "2026-11-08T12:06:19Z",
+        "checked_at": "2026-11-08T12:06:19Z",
+        "bytes": 62312,
+        "sha256": "266015d600103002fecef1db52859a1dbc50342059ad782deb5e54060670b41e",
+        "etag": null,
+        "last_modified": "Sat, 10 May 2025 20:15:26 GMT",
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": 588,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2025/05/Staza-M-M-Mladenovic.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/planinarsko-izletnicka-staza-miroslav-miki-mladenovic.geojson",
+        "bbox": [
+            20.048952,
+            43.740881,
+            20.092071,
+            43.769411
+        ],
+        "center": [
+            20.070512,
+            43.755146
+        ],
+        "start_point": [
+            20.092071,
+            43.751558
+        ],
+        "end_point": [
+            20.092031479,
+            43.751586914
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    20.09207,
+                    43.75156
+                ],
+                [
+                    20.08811,
+                    43.74914
+                ],
+                [
+                    20.0769,
+                    43.74903
+                ],
+                [
+                    20.06139,
+                    43.74422
+                ],
+                [
+                    20.05699,
+                    43.74489
+                ],
+                [
+                    20.05409,
+                    43.74093
+                ],
+                [
+                    20.04895,
+                    43.74241
+                ],
+                [
+                    20.05464,
+                    43.74857
+                ],
+                [
+                    20.06442,
+                    43.75265
+                ],
+                [
+                    20.05985,
+                    43.75346
+                ],
+                [
+                    20.05067,
+                    43.75119
+                ],
+                [
+                    20.05948,
+                    43.75627
+                ],
+                [
+                    20.05984,
+                    43.75997
+                ],
+                [
+                    20.06503,
+                    43.75792
+                ],
+                [
+                    20.05936,
+                    43.76012
+                ],
+                [
+                    20.05932,
+                    43.76772
+                ],
+                [
+                    20.0626,
+                    43.76941
+                ],
+                [
+                    20.06263,
+                    43.76739
+                ],
+                [
+                    20.06787,
+                    43.76748
+                ],
+                [
+                    20.06851,
+                    43.76494
+                ],
+                [
+                    20.07558,
+                    43.76326
+                ],
+                [
+                    20.09203,
+                    43.75159
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": [
+            "missing_elevation"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/planinarsko-izletnicka-staza-miroslav-miki-mladenovic/",
+        "canonical_url": "https://pss.rs/terenipp/planinarsko-izletnicka-staza-miroslav-miki-mladenovic/",
+        "pss_id": 26474,
+        "updated_at": "2025-05-10T20:26:11Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:06:20Z",
+        "last_synced_at": "2026-11-08T12:06:20Z"
+    },
+    "search": "planinarsko-izletnicka staza \"miroslav miki mladenovic\" 5-66-2 jugozapadna srbija vigoste-pogled gradska plaza u arilju (330 m) gradska plaza u arilju (330 m) suncevica supsd laka staza krece od gradske plaze (viseceg mosta), pravo kroz naselje vrane, pored gradskog groblja, posle 100 m, skretanje levo, pored rodne kuce miroslava mikija mladenovica, kao i firme ,,soliton\". pravo do raskrsnice puta arilje-svrackovo-roge, skrece desno ka arilju i na prvoj raskrsnice levo pored bagremske cesme (izvorska voda), na istoj raskrsnici desno se nalazi smestajni objekat ,,kacara\" tel. 065-9898298, dalje pored ,,colovica kapije\", prema ,,danilovim vratima\" kroz zaseok andrici sa leve strane pored andrica groblja, nakon toga skretanje levo ka potoku, i uzbrdo prema grdovicima, gde skrecemo levo kroz sumu ka lovackoj ceki, poznatija kao ,,limarova ceka\", ispred koje se nalazi prelep vidikovac (ovcar, kablar, jelica...). od ceke se ide dalje levo prema zaseoku djunisijevici (desno zaseok zirave), odakle 500 m do vrha karaula 705 mnv. sledi kratak odmor u letnjikovcu i fotografisanje na vidikovcu. povratak do skretanja za vidikovac, gde se skrece levo kroz zaseok savovici, kroz zaseok grabovik, zatim na piperskoj kosi skretanje levo ka arilju, gde se staza ukrsta sa evropskim pesackim putem e-7 i dalje nastavlja istom trasom, gde u zaseoku ratkovici skrece desno ka zaseoku djurici, pored djurica groblja silazi do usca malog u veliki rzav. prelazak levo, preko mosta na velikom rzavu ( desno vaskovica vodenica i plaza urjak), a u neposrednoj blizini su dve neimenovane izvorske vode, dalje, levo preko mosta na malom rzavu (sa desne strane se vidi usce malog u veliki rzav. ispod se nalazi i djurica vodenica. posle mosta desno, pored borovnjacke cesme (izvorska voda), kroz zaseok lazine ispod klokoca ka naselju pogled, do raskrsnice s putem arilje-visoka-zlatibor, skretanje desno (s leve strane 400 m., smestajni objekat ,,mlinarev san\" tel. 064-649-60-77 i 064-649-6",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:06:20Z"
+    }
+}

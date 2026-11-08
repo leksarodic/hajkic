@@ -1,0 +1,171 @@
+{
+    "schema_version": 1,
+    "slug": "nisevacka-klisura",
+    "name": "Niševačka klisura",
+    "code": "4-40-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 6973,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            115
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Tresibaba",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 5.0,
+        "calculated_km": 5.0
+    },
+    "duration": {
+        "official_minutes": 135,
+        "official_text": "2 h 15 min",
+        "official_raw": "2:15"
+    },
+    "elevation": {
+        "official_gain_m": 203.0,
+        "official_loss_m": 287.0,
+        "calculated_gain_m": 199.4,
+        "calculated_loss_m": 274.1,
+        "min_m": 341.8,
+        "max_m": 465.9
+    },
+    "start": "Atar sela Varoš, 439m",
+    "end": "Selo Niševac, 355m",
+    "description": "Polazak je sa asfaltnog puta iznad sela Varoš, oko 1 km južno od sela. Do vrha Kule vodi staza u blagom usponu, prolazeći kroz uzak prolaz koji je nekada bio ulaz u utvrđenje. Na vrhu su i dalje ostaci tog utvrđenja. Ispod Kule se nalazi pećina do koje se dolazi nešto strmijom stazom. Povratak istom stazom do mesta polaska, a zatim spuštanje širokim travnatim putem do železničke pruge. Hodanje prugom u dužini oko 500 metara, kroz tri tunela i preko kamenog mosta. Kretanje učesnika prugom će zbog bezbednosti biti usklađeno sa redom vožnje železnice. Skretanje za kupalište Banjica. Kratak uspon do širokog rimskog puta, kojim se nakon 2 km dolazi do Niševca, uz nekoliko usputnih vidikovaca. Završetak staze u centru Niševca. Cela staza je dobro markirana.\n\n • Na stazi je potrebna opreznost.",
+    "landmarks": "• Utvrđenje Kule\n\n • Kupalište Banjica\n\n • Kotlovi reke Belice\n\n • Kameni železnički lučni most (projektovao Milutin Milanković)\n\n • Vidikovci: vrh Kule (511 m) i rimski put iznad sela Niševac",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Izvor pitke vode u selu Niševac\n\n • Na trasi nema smeštaja\n\n • Stazu je trasirao PD Preslap, Niš\n\n • Staza je poslednji put markirana 16.06.2018.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Preslap PD",
+        "url": "https://pss.rs/adresar_klubova/preslap-pd/",
+        "contact": "Bulevar dr. Zorana Đinđića 19/130, 18000 Niš\n+38162 205 977\nhttps://www.preslap.rs/",
+        "clubs": [
+            {
+                "name": "Preslap PD",
+                "url": "https://pss.rs/adresar_klubova/preslap-pd/",
+                "contact": "Bulevar dr. Zorana Đinđića 19/130, 18000 Niš\n+38162 205 977\nhttps://www.preslap.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2018/07/4-40-1-Nisevacka-klisura.gpx",
+        "fetched_at": "2026-11-08T11:59:23Z",
+        "checked_at": "2026-11-08T11:59:23Z",
+        "bytes": 35824,
+        "sha256": "3d924fd1652dd47dd3e6c6fdb985281e31883d6a52f5596ed251153072813d60",
+        "etag": null,
+        "last_modified": "Sat, 07 Jul 2018 12:45:45 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 241,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 11,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2018/07/4-40-1-Nisevacka-klisura.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/nisevacka-klisura.geojson",
+        "bbox": [
+            22.08873739466071,
+            43.458181684836745,
+            22.104368722066283,
+            43.47669957205653
+        ],
+        "center": [
+            22.096553,
+            43.467441
+        ],
+        "start_point": [
+            22.08873739466071,
+            43.474539974704385
+        ],
+        "end_point": [
+            22.100849077105522,
+            43.458181684836745
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    22.08874,
+                    43.47454
+                ],
+                [
+                    22.09377,
+                    43.47352
+                ],
+                [
+                    22.08891,
+                    43.47446
+                ],
+                [
+                    22.09505,
+                    43.4767
+                ],
+                [
+                    22.09966,
+                    43.47538
+                ],
+                [
+                    22.09614,
+                    43.47159
+                ],
+                [
+                    22.10437,
+                    43.4655
+                ],
+                [
+                    22.10085,
+                    43.45818
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/nisevacka-klisura/",
+        "canonical_url": "https://pss.rs/terenipp/nisevacka-klisura/",
+        "pss_id": 6973,
+        "updated_at": "2018-07-07T12:50:27Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:59:24Z",
+        "last_synced_at": "2026-11-08T11:59:24Z"
+    },
+    "search": "nisevacka klisura 4-40-1 istocna srbija tresibaba atar sela varos, 439m selo nisevac, 355m preslap pd • utvrdjenje kule • kupaliste banjica • kotlovi reke belice • kameni zeleznicki lucni most (projektovao milutin milankovic) • vidikovci: vrh kule (511 m) i rimski put iznad sela nisevac laka polazak je sa asfaltnog puta iznad sela varos, oko 1 km juzno od sela. do vrha kule vodi staza u blagom usponu, prolazeci kroz uzak prolaz koji je nekada bio ulaz u utvrdjenje. na vrhu su i dalje ostaci tog utvrdjenja. ispod kule se nalazi pecina do koje se dolazi nesto strmijom stazom. povratak istom stazom do mesta polaska, a zatim spustanje sirokim travnatim putem do zeleznicke pruge. hodanje prugom u duzini oko 500 metara, kroz tri tunela i preko kamenog mosta. kretanje ucesnika prugom ce zbog bezbednosti biti uskladjeno sa redom voznje zeleznice. skretanje za kupaliste banjica. kratak uspon do sirokog rimskog puta, kojim se nakon 2 km dolazi do nisevca, uz nekoliko usputnih vidikovaca. zavrsetak staze u centru nisevca. cela staza je dobro markirana. • na stazi je potrebna opreznost.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:59:24Z"
+    }
+}

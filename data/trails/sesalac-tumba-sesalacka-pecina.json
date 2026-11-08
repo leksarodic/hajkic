@@ -1,0 +1,215 @@
+{
+    "schema_version": 1,
+    "slug": "sesalac-tumba-sesalacka-pecina",
+    "name": "Sesalac - Tumba - Sesalačka pećina",
+    "code": "4-27-8",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 13383,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            71
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Rtanj",
+    "difficulty": {
+        "key": "srednje_teska",
+        "label": "Srednje teška",
+        "source": "srednje teška"
+    },
+    "distance": {
+        "official_km": 13.1,
+        "calculated_km": 13.03
+    },
+    "duration": {
+        "official_minutes": 360,
+        "official_text": "6 h",
+        "official_raw": "6:00"
+    },
+    "elevation": {
+        "official_gain_m": 636.0,
+        "official_loss_m": 636.0,
+        "calculated_gain_m": 657.5,
+        "calculated_loss_m": 654.8,
+        "min_m": 426.1,
+        "max_m": 832.7
+    },
+    "start": "Selo Sesalac, 433 m",
+    "end": "Selo Sesalac, 433 m",
+    "description": "Staza je kružna i polazi od doma u Sesalcu i ide kolskim putem obodom reke. Izlazi na Rujiški put i pre Klisure se odvaja u levo preko mosta prema Tumbi. Prati se kolski put i šumska staza. Na izlasku iz šume je odvajanje za vrh Tumbe (842 m). Povratak je istom deonicom do odvajanja i preko grebena spuštanje do Mađarske reke. Prelazak preko reke i uspon do vidikovca Orli Skok, a zatim uspon do grebena Stubline. Zatim se kolskim putem dolazi do Sesalačke pećine. Potom sledi silazak do sela.",
+    "landmarks": "• Tumba, Sesalačka pećina\n\n • Vidikovci: Tumba, Orli skok, Stubline\n\n • Naselje: Sesalac\n\n • Na trasi ima izvora pitke vode\n\n • Smeštaj: kamp, odmaralište, privatni smeštaj",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu su trasirali aprila 2015. članovi PK \"Ozren\" Sokobanja (Ninić Zvezdan, Dragan Knežević, Ilija Knežević)\n\n • Poslednji put staza je markirana 2020. godine",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Ozren PK",
+        "url": "https://pss.rs/adresar_klubova/ozren-pk/",
+        "contact": "Alekse Markišića 28/3 18230 Sokobanja (poštanski fah 63)\n+38164 855 33 61",
+        "clubs": [
+            {
+                "name": "Ozren PK",
+                "url": "https://pss.rs/adresar_klubova/ozren-pk/",
+                "contact": "Alekse Markišića 28/3 18230 Sokobanja (poštanski fah 63)\n+38164 855 33 61"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2021/03/Sesalac-Tumba-Sesalacka-pecina-new.gpx",
+        "fetched_at": "2026-11-08T12:01:51Z",
+        "checked_at": "2026-11-08T12:01:51Z",
+        "bytes": 186436,
+        "sha256": "edcd5077905bcf15b13005bb0d5949bd03f6b337a5dbcbd9c901ad5b90fead93",
+        "etag": null,
+        "last_modified": "Tue, 14 Jun 2022 11:57:17 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 1427,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2021/03/Sesalac-Tumba-Sesalacka-pecina-new.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/sesalac-tumba-sesalacka-pecina.geojson",
+        "bbox": [
+            21.958694,
+            43.680572,
+            21.988192,
+            43.713278
+        ],
+        "center": [
+            21.973443,
+            43.696925
+        ],
+        "start_point": [
+            21.977833,
+            43.680572
+        ],
+        "end_point": [
+            21.977888,
+            43.680582
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    21.97783,
+                    43.68057
+                ],
+                [
+                    21.97221,
+                    43.68791
+                ],
+                [
+                    21.97308,
+                    43.69242
+                ],
+                [
+                    21.97662,
+                    43.69237
+                ],
+                [
+                    21.97752,
+                    43.69481
+                ],
+                [
+                    21.97062,
+                    43.70024
+                ],
+                [
+                    21.9694,
+                    43.70818
+                ],
+                [
+                    21.95893,
+                    43.71328
+                ],
+                [
+                    21.97065,
+                    43.70963
+                ],
+                [
+                    21.97379,
+                    43.71005
+                ],
+                [
+                    21.97414,
+                    43.71214
+                ],
+                [
+                    21.97577,
+                    43.71067
+                ],
+                [
+                    21.97937,
+                    43.71212
+                ],
+                [
+                    21.98339,
+                    43.70673
+                ],
+                [
+                    21.98225,
+                    43.70253
+                ],
+                [
+                    21.98819,
+                    43.69886
+                ],
+                [
+                    21.98487,
+                    43.69317
+                ],
+                [
+                    21.97863,
+                    43.69107
+                ],
+                [
+                    21.97789,
+                    43.68058
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/sesalac-tumba-sesalacka-pecina/",
+        "canonical_url": "https://pss.rs/terenipp/sesalac-tumba-sesalacka-pecina/",
+        "pss_id": 13383,
+        "updated_at": "2022-06-14T12:00:45Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:01:52Z",
+        "last_synced_at": "2026-11-08T12:01:52Z"
+    },
+    "search": "sesalac - tumba - sesalacka pecina 4-27-8 istocna srbija rtanj selo sesalac, 433 m selo sesalac, 433 m ozren pk • tumba, sesalacka pecina • vidikovci: tumba, orli skok, stubline • naselje: sesalac • na trasi ima izvora pitke vode • smestaj: kamp, odmaraliste, privatni smestaj srednje teska staza je kruzna i polazi od doma u sesalcu i ide kolskim putem obodom reke. izlazi na rujiski put i pre klisure se odvaja u levo preko mosta prema tumbi. prati se kolski put i sumska staza. na izlasku iz sume je odvajanje za vrh tumbe (842 m). povratak je istom deonicom do odvajanja i preko grebena spustanje do madjarske reke. prelazak preko reke i uspon do vidikovca orli skok, a zatim uspon do grebena stubline. zatim se kolskim putem dolazi do sesalacke pecine. potom sledi silazak do sela.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:01:52Z"
+    }
+}

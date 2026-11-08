@@ -1,0 +1,225 @@
+{
+    "schema_version": 1,
+    "slug": "beziste-pasarelo",
+    "name": "Bežište - Pasarelo",
+    "code": "7-3-3",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 4482,
+        "category_id": 28,
+        "region_ids": [
+            7
+        ],
+        "mountain_ids": [
+            50
+        ]
+    },
+    "region": "Jugoistočna Srbija",
+    "mountain": "Suva planina",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 14.9,
+        "calculated_km": 14.86
+    },
+    "duration": {
+        "official_minutes": 240,
+        "official_text": "4 h",
+        "official_raw": "4:00"
+    },
+    "elevation": {
+        "official_gain_m": 1072.0,
+        "official_loss_m": 0.0,
+        "calculated_gain_m": 1011.9,
+        "calculated_loss_m": 53.0,
+        "min_m": 548.9,
+        "max_m": 1511.4
+    },
+    "start": "Autobusko stajalište u selu Bežište, 450m",
+    "end": "Izlazak na vrh Pasarelo, 1522m",
+    "description": null,
+    "landmarks": "• Vidikovci: Smrdan i Pasarelo\n\n • Izvor pitke vode samo na početku staze",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Staza poslednji put markirana 28.07.2012.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Železničar PK Niš",
+        "url": "https://pss.rs/adresar_klubova/zeleznicar-pk/",
+        "contact": "Tvrđava bb, 18000 Niš\n064 833 000 3, 061 168 777 1\nhttp://www.planinari-zeleznicar.rs/",
+        "clubs": [
+            {
+                "name": "Železničar PK Niš",
+                "url": "https://pss.rs/adresar_klubova/zeleznicar-pk/",
+                "contact": "Tvrđava bb, 18000 Niš\n064 833 000 3, 061 168 777 1\nhttp://www.planinari-zeleznicar.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/08/7-3-3-Beziste-Pasarelo.gpx",
+        "fetched_at": "2026-11-08T11:57:00Z",
+        "checked_at": "2026-11-08T11:57:00Z",
+        "bytes": 96858,
+        "sha256": "f9f7e0722f573cea8713e6bda04cfb1bc81fd1f92d313eda151f4e811c4d950e",
+        "etag": null,
+        "last_modified": "Wed, 31 Jan 2018 11:05:53 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 818,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 2,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/08/7-3-3-Beziste-Pasarelo.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/beziste-pasarelo.geojson",
+        "bbox": [
+            22.238326454535127,
+            43.120387718081474,
+            22.341743130236864,
+            43.164367312565446
+        ],
+        "center": [
+            22.290035,
+            43.142378
+        ],
+        "start_point": [
+            22.341743130236864,
+            43.12601163983345
+        ],
+        "end_point": [
+            22.238326454535127,
+            43.16129400394857
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    22.34174,
+                    43.12601
+                ],
+                [
+                    22.32904,
+                    43.12042
+                ],
+                [
+                    22.3157,
+                    43.13139
+                ],
+                [
+                    22.30646,
+                    43.13412
+                ],
+                [
+                    22.30121,
+                    43.13913
+                ],
+                [
+                    22.30057,
+                    43.13662
+                ],
+                [
+                    22.29247,
+                    43.13298
+                ],
+                [
+                    22.28891,
+                    43.1339
+                ],
+                [
+                    22.28585,
+                    43.14003
+                ],
+                [
+                    22.27576,
+                    43.14032
+                ],
+                [
+                    22.27053,
+                    43.13672
+                ],
+                [
+                    22.26408,
+                    43.14018
+                ],
+                [
+                    22.25964,
+                    43.14018
+                ],
+                [
+                    22.25585,
+                    43.14372
+                ],
+                [
+                    22.2564,
+                    43.15142
+                ],
+                [
+                    22.2544,
+                    43.15388
+                ],
+                [
+                    22.24359,
+                    43.15587
+                ],
+                [
+                    22.24502,
+                    43.1576
+                ],
+                [
+                    22.24144,
+                    43.16437
+                ],
+                [
+                    22.24109,
+                    43.16135
+                ],
+                [
+                    22.23833,
+                    43.16129
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/beziste-pasarelo/",
+        "canonical_url": "https://pss.rs/terenipp/beziste-pasarelo/",
+        "pss_id": 4482,
+        "updated_at": "2018-01-31T11:06:23Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:57:01Z",
+        "last_synced_at": "2026-11-08T11:57:01Z"
+    },
+    "search": "beziste - pasarelo 7-3-3 jugoistocna srbija suva planina autobusko stajaliste u selu beziste, 450m izlazak na vrh pasarelo, 1522m zeleznicar pk nis • vidikovci: smrdan i pasarelo • izvor pitke vode samo na pocetku staze laka",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:57:01Z"
+    }
+}

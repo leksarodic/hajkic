@@ -1,0 +1,525 @@
+{
+    "schema_version": 1,
+    "slug": "e7-6",
+    "name": "Sremska Mitrovica - Cer",
+    "code": "E7-6",
+    "category": {
+        "key": "evropski-pesacki-putevi-u-srbiji",
+        "label": "Evropski pešački putevi u Srbiji"
+    },
+    "pss": {
+        "post_id": 3719,
+        "category_id": 29,
+        "region_ids": [
+            3
+        ],
+        "mountain_ids": [
+            64
+        ]
+    },
+    "region": "Zapadna Srbija",
+    "mountain": "Zasavica",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "lak"
+    },
+    "distance": {
+        "official_km": 83.6,
+        "calculated_km": 83.77
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": 945.0,
+        "official_loss_m": 351.0,
+        "calculated_gain_m": 0.0,
+        "calculated_loss_m": 0.0,
+        "min_m": 0.0,
+        "max_m": 0.0
+    },
+    "start": null,
+    "end": null,
+    "description": "• Sremska Mitrovica je veliki grad na čijoj lokaciji u bogatoj\nprošlosti se smenjuju naselja, od vremena neolita do danas. Rimljani\nzauzimaju Srem 31. godine. Strateški značaj grada koji je nazvan\nSirmijum je veliki. U njemu borave rimski carevi Septimije Sever,\nMaksimilijan Tračanin a zatim i carevi koji su ovde rođeni, Dacije\nTrajan, Lucije Domicije Aurelijan i Marko Aurelije Prob koji je doneo\nvinovu lozu u ove krajeve. Za vreme vladavine iz perioda tetrarhije u\nSirmijumu je upravljao car Galerije. U to vreme se Sirmijum podiže\ni ukrašava. Posle proglašenja Milanskog edikta 313. godine kojim\nhrišćanstvo dobija legitimitet u Sirmijumu se formira Episkopija.\n\n • U 5. i 6. veku Sirmijum napadaju i konačno razaraju Huni. Grad dobija\nkonačno ime Dmitrovica u srednjem veku po imenu sveca zaštitnika\nsvetog Dimitrija.\n\n • Danas se u gradu nalaze brojni arheološki lokaliteti i ostaci\ncarskih palata. U muzeju Srema nalazi se bogat lapidarijum. Od novih\nobjekata zanimljiva je stara pravoslavna crkva Svetog Stefana iz 16.\nveka, rimokatolička crkva Svetog Dimitrija i župni dvor iz 19. veka.\n\n • Iz Sremske Mitrovice put E7 prelazi pešačkim mostom Sv. Irineja\npreko reke Save prema centralnoj Srbiji.\n\n • Prelaskom na desnu obalu Save put E7 kreće se kroz područje ravnice\nMačve. Ravnica je nastala na ušću reke Drine u Savu sa nanošenjem\ndebelih naslaga rečnog šljunka i formiranjem brojnih meandara\nstarih tokova, bara i mrtvaja.\n\n • Jedan od takvih fenomena je i bara Zasavica koja predstavlja stari tok\nSave a danas se „hrani” podzemnim dotokom iz voda reke Drine. U bari\nje stvoren specifičan ekosistem sa vrednim primercima biološke\nraznovrsnosti.\n\n • Danas je ovo područje zaštićeno kao Specijalni rezervat prirode\nna površini od 1825 hektara. Od toga je 675 hektara u prvom stepenu\nzaštite. Rezervat Zasavice predstavlja jedinstveni predeo sa florom\ni faunom tipičnom za plavna staništa pored velikih reka.\n\n • U rezervatu je razvijen Centar za zaštitu i uzgajanje starih autohtonih rasa domaćih životinja u cilju očuvanja genetskog materijala za\nbudućnost (svinja mangulica, podolsko goveče, vitoroga ovca, magarac,\nbrdski konjić i dr.). Ovde možete probati i specifične gastronomske\nspecijalitete koji se ovde proizvode. Smeštaj je moguć u modernom\nautokampu, okolnim domaćinstvima ili hotelima u Sremskoj\nMitrovici.\n\n • Iz Zasavice put E7 ide ravnicom Mačve kroz naselja i sela sa\narhitekturom tipičnom za ovaj kraj. Duž puta nalaze se brojne\ndepresije i vlažni meandri nekadašnjih lokalnih tokova.\n\n • Put E7 približava se planini Cer ispod koga je smešten manastir\nČokešina izgrađen početkom 18. veka. Ovaj kraj poznat je iz istorije\noslobodilačkih ratova protiv Turske imperije i ratova protiv\nAustrougarske monarhije.\n\n • Planina Cer visoka je 687 metara. Greben je dugačak oko 15 kilometara.\nDobro je pošumljena tako da naš put većim delom ide kroz šumu.",
+    "landmarks": "Zasavica (spec. rezervat prirode), manastir Čokešina, planina Cer (Kosanin grad, Trajanov grad)",
+    "maintenance": null,
+    "marking": "evropska crveno-žuta",
+    "accommodation": "Zasavica, Bogatić, Cer",
+    "notes": "• E7-6-1 Sremska Mitrovica – Zasavica 14,0 km\n\n • E7-6-2 Zasavica – Banovo Polje 13,4 km\n\n • E7-6-3 Banovo Polje – Bogatić 14,8 km\n\n • E7-6-4 Bogatić - Ribari 16,3 km\n\n • E7-6-5 Ribari – Čokešina 9,8 km\n\n • E7-6-6 Čokešina - Cer 15,3 km",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Borkovac PK",
+        "url": "https://pss.rs/adresar_klubova/borkovac-pk/",
+        "contact": "Veljka Dugoševića 100, 22400 Ruma\n063 80 65 900",
+        "clubs": [
+            {
+                "name": "Borkovac PK",
+                "url": "https://pss.rs/adresar_klubova/borkovac-pk/",
+                "contact": "Veljka Dugoševića 100, 22400 Ruma\n063 80 65 900"
+            },
+            {
+                "name": "Cer PSD",
+                "url": "https://pss.rs/adresar_klubova/cer-psd/",
+                "contact": "Veliki park bb, 15000 Šabac\n063/287747"
+            },
+            {
+                "name": "Čivija PAK",
+                "url": "https://pss.rs/adresar_klubova/civija-pak/",
+                "contact": "Kralja Radoslava bb, 15000 Šabac\n+38162 22 39 89"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/E7-6-Sremska-Mitrovica-Cer.gpx",
+        "fetched_at": "2026-11-08T12:50:55Z",
+        "checked_at": "2026-11-08T12:50:55Z",
+        "bytes": 94629,
+        "sha256": "55dc9988fb670145ee679bca48e59d7cf7cf4e286fd2b052199dc1bc3a0f09a9",
+        "etag": null,
+        "last_modified": "Sat, 07 Dec 2024 21:24:29 GMT",
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": 1301,
+        "tracks": 6,
+        "segments": 6,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/E7-6-Sremska-Mitrovica-Cer.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/e7-6.geojson",
+        "bbox": [
+            19.385234652,
+            44.602715707,
+            19.603260176,
+            44.977112586
+        ],
+        "center": [
+            19.494247,
+            44.789914
+        ],
+        "start_point": [
+            19.603260176,
+            44.966581295
+        ],
+        "end_point": [
+            19.493985997,
+            44.602776981
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    19.60326,
+                    44.96658
+                ],
+                [
+                    19.59966,
+                    44.96545
+                ],
+                [
+                    19.594,
+                    44.97068
+                ],
+                [
+                    19.57648,
+                    44.97015
+                ],
+                [
+                    19.55114,
+                    44.97705
+                ],
+                [
+                    19.54213,
+                    44.97618
+                ],
+                [
+                    19.52351,
+                    44.96626
+                ],
+                [
+                    19.52107,
+                    44.96228
+                ],
+                [
+                    19.52532,
+                    44.95919
+                ],
+                [
+                    19.52798,
+                    44.94435
+                ],
+                [
+                    19.51914,
+                    44.93679
+                ],
+                [
+                    19.5104,
+                    44.93498
+                ],
+                [
+                    19.5051,
+                    44.93621
+                ],
+                [
+                    19.49707,
+                    44.95008
+                ]
+            ],
+            [
+                [
+                    19.49709,
+                    44.95009
+                ],
+                [
+                    19.48024,
+                    44.95799
+                ],
+                [
+                    19.47007,
+                    44.95923
+                ],
+                [
+                    19.46231,
+                    44.95681
+                ],
+                [
+                    19.44907,
+                    44.94558
+                ],
+                [
+                    19.43329,
+                    44.94384
+                ],
+                [
+                    19.43132,
+                    44.93916
+                ],
+                [
+                    19.43492,
+                    44.93265
+                ],
+                [
+                    19.44211,
+                    44.92899
+                ],
+                [
+                    19.45569,
+                    44.92742
+                ],
+                [
+                    19.45666,
+                    44.92236
+                ],
+                [
+                    19.46688,
+                    44.91575
+                ],
+                [
+                    19.45977,
+                    44.91315
+                ],
+                [
+                    19.46072,
+                    44.91141
+                ],
+                [
+                    19.45784,
+                    44.90968
+                ],
+                [
+                    19.44609,
+                    44.9092
+                ]
+            ],
+            [
+                [
+                    19.44604,
+                    44.90914
+                ],
+                [
+                    19.43686,
+                    44.91115
+                ],
+                [
+                    19.425,
+                    44.9043
+                ],
+                [
+                    19.41671,
+                    44.89059
+                ],
+                [
+                    19.41232,
+                    44.89082
+                ],
+                [
+                    19.41271,
+                    44.88069
+                ],
+                [
+                    19.40619,
+                    44.8757
+                ],
+                [
+                    19.41427,
+                    44.87201
+                ],
+                [
+                    19.42513,
+                    44.87347
+                ],
+                [
+                    19.42385,
+                    44.86689
+                ],
+                [
+                    19.45258,
+                    44.85775
+                ],
+                [
+                    19.45179,
+                    44.84961
+                ],
+                [
+                    19.46415,
+                    44.84864
+                ],
+                [
+                    19.4638,
+                    44.84377
+                ],
+                [
+                    19.48121,
+                    44.84177
+                ]
+            ],
+            [
+                [
+                    19.4812,
+                    44.84177
+                ],
+                [
+                    19.47557,
+                    44.80886
+                ],
+                [
+                    19.43757,
+                    44.73213
+                ],
+                [
+                    19.43558,
+                    44.72985
+                ],
+                [
+                    19.43288,
+                    44.73043
+                ],
+                [
+                    19.43007,
+                    44.72602
+                ],
+                [
+                    19.43279,
+                    44.71277
+                ],
+                [
+                    19.42401,
+                    44.71005
+                ]
+            ],
+            [
+                [
+                    19.42407,
+                    44.71003
+                ],
+                [
+                    19.42859,
+                    44.69893
+                ],
+                [
+                    19.42435,
+                    44.68525
+                ],
+                [
+                    19.41774,
+                    44.68461
+                ],
+                [
+                    19.40456,
+                    44.6786
+                ],
+                [
+                    19.39158,
+                    44.67662
+                ],
+                [
+                    19.38873,
+                    44.67407
+                ],
+                [
+                    19.39005,
+                    44.66734
+                ],
+                [
+                    19.3878,
+                    44.66351
+                ],
+                [
+                    19.39328,
+                    44.65669
+                ],
+                [
+                    19.39048,
+                    44.65508
+                ],
+                [
+                    19.39063,
+                    44.64989
+                ],
+                [
+                    19.38524,
+                    44.64903
+                ]
+            ],
+            [
+                [
+                    19.38523,
+                    44.64899
+                ],
+                [
+                    19.38725,
+                    44.64583
+                ],
+                [
+                    19.39567,
+                    44.64314
+                ],
+                [
+                    19.40357,
+                    44.64437
+                ],
+                [
+                    19.40471,
+                    44.64022
+                ],
+                [
+                    19.41049,
+                    44.63866
+                ],
+                [
+                    19.41515,
+                    44.63342
+                ],
+                [
+                    19.41846,
+                    44.63285
+                ],
+                [
+                    19.42139,
+                    44.63537
+                ],
+                [
+                    19.42465,
+                    44.6266
+                ],
+                [
+                    19.42888,
+                    44.62916
+                ],
+                [
+                    19.43365,
+                    44.62754
+                ],
+                [
+                    19.42972,
+                    44.62745
+                ],
+                [
+                    19.42961,
+                    44.62551
+                ],
+                [
+                    19.43667,
+                    44.61918
+                ],
+                [
+                    19.44765,
+                    44.62165
+                ],
+                [
+                    19.44806,
+                    44.61866
+                ],
+                [
+                    19.45329,
+                    44.61513
+                ],
+                [
+                    19.45934,
+                    44.61555
+                ],
+                [
+                    19.46266,
+                    44.61348
+                ],
+                [
+                    19.46689,
+                    44.61574
+                ],
+                [
+                    19.47676,
+                    44.61084
+                ],
+                [
+                    19.49285,
+                    44.60718
+                ],
+                [
+                    19.49138,
+                    44.60302
+                ],
+                [
+                    19.49399,
+                    44.60278
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": [
+            "missing_elevation"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/e7-6/",
+        "canonical_url": "https://pss.rs/terenipp/e7-6/",
+        "pss_id": 3719,
+        "updated_at": "2024-12-07T21:24:53Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:50:56Z",
+        "last_synced_at": "2026-11-08T12:50:56Z"
+    },
+    "search": "sremska mitrovica - cer e7-6 zapadna srbija zasavica borkovac pk zasavica (spec. rezervat prirode), manastir cokesina, planina cer (kosanin grad, trajanov grad) laka • sremska mitrovica je veliki grad na cijoj lokaciji u bogatoj proslosti se smenjuju naselja, od vremena neolita do danas. rimljani zauzimaju srem 31. godine. strateski znacaj grada koji je nazvan sirmijum je veliki. u njemu borave rimski carevi septimije sever, maksimilijan tracanin a zatim i carevi koji su ovde rodjeni, dacije trajan, lucije domicije aurelijan i marko aurelije prob koji je doneo vinovu lozu u ove krajeve. za vreme vladavine iz perioda tetrarhije u sirmijumu je upravljao car galerije. u to vreme se sirmijum podize i ukrasava. posle proglasenja milanskog edikta 313. godine kojim hriscanstvo dobija legitimitet u sirmijumu se formira episkopija. • u 5. i 6. veku sirmijum napadaju i konacno razaraju huni. grad dobija konacno ime dmitrovica u srednjem veku po imenu sveca zastitnika svetog dimitrija. • danas se u gradu nalaze brojni arheoloski lokaliteti i ostaci carskih palata. u muzeju srema nalazi se bogat lapidarijum. od novih objekata zanimljiva je stara pravoslavna crkva svetog stefana iz 16. veka, rimokatolicka crkva svetog dimitrija i zupni dvor iz 19. veka. • iz sremske mitrovice put e7 prelazi pesackim mostom sv. irineja preko reke save prema centralnoj srbiji. • prelaskom na desnu obalu save put e7 krece se kroz podrucje ravnice macve. ravnica je nastala na uscu reke drine u savu sa nanosenjem debelih naslaga recnog sljunka i formiranjem brojnih meandara starih tokova, bara i mrtvaja. • jedan od takvih fenomena je i bara zasavica koja predstavlja stari tok save a danas se „hrani” podzemnim dotokom iz voda reke drine. u bari je stvoren specifican ekosistem sa vrednim primercima bioloske raznovrsnosti. • danas je ovo podrucje zasticeno kao specijalni rezervat prirode na povrsini od 1825 hektara. od toga je 675 hektara u prvom stepenu zast",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:50:56Z"
+    }
+}

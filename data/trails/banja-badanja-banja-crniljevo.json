@@ -1,0 +1,123 @@
+{
+    "schema_version": 1,
+    "slug": "banja-badanja-banja-crniljevo",
+    "name": "Banja Badanja - Banja Crniljevo",
+    "code": "3-2-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 8109,
+        "category_id": 28,
+        "region_ids": [
+            3
+        ],
+        "mountain_ids": [
+            121
+        ]
+    },
+    "region": "Zapadna Srbija",
+    "mountain": "Vlašić",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 22.0,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": 360,
+        "official_text": "6 h",
+        "official_raw": "6:00"
+    },
+    "elevation": {
+        "official_gain_m": 350.0,
+        "official_loss_m": 300.0,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": "Banja Badanja, 170 mnv",
+    "end": "Gornje Crniljevo, spomen kompleks pilotu Milenku Pavloviću, 220 mnv",
+    "description": "Banja Badanja - D. Sipulja - Breza - Razbojište (465m) - Jankov vis (454m) - Gornje Crniljevo",
+    "landmarks": "• Banja Badanja i Gornje Crniljevo\n\n • Izvor i česma prirodno gazirane mineralne vode u Gornjem Crniljevu\n\n • Spomen kompleks pilotu Milenku Pavloviću",
+    "maintenance": "delimično uređena",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Privatni smeštaj",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Čivija PAK",
+        "url": "https://pss.rs/adresar_klubova/civija-pak/",
+        "contact": "Kralja Radoslava bb, 15000 Šabac\n+38162 22 39 89",
+        "clubs": [
+            {
+                "name": "Čivija PAK",
+                "url": "https://pss.rs/adresar_klubova/civija-pak/",
+                "contact": "Kralja Radoslava bb, 15000 Šabac\n+38162 22 39 89"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": false,
+        "status": "missing",
+        "source_url": null,
+        "fetched_at": null,
+        "checked_at": "2026-11-08T11:59:42Z",
+        "bytes": null,
+        "sha256": null,
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": null,
+        "tracks": null,
+        "segments": null,
+        "waypoints": null,
+        "error": null,
+        "download": {
+            "mode": "none",
+            "url": null
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_gpx"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/banja-badanja-banja-crniljevo/",
+        "canonical_url": "https://pss.rs/terenipp/banja-badanja-banja-crniljevo/",
+        "pss_id": 8109,
+        "updated_at": "2019-01-11T16:02:58Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:59:42Z",
+        "last_synced_at": "2026-11-08T11:59:42Z"
+    },
+    "search": "banja badanja - banja crniljevo 3-2-1 zapadna srbija vlasic banja badanja, 170 mnv gornje crniljevo, spomen kompleks pilotu milenku pavlovicu, 220 mnv civija pak • banja badanja i gornje crniljevo • izvor i cesma prirodno gazirane mineralne vode u gornjem crniljevu • spomen kompleks pilotu milenku pavlovicu laka banja badanja - d. sipulja - breza - razbojiste (465m) - jankov vis (454m) - gornje crniljevo",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:59:42Z"
+    }
+}

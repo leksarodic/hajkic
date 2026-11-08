@@ -1,0 +1,187 @@
+{
+    "schema_version": 1,
+    "slug": "izvor-reke-dubocice",
+    "name": "Izvor reke Dubočice",
+    "code": "4-49-4",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 11633,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            112
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Ježevac",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 8.5,
+        "calculated_km": 7.96
+    },
+    "duration": {
+        "official_minutes": 240,
+        "official_text": "4 h",
+        "official_raw": "4:00"
+    },
+    "elevation": {
+        "official_gain_m": 497.0,
+        "official_loss_m": 387.0,
+        "calculated_gain_m": 511.9,
+        "calculated_loss_m": 400.7,
+        "min_m": 143.4,
+        "max_m": 289.0
+    },
+    "start": "Manastir Gornjak, 177 m",
+    "end": "Izvor reke Dubočice, 286 m",
+    "description": "• Staza kreće ispred manastira Gornjak gde ima mesta za siguran parking. Dalje se ide uz tok reke Mlave. Na prvom kilometru se nalazi izvor vode i izletište Čvarinac. Posle kreće kraći uspon koji prati stazu ka Ježevcu i sa koje se skreće i vraća nazad ka reci Mlavi, koja se prati do mesta ulivanja reke Dubočice. Dalje se prati tok reke Dubočice do njenog izvora. Staza je atraktivna i na par mesta se gazi rečica Dubočica, voda obično nije velika. Većinom se ide kroz šumu. Kod samog izvora se može videti interesantan vodopad i izvor koji izlazi im male pećine u steni.\n\n • Prikazan je trek samo u jednom smeru, u povratku se možete vratiti istim putem ili sami istaživati put nazad po obodima Ceretara i Ježevca.\n\n • Od izvora se može seoskim putem preko padina Ježevca spustiti u selo Šetonje, udaljeno oko 5,5 km.",
+    "landmarks": "• Manastir Gornjak\n\n • Izvor i izletište Čvarinac\n\n • Veštački tuneli iznad manastira Gornjak\n\n • Izvor reke Dubočice\n\n • Vidikovci: 1\n\n • Na trasi izvori pitke vode: izvor Čvarinac i izvor reke Dubočice\n\n • Van trase smeštaj u Izviđačkom domu Ždrelo\n\n • Van trase smeštaj u Banji Ždrelo i privatni smeštaj u okolini",
+    "maintenance": "delimično uređena",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Gornjak PD",
+        "url": "https://pss.rs/adresar_klubova/gornjak-pd/",
+        "contact": "Prvomajska bb, 12300 Petrovac na Mlavi\n+38164 2345 518 ; +38163 696 682\nhttp://www.gornjak.org.rs",
+        "clubs": [
+            {
+                "name": "Gornjak PD",
+                "url": "https://pss.rs/adresar_klubova/gornjak-pd/",
+                "contact": "Prvomajska bb, 12300 Petrovac na Mlavi\n+38164 2345 518 ; +38163 696 682\nhttp://www.gornjak.org.rs"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 7,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2020/06/4-49-4-Izvor-reke-Dubocice.gpx",
+        "fetched_at": "2026-11-08T12:00:57Z",
+        "checked_at": "2026-11-08T12:00:57Z",
+        "bytes": 122140,
+        "sha256": "eba73830a4f8dfd352dfbe20ecbc5689c528f6eb9b9a0ca74a2570ffcfe7a8d9",
+        "etag": null,
+        "last_modified": "Tue, 09 Jun 2020 18:43:35 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 746,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 5,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2020/06/4-49-4-Izvor-reke-Dubocice.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/izvor-reke-dubocice.geojson",
+        "bbox": [
+            21.52153023518622,
+            44.24249061383307,
+            21.55502683483064,
+            44.26607678644359
+        ],
+        "center": [
+            21.538279,
+            44.254284
+        ],
+        "start_point": [
+            21.54449329711497,
+            44.26607678644359
+        ],
+        "end_point": [
+            21.521666860207915,
+            44.243122106418014
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.54449,
+                    44.26608
+                ],
+                [
+                    21.5365,
+                    44.25647
+                ],
+                [
+                    21.5534,
+                    44.25605
+                ],
+                [
+                    21.55489,
+                    44.25437
+                ],
+                [
+                    21.55113,
+                    44.2547
+                ],
+                [
+                    21.54683,
+                    44.25207
+                ],
+                [
+                    21.55243,
+                    44.25067
+                ],
+                [
+                    21.55151,
+                    44.24816
+                ],
+                [
+                    21.54162,
+                    44.24325
+                ],
+                [
+                    21.53294,
+                    44.2458
+                ],
+                [
+                    21.52865,
+                    44.24253
+                ],
+                [
+                    21.52167,
+                    44.24312
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/izvor-reke-dubocice/",
+        "canonical_url": "https://pss.rs/terenipp/izvor-reke-dubocice/",
+        "pss_id": 11633,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:00:57Z",
+        "last_synced_at": "2026-11-08T12:00:57Z"
+    },
+    "search": "izvor reke dubocice 4-49-4 istocna srbija jezevac manastir gornjak, 177 m izvor reke dubocice, 286 m gornjak pd • manastir gornjak • izvor i izletiste cvarinac • vestacki tuneli iznad manastira gornjak • izvor reke dubocice • vidikovci: 1 • na trasi izvori pitke vode: izvor cvarinac i izvor reke dubocice • van trase smestaj u izvidjackom domu zdrelo • van trase smestaj u banji zdrelo i privatni smestaj u okolini zahtevna • staza krece ispred manastira gornjak gde ima mesta za siguran parking. dalje se ide uz tok reke mlave. na prvom kilometru se nalazi izvor vode i izletiste cvarinac. posle krece kraci uspon koji prati stazu ka jezevcu i sa koje se skrece i vraca nazad ka reci mlavi, koja se prati do mesta ulivanja reke dubocice. dalje se prati tok reke dubocice do njenog izvora. staza je atraktivna i na par mesta se gazi recica dubocica, voda obicno nije velika. vecinom se ide kroz sumu. kod samog izvora se moze videti interesantan vodopad i izvor koji izlazi im male pecine u steni. • prikazan je trek samo u jednom smeru, u povratku se mozete vratiti istim putem ili sami istazivati put nazad po obodima ceretara i jezevca. • od izvora se moze seoskim putem preko padina jezevca spustiti u selo setonje, udaljeno oko 5,5 km.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:00:57Z"
+    }
+}

@@ -1,0 +1,223 @@
+{
+    "schema_version": 1,
+    "slug": "niska-banja-koritnik-rautovo-niska-banja",
+    "name": "Niška Banja - Koritnik - Rautovo - Niška Banja",
+    "code": "7-3-12",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 12419,
+        "category_id": 28,
+        "region_ids": [
+            7
+        ],
+        "mountain_ids": [
+            50
+        ]
+    },
+    "region": "Jugoistočna Srbija",
+    "mountain": "Suva planina",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 14.0,
+        "calculated_km": 14.05
+    },
+    "duration": {
+        "official_minutes": 270,
+        "official_text": "4 h 30 min",
+        "official_raw": "4:30"
+    },
+    "elevation": {
+        "official_gain_m": 651.0,
+        "official_loss_m": 652.0,
+        "calculated_gain_m": 656.4,
+        "calculated_loss_m": 658.0,
+        "min_m": 258.0,
+        "max_m": 867.0
+    },
+    "start": "Niška Banja - kod fontane, 258 m",
+    "end": "Niška Banja, 258 m",
+    "description": "Polazak na stazu je iz centra Niške Banje (258 m) stazom \"Zdravlja\" do sela Koritnik. U istoimenom selu postoji česma gde se može snabdeti vodom. Staza vodi dalje kroz bukovu šumu pored vidikovca Crni kamen (808 m), Presklana (867 m), Ločišta (839 m) do sela Rautovo, i dalje do Niške Banje asfaltnim putem.",
+    "landmarks": "• Niška Banja\n\n • Vidikovci: Koritnik, Crni kamen\n\n • Naselja: Koritnik i Rautovo\n\n • Na trasi ima izvora pitke vode: Niška Banja, Koritnik, Rautovo\n\n • Na trasi ima privatnog smeštaja",
+    "maintenance": "delimično uređena",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu je trasirao Vladislav Cenić.\n\n • Poslednji put staza je markirana 31.03.2020. godine.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Mosor PSK",
+        "url": "https://pss.rs/adresar_klubova/mosor-pak/",
+        "contact": "Tvrđava bb, 18000 Niš\n063 1023016, 063 406025, 064 665 41 58\nhttp://www.pakmosor.org/",
+        "clubs": [
+            {
+                "name": "Mosor PSK",
+                "url": "https://pss.rs/adresar_klubova/mosor-pak/",
+                "contact": "Tvrđava bb, 18000 Niš\n063 1023016, 063 406025, 064 665 41 58\nhttp://www.pakmosor.org/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 8,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2020/11/7-3-12-Niska-banja-Koritnjak-Rautovo.gpx",
+        "fetched_at": "2026-11-08T12:01:27Z",
+        "checked_at": "2026-11-08T12:01:27Z",
+        "bytes": 772837,
+        "sha256": "005258c8e15d24ed5ab0f8516e16f5701bf07af06ccd76c17a4e8ed993be8386",
+        "etag": null,
+        "last_modified": "Mon, 16 Nov 2020 17:24:31 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 5194,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 9,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2020/11/7-3-12-Niska-banja-Koritnjak-Rautovo.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/niska-banja-koritnik-rautovo-niska-banja.geojson",
+        "bbox": [
+            22.005524961277843,
+            43.260930022224784,
+            22.048774994909763,
+            43.292695004493
+        ],
+        "center": [
+            22.02715,
+            43.276813
+        ],
+        "start_point": [
+            22.00732296332717,
+            43.29197198152542
+        ],
+        "end_point": [
+            22.00734199024737,
+            43.29192202538252
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    22.00732,
+                    43.29197
+                ],
+                [
+                    22.01151,
+                    43.28988
+                ],
+                [
+                    22.00677,
+                    43.28932
+                ],
+                [
+                    22.00956,
+                    43.28826
+                ],
+                [
+                    22.00552,
+                    43.28637
+                ],
+                [
+                    22.01048,
+                    43.28235
+                ],
+                [
+                    22.01899,
+                    43.27868
+                ],
+                [
+                    22.02373,
+                    43.27314
+                ],
+                [
+                    22.02979,
+                    43.27237
+                ],
+                [
+                    22.03932,
+                    43.2624
+                ],
+                [
+                    22.04577,
+                    43.26123
+                ],
+                [
+                    22.04877,
+                    43.26433
+                ],
+                [
+                    22.0432,
+                    43.2707
+                ],
+                [
+                    22.04498,
+                    43.27141
+                ],
+                [
+                    22.04161,
+                    43.27561
+                ],
+                [
+                    22.04333,
+                    43.2802
+                ],
+                [
+                    22.04031,
+                    43.28017
+                ],
+                [
+                    22.03518,
+                    43.28465
+                ],
+                [
+                    22.03164,
+                    43.28224
+                ],
+                [
+                    22.02352,
+                    43.29226
+                ],
+                [
+                    22.00734,
+                    43.29192
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/niska-banja-koritnik-rautovo-niska-banja/",
+        "canonical_url": "https://pss.rs/terenipp/niska-banja-koritnik-rautovo-niska-banja/",
+        "pss_id": 12419,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:01:27Z",
+        "last_synced_at": "2026-11-08T12:01:27Z"
+    },
+    "search": "niska banja - koritnik - rautovo - niska banja 7-3-12 jugoistocna srbija suva planina niska banja - kod fontane, 258 m niska banja, 258 m mosor psk • niska banja • vidikovci: koritnik, crni kamen • naselja: koritnik i rautovo • na trasi ima izvora pitke vode: niska banja, koritnik, rautovo • na trasi ima privatnog smestaja zahtevna polazak na stazu je iz centra niske banje (258 m) stazom \"zdravlja\" do sela koritnik. u istoimenom selu postoji cesma gde se moze snabdeti vodom. staza vodi dalje kroz bukovu sumu pored vidikovca crni kamen (808 m), presklana (867 m), locista (839 m) do sela rautovo, i dalje do niske banje asfaltnim putem.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:01:27Z"
+    }
+}

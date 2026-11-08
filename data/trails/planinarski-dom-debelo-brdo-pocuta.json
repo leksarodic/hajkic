@@ -1,0 +1,223 @@
+{
+    "schema_version": 1,
+    "slug": "planinarski-dom-debelo-brdo-pocuta",
+    "name": "Planinarski dom \"Debelo brdo\"- Poćuta",
+    "code": "3-13-2",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 16415,
+        "category_id": 28,
+        "region_ids": [
+            3
+        ],
+        "mountain_ids": [
+            198
+        ]
+    },
+    "region": "Zapadna Srbija",
+    "mountain": "Jablanik",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 13.4,
+        "calculated_km": 13.38
+    },
+    "duration": {
+        "official_minutes": 260,
+        "official_text": "4 h 20 min",
+        "official_raw": "4:20"
+    },
+    "elevation": {
+        "official_gain_m": 250.0,
+        "official_loss_m": 823.0,
+        "calculated_gain_m": 306.1,
+        "calculated_loss_m": 874.3,
+        "min_m": 477.6,
+        "max_m": 1056.9
+    },
+    "start": "Planinarski dom \"Debelo brdo\", 1053 m",
+    "end": "Poćuta, 485 m",
+    "description": "• Početak staze je kod planinarskog doma na Debelom Brdu ( kapacitet 40 ležajeva), posle 100 m skreće se severo-istočno makadamskim putem bukovom šumom nizbrdo ka reci Jablanici. Usput se prolazi kroz borovu šumu gde je postavljeno hranilište za divlje životinje. Poslednjih 200 metara ka reci Jablanici je strmo. Staza prelazi preko reke i dalje se spušta prateći Jablanicu do Bebića Luke. Reka se prelazi na nekoliko mesta preko drvenih mostova. U zaseoku Arsići pored stare prodavnice na račvnju prati se put pored reke. U koritu reke Jablanice mogu se videti ostatci starih vodenica, veliki broj virova i kaskada koje planinska reka pravi u kamenu. Usput se mogu videti stara domaćinstva od kojih je jedno u Bebića Luci zaštićeno kao nepokretno kulturno dobro. Asfaltni putem severo-istočno pored skretanja za manastir Pustinja i skretanja za penjalište Grdoba staza vodi ka Poćuti.\n\n • Manastir Pustinja, najstarija svetinja eparhije Valjevske posvećena je Vavedenju Presvete Bogorodice, pretpostavlja se da je podignuta krajem XIII veka za vreme vladavine kralja Dragutina ovim prostorima (1282-1316) kao rudarska crkva, na temeljima starije bogomolje verovatno iz doba pre Nemanjića. U letopisu manastira, a takođe i među narodom ovoga kraja postoji narodno predanje koje govori o nastanku i imenu Pustinje: Tri rođena brata dogovore se da naprave tri crkve. Još se zareknu da ne dolaze crkvama dok ne budu gotove. Zavet bi ispunjen. Kad su crkve bile gotove, braća se sastanu i zajedno pohode crkvu u Jovanji, zatim crkvu Gračanicu a na kraju dođoše kod najmlađeg da vide njegovu crkvu. Dva starija brata se zadive lepoti crkve najmlađeg brata i reknu mu: Zašto i nama ne kaza da i mi sazidamo ovako lepu crkvu? Dao Bog da ti pusta ostala! Zbog te kletve crkva dobi ime Pustinja. Svakako izvesnije tumačenje porekla imena Pustinja je po tome što je ovaj kraj u vreme nastanka crkve bio pust, nenaseljen.\n\n • Grdoba je najmlađe penjalište u Srbiji koje je doživelo pravu popularnost poslednjih desetak godina. Zbog blizine Beogradu i mogućnosti penjanja tokom cele godine samo penjalište je veoma posećeno. Penjalište poseduje 5 smerova za penjanje različite težine.\n\n • U mestu Poćuta nalazi se škola, pošta, prodavnica i kafana. Na putu za Valjevo mogu se posetiti neki od restorana sa domaćom kuhinjom.\n\n • Zbog raznovrsnosti i atraktivnih lokacija staza je veoma zanimljiva za posete planinara.",
+    "landmarks": "• Bebića Luka\n\n • Manastir Pustinja\n\n • Penjalište Grdoba\n\n • Naselja: Debelo Brdo, Vujinovača (Arsići, Bebići), Poćuta\n\n • Vidikovac: stena Grdoba",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinarski dom \"Debelo brdo\"",
+    "notes": "• Stazu je trasirao PSD \"Magleš\" januara 2022.\n\n • Poslednji put je markirana maja 2022.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Magleš PSD",
+        "url": "https://pss.rs/adresar_klubova/magles-psd/",
+        "contact": "Sindjelićeva 14, 14000 Valjevo\n+38114 236 377 ; 064/6461103\nhttps://www.magles.org.rs/",
+        "clubs": [
+            {
+                "name": "Magleš PSD",
+                "url": "https://pss.rs/adresar_klubova/magles-psd/",
+                "contact": "Sindjelićeva 14, 14000 Valjevo\n+38114 236 377 ; 064/6461103\nhttps://www.magles.org.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 15,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2022/04/3-13-2-Pl-dom-Debelo-brdo-Pocuta-1.gpx",
+        "fetched_at": "2026-11-08T12:02:26Z",
+        "checked_at": "2026-11-08T12:02:26Z",
+        "bytes": 97499,
+        "sha256": "fbe7b366650a3807764530dfc154b4832eb238a93496b5cf8a29f935f1cf15cd",
+        "etag": null,
+        "last_modified": "Thu, 28 Apr 2022 12:35:21 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 579,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 8,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2022/04/3-13-2-Pl-dom-Debelo-brdo-Pocuta-1.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/planinarski-dom-debelo-brdo-pocuta.geojson",
+        "bbox": [
+            19.67074197717011,
+            44.15686184540391,
+            19.72722401842475,
+            44.20921596698463
+        ],
+        "center": [
+            19.698983,
+            44.183039
+        ],
+        "start_point": [
+            19.686560053378344,
+            44.157104417681694
+        ],
+        "end_point": [
+            19.72722401842475,
+            44.20831197872758
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    19.68656,
+                    44.1571
+                ],
+                [
+                    19.68355,
+                    44.15869
+                ],
+                [
+                    19.68576,
+                    44.1599
+                ],
+                [
+                    19.67902,
+                    44.16151
+                ],
+                [
+                    19.68218,
+                    44.16396
+                ],
+                [
+                    19.67317,
+                    44.16393
+                ],
+                [
+                    19.67505,
+                    44.16725
+                ],
+                [
+                    19.67074,
+                    44.1692
+                ],
+                [
+                    19.67613,
+                    44.16938
+                ],
+                [
+                    19.68028,
+                    44.16727
+                ],
+                [
+                    19.68584,
+                    44.16948
+                ],
+                [
+                    19.6898,
+                    44.16872
+                ],
+                [
+                    19.69755,
+                    44.17483
+                ],
+                [
+                    19.70231,
+                    44.17566
+                ],
+                [
+                    19.70386,
+                    44.18171
+                ],
+                [
+                    19.69584,
+                    44.18898
+                ],
+                [
+                    19.69496,
+                    44.1934
+                ],
+                [
+                    19.7092,
+                    44.20623
+                ],
+                [
+                    19.71411,
+                    44.20623
+                ],
+                [
+                    19.71941,
+                    44.20921
+                ],
+                [
+                    19.72722,
+                    44.20831
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/planinarski-dom-debelo-brdo-pocuta/",
+        "canonical_url": "https://pss.rs/terenipp/planinarski-dom-debelo-brdo-pocuta/",
+        "pss_id": 16415,
+        "updated_at": "2022-04-28T12:52:58Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:02:26Z",
+        "last_synced_at": "2026-11-08T12:02:26Z"
+    },
+    "search": "planinarski dom \"debelo brdo\"- pocuta 3-13-2 zapadna srbija jablanik planinarski dom \"debelo brdo\", 1053 m pocuta, 485 m magles psd • bebica luka • manastir pustinja • penjaliste grdoba • naselja: debelo brdo, vujinovaca (arsici, bebici), pocuta • vidikovac: stena grdoba laka • pocetak staze je kod planinarskog doma na debelom brdu ( kapacitet 40 lezajeva), posle 100 m skrece se severo-istocno makadamskim putem bukovom sumom nizbrdo ka reci jablanici. usput se prolazi kroz borovu sumu gde je postavljeno hraniliste za divlje zivotinje. poslednjih 200 metara ka reci jablanici je strmo. staza prelazi preko reke i dalje se spusta prateci jablanicu do bebica luke. reka se prelazi na nekoliko mesta preko drvenih mostova. u zaseoku arsici pored stare prodavnice na racvnju prati se put pored reke. u koritu reke jablanice mogu se videti ostatci starih vodenica, veliki broj virova i kaskada koje planinska reka pravi u kamenu. usput se mogu videti stara domacinstva od kojih je jedno u bebica luci zasticeno kao nepokretno kulturno dobro. asfaltni putem severo-istocno pored skretanja za manastir pustinja i skretanja za penjaliste grdoba staza vodi ka pocuti. • manastir pustinja, najstarija svetinja eparhije valjevske posvecena je vavedenju presvete bogorodice, pretpostavlja se da je podignuta krajem xiii veka za vreme vladavine kralja dragutina ovim prostorima (1282-1316) kao rudarska crkva, na temeljima starije bogomolje verovatno iz doba pre nemanjica. u letopisu manastira, a takodje i medju narodom ovoga kraja postoji narodno predanje koje govori o nastanku i imenu pustinje: tri rodjena brata dogovore se da naprave tri crkve. jos se zareknu da ne dolaze crkvama dok ne budu gotove. zavet bi ispunjen. kad su crkve bile gotove, braca se sastanu i zajedno pohode crkvu u jovanji, zatim crkvu gracanicu a na kraju dodjose kod najmladjeg da vide njegovu crkvu. dva starija brata se zadive lepoti crkve najmladjeg brata i reknu mu: zasto i nama ne kaza da i mi sazidamo ovako lepu crkvu? dao bog da ti pusta ostala! zbog te kletve crkva dobi ime pustinja. svakako izve",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:02:26Z"
+    }
+}

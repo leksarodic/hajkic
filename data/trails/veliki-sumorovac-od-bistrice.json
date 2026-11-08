@@ -1,0 +1,175 @@
+{
+    "schema_version": 1,
+    "slug": "veliki-sumorovac-od-bistrice",
+    "name": "Veliki Sumorovac od Bistrice",
+    "code": "4-4-6",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 11599,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            54
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Homoljske planine",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 12.5,
+        "calculated_km": 5.97
+    },
+    "duration": {
+        "official_minutes": 360,
+        "official_text": "6 h",
+        "official_raw": "6:00"
+    },
+    "elevation": {
+        "official_gain_m": 627.0,
+        "official_loss_m": 627.0,
+        "calculated_gain_m": 628.3,
+        "calculated_loss_m": 19.1,
+        "min_m": 293.5,
+        "max_m": 909.1
+    },
+    "start": "Bistrička crkva, 285 m",
+    "end": "Bistrička crkva, 285 m",
+    "description": "Staza kreće od Bistričke crkve gde se ide putem sa jačim usponom. Kasnije staza nastavlja seoskim i šumskim putevima. Ponovo jači uspon je pred sam vrh Veliki Sumorovac (912 m). Staza je markirana samo u blizini vrha, većim delom u početku nema oznaka. Uz put se mogu videti mnogi stari salaši.",
+    "landmarks": "• Bistrička crkva\n\n • Vodenice i valjavice\n\n • Vodopad na Bistričkoj reci\n\n • Selo Bistrica\n\n • Vidikovci: 1\n\n • Van trase smeštaj u Banji Ždrelo i privatni smeštaj u okolini",
+    "maintenance": "delimično uređena",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Gornjak PD",
+        "url": "https://pss.rs/adresar_klubova/gornjak-pd/",
+        "contact": "Prvomajska bb, 12300 Petrovac na Mlavi\n+38164 2345 518 ; +38163 696 682\nhttp://www.gornjak.org.rs",
+        "clubs": [
+            {
+                "name": "Gornjak PD",
+                "url": "https://pss.rs/adresar_klubova/gornjak-pd/",
+                "contact": "Prvomajska bb, 12300 Petrovac na Mlavi\n+38164 2345 518 ; +38163 696 682\nhttp://www.gornjak.org.rs"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 5,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2020/06/4-4-6-Bistrica-Sumorovac.gpx",
+        "fetched_at": "2026-11-08T12:00:50Z",
+        "checked_at": "2026-11-08T12:00:50Z",
+        "bytes": 50001,
+        "sha256": "5c9f2cf9161302cc6cde9a976bb8f683993c7f5db9d85e7cec4cb467266a6943",
+        "etag": null,
+        "last_modified": "Tue, 09 Jun 2020 17:06:28 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 290,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 5,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2020/06/4-4-6-Bistrica-Sumorovac.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/veliki-sumorovac-od-bistrice.geojson",
+        "bbox": [
+            21.519681019708514,
+            44.31696902029216,
+            21.56661699526012,
+            44.334077993407845
+        ],
+        "center": [
+            21.543149,
+            44.325524
+        ],
+        "start_point": [
+            21.519681019708514,
+            44.33001997880638
+        ],
+        "end_point": [
+            21.56661699526012,
+            44.31696902029216
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.51968,
+                    44.33002
+                ],
+                [
+                    21.52118,
+                    44.33408
+                ],
+                [
+                    21.52637,
+                    44.33376
+                ],
+                [
+                    21.53437,
+                    44.32797
+                ],
+                [
+                    21.54384,
+                    44.33138
+                ],
+                [
+                    21.55311,
+                    44.33109
+                ],
+                [
+                    21.55744,
+                    44.32822
+                ],
+                [
+                    21.56044,
+                    44.32109
+                ],
+                [
+                    21.56662,
+                    44.31697
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/veliki-sumorovac-od-bistrice/",
+        "canonical_url": "https://pss.rs/terenipp/veliki-sumorovac-od-bistrice/",
+        "pss_id": 11599,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:00:50Z",
+        "last_synced_at": "2026-11-08T12:00:50Z"
+    },
+    "search": "veliki sumorovac od bistrice 4-4-6 istocna srbija homoljske planine bistricka crkva, 285 m bistricka crkva, 285 m gornjak pd • bistricka crkva • vodenice i valjavice • vodopad na bistrickoj reci • selo bistrica • vidikovci: 1 • van trase smestaj u banji zdrelo i privatni smestaj u okolini zahtevna staza krece od bistricke crkve gde se ide putem sa jacim usponom. kasnije staza nastavlja seoskim i sumskim putevima. ponovo jaci uspon je pred sam vrh veliki sumorovac (912 m). staza je markirana samo u blizini vrha, vecim delom u pocetku nema oznaka. uz put se mogu videti mnogi stari salasi.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:00:50Z"
+    }
+}

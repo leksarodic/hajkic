@@ -1,0 +1,163 @@
+{
+    "schema_version": 1,
+    "slug": "crni-kamen",
+    "name": "\"Crni Kamen\"",
+    "code": "7-1-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 15674,
+        "category_id": 28,
+        "region_ids": [
+            7
+        ],
+        "mountain_ids": [
+            368
+        ]
+    },
+    "region": "Jugoistočna Srbija",
+    "mountain": "Babička gora",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 6.3,
+        "calculated_km": 6.19
+    },
+    "duration": {
+        "official_minutes": 135,
+        "official_text": "2 h 15 min",
+        "official_raw": "2:15"
+    },
+    "elevation": {
+        "official_gain_m": 529.0,
+        "official_loss_m": 529.0,
+        "calculated_gain_m": 587.2,
+        "calculated_loss_m": 47.0,
+        "min_m": 517.2,
+        "max_m": 1061.2
+    },
+    "start": "Selo Jarsenovo, 530 m",
+    "end": "Vrh Kriva buka, 1059 m",
+    "description": "• Selo Jarsenovo - Crni Kamen - Ovčarevo - 1. šumska kuća - izvor - vrh Kriva buka\n\n • Sa stazom br.17 \"Jarsenovo - G. Kupinovica - Kriva buka\" pravi kružnu stazu od 19,5 km.",
+    "landmarks": "нема",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu je trasirao PSK \"Kukavica\" 2021.\n\n • Poslednji put staza je markirana 2021.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Kukavica PSK",
+        "url": "https://pss.rs/adresar_klubova/kukavica-psk/",
+        "contact": "Deligradska 5, 16000 Leskovac\n+381652824655",
+        "clubs": [
+            {
+                "name": "Kukavica PSK",
+                "url": "https://pss.rs/adresar_klubova/kukavica-psk/",
+                "contact": "Deligradska 5, 16000 Leskovac\n+381652824655"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 10,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2022/02/7-1-1-Staza-br.16-Crni-Kamen.gpx",
+        "fetched_at": "2026-11-08T12:02:19Z",
+        "checked_at": "2026-11-08T12:02:19Z",
+        "bytes": 173507,
+        "sha256": "d8a2dc1457991622d4f03b9987cf7fa7ecd79ae34d9f26248e3337b02eb36844",
+        "etag": null,
+        "last_modified": "Fri, 04 Feb 2022 11:20:53 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 1063,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 3,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2022/02/7-1-1-Staza-br.16-Crni-Kamen.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/crni-kamen.geojson",
+        "bbox": [
+            22.06123100593686,
+            43.08373901993036,
+            22.085300981998444,
+            43.12621599063277
+        ],
+        "center": [
+            22.073266,
+            43.104978
+        ],
+        "start_point": [
+            22.084117038175464,
+            43.08373901993036
+        ],
+        "end_point": [
+            22.061756970360875,
+            43.12621599063277
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    22.08412,
+                    43.08374
+                ],
+                [
+                    22.08178,
+                    43.08758
+                ],
+                [
+                    22.08527,
+                    43.09006
+                ],
+                [
+                    22.08507,
+                    43.105
+                ],
+                [
+                    22.07667,
+                    43.10897
+                ],
+                [
+                    22.06176,
+                    43.12622
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/crni-kamen/",
+        "canonical_url": "https://pss.rs/terenipp/crni-kamen/",
+        "pss_id": 15674,
+        "updated_at": "2022-10-12T21:22:50Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:02:19Z",
+        "last_synced_at": "2026-11-08T12:02:19Z"
+    },
+    "search": "\"crni kamen\" 7-1-1 jugoistocna srbija babicka gora selo jarsenovo, 530 m vrh kriva buka, 1059 m kukavica psk нема zahtevna • selo jarsenovo - crni kamen - ovcarevo - 1. sumska kuca - izvor - vrh kriva buka • sa stazom br.17 \"jarsenovo - g. kupinovica - kriva buka\" pravi kruznu stazu od 19,5 km.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:02:19Z"
+    }
+}

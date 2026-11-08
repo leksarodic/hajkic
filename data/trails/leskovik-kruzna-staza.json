@@ -1,0 +1,223 @@
+{
+    "schema_version": 1,
+    "slug": "leskovik-kruzna-staza",
+    "name": "Leskovik - kružna staza",
+    "code": "4-33-2",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 3941,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            74
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Ozren",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 14.0,
+        "calculated_km": 13.92
+    },
+    "duration": {
+        "official_minutes": 420,
+        "official_text": "7 h",
+        "official_raw": "7:00"
+    },
+    "elevation": {
+        "official_gain_m": 780.0,
+        "official_loss_m": 780.0,
+        "calculated_gain_m": 950.1,
+        "calculated_loss_m": 950.3,
+        "min_m": 393.4,
+        "max_m": 1169.0
+    },
+    "start": "Lipovac (ustanova za odmor i rekreaciju dece) - 395 mnv",
+    "end": "Lipovac (ustanova za odmor i rekreaciju dece) - 395 mnv",
+    "description": "Start je u selu Lipovac, a nastavak staze ide prema manastiru Sveti Stevan odakle se staza penje ka vrhu Leskovik (1174 mnv). Nastavak staze ide vencem Leskovika i spušta do mesta Prised, a zatim ide podnožjem planine pored crkve Svetog Jovana ponovo do manastira Svetog Stevana i Lipovca",
+    "landmarks": "• Manastir Svetog Stevena, crkva Svetog Jovana i stari grad Lipovac, sa nekoliko prelepih vidikovaca (Krst, Široka livada, vrh Leskovik, Stene, Prisad)\n\n • Pitka voda kod manastira Sv.Stevan i crkva Sv.Jovan i u selu Prisad",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Brđanka PSK",
+        "url": "https://pss.rs/adresar_klubova/psd-brdanka/",
+        "contact": "Dušana Trivunca 54, 18220 Aleksinac\n060 680 29 75\nhttp://www.planinari-brdjanka.org",
+        "clubs": [
+            {
+                "name": "Brđanka PSK",
+                "url": "https://pss.rs/adresar_klubova/psd-brdanka/",
+                "contact": "Dušana Trivunca 54, 18220 Aleksinac\n060 680 29 75\nhttp://www.planinari-brdjanka.org"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/06/4-33-2-Leskovik-kruzna-staza.gpx",
+        "fetched_at": "2026-11-08T11:56:16Z",
+        "checked_at": "2026-11-08T11:56:16Z",
+        "bytes": 200057,
+        "sha256": "3b8a8776bd076bbbc67fe22e2a32a1cc0c8409093cb0ac3cd76c250cc165f6d9",
+        "etag": null,
+        "last_modified": "Wed, 19 Feb 2020 13:05:35 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 1227,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 4,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/06/4-33-2-Leskovik-kruzna-staza.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/leskovik-kruzna-staza.geojson",
+        "bbox": [
+            21.81829696521163,
+            43.56083896011114,
+            21.84238202869892,
+            43.60584198497236
+        ],
+        "center": [
+            21.830339,
+            43.58334
+        ],
+        "start_point": [
+            21.83417103253305,
+            43.56084197759628
+        ],
+        "end_point": [
+            21.834355015307665,
+            43.56083896011114
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    21.83417,
+                    43.56084
+                ],
+                [
+                    21.83457,
+                    43.56358
+                ],
+                [
+                    21.83659,
+                    43.56428
+                ],
+                [
+                    21.83721,
+                    43.56269
+                ],
+                [
+                    21.84042,
+                    43.56549
+                ],
+                [
+                    21.84232,
+                    43.57031
+                ],
+                [
+                    21.84035,
+                    43.57555
+                ],
+                [
+                    21.84178,
+                    43.58313
+                ],
+                [
+                    21.83629,
+                    43.58586
+                ],
+                [
+                    21.82522,
+                    43.6027
+                ],
+                [
+                    21.82062,
+                    43.60584
+                ],
+                [
+                    21.81866,
+                    43.60165
+                ],
+                [
+                    21.82109,
+                    43.59689
+                ],
+                [
+                    21.8183,
+                    43.59396
+                ],
+                [
+                    21.8225,
+                    43.59121
+                ],
+                [
+                    21.82272,
+                    43.58009
+                ],
+                [
+                    21.82993,
+                    43.57883
+                ],
+                [
+                    21.83359,
+                    43.57506
+                ],
+                [
+                    21.83162,
+                    43.56826
+                ],
+                [
+                    21.8359,
+                    43.56687
+                ],
+                [
+                    21.83436,
+                    43.56084
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/leskovik-kruzna-staza/",
+        "canonical_url": "https://pss.rs/terenipp/leskovik-kruzna-staza/",
+        "pss_id": 3941,
+        "updated_at": "2020-02-19T13:09:42Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:56:16Z",
+        "last_synced_at": "2026-11-08T11:56:16Z"
+    },
+    "search": "leskovik - kruzna staza 4-33-2 istocna srbija ozren lipovac (ustanova za odmor i rekreaciju dece) - 395 mnv lipovac (ustanova za odmor i rekreaciju dece) - 395 mnv brdjanka psk • manastir svetog stevena, crkva svetog jovana i stari grad lipovac, sa nekoliko prelepih vidikovaca (krst, siroka livada, vrh leskovik, stene, prisad) • pitka voda kod manastira sv.stevan i crkva sv.jovan i u selu prisad zahtevna start je u selu lipovac, a nastavak staze ide prema manastiru sveti stevan odakle se staza penje ka vrhu leskovik (1174 mnv). nastavak staze ide vencem leskovika i spusta do mesta prised, a zatim ide podnozjem planine pored crkve svetog jovana ponovo do manastira svetog stevana i lipovca",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:56:16Z"
+    }
+}

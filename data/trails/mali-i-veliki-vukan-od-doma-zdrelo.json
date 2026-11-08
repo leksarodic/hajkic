@@ -1,0 +1,209 @@
+{
+    "schema_version": 1,
+    "slug": "mali-i-veliki-vukan-od-doma-zdrelo",
+    "name": "Mali i Veliki Vukan od doma Ždrelo",
+    "code": "4-48-2",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 5642,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            111
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Vukan",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 11.0,
+        "calculated_km": 10.33
+    },
+    "duration": {
+        "official_minutes": 300,
+        "official_text": "5 h",
+        "official_raw": "5:00"
+    },
+    "elevation": {
+        "official_gain_m": 710.0,
+        "official_loss_m": 710.0,
+        "calculated_gain_m": 720.2,
+        "calculated_loss_m": 733.6,
+        "min_m": 204.4,
+        "max_m": 832.2
+    },
+    "start": "Dom Ždrelo, 215m",
+    "end": "Dom Ždrelo, 215m",
+    "description": "Od doma livadom, kroz borovu šumu, šumskim putem do grebena, lovačkom stazom do vrha Veliki Vukan (825m), sa vrha spust kamenjarom do sedla, uspon kamenjarom do vidikovca ispod vrha Mali Vukan (752m). Povratak istom stazom do sedla, spust šumom do manastira Sv. Trojice. Putem do potoka, pašnjacima do doma.",
+    "landmarks": "• Manastir Sv. Trojice\n\n • Vidikovci na vrhovima Velikog i Malog Vukana",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Stazu je trasirao PK Vukan 2000. godine, a poslednji put je markirana 2012. godine.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Vukan PK",
+        "url": "https://pss.rs/adresar_klubova/vukan-pk/",
+        "contact": "Voje Dulića 41 12000 Požerevac\n+38164 280 6730; +38163 8826271\nhttp://www.pkvukan.rs",
+        "clubs": [
+            {
+                "name": "Vukan PK",
+                "url": "https://pss.rs/adresar_klubova/vukan-pk/",
+                "contact": "Voje Dulića 41 12000 Požerevac\n+38164 280 6730; +38163 8826271\nhttp://www.pkvukan.rs"
+            }
+        ]
+    },
+    "legend": [
+        "RAS - raskrsnica planinarskih puteva"
+    ],
+    "photos_count": 12,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/12/4-48-2-Mali-i-Veliki-Vukan.gpx",
+        "fetched_at": "2026-11-08T11:59:13Z",
+        "checked_at": "2026-11-08T11:59:13Z",
+        "bytes": 221969,
+        "sha256": "0149fca0344538f51ea7d524b1594b51f3bd7c612e5dfbfb5dad28dc1f9f2dd2",
+        "etag": null,
+        "last_modified": "Mon, 31 Oct 2022 01:21:58 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 1353,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 7,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/12/4-48-2-Mali-i-Veliki-Vukan.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/mali-i-veliki-vukan-od-doma-zdrelo.geojson",
+        "bbox": [
+            21.503228014335036,
+            44.28775196895003,
+            21.538541978225112,
+            44.306037006899714
+        ],
+        "center": [
+            21.520885,
+            44.296894
+        ],
+        "start_point": [
+            21.503746015951037,
+            44.30601102299988
+        ],
+        "end_point": [
+            21.503228014335036,
+            44.306037006899714
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.50375,
+                    44.30601
+                ],
+                [
+                    21.5072,
+                    44.30272
+                ],
+                [
+                    21.51459,
+                    44.30442
+                ],
+                [
+                    21.51584,
+                    44.30255
+                ],
+                [
+                    21.52097,
+                    44.30325
+                ],
+                [
+                    21.52129,
+                    44.30159
+                ],
+                [
+                    21.53321,
+                    44.30452
+                ],
+                [
+                    21.53853,
+                    44.3
+                ],
+                [
+                    21.53539,
+                    44.29533
+                ],
+                [
+                    21.53737,
+                    44.28776
+                ],
+                [
+                    21.53748,
+                    44.29026
+                ],
+                [
+                    21.53001,
+                    44.29303
+                ],
+                [
+                    21.52511,
+                    44.29201
+                ],
+                [
+                    21.51843,
+                    44.29437
+                ],
+                [
+                    21.51013,
+                    44.2918
+                ],
+                [
+                    21.50847,
+                    44.30046
+                ],
+                [
+                    21.50323,
+                    44.30604
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/mali-i-veliki-vukan-od-doma-zdrelo/",
+        "canonical_url": "https://pss.rs/terenipp/mali-i-veliki-vukan-od-doma-zdrelo/",
+        "pss_id": 5642,
+        "updated_at": "2022-10-31T01:24:51Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:59:14Z",
+        "last_synced_at": "2026-11-08T11:59:14Z"
+    },
+    "search": "mali i veliki vukan od doma zdrelo 4-48-2 istocna srbija vukan dom zdrelo, 215m dom zdrelo, 215m vukan pk • manastir sv. trojice • vidikovci na vrhovima velikog i malog vukana zahtevna od doma livadom, kroz borovu sumu, sumskim putem do grebena, lovackom stazom do vrha veliki vukan (825m), sa vrha spust kamenjarom do sedla, uspon kamenjarom do vidikovca ispod vrha mali vukan (752m). povratak istom stazom do sedla, spust sumom do manastira sv. trojice. putem do potoka, pasnjacima do doma.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:59:14Z"
+    }
+}

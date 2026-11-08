@@ -1,0 +1,239 @@
+{
+    "schema_version": 1,
+    "slug": "tetrebovac",
+    "name": "Staza br. 11: Tetrebovac - Štekovci",
+    "code": "5-12-3",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 11545,
+        "category_id": 28,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            122
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Zlatibor",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 14.2,
+        "calculated_km": 13.55
+    },
+    "duration": {
+        "official_minutes": 420,
+        "official_text": "7 h",
+        "official_raw": "7:00"
+    },
+    "elevation": {
+        "official_gain_m": 617.0,
+        "official_loss_m": 617.0,
+        "calculated_gain_m": 503.5,
+        "calculated_loss_m": 505.2,
+        "min_m": 838.0,
+        "max_m": 1138.3
+    },
+    "start": "Na magistrali Zlatibor - Nova Varoš - ulaz u opštinu Nova Varoš, 1043 m",
+    "end": "Na magistrali Zlatibor - Nova Varoš - ulaz u opštinu Nova Varoš, 1043 m",
+    "description": "Staza počinje na granici opština Čajetina i Nova Varoš, pored magistralnog puta. Staza kreće u pravcu jugozapada kroz zaseok Šuljagići do vidikovca iznad kanjona reke Uvac zvanog Klikovi. Odatle nastavlja u pravcu severa obodom kanjona Uvca preko vidikovca Karaula do vidikovca Ravni, a odatle u pravcu severoistoka preko vrha Tetrebovac (1136 m) vraća na početnu tačku. Na sedmom kilometru postoji izvor pijaće vode. Svojom trasom staza prolazi kroz dve trećine kanjona reke Uvac koji se nalazi u kategoriji 1 Parka prirode Zlatibor. \n\nNa vidikovcima je POTREBNA OPREZNOST.",
+    "landmarks": "• Značajni lokalitet: Park prirode Zlatibor\n\n • Vidikovci: Crni Omar, Klikovi, Karaula, Ćoska ploča, Ravni, Tetrebovac\n\n • Naselja: Šuljagići",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinski dom \"Tornik\"",
+    "notes": "• Stazu je trasirao Veliša Šuljagić, maja 2019. godine\n\n • Poslednji put staza je markirana avgusta i septembra 2019. godine",
+    "map_reference": null,
+    "map_sheet": "1:50000 Titovo Užice 3 (528-3)",
+    "club": {
+        "name": "Tornik PK",
+        "url": "https://pss.rs/adresar_klubova/tornik-pk/",
+        "contact": "Zlatiborska 28\n064 156 55 78",
+        "clubs": [
+            {
+                "name": "Tornik PK",
+                "url": "https://pss.rs/adresar_klubova/tornik-pk/",
+                "contact": "Zlatiborska 28\n064 156 55 78"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 7,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2020/06/5-12-3-Tetrebovac.gpx",
+        "fetched_at": "2026-11-08T12:00:44Z",
+        "checked_at": "2026-11-08T12:00:44Z",
+        "bytes": 26598,
+        "sha256": "ab757aed4c54e5d33a5166c98fadeadc9eab0e0a87aca9ec7f4cf73b56ca051f",
+        "etag": null,
+        "last_modified": "Tue, 02 Jun 2020 16:37:51 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 192,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 8,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2020/06/5-12-3-Tetrebovac.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/tetrebovac.geojson",
+        "bbox": [
+            19.69179597683251,
+            43.57978801243007,
+            19.727534987032413,
+            43.60737604089081
+        ],
+        "center": [
+            19.709665,
+            43.593582
+        ],
+        "start_point": [
+            19.727534987032413,
+            43.60737604089081
+        ],
+        "end_point": [
+            19.72750397399068,
+            43.60733396373689
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    19.72753,
+                    43.60738
+                ],
+                [
+                    19.72618,
+                    43.60529
+                ],
+                [
+                    19.72254,
+                    43.60615
+                ],
+                [
+                    19.71752,
+                    43.60288
+                ],
+                [
+                    19.71491,
+                    43.59853
+                ],
+                [
+                    19.7189,
+                    43.59488
+                ],
+                [
+                    19.71456,
+                    43.59226
+                ],
+                [
+                    19.71307,
+                    43.58786
+                ],
+                [
+                    19.69733,
+                    43.5798
+                ],
+                [
+                    19.70148,
+                    43.58294
+                ],
+                [
+                    19.69885,
+                    43.58497
+                ],
+                [
+                    19.70554,
+                    43.58668
+                ],
+                [
+                    19.69673,
+                    43.58998
+                ],
+                [
+                    19.69958,
+                    43.59287
+                ],
+                [
+                    19.69749,
+                    43.59584
+                ],
+                [
+                    19.69339,
+                    43.59387
+                ],
+                [
+                    19.69183,
+                    43.59597
+                ],
+                [
+                    19.7015,
+                    43.59817
+                ],
+                [
+                    19.7046,
+                    43.60276
+                ],
+                [
+                    19.70872,
+                    43.60164
+                ],
+                [
+                    19.71253,
+                    43.60446
+                ],
+                [
+                    19.71508,
+                    43.60318
+                ],
+                [
+                    19.72192,
+                    43.6061
+                ],
+                [
+                    19.7259,
+                    43.60523
+                ],
+                [
+                    19.7275,
+                    43.60733
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/tetrebovac/",
+        "canonical_url": "https://pss.rs/terenipp/tetrebovac/",
+        "pss_id": 11545,
+        "updated_at": "2023-03-27T12:32:43Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:00:45Z",
+        "last_synced_at": "2026-11-08T12:00:45Z"
+    },
+    "search": "staza br. 11: tetrebovac - stekovci 5-12-3 jugozapadna srbija zlatibor na magistrali zlatibor - nova varos - ulaz u opstinu nova varos, 1043 m na magistrali zlatibor - nova varos - ulaz u opstinu nova varos, 1043 m tornik pk • znacajni lokalitet: park prirode zlatibor • vidikovci: crni omar, klikovi, karaula, coska ploca, ravni, tetrebovac • naselja: suljagici zahtevna staza pocinje na granici opstina cajetina i nova varos, pored magistralnog puta. staza krece u pravcu jugozapada kroz zaseok suljagici do vidikovca iznad kanjona reke uvac zvanog klikovi. odatle nastavlja u pravcu severa obodom kanjona uvca preko vidikovca karaula do vidikovca ravni, a odatle u pravcu severoistoka preko vrha tetrebovac (1136 m) vraca na pocetnu tacku. na sedmom kilometru postoji izvor pijace vode. svojom trasom staza prolazi kroz dve trecine kanjona reke uvac koji se nalazi u kategoriji 1 parka prirode zlatibor. na vidikovcima je potrebna opreznost.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:00:45Z"
+    }
+}

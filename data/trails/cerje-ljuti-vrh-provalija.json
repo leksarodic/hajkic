@@ -1,0 +1,187 @@
+{
+    "schema_version": 1,
+    "slug": "cerje-ljuti-vrh-provalija",
+    "name": "Cerje - Ljuti vrh - Provalija",
+    "code": "4-47-2",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 4490,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            96
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Kalafat",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 9.19,
+        "calculated_km": 9.4
+    },
+    "duration": {
+        "official_minutes": 300,
+        "official_text": "5 h",
+        "official_raw": "5:00"
+    },
+    "elevation": {
+        "official_gain_m": 346.0,
+        "official_loss_m": 346.0,
+        "calculated_gain_m": 397.6,
+        "calculated_loss_m": 399.4,
+        "min_m": 472.6,
+        "max_m": 784.9
+    },
+    "start": "Cerje centar, 450m",
+    "end": "Cerje centar, 450m",
+    "description": "Staza: Cerje (450m) - Virovi - Ljuti vrh (783m) - Provalija (515m) - Cerje (450m)",
+    "landmarks": null,
+    "maintenance": "delimično uređena",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Staza je poslednji put markirana 19.5.2015.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Železničar PK Niš",
+        "url": "https://pss.rs/adresar_klubova/zeleznicar-pk/",
+        "contact": "Tvrđava bb, 18000 Niš\n064 833 000 3, 061 168 777 1\nhttp://www.planinari-zeleznicar.rs/",
+        "clubs": [
+            {
+                "name": "Železničar PK Niš",
+                "url": "https://pss.rs/adresar_klubova/zeleznicar-pk/",
+                "contact": "Tvrđava bb, 18000 Niš\n064 833 000 3, 061 168 777 1\nhttp://www.planinari-zeleznicar.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/08/4-47-2-Cerje-Ljuti-vrh-Provalija.gpx",
+        "fetched_at": "2026-11-08T11:57:14Z",
+        "checked_at": "2026-11-08T11:57:14Z",
+        "bytes": 60609,
+        "sha256": "64fe35164aa07f2303a36c980ae401e4eecbdc2d1062204a135199f9d18738a1",
+        "etag": null,
+        "last_modified": "Wed, 31 Jan 2018 10:52:56 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 481,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 7,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/08/4-47-2-Cerje-Ljuti-vrh-Provalija.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/cerje-ljuti-vrh-provalija.geojson",
+        "bbox": [
+            21.9114975258708,
+            43.42857378534973,
+            21.949572069570422,
+            43.4442947153002
+        ],
+        "center": [
+            21.930535,
+            43.436434
+        ],
+        "start_point": [
+            21.911575561389327,
+            43.428581077605486
+        ],
+        "end_point": [
+            21.9114975258708,
+            43.42857378534973
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    21.91158,
+                    43.42858
+                ],
+                [
+                    21.93783,
+                    43.4302
+                ],
+                [
+                    21.93713,
+                    43.43392
+                ],
+                [
+                    21.93981,
+                    43.43399
+                ],
+                [
+                    21.94066,
+                    43.436
+                ],
+                [
+                    21.93745,
+                    43.43955
+                ],
+                [
+                    21.94185,
+                    43.44429
+                ],
+                [
+                    21.94874,
+                    43.43918
+                ],
+                [
+                    21.94904,
+                    43.43484
+                ],
+                [
+                    21.94321,
+                    43.42965
+                ],
+                [
+                    21.91748,
+                    43.43002
+                ],
+                [
+                    21.9115,
+                    43.42857
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/cerje-ljuti-vrh-provalija/",
+        "canonical_url": "https://pss.rs/terenipp/cerje-ljuti-vrh-provalija/",
+        "pss_id": 4490,
+        "updated_at": "2018-01-31T10:53:30Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:57:15Z",
+        "last_synced_at": "2026-11-08T11:57:15Z"
+    },
+    "search": "cerje - ljuti vrh - provalija 4-47-2 istocna srbija kalafat cerje centar, 450m cerje centar, 450m zeleznicar pk nis laka staza: cerje (450m) - virovi - ljuti vrh (783m) - provalija (515m) - cerje (450m)",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:57:15Z"
+    }
+}

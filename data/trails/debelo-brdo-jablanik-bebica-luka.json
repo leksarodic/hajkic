@@ -1,0 +1,207 @@
+{
+    "schema_version": 1,
+    "slug": "debelo-brdo-jablanik-bebica-luka",
+    "name": "Debelo Brdo - Jablanik - Bebića Luka",
+    "code": "3-13-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 16573,
+        "category_id": 28,
+        "region_ids": [
+            3
+        ],
+        "mountain_ids": [
+            198
+        ]
+    },
+    "region": "Zapadna Srbija",
+    "mountain": "Jablanik",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 10.3,
+        "calculated_km": 10.29
+    },
+    "duration": {
+        "official_minutes": 240,
+        "official_text": "4 h",
+        "official_raw": "4:00"
+    },
+    "elevation": {
+        "official_gain_m": 263.0,
+        "official_loss_m": 794.0,
+        "calculated_gain_m": 280.5,
+        "calculated_loss_m": 838.6,
+        "min_m": 475.3,
+        "max_m": 1268.5
+    },
+    "start": "Debelo Brdo, 1040 m",
+    "end": "Bebića Luka, 490 m",
+    "description": "• Početak staze je sa parkinga pored spomenika Živanu Đurđeviću na Debelom Brdu i delom se poklapa sa Evropskim pešačkim putem E7-8. Iznad spomenika ide se makadamskim putem ka vrhu Jablanika. Skretanje za planinarski dom na Debelom Brdu je 800 metara od starta. Smeštaj je moguć u planinarskom domu PSD Magleša na Debelom Brdu (kapaciteta 40 ležaja). Staza dalje vodi makadamskim putem do račvanja gde se put odvaja za Bobiju. Staza makadamskim putem prolazi kroz livade i šumu, a račvanje na prvom usponu ide severno ka vrhu Jablanika.\n\n • Vrh Jablanika nije pošumljen i vidik se pruža na sve strane prema Bobiji, Medvedniku, brani Rovni, Povlenu, Tari... Severoistočno od vrha staza se spušta pored ostataka starog Maglešovog planinarskog doma. Dalje staza vodi kroz livade, proplanke i šumu nizbrdo do puta koji povezuje Rebelj sa Bebića Lukom. Sam lokalitet Bebića Luka je nepokretno kulturno dobro pod zaštitom Republike Srbije.\n\n • Prolazeći stazom u različito doba godine mogu se pronaći različite vrste lekovitih biljaka, pečuraka i šumskih plodova (sremuš, divlje maline, kupine, šumske jagodice, šipurak, borovnice...). Najviše je zastupljena bukova šuma, a prolazi se i kroz borovu, brezovu i grabovu šumu. Izvor reke Jablanice nalazi se u blizini staze i vrha Jablanika. Pijaća voda se može natočiti kod planinarskog doma na Debelom Brdu i na izvoru ispod vrha Jablanika (u vreme suše ponekad presuši).",
+    "landmarks": "• Bebića Luka\n\n • Vidikovac: vrh Jablanika\n\n • Naselja: Debelo Brdo, Vujinovača (Arsići, Bebići)",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinarski dom \"Debelo brdo\"",
+    "notes": "• Stazu je trasirao PSD \"Magleš\" januara 2022.\n\n • Poslednji put staza je markirana maja 2022.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Magleš PSD",
+        "url": "https://pss.rs/adresar_klubova/magles-psd/",
+        "contact": "Sindjelićeva 14, 14000 Valjevo\n+38114 236 377 ; 064/6461103\nhttps://www.magles.org.rs/",
+        "clubs": [
+            {
+                "name": "Magleš PSD",
+                "url": "https://pss.rs/adresar_klubova/magles-psd/",
+                "contact": "Sindjelićeva 14, 14000 Valjevo\n+38114 236 377 ; 064/6461103\nhttps://www.magles.org.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 16,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2022/04/3-13-1-Debelo-brdo-Bebica-luka.gpx",
+        "fetched_at": "2026-11-08T12:02:36Z",
+        "checked_at": "2026-11-08T12:02:36Z",
+        "bytes": 67418,
+        "sha256": "c06a093e2ff411d312482a2dadcda8c618c48514f63fe9ccbe9fccd3805cefc0",
+        "etag": null,
+        "last_modified": "Thu, 28 Apr 2022 11:20:56 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 454,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 8,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2022/04/3-13-1-Debelo-brdo-Bebica-luka.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/debelo-brdo-jablanik-bebica-luka.geojson",
+        "bbox": [
+            19.665190055966377,
+            44.15077289566398,
+            19.695575963705778,
+            44.197216015309095
+        ],
+        "center": [
+            19.680383,
+            44.173994
+        ],
+        "start_point": [
+            19.691718025133014,
+            44.15077289566398
+        ],
+        "end_point": [
+            19.69495503231883,
+            44.19337819330394
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    19.69172,
+                    44.15077
+                ],
+                [
+                    19.69087,
+                    44.1548
+                ],
+                [
+                    19.68695,
+                    44.15703
+                ],
+                [
+                    19.66892,
+                    44.15678
+                ],
+                [
+                    19.66614,
+                    44.15967
+                ],
+                [
+                    19.66878,
+                    44.16199
+                ],
+                [
+                    19.6684,
+                    44.16599
+                ],
+                [
+                    19.66519,
+                    44.16964
+                ],
+                [
+                    19.66789,
+                    44.17236
+                ],
+                [
+                    19.66733,
+                    44.17697
+                ],
+                [
+                    19.68177,
+                    44.17874
+                ],
+                [
+                    19.68026,
+                    44.1808
+                ],
+                [
+                    19.68822,
+                    44.19198
+                ],
+                [
+                    19.68899,
+                    44.19602
+                ],
+                [
+                    19.6871,
+                    44.19672
+                ],
+                [
+                    19.69512,
+                    44.19651
+                ],
+                [
+                    19.69496,
+                    44.19338
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/debelo-brdo-jablanik-bebica-luka/",
+        "canonical_url": "https://pss.rs/terenipp/debelo-brdo-jablanik-bebica-luka/",
+        "pss_id": 16573,
+        "updated_at": "2022-04-28T11:25:52Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:02:36Z",
+        "last_synced_at": "2026-11-08T12:02:36Z"
+    },
+    "search": "debelo brdo - jablanik - bebica luka 3-13-1 zapadna srbija jablanik debelo brdo, 1040 m bebica luka, 490 m magles psd • bebica luka • vidikovac: vrh jablanika • naselja: debelo brdo, vujinovaca (arsici, bebici) laka • pocetak staze je sa parkinga pored spomenika zivanu djurdjevicu na debelom brdu i delom se poklapa sa evropskim pesackim putem e7-8. iznad spomenika ide se makadamskim putem ka vrhu jablanika. skretanje za planinarski dom na debelom brdu je 800 metara od starta. smestaj je moguc u planinarskom domu psd maglesa na debelom brdu (kapaciteta 40 lezaja). staza dalje vodi makadamskim putem do racvanja gde se put odvaja za bobiju. staza makadamskim putem prolazi kroz livade i sumu, a racvanje na prvom usponu ide severno ka vrhu jablanika. • vrh jablanika nije posumljen i vidik se pruza na sve strane prema bobiji, medvedniku, brani rovni, povlenu, tari... severoistocno od vrha staza se spusta pored ostataka starog maglesovog planinarskog doma. dalje staza vodi kroz livade, proplanke i sumu nizbrdo do puta koji povezuje rebelj sa bebica lukom. sam lokalitet bebica luka je nepokretno kulturno dobro pod zastitom republike srbije. • prolazeci stazom u razlicito doba godine mogu se pronaci razlicite vrste lekovitih biljaka, pecuraka i sumskih plodova (sremus, divlje maline, kupine, sumske jagodice, sipurak, borovnice...). najvise je zastupljena bukova suma, a prolazi se i kroz borovu, brezovu i grabovu sumu. izvor reke jablanice nalazi se u blizini staze i vrha jablanika. pijaca voda se moze natociti kod planinarskog doma na debelom brdu i na izvoru ispod vrha jablanika (u vreme suse ponekad presusi).",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:02:36Z"
+    }
+}

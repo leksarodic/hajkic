@@ -1,0 +1,241 @@
+{
+    "schema_version": 1,
+    "slug": "takovo-rajac-pl-dom",
+    "name": "Takovo - Rajac (Pl. Dom)",
+    "code": "3-20-11",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 3913,
+        "category_id": 28,
+        "region_ids": [
+            3
+        ],
+        "mountain_ids": [
+            40
+        ]
+    },
+    "region": "Zapadna Srbija",
+    "mountain": "Suvobor",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 20.0,
+        "calculated_km": 19.81
+    },
+    "duration": {
+        "official_minutes": 420,
+        "official_text": "7 h",
+        "official_raw": "7:00"
+    },
+    "elevation": {
+        "official_gain_m": 610.0,
+        "official_loss_m": 330.0,
+        "calculated_gain_m": 576.0,
+        "calculated_loss_m": 299.6,
+        "min_m": 350.4,
+        "max_m": 729.2
+    },
+    "start": "Takovo (memorijalni centar Takovski grm), 380 m",
+    "end": "Rajac (Čika Duškov pl.dom), 625 m",
+    "description": null,
+    "landmarks": "• Memorijalni kompleks \"Takovski ustanak\" (Takovski grm)\n\n • Rajac\n\n • Spomenik \"1300 kaplara\"",
+    "maintenance": "delimično uređena",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinarska kuća \"Dobra voda\", Planinarski dom \"Čika Duško Jovanović\"",
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": "Planinarsko-turistička topografska karta 1:25000, Suvoborski Rajac (st.br.11), u izdanju ”Geokarte” Beograd (Prvo izdanje 2008)",
+    "club": {
+        "name": "Pobeda PSK",
+        "url": "https://pss.rs/adresar_klubova/pobeda-pk/",
+        "contact": "Mačvanska 8, 11000 Beograd\n+38163 329 434 ; +38163 32 94 50\nhttps://www.pskpobeda.rs",
+        "clubs": [
+            {
+                "name": "Pobeda PSK",
+                "url": "https://pss.rs/adresar_klubova/pobeda-pk/",
+                "contact": "Mačvanska 8, 11000 Beograd\n+38163 329 434 ; +38163 32 94 50\nhttps://www.pskpobeda.rs"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 3,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/06/3-20-11-Takovo-Rajac-dom.gpx",
+        "fetched_at": "2026-11-08T11:56:10Z",
+        "checked_at": "2026-11-08T11:56:10Z",
+        "bytes": 92308,
+        "sha256": "6e867b915ae238fb8fa98cab047f23d48e02a723ef2492b1b9bf3c0d6b208951",
+        "etag": null,
+        "last_modified": "Sat, 03 Jul 2021 12:27:11 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 714,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 13,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/06/3-20-11-Takovo-Rajac-dom.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/takovo-rajac-pl-dom.geojson",
+        "bbox": [
+            20.244575031101704,
+            44.04782300814986,
+            20.375315034762025,
+            44.144123028963804
+        ],
+        "center": [
+            20.309945,
+            44.095973
+        ],
+        "start_point": [
+            20.374280037358403,
+            44.04782300814986
+        ],
+        "end_point": [
+            20.245046010240912,
+            44.14280002936721
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    20.37428,
+                    44.04782
+                ],
+                [
+                    20.37532,
+                    44.05029
+                ],
+                [
+                    20.36801,
+                    44.05975
+                ],
+                [
+                    20.36087,
+                    44.06231
+                ],
+                [
+                    20.35936,
+                    44.06596
+                ],
+                [
+                    20.34856,
+                    44.07035
+                ],
+                [
+                    20.34547,
+                    44.07461
+                ],
+                [
+                    20.34264,
+                    44.09911
+                ],
+                [
+                    20.33628,
+                    44.10714
+                ],
+                [
+                    20.33655,
+                    44.11541
+                ],
+                [
+                    20.33432,
+                    44.11881
+                ],
+                [
+                    20.32511,
+                    44.1182
+                ],
+                [
+                    20.31918,
+                    44.12348
+                ],
+                [
+                    20.31695,
+                    44.12676
+                ],
+                [
+                    20.31785,
+                    44.13511
+                ],
+                [
+                    20.3144,
+                    44.13846
+                ],
+                [
+                    20.30507,
+                    44.14248
+                ],
+                [
+                    20.29345,
+                    44.14129
+                ],
+                [
+                    20.27737,
+                    44.1441
+                ],
+                [
+                    20.27088,
+                    44.14346
+                ],
+                [
+                    20.26831,
+                    44.14114
+                ],
+                [
+                    20.2522,
+                    44.13644
+                ],
+                [
+                    20.25003,
+                    44.13971
+                ],
+                [
+                    20.24492,
+                    44.14054
+                ],
+                [
+                    20.24505,
+                    44.1428
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/takovo-rajac-pl-dom/",
+        "canonical_url": "https://pss.rs/terenipp/takovo-rajac-pl-dom/",
+        "pss_id": 3913,
+        "updated_at": "2021-07-03T12:27:58Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:56:11Z",
+        "last_synced_at": "2026-11-08T11:56:11Z"
+    },
+    "search": "takovo - rajac (pl. dom) 3-20-11 zapadna srbija suvobor takovo (memorijalni centar takovski grm), 380 m rajac (cika duskov pl.dom), 625 m pobeda psk • memorijalni kompleks \"takovski ustanak\" (takovski grm) • rajac • spomenik \"1300 kaplara\" zahtevna",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:56:11Z"
+    }
+}

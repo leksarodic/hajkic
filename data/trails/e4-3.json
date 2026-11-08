@@ -1,0 +1,393 @@
+{
+    "schema_version": 1,
+    "slug": "e4-3",
+    "name": "Zrenjanin - Padina",
+    "code": "E4-3",
+    "category": {
+        "key": "evropski-pesacki-putevi-u-srbiji",
+        "label": "Evropski pešački putevi u Srbiji"
+    },
+    "pss": {
+        "post_id": 3633,
+        "category_id": 29,
+        "region_ids": [
+            1
+        ],
+        "mountain_ids": [
+            46
+        ]
+    },
+    "region": "Vojvodina",
+    "mountain": "Carska bara",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "lak"
+    },
+    "distance": {
+        "official_km": 62.1,
+        "calculated_km": 62.51
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": 42.0,
+        "official_loss_m": 5.0,
+        "calculated_gain_m": 14.3,
+        "calculated_loss_m": 2.0,
+        "min_m": 67.0,
+        "max_m": 109.0
+    },
+    "start": null,
+    "end": null,
+    "description": "• Iz Zrenjanina treba svratiti u Ečku i posetiti hotel u nekadašnjem\nkaštelu. Prilikom otvaranja dvorca 1820. godine na klaviru je sviralo\nčudo od deteta – devetogodišnji Franc List.\n\n • I odmah odavde ulazi se u Specijalni rezervat prirode Stari Begej –\nCarska bara, sa bogatim i raznovrsnim živim svetom. Ovo je rezervat\ngde se gnezde i odmaraju brojne vrste ptica u vreme migracije.\n\n • U blizini trase E4, prema zapadu, vredi obići gradić Titel i njegov\nlesni breg, geološki spomenik prirode, u koji je Tisa usekla visoku\nobalu. U selu Idvor rođen je Mihajlo Pupin, svetski priznati naučnik\ni pronalazač. U trouglu Uzdin – Kovačica – Padina živi maštoviti\nsvet slikarske naive koja je osvojila svetske galerije.",
+    "landmarks": "• Specijalni rezervat prirode Carska bara\n\n • Selo Belo Blato, u neposrednoj blizini rezervata\n\n • Ribnjaci Ečka\n\n • Crkva u Farkaždinu\n\n • Reka Tamiš\n\n • Idvor, zadužbina Mihajla Pupina (muzej, rodna kuća)\n\n • Crkve u Idvoru i Uzdinu\n\n • Ribnjak i veliko jezero kod Uzdina\n\n • Etno kuće u Uzdinu i Padini\n\n • Bunar Đeram u Putnikovu\n\n • Mnogobrojne bare, ribnjak i jezero kod Uzdina\n\n • Izletište Alaš sa bunar Dolam u Padini\n\n • Crkve u Putnikovu i Padini\n\n • Kovačica (naivno slikarstvo)",
+    "maintenance": null,
+    "marking": "evropska crveno-žuta",
+    "accommodation": "Zrenjanin, Ečka, Uzdin, Padina",
+    "notes": "• E4-3-1 Zrenjanin – Carska bara 13,6 km\n\n • E4-3-2 Carska bara – Farkaždin 18,3 km\n\n • E4-3-3 Farkaždin – Uzdin 16,5 km\n\n • E4-3-4 Uzdin – Padina 13,7 km",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Jelenak PD",
+        "url": "https://pss.rs/adresar_klubova/jelenak-pd/",
+        "contact": "Svetog Save 10, 26000 Pančevo\n+38163 247 466 ; +38163 250 398\nhttp://www.jelenak.rs",
+        "clubs": [
+            {
+                "name": "Jelenak PD",
+                "url": "https://pss.rs/adresar_klubova/jelenak-pd/",
+                "contact": "Svetog Save 10, 26000 Pančevo\n+38163 247 466 ; +38163 250 398\nhttp://www.jelenak.rs"
+            },
+            {
+                "name": "Soko PEK",
+                "url": "https://pss.rs/adresar_klubova/soko-pek/",
+                "contact": "Dušana Petrovića Šaneta 9/31, 26000 Pančevo\n+38113 320 762 ; +38164 27 60 539\nhttps://www.soko.rs"
+            },
+            {
+                "name": "Zrenjanin KP",
+                "url": "https://pss.rs/adresar_klubova/zrenjanin-kp/",
+                "contact": "Makedonska 11, 23000 Zrenjanin\n 063/1841370; 063/8461255.\nhttps://kpzrenjanin.org.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 13,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/E4-3-Zrenjanin-Padina-1.gpx",
+        "fetched_at": "2026-11-08T12:50:13Z",
+        "checked_at": "2026-11-08T12:50:13Z",
+        "bytes": 91399,
+        "sha256": "725ae86d388a597eefdb010ec1bc43e0eb09702878a65855c445fd7acaee27db",
+        "etag": null,
+        "last_modified": "Thu, 05 Dec 2024 22:59:49 GMT",
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": 1256,
+        "tracks": 4,
+        "segments": 4,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/E4-3-Zrenjanin-Padina-1.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/e4-3.geojson",
+        "bbox": [
+            20.386536978,
+            45.118886819,
+            20.721867001,
+            45.380329024
+        ],
+        "center": [
+            20.554202,
+            45.249608
+        ],
+        "start_point": [
+            20.390259968,
+            45.380329024
+        ],
+        "end_point": [
+            20.721601127,
+            45.118886819
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    20.39026,
+                    45.38033
+                ],
+                [
+                    20.38654,
+                    45.3734
+                ],
+                [
+                    20.38987,
+                    45.37138
+                ],
+                [
+                    20.38804,
+                    45.37028
+                ],
+                [
+                    20.39713,
+                    45.36403
+                ],
+                [
+                    20.39878,
+                    45.35781
+                ],
+                [
+                    20.40511,
+                    45.35385
+                ],
+                [
+                    20.40738,
+                    45.3554
+                ],
+                [
+                    20.41072,
+                    45.35307
+                ],
+                [
+                    20.41292,
+                    45.34812
+                ],
+                [
+                    20.42508,
+                    45.33852
+                ],
+                [
+                    20.43019,
+                    45.32893
+                ],
+                [
+                    20.43073,
+                    45.32049
+                ],
+                [
+                    20.42676,
+                    45.31591
+                ],
+                [
+                    20.42908,
+                    45.31398
+                ],
+                [
+                    20.42371,
+                    45.30968
+                ],
+                [
+                    20.43019,
+                    45.30456
+                ],
+                [
+                    20.42425,
+                    45.30062
+                ],
+                [
+                    20.431,
+                    45.29235
+                ],
+                [
+                    20.42903,
+                    45.28421
+                ]
+            ],
+            [
+                [
+                    20.42903,
+                    45.28421
+                ],
+                [
+                    20.44223,
+                    45.28185
+                ],
+                [
+                    20.44103,
+                    45.28051
+                ],
+                [
+                    20.44425,
+                    45.2795
+                ],
+                [
+                    20.46478,
+                    45.27619
+                ],
+                [
+                    20.47535,
+                    45.27117
+                ],
+                [
+                    20.48692,
+                    45.26871
+                ],
+                [
+                    20.49252,
+                    45.26061
+                ],
+                [
+                    20.49176,
+                    45.2588
+                ],
+                [
+                    20.43582,
+                    45.23561
+                ],
+                [
+                    20.45,
+                    45.21875
+                ],
+                [
+                    20.46719,
+                    45.20953
+                ],
+                [
+                    20.47301,
+                    45.20916
+                ],
+                [
+                    20.47425,
+                    45.18854
+                ]
+            ],
+            [
+                [
+                    20.47425,
+                    45.18854
+                ],
+                [
+                    20.48869,
+                    45.18283
+                ],
+                [
+                    20.50497,
+                    45.18121
+                ],
+                [
+                    20.50877,
+                    45.187
+                ],
+                [
+                    20.52726,
+                    45.19314
+                ],
+                [
+                    20.53877,
+                    45.19025
+                ],
+                [
+                    20.54717,
+                    45.19242
+                ],
+                [
+                    20.55055,
+                    45.18688
+                ],
+                [
+                    20.55993,
+                    45.19136
+                ],
+                [
+                    20.56677,
+                    45.18285
+                ],
+                [
+                    20.57465,
+                    45.19108
+                ],
+                [
+                    20.5787,
+                    45.19173
+                ],
+                [
+                    20.5929,
+                    45.18261
+                ],
+                [
+                    20.60013,
+                    45.18249
+                ],
+                [
+                    20.61817,
+                    45.2018
+                ],
+                [
+                    20.6231,
+                    45.20039
+                ],
+                [
+                    20.62561,
+                    45.20472
+                ]
+            ],
+            [
+                [
+                    20.62561,
+                    45.20472
+                ],
+                [
+                    20.66533,
+                    45.18846
+                ],
+                [
+                    20.67632,
+                    45.18005
+                ],
+                [
+                    20.70065,
+                    45.16992
+                ],
+                [
+                    20.70185,
+                    45.13883
+                ],
+                [
+                    20.71327,
+                    45.13524
+                ],
+                [
+                    20.72061,
+                    45.1285
+                ],
+                [
+                    20.7216,
+                    45.11889
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": [
+            "missing_elevation"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/e4-3/",
+        "canonical_url": "https://pss.rs/terenipp/e4-3/",
+        "pss_id": 3633,
+        "updated_at": "2024-12-05T23:00:00Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:50:14Z",
+        "last_synced_at": "2026-11-08T12:50:14Z"
+    },
+    "search": "zrenjanin - padina e4-3 vojvodina carska bara jelenak pd • specijalni rezervat prirode carska bara • selo belo blato, u neposrednoj blizini rezervata • ribnjaci ecka • crkva u farkazdinu • reka tamis • idvor, zaduzbina mihajla pupina (muzej, rodna kuca) • crkve u idvoru i uzdinu • ribnjak i veliko jezero kod uzdina • etno kuce u uzdinu i padini • bunar djeram u putnikovu • mnogobrojne bare, ribnjak i jezero kod uzdina • izletiste alas sa bunar dolam u padini • crkve u putnikovu i padini • kovacica (naivno slikarstvo) laka • iz zrenjanina treba svratiti u ecku i posetiti hotel u nekadasnjem kastelu. prilikom otvaranja dvorca 1820. godine na klaviru je sviralo cudo od deteta – devetogodisnji franc list. • i odmah odavde ulazi se u specijalni rezervat prirode stari begej – carska bara, sa bogatim i raznovrsnim zivim svetom. ovo je rezervat gde se gnezde i odmaraju brojne vrste ptica u vreme migracije. • u blizini trase e4, prema zapadu, vredi obici gradic titel i njegov lesni breg, geoloski spomenik prirode, u koji je tisa usekla visoku obalu. u selu idvor rodjen je mihajlo pupin, svetski priznati naucnik i pronalazac. u trouglu uzdin – kovacica – padina zivi mastoviti svet slikarske naive koja je osvojila svetske galerije.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:50:14Z"
+    }
+}

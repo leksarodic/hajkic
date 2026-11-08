@@ -1,0 +1,123 @@
+{
+    "schema_version": 1,
+    "slug": "dajici-okruglica",
+    "name": "Dajići - Okruglica",
+    "code": "5-46-3",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 4478,
+        "category_id": 28,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            34
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Golija",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 14.0,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": 210,
+        "official_text": "3 h 30 min",
+        "official_raw": "3:30"
+    },
+    "elevation": {
+        "official_gain_m": 140.0,
+        "official_loss_m": 140.0,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": "Dajići (Bele Vode) 1330m",
+    "end": "Dajići (Bele Vode) 1330m",
+    "description": "Staza obeležena u oba smera",
+    "landmarks": "• Jezero Okruglica nastalo 1974.\n\n • Vidikovac: Okruglica",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Stazu trasirao i markirao Aleksandar Marković 2010.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Golija PD",
+        "url": "https://pss.rs/adresar_klubova/golija-pd/",
+        "contact": "Braće Rabrenović 11, 32250 Ivanjica\n062 223797",
+        "clubs": [
+            {
+                "name": "Golija PD",
+                "url": "https://pss.rs/adresar_klubova/golija-pd/",
+                "contact": "Braće Rabrenović 11, 32250 Ivanjica\n062 223797"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": false,
+        "status": "missing",
+        "source_url": null,
+        "fetched_at": null,
+        "checked_at": "2026-11-08T11:56:56Z",
+        "bytes": null,
+        "sha256": null,
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": null,
+        "tracks": null,
+        "segments": null,
+        "waypoints": null,
+        "error": null,
+        "download": {
+            "mode": "none",
+            "url": null
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_gpx"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/dajici-okruglica/",
+        "canonical_url": "https://pss.rs/terenipp/dajici-okruglica/",
+        "pss_id": 4478,
+        "updated_at": "2017-08-02T10:27:45Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:56:56Z",
+        "last_synced_at": "2026-11-08T11:56:56Z"
+    },
+    "search": "dajici - okruglica 5-46-3 jugozapadna srbija golija dajici (bele vode) 1330m dajici (bele vode) 1330m golija pd • jezero okruglica nastalo 1974. • vidikovac: okruglica laka staza obelezena u oba smera",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:56:56Z"
+    }
+}

@@ -1,0 +1,181 @@
+{
+    "schema_version": 1,
+    "slug": "junior-eko-trail",
+    "name": "Junior eko trail",
+    "code": "2-16-4",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 24568,
+        "category_id": 28,
+        "region_ids": [
+            2
+        ],
+        "mountain_ids": [
+            191
+        ]
+    },
+    "region": "Šumadija",
+    "mountain": "Juhor",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 4.5,
+        "calculated_km": 4.46
+    },
+    "duration": {
+        "official_minutes": 60,
+        "official_text": "1 h",
+        "official_raw": "1:00"
+    },
+    "elevation": {
+        "official_gain_m": 173.0,
+        "official_loss_m": 145.0,
+        "calculated_gain_m": 170.5,
+        "calculated_loss_m": 138.6,
+        "min_m": 323.0,
+        "max_m": 495.2
+    },
+    "start": "Dvorište crkve Svetog Arhangela Gavrila u selu Sekurič, opština Rekovac - 323 m",
+    "end": "Početak sataze Juhorski izvori",
+    "description": "Planinarska staza se nalazi na planini Juhor. Početak staze je dvorište crkve Sv. Arhangela Gavrila u selu Sekurič opština Rekovac. Nedaleko od crkve se nalazi izvor Crkvište. Staza dalje nastavlja makadamskim putem, gde se nakon 3 km, spaja sa stazom Juhorski izvori i vodi dalje ka početku staze Juhorski izvori.\nPrimarna namena staze je održavanje eko trejl trke za mališane u okviru projekta Eko kampa.",
+    "landmarks": "Na stazi postoji vidikovac sa pogledom na planinu Crni vrh.",
+    "maintenance": "delimično uređena",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Ko je i kada trasirao stazu: 2024. godine Radivoje Marković (licencirani markirant), uz pomoć Olivera Aleksića predstavnika turističe organizacije Rekovac i Dragiše Minića predsednika mesne zajednice Sekurič.\n\nSTAZA JE U FAZI UREĐENJA!",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Planinski duh PD",
+        "url": "https://pss.rs/adresar_klubova/planinski-duh-pd/",
+        "contact": "Kralja Petra Prvog 63 35220 Ribare Jagodina\n0691530989\nhttps://www.instagram.com/pdplaninski",
+        "clubs": [
+            {
+                "name": "Planinski duh PD",
+                "url": "https://pss.rs/adresar_klubova/planinski-duh-pd/",
+                "contact": "Kralja Petra Prvog 63 35220 Ribare Jagodina\n0691530989\nhttps://www.instagram.com/pdplaninski"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 4,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2024/05/Junior-eko-trail.gpx",
+        "fetched_at": "2026-11-08T12:05:53Z",
+        "checked_at": "2026-11-08T12:05:53Z",
+        "bytes": 24918,
+        "sha256": "a8cd8ea4bdf65f4aa26aeff5a906e50961489ebe416e63ea21259b090fc59bac",
+        "etag": null,
+        "last_modified": "Thu, 16 May 2024 20:17:45 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 216,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 2,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2024/05/Junior-eko-trail.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/junior-eko-trail.geojson",
+        "bbox": [
+            21.1854451,
+            43.782904,
+            21.2020232,
+            43.7958486
+        ],
+        "center": [
+            21.193734,
+            43.789376
+        ],
+        "start_point": [
+            21.1854451,
+            43.7918674
+        ],
+        "end_point": [
+            21.1871751,
+            43.7943522
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.18545,
+                    43.79187
+                ],
+                [
+                    21.18947,
+                    43.78659
+                ],
+                [
+                    21.19276,
+                    43.78498
+                ],
+                [
+                    21.19512,
+                    43.78597
+                ],
+                [
+                    21.19713,
+                    43.78295
+                ],
+                [
+                    21.20202,
+                    43.79254
+                ],
+                [
+                    21.19303,
+                    43.79582
+                ],
+                [
+                    21.18718,
+                    43.79435
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/junior-eko-trail/",
+        "canonical_url": "https://pss.rs/terenipp/junior-eko-trail/",
+        "pss_id": 24568,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:05:54Z",
+        "last_synced_at": "2026-11-08T12:05:54Z"
+    },
+    "search": "junior eko trail 2-16-4 sumadija juhor dvoriste crkve svetog arhangela gavrila u selu sekuric, opstina rekovac - 323 m pocetak sataze juhorski izvori planinski duh pd na stazi postoji vidikovac sa pogledom na planinu crni vrh. laka planinarska staza se nalazi na planini juhor. pocetak staze je dvoriste crkve sv. arhangela gavrila u selu sekuric opstina rekovac. nedaleko od crkve se nalazi izvor crkviste. staza dalje nastavlja makadamskim putem, gde se nakon 3 km, spaja sa stazom juhorski izvori i vodi dalje ka pocetku staze juhorski izvori. primarna namena staze je odrzavanje eko trejl trke za malisane u okviru projekta eko kampa.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:05:54Z"
+    }
+}

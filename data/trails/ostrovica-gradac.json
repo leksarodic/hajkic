@@ -1,0 +1,124 @@
+{
+    "schema_version": 1,
+    "slug": "ostrovica-gradac",
+    "name": "Ostrovica - Gradac",
+    "code": "4-39-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 3646,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            51
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Svrljiške planine",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 6.72,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": 160,
+        "official_text": "2 h 40 min",
+        "official_raw": "2:40"
+    },
+    "elevation": {
+        "official_gain_m": 843.0,
+        "official_loss_m": 20.0,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": "selo Ostrovica - 250 mnv",
+    "end": "vrh Gradac - 1064 mnv",
+    "description": null,
+    "landmarks": null,
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Suva Planina PD",
+        "url": "https://pss.rs/adresar_klubova/suva-planina-pd/",
+        "contact": "Tvrđava bb, 18000 Niš\n+38163 40 44 74\nhttps://www.pdsuvaplanina.rs/",
+        "clubs": [
+            {
+                "name": "Suva Planina PD",
+                "url": "https://pss.rs/adresar_klubova/suva-planina-pd/",
+                "contact": "Tvrđava bb, 18000 Niš\n+38163 40 44 74\nhttps://www.pdsuvaplanina.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": false,
+        "status": "missing",
+        "source_url": null,
+        "fetched_at": null,
+        "checked_at": "2026-11-08T12:50:22Z",
+        "bytes": null,
+        "sha256": null,
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": null,
+        "tracks": null,
+        "segments": null,
+        "waypoints": null,
+        "error": null,
+        "download": {
+            "mode": "none",
+            "url": null
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description",
+            "missing_gpx"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/ostrovica-gradac/",
+        "canonical_url": "https://pss.rs/terenipp/ostrovica-gradac/",
+        "pss_id": 3646,
+        "updated_at": "2017-05-11T13:11:32Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:50:22Z",
+        "last_synced_at": "2026-11-08T12:50:22Z"
+    },
+    "search": "ostrovica - gradac 4-39-1 istocna srbija svrljiske planine selo ostrovica - 250 mnv vrh gradac - 1064 mnv suva planina pd laka",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:50:22Z"
+    }
+}

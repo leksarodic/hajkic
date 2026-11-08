@@ -1,0 +1,187 @@
+{
+    "schema_version": 1,
+    "slug": "pesacka-staza-jagodina-djurdjevo-brdo",
+    "name": "Edukativna staza",
+    "code": "2-16-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 11656,
+        "category_id": 28,
+        "region_ids": [
+            2
+        ],
+        "mountain_ids": [
+            191
+        ]
+    },
+    "region": "Šumadija",
+    "mountain": "Juhor",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 9.0,
+        "calculated_km": 9.02
+    },
+    "duration": {
+        "official_minutes": 180,
+        "official_text": "3 h",
+        "official_raw": "3:00"
+    },
+    "elevation": {
+        "official_gain_m": 200.0,
+        "official_loss_m": 200.0,
+        "calculated_gain_m": 134.6,
+        "calculated_loss_m": 138.3,
+        "min_m": 121.8,
+        "max_m": 220.4
+    },
+    "start": "Gradski park \"Potok\", 120 m",
+    "end": "Gradski park \"Potok\", 120 m",
+    "description": "Planinarski put se nalazi na Đurđevom brdu (229 m), nadomak Jagodine. Početak puta je javni park \"Potok\", put nastavlja kroz park do puta sa savremenim kolovoznim zastorom, put vodi do raskrsnice gde se nastavlja nekategorisanim, lošim kolskim putem (tu se nalazi označeno mesto za kampovanje). Put dalje vodi nekategorisanim putem, koji je mestimično nasipan tucanikom. Put dalje vodi pored korita reke Belice. Put je kružan, to jest završava se na polaznom mestu.",
+    "landmarks": "• Odlično uređen javni park \"Potok\"\n\n • Akva park\n\n • Muzej voštanih figura\n\n • Zoološki vrt \"Tigar\"\n\n • Sportska sala Jassa\n\n • Na stazi postoji nekoliko vidikovaca, bez uređene infrastrukture sa pogledom na Juhor i Crni vrh.\n\n • Na početku staze nalazi se česma sa pijaćom vodom, dok neposredno pred kraj staze postoji izvor sa pijaćom vodom.\n\n • Na trasi je uređen kamp \"Ruža Vetrova\"\n\n • Odmarališta na trasi i van trase\n\n • Van trase su hoteli i privatni smeštaj u Jagodini",
+    "maintenance": "delimično uređena",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu je trasirao Radivoje Marković (licencirani markirant) uz pomoć Dejana Petkovića, Dejana Antonijevića i Nebojše Jovanovića, 2017. godine\n\n • Staza je u toku izrade i još nije markirana. Postoji lokalna markacija koja nije u skladu sa Pravilnikom o markiranju.",
+    "map_reference": "https://staze.pss.rs/#trail=2-16-1",
+    "map_sheet": null,
+    "club": {
+        "name": "Planinski duh PD",
+        "url": "https://pss.rs/adresar_klubova/planinski-duh-pd/",
+        "contact": "Kralja Petra Prvog 63 35220 Ribare Jagodina\n0691530989\nhttps://www.instagram.com/pdplaninski",
+        "clubs": [
+            {
+                "name": "Planinski duh PD",
+                "url": "https://pss.rs/adresar_klubova/planinski-duh-pd/",
+                "contact": "Kralja Petra Prvog 63 35220 Ribare Jagodina\n0691530989\nhttps://www.instagram.com/pdplaninski"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 9,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2020/06/2-16-1-Pesacka-staza-Jagodina.gpx",
+        "fetched_at": "2026-11-08T12:00:58Z",
+        "checked_at": "2026-11-08T12:00:58Z",
+        "bytes": 73320,
+        "sha256": "5dde94b21bf63f3c3b75b5a4e04fe3365c7f02dff9d6cf10a195cb15e9a23817",
+        "etag": null,
+        "last_modified": "Fri, 19 Jun 2020 17:25:56 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 433,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 6,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2020/06/2-16-1-Pesacka-staza-Jagodina.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/pesacka-staza-jagodina-djurdjevo-brdo.geojson",
+        "bbox": [
+            21.234417026862502,
+            43.94051847048104,
+            21.268356777727604,
+            43.96570634096861
+        ],
+        "center": [
+            21.251387,
+            43.953112
+        ],
+        "start_point": [
+            21.266697412356734,
+            43.965659234672785
+        ],
+        "end_point": [
+            21.26630731858313,
+            43.96570106036961
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    21.2667,
+                    43.96566
+                ],
+                [
+                    21.26836,
+                    43.96239
+                ],
+                [
+                    21.26483,
+                    43.96033
+                ],
+                [
+                    21.26538,
+                    43.95783
+                ],
+                [
+                    21.25335,
+                    43.94619
+                ],
+                [
+                    21.24136,
+                    43.94082
+                ],
+                [
+                    21.23442,
+                    43.94089
+                ],
+                [
+                    21.2401,
+                    43.94609
+                ],
+                [
+                    21.25123,
+                    43.94898
+                ],
+                [
+                    21.25522,
+                    43.95264
+                ],
+                [
+                    21.25372,
+                    43.95473
+                ],
+                [
+                    21.26631,
+                    43.9657
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/pesacka-staza-jagodina-djurdjevo-brdo/",
+        "canonical_url": "https://pss.rs/terenipp/pesacka-staza-jagodina-djurdjevo-brdo/",
+        "pss_id": 11656,
+        "updated_at": "2026-09-21T15:06:33Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:00:59Z",
+        "last_synced_at": "2026-11-08T12:00:59Z"
+    },
+    "search": "edukativna staza 2-16-1 sumadija juhor gradski park \"potok\", 120 m gradski park \"potok\", 120 m planinski duh pd • odlicno uredjen javni park \"potok\" • akva park • muzej vostanih figura • zooloski vrt \"tigar\" • sportska sala jassa • na stazi postoji nekoliko vidikovaca, bez uredjene infrastrukture sa pogledom na juhor i crni vrh. • na pocetku staze nalazi se cesma sa pijacom vodom, dok neposredno pred kraj staze postoji izvor sa pijacom vodom. • na trasi je uredjen kamp \"ruza vetrova\" • odmaralista na trasi i van trase • van trase su hoteli i privatni smestaj u jagodini laka planinarski put se nalazi na djurdjevom brdu (229 m), nadomak jagodine. pocetak puta je javni park \"potok\", put nastavlja kroz park do puta sa savremenim kolovoznim zastorom, put vodi do raskrsnice gde se nastavlja nekategorisanim, losim kolskim putem (tu se nalazi oznaceno mesto za kampovanje). put dalje vodi nekategorisanim putem, koji je mestimicno nasipan tucanikom. put dalje vodi pored korita reke belice. put je kruzan, to jest zavrsava se na polaznom mestu.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:00:59Z"
+    }
+}

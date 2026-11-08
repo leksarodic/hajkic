@@ -1,0 +1,207 @@
+{
+    "schema_version": 1,
+    "slug": "kaljon-reke-panjice-vodena-pecina-brekovo",
+    "name": "Kanjon reke Panjice - Vodena pećina - Brekovo",
+    "code": "5-19-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 24346,
+        "category_id": 28,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            418
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Budeč",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 10.6,
+        "calculated_km": 10.61
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": null,
+        "official_loss_m": null,
+        "calculated_gain_m": 395.3,
+        "calculated_loss_m": 169.6,
+        "min_m": 394.3,
+        "max_m": 909.1
+    },
+    "start": "Ambulanta u selu Dobračama",
+    "end": "Crkva Svetog Nikole Mirlikijskog, Brekovo",
+    "description": "Pešačka staza kreće od ambulante u selu Dobračama. Sa desne strane nalazi se etno domaćinstvo „Panjica” koje ima mogućnost prenoćišta. Staza prolazi kroz seoske zaseoke Lazovićii Petrovići gde se od domaćina može kupiti med, slatko, sir, kajmak i proizvodi iz domaće radinosti. Posle 1 km ulazi se u predivan kanjon reke Panjice koji je među najčistijim u Srbiji. Sa leve strane se nalazi planina Sedalac ( 1084 m.n.v. ). Posle oko 1 km hoda kanjonom dolazimo do božanstvenih vodopada. Kanjon je vrlo živopisan i bogat biljnim i životinjskim svetom. Vodena pećina je još uvek nedovoljno ispitana. Iz nje izvire velika količina vode a smatra se da se ispod nalazi jezero koje još nije ispitano. Sa desne strane pećine produžava pešačka staza kroz bukovu šumu ka Rasovačkoj pećini Ova pećina je sa dva ulaza. Staza vodi do centra sela Brekovo gde se može posetiti Crkva Svetog Nikole Mirlikijskog iz XII veka.",
+    "landmarks": "Kaljon reke Panjice, Vodena pećina, Rasovačka pećina, Crkva Svetog Nikole Mirlikijskog",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": null,
+    "map_reference": "http://staze.pss.rs/#trail=5-19-1",
+    "map_sheet": null,
+    "club": {
+        "name": "Sunčevica SUPSD",
+        "url": "https://pss.rs/adresar_klubova/suncevica-supsd/",
+        "contact": "Stevana Čolovića 2, Arilje 31230\n060/0894113",
+        "clubs": [
+            {
+                "name": "Sunčevica SUPSD",
+                "url": "https://pss.rs/adresar_klubova/suncevica-supsd/",
+                "contact": "Stevana Čolovića 2, Arilje 31230\n060/0894113"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2024/03/Vodena-pecina-konacno.gpx",
+        "fetched_at": "2026-11-08T12:04:05Z",
+        "checked_at": "2026-11-08T12:04:05Z",
+        "bytes": 91791,
+        "sha256": "e83001b8b6e5980bea0cfb89ea7d6bca74a5c680db87117c71934935bd7161ff",
+        "etag": null,
+        "last_modified": "Wed, 27 Mar 2024 16:47:58 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 901,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 13,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2024/03/Vodena-pecina-konacno.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/kaljon-reke-panjice-vodena-pecina-brekovo.geojson",
+        "bbox": [
+            20.013621077,
+            43.640527809,
+            20.095802448,
+            43.663611753
+        ],
+        "center": [
+            20.054712,
+            43.65207
+        ],
+        "start_point": [
+            20.095802448,
+            43.663250343
+        ],
+        "end_point": [
+            20.017629974,
+            43.640539795
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    20.0958,
+                    43.66325
+                ],
+                [
+                    20.08387,
+                    43.66208
+                ],
+                [
+                    20.08044,
+                    43.65985
+                ],
+                [
+                    20.07456,
+                    43.66055
+                ],
+                [
+                    20.07144,
+                    43.65828
+                ],
+                [
+                    20.05096,
+                    43.66329
+                ],
+                [
+                    20.04791,
+                    43.66004
+                ],
+                [
+                    20.03464,
+                    43.65409
+                ],
+                [
+                    20.03317,
+                    43.64941
+                ],
+                [
+                    20.03112,
+                    43.64931
+                ],
+                [
+                    20.03217,
+                    43.64532
+                ],
+                [
+                    20.02901,
+                    43.64565
+                ],
+                [
+                    20.02971,
+                    43.6484
+                ],
+                [
+                    20.02568,
+                    43.64937
+                ],
+                [
+                    20.02293,
+                    43.64521
+                ],
+                [
+                    20.01374,
+                    43.64266
+                ],
+                [
+                    20.01763,
+                    43.64054
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/kaljon-reke-panjice-vodena-pecina-brekovo/",
+        "canonical_url": "https://pss.rs/terenipp/kaljon-reke-panjice-vodena-pecina-brekovo/",
+        "pss_id": 24346,
+        "updated_at": "2024-06-03T20:03:04Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:04:06Z",
+        "last_synced_at": "2026-11-08T12:04:06Z"
+    },
+    "search": "kanjon reke panjice - vodena pecina - brekovo 5-19-1 jugozapadna srbija budec ambulanta u selu dobracama crkva svetog nikole mirlikijskog, brekovo suncevica supsd kaljon reke panjice, vodena pecina, rasovacka pecina, crkva svetog nikole mirlikijskog laka pesacka staza krece od ambulante u selu dobracama. sa desne strane nalazi se etno domacinstvo „panjica” koje ima mogucnost prenocista. staza prolazi kroz seoske zaseoke lazovicii petrovici gde se od domacina moze kupiti med, slatko, sir, kajmak i proizvodi iz domace radinosti. posle 1 km ulazi se u predivan kanjon reke panjice koji je medju najcistijim u srbiji. sa leve strane se nalazi planina sedalac ( 1084 m.n.v. ). posle oko 1 km hoda kanjonom dolazimo do bozanstvenih vodopada. kanjon je vrlo zivopisan i bogat biljnim i zivotinjskim svetom. vodena pecina je jos uvek nedovoljno ispitana. iz nje izvire velika kolicina vode a smatra se da se ispod nalazi jezero koje jos nije ispitano. sa desne strane pecine produzava pesacka staza kroz bukovu sumu ka rasovackoj pecini ova pecina je sa dva ulaza. staza vodi do centra sela brekovo gde se moze posetiti crkva svetog nikole mirlikijskog iz xii veka.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:04:06Z"
+    }
+}

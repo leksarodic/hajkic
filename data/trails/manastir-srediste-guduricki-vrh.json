@@ -1,0 +1,189 @@
+{
+    "schema_version": 1,
+    "slug": "manastir-srediste-guduricki-vrh",
+    "name": "Manastir Središte – Gudurički vrh",
+    "code": "1-4-2",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 3649,
+        "category_id": 28,
+        "region_ids": [
+            1
+        ],
+        "mountain_ids": [
+            33
+        ]
+    },
+    "region": "Vojvodina",
+    "mountain": "Vršačke planine",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 7.8,
+        "calculated_km": 7.75
+    },
+    "duration": {
+        "official_minutes": 150,
+        "official_text": "2 h 30 min",
+        "official_raw": "2:30"
+    },
+    "elevation": {
+        "official_gain_m": 435.0,
+        "official_loss_m": 435.0,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": "manastir Središte 203 mnv",
+    "end": "manastir Središte 203 mnv",
+    "description": "Staza je deonica Vršačke transverzale T-1-3",
+    "landmarks": "manastir Središte, Gudurički vrh (najviši vrh Vojvodine) 641 mnv",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinarski dom \"Široko bilo\"",
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Vršačka kula PSD",
+        "url": "https://pss.rs/adresar_klubova/vrsacka-kula-psd/",
+        "contact": "Svetosavski trg 1a, 26300 Vršac\n+38169 164 14 76\nhttps://www.psdkulavrsac.com/",
+        "clubs": [
+            {
+                "name": "Vršačka kula PSD",
+                "url": "https://pss.rs/adresar_klubova/vrsacka-kula-psd/",
+                "contact": "Svetosavski trg 1a, 26300 Vršac\n+38169 164 14 76\nhttps://www.psdkulavrsac.com/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/1-4-2.gpx",
+        "fetched_at": "2026-11-08T12:50:24Z",
+        "checked_at": "2026-11-08T12:50:24Z",
+        "bytes": 10596,
+        "sha256": "54c8a0278318f3a0f7a8fdc0a13d95960a04320e2a1ec73d34790ea62968c85c",
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": 228,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/1-4-2.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/manastir-srediste-guduricki-vrh.geojson",
+        "bbox": [
+            21.3952985,
+            45.1269744,
+            21.4153343,
+            45.1452504
+        ],
+        "center": [
+            21.405316,
+            45.136112
+        ],
+        "start_point": [
+            21.3982282,
+            45.1452504
+        ],
+        "end_point": [
+            21.3982282,
+            45.1452504
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    21.39823,
+                    45.14525
+                ],
+                [
+                    21.39891,
+                    45.14119
+                ],
+                [
+                    21.3953,
+                    45.13706
+                ],
+                [
+                    21.40398,
+                    45.13486
+                ],
+                [
+                    21.4126,
+                    45.13716
+                ],
+                [
+                    21.41522,
+                    45.12706
+                ],
+                [
+                    21.41215,
+                    45.12776
+                ],
+                [
+                    21.4089,
+                    45.13441
+                ],
+                [
+                    21.40408,
+                    45.13411
+                ],
+                [
+                    21.3953,
+                    45.13706
+                ],
+                [
+                    21.39891,
+                    45.14119
+                ],
+                [
+                    21.39823,
+                    45.14525
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": [
+            "missing_elevation"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/manastir-srediste-guduricki-vrh/",
+        "canonical_url": "https://pss.rs/terenipp/manastir-srediste-guduricki-vrh/",
+        "pss_id": 3649,
+        "updated_at": "2023-03-11T10:29:05Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:50:25Z",
+        "last_synced_at": "2026-11-08T12:50:25Z"
+    },
+    "search": "manastir srediste – guduricki vrh 1-4-2 vojvodina vrsacke planine manastir srediste 203 mnv manastir srediste 203 mnv vrsacka kula psd manastir srediste, guduricki vrh (najvisi vrh vojvodine) 641 mnv laka staza je deonica vrsacke transverzale t-1-3",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:50:25Z"
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "schema_version": 1,
+    "slug": "lazarica-bela-staza",
+    "name": "Lazarica - Bela staza",
+    "code": "4-7-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 3906,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            81
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Kučaj (Resavica)",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 11.5,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": 240,
+        "official_text": "4 h",
+        "official_raw": "4:00"
+    },
+    "elevation": {
+        "official_gain_m": 552.0,
+        "official_loss_m": 343.0,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": "Manastir Ravanica, 253mnv",
+    "end": "Senjski Rudnik, 432 mnv",
+    "description": null,
+    "landmarks": "manastir Ravanica, Senjski Rudnik (muzej ugljarstva)",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Stazu trasirao i održava SUSD Ćuprija",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": null,
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": false,
+        "status": "missing",
+        "source_url": null,
+        "fetched_at": null,
+        "checked_at": "2026-11-08T11:56:08Z",
+        "bytes": null,
+        "sha256": null,
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": null,
+        "tracks": null,
+        "segments": null,
+        "waypoints": null,
+        "error": null,
+        "download": {
+            "mode": "none",
+            "url": null
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description",
+            "missing_gpx"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/lazarica-bela-staza/",
+        "canonical_url": "https://pss.rs/terenipp/lazarica-bela-staza/",
+        "pss_id": 3906,
+        "updated_at": "2019-02-12T12:58:27Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:56:08Z",
+        "last_synced_at": "2026-11-08T11:56:08Z"
+    },
+    "search": "lazarica - bela staza 4-7-1 istocna srbija kucaj (resavica) manastir ravanica, 253mnv senjski rudnik, 432 mnv manastir ravanica, senjski rudnik (muzej ugljarstva) laka",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:56:08Z"
+    }
+}

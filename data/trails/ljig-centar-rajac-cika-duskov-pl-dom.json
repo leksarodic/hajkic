@@ -1,0 +1,223 @@
+{
+    "schema_version": 1,
+    "slug": "ljig-centar-rajac-cika-duskov-pl-dom",
+    "name": "Ljig (centar) - Rajac (Čika Duškov pl.dom)",
+    "code": "3-20-8",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 3850,
+        "category_id": 28,
+        "region_ids": [
+            3
+        ],
+        "mountain_ids": [
+            40
+        ]
+    },
+    "region": "Zapadna Srbija",
+    "mountain": "Suvobor",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 17.0,
+        "calculated_km": 17.2
+    },
+    "duration": {
+        "official_minutes": 390,
+        "official_text": "6 h 30 min",
+        "official_raw": "6:30"
+    },
+    "elevation": {
+        "official_gain_m": 1030.0,
+        "official_loss_m": 550.0,
+        "calculated_gain_m": 968.1,
+        "calculated_loss_m": 488.3,
+        "min_m": 145.0,
+        "max_m": 836.7
+    },
+    "start": "Ljig (zgrada Opštine), 150 m",
+    "end": "Rajac (Čika Duškov pl.dom), 625 m",
+    "description": "Pl. put ide iz centra varoši Ljiga, pravcem jug uzvodno dolinom reke Ljig pored Ibarske magistrale, skreće ka Rajcu preko mosta na reci Dragobilj (desna pritoka Ljiga) kod sela Kadina Luka, nastavlja kroz selo asvaltnim putem do razdvajanja puteva za selo Ba i Slavkovicu, dolinom Slavkovačke reke produžava ka Slavkovici i nakon oko 500 m skreća sa asvaltnog puta u desno, prelazi Slavkovačku reku preko mostića, prolazi ispod kote Krst 332 i lagano se penje pravcem jug ka vrhu Čardak 645 mnv. Put se dalje spušta planinskom stazom ka zaseoku Topalovići, a zatim penje preko Kikova i kote 508 do kote 806 zapadno iznad Kojića česme. Odavde put skreće na istok i lošim makadamskim putem se blago spušta do asvalta i kote 686 (kafana \"Lovačka priča\") . Odavde se skreće na sever i nakon 500 m asvaltnim putem stiže do Doma na Rajcu.",
+    "landmarks": "• Crkva spomen-kosturnica (u izgradnji)\n\n • Spomen obeležja poginulim ratnicima u Kolubarskoj bitci na Čardaku i Rajcu",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinarska kuća \"Dobra voda\", Planinarski dom \"Čika Duško Jovanović\"",
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": "Planinarsko-turistička topografska karta 1:25000, Suvoborski Rajac (st. br.8), u izdanju ”Geokarte” Beograd (Prvo izdanje 2008)",
+    "club": {
+        "name": "Pobeda PSK",
+        "url": "https://pss.rs/adresar_klubova/pobeda-pk/",
+        "contact": "Mačvanska 8, 11000 Beograd\n+38163 329 434 ; +38163 32 94 50\nhttps://www.pskpobeda.rs",
+        "clubs": [
+            {
+                "name": "Pobeda PSK",
+                "url": "https://pss.rs/adresar_klubova/pobeda-pk/",
+                "contact": "Mačvanska 8, 11000 Beograd\n+38163 329 434 ; +38163 32 94 50\nhttps://www.pskpobeda.rs"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 4,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/3-20-8-Ljig-Cardak-Rajac.gpx",
+        "fetched_at": "2026-11-08T11:55:46Z",
+        "checked_at": "2026-11-08T11:55:46Z",
+        "bytes": 96682,
+        "sha256": "f48aa3d6d1e8ce383cb9b9de1228b36a4a2fbd67a0419f1ca237c2995f151332",
+        "etag": null,
+        "last_modified": "Sat, 03 Jul 2021 12:20:52 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 745,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 19,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/3-20-8-Ljig-Cardak-Rajac.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/ljig-centar-rajac-cika-duskov-pl-dom.geojson",
+        "bbox": [
+            20.207933960482478,
+            44.138067020103335,
+            20.24523502215743,
+            44.22549697570503
+        ],
+        "center": [
+            20.226584,
+            44.181782
+        ],
+        "start_point": [
+            20.239595007151365,
+            44.22549697570503
+        ],
+        "end_point": [
+            20.2449809666723,
+            44.14284403435886
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    20.2396,
+                    44.2255
+                ],
+                [
+                    20.22596,
+                    44.21881
+                ],
+                [
+                    20.22331,
+                    44.21177
+                ],
+                [
+                    20.22665,
+                    44.1995
+                ],
+                [
+                    20.22169,
+                    44.19189
+                ],
+                [
+                    20.22302,
+                    44.184
+                ],
+                [
+                    20.20908,
+                    44.18018
+                ],
+                [
+                    20.21165,
+                    44.17606
+                ],
+                [
+                    20.20793,
+                    44.17334
+                ],
+                [
+                    20.21209,
+                    44.17369
+                ],
+                [
+                    20.20951,
+                    44.16762
+                ],
+                [
+                    20.2156,
+                    44.16429
+                ],
+                [
+                    20.21436,
+                    44.16189
+                ],
+                [
+                    20.21993,
+                    44.16077
+                ],
+                [
+                    20.21748,
+                    44.152
+                ],
+                [
+                    20.2205,
+                    44.14657
+                ],
+                [
+                    20.2224,
+                    44.14696
+                ],
+                [
+                    20.21537,
+                    44.14102
+                ],
+                [
+                    20.22306,
+                    44.13846
+                ],
+                [
+                    20.2404,
+                    44.13858
+                ],
+                [
+                    20.24498,
+                    44.14284
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/ljig-centar-rajac-cika-duskov-pl-dom/",
+        "canonical_url": "https://pss.rs/terenipp/ljig-centar-rajac-cika-duskov-pl-dom/",
+        "pss_id": 3850,
+        "updated_at": "2023-03-29T14:15:52Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:55:47Z",
+        "last_synced_at": "2026-11-08T11:55:47Z"
+    },
+    "search": "ljig (centar) - rajac (cika duskov pl.dom) 3-20-8 zapadna srbija suvobor ljig (zgrada opstine), 150 m rajac (cika duskov pl.dom), 625 m pobeda psk • crkva spomen-kosturnica (u izgradnji) • spomen obelezja poginulim ratnicima u kolubarskoj bitci na cardaku i rajcu zahtevna pl. put ide iz centra varosi ljiga, pravcem jug uzvodno dolinom reke ljig pored ibarske magistrale, skrece ka rajcu preko mosta na reci dragobilj (desna pritoka ljiga) kod sela kadina luka, nastavlja kroz selo asvaltnim putem do razdvajanja puteva za selo ba i slavkovicu, dolinom slavkovacke reke produzava ka slavkovici i nakon oko 500 m skreca sa asvaltnog puta u desno, prelazi slavkovacku reku preko mostica, prolazi ispod kote krst 332 i lagano se penje pravcem jug ka vrhu cardak 645 mnv. put se dalje spusta planinskom stazom ka zaseoku topalovici, a zatim penje preko kikova i kote 508 do kote 806 zapadno iznad kojica cesme. odavde put skrece na istok i losim makadamskim putem se blago spusta do asvalta i kote 686 (kafana \"lovacka prica\") . odavde se skrece na sever i nakon 500 m asvaltnim putem stize do doma na rajcu.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:55:47Z"
+    }
+}

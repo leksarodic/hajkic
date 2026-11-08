@@ -1,0 +1,211 @@
+{
+    "schema_version": 1,
+    "slug": "jarsenovo-g-kupinovica-kriva-buka",
+    "name": "Jarsenovo - G. Kupinovica - Kriva Buka",
+    "code": "7-1-2",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 15678,
+        "category_id": 28,
+        "region_ids": [
+            7
+        ],
+        "mountain_ids": [
+            368
+        ]
+    },
+    "region": "Jugoistočna Srbija",
+    "mountain": "Babička gora",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 13.0,
+        "calculated_km": 12.83
+    },
+    "duration": {
+        "official_minutes": 275,
+        "official_text": "4 h 35 min",
+        "official_raw": "4:35"
+    },
+    "elevation": {
+        "official_gain_m": 717.0,
+        "official_loss_m": 176.0,
+        "calculated_gain_m": 278.3,
+        "calculated_loss_m": 825.0,
+        "min_m": 481.0,
+        "max_m": 1062.6
+    },
+    "start": "Selo Jarsenovo, 530 m",
+    "end": "Vrh Kriva buka, 1059 m",
+    "description": "• Selo Jarsenovo - kota 611 m - manastir Sv. Jovan - vikend naselje - zaseok sela Golema Njiva - ženski manastir Vavedenje Presvete Bogorodice - 2. šumska kuća i izvor - vrh Kriva buka\n\n • Sa stazom \"Crni Kamen\" pravi kružnu stazu dužine 19,5 km.\n\n • Jedan izvor pitke vode pored staze",
+    "landmarks": "• Vidikovac ka planini Ostrozub\n\n • Vidikovac ka Radan planini\n\n • Sela: Jarsenovo, Gornja Kupinovica, Jašunja i Golema Njiva\n\n • 2 manastira \"Leskovačke Svete Gore\"",
+    "maintenance": "delimično uređena",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu je trasirao PSK \"Kukavica\" 2021.\n\n • Poslednji put staza je markirana 2021.",
+    "map_reference": null,
+    "map_sheet": "1:50000 TK Bela Palanka 3 (583-3)",
+    "club": {
+        "name": "Kukavica PSK",
+        "url": "https://pss.rs/adresar_klubova/kukavica-psk/",
+        "contact": "Deligradska 5, 16000 Leskovac\n+381652824655",
+        "clubs": [
+            {
+                "name": "Kukavica PSK",
+                "url": "https://pss.rs/adresar_klubova/kukavica-psk/",
+                "contact": "Deligradska 5, 16000 Leskovac\n+381652824655"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2022/02/7-1-2-Staza-br.17-Jarsenovo-G.Kupinovica-Kriva-Buka.gpx",
+        "fetched_at": "2026-11-08T12:02:20Z",
+        "checked_at": "2026-11-08T12:02:20Z",
+        "bytes": 367381,
+        "sha256": "2add8d176923408cbfb790f34bc94d90aa86dd190d88092e7ae6a3685484cb3b",
+        "etag": null,
+        "last_modified": "Fri, 04 Feb 2022 11:52:49 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 2251,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 6,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2022/02/7-1-2-Staza-br.17-Jarsenovo-G.Kupinovica-Kriva-Buka.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/jarsenovo-g-kupinovica-kriva-buka.geojson",
+        "bbox": [
+            22.040715040639043,
+            43.08328203856945,
+            22.084114020690322,
+            43.13005599193275
+        ],
+        "center": [
+            22.062415,
+            43.106669
+        ],
+        "start_point": [
+            22.061671977862716,
+            43.12633400782943
+        ],
+        "end_point": [
+            22.0841099973768,
+            43.08379802852869
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    22.06167,
+                    43.12633
+                ],
+                [
+                    22.05165,
+                    43.12992
+                ],
+                [
+                    22.04512,
+                    43.12118
+                ],
+                [
+                    22.04257,
+                    43.12211
+                ],
+                [
+                    22.04181,
+                    43.10587
+                ],
+                [
+                    22.04618,
+                    43.10854
+                ],
+                [
+                    22.04205,
+                    43.1058
+                ],
+                [
+                    22.0425,
+                    43.09874
+                ],
+                [
+                    22.04695,
+                    43.09792
+                ],
+                [
+                    22.04735,
+                    43.09561
+                ],
+                [
+                    22.04909,
+                    43.09798
+                ],
+                [
+                    22.05396,
+                    43.09168
+                ],
+                [
+                    22.05921,
+                    43.09177
+                ],
+                [
+                    22.06353,
+                    43.08578
+                ],
+                [
+                    22.07236,
+                    43.08498
+                ],
+                [
+                    22.07512,
+                    43.0864
+                ],
+                [
+                    22.08071,
+                    43.08329
+                ],
+                [
+                    22.08411,
+                    43.0838
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/jarsenovo-g-kupinovica-kriva-buka/",
+        "canonical_url": "https://pss.rs/terenipp/jarsenovo-g-kupinovica-kriva-buka/",
+        "pss_id": 15678,
+        "updated_at": "2022-10-31T19:36:18Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:02:21Z",
+        "last_synced_at": "2026-11-08T12:02:21Z"
+    },
+    "search": "jarsenovo - g. kupinovica - kriva buka 7-1-2 jugoistocna srbija babicka gora selo jarsenovo, 530 m vrh kriva buka, 1059 m kukavica psk • vidikovac ka planini ostrozub • vidikovac ka radan planini • sela: jarsenovo, gornja kupinovica, jasunja i golema njiva • 2 manastira \"leskovacke svete gore\" zahtevna • selo jarsenovo - kota 611 m - manastir sv. jovan - vikend naselje - zaseok sela golema njiva - zenski manastir vavedenje presvete bogorodice - 2. sumska kuca i izvor - vrh kriva buka • sa stazom \"crni kamen\" pravi kruznu stazu duzine 19,5 km. • jedan izvor pitke vode pored staze",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:02:21Z"
+    }
+}

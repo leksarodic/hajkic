@@ -1,0 +1,191 @@
+{
+    "schema_version": 1,
+    "slug": "obalom-jegricke",
+    "name": "Obalom Jegričke",
+    "code": "1-14-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 4469,
+        "category_id": 28,
+        "region_ids": [
+            1
+        ],
+        "mountain_ids": [
+            92
+        ]
+    },
+    "region": "Vojvodina",
+    "mountain": "Park prirode Jegrička-Sirig",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 13.5,
+        "calculated_km": 13.19
+    },
+    "duration": {
+        "official_minutes": 210,
+        "official_text": "3 h 30 min",
+        "official_raw": "3:30"
+    },
+    "elevation": {
+        "official_gain_m": 76.0,
+        "official_loss_m": 76.0,
+        "calculated_gain_m": 9.8,
+        "calculated_loss_m": 9.2,
+        "min_m": 73.1,
+        "max_m": 78.7
+    },
+    "start": "Planinarski-lovački dom na levoj obali Jegričke-Sirig",
+    "end": "Planinarski-lovački dom na levoj obali Jegričke-Sirig",
+    "description": "Start kod motela, nizvodno desnom obalom Jegričke, preko mosta na malom kanalu pa do salaša Mali Kojot. Potom se nastavlja obalom Jegričke pa preko mosta na levu obalu, dalje se ide uzvodno pored Hevirovog salaša i nazad do motela.",
+    "landmarks": "• Obala reke Jegričke\n\n • Vojvođanski salaši - Hevirov salaš, salaš \"Mali kojot\"\n\n • Planinarski-lovački dom na trasi\n\n • Kamp na trasi\n\n • 2 odmarališta na trasi",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu je trasirao Branko Srnić 1995.\n\n • Poslednji put staza je markirana 2015.",
+    "map_reference": null,
+    "map_sheet": "Zaštićeno prirodno dobro - Park prirode Jegrička, 1:35000, izdanje Republički geodetski zavod",
+    "club": {
+        "name": "Sirig PSK",
+        "url": "https://pss.rs/adresar_klubova/sirig-psk/",
+        "contact": "Novosadska 38 21214 Sirig\n+38164 207 10 11 ; +38121 849 287\nhttp://www.psksirig.org.rs/",
+        "clubs": [
+            {
+                "name": "Sirig PSK",
+                "url": "https://pss.rs/adresar_klubova/sirig-psk/",
+                "contact": "Novosadska 38 21214 Sirig\n+38164 207 10 11 ; +38121 849 287\nhttp://www.psksirig.org.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 9,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/08/1-14-1-Obalom-Jegicke.gpx",
+        "fetched_at": "2026-11-08T11:56:47Z",
+        "checked_at": "2026-11-08T11:56:47Z",
+        "bytes": 44963,
+        "sha256": "31e51886ddbabbb206acfa033bd354068c16b3f9abd7c2eb0dcd8c48e3fef85f",
+        "etag": null,
+        "last_modified": "Mon, 13 Dec 2021 15:22:40 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 272,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 2,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/08/1-14-1-Obalom-Jegicke.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/obalom-jegricke.geojson",
+        "bbox": [
+            19.808639036491513,
+            45.44865201227367,
+            19.87786198966205,
+            45.460871988907456
+        ],
+        "center": [
+            19.843251,
+            45.454762
+        ],
+        "start_point": [
+            19.808639036491513,
+            45.456356992945075
+        ],
+        "end_point": [
+            19.809014964848757,
+            45.45645103789866
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    19.80864,
+                    45.45636
+                ],
+                [
+                    19.81103,
+                    45.45489
+                ],
+                [
+                    19.83638,
+                    45.45417
+                ],
+                [
+                    19.835,
+                    45.44989
+                ],
+                [
+                    19.84182,
+                    45.44866
+                ],
+                [
+                    19.84986,
+                    45.4513
+                ],
+                [
+                    19.8547,
+                    45.45593
+                ],
+                [
+                    19.87786,
+                    45.45993
+                ],
+                [
+                    19.87104,
+                    45.46084
+                ],
+                [
+                    19.8407,
+                    45.45471
+                ],
+                [
+                    19.82509,
+                    45.45678
+                ],
+                [
+                    19.81636,
+                    45.45538
+                ],
+                [
+                    19.80901,
+                    45.45645
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/obalom-jegricke/",
+        "canonical_url": "https://pss.rs/terenipp/obalom-jegricke/",
+        "pss_id": 4469,
+        "updated_at": "2021-12-13T15:26:37Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:56:48Z",
+        "last_synced_at": "2026-11-08T11:56:48Z"
+    },
+    "search": "obalom jegricke 1-14-1 vojvodina park prirode jegricka-sirig planinarski-lovacki dom na levoj obali jegricke-sirig planinarski-lovacki dom na levoj obali jegricke-sirig sirig psk • obala reke jegricke • vojvodjanski salasi - hevirov salas, salas \"mali kojot\" • planinarski-lovacki dom na trasi • kamp na trasi • 2 odmaralista na trasi laka start kod motela, nizvodno desnom obalom jegricke, preko mosta na malom kanalu pa do salasa mali kojot. potom se nastavlja obalom jegricke pa preko mosta na levu obalu, dalje se ide uzvodno pored hevirovog salasa i nazad do motela.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:56:48Z"
+    }
+}

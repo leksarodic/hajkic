@@ -1,0 +1,211 @@
+{
+    "schema_version": 1,
+    "slug": "4-vrha-device",
+    "name": "4 vrha Device",
+    "code": "4-31-15",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 15058,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            57
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Devica",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 12.5,
+        "calculated_km": 12.5
+    },
+    "duration": {
+        "official_minutes": 300,
+        "official_text": "5 h",
+        "official_raw": "5:00"
+    },
+    "elevation": {
+        "official_gain_m": 668.0,
+        "official_loss_m": 668.0,
+        "calculated_gain_m": 586.9,
+        "calculated_loss_m": 581.2,
+        "min_m": 827.2,
+        "max_m": 1181.8
+    },
+    "start": "Izletište Šopur, 843 m",
+    "end": "Izletište Šopur, 843 m",
+    "description": "Staza je kružna i polazi sa izletišta Šopur. Ide jakim i nasutim kolskim putem uzbrdo, i nakon 1,2 km skreće u desno i zemljanim kolskim putem kroz livade se prvo spušta, a zatim blago penje do skretanja sa kolskog puta. Tu se preko livada dolazi do šumovitog dela i oštrijeg uspona kamenitom stazom na Oštru čuku. Silazak je na južnu stranu, prvo kamenitom stazom, a zatim zemljanom do kolskog puta, gde se skreće u levo. Staza se spušta i zalama u levo do kaptaže vode. Odatle se penje do skretanja u levo i preko jedne livade sa velikim kamenom u sredini ulazi u šumoviti deo. Tu je staza kamenita i ima veći uspon do vidikovca. Od vidikovca staza je kamenita i zatim izlazi na livadu gde skreće u desno, a zatim ulazi u šumu. Na izlasku iz šume se nastavnja uspon do vrha Aleksin kamen. Vrh nije izdvojen, već je samo trigonometrijska tačka. Nakon vrha staza naglo skreće u levo i prolazi kroz šumoviti deo, prvo se blago spušta, a zatim penje i prolazi kroz nisko rastinje. Staza izlazi na jači zemljani put, gde skreće u desno. Kroz šumoviti deo staza dolazi do odvajanja za vrh Džambinac, koji nije posebno izdvojen i nalazi se u šumi. Od mesta odvajanja staza nastavlja kroz šumu i izlazi na jači kolski put. Prati se taj put i nakon što naglo skrene u levo, staza se odvaja od njega i skreće u desno naniže kroz četinarsku šumu. Zatim blago skreće u desno i kroz bukovu šumu izlazi na deo sa nižim rastinjem, a zatim na zaravan, gde kroz šumu skreće u desno i vrlo brzo dolazi do Čapljinca (1187m), najvišeg vrha planine Device. Vrh je otvoren prema jugu sa dobrim pogledom. Staza vodi kroz kameniti deo prema jugu i vrlo brzo se spaja sa kolskim putem, koji vodi prema zapadu. Zatim staza izlazi na kameniti put po obodu i počinje da se spušta. Deonica je bez rastinja. Nakon toga ulazi u šumoviti deo i dolazi do spajanja sa delom staze kod livade sa kamenom. Staza se u kraćem delu poklapa sa dolaznom, ali se vrlo brzo odvaja i spušta do Studenog kladenca. Nakon toga se penje do kolskog puta, gde skreće u levo i i prati taj put, gde produžava naniže kroz šumu. Staza seče asfaltni put i produžava kroz šumu. Na kraju skreće u desno i dolazi se do Izletišta Šopur, odnosno do polazne tačke.",
+    "landmarks": "• Izletište i česma Šopur\n\n • Vrhovi Oštra čuka (1075m), Aleksin kamen (1100m), Džambinac (1185m), Čapljinac (1187m)\n\n • Vidikovci: vrh Oštra čuka, vidikovac pre vrha Aleksin kamen, vrh Aleksin kamen, vrh Čapljinac (južna strana)\n\n • Studeni kladenac\n\n • Na trasi ima izvora pitke vode",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu su trasirali Nebojša Mitić i Ilija Knežević oktobra 2016.\n\n • Poslednji put staza je markirana 2021.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Ozren PK",
+        "url": "https://pss.rs/adresar_klubova/ozren-pk/",
+        "contact": "Alekse Markišića 28/3 18230 Sokobanja (poštanski fah 63)\n+38164 855 33 61",
+        "clubs": [
+            {
+                "name": "Ozren PK",
+                "url": "https://pss.rs/adresar_klubova/ozren-pk/",
+                "contact": "Alekse Markišića 28/3 18230 Sokobanja (poštanski fah 63)\n+38164 855 33 61"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2021/12/4-31-15-4-vrha-Device.gpx",
+        "fetched_at": "2026-11-08T12:02:10Z",
+        "checked_at": "2026-11-08T12:02:10Z",
+        "bytes": 70738,
+        "sha256": "aadcaba9653c9e9fba3d11a70f37ec50a01ec5ccab479fdae3f53e2fe0516668",
+        "etag": null,
+        "last_modified": "Mon, 13 Dec 2021 12:43:56 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 431,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 5,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2021/12/4-31-15-4-vrha-Device.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/4-vrha-device.geojson",
+        "bbox": [
+            21.887038964778185,
+            43.590065985918045,
+            21.933483006432652,
+            43.605598993599415
+        ],
+        "center": [
+            21.910261,
+            43.597832
+        ],
+        "start_point": [
+            21.887837005779147,
+            43.6038660351187
+        ],
+        "end_point": [
+            21.887819319963455,
+            43.603789089247584
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    21.88784,
+                    43.60387
+                ],
+                [
+                    21.88742,
+                    43.6056
+                ],
+                [
+                    21.89763,
+                    43.60152
+                ],
+                [
+                    21.89937,
+                    43.59962
+                ],
+                [
+                    21.89718,
+                    43.59641
+                ],
+                [
+                    21.90115,
+                    43.59385
+                ],
+                [
+                    21.91553,
+                    43.59634
+                ],
+                [
+                    21.92112,
+                    43.60241
+                ],
+                [
+                    21.92503,
+                    43.60198
+                ],
+                [
+                    21.92473,
+                    43.59837
+                ],
+                [
+                    21.93348,
+                    43.59366
+                ],
+                [
+                    21.92873,
+                    43.59008
+                ],
+                [
+                    21.90475,
+                    43.59405
+                ],
+                [
+                    21.90225,
+                    43.59182
+                ],
+                [
+                    21.89879,
+                    43.5942
+                ],
+                [
+                    21.8957,
+                    43.5925
+                ],
+                [
+                    21.89213,
+                    43.59436
+                ],
+                [
+                    21.88782,
+                    43.60379
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/4-vrha-device/",
+        "canonical_url": "https://pss.rs/terenipp/4-vrha-device/",
+        "pss_id": 15058,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:02:10Z",
+        "last_synced_at": "2026-11-08T12:02:10Z"
+    },
+    "search": "4 vrha device 4-31-15 istocna srbija devica izletiste sopur, 843 m izletiste sopur, 843 m ozren pk • izletiste i cesma sopur • vrhovi ostra cuka (1075m), aleksin kamen (1100m), dzambinac (1185m), capljinac (1187m) • vidikovci: vrh ostra cuka, vidikovac pre vrha aleksin kamen, vrh aleksin kamen, vrh capljinac (juzna strana) • studeni kladenac • na trasi ima izvora pitke vode laka staza je kruzna i polazi sa izletista sopur. ide jakim i nasutim kolskim putem uzbrdo, i nakon 1,2 km skrece u desno i zemljanim kolskim putem kroz livade se prvo spusta, a zatim blago penje do skretanja sa kolskog puta. tu se preko livada dolazi do sumovitog dela i ostrijeg uspona kamenitom stazom na ostru cuku. silazak je na juznu stranu, prvo kamenitom stazom, a zatim zemljanom do kolskog puta, gde se skrece u levo. staza se spusta i zalama u levo do kaptaze vode. odatle se penje do skretanja u levo i preko jedne livade sa velikim kamenom u sredini ulazi u sumoviti deo. tu je staza kamenita i ima veci uspon do vidikovca. od vidikovca staza je kamenita i zatim izlazi na livadu gde skrece u desno, a zatim ulazi u sumu. na izlasku iz sume se nastavnja uspon do vrha aleksin kamen. vrh nije izdvojen, vec je samo trigonometrijska tacka. nakon vrha staza naglo skrece u levo i prolazi kroz sumoviti deo, prvo se blago spusta, a zatim penje i prolazi kroz nisko rastinje. staza izlazi na jaci zemljani put, gde skrece u desno. kroz sumoviti deo staza dolazi do odvajanja za vrh dzambinac, koji nije posebno izdvojen i nalazi se u sumi. od mesta odvajanja staza nastavlja kroz sumu i izlazi na jaci kolski put. prati se taj put i nakon sto naglo skrene u levo, staza se odvaja od njega i skrece u desno nanize kroz cetinarsku sumu. zatim blago skrece u desno i kroz bukovu sumu izlazi na deo sa nizim rastinjem, a zatim na zaravan, gde kroz sumu skrece u desno i vrlo brzo dolazi do capljinca (1187m), najviseg vrha planine device. vrh je otvoren prema jugu sa dobrim pogledom. staza vodi kroz kameniti deo prema jugu i vrlo brzo se spaja sa kolskim putem, koji vodi prema zapadu. zatim staza izlazi na kameniti put po obodu i pocinje da se spusta. deonica je bez rastinja. nakon toga ulazi u s",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:02:10Z"
+    }
+}

@@ -1,0 +1,229 @@
+{
+    "schema_version": 1,
+    "slug": "bobija-rudnik-vrh-dobra-voda-razbojiste",
+    "name": "Bobija (rudnik - vrh - Dobra voda - Razbojište)",
+    "code": "3-8-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 9246,
+        "category_id": 28,
+        "region_ids": [
+            3
+        ],
+        "mountain_ids": [
+            128
+        ]
+    },
+    "region": "Zapadna Srbija",
+    "mountain": "Bobija",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 13.5,
+        "calculated_km": 11.96
+    },
+    "duration": {
+        "official_minutes": 240,
+        "official_text": "4 h",
+        "official_raw": "4:00"
+    },
+    "elevation": {
+        "official_gain_m": 591.0,
+        "official_loss_m": 361.0,
+        "calculated_gain_m": 583.8,
+        "calculated_loss_m": 333.8,
+        "min_m": 739.3,
+        "max_m": 1273.5
+    },
+    "start": "Kovačevac - selo Tornik, 739 m",
+    "end": "Dobra voda (na planini Bobija), 1169 m",
+    "description": null,
+    "landmarks": "• Rudnik barita\n\n • Račića crkva\n\n • Vidikovci: 7\n\n • Naselja Tornik, Orovička planina, Savković\n\n • Na trasi ima 4 izvora pitke vode\n\n • Na trasi 1 planinarski objekt, 1 kamp i 4 privatna smeštaja",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu je trasirao Dragan O. Pavlović-Pop.\n\n • Poslednji put staza je markirana 2018. god.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Avala PD",
+        "url": "https://pss.rs/adresar_klubova/psk-avala/",
+        "contact": "Murska 14, 11000 Beograd\n+38111 386 00 64 ; +38160 04 28 252, \nhttp://www.avala.club/",
+        "clubs": [
+            {
+                "name": "Avala PD",
+                "url": "https://pss.rs/adresar_klubova/psk-avala/",
+                "contact": "Murska 14, 11000 Beograd\n+38111 386 00 64 ; +38160 04 28 252, \nhttp://www.avala.club/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2019/07/3-8-1-bobija-rudnik-vrh-dobra-voda-razbojiste.gpx",
+        "fetched_at": "2026-11-08T12:00:27Z",
+        "checked_at": "2026-11-08T12:00:27Z",
+        "bytes": 34733,
+        "sha256": "c7d784aec52291ece034fc2a90e4c2db3c169fc78e5441bc118b68d679753acc",
+        "etag": null,
+        "last_modified": "Tue, 02 Jul 2019 13:58:19 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 179,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 12,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2019/07/3-8-1-bobija-rudnik-vrh-dobra-voda-razbojiste.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/bobija-rudnik-vrh-dobra-voda-razbojiste.geojson",
+        "bbox": [
+            19.53824495896697,
+            44.17461798526347,
+            19.586912970989943,
+            44.20996899716556
+        ],
+        "center": [
+            19.562579,
+            44.192293
+        ],
+        "start_point": [
+            19.540299028158188,
+            44.19458300806582
+        ],
+        "end_point": [
+            19.585201973095536,
+            44.17498997412622
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    19.5403,
+                    44.19458
+                ],
+                [
+                    19.53824,
+                    44.1981
+                ],
+                [
+                    19.54689,
+                    44.20339
+                ],
+                [
+                    19.54574,
+                    44.20633
+                ],
+                [
+                    19.54879,
+                    44.2051
+                ],
+                [
+                    19.54713,
+                    44.20997
+                ],
+                [
+                    19.5536,
+                    44.20747
+                ],
+                [
+                    19.55631,
+                    44.20359
+                ],
+                [
+                    19.5546,
+                    44.20235
+                ],
+                [
+                    19.55722,
+                    44.20173
+                ],
+                [
+                    19.55725,
+                    44.19759
+                ],
+                [
+                    19.55212,
+                    44.19542
+                ],
+                [
+                    19.55284,
+                    44.19202
+                ],
+                [
+                    19.55866,
+                    44.19502
+                ],
+                [
+                    19.56758,
+                    44.19206
+                ],
+                [
+                    19.57214,
+                    44.18777
+                ],
+                [
+                    19.57805,
+                    44.18673
+                ],
+                [
+                    19.57663,
+                    44.18911
+                ],
+                [
+                    19.57868,
+                    44.18841
+                ],
+                [
+                    19.58049,
+                    44.18008
+                ],
+                [
+                    19.58691,
+                    44.17486
+                ],
+                [
+                    19.5852,
+                    44.17499
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/bobija-rudnik-vrh-dobra-voda-razbojiste/",
+        "canonical_url": "https://pss.rs/terenipp/bobija-rudnik-vrh-dobra-voda-razbojiste/",
+        "pss_id": 9246,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:00:27Z",
+        "last_synced_at": "2026-11-08T12:00:27Z"
+    },
+    "search": "bobija (rudnik - vrh - dobra voda - razbojiste) 3-8-1 zapadna srbija bobija kovacevac - selo tornik, 739 m dobra voda (na planini bobija), 1169 m avala pd • rudnik barita • racica crkva • vidikovci: 7 • naselja tornik, orovicka planina, savkovic • na trasi ima 4 izvora pitke vode • na trasi 1 planinarski objekt, 1 kamp i 4 privatna smestaja laka",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:00:27Z"
+    }
+}

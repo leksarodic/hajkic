@@ -1,0 +1,124 @@
+{
+    "schema_version": 1,
+    "slug": "selo-ravanica-manastir-kalenic-samar-stubal",
+    "name": "Selo Ravanica-manastir Kalenić. Samar. Stubal",
+    "code": "2-14-16",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 3958,
+        "category_id": 28,
+        "region_ids": [
+            2
+        ],
+        "mountain_ids": [
+            61
+        ]
+    },
+    "region": "Šumadija",
+    "mountain": "Gledićke planine",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 31.0,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": 600,
+        "official_text": "10 h",
+        "official_raw": "10"
+    },
+    "elevation": {
+        "official_gain_m": 690.0,
+        "official_loss_m": 664.0,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": "selo Ravanica 232 mnv",
+    "end": "selo Stubal 258 mnv",
+    "description": null,
+    "landmarks": null,
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Železničar PSK Kraljevo",
+        "url": "https://pss.rs/adresar_klubova/zeleznicar-psk/",
+        "contact": "Industrijska 2, 36000 Kraljevo\n064/636 17 95\nhttp://www.pskzeleznicarkv.rs/",
+        "clubs": [
+            {
+                "name": "Železničar PSK Kraljevo",
+                "url": "https://pss.rs/adresar_klubova/zeleznicar-psk/",
+                "contact": "Industrijska 2, 36000 Kraljevo\n064/636 17 95\nhttp://www.pskzeleznicarkv.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": false,
+        "status": "missing",
+        "source_url": null,
+        "fetched_at": null,
+        "checked_at": "2026-11-08T11:56:27Z",
+        "bytes": null,
+        "sha256": null,
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": null,
+        "tracks": null,
+        "segments": null,
+        "waypoints": null,
+        "error": null,
+        "download": {
+            "mode": "none",
+            "url": null
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description",
+            "missing_gpx"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/selo-ravanica-manastir-kalenic-samar-stubal/",
+        "canonical_url": "https://pss.rs/terenipp/selo-ravanica-manastir-kalenic-samar-stubal/",
+        "pss_id": 3958,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:56:27Z",
+        "last_synced_at": "2026-11-08T11:56:27Z"
+    },
+    "search": "selo ravanica-manastir kalenic. samar. stubal 2-14-16 sumadija gledicke planine selo ravanica 232 mnv selo stubal 258 mnv zeleznicar psk kraljevo zahtevna",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:56:27Z"
+    }
+}

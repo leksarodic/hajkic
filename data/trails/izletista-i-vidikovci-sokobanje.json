@@ -1,0 +1,211 @@
+{
+    "schema_version": 1,
+    "slug": "izletista-i-vidikovci-sokobanje",
+    "name": "Izletišta i vidikovci Sokobanje",
+    "code": "4-31-14",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 13400,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            57
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Devica",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 11.5,
+        "calculated_km": 11.44
+    },
+    "duration": {
+        "official_minutes": 300,
+        "official_text": "5 h",
+        "official_raw": "5:00"
+    },
+    "elevation": {
+        "official_gain_m": 597.0,
+        "official_loss_m": 597.0,
+        "calculated_gain_m": 580.9,
+        "calculated_loss_m": 580.7,
+        "min_m": 308.0,
+        "max_m": 713.4
+    },
+    "start": "Centar Sokobanje, 308 m",
+    "end": "Centar Sokobanje, 308 m",
+    "description": "Staza polazi iz centra Sokobanje i preko parka Borići, parka Čuka 2 i Belih voda vodi do slapa Ripaljke. Odatle izlazi do kapije bolnice \"Ozren\" i nastavlja makadamskim putem do asfaltnog puta Sokobanja - selo Jezero. Spušta se do izletišta Barudžija i penje se do poletišta za paraglajding. Zatim izohipsom prolazi pored Orlovčića i dolazi do Goleme padine. Tu se spušta do vidikovca Golemi kamen. Zatim se spušta do Strelišta, gde izlazi na asfaltni put. Dalje staza ide prema centru Sokobanje, pored restorana Vidikovac i Didićeve česme. Staza je samostalna i koristi se za Dan pešačenja \"Srbija hoda\" u septembru.",
+    "landmarks": "• Park Borići, vodopad Ripaljka, izletište Barudžija, poletište za paraglajding, Golemi Kamen\n\n • Vidikovci: Paraglajding, Golemi Kamen, Vidikovac\n\n • Mesto: Sokobanja\n\n • Na trasi ima izvora pitke vode\n\n • Smeštaj: kamp, odmaralište, privatni smeštaj",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu je trasirao marta 2015. PK \"Ozren\" Sokobanja (Dragan Knežević)\n\n • Poslednji put staza je markirana 2020. godine",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Ozren PK",
+        "url": "https://pss.rs/adresar_klubova/ozren-pk/",
+        "contact": "Alekse Markišića 28/3 18230 Sokobanja (poštanski fah 63)\n+38164 855 33 61",
+        "clubs": [
+            {
+                "name": "Ozren PK",
+                "url": "https://pss.rs/adresar_klubova/ozren-pk/",
+                "contact": "Alekse Markišića 28/3 18230 Sokobanja (poštanski fah 63)\n+38164 855 33 61"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2021/03/4-31-14-Izletista-i-vidikovci-Sokobanje.gpx",
+        "fetched_at": "2026-11-08T12:01:56Z",
+        "checked_at": "2026-11-08T12:01:56Z",
+        "bytes": 164144,
+        "sha256": "bfcdc38ffb02847e43140cac54ece8c522270fa3813cb5973e1049efef2f8b45",
+        "etag": null,
+        "last_modified": "Tue, 30 Mar 2021 19:18:07 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 978,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 10,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2021/03/4-31-14-Izletista-i-vidikovci-Sokobanje.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/izletista-i-vidikovci-sokobanje.geojson",
+        "bbox": [
+            21.850684974342585,
+            43.621647991240025,
+            21.888367999345064,
+            43.64401803351939
+        ],
+        "center": [
+            21.869526,
+            43.632833
+        ],
+        "start_point": [
+            21.873764963820577,
+            43.64398702047765
+        ],
+        "end_point": [
+            21.87394400127232,
+            43.64397402852774
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    21.87376,
+                    43.64399
+                ],
+                [
+                    21.87384,
+                    43.63952
+                ],
+                [
+                    21.86866,
+                    43.63485
+                ],
+                [
+                    21.86684,
+                    43.63751
+                ],
+                [
+                    21.85213,
+                    43.63516
+                ],
+                [
+                    21.85068,
+                    43.62907
+                ],
+                [
+                    21.85498,
+                    43.62255
+                ],
+                [
+                    21.85892,
+                    43.62176
+                ],
+                [
+                    21.86675,
+                    43.62434
+                ],
+                [
+                    21.86748,
+                    43.626
+                ],
+                [
+                    21.87003,
+                    43.62567
+                ],
+                [
+                    21.87059,
+                    43.62942
+                ],
+                [
+                    21.87374,
+                    43.62772
+                ],
+                [
+                    21.87799,
+                    43.63116
+                ],
+                [
+                    21.88624,
+                    43.6302
+                ],
+                [
+                    21.88793,
+                    43.62806
+                ],
+                [
+                    21.88403,
+                    43.63746
+                ],
+                [
+                    21.87394,
+                    43.64397
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/izletista-i-vidikovci-sokobanje/",
+        "canonical_url": "https://pss.rs/terenipp/izletista-i-vidikovci-sokobanje/",
+        "pss_id": 13400,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:01:57Z",
+        "last_synced_at": "2026-11-08T12:01:57Z"
+    },
+    "search": "izletista i vidikovci sokobanje 4-31-14 istocna srbija devica centar sokobanje, 308 m centar sokobanje, 308 m ozren pk • park borici, vodopad ripaljka, izletiste barudzija, poletiste za paraglajding, golemi kamen • vidikovci: paraglajding, golemi kamen, vidikovac • mesto: sokobanja • na trasi ima izvora pitke vode • smestaj: kamp, odmaraliste, privatni smestaj laka staza polazi iz centra sokobanje i preko parka borici, parka cuka 2 i belih voda vodi do slapa ripaljke. odatle izlazi do kapije bolnice \"ozren\" i nastavlja makadamskim putem do asfaltnog puta sokobanja - selo jezero. spusta se do izletista barudzija i penje se do poletista za paraglajding. zatim izohipsom prolazi pored orlovcica i dolazi do goleme padine. tu se spusta do vidikovca golemi kamen. zatim se spusta do strelista, gde izlazi na asfaltni put. dalje staza ide prema centru sokobanje, pored restorana vidikovac i didiceve cesme. staza je samostalna i koristi se za dan pesacenja \"srbija hoda\" u septembru.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:01:57Z"
+    }
+}

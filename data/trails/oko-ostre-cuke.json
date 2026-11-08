@@ -1,0 +1,239 @@
+{
+    "schema_version": 1,
+    "slug": "oko-ostre-cuke",
+    "name": "Oko Oštre čuke",
+    "code": "4-31-12",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 8218,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            57
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Devica",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 21.0,
+        "calculated_km": 17.27
+    },
+    "duration": {
+        "official_minutes": 360,
+        "official_text": "6 h",
+        "official_raw": "6:00"
+    },
+    "elevation": {
+        "official_gain_m": 1065.0,
+        "official_loss_m": 578.0,
+        "calculated_gain_m": 623.1,
+        "calculated_loss_m": 539.2,
+        "min_m": 651.4,
+        "max_m": 1182.9
+    },
+    "start": "Sokobanja, 305m",
+    "end": "Radenkovac, 738m",
+    "description": "• Staza polazi iz centra Sokobanje i preko nekoliko izletišta (šuma), izlazi do mesta Ozrenske livade gde je uspon blaži i staza dalje vodi kroz bukovu šumu do mesta Debela oranica odakle se staza penje na krečnjačku visoravan. Staza je u vidu \"kozje staze\" do vrha Device, Čapljinca, odakle staza izlazi iz šume postaje šumski put i obara postepeno visinu do Radenkovca. Tokom uspona do Čapljinca ima dosta vidikovaca kao nakon silaska sa vrha. Na Čapljincu nema dobrog vidika.\n\n • Spaja sledeće staze/puteve: Sokobanja - Kalinovica, Kalinovica - Čapljinac - Radenkovac, Novo Selo - Krst - Radenkovac.",
+    "landmarks": "• Na stazi ima vidikovaca, uključujući i sam vrh\n\n • Na stazi ima izvora pitke vode: Borići, Barudžija, Kalinovica, Šopur, Gabar\n\n • Smeštaj u Sokobanji",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu su trasirali Milan Dikulić, Milan Jekić, Darko Vasilijić, Marko Bogićević, Goran Milisavljević, Jana Miletić, Ana Miletić, Ana Zdravković, Boban Stojanović, Marija Krstić, Jelena Krstić i Mladen Antić\n\n • Poslednji put staza je markirana septembra 2018. godine",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Oštra čuka PD",
+        "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+        "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/",
+        "clubs": [
+            {
+                "name": "Oštra čuka PD",
+                "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+                "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2019/01/4-31-12-Oko-Ostre-cuke.gpx",
+        "fetched_at": "2026-11-08T11:59:52Z",
+        "checked_at": "2026-11-08T11:59:52Z",
+        "bytes": 67530,
+        "sha256": "56b88003941d3ec6694d46a7d0cfba9c1b85a962d49ae54eb604f0752d0006f3",
+        "etag": null,
+        "last_modified": "Thu, 24 Jan 2019 11:41:29 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 538,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 9,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2019/01/4-31-12-Oko-Ostre-cuke.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/oko-ostre-cuke.geojson",
+        "bbox": [
+            21.87101997435093,
+            43.54773821309209,
+            21.94634805433452,
+            43.62454150803387
+        ],
+        "center": [
+            21.908684,
+            43.58614
+        ],
+        "start_point": [
+            21.87101997435093,
+            43.62454150803387
+        ],
+        "end_point": [
+            21.92839871160686,
+            43.54797072708607
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.87102,
+                    43.62454
+                ],
+                [
+                    21.87291,
+                    43.61507
+                ],
+                [
+                    21.87859,
+                    43.60797
+                ],
+                [
+                    21.88661,
+                    43.60274
+                ],
+                [
+                    21.88736,
+                    43.60561
+                ],
+                [
+                    21.90023,
+                    43.599
+                ],
+                [
+                    21.9011,
+                    43.60166
+                ],
+                [
+                    21.90836,
+                    43.59995
+                ],
+                [
+                    21.91902,
+                    43.59339
+                ],
+                [
+                    21.92195,
+                    43.59632
+                ],
+                [
+                    21.92636,
+                    43.59255
+                ],
+                [
+                    21.9333,
+                    43.59423
+                ],
+                [
+                    21.93032,
+                    43.59426
+                ],
+                [
+                    21.93108,
+                    43.59063
+                ],
+                [
+                    21.93452,
+                    43.59119
+                ],
+                [
+                    21.93417,
+                    43.58907
+                ],
+                [
+                    21.94089,
+                    43.58807
+                ],
+                [
+                    21.93971,
+                    43.57706
+                ],
+                [
+                    21.94259,
+                    43.57312
+                ],
+                [
+                    21.94077,
+                    43.56911
+                ],
+                [
+                    21.94625,
+                    43.56462
+                ],
+                [
+                    21.93886,
+                    43.55828
+                ],
+                [
+                    21.93652,
+                    43.55318
+                ],
+                [
+                    21.93011,
+                    43.5523
+                ],
+                [
+                    21.9284,
+                    43.54797
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/oko-ostre-cuke/",
+        "canonical_url": "https://pss.rs/terenipp/oko-ostre-cuke/",
+        "pss_id": 8218,
+        "updated_at": "2019-01-24T11:46:17Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:59:52Z",
+        "last_synced_at": "2026-11-08T11:59:52Z"
+    },
+    "search": "oko ostre cuke 4-31-12 istocna srbija devica sokobanja, 305m radenkovac, 738m ostra cuka pd • na stazi ima vidikovaca, ukljucujuci i sam vrh • na stazi ima izvora pitke vode: borici, barudzija, kalinovica, sopur, gabar • smestaj u sokobanji zahtevna • staza polazi iz centra sokobanje i preko nekoliko izletista (suma), izlazi do mesta ozrenske livade gde je uspon blazi i staza dalje vodi kroz bukovu sumu do mesta debela oranica odakle se staza penje na krecnjacku visoravan. staza je u vidu \"kozje staze\" do vrha device, capljinca, odakle staza izlazi iz sume postaje sumski put i obara postepeno visinu do radenkovca. tokom uspona do capljinca ima dosta vidikovaca kao nakon silaska sa vrha. na capljincu nema dobrog vidika. • spaja sledece staze/puteve: sokobanja - kalinovica, kalinovica - capljinac - radenkovac, novo selo - krst - radenkovac.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:59:52Z"
+    }
+}

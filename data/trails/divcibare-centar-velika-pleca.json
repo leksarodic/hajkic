@@ -1,0 +1,167 @@
+{
+    "schema_version": 1,
+    "slug": "divcibare-centar-velika-pleca",
+    "name": "Divčibare centar - Velika Pleća",
+    "code": "3-22-3",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 16552,
+        "category_id": 28,
+        "region_ids": [
+            3
+        ],
+        "mountain_ids": [
+            155
+        ]
+    },
+    "region": "Zapadna Srbija",
+    "mountain": "Maljen",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 5.1,
+        "calculated_km": 5.12
+    },
+    "duration": {
+        "official_minutes": 120,
+        "official_text": "2 h",
+        "official_raw": "2:00"
+    },
+    "elevation": {
+        "official_gain_m": 162.0,
+        "official_loss_m": 80.0,
+        "calculated_gain_m": 181.7,
+        "calculated_loss_m": 99.5,
+        "min_m": 947.6,
+        "max_m": 1084.2
+    },
+    "start": "Centar Divčibara, 945 m",
+    "end": "Velika Pleća, 1025 m",
+    "description": "• Na stazu koja je turistička se kreće jugo-zapadno iz centra pored pravoslavne crkve i dečijeg igrališta preko proplanka stazom koja vodi kroz šumu. Blago uzbrdo se krećemo pored potoka Žujan ka Beogradskom naselju. Iza Beogradskog naselja uključujemo se na asfaltni put, dužine oko 1 km, gde je potrebna opreznost pri kretanju. Odvajamo se južno na put ka Tometinom polju kojim se krećemo 150 m i ponovo odvajamo makadamskim putem ka maloj ski stazi koju prelazimo. Na raskršću kod meteorološke stanice penjemo se južno ka grebenu koji vodi pored „drveta ljubavi“ ka Crnom Vrhu.\n\n • „Drvo ljubavi“ je izuvijani Beli bor koji privlači pažnju posetilaca Divčibara. Zbog verovanja da donosi sreću u ljubavi mnogi muškarci i žene ostavljaju novčiće u kori na stablu ovog drveta.\n\n • Crni Vrh se nalazi između male i velike ski staze na visini od 1096 m. Pored ovog vrha nalazi se vidikovac sa prepoznatljivom ljuljaškom i pogledom na planine centralne i zapadne Srbije: Ovčar, Kablar, Subjel... Golija, ski staza Tornik na Zlatiboru, obronci Tare i valjevske planine.\n\n • Krećući se lagano dalje stazom nizbrdo kroz četinarsku šumu izlazimo na makadamski put koji pored vikendica vodi ka vidikovcu Velika Pleća (1025 m). Na sam vidikovac se skreće južno, uzbrdo, kroz četinarsku šumu.",
+    "landmarks": "• Vidikovci: Crni Vrh, Velika Pleća\n\n • Snabdevenost: Trgovinski objekti u centru Divčibara",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinarski dom na poljanama Maljen",
+    "notes": "• Stazu je trasirao PSD Magleš januara 2022.\n\n • Poslednji put staza je markirana maja 2022.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Magleš PSD",
+        "url": "https://pss.rs/adresar_klubova/magles-psd/",
+        "contact": "Sindjelićeva 14, 14000 Valjevo\n+38114 236 377 ; 064/6461103\nhttps://www.magles.org.rs/",
+        "clubs": [
+            {
+                "name": "Magleš PSD",
+                "url": "https://pss.rs/adresar_klubova/magles-psd/",
+                "contact": "Sindjelićeva 14, 14000 Valjevo\n+38114 236 377 ; 064/6461103\nhttps://www.magles.org.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 16,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2022/04/3-22-3-Centar-Velika-Pleca.gpx",
+        "fetched_at": "2026-11-08T12:02:30Z",
+        "checked_at": "2026-11-08T12:02:30Z",
+        "bytes": 37099,
+        "sha256": "32bb1092c4e93da8bcccec17aa5cbf5f7cb3f313bea1027878cefc0347286a4d",
+        "etag": null,
+        "last_modified": "Sat, 30 Apr 2022 12:50:47 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 198,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 11,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2022/04/3-22-3-Centar-Velika-Pleca.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/divcibare-centar-velika-pleca.geojson",
+        "bbox": [
+            19.977719960734248,
+            44.09553699195385,
+            20.013825008645654,
+            44.10462498664856
+        ],
+        "center": [
+            19.995772,
+            44.100081
+        ],
+        "start_point": [
+            19.99149100854993,
+            44.10462498664856
+        ],
+        "end_point": [
+            20.013825008645654,
+            44.10005500540137
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    19.99149,
+                    44.10462
+                ],
+                [
+                    19.97805,
+                    44.09888
+                ],
+                [
+                    19.99072,
+                    44.09839
+                ],
+                [
+                    19.99217,
+                    44.09554
+                ],
+                [
+                    19.99828,
+                    44.09619
+                ],
+                [
+                    20.00842,
+                    44.10121
+                ],
+                [
+                    20.01383,
+                    44.10006
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/divcibare-centar-velika-pleca/",
+        "canonical_url": "https://pss.rs/terenipp/divcibare-centar-velika-pleca/",
+        "pss_id": 16552,
+        "updated_at": "2022-04-30T12:54:34Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:02:31Z",
+        "last_synced_at": "2026-11-08T12:02:31Z"
+    },
+    "search": "divcibare centar - velika pleca 3-22-3 zapadna srbija maljen centar divcibara, 945 m velika pleca, 1025 m magles psd • vidikovci: crni vrh, velika pleca • snabdevenost: trgovinski objekti u centru divcibara laka • na stazu koja je turisticka se krece jugo-zapadno iz centra pored pravoslavne crkve i decijeg igralista preko proplanka stazom koja vodi kroz sumu. blago uzbrdo se krecemo pored potoka zujan ka beogradskom naselju. iza beogradskog naselja ukljucujemo se na asfaltni put, duzine oko 1 km, gde je potrebna opreznost pri kretanju. odvajamo se juzno na put ka tometinom polju kojim se krecemo 150 m i ponovo odvajamo makadamskim putem ka maloj ski stazi koju prelazimo. na raskrscu kod meteoroloske stanice penjemo se juzno ka grebenu koji vodi pored „drveta ljubavi“ ka crnom vrhu. • „drvo ljubavi“ je izuvijani beli bor koji privlaci paznju posetilaca divcibara. zbog verovanja da donosi srecu u ljubavi mnogi muskarci i zene ostavljaju novcice u kori na stablu ovog drveta. • crni vrh se nalazi izmedju male i velike ski staze na visini od 1096 m. pored ovog vrha nalazi se vidikovac sa prepoznatljivom ljuljaskom i pogledom na planine centralne i zapadne srbije: ovcar, kablar, subjel... golija, ski staza tornik na zlatiboru, obronci tare i valjevske planine. • krecuci se lagano dalje stazom nizbrdo kroz cetinarsku sumu izlazimo na makadamski put koji pored vikendica vodi ka vidikovcu velika pleca (1025 m). na sam vidikovac se skrece juzno, uzbrdo, kroz cetinarsku sumu.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:02:31Z"
+    }
+}

@@ -1,0 +1,546 @@
+{
+    "schema_version": 1,
+    "slug": "e7-3",
+    "name": "Sombor - Bač",
+    "code": "E7-3",
+    "category": {
+        "key": "evropski-pesacki-putevi-u-srbiji",
+        "label": "Evropski pešački putevi u Srbiji"
+    },
+    "pss": {
+        "post_id": 3560,
+        "category_id": 29,
+        "region_ids": [
+            1
+        ],
+        "mountain_ids": [
+            36
+        ]
+    },
+    "region": "Vojvodina",
+    "mountain": "Gornje Podunavlje",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "lak"
+    },
+    "distance": {
+        "official_km": 109.0,
+        "calculated_km": 109.43
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": 466.0,
+        "official_loss_m": 174.0,
+        "calculated_gain_m": 0.0,
+        "calculated_loss_m": 0.0,
+        "min_m": 0.0,
+        "max_m": 0.0
+    },
+    "start": null,
+    "end": null,
+    "description": "• Iz baroknog Sombora put ide prema Dunavu u Specijalni rezervat\nprirode Gornje Podunavlje. Celo područje predstavlja mrežu rukavaca\nDunava, bara, močvara, trske, šuma. Ovde živi više od 280 vrsta\nptica naročito močvarica. Poznato je da je u ovom rezervatu boravio\ni sakupljao materijal za ornitološku zbirku Prirodnjačkog muzeja\nu Beču čuveni istraživač Brem. Ovde se nalazi i vredna populacija\nevropskog jelena koji živi u ritovima.\n\n • Brojna je i vredna flora i fauna ovog rezervata. Površina rezervata\nje 19.648ha. Rezervat predstavlja deo velikog dunavskog parka u Evropi\nzajedno sa parkom Kopački rit u Hrvatskoj i parkom Gemenc u Mađarskoj.\n\n • Na putu je i gradić Apatin na levoj obali Dunava. Zanatstvo i trgovina\nsu ovde tradicija više od tri stotine godina. Posebno je poznata\nindustrija piva od 1756. godine. Apatin je i veliki ribolovni centar\ngde se održavaju brojne turističke manifestacije pored reke. Iz baroknog Sombora put ide prema Dunavu u Specijalni rezervat\nprirode Gornje Podunavlje. Celo područje predstavlja mrežu rukavaca\nDunava, bara, močvara, trske, šuma. Ovde živi više od 280 vrsta\nptica naročito močvarica. Poznato je da je u ovom rezervatu boravio\ni sakupljao materijal za ornitološku zbirku Prirodnjačkog muzeja\nu Beču čuveni istraživač Brem. Ovde se nalazi i vredna populacija\n\n • evropskog jelena koji živi u ritovima.\nBrojna je i vredna flora i fauna ovog rezervata. Površina rezervata\nje 19.648ha. Rezervat predstavlja deo velikog dunavskog parka u Evropi\nzajedno sa parkom Kopački rit u Hrvatskoj i parkom Gemenc u Mađarskoj.\n\n • Na putu je i gradić Apatin na levoj obali Dunava. Zanatstvo i trgovina\nsu ovde tradicija više od tri stotine godina. Posebno je poznata\nindustrija piva od 1756. godine. Apatin je i veliki ribolovni centar\ngde se održavaju brojne turističke manifestacije pored reke.\n\n • Put E7 nastavlja pored mesta Sonta prema Bogojevskom mostu preko\nstarih kanala sa pregradama i mostovima. U bližoj okolini nalazi se\narheološko nalazište Donja Branjevina i selo Deronje gde je otkrivena\nstatueta Crvenokose boginje plodnosti iz neolita.\n\n • Takođe treba posetiti i manastir Bođani u blizini Vajske, izgrađen u\nbaroknom stilu sa impresivnim živopisom.\n\n • Put stiže u gradić Bač po kome je cela regija Bačka dobila ime. Naselje\npostoji još od rimskog perioda. Franjevački samostan, sa elementima\ngotike i romantike, podignut 1469. godine poseduje vrednu biblioteku.\nSrednjevekovna tvrđava Bač sa Donžon kulom takođe privlači pažnju.\nOko Bača se nalaze zanimljivi restorani – čarde, u kojima se može\nprovesti prijatno veče uz muziku lokalnih tamburaša.",
+    "landmarks": "• Spec. rezervat prirode Gornje Podunavlje\n\n • Junaković banja\n\n • Bač (Srednjevekovna tvrđava, Franjevački samostan)",
+    "maintenance": null,
+    "marking": "Propisna evropska crveno-žuta",
+    "accommodation": "Sombor, Apatin, Junaković banja, Bač",
+    "notes": "• E7-3-1 Sombor – Bački Monoštor 19,6 km\n\n • E7-3-2 Bački Monoštor – Apatin 19,8 km\n\n • E7-3-3 Apatin – Sonta 20,7 km\n\n • E7-3-4 Sonta – Labudnjača 25,9 km\n\n • E7-3-5 Labudnjača – Bač 23,1 km",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": null,
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/E7-3-Sombor-Bac.gpx",
+        "fetched_at": "2026-11-08T12:49:57Z",
+        "checked_at": "2026-11-08T12:49:57Z",
+        "bytes": 107871,
+        "sha256": "11c79fdfcc29dc47ef4f5d0cf209f184a6088368347984aa644f7bae42d7ff74",
+        "etag": null,
+        "last_modified": "Sat, 07 Dec 2024 21:21:54 GMT",
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": 1486,
+        "tracks": 5,
+        "segments": 5,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/E7-3-Sombor-Bac.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/e7-3.geojson",
+        "bbox": [
+            18.922662356,
+            45.39150465,
+            19.232790454,
+            45.791466096
+        ],
+        "center": [
+            19.077726,
+            45.591485
+        ],
+        "start_point": [
+            19.116888497,
+            45.770988393
+        ],
+        "end_point": [
+            19.232790454,
+            45.391529342
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    19.11689,
+                    45.77099
+                ],
+                [
+                    19.11508,
+                    45.77334
+                ],
+                [
+                    19.10667,
+                    45.7691
+                ],
+                [
+                    19.10743,
+                    45.76774
+                ],
+                [
+                    19.09119,
+                    45.75258
+                ],
+                [
+                    19.05346,
+                    45.76266
+                ],
+                [
+                    19.03866,
+                    45.76486
+                ],
+                [
+                    19.01385,
+                    45.76321
+                ],
+                [
+                    19.01151,
+                    45.776
+                ],
+                [
+                    19.00081,
+                    45.77523
+                ],
+                [
+                    18.99327,
+                    45.77986
+                ],
+                [
+                    18.9683,
+                    45.7783
+                ],
+                [
+                    18.95925,
+                    45.78778
+                ],
+                [
+                    18.95506,
+                    45.78882
+                ],
+                [
+                    18.94236,
+                    45.78853
+                ],
+                [
+                    18.92858,
+                    45.79147
+                ],
+                [
+                    18.92383,
+                    45.78326
+                ]
+            ],
+            [
+                [
+                    18.92383,
+                    45.78327
+                ],
+                [
+                    18.93042,
+                    45.77937
+                ],
+                [
+                    18.94769,
+                    45.77985
+                ],
+                [
+                    18.9545,
+                    45.77526
+                ],
+                [
+                    18.95928,
+                    45.76604
+                ],
+                [
+                    18.94604,
+                    45.75483
+                ],
+                [
+                    18.94567,
+                    45.74755
+                ],
+                [
+                    18.95277,
+                    45.74339
+                ],
+                [
+                    18.9713,
+                    45.74318
+                ],
+                [
+                    18.97137,
+                    45.73661
+                ],
+                [
+                    18.97763,
+                    45.73423
+                ],
+                [
+                    18.97619,
+                    45.73043
+                ],
+                [
+                    18.9565,
+                    45.71837
+                ],
+                [
+                    18.95107,
+                    45.70309
+                ],
+                [
+                    18.95416,
+                    45.69741
+                ],
+                [
+                    18.94442,
+                    45.69226
+                ],
+                [
+                    18.94526,
+                    45.68744
+                ],
+                [
+                    18.9637,
+                    45.68254
+                ],
+                [
+                    18.96938,
+                    45.67755
+                ],
+                [
+                    18.97894,
+                    45.67418
+                ]
+            ],
+            [
+                [
+                    18.97898,
+                    45.67416
+                ],
+                [
+                    18.9903,
+                    45.66974
+                ],
+                [
+                    19.00089,
+                    45.66812
+                ],
+                [
+                    19.00799,
+                    45.67164
+                ],
+                [
+                    19.01283,
+                    45.67944
+                ],
+                [
+                    19.01729,
+                    45.68018
+                ],
+                [
+                    19.0287,
+                    45.67701
+                ],
+                [
+                    19.03699,
+                    45.67698
+                ],
+                [
+                    19.0349,
+                    45.67544
+                ],
+                [
+                    19.04024,
+                    45.674
+                ],
+                [
+                    19.05174,
+                    45.67356
+                ],
+                [
+                    19.05275,
+                    45.669
+                ],
+                [
+                    19.06991,
+                    45.66075
+                ],
+                [
+                    19.05915,
+                    45.65226
+                ],
+                [
+                    19.07381,
+                    45.6427
+                ],
+                [
+                    19.0788,
+                    45.64711
+                ],
+                [
+                    19.09103,
+                    45.64189
+                ],
+                [
+                    19.09294,
+                    45.64297
+                ],
+                [
+                    19.10754,
+                    45.6353
+                ],
+                [
+                    19.11048,
+                    45.61647
+                ],
+                [
+                    19.10428,
+                    45.61336
+                ],
+                [
+                    19.10984,
+                    45.60885
+                ],
+                [
+                    19.11037,
+                    45.59722
+                ]
+            ],
+            [
+                [
+                    19.11036,
+                    45.59723
+                ],
+                [
+                    19.11594,
+                    45.59201
+                ],
+                [
+                    19.11161,
+                    45.58565
+                ],
+                [
+                    19.11199,
+                    45.57816
+                ],
+                [
+                    19.11906,
+                    45.57308
+                ],
+                [
+                    19.11286,
+                    45.56396
+                ],
+                [
+                    19.11371,
+                    45.55977
+                ],
+                [
+                    19.11181,
+                    45.56208
+                ],
+                [
+                    19.10256,
+                    45.56166
+                ],
+                [
+                    19.10309,
+                    45.55708
+                ],
+                [
+                    19.09799,
+                    45.54801
+                ],
+                [
+                    19.09624,
+                    45.55016
+                ],
+                [
+                    19.09029,
+                    45.54581
+                ],
+                [
+                    19.08148,
+                    45.53342
+                ],
+                [
+                    19.0891,
+                    45.52902
+                ],
+                [
+                    19.09216,
+                    45.52978
+                ],
+                [
+                    19.09076,
+                    45.52816
+                ],
+                [
+                    19.10509,
+                    45.51791
+                ],
+                [
+                    19.10505,
+                    45.50354
+                ],
+                [
+                    19.10834,
+                    45.50272
+                ],
+                [
+                    19.1031,
+                    45.50034
+                ],
+                [
+                    19.08926,
+                    45.48013
+                ],
+                [
+                    19.06929,
+                    45.48276
+                ],
+                [
+                    19.05207,
+                    45.48083
+                ],
+                [
+                    19.03119,
+                    45.4829
+                ],
+                [
+                    19.03011,
+                    45.47737
+                ],
+                [
+                    19.02509,
+                    45.47729
+                ],
+                [
+                    19.01993,
+                    45.46889
+                ],
+                [
+                    19.02467,
+                    45.46037
+                ]
+            ],
+            [
+                [
+                    19.02471,
+                    45.46035
+                ],
+                [
+                    19.07846,
+                    45.4605
+                ],
+                [
+                    19.12964,
+                    45.45824
+                ],
+                [
+                    19.1503,
+                    45.46134
+                ],
+                [
+                    19.16179,
+                    45.45901
+                ],
+                [
+                    19.15685,
+                    45.44684
+                ],
+                [
+                    19.19792,
+                    45.43349
+                ],
+                [
+                    19.20298,
+                    45.41113
+                ],
+                [
+                    19.20044,
+                    45.40585
+                ],
+                [
+                    19.20473,
+                    45.40475
+                ],
+                [
+                    19.20068,
+                    45.3992
+                ],
+                [
+                    19.21921,
+                    45.39229
+                ],
+                [
+                    19.23279,
+                    45.39153
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": [
+            "missing_elevation"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/e7-3/",
+        "canonical_url": "https://pss.rs/terenipp/e7-3/",
+        "pss_id": 3560,
+        "updated_at": "2024-12-07T21:22:04Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:49:57Z",
+        "last_synced_at": "2026-11-08T12:49:57Z"
+    },
+    "search": "sombor - bac e7-3 vojvodina gornje podunavlje • spec. rezervat prirode gornje podunavlje • junakovic banja • bac (srednjevekovna tvrdjava, franjevacki samostan) laka • iz baroknog sombora put ide prema dunavu u specijalni rezervat prirode gornje podunavlje. celo podrucje predstavlja mrezu rukavaca dunava, bara, mocvara, trske, suma. ovde zivi vise od 280 vrsta ptica narocito mocvarica. poznato je da je u ovom rezervatu boravio i sakupljao materijal za ornitolosku zbirku prirodnjackog muzeja u becu cuveni istrazivac brem. ovde se nalazi i vredna populacija evropskog jelena koji zivi u ritovima. • brojna je i vredna flora i fauna ovog rezervata. povrsina rezervata je 19.648ha. rezervat predstavlja deo velikog dunavskog parka u evropi zajedno sa parkom kopacki rit u hrvatskoj i parkom gemenc u madjarskoj. • na putu je i gradic apatin na levoj obali dunava. zanatstvo i trgovina su ovde tradicija vise od tri stotine godina. posebno je poznata industrija piva od 1756. godine. apatin je i veliki ribolovni centar gde se odrzavaju brojne turisticke manifestacije pored reke. iz baroknog sombora put ide prema dunavu u specijalni rezervat prirode gornje podunavlje. celo podrucje predstavlja mrezu rukavaca dunava, bara, mocvara, trske, suma. ovde zivi vise od 280 vrsta ptica narocito mocvarica. poznato je da je u ovom rezervatu boravio i sakupljao materijal za ornitolosku zbirku prirodnjackog muzeja u becu cuveni istrazivac brem. ovde se nalazi i vredna populacija • evropskog jelena koji zivi u ritovima. brojna je i vredna flora i fauna ovog rezervata. povrsina rezervata je 19.648ha. rezervat predstavlja deo velikog dunavskog parka u evropi zajedno sa parkom kopacki rit u hrvatskoj i parkom gemenc u madjarskoj. • na putu je i gradic apatin na levoj obali dunava. zanatstvo i trgovina su ovde tradicija vise od tri stotine godina. posebno je poznata industrija piva od 1756. godine. apatin je i veliki ribolovni centar gde se odrzavaju brojne t",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:49:57Z"
+    }
+}

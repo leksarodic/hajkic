@@ -1,0 +1,265 @@
+{
+    "schema_version": 1,
+    "slug": "tri-bunara-na-devici-izvor-moravice",
+    "name": "Tri bunara na Devici - Izvor Moravice",
+    "code": "4-31-8",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 4584,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            57
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Devica",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 19.0,
+        "calculated_km": 19.06
+    },
+    "duration": {
+        "official_minutes": 480,
+        "official_text": "8 h",
+        "official_raw": "8:00"
+    },
+    "elevation": {
+        "official_gain_m": 942.0,
+        "official_loss_m": 989.0,
+        "calculated_gain_m": 880.8,
+        "calculated_loss_m": 933.2,
+        "min_m": 401.5,
+        "max_m": 1093.4
+    },
+    "start": "Stari Rudnik, 458m",
+    "end": "Izvor Moravice, 399m",
+    "description": null,
+    "landmarks": "• Izvor Moravice\n\n • Vidikovci: Cucka i Stojin vrh\n\n • Na stazi ima izvor pitke vode\n\n • Nema smeštaja",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu je trasiralo PD \"Oštra Čuka\", septembra 2016. godine\n\n • Poslednji put staza je markirana septembra 2016. godine",
+    "map_reference": null,
+    "map_sheet": "1:50000 (532 Aleksinac C3)",
+    "club": {
+        "name": "Oštra čuka PD",
+        "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+        "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/",
+        "clubs": [
+            {
+                "name": "Oštra čuka PD",
+                "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+                "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 4,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/08/4-31-8-Tri-bunara-na-Devici-Izvor-Moravice.gpx",
+        "fetched_at": "2026-11-08T11:57:43Z",
+        "checked_at": "2026-11-08T11:57:43Z",
+        "bytes": 153320,
+        "sha256": "7ed3349772eb5417a5bc57a573d8221fb2214d0e3558912a8c1e0e0026906a6b",
+        "etag": null,
+        "last_modified": "Fri, 21 Dec 2018 12:01:43 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 916,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 8,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/08/4-31-8-Tri-bunara-na-Devici-Izvor-Moravice.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/tri-bunara-na-devici-izvor-moravice.geojson",
+        "bbox": [
+            21.959153339266777,
+            43.59635333530605,
+            22.027429975569248,
+            43.63219829276204
+        ],
+        "center": [
+            21.993292,
+            43.614276
+        ],
+        "start_point": [
+            22.01976832933724,
+            43.6318567302078
+        ],
+        "end_point": [
+            21.992015009745955,
+            43.629703335464
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    22.01977,
+                    43.63186
+                ],
+                [
+                    22.02342,
+                    43.62998
+                ],
+                [
+                    22.02203,
+                    43.62838
+                ],
+                [
+                    22.02522,
+                    43.62708
+                ],
+                [
+                    22.02439,
+                    43.62457
+                ],
+                [
+                    22.02738,
+                    43.62258
+                ],
+                [
+                    22.0257,
+                    43.61836
+                ],
+                [
+                    22.02288,
+                    43.62137
+                ],
+                [
+                    22.01877,
+                    43.61559
+                ],
+                [
+                    22.01437,
+                    43.61544
+                ],
+                [
+                    22.01397,
+                    43.61293
+                ],
+                [
+                    22.00828,
+                    43.61364
+                ],
+                [
+                    22.00405,
+                    43.60905
+                ],
+                [
+                    21.99787,
+                    43.60678
+                ],
+                [
+                    21.98636,
+                    43.60863
+                ],
+                [
+                    21.98112,
+                    43.59997
+                ],
+                [
+                    21.97729,
+                    43.60029
+                ],
+                [
+                    21.97406,
+                    43.59758
+                ],
+                [
+                    21.97588,
+                    43.59648
+                ],
+                [
+                    21.9697,
+                    43.5977
+                ],
+                [
+                    21.95915,
+                    43.59647
+                ],
+                [
+                    21.97317,
+                    43.59716
+                ],
+                [
+                    21.97736,
+                    43.60004
+                ],
+                [
+                    21.98149,
+                    43.59991
+                ],
+                [
+                    21.98858,
+                    43.61501
+                ],
+                [
+                    21.98368,
+                    43.61718
+                ],
+                [
+                    21.98434,
+                    43.62098
+                ],
+                [
+                    21.99394,
+                    43.62197
+                ],
+                [
+                    22.00095,
+                    43.63088
+                ],
+                [
+                    21.99811,
+                    43.63217
+                ],
+                [
+                    21.99202,
+                    43.6297
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/tri-bunara-na-devici-izvor-moravice/",
+        "canonical_url": "https://pss.rs/terenipp/tri-bunara-na-devici-izvor-moravice/",
+        "pss_id": 4584,
+        "updated_at": "2018-12-21T12:03:17Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:58:52Z",
+        "last_synced_at": "2026-11-08T11:58:52Z"
+    },
+    "search": "tri bunara na devici - izvor moravice 4-31-8 istocna srbija devica stari rudnik, 458m izvor moravice, 399m ostra cuka pd • izvor moravice • vidikovci: cucka i stojin vrh • na stazi ima izvor pitke vode • nema smestaja zahtevna",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:58:52Z"
+    }
+}

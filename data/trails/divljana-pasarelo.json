@@ -1,0 +1,205 @@
+{
+    "schema_version": 1,
+    "slug": "divljana-pasarelo",
+    "name": "Divljana - Pasarelo",
+    "code": "7-3-4",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 4483,
+        "category_id": 28,
+        "region_ids": [
+            7
+        ],
+        "mountain_ids": [
+            50
+        ]
+    },
+    "region": "Jugoistočna Srbija",
+    "mountain": "Suva planina",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 8.85,
+        "calculated_km": 8.79
+    },
+    "duration": {
+        "official_minutes": 210,
+        "official_text": "3 h 30 min",
+        "official_raw": "3:30"
+    },
+    "elevation": {
+        "official_gain_m": 1072.0,
+        "official_loss_m": 0.0,
+        "calculated_gain_m": 1039.0,
+        "calculated_loss_m": 4.0,
+        "min_m": 473.3,
+        "max_m": 1511.6
+    },
+    "start": "Manastir Sv. Dimitrija u selu Divljana, 450m",
+    "end": "Izlazak na vrh Pasarelo, 1522m",
+    "description": null,
+    "landmarks": "• Manastir Sv. Dimitrija u selu Divljana\n\n • Vidikovci: Smrdan i Pasarelo\n\n • Izvor pitke vode samo na početku staze.",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Staza je poslednji put markirana 6.9.2015.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Železničar PK Niš",
+        "url": "https://pss.rs/adresar_klubova/zeleznicar-pk/",
+        "contact": "Tvrđava bb, 18000 Niš\n064 833 000 3, 061 168 777 1\nhttp://www.planinari-zeleznicar.rs/",
+        "clubs": [
+            {
+                "name": "Železničar PK Niš",
+                "url": "https://pss.rs/adresar_klubova/zeleznicar-pk/",
+                "contact": "Tvrđava bb, 18000 Niš\n064 833 000 3, 061 168 777 1\nhttp://www.planinari-zeleznicar.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/08/7-3-4-Divljana-Pasarelo.gpx",
+        "fetched_at": "2026-11-08T11:57:02Z",
+        "checked_at": "2026-11-08T11:57:02Z",
+        "bytes": 82679,
+        "sha256": "95b46897612ef7e4eba9960d5ed8f8125b0ffa9b22daf0e1d93658beb04c86a1",
+        "etag": null,
+        "last_modified": "Wed, 31 Jan 2018 11:07:55 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 691,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 2,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/08/7-3-4-Divljana-Pasarelo.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/divljana-pasarelo.geojson",
+        "bbox": [
+            22.238350259140134,
+            43.1608521938324,
+            22.290570437908173,
+            43.18564837798476
+        ],
+        "center": [
+            22.26446,
+            43.17325
+        ],
+        "start_point": [
+            22.290570437908173,
+            43.18564837798476
+        ],
+        "end_point": [
+            22.238350259140134,
+            43.16131001338363
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    22.29057,
+                    43.18565
+                ],
+                [
+                    22.28669,
+                    43.18201
+                ],
+                [
+                    22.28713,
+                    43.17907
+                ],
+                [
+                    22.27891,
+                    43.1783
+                ],
+                [
+                    22.27639,
+                    43.18023
+                ],
+                [
+                    22.28228,
+                    43.17355
+                ],
+                [
+                    22.28288,
+                    43.17147
+                ],
+                [
+                    22.27946,
+                    43.17302
+                ],
+                [
+                    22.28099,
+                    43.16983
+                ],
+                [
+                    22.27574,
+                    43.17181
+                ],
+                [
+                    22.25841,
+                    43.16439
+                ],
+                [
+                    22.25541,
+                    43.16527
+                ],
+                [
+                    22.24526,
+                    43.16268
+                ],
+                [
+                    22.24249,
+                    43.16464
+                ],
+                [
+                    22.24097,
+                    43.16137
+                ],
+                [
+                    22.23835,
+                    43.16131
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/divljana-pasarelo/",
+        "canonical_url": "https://pss.rs/terenipp/divljana-pasarelo/",
+        "pss_id": 4483,
+        "updated_at": "2018-01-31T11:08:22Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:57:03Z",
+        "last_synced_at": "2026-11-08T11:57:03Z"
+    },
+    "search": "divljana - pasarelo 7-3-4 jugoistocna srbija suva planina manastir sv. dimitrija u selu divljana, 450m izlazak na vrh pasarelo, 1522m zeleznicar pk nis • manastir sv. dimitrija u selu divljana • vidikovci: smrdan i pasarelo • izvor pitke vode samo na pocetku staze. laka",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:57:03Z"
+    }
+}

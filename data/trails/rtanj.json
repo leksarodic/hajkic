@@ -1,0 +1,209 @@
+{
+    "schema_version": 1,
+    "slug": "rtanj",
+    "name": "Rtanj",
+    "code": "4-27-7",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 7503,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            71
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Rtanj",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 13.7,
+        "calculated_km": 13.98
+    },
+    "duration": {
+        "official_minutes": 420,
+        "official_text": "7 h",
+        "official_raw": "7:00"
+    },
+    "elevation": {
+        "official_gain_m": 1207.0,
+        "official_loss_m": 971.0,
+        "calculated_gain_m": 1241.6,
+        "calculated_loss_m": 1028.7,
+        "min_m": 362.7,
+        "max_m": 1575.1
+    },
+    "start": "Kod kamenoloma \"Unimer\" Mirovo, 363m",
+    "end": "Selo Rtanj, 599m",
+    "description": "Početak staze nalazi se preko puta glavnog parkinga kamenoloma \"Unimer\" Mirovo (363 mnv). Staza je dobro obeležena u oba pravca standardnom planinarskom markacijom. U prvom delu staze se kreće kolskim putrem, gde ga ubrzo zamenjuje prohodna šumska staza. Šumska staza i kolski put smenjuju se do 3,42 km kada se izlazi na prvi vidikovac na 750 mnv. Nakon toga staza se narednih 700 metara kreće grebenom uz konstantan uspon, a potom na 918 mnv opet ulazi u šumu. Na tačno 5,05 km od početka i 1132 mnv dolazi se do drugog izlaza iz šume i vidikovca. Nakon toga staza se kreće kroz bukovu i četinarsku šumu do sedla koje se nalazi na 1363 mnv i na 6,38 km udaljenosti od starta. Nakon izlaska na sedlo, dobro obeležena staza vodi grebenom do vrha Šiljak na 1570 mnv. Drugi deo staze u silasku vodi južnom stranom planine, serpentinama do prevoja \"Baba\" (984 mnv). Nakon prevoja ulazi se u šumu, gde se uzanom ali prohodnom šumskom stazom kreće do naselja Rtanj (599 mnv).\n\nNa stazi je potrebna opreznost.",
+    "landmarks": "• na 3,42 km od starta izlazak iz šume i prvi vidikovac\n\n • na 5,05 km od starta izlazak iz šume i drugi vidikovac\n\n • nakon 6,38 km izlazak na sedlo\n\n • na trasi ima 2 izvora pitke vode\n\n • na trasi i van trase ima privatnog smeštaja",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Stazu je trasirao OPSD \"Dragan Radosavljević\", a poslednji put je markirana 2018.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Dragan Radosavljević OPSD",
+        "url": "https://pss.rs/adresar_klubova/opsd-dragan-radosavljevic/",
+        "contact": "Save Kovacevica 37c, 19000 Zajecar\n+38163 457 536\nhttps://www.opsddraganradosavljevic.rs/",
+        "clubs": [
+            {
+                "name": "Dragan Radosavljević OPSD",
+                "url": "https://pss.rs/adresar_klubova/opsd-dragan-radosavljevic/",
+                "contact": "Save Kovacevica 37c, 19000 Zajecar\n+38163 457 536\nhttps://www.opsddraganradosavljevic.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2018/10/4-27-5-RTANJ.gpx",
+        "fetched_at": "2026-11-08T11:59:25Z",
+        "checked_at": "2026-11-08T11:59:25Z",
+        "bytes": 344190,
+        "sha256": "7db5b7c0bcdea7179e016ee4ff5c6ba4c672fc785ddd36a3eba98ce6c82a28b9",
+        "etag": null,
+        "last_modified": "Wed, 31 Oct 2018 10:49:06 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 2132,
+        "tracks": 2,
+        "segments": 2,
+        "waypoints": 10,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2018/10/4-27-5-RTANJ.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/rtanj.geojson",
+        "bbox": [
+            21.87592539936304,
+            43.763171983882785,
+            21.937516797333956,
+            43.80301368422806
+        ],
+        "center": [
+            21.906721,
+            43.783093
+        ],
+        "start_point": [
+            21.883221678435802,
+            43.77553319558501
+        ],
+        "end_point": [
+            21.933893552049994,
+            43.771233446896076
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.88322,
+                    43.77553
+                ],
+                [
+                    21.88639,
+                    43.77389
+                ]
+            ],
+            [
+                [
+                    21.89734,
+                    43.80301
+                ],
+                [
+                    21.88853,
+                    43.7962
+                ],
+                [
+                    21.88395,
+                    43.79528
+                ],
+                [
+                    21.88221,
+                    43.79202
+                ],
+                [
+                    21.87751,
+                    43.79198
+                ],
+                [
+                    21.87593,
+                    43.78804
+                ],
+                [
+                    21.88276,
+                    43.78353
+                ],
+                [
+                    21.88325,
+                    43.77555
+                ],
+                [
+                    21.89334,
+                    43.77613
+                ],
+                [
+                    21.88637,
+                    43.7739
+                ],
+                [
+                    21.89397,
+                    43.76984
+                ],
+                [
+                    21.90392,
+                    43.76812
+                ],
+                [
+                    21.91749,
+                    43.7704
+                ],
+                [
+                    21.93683,
+                    43.76326
+                ],
+                [
+                    21.93389,
+                    43.77123
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/rtanj/",
+        "canonical_url": "https://pss.rs/terenipp/rtanj/",
+        "pss_id": 7503,
+        "updated_at": "2018-10-31T11:13:24Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:59:26Z",
+        "last_synced_at": "2026-11-08T11:59:26Z"
+    },
+    "search": "rtanj 4-27-7 istocna srbija rtanj kod kamenoloma \"unimer\" mirovo, 363m selo rtanj, 599m dragan radosavljevic opsd • na 3,42 km od starta izlazak iz sume i prvi vidikovac • na 5,05 km od starta izlazak iz sume i drugi vidikovac • nakon 6,38 km izlazak na sedlo • na trasi ima 2 izvora pitke vode • na trasi i van trase ima privatnog smestaja zahtevna pocetak staze nalazi se preko puta glavnog parkinga kamenoloma \"unimer\" mirovo (363 mnv). staza je dobro obelezena u oba pravca standardnom planinarskom markacijom. u prvom delu staze se krece kolskim putrem, gde ga ubrzo zamenjuje prohodna sumska staza. sumska staza i kolski put smenjuju se do 3,42 km kada se izlazi na prvi vidikovac na 750 mnv. nakon toga staza se narednih 700 metara krece grebenom uz konstantan uspon, a potom na 918 mnv opet ulazi u sumu. na tacno 5,05 km od pocetka i 1132 mnv dolazi se do drugog izlaza iz sume i vidikovca. nakon toga staza se krece kroz bukovu i cetinarsku sumu do sedla koje se nalazi na 1363 mnv i na 6,38 km udaljenosti od starta. nakon izlaska na sedlo, dobro obelezena staza vodi grebenom do vrha siljak na 1570 mnv. drugi deo staze u silasku vodi juznom stranom planine, serpentinama do prevoja \"baba\" (984 mnv). nakon prevoja ulazi se u sumu, gde se uzanom ali prohodnom sumskom stazom krece do naselja rtanj (599 mnv). na stazi je potrebna opreznost.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:59:26Z"
+    }
+}

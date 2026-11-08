@@ -1,0 +1,151 @@
+{
+    "schema_version": 1,
+    "slug": "sokobanja-ripaljka",
+    "name": "Sokobanja - Ripaljka",
+    "code": "4-33-6",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 8296,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            74
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Ozren",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 3.0,
+        "calculated_km": 1.8
+    },
+    "duration": {
+        "official_minutes": 90,
+        "official_text": "1 h 30 min",
+        "official_raw": "1:30"
+    },
+    "elevation": {
+        "official_gain_m": 140.0,
+        "official_loss_m": 140.0,
+        "calculated_gain_m": 112.3,
+        "calculated_loss_m": 0.0,
+        "min_m": 336.6,
+        "max_m": 458.9
+    },
+    "start": "Grudonjske vodenice, 330m",
+    "end": "Ozren naselje, 470m",
+    "description": "Ozren (severoistočna strana)",
+    "landmarks": "• Grudonjske vodenice\n\n • Vodopad Ripaljka\n\n • Izletište Ozren\n\n • Na trasi izvor vode: Bele vode\n\n • Privatni smeštaj van trase",
+    "maintenance": "delimično uređena",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu je trasirala PD \"Oštra Čuka\" maja 2011. godine.\n\n • Poslednji put staza je markirana maja 2011. godine.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Oštra čuka PD",
+        "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+        "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/",
+        "clubs": [
+            {
+                "name": "Oštra čuka PD",
+                "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+                "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2019/02/4-33-6-Sokobanja-Ripaljka.gpx",
+        "fetched_at": "2026-11-08T11:59:57Z",
+        "checked_at": "2026-11-08T11:59:57Z",
+        "bytes": 7538,
+        "sha256": "7322486cc0d2f5e22128e2fe3fca193742338de629bf577135b36ff36ef593f4",
+        "etag": null,
+        "last_modified": "Tue, 12 Feb 2019 14:19:54 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 44,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 2,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2019/02/4-33-6-Sokobanja-Ripaljka.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/sokobanja-ripaljka.geojson",
+        "bbox": [
+            21.850675251334906,
+            43.62633959390223,
+            21.853985264897346,
+            43.64081019535661
+        ],
+        "center": [
+            21.85233,
+            43.633575
+        ],
+        "start_point": [
+            21.852072263136506,
+            43.64081019535661
+        ],
+        "end_point": [
+            21.85390228405595,
+            43.62633959390223
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.85207,
+                    43.64081
+                ],
+                [
+                    21.85068,
+                    43.62913
+                ],
+                [
+                    21.8539,
+                    43.62634
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/sokobanja-ripaljka/",
+        "canonical_url": "https://pss.rs/terenipp/sokobanja-ripaljka/",
+        "pss_id": 8296,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:59:57Z",
+        "last_synced_at": "2026-11-08T11:59:57Z"
+    },
+    "search": "sokobanja - ripaljka 4-33-6 istocna srbija ozren grudonjske vodenice, 330m ozren naselje, 470m ostra cuka pd • grudonjske vodenice • vodopad ripaljka • izletiste ozren • na trasi izvor vode: bele vode • privatni smestaj van trase laka ozren (severoistocna strana)",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:59:57Z"
+    }
+}

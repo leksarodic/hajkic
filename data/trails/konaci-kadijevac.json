@@ -1,0 +1,123 @@
+{
+    "schema_version": 1,
+    "slug": "konaci-kadijevac",
+    "name": "Konaci - Kadijevac",
+    "code": "6-10-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 8029,
+        "category_id": 28,
+        "region_ids": [
+            6
+        ],
+        "mountain_ids": [
+            76
+        ]
+    },
+    "region": "Kopaoničko-Toplička regija",
+    "mountain": "Kopaonik",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 8.5,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": 180,
+        "official_text": "3 h",
+        "official_raw": "3:00"
+    },
+    "elevation": {
+        "official_gain_m": 601.0,
+        "official_loss_m": 867.0,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": "Konaci, 1725m",
+    "end": "Kadijevac, 1459m",
+    "description": "Put vodi od turističkog naselja Konaci do izletišta Kadijevac",
+    "landmarks": "Skijaški cantar Kopaonik",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Kopaonik PSD",
+        "url": "https://pss.rs/adresar_klubova/kopaonik-psk/",
+        "contact": "Zmaj od Noćaja 9/IV, 11000 Beograd\n 064 1552 607\nhttp://www.psd-kopaonik.org.rs",
+        "clubs": [
+            {
+                "name": "Kopaonik PSD",
+                "url": "https://pss.rs/adresar_klubova/kopaonik-psk/",
+                "contact": "Zmaj od Noćaja 9/IV, 11000 Beograd\n 064 1552 607\nhttp://www.psd-kopaonik.org.rs"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": false,
+        "status": "missing",
+        "source_url": null,
+        "fetched_at": null,
+        "checked_at": "2026-11-08T11:59:34Z",
+        "bytes": null,
+        "sha256": null,
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": null,
+        "tracks": null,
+        "segments": null,
+        "waypoints": null,
+        "error": null,
+        "download": {
+            "mode": "none",
+            "url": null
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_gpx"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/konaci-kadijevac/",
+        "canonical_url": "https://pss.rs/terenipp/konaci-kadijevac/",
+        "pss_id": 8029,
+        "updated_at": "2019-01-09T20:16:07Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:59:34Z",
+        "last_synced_at": "2026-11-08T11:59:34Z"
+    },
+    "search": "konaci - kadijevac 6-10-1 kopaonicko-toplicka regija kopaonik konaci, 1725m kadijevac, 1459m kopaonik psd skijaski cantar kopaonik laka put vodi od turistickog naselja konaci do izletista kadijevac",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:59:34Z"
+    }
+}

@@ -1,0 +1,193 @@
+{
+    "schema_version": 1,
+    "slug": "debela-gora",
+    "name": "Debela gora",
+    "code": "5-15-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 19521,
+        "category_id": 28,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            408
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Debela gora",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 8.44,
+        "calculated_km": 9.1
+    },
+    "duration": {
+        "official_minutes": 210,
+        "official_text": "3 h 30 min",
+        "official_raw": "3:30"
+    },
+    "elevation": {
+        "official_gain_m": 513.0,
+        "official_loss_m": 513.0,
+        "calculated_gain_m": 551.0,
+        "calculated_loss_m": 554.2,
+        "min_m": 279.5,
+        "max_m": 786.0
+    },
+    "start": "Ovčar Banja, bivši auto kamp - 278 m",
+    "end": "Ovčar Banja, bivši auto kamp - 278 m",
+    "description": "Staza je kružna, kreće od auto kampa ka visećem mostu i dalje ravno kroz mali šumarak do početka uspona gede ulazi u šumu. Staza je sve vreme u šumi, pretežno bukovoj do vrha Branojevac 791m, uz konstantan uspon. Pri spustu se nakon 500m izlazi na makadamski put, pa potom kroz zaseok Planinci se spusta ka Banjskom potoku i Ovčar Banji.",
+    "landmarks": null,
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Snabdevenost pitkom vodom: na trasi / izvodi pitke vode: česma u Planincima, i vrelo Paunovića 50 m od staze.\n\nKo je i kada trasirao stazu: polovina XX veka, nepoznato\n\nKada je staza poslednji put markirana: 2020",
+    "map_reference": null,
+    "map_sheet": "Planinarske staze Ovčara i Kablara 1 : 20 000 i Čačak 1 (529/1) 1:50000",
+    "club": {
+        "name": "Kablar PD",
+        "url": "https://pss.rs/adresar_klubova/kablar-pd/",
+        "contact": "Kneza Miloša 1, 32000 Čačak\n+38164 852 60 48\nhttps://www.kablar.rs",
+        "clubs": [
+            {
+                "name": "Kablar PD",
+                "url": "https://pss.rs/adresar_klubova/kablar-pd/",
+                "contact": "Kneza Miloša 1, 32000 Čačak\n+38164 852 60 48\nhttps://www.kablar.rs"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2023/05/Debela-gora.gpx",
+        "fetched_at": "2026-11-08T12:03:23Z",
+        "checked_at": "2026-11-08T12:03:23Z",
+        "bytes": 38346,
+        "sha256": "b2f74ac50592496cc458fca67cfe987b8678ec25388b1e3c13d18e399a53b72a",
+        "etag": null,
+        "last_modified": "Fri, 15 Dec 2023 09:07:32 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 433,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2023/05/Debela-gora.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/debela-gora.geojson",
+        "bbox": [
+            20.165314833,
+            43.88157391,
+            20.194697427,
+            43.896833835
+        ],
+        "center": [
+            20.180006,
+            43.889204
+        ],
+        "start_point": [
+            20.186208822,
+            43.896167474
+        ],
+        "end_point": [
+            20.185060334,
+            43.89624903
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    20.18621,
+                    43.89617
+                ],
+                [
+                    20.18668,
+                    43.88901
+                ],
+                [
+                    20.19456,
+                    43.88328
+                ],
+                [
+                    20.18934,
+                    43.88408
+                ],
+                [
+                    20.18507,
+                    43.88157
+                ],
+                [
+                    20.17032,
+                    43.88384
+                ],
+                [
+                    20.16782,
+                    43.88258
+                ],
+                [
+                    20.16869,
+                    43.88616
+                ],
+                [
+                    20.16531,
+                    43.89142
+                ],
+                [
+                    20.17685,
+                    43.8968
+                ],
+                [
+                    20.18506,
+                    43.89625
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/debela-gora/",
+        "canonical_url": "https://pss.rs/terenipp/debela-gora/",
+        "pss_id": 19521,
+        "updated_at": "2023-12-15T09:08:05Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:03:24Z",
+        "last_synced_at": "2026-11-08T12:03:24Z"
+    },
+    "search": "debela gora 5-15-1 jugozapadna srbija debela gora ovcar banja, bivsi auto kamp - 278 m ovcar banja, bivsi auto kamp - 278 m kablar pd laka staza je kruzna, krece od auto kampa ka visecem mostu i dalje ravno kroz mali sumarak do pocetka uspona gede ulazi u sumu. staza je sve vreme u sumi, pretezno bukovoj do vrha branojevac 791m, uz konstantan uspon. pri spustu se nakon 500m izlazi na makadamski put, pa potom kroz zaseok planinci se spusta ka banjskom potoku i ovcar banji.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:03:24Z"
+    }
+}

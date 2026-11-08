@@ -1,0 +1,315 @@
+{
+    "schema_version": 1,
+    "slug": "sokolov-put",
+    "name": "Suva trail - Niška Banja - Trem - Niška Banja",
+    "code": "7-3-15",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 12405,
+        "category_id": 28,
+        "region_ids": [
+            7
+        ],
+        "mountain_ids": [
+            50
+        ]
+    },
+    "region": "Jugoistočna Srbija",
+    "mountain": "Suva planina",
+    "difficulty": {
+        "key": "vrlo_teska",
+        "label": "Vrlo teška",
+        "source": "vrlo teška"
+    },
+    "distance": {
+        "official_km": 43.5,
+        "calculated_km": 44.02
+    },
+    "duration": {
+        "official_minutes": 840,
+        "official_text": "14 h",
+        "official_raw": "14:00"
+    },
+    "elevation": {
+        "official_gain_m": 2436.0,
+        "official_loss_m": 2432.0,
+        "calculated_gain_m": 2645.8,
+        "calculated_loss_m": 2645.2,
+        "min_m": 252.3,
+        "max_m": 1810.0
+    },
+    "start": "Niška Banja - kod fontane, 258 m",
+    "end": "Niška Banja, 258 m",
+    "description": "• Polazak na stazu je iz centra Niške Banje (258 m) stazom \"Zdravlja\" do sela Koritnik. U istoimenom selu postoji česma gde se može snabdeti vodom. Staza vodi dalje kroz bukovu šumu pored vidikovca Crni kamen. Nastavlja prema Rajcu, do ispred Mosora. Vrh Mosor se zaobilazi sa leve strane u penjanju. Zatim staza nastavlja preko grebena Suve planine, preko Sokolovog kamena (1523 m), Devojačkog groba, pa sve do najvišeg vrha Trem (1810 m). Od vrha staza ide nazad do Devojačkog groba, gde se skreće na Kraljev put do Bojaninih voda. Na Bojaninim vodama ima izvor pijaće vode. Odatle deo staze ide asfaltnim putem do skretanja za Mosor. Staza vodi sada desno od vrha Mosor, i dalje do Niške banje, istim putem kao u penjanju.\n\n • Staza je deonica Niške transverzale i Evropskog pešačkog puta E-7",
+    "landmarks": "• Niška Banja\n\n • Vidikovci: Koritnik, Crni kamen, Sokolov kamen, Trem\n\n • Na trasi ima izvora pitke vode: Niška Banja, Koritnik, Bojanine vode\n\n • Naselja: Koritnik\n\n • Na trasi ima privatnog smeštaja",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu je trasirao Vladislav Cenić.\n\n • Poslednji put staza je markirana 31.03.2020. godine.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Mosor PSK",
+        "url": "https://pss.rs/adresar_klubova/mosor-pak/",
+        "contact": "Tvrđava bb, 18000 Niš\n063 1023016, 063 406025, 064 665 41 58\nhttp://www.pakmosor.org/",
+        "clubs": [
+            {
+                "name": "Mosor PSK",
+                "url": "https://pss.rs/adresar_klubova/mosor-pak/",
+                "contact": "Tvrđava bb, 18000 Niš\n063 1023016, 063 406025, 064 665 41 58\nhttp://www.pakmosor.org/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 11,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2020/11/7-3-15-Suva-trail-Niska-Banja-Trem.gpx",
+        "fetched_at": "2026-11-08T12:01:25Z",
+        "checked_at": "2026-11-08T12:01:25Z",
+        "bytes": 861415,
+        "sha256": "14d4c1dbc030c03d6f862dc4a4ca320b52af9f159b09644e02c31a0d024220a4",
+        "etag": null,
+        "last_modified": "Wed, 18 Nov 2020 14:54:15 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 5307,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 15,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2020/11/7-3-15-Suva-trail-Niska-Banja-Trem.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/sokolov-put.geojson",
+        "bbox": [
+            22.00553895905614,
+            43.183372020721436,
+            22.171493181958795,
+            43.29176897183061
+        ],
+        "center": [
+            22.088516,
+            43.23757
+        ],
+        "start_point": [
+            22.007337966933846,
+            43.29176897183061
+        ],
+        "end_point": [
+            22.007337966933846,
+            43.29176897183061
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    22.00734,
+                    43.29177
+                ],
+                [
+                    22.01154,
+                    43.28992
+                ],
+                [
+                    22.0068,
+                    43.28932
+                ],
+                [
+                    22.00954,
+                    43.28832
+                ],
+                [
+                    22.00555,
+                    43.28635
+                ],
+                [
+                    22.01854,
+                    43.27914
+                ],
+                [
+                    22.02386,
+                    43.27316
+                ],
+                [
+                    22.02984,
+                    43.2725
+                ],
+                [
+                    22.03938,
+                    43.26249
+                ],
+                [
+                    22.05029,
+                    43.25974
+                ],
+                [
+                    22.05244,
+                    43.25563
+                ],
+                [
+                    22.06784,
+                    43.24979
+                ],
+                [
+                    22.07197,
+                    43.24963
+                ],
+                [
+                    22.07399,
+                    43.25181
+                ],
+                [
+                    22.07717,
+                    43.25034
+                ],
+                [
+                    22.08831,
+                    43.23075
+                ],
+                [
+                    22.10049,
+                    43.21816
+                ],
+                [
+                    22.17149,
+                    43.18351
+                ],
+                [
+                    22.15585,
+                    43.18993
+                ],
+                [
+                    22.14338,
+                    43.1977
+                ],
+                [
+                    22.1347,
+                    43.20846
+                ],
+                [
+                    22.12397,
+                    43.21288
+                ],
+                [
+                    22.12158,
+                    43.2176
+                ],
+                [
+                    22.1174,
+                    43.21773
+                ],
+                [
+                    22.10551,
+                    43.22483
+                ],
+                [
+                    22.10241,
+                    43.22375
+                ],
+                [
+                    22.09751,
+                    43.2251
+                ],
+                [
+                    22.08883,
+                    43.23024
+                ],
+                [
+                    22.07717,
+                    43.25034
+                ],
+                [
+                    22.07399,
+                    43.25181
+                ],
+                [
+                    22.06924,
+                    43.24957
+                ],
+                [
+                    22.05988,
+                    43.25238
+                ],
+                [
+                    22.05232,
+                    43.25571
+                ],
+                [
+                    22.05029,
+                    43.25974
+                ],
+                [
+                    22.04804,
+                    43.25908
+                ],
+                [
+                    22.03711,
+                    43.26398
+                ],
+                [
+                    22.02984,
+                    43.2725
+                ],
+                [
+                    22.02386,
+                    43.27316
+                ],
+                [
+                    22.01854,
+                    43.27914
+                ],
+                [
+                    22.00555,
+                    43.28635
+                ],
+                [
+                    22.00954,
+                    43.28832
+                ],
+                [
+                    22.0068,
+                    43.28932
+                ],
+                [
+                    22.01154,
+                    43.28992
+                ],
+                [
+                    22.00734,
+                    43.29177
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/sokolov-put/",
+        "canonical_url": "https://pss.rs/terenipp/sokolov-put/",
+        "pss_id": 12405,
+        "updated_at": "2020-11-18T15:01:42Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:01:25Z",
+        "last_synced_at": "2026-11-08T12:01:25Z"
+    },
+    "search": "suva trail - niska banja - trem - niska banja 7-3-15 jugoistocna srbija suva planina niska banja - kod fontane, 258 m niska banja, 258 m mosor psk • niska banja • vidikovci: koritnik, crni kamen, sokolov kamen, trem • na trasi ima izvora pitke vode: niska banja, koritnik, bojanine vode • naselja: koritnik • na trasi ima privatnog smestaja vrlo teska • polazak na stazu je iz centra niske banje (258 m) stazom \"zdravlja\" do sela koritnik. u istoimenom selu postoji cesma gde se moze snabdeti vodom. staza vodi dalje kroz bukovu sumu pored vidikovca crni kamen. nastavlja prema rajcu, do ispred mosora. vrh mosor se zaobilazi sa leve strane u penjanju. zatim staza nastavlja preko grebena suve planine, preko sokolovog kamena (1523 m), devojackog groba, pa sve do najviseg vrha trem (1810 m). od vrha staza ide nazad do devojackog groba, gde se skrece na kraljev put do bojaninih voda. na bojaninim vodama ima izvor pijace vode. odatle deo staze ide asfaltnim putem do skretanja za mosor. staza vodi sada desno od vrha mosor, i dalje do niske banje, istim putem kao u penjanju. • staza je deonica niske transverzale i evropskog pesackog puta e-7",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:01:25Z"
+    }
+}

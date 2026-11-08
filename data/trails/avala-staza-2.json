@@ -1,0 +1,177 @@
+{
+    "schema_version": 1,
+    "slug": "avala-staza-2",
+    "name": "Avala, staza 2",
+    "code": "2-3-3",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 12286,
+        "category_id": 28,
+        "region_ids": [
+            2
+        ],
+        "mountain_ids": [
+            47
+        ]
+    },
+    "region": "Šumadija",
+    "mountain": "Avala",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 3.34,
+        "calculated_km": 3.3
+    },
+    "duration": {
+        "official_minutes": 80,
+        "official_text": "1 h 20 min",
+        "official_raw": "1:20"
+    },
+    "elevation": {
+        "official_gain_m": 376.0,
+        "official_loss_m": 145.0,
+        "calculated_gain_m": 264.5,
+        "calculated_loss_m": 30.7,
+        "min_m": 262.6,
+        "max_m": 510.1
+    },
+    "start": "Autobuska stanica \"Avala\" u Pinosavi, 265 m",
+    "end": "Spomenik Neznanom junaku na vrhu Avale, 506 m",
+    "description": null,
+    "landmarks": "• Česma Sakinac\n\n • Spomenik Sovjetskim ratnim veteranima\n\n • Hotel \"Avala\"\n\n • Spomenik Neznanom junaku",
+    "maintenance": "odlično uređena",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinarski dom \"Čarapićev Brest\"",
+    "notes": "• Stazu je trasirao Dragan Dimitrijević, oktobra 2020. godine.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Avala PD",
+        "url": "https://pss.rs/adresar_klubova/psk-avala/",
+        "contact": "Murska 14, 11000 Beograd\n+38111 386 00 64 ; +38160 04 28 252, \nhttp://www.avala.club/",
+        "clubs": [
+            {
+                "name": "Avala PD",
+                "url": "https://pss.rs/adresar_klubova/psk-avala/",
+                "contact": "Murska 14, 11000 Beograd\n+38111 386 00 64 ; +38160 04 28 252, \nhttp://www.avala.club/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2020/10/2-3-3-Avala-staza-2.gpx",
+        "fetched_at": "2026-11-08T12:01:12Z",
+        "checked_at": "2026-11-08T12:01:12Z",
+        "bytes": 45508,
+        "sha256": "912af9df3f418d3c8921a89bf923882d5a8aeeb8f7d12a8d40006515f5842a96",
+        "etag": null,
+        "last_modified": "Wed, 21 Oct 2020 13:10:23 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 241,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 12,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2020/10/2-3-3-Avala-staza-2.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/avala-staza-2.geojson",
+        "bbox": [
+            20.50192929804325,
+            44.688842883333564,
+            20.515775866806507,
+            44.69630353152752
+        ],
+        "center": [
+            20.508853,
+            44.692573
+        ],
+        "start_point": [
+            20.50192929804325,
+            44.69630353152752
+        ],
+        "end_point": [
+            20.515775866806507,
+            44.68915234319866
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    20.50193,
+                    44.6963
+                ],
+                [
+                    20.50741,
+                    44.69363
+                ],
+                [
+                    20.51014,
+                    44.69547
+                ],
+                [
+                    20.51296,
+                    44.69393
+                ],
+                [
+                    20.51168,
+                    44.69002
+                ],
+                [
+                    20.51445,
+                    44.68888
+                ],
+                [
+                    20.51202,
+                    44.69023
+                ],
+                [
+                    20.51323,
+                    44.69161
+                ],
+                [
+                    20.51578,
+                    44.68915
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/avala-staza-2/",
+        "canonical_url": "https://pss.rs/terenipp/avala-staza-2/",
+        "pss_id": 12286,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:01:13Z",
+        "last_synced_at": "2026-11-08T12:01:13Z"
+    },
+    "search": "avala, staza 2 2-3-3 sumadija avala autobuska stanica \"avala\" u pinosavi, 265 m spomenik neznanom junaku na vrhu avale, 506 m avala pd • cesma sakinac • spomenik sovjetskim ratnim veteranima • hotel \"avala\" • spomenik neznanom junaku laka",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:01:13Z"
+    }
+}

@@ -1,0 +1,233 @@
+{
+    "schema_version": 1,
+    "slug": "zlatanci-orlovac-v-vrtop-staza-7",
+    "name": "Zlatanci - Orlovac - V. Vrtop (staza 7)",
+    "code": "7-15-2",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 20035,
+        "category_id": 28,
+        "region_ids": [
+            7
+        ],
+        "mountain_ids": [
+            162
+        ]
+    },
+    "region": "Jugoistočna Srbija",
+    "mountain": "Gramada",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 13.3,
+        "calculated_km": 13.22
+    },
+    "duration": {
+        "official_minutes": 320,
+        "official_text": "5 h 20 min",
+        "official_raw": "5:20"
+    },
+    "elevation": {
+        "official_gain_m": 730.0,
+        "official_loss_m": 130.0,
+        "calculated_gain_m": 802.7,
+        "calculated_loss_m": 201.2,
+        "min_m": 1122.5,
+        "max_m": 1727.2
+    },
+    "start": "Zlatanci",
+    "end": "Vrh Veliki Vrtop 1721 m",
+    "description": "Početak staze je u selu Zlatanci pored asfaltnog puta ,,Surdulica - Crna Trava&quot;. Prvi deo staze\nvodi užim i krivudavim asfaltnim putem, koji dalje prelazi u makadamski i šumski i ovu deonicu,\nkoja prolazi kroz zaseoke Vujinci, Makinci i Vesinci sve do zaravni nakon vrha Orlovac odlikuje\nkonstantan srednje strm uspon sa bogatom šumskom vegetacijom i retkim kućama pored staze. Na\npređenih 7 km od početka staze, sa leve strane šumskog puta je vrlo izdašan izvor pijaće vode. Na\nvrhu Orlovac je smešten repetitor i teren je obrastao četinarskom šumom, tako da ona ne dopušta\nposetiocima neki širi vidik. Od vrha Orlovac do vrha Veliki Vrtop, nagib staze je dosta blaži.\nStaza prolazi sa leve strane šumskog kompleksa, dok su sa desne strane prostrani pašnjački tereni\nobrasli borovnicom i divljom malinom. Vrh Veliki Vrtop predstavlja veoma široku,\nvisokoplaninsku i travnatu zaravan.\n\nSmer kretanja:\n- Zlatanci\n- Vujinci (1,4 km)\n- Makinci (2,2 km)\n- Vesinci (4,7 km)\n- Vrh Orlovac (8,3 km)\n- Vrh Veliki Vrtop (13,3 km)",
+    "landmarks": "Vrhovi Orlovac i Veliki Vrtop",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Staza je uređena u drugoj polovini 2023. godine sredstvima kompanije ,,Coca - Cola\" HBC Srbija u saradnji sa UNDP u okviru Projekta ,,Vlasina - čista ljubav\".",
+    "map_reference": null,
+    "map_sheet": "1:50000 Vlasotince 2 (633/2)",
+    "club": {
+        "name": "Čemernik PD",
+        "url": "https://pss.rs/adresar_klubova/cemernik-pd/",
+        "contact": "Marka Oreškovića 4, 16210 Vlasotince\n+38116 876 000 ; +38162 896 01 62",
+        "clubs": [
+            {
+                "name": "Čemernik PD",
+                "url": "https://pss.rs/adresar_klubova/cemernik-pd/",
+                "contact": "Marka Oreškovića 4, 16210 Vlasotince\n+38116 876 000 ; +38162 896 01 62"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 12,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2023/08/Staza-7.gpx",
+        "fetched_at": "2026-11-08T12:03:39Z",
+        "checked_at": "2026-11-08T12:03:39Z",
+        "bytes": 84250,
+        "sha256": "7d93fca6926f2ca2342afaa44fd399f1bddfb499c684c9afa463600bcf79eb50",
+        "etag": null,
+        "last_modified": "Sun, 26 Nov 2023 17:17:15 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 764,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 7,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2023/08/Staza-7.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/zlatanci-orlovac-v-vrtop-staza-7.geojson",
+        "bbox": [
+            22.326715719,
+            42.792854877,
+            22.379570408,
+            42.826507568
+        ],
+        "center": [
+            22.353143,
+            42.809681
+        ],
+        "start_point": [
+            22.327192398,
+            42.798273359
+        ],
+        "end_point": [
+            22.373137632,
+            42.79285647
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    22.32719,
+                    42.79827
+                ],
+                [
+                    22.33176,
+                    42.79953
+                ],
+                [
+                    22.32848,
+                    42.80145
+                ],
+                [
+                    22.32913,
+                    42.8067
+                ],
+                [
+                    22.32672,
+                    42.80569
+                ],
+                [
+                    22.33162,
+                    42.80966
+                ],
+                [
+                    22.33685,
+                    42.80939
+                ],
+                [
+                    22.33611,
+                    42.80705
+                ],
+                [
+                    22.34139,
+                    42.8038
+                ],
+                [
+                    22.3448,
+                    42.81072
+                ],
+                [
+                    22.35136,
+                    42.8107
+                ],
+                [
+                    22.35154,
+                    42.81368
+                ],
+                [
+                    22.35698,
+                    42.81368
+                ],
+                [
+                    22.35907,
+                    42.81967
+                ],
+                [
+                    22.36405,
+                    42.82173
+                ],
+                [
+                    22.35634,
+                    42.82404
+                ],
+                [
+                    22.35771,
+                    42.82651
+                ],
+                [
+                    22.36362,
+                    42.82118
+                ],
+                [
+                    22.3695,
+                    42.81943
+                ],
+                [
+                    22.3791,
+                    42.80846
+                ],
+                [
+                    22.37314,
+                    42.79286
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/zlatanci-orlovac-v-vrtop-staza-7/",
+        "canonical_url": "https://pss.rs/terenipp/zlatanci-orlovac-v-vrtop-staza-7/",
+        "pss_id": 20035,
+        "updated_at": "2023-11-26T17:28:06Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:03:40Z",
+        "last_synced_at": "2026-11-08T12:03:40Z"
+    },
+    "search": "zlatanci - orlovac - v. vrtop (staza 7) 7-15-2 jugoistocna srbija gramada zlatanci vrh veliki vrtop 1721 m cemernik pd vrhovi orlovac i veliki vrtop laka pocetak staze je u selu zlatanci pored asfaltnog puta ,,surdulica - crna trava&quot;. prvi deo staze vodi uzim i krivudavim asfaltnim putem, koji dalje prelazi u makadamski i sumski i ovu deonicu, koja prolazi kroz zaseoke vujinci, makinci i vesinci sve do zaravni nakon vrha orlovac odlikuje konstantan srednje strm uspon sa bogatom sumskom vegetacijom i retkim kucama pored staze. na predjenih 7 km od pocetka staze, sa leve strane sumskog puta je vrlo izdasan izvor pijace vode. na vrhu orlovac je smesten repetitor i teren je obrastao cetinarskom sumom, tako da ona ne dopusta posetiocima neki siri vidik. od vrha orlovac do vrha veliki vrtop, nagib staze je dosta blazi. staza prolazi sa leve strane sumskog kompleksa, dok su sa desne strane prostrani pasnjacki tereni obrasli borovnicom i divljom malinom. vrh veliki vrtop predstavlja veoma siroku, visokoplaninsku i travnatu zaravan. smer kretanja: - zlatanci - vujinci (1,4 km) - makinci (2,2 km) - vesinci (4,7 km) - vrh orlovac (8,3 km) - vrh veliki vrtop (13,3 km)",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:03:40Z"
+    }
+}

@@ -1,0 +1,237 @@
+{
+    "schema_version": 1,
+    "slug": "via-militaris-lipovac-bovansko-jezero",
+    "name": "Via militaris / Lipovac - Bovansko jezero",
+    "code": "4-33-4",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 3945,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            74
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Ozren",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 20.0,
+        "calculated_km": 19.38
+    },
+    "duration": {
+        "official_minutes": 480,
+        "official_text": "8 h",
+        "official_raw": "8:00"
+    },
+    "elevation": {
+        "official_gain_m": 404.0,
+        "official_loss_m": 459.0,
+        "calculated_gain_m": 734.3,
+        "calculated_loss_m": 870.6,
+        "min_m": 259.1,
+        "max_m": 798.8
+    },
+    "start": "Lipovac (ustanova za odmor i rekreaciju dece) - 395 mnv",
+    "end": "Bovansko jezero - 340 mnv",
+    "description": null,
+    "landmarks": "Manastir Sv.Stevana, crkva Sv. Jovana, Janjin grob, Bovansko jezero",
+    "maintenance": "delimično uređena",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Brđanka PSK",
+        "url": "https://pss.rs/adresar_klubova/psd-brdanka/",
+        "contact": "Dušana Trivunca 54, 18220 Aleksinac\n060 680 29 75\nhttp://www.planinari-brdjanka.org",
+        "clubs": [
+            {
+                "name": "Brđanka PSK",
+                "url": "https://pss.rs/adresar_klubova/psd-brdanka/",
+                "contact": "Dušana Trivunca 54, 18220 Aleksinac\n060 680 29 75\nhttp://www.planinari-brdjanka.org"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/06/4-33-4-Manastir-Bovansko-jezero.gpx",
+        "fetched_at": "2026-11-08T11:56:19Z",
+        "checked_at": "2026-11-08T11:56:19Z",
+        "bytes": 239441,
+        "sha256": "4be4176f467b577ffd573b04e5fa700a0575cf834ffe7636a27d46c4da0f973b",
+        "etag": null,
+        "last_modified": "Wed, 19 Feb 2020 13:32:26 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 1463,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 5,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/06/4-33-4-Manastir-Bovansko-jezero.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/via-militaris-lipovac-bovansko-jezero.geojson",
+        "bbox": [
+            21.713695004582405,
+            43.560740975663066,
+            21.835900973528624,
+            43.64580002613366
+        ],
+        "center": [
+            21.774798,
+            43.603271
+        ],
+        "start_point": [
+            21.834460040554404,
+            43.560740975663066
+        ],
+        "end_point": [
+            21.713695004582405,
+            43.63942198455334
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.83446,
+                    43.56074
+                ],
+                [
+                    21.8359,
+                    43.56687
+                ],
+                [
+                    21.83162,
+                    43.56826
+                ],
+                [
+                    21.83359,
+                    43.57506
+                ],
+                [
+                    21.82993,
+                    43.57883
+                ],
+                [
+                    21.82268,
+                    43.58016
+                ],
+                [
+                    21.82227,
+                    43.59145
+                ],
+                [
+                    21.81814,
+                    43.59406
+                ],
+                [
+                    21.81018,
+                    43.59209
+                ],
+                [
+                    21.80272,
+                    43.59357
+                ],
+                [
+                    21.79511,
+                    43.59155
+                ],
+                [
+                    21.79281,
+                    43.5883
+                ],
+                [
+                    21.78961,
+                    43.59124
+                ],
+                [
+                    21.78425,
+                    43.59145
+                ],
+                [
+                    21.77232,
+                    43.59972
+                ],
+                [
+                    21.76845,
+                    43.60551
+                ],
+                [
+                    21.76752,
+                    43.61416
+                ],
+                [
+                    21.75987,
+                    43.62497
+                ],
+                [
+                    21.74838,
+                    43.62732
+                ],
+                [
+                    21.74203,
+                    43.63705
+                ],
+                [
+                    21.72048,
+                    43.6458
+                ],
+                [
+                    21.71542,
+                    43.6441
+                ],
+                [
+                    21.71636,
+                    43.64065
+                ],
+                [
+                    21.7137,
+                    43.63942
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/via-militaris-lipovac-bovansko-jezero/",
+        "canonical_url": "https://pss.rs/terenipp/via-militaris-lipovac-bovansko-jezero/",
+        "pss_id": 3945,
+        "updated_at": "2020-02-19T13:33:51Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:56:20Z",
+        "last_synced_at": "2026-11-08T11:56:20Z"
+    },
+    "search": "via militaris / lipovac - bovansko jezero 4-33-4 istocna srbija ozren lipovac (ustanova za odmor i rekreaciju dece) - 395 mnv bovansko jezero - 340 mnv brdjanka psk manastir sv.stevana, crkva sv. jovana, janjin grob, bovansko jezero zahtevna",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:56:20Z"
+    }
+}

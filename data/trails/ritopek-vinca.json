@@ -1,0 +1,191 @@
+{
+    "schema_version": 1,
+    "slug": "ritopek-vinca",
+    "name": "Ritopek - Vinča",
+    "code": "2-3-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 11761,
+        "category_id": 28,
+        "region_ids": [
+            2
+        ],
+        "mountain_ids": [
+            47
+        ]
+    },
+    "region": "Šumadija",
+    "mountain": "Avala",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 8.6,
+        "calculated_km": 8.61
+    },
+    "duration": {
+        "official_minutes": 210,
+        "official_text": "3 h 30 min",
+        "official_raw": "3:30"
+    },
+    "elevation": {
+        "official_gain_m": 174.0,
+        "official_loss_m": 152.0,
+        "calculated_gain_m": 172.3,
+        "calculated_loss_m": 142.9,
+        "min_m": 64.1,
+        "max_m": 144.3
+    },
+    "start": "Okretnica autobusa 304 u Ritopeku, 70 m",
+    "end": "Stanica autobusa 307 „Vinčanska“, 94 m",
+    "description": "• Staza počinje na okretnici gradskog autobusa broj 304 u Ritopeku. U neposrednoj blizini okretnice, nalazi se skela Ritopek-Ivanovo i bife, odakle se polazi na pešačenje.\n\n • Staza vodi pored crkve Svete Trojice i onda uzbrdo do vrha brda na kome se nalazi spomenik palim borcima Crvene armije koji su stradali u borbi za oslobođenje Ritopeka i Beograda. Od spomenika se ide ulicama do ulaza u Ritopek, gde je skretanje na zemljani put. Na dalje staza ide kroz voćnjake i njive, a tu je i jedan prelep vidikovac prema Vinči i Dunavu. U Vinči se može obići crkva Svetih apostola Petra i Pavla i na kraju muzej: Arheološko nalazište Vinča.\n\n • Iz Vinče se gradskim autobusom broj 307 može vratiti u Beograd.",
+    "landmarks": "• Crkva Svete Trojice u Ritopeku\n\n • Spomenik palim borcima Crvene Armije u Ritopeku\n\n • Crkva Svetih apostola Petra i Pavla u Vinči\n\n • Institut za nuklearne nauke “Vinča”\n\n • Muzej “Arheološko nalazište Vinča”\n\n • Smeštaj van trase u hotelu “Radmilovac” i hostelu “Obala” u Vinči\n\n • Naselja Ritopek i Vinča\n\n • Na trasi dva izvora pitke vode, na početku staze i kod crkve Svetih apostola Petra i Pavla u Vinči",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu je trasirao Dragan Dimitrijević, PD \"Železničar\" Beograd avgusta 2019. godine.\n\n • Ekipa markiranata PD \"Železničar\" markirala je stazu 03.09.2020. dvosmerno, uz nesebičnu pomoć Milana Vitanovića i Nikole Žegarca.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Železničar PD Beograd",
+        "url": "https://pss.rs/adresar_klubova/zeleznicar-pk-2/",
+        "contact": "Bulevar Mihajla Pupina 167, 11070 Novi Beograd\n063 66 44 22; 064 293 0877\nhttp://www.zeleznicar.org.rs",
+        "clubs": [
+            {
+                "name": "Železničar PD Beograd",
+                "url": "https://pss.rs/adresar_klubova/zeleznicar-pk-2/",
+                "contact": "Bulevar Mihajla Pupina 167, 11070 Novi Beograd\n063 66 44 22; 064 293 0877\nhttp://www.zeleznicar.org.rs"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 10,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2020/07/2-3-1-Ritpopek-Vinca.gpx",
+        "fetched_at": "2026-11-08T12:01:02Z",
+        "checked_at": "2026-11-08T12:01:02Z",
+        "bytes": 179110,
+        "sha256": "b988037739b32a7ffa24e33838b5d804dc22460cc0a1a6202ed8f3cd6111a468",
+        "etag": null,
+        "last_modified": "Mon, 20 Jul 2020 11:55:43 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 1089,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 13,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2020/07/2-3-1-Ritpopek-Vinca.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/ritopek-vinca.geojson",
+        "bbox": [
+            20.61020001769066,
+            44.735165974125266,
+            20.65912602469325,
+            44.76228201761842
+        ],
+        "center": [
+            20.634663,
+            44.748724
+        ],
+        "start_point": [
+            20.65912602469325,
+            44.738323017954826
+        ],
+        "end_point": [
+            20.62148700468242,
+            44.76226198486984
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    20.65913,
+                    44.73832
+                ],
+                [
+                    20.65511,
+                    44.73849
+                ],
+                [
+                    20.65591,
+                    44.73538
+                ],
+                [
+                    20.65732,
+                    44.73651
+                ],
+                [
+                    20.65548,
+                    44.73517
+                ],
+                [
+                    20.65054,
+                    44.73783
+                ],
+                [
+                    20.64329,
+                    44.73853
+                ],
+                [
+                    20.62933,
+                    44.75163
+                ],
+                [
+                    20.6102,
+                    44.75363
+                ],
+                [
+                    20.62376,
+                    44.76023
+                ],
+                [
+                    20.62364,
+                    44.76227
+                ],
+                [
+                    20.62378,
+                    44.76021
+                ],
+                [
+                    20.62149,
+                    44.76226
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/ritopek-vinca/",
+        "canonical_url": "https://pss.rs/terenipp/ritopek-vinca/",
+        "pss_id": 11761,
+        "updated_at": "2020-09-10T23:20:29Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:01:02Z",
+        "last_synced_at": "2026-11-08T12:01:02Z"
+    },
+    "search": "ritopek - vinca 2-3-1 sumadija avala okretnica autobusa 304 u ritopeku, 70 m stanica autobusa 307 „vincanska“, 94 m zeleznicar pd beograd • crkva svete trojice u ritopeku • spomenik palim borcima crvene armije u ritopeku • crkva svetih apostola petra i pavla u vinci • institut za nuklearne nauke “vinca” • muzej “arheolosko nalaziste vinca” • smestaj van trase u hotelu “radmilovac” i hostelu “obala” u vinci • naselja ritopek i vinca • na trasi dva izvora pitke vode, na pocetku staze i kod crkve svetih apostola petra i pavla u vinci laka • staza pocinje na okretnici gradskog autobusa broj 304 u ritopeku. u neposrednoj blizini okretnice, nalazi se skela ritopek-ivanovo i bife, odakle se polazi na pesacenje. • staza vodi pored crkve svete trojice i onda uzbrdo do vrha brda na kome se nalazi spomenik palim borcima crvene armije koji su stradali u borbi za oslobodjenje ritopeka i beograda. od spomenika se ide ulicama do ulaza u ritopek, gde je skretanje na zemljani put. na dalje staza ide kroz vocnjake i njive, a tu je i jedan prelep vidikovac prema vinci i dunavu. u vinci se moze obici crkva svetih apostola petra i pavla i na kraju muzej: arheolosko nalaziste vinca. • iz vince se gradskim autobusom broj 307 moze vratiti u beograd.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:01:02Z"
+    }
+}

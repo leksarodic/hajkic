@@ -1,0 +1,195 @@
+{
+    "schema_version": 1,
+    "slug": "krstatac-bogova-vrata",
+    "name": "Milušinac - Krstatac - Bogova vrata",
+    "code": "4-45-2",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 8077,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            70
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Krstatac",
+    "difficulty": {
+        "key": "srednje_teska",
+        "label": "Srednje teška",
+        "source": "srednje teška"
+    },
+    "distance": {
+        "official_km": 13.0,
+        "calculated_km": 12.97
+    },
+    "duration": {
+        "official_minutes": 360,
+        "official_text": "6 h",
+        "official_raw": "6:00"
+    },
+    "elevation": {
+        "official_gain_m": 724.0,
+        "official_loss_m": 724.0,
+        "calculated_gain_m": 710.1,
+        "calculated_loss_m": 709.7,
+        "min_m": 443.6,
+        "max_m": 1060.3
+    },
+    "start": "Selo Milušinac, 443 m",
+    "end": "Selo Milušinac, 443 m",
+    "description": "Staza je kružna, polazi od doma u Milušincu i ide asfaltnim i posle zemljanim putem do raskršća, gde se odvaja udesno prema Krstatcu. Prolazi pored bunara i dolazi do prve čeke. Odatle skreće u desno i izlazi na greben i dolazi do vrha. Zatim se spušta do druge čeke blizu Koverke, gde skreće u desno. Izlazi na tri vidikovca odakle se vide Bogova vrata. Prelazi se reka i izlazi na kolski put, sa koga se oštro odvaja prema Bogovskim vratima i vodopadu Urdeškog potoka. Povratak ide niz potok uz nekoliko prelazaka potoka i dolazi se do Manastirišta, a odatle do raskršća i zatim do polazne lokacije.",
+    "landmarks": "• Krstatac, Bogova vrata, bukovi na Milušinačkoj reci, Manastirište\n\n • Vidikovci: Krstatac, 3 vidikovca duž grebena Urdeš\n\n • Na trasi ima izvora pitke vode\n\n • Naselje: Milušinac\n\n • Smeštaj: kamp, odmaralište, privatni smeštaj",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu su trasirali marta 2015. članovi PK \"Ozren\" Sokobanja (Dejan Jorgić, Nebojša Ilić, Milan Dikulić, Ilija Knežević)\n\n • Poslednji put staza je markirana 2018. godine",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Ozren PK",
+        "url": "https://pss.rs/adresar_klubova/ozren-pk/",
+        "contact": "Alekse Markišića 28/3 18230 Sokobanja (poštanski fah 63)\n+38164 855 33 61",
+        "clubs": [
+            {
+                "name": "Ozren PK",
+                "url": "https://pss.rs/adresar_klubova/ozren-pk/",
+                "contact": "Alekse Markišića 28/3 18230 Sokobanja (poštanski fah 63)\n+38164 855 33 61"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2019/01/4-45-2-Milusinac-Krstatac-Bogova-vrata.gpx",
+        "fetched_at": "2026-11-08T11:59:36Z",
+        "checked_at": "2026-11-08T11:59:36Z",
+        "bytes": 157162,
+        "sha256": "20ea3a135f6559099f7ee5ad21d4b5c87d069ba583854bc403fd5be76f02d236",
+        "etag": null,
+        "last_modified": "Wed, 31 Mar 2021 14:57:52 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 955,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 5,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2019/01/4-45-2-Milusinac-Krstatac-Bogova-vrata.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/krstatac-bogova-vrata.geojson",
+        "bbox": [
+            22.01063197106123,
+            43.66205203346908,
+            22.05424301326275,
+            43.67682698182762
+        ],
+        "center": [
+            22.032437,
+            43.66944
+        ],
+        "start_point": [
+            22.010776977986097,
+            43.67013797163963
+        ],
+        "end_point": [
+            22.01063197106123,
+            43.6701259855181
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    22.01078,
+                    43.67014
+                ],
+                [
+                    22.03471,
+                    43.66276
+                ],
+                [
+                    22.03764,
+                    43.66975
+                ],
+                [
+                    22.04449,
+                    43.66896
+                ],
+                [
+                    22.04477,
+                    43.6657
+                ],
+                [
+                    22.05344,
+                    43.66215
+                ],
+                [
+                    22.05039,
+                    43.66813
+                ],
+                [
+                    22.05424,
+                    43.67084
+                ],
+                [
+                    22.04624,
+                    43.67683
+                ],
+                [
+                    22.04137,
+                    43.67588
+                ],
+                [
+                    22.04752,
+                    43.67488
+                ],
+                [
+                    22.02556,
+                    43.67236
+                ],
+                [
+                    22.02336,
+                    43.66701
+                ],
+                [
+                    22.01063,
+                    43.67013
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/krstatac-bogova-vrata/",
+        "canonical_url": "https://pss.rs/terenipp/krstatac-bogova-vrata/",
+        "pss_id": 8077,
+        "updated_at": "2021-03-31T15:00:56Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:59:37Z",
+        "last_synced_at": "2026-11-08T11:59:37Z"
+    },
+    "search": "milusinac - krstatac - bogova vrata 4-45-2 istocna srbija krstatac selo milusinac, 443 m selo milusinac, 443 m ozren pk • krstatac, bogova vrata, bukovi na milusinackoj reci, manastiriste • vidikovci: krstatac, 3 vidikovca duz grebena urdes • na trasi ima izvora pitke vode • naselje: milusinac • smestaj: kamp, odmaraliste, privatni smestaj srednje teska staza je kruzna, polazi od doma u milusincu i ide asfaltnim i posle zemljanim putem do raskrsca, gde se odvaja udesno prema krstatcu. prolazi pored bunara i dolazi do prve ceke. odatle skrece u desno i izlazi na greben i dolazi do vrha. zatim se spusta do druge ceke blizu koverke, gde skrece u desno. izlazi na tri vidikovca odakle se vide bogova vrata. prelazi se reka i izlazi na kolski put, sa koga se ostro odvaja prema bogovskim vratima i vodopadu urdeskog potoka. povratak ide niz potok uz nekoliko prelazaka potoka i dolazi se do manastirista, a odatle do raskrsca i zatim do polazne lokacije.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:59:37Z"
+    }
+}

@@ -1,0 +1,187 @@
+{
+    "schema_version": 1,
+    "slug": "staza-br-10-vrh-vlajna-1442",
+    "name": "Staza br. 10. \"Vrh Vlajna 1442\"",
+    "code": "7-9-10",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 3767,
+        "category_id": 28,
+        "region_ids": [
+            7
+        ],
+        "mountain_ids": [
+            69
+        ]
+    },
+    "region": "Jugoistočna Srbija",
+    "mountain": "Kukavica",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 13.0,
+        "calculated_km": 8.63
+    },
+    "duration": {
+        "official_minutes": 270,
+        "official_text": "4 h 30 min",
+        "official_raw": "4:30"
+    },
+    "elevation": {
+        "official_gain_m": null,
+        "official_loss_m": null,
+        "calculated_gain_m": 266.8,
+        "calculated_loss_m": 946.9,
+        "min_m": 564.0,
+        "max_m": 1439.7
+    },
+    "start": "Hotel Vlaina",
+    "end": "Planinarski dom \"Preka Voda\"",
+    "description": "Hotel Vlaina - Jasički rid - Svinjarnik - Vrteška - vrh Vlaina 1442 m - pl. dom \"Preka voda\"",
+    "landmarks": null,
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinarski dom \"Preka voda\"",
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": "1:25000, TK Leskovac 632 2-4",
+    "club": {
+        "name": "Kukavica PSK",
+        "url": "https://pss.rs/adresar_klubova/kukavica-psk/",
+        "contact": "Deligradska 5, 16000 Leskovac\n+381652824655",
+        "clubs": [
+            {
+                "name": "Kukavica PSK",
+                "url": "https://pss.rs/adresar_klubova/kukavica-psk/",
+                "contact": "Deligradska 5, 16000 Leskovac\n+381652824655"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 7,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/7-9-10-Staza-br.10-Vlajna.gpx",
+        "fetched_at": "2026-11-08T11:55:17Z",
+        "checked_at": "2026-11-08T11:55:17Z",
+        "bytes": 113755,
+        "sha256": "08daef00d3402c8bc51a1410a2848ce14e17fc2042178851449665444449213c",
+        "etag": null,
+        "last_modified": "Mon, 18 Oct 2021 15:54:08 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 692,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 6,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/7-9-10-Staza-br.10-Vlajna.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/staza-br-10-vrh-vlajna-1442.geojson",
+        "bbox": [
+            21.922688959166408,
+            42.78496348299086,
+            21.954279765486717,
+            42.82988268882036
+        ],
+        "center": [
+            21.938484,
+            42.807423
+        ],
+        "start_point": [
+            21.95149328559637,
+            42.7849649079144
+        ],
+        "end_point": [
+            21.922688959166408,
+            42.829840276390314
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.95149,
+                    42.78496
+                ],
+                [
+                    21.95368,
+                    42.79027
+                ],
+                [
+                    21.94863,
+                    42.78832
+                ],
+                [
+                    21.93916,
+                    42.80258
+                ],
+                [
+                    21.94347,
+                    42.80734
+                ],
+                [
+                    21.9439,
+                    42.81528
+                ],
+                [
+                    21.93667,
+                    42.82108
+                ],
+                [
+                    21.92912,
+                    42.82355
+                ],
+                [
+                    21.93407,
+                    42.82454
+                ],
+                [
+                    21.92525,
+                    42.82835
+                ],
+                [
+                    21.92322,
+                    42.82767
+                ],
+                [
+                    21.92269,
+                    42.82984
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/staza-br-10-vrh-vlajna-1442/",
+        "canonical_url": "https://pss.rs/terenipp/staza-br-10-vrh-vlajna-1442/",
+        "pss_id": 3767,
+        "updated_at": "2021-10-18T15:55:04Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:55:18Z",
+        "last_synced_at": "2026-11-08T11:55:18Z"
+    },
+    "search": "staza br. 10. \"vrh vlajna 1442\" 7-9-10 jugoistocna srbija kukavica hotel vlaina planinarski dom \"preka voda\" kukavica psk zahtevna hotel vlaina - jasicki rid - svinjarnik - vrteska - vrh vlaina 1442 m - pl. dom \"preka voda\"",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:55:18Z"
+    }
+}

@@ -1,0 +1,213 @@
+{
+    "schema_version": 1,
+    "slug": "megara-1-milunova-staza",
+    "name": "Megara 1 – Milunova staza",
+    "code": "5-9-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 24768,
+        "category_id": 28,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            419
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Ponikve",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 10.5,
+        "calculated_km": 10.45
+    },
+    "duration": {
+        "official_minutes": 200,
+        "official_text": "3 h 20 min",
+        "official_raw": "3:20"
+    },
+    "elevation": {
+        "official_gain_m": 403.0,
+        "official_loss_m": 433.0,
+        "calculated_gain_m": 675.3,
+        "calculated_loss_m": 705.2,
+        "min_m": 404.3,
+        "max_m": 801.8
+    },
+    "start": "Neolitsko naselje „StaPark“ (rekonstrukcija) - 497 m",
+    "end": "Neolitsko naselje „StaPark“ (rekonstrukcija) - 497 m",
+    "description": "Staza počinje od neolitskog naselja StaPark“ , pa uzbrdo pored nove železničke stanice Staparisve asfaltom do oštre krivine gde silazi na tvrdi put i dolazi do lokaliteta „ Rimsko groblje“ i česme (nije u funkciji), do naredne raskrisnice, gde se put račva. Jedan krak uzbrdo ide ka pećini Megara, a drugi preko zaseoka Popadići ka arheološkom lokalitetu Gradina na Maloj Gradini, a međusobno povezani ovom stazom (kružno). Kada se krene pravcem, ka pećini Megara, prvo se ide asfaltnim putem nekih kilometar dužine, pa se skreće levo šumskim putem i preko livade do najviše tačke staze zaselak Gredeljevići, odakle nastavlja nizbrdo pored seoskog groblja i spušta se ka pećini Megara. Staza prolazi neposredno pored pećine Megara, prelazi megarski potok, nastavalja dalje lokalnim šumskim putem preko Rogića do arhološkog lokaliteta ma Maloj Gradini 666m. Ima odvajanje ka njemu. Nastavlja dalje, blago nizbrdo i ponovo prelazi megarski potok, pa preko zaseoka Popadići, rimskog groblja do raskrsnice gde se tvrdi put spušta do zgrade stare železničke stanice. Markirana staza nastavlja levo trasom stare železničke pruge, koja vodi do neolitskog naselja.",
+    "landmarks": "Na samoj stazi - Neolitsko naselje „StaPark“, Staparska banja, „Rimsko groblje“, Arheološki lokalitet Mala Gradina, pećina Megara, a selu se još mogu posetiti Savin kamen (zaseok Dolovi), Vrelo Postjenica (Divljakovića vrelo) sa periodičnim vodopadima, Crkva arhistratiga Gavrila u Staparima iz 19. veka, Manastir Rujan u zaseoku Vrutci i veštačko jezero (akumulacija) Vrutci.\nVidikovci: Lep pogled na Zlatibor i okolinu sa najviše tačke iznad pećine Megara i sa mesta arheološkog lokaliteta Gradina\n\nNaselja i zaseoci sa nazivima: Staza pripada selu Stapari i prolazi kroz zaseoke Popadići i Gredeljevići.",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Ko je i kada trasirao stazu: Članovi društva 2021. godine Milun Ivanović, Zlatan Brkić, Dobrosav Dedović i Gordana Trmčić Brkić\n\nKada je staza poslednji put markirana: 2023. godine\n\nSnabdevenost pitkom vodom: na trasi / izvori pitke vode: jedan na početku staze iznad Nove železničke stanice i kod pećine Megara",
+    "map_reference": null,
+    "map_sheet": "1:50000 Užice 1 (528/1)",
+    "club": {
+        "name": "Zlatibor PD",
+        "url": "https://pss.rs/adresar_klubova/zlatibor-pd/",
+        "contact": "Užičke republike 1, 31000 Užice\n+381645807738",
+        "clubs": [
+            {
+                "name": "Zlatibor PD",
+                "url": "https://pss.rs/adresar_klubova/zlatibor-pd/",
+                "contact": "Užičke republike 1, 31000 Užice\n+381645807738"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 7,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2024/06/Megara.gpx",
+        "fetched_at": "2026-11-08T12:05:57Z",
+        "checked_at": "2026-11-08T12:05:57Z",
+        "bytes": 173862,
+        "sha256": "c39d307c6ca5b1f97195d732381e302ad06b060b1d2124d7e18f991a7cd2d8b0",
+        "etag": null,
+        "last_modified": "Tue, 18 Jun 2024 14:26:43 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 1686,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 9,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2024/06/Megara.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/megara-1-milunova-staza.geojson",
+        "bbox": [
+            19.73106917,
+            43.843815,
+            19.76602957,
+            43.85775207
+        ],
+        "center": [
+            19.748549,
+            43.850784
+        ],
+        "start_point": [
+            19.7623951,
+            43.84564282
+        ],
+        "end_point": [
+            19.76602957,
+            43.84515679
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    19.7624,
+                    43.84564
+                ],
+                [
+                    19.75751,
+                    43.84838
+                ],
+                [
+                    19.75003,
+                    43.84697
+                ],
+                [
+                    19.74739,
+                    43.84411
+                ],
+                [
+                    19.74145,
+                    43.85737
+                ],
+                [
+                    19.73664,
+                    43.8559
+                ],
+                [
+                    19.73256,
+                    43.85689
+                ],
+                [
+                    19.73256,
+                    43.85125
+                ],
+                [
+                    19.73815,
+                    43.85126
+                ],
+                [
+                    19.74642,
+                    43.84716
+                ],
+                [
+                    19.74731,
+                    43.84407
+                ],
+                [
+                    19.75011,
+                    43.847
+                ],
+                [
+                    19.75323,
+                    43.84652
+                ],
+                [
+                    19.75186,
+                    43.84382
+                ],
+                [
+                    19.75448,
+                    43.8459
+                ],
+                [
+                    19.76603,
+                    43.84516
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/megara-1-milunova-staza/",
+        "canonical_url": "https://pss.rs/terenipp/megara-1-milunova-staza/",
+        "pss_id": 24768,
+        "updated_at": "2024-06-18T14:39:36Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:05:58Z",
+        "last_synced_at": "2026-11-08T12:05:58Z"
+    },
+    "search": "megara 1 – milunova staza 5-9-1 jugozapadna srbija ponikve neolitsko naselje „stapark“ (rekonstrukcija) - 497 m neolitsko naselje „stapark“ (rekonstrukcija) - 497 m zlatibor pd na samoj stazi - neolitsko naselje „stapark“, staparska banja, „rimsko groblje“, arheoloski lokalitet mala gradina, pecina megara, a selu se jos mogu posetiti savin kamen (zaseok dolovi), vrelo postjenica (divljakovica vrelo) sa periodicnim vodopadima, crkva arhistratiga gavrila u staparima iz 19. veka, manastir rujan u zaseoku vrutci i vestacko jezero (akumulacija) vrutci. vidikovci: lep pogled na zlatibor i okolinu sa najvise tacke iznad pecine megara i sa mesta arheoloskog lokaliteta gradina naselja i zaseoci sa nazivima: staza pripada selu stapari i prolazi kroz zaseoke popadici i gredeljevici. laka staza pocinje od neolitskog naselja stapark“ , pa uzbrdo pored nove zeleznicke stanice staparisve asfaltom do ostre krivine gde silazi na tvrdi put i dolazi do lokaliteta „ rimsko groblje“ i cesme (nije u funkciji), do naredne raskrisnice, gde se put racva. jedan krak uzbrdo ide ka pecini megara, a drugi preko zaseoka popadici ka arheoloskom lokalitetu gradina na maloj gradini, a medjusobno povezani ovom stazom (kruzno). kada se krene pravcem, ka pecini megara, prvo se ide asfaltnim putem nekih kilometar duzine, pa se skrece levo sumskim putem i preko livade do najvise tacke staze zaselak gredeljevici, odakle nastavlja nizbrdo pored seoskog groblja i spusta se ka pecini megara. staza prolazi neposredno pored pecine megara, prelazi megarski potok, nastavalja dalje lokalnim sumskim putem preko rogica do arholoskog lokaliteta ma maloj gradini 666m. ima odvajanje ka njemu. nastavlja dalje, blago nizbrdo i ponovo prelazi megarski potok, pa preko zaseoka popadici, rimskog groblja do raskrsnice gde se tvrdi put spusta do zgrade stare zeleznicke stanice. markirana staza nastavlja levo trasom stare zeleznicke pruge, koja vodi do neolitskog naselja.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:05:58Z"
+    }
+}

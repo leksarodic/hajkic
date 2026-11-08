@@ -1,0 +1,211 @@
+{
+    "schema_version": 1,
+    "slug": "koritnjak-devojacki-grob",
+    "name": "Koritnjak - Devojački grob",
+    "code": "7-3-10",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 8686,
+        "category_id": 28,
+        "region_ids": [
+            7
+        ],
+        "mountain_ids": [
+            50
+        ]
+    },
+    "region": "Jugoistočna Srbija",
+    "mountain": "Suva planina",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 17.2,
+        "calculated_km": 17.22
+    },
+    "duration": {
+        "official_minutes": 360,
+        "official_text": "6 h",
+        "official_raw": "6:00"
+    },
+    "elevation": {
+        "official_gain_m": 1398.0,
+        "official_loss_m": 697.0,
+        "calculated_gain_m": 1384.7,
+        "calculated_loss_m": 685.8,
+        "min_m": 618.0,
+        "max_m": 1544.0
+    },
+    "start": "Koritnjak, 640m",
+    "end": "Devojački grob, 1305m",
+    "description": "Od Koritnjaka prema Crnom kamenu staza vodi kroz listopadnu šumu, zbog toga je dobra za pešačenje u letnjim vrelim danima. Kod mesta zvanog Rajac izlazi se na prelepe livade, na tom mestu meštanin je napravio mini vikendicu gde se može odmoriti i osvežiti se. Planira da u narednom periodu vikendicu snabde čistom pijaćom vodom. Do Mosora staza vodi kroz listopadnu šumu. Pre samog izlaska na Mosor ima par stena koje pažljivo mogu da se pređu. Sa vrha se pruža pogled na celu potkovicu Suve planine i sa suprotne strane na Svrljiške planine. Sa Mosora možete sići niz stene ili zaobilaznim putem. Zatim sledi deo staze koji vodi kroz šumu, a nakon toga preko stena Sokolovog kamena. Na Sokolovom kamenu je predeo prekriven stenama, kamenjem i livadama. Do Devojačkog groba se silazi stazom koja je mešavina stena i livada. Na samoj stazi ima veliki broj vidikovaca.",
+    "landmarks": "• Vidikovci: Koritnjak, Crni kamen, Mosor, Sokolov kamen\n\n • Česma je na startu, na dalje nema izvora pitke vode.\n\n • Selo Koritnjak nema stalno nastanjeno stanovništvo.\n\n • Na trasi ima samo 1 privatni smeštaj.\n\n • Van trase smeštaj ima u Niškoj banji.",
+    "maintenance": "delimično uređena",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu je trasirao Slaviša Ivanović.\n\n • Poslednji put staza je markirana 31.03.2019. godine.\n\n • Staza je deonica Niške transverzale i Evropskog pešačkog puta E7.\n\n • Staza spaja sledeće staze/puteve: Koritnjak - Lekoviti izvor, Crni kamen - Rautovo, Mosor - Bojanine vode, Devojački grob - Trem, Devojački grob - Bojanine vode, Devojački grob - Gornji Dušnik.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Mosor PSK",
+        "url": "https://pss.rs/adresar_klubova/mosor-pak/",
+        "contact": "Tvrđava bb, 18000 Niš\n063 1023016, 063 406025, 064 665 41 58\nhttp://www.pakmosor.org/",
+        "clubs": [
+            {
+                "name": "Mosor PSK",
+                "url": "https://pss.rs/adresar_klubova/mosor-pak/",
+                "contact": "Tvrđava bb, 18000 Niš\n063 1023016, 063 406025, 064 665 41 58\nhttp://www.pakmosor.org/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 11,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2019/04/7-3-10-Koritnjak-Devojacki-grob.gpx",
+        "fetched_at": "2026-11-08T12:00:11Z",
+        "checked_at": "2026-11-08T12:00:11Z",
+        "bytes": 162449,
+        "sha256": "b1d76404e5271d76293ce304465a5b939a716026f150a7ac5735604bdb0b8808",
+        "etag": null,
+        "last_modified": "Tue, 02 Apr 2019 12:20:15 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 1061,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 10,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2019/04/7-3-10-Koritnjak-Devojacki-grob.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/koritnjak-devojacki-grob.geojson",
+        "bbox": [
+            22.010180354118347,
+            43.19799207150936,
+            22.143026143312454,
+            43.28228585422039
+        ],
+        "center": [
+            22.076603,
+            43.240139
+        ],
+        "start_point": [
+            22.010180354118347,
+            43.28117407858372
+        ],
+        "end_point": [
+            22.143026143312454,
+            43.19799207150936
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    22.01018,
+                    43.28117
+                ],
+                [
+                    22.0113,
+                    43.28226
+                ],
+                [
+                    22.01853,
+                    43.27894
+                ],
+                [
+                    22.02378,
+                    43.27305
+                ],
+                [
+                    22.02982,
+                    43.27231
+                ],
+                [
+                    22.03317,
+                    43.2666
+                ],
+                [
+                    22.04297,
+                    43.26096
+                ],
+                [
+                    22.05031,
+                    43.25963
+                ],
+                [
+                    22.05541,
+                    43.25389
+                ],
+                [
+                    22.06777,
+                    43.24972
+                ],
+                [
+                    22.07202,
+                    43.24951
+                ],
+                [
+                    22.07389,
+                    43.25181
+                ],
+                [
+                    22.07694,
+                    43.25041
+                ],
+                [
+                    22.08241,
+                    43.24315
+                ],
+                [
+                    22.08464,
+                    43.23397
+                ],
+                [
+                    22.10037,
+                    43.21823
+                ],
+                [
+                    22.11756,
+                    43.20846
+                ],
+                [
+                    22.14303,
+                    43.19799
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/koritnjak-devojacki-grob/",
+        "canonical_url": "https://pss.rs/terenipp/koritnjak-devojacki-grob/",
+        "pss_id": 8686,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:00:12Z",
+        "last_synced_at": "2026-11-08T12:00:12Z"
+    },
+    "search": "koritnjak - devojacki grob 7-3-10 jugoistocna srbija suva planina koritnjak, 640m devojacki grob, 1305m mosor psk • vidikovci: koritnjak, crni kamen, mosor, sokolov kamen • cesma je na startu, na dalje nema izvora pitke vode. • selo koritnjak nema stalno nastanjeno stanovnistvo. • na trasi ima samo 1 privatni smestaj. • van trase smestaj ima u niskoj banji. zahtevna od koritnjaka prema crnom kamenu staza vodi kroz listopadnu sumu, zbog toga je dobra za pesacenje u letnjim vrelim danima. kod mesta zvanog rajac izlazi se na prelepe livade, na tom mestu mestanin je napravio mini vikendicu gde se moze odmoriti i osveziti se. planira da u narednom periodu vikendicu snabde cistom pijacom vodom. do mosora staza vodi kroz listopadnu sumu. pre samog izlaska na mosor ima par stena koje pazljivo mogu da se predju. sa vrha se pruza pogled na celu potkovicu suve planine i sa suprotne strane na svrljiske planine. sa mosora mozete sici niz stene ili zaobilaznim putem. zatim sledi deo staze koji vodi kroz sumu, a nakon toga preko stena sokolovog kamena. na sokolovom kamenu je predeo prekriven stenama, kamenjem i livadama. do devojackog groba se silazi stazom koja je mesavina stena i livada. na samoj stazi ima veliki broj vidikovaca.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:00:12Z"
+    }
+}

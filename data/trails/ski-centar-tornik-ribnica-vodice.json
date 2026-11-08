@@ -1,0 +1,183 @@
+{
+    "schema_version": 1,
+    "slug": "ski-centar-tornik-ribnica-vodice",
+    "name": "Ski centar \"Tornik\" (Ribnica) - Vodice",
+    "code": "5-12-2",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 11541,
+        "category_id": 28,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            122
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Zlatibor",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 9.9,
+        "calculated_km": 9.84
+    },
+    "duration": {
+        "official_minutes": 180,
+        "official_text": "3 h",
+        "official_raw": "3:00"
+    },
+    "elevation": {
+        "official_gain_m": 327.0,
+        "official_loss_m": 379.0,
+        "calculated_gain_m": 190.4,
+        "calculated_loss_m": 238.9,
+        "min_m": 1041.7,
+        "max_m": 1264.4
+    },
+    "start": "Podnožje Ski centra \"Tornik\", 1099 m",
+    "end": "Vodice naselje, 1047 m",
+    "description": "Staza počinje u podnožju Ski centra \"Tornik\" i kreće u smeru jugoistok kroz gustu borovu šumu pored naselja Marići i Šajinovci. Šumski put vodi od izlaska na istočne padine Tornika i dalje u pravcu istoka do naselja Vodice.",
+    "landmarks": "• Značajni lokaliteti: Ski centar \"Tornik\"\n\n • Vidikovci: istočni greben Tornika\n\n • Naselja na trasi: Ribnica, Marići, Šajinovci, Vodice",
+    "maintenance": "odlično uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": "Planinski dom \"Tornik\"",
+    "notes": "• Stazu je trasirao Petar Vesović , maja 2019. godine\n\n • Poslednji put staza je markirana oktobra 2019. godine",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Tornik PK",
+        "url": "https://pss.rs/adresar_klubova/tornik-pk/",
+        "contact": "Zlatiborska 28\n064 156 55 78",
+        "clubs": [
+            {
+                "name": "Tornik PK",
+                "url": "https://pss.rs/adresar_klubova/tornik-pk/",
+                "contact": "Zlatiborska 28\n064 156 55 78"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2020/06/5-12-2-Ski-centar-Tornik-Vodice.gpx",
+        "fetched_at": "2026-11-08T12:00:43Z",
+        "checked_at": "2026-11-08T12:00:43Z",
+        "bytes": 28584,
+        "sha256": "5d210d9f6332dd46ed4a619dbdee87b42d9e367a95b49313860f78917c043140",
+        "etag": null,
+        "last_modified": "Tue, 02 Jun 2020 16:11:55 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 213,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 7,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2020/06/5-12-2-Ski-centar-Tornik-Vodice.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/ski-centar-tornik-ribnica-vodice.geojson",
+        "bbox": [
+            19.647013982757926,
+            43.6322090215981,
+            19.722746992483735,
+            43.6719529889524
+        ],
+        "center": [
+            19.68488,
+            43.652081
+        ],
+        "start_point": [
+            19.647013982757926,
+            43.67144403979182
+        ],
+        "end_point": [
+            19.722746992483735,
+            43.6322090215981
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    19.64701,
+                    43.67144
+                ],
+                [
+                    19.66011,
+                    43.66992
+                ],
+                [
+                    19.66045,
+                    43.65985
+                ],
+                [
+                    19.66784,
+                    43.6596
+                ],
+                [
+                    19.66724,
+                    43.65532
+                ],
+                [
+                    19.67319,
+                    43.65514
+                ],
+                [
+                    19.67629,
+                    43.65206
+                ],
+                [
+                    19.68661,
+                    43.65028
+                ],
+                [
+                    19.70432,
+                    43.63553
+                ],
+                [
+                    19.71926,
+                    43.63563
+                ],
+                [
+                    19.72275,
+                    43.63221
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/ski-centar-tornik-ribnica-vodice/",
+        "canonical_url": "https://pss.rs/terenipp/ski-centar-tornik-ribnica-vodice/",
+        "pss_id": 11541,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:00:43Z",
+        "last_synced_at": "2026-11-08T12:00:43Z"
+    },
+    "search": "ski centar \"tornik\" (ribnica) - vodice 5-12-2 jugozapadna srbija zlatibor podnozje ski centra \"tornik\", 1099 m vodice naselje, 1047 m tornik pk • znacajni lokaliteti: ski centar \"tornik\" • vidikovci: istocni greben tornika • naselja na trasi: ribnica, marici, sajinovci, vodice laka staza pocinje u podnozju ski centra \"tornik\" i krece u smeru jugoistok kroz gustu borovu sumu pored naselja marici i sajinovci. sumski put vodi od izlaska na istocne padine tornika i dalje u pravcu istoka do naselja vodice.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:00:43Z"
+    }
+}

@@ -1,0 +1,155 @@
+{
+    "schema_version": 1,
+    "slug": "vlasina-ostra-cuka",
+    "name": "Vlasina - Oštra čuka",
+    "code": "4-33-7",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 8300,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            74
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Ozren",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 1.8,
+        "calculated_km": 1.83
+    },
+    "duration": {
+        "official_minutes": 45,
+        "official_text": "45 min",
+        "official_raw": "0:45"
+    },
+    "elevation": {
+        "official_gain_m": 146.0,
+        "official_loss_m": 25.0,
+        "calculated_gain_m": 101.3,
+        "calculated_loss_m": 3.4,
+        "min_m": 940.3,
+        "max_m": 1044.7
+    },
+    "start": "Visoravan Vlasina (granica između Device i Ozrena), 939m",
+    "end": "Oštra Čuka, 1075m",
+    "description": "• Ozren (istočna strana i vrh Oštra čuka na Devici)\n\n • Spaja sledeće staze/puteve: Spaja stazu \"Sokobanja-Kalinovica-Vlasina-Oštra čuka\" i stazu \"Kalinovica-Čapljanac\" (Oko Oštre čuke)",
+    "landmarks": "• Vidikovci: Vlasina i Oštra čuka\n\n • Na stazi nema izvora pitke vode\n\n • Na trasi nema smeštaja",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu je trasirala PD \"Oštra Čuka\" septembra 2011. godine.\n\n • Poslednji put staza je markirana oktobra 2013. godine.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Oštra čuka PD",
+        "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+        "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/",
+        "clubs": [
+            {
+                "name": "Oštra čuka PD",
+                "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+                "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2019/02/4-33-7-Vlasina-Ostra-cuka.gpx",
+        "fetched_at": "2026-11-08T11:59:59Z",
+        "checked_at": "2026-11-08T11:59:59Z",
+        "bytes": 6904,
+        "sha256": "2941cc078fb9cbd3248a4ebd3d13c2e4654c88cf5d2c514dfeb9c3cae75fd298",
+        "etag": null,
+        "last_modified": "Tue, 12 Feb 2019 14:35:51 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 44,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 2,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2019/02/4-33-7-Vlasina-Ostra-cuka.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/vlasina-ostra-cuka.geojson",
+        "bbox": [
+            21.887861816212535,
+            43.59015525318682,
+            21.897515505552292,
+            43.598388209939
+        ],
+        "center": [
+            21.892689,
+            43.594272
+        ],
+        "start_point": [
+            21.887861816212535,
+            43.59068490564823
+        ],
+        "end_point": [
+            21.897304952144623,
+            43.59601872973144
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.88786,
+                    43.59068
+                ],
+                [
+                    21.89601,
+                    43.59328
+                ],
+                [
+                    21.89696,
+                    43.59839
+                ],
+                [
+                    21.8973,
+                    43.59602
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/vlasina-ostra-cuka/",
+        "canonical_url": "https://pss.rs/terenipp/vlasina-ostra-cuka/",
+        "pss_id": 8300,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:59:59Z",
+        "last_synced_at": "2026-11-08T11:59:59Z"
+    },
+    "search": "vlasina - ostra cuka 4-33-7 istocna srbija ozren visoravan vlasina (granica izmedju device i ozrena), 939m ostra cuka, 1075m ostra cuka pd • vidikovci: vlasina i ostra cuka • na stazi nema izvora pitke vode • na trasi nema smestaja laka • ozren (istocna strana i vrh ostra cuka na devici) • spaja sledece staze/puteve: spaja stazu \"sokobanja-kalinovica-vlasina-ostra cuka\" i stazu \"kalinovica-capljanac\" (oko ostre cuke)",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:59:59Z"
+    }
+}

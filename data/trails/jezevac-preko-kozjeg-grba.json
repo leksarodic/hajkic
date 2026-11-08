@@ -1,0 +1,179 @@
+{
+    "schema_version": 1,
+    "slug": "jezevac-preko-kozjeg-grba",
+    "name": "Ježevac preko Kozjeg Grba",
+    "code": "4-49-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 5084,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            112
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Ježevac",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevna"
+    },
+    "distance": {
+        "official_km": 7.2,
+        "calculated_km": 7.22
+    },
+    "duration": {
+        "official_minutes": 300,
+        "official_text": "5 h",
+        "official_raw": "5:00"
+    },
+    "elevation": {
+        "official_gain_m": 517.0,
+        "official_loss_m": 498.0,
+        "calculated_gain_m": 608.9,
+        "calculated_loss_m": 556.2,
+        "min_m": 149.7,
+        "max_m": 715.1
+    },
+    "start": "Šetonjski most na reci Mlavi (158m)",
+    "end": "Manastir Gornjak (177m)",
+    "description": "Na startu staze ima mesta za parking. Prvo se ide seoskim putem sa koga se skreće na stazu. Staza je veoma interesantna jer se velikim delom ide grebenom sa koga se pruža lep pogled na tok Mlave i kamenolom. Podloga je na usponu većinom kamen, dok se pri silasku ide kroz šumu do izletišta Čvarinac gde postoji izvor. Dalji deo do manastira Gornjak je nasut put. U tom delu puta sa leve strane postoje veštački tuneli kroz koje se može proći.",
+    "landmarks": "• Manastir Gornjak\n\n • Izletište Čvarinac\n\n • Veštački tuneli iznad manastira Gornjak\n\n • 3 vidikovca",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "Staza je poslednji put markirana 2017. godine",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Gornjak PD",
+        "url": "https://pss.rs/adresar_klubova/gornjak-pd/",
+        "contact": "Prvomajska bb, 12300 Petrovac na Mlavi\n+38164 2345 518 ; +38163 696 682\nhttp://www.gornjak.org.rs",
+        "clubs": [
+            {
+                "name": "Gornjak PD",
+                "url": "https://pss.rs/adresar_klubova/gornjak-pd/",
+                "contact": "Prvomajska bb, 12300 Petrovac na Mlavi\n+38164 2345 518 ; +38163 696 682\nhttp://www.gornjak.org.rs"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/10/4-49-1_Jezevac-Kozji_grb.gpx",
+        "fetched_at": "2026-11-08T11:59:06Z",
+        "checked_at": "2026-11-08T11:59:06Z",
+        "bytes": 91677,
+        "sha256": "7c471681a76d70ebc23a5c0f2bdaeb3d09dd0b78ef7453b7ecc7d928bb6f954b",
+        "etag": null,
+        "last_modified": "Fri, 20 Oct 2017 15:27:33 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 552,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 5,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/10/4-49-1_Jezevac-Kozji_grb.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/jezevac-preko-kozjeg-grba.geojson",
+        "bbox": [
+            21.50843895971775,
+            44.25548700615764,
+            21.54459798708558,
+            44.281695038080215
+        ],
+        "center": [
+            21.526518,
+            44.268591
+        ],
+        "start_point": [
+            21.50843895971775,
+            44.281695038080215
+        ],
+        "end_point": [
+            21.54459798708558,
+            44.26609296351671
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.50844,
+                    44.2817
+                ],
+                [
+                    21.51946,
+                    44.27574
+                ],
+                [
+                    21.51356,
+                    44.26863
+                ],
+                [
+                    21.51679,
+                    44.26721
+                ],
+                [
+                    21.51709,
+                    44.2636
+                ],
+                [
+                    21.52481,
+                    44.25691
+                ],
+                [
+                    21.52379,
+                    44.25585
+                ],
+                [
+                    21.53776,
+                    44.25684
+                ],
+                [
+                    21.53772,
+                    44.26006
+                ],
+                [
+                    21.5446,
+                    44.26609
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/jezevac-preko-kozjeg-grba/",
+        "canonical_url": "https://pss.rs/terenipp/jezevac-preko-kozjeg-grba/",
+        "pss_id": 5084,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T11:59:06Z",
+        "last_synced_at": "2026-11-08T11:59:06Z"
+    },
+    "search": "jezevac preko kozjeg grba 4-49-1 istocna srbija jezevac setonjski most na reci mlavi (158m) manastir gornjak (177m) gornjak pd • manastir gornjak • izletiste cvarinac • vestacki tuneli iznad manastira gornjak • 3 vidikovca zahtevna na startu staze ima mesta za parking. prvo se ide seoskim putem sa koga se skrece na stazu. staza je veoma interesantna jer se velikim delom ide grebenom sa koga se pruza lep pogled na tok mlave i kamenolom. podloga je na usponu vecinom kamen, dok se pri silasku ide kroz sumu do izletista cvarinac gde postoji izvor. dalji deo do manastira gornjak je nasut put. u tom delu puta sa leve strane postoje vestacki tuneli kroz koje se moze proci.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T11:59:06Z"
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "schema_version": 1,
+    "slug": "mrka-kosa-kozji-rid",
+    "name": "Mrka Kosa – Kozji Rid",
+    "code": "5-4-44",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 24915,
+        "category_id": 28,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            67
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Tara",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 1.9,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": null,
+        "official_loss_m": null,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": null,
+    "end": null,
+    "description": null,
+    "landmarks": null,
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "STRANICA JE U PRIPREMI",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Tara PK",
+        "url": "https://pss.rs/adresar_klubova/tara-pk/",
+        "contact": "Španskih boraca 1 31250 Bajina Bašta\n+38131 865 585; +38165 861 25 00\nhttps://planinarskiklubtara.org/",
+        "clubs": [
+            {
+                "name": "Tara PK",
+                "url": "https://pss.rs/adresar_klubova/tara-pk/",
+                "contact": "Španskih boraca 1 31250 Bajina Bašta\n+38131 865 585; +38165 861 25 00\nhttps://planinarskiklubtara.org/"
+            }
+        ]
+    },
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 1,
+    "gpx": {
+        "available": false,
+        "status": "missing",
+        "source_url": null,
+        "fetched_at": null,
+        "checked_at": "2026-11-08T12:06:00Z",
+        "bytes": null,
+        "sha256": null,
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": null,
+        "tracks": null,
+        "segments": null,
+        "waypoints": null,
+        "error": null,
+        "download": {
+            "mode": "none",
+            "url": null
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description",
+            "missing_gpx"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/mrka-kosa-kozji-rid/",
+        "canonical_url": "https://pss.rs/terenipp/mrka-kosa-kozji-rid/",
+        "pss_id": 24915,
+        "updated_at": "2024-12-14T18:36:01Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:06:00Z",
+        "last_synced_at": "2026-11-08T12:06:00Z"
+    },
+    "search": "mrka kosa – kozji rid 5-4-44 jugozapadna srbija tara tara pk laka",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:06:00Z"
+    }
+}

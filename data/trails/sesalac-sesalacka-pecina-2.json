@@ -1,0 +1,163 @@
+{
+    "schema_version": 1,
+    "slug": "sesalac-sesalacka-pecina-2",
+    "name": "Sesalac - Sesalačka pećina",
+    "code": "4-37-1",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 8304,
+        "category_id": 28,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            73
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Slemen",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 3.0,
+        "calculated_km": 3.17
+    },
+    "duration": {
+        "official_minutes": 60,
+        "official_text": "1 h",
+        "official_raw": "1:00"
+    },
+    "elevation": {
+        "official_gain_m": 165.0,
+        "official_loss_m": 0.0,
+        "calculated_gain_m": 176.3,
+        "calculated_loss_m": 2.2,
+        "min_m": 430.0,
+        "max_m": 608.1
+    },
+    "start": "Sesalac, centar sela, 436m",
+    "end": "Sesalačka pećina, 601m",
+    "description": "Slemen (jugozapadna strana)",
+    "landmarks": "• Sesalačka pećina\n\n • Nema izvora pitke vode\n\n • Nema smeštaja",
+    "maintenance": "dobro uređena i markirana",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu je trasirala PD \"Oštra Čuka\" maja 2015. godine.\n\n • Poslednji put staza je markirana maja 2015. godine.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Oštra čuka PD",
+        "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+        "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/",
+        "clubs": [
+            {
+                "name": "Oštra čuka PD",
+                "url": "https://pss.rs/adresar_klubova/ostra-cuka-pd/",
+                "contact": "Alekse Markišića 2/4/16, 18230 Soko Banja\n+38164 9 202 909\nhttps://www.ostracuka.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2019/02/4-37-1-Sesalac-Sesalacka-pecina.gpx",
+        "fetched_at": "2026-11-08T12:00:00Z",
+        "checked_at": "2026-11-08T12:00:00Z",
+        "bytes": 9846,
+        "sha256": "23a5d898e4a965daebaa4f0161d1076f3fc590bb29a718316e68e71e84c03472",
+        "etag": null,
+        "last_modified": "Tue, 12 Feb 2019 14:49:09 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 65,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 3,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2019/02/4-37-1-Sesalac-Sesalacka-pecina.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/sesalac-sesalacka-pecina-2.geojson",
+        "bbox": [
+            21.976015297695994,
+            43.67992208339274,
+            21.9880149140954,
+            43.69871908798814
+        ],
+        "center": [
+            21.982015,
+            43.689321
+        ],
+        "start_point": [
+            21.977996109053493,
+            43.67992208339274
+        ],
+        "end_point": [
+            21.98788004927337,
+            43.69871908798814
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.978,
+                    43.67992
+                ],
+                [
+                    21.97602,
+                    43.68382
+                ],
+                [
+                    21.97811,
+                    43.68203
+                ],
+                [
+                    21.97852,
+                    43.69093
+                ],
+                [
+                    21.9848,
+                    43.69315
+                ],
+                [
+                    21.98788,
+                    43.69872
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/sesalac-sesalacka-pecina-2/",
+        "canonical_url": "https://pss.rs/terenipp/sesalac-sesalacka-pecina-2/",
+        "pss_id": 8304,
+        "updated_at": "2019-02-24T13:47:17Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:00:01Z",
+        "last_synced_at": "2026-11-08T12:00:01Z"
+    },
+    "search": "sesalac - sesalacka pecina 4-37-1 istocna srbija slemen sesalac, centar sela, 436m sesalacka pecina, 601m ostra cuka pd • sesalacka pecina • nema izvora pitke vode • nema smestaja laka slemen (jugozapadna strana)",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:00:01Z"
+    }
+}

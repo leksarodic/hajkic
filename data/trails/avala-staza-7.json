@@ -1,0 +1,179 @@
+{
+    "schema_version": 1,
+    "slug": "avala-staza-7",
+    "name": "Avala, staza 7",
+    "code": "2-3-8",
+    "category": {
+        "key": "planinarski-putevi",
+        "label": "Planinarski i pešački putevi"
+    },
+    "pss": {
+        "post_id": 12306,
+        "category_id": 28,
+        "region_ids": [
+            2
+        ],
+        "mountain_ids": [
+            47
+        ]
+    },
+    "region": "Šumadija",
+    "mountain": "Avala",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "laka"
+    },
+    "distance": {
+        "official_km": 4.22,
+        "calculated_km": 4.2
+    },
+    "duration": {
+        "official_minutes": 120,
+        "official_text": "2 h",
+        "official_raw": "2:00"
+    },
+    "elevation": {
+        "official_gain_m": 234.0,
+        "official_loss_m": 235.0,
+        "calculated_gain_m": 140.7,
+        "calculated_loss_m": 161.2,
+        "min_m": 227.0,
+        "max_m": 294.8
+    },
+    "start": "Autobuska stanica \"Raskrsnica Vrčin\", 278 m",
+    "end": "Autobuska stanica \"Put za Zuce\", 277 m",
+    "description": "• Staza 7 spaja se sa stazom 3.",
+    "landmarks": "• Dečije odmaralište \"Šuplja stena\"\n\n • U blizini staze je napušteni rudnik žive\n\n • Kraljeva česma\n\n • Na stazi nema izvora pitke vode\n\n • Na stazi nema smeštaja\n\n • Naselje: Ripanj",
+    "maintenance": "delimično uređena",
+    "marking": "propisna planinarska (crveno-bela)",
+    "accommodation": null,
+    "notes": "• Stazu je trasirao Dragan Dimitrijević, oktobra 2020. godine.\n\n • Staza je u toku projetovanja i markiranja",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Avala PD",
+        "url": "https://pss.rs/adresar_klubova/psk-avala/",
+        "contact": "Murska 14, 11000 Beograd\n+38111 386 00 64 ; +38160 04 28 252, \nhttp://www.avala.club/",
+        "clubs": [
+            {
+                "name": "Avala PD",
+                "url": "https://pss.rs/adresar_klubova/psk-avala/",
+                "contact": "Murska 14, 11000 Beograd\n+38111 386 00 64 ; +38160 04 28 252, \nhttp://www.avala.club/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2020/10/2-3-8-Avala-staza-7.gpx",
+        "fetched_at": "2026-11-08T12:01:21Z",
+        "checked_at": "2026-11-08T12:01:21Z",
+        "bytes": 74010,
+        "sha256": "20de9f85954d94a4d5e26f90ae0fb8d88d6d0acfc986187f18a1562411b21bb9",
+        "etag": null,
+        "last_modified": "Sat, 24 Oct 2020 16:25:45 GMT",
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 442,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 6,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2020/10/2-3-8-Avala-staza-7.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/avala-staza-7.geojson",
+        "bbox": [
+            20.52982997149229,
+            44.66253301128745,
+            20.543441008776426,
+            44.68062300235033
+        ],
+        "center": [
+            20.536635,
+            44.671578
+        ],
+        "start_point": [
+            20.543433967977762,
+            44.66269796714187
+        ],
+        "end_point": [
+            20.533061027526855,
+            44.68062300235033
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    20.54343,
+                    44.6627
+                ],
+                [
+                    20.54089,
+                    44.66539
+                ],
+                [
+                    20.53631,
+                    44.66421
+                ],
+                [
+                    20.53908,
+                    44.66871
+                ],
+                [
+                    20.53443,
+                    44.67117
+                ],
+                [
+                    20.53564,
+                    44.67391
+                ],
+                [
+                    20.53147,
+                    44.67516
+                ],
+                [
+                    20.53371,
+                    44.67882
+                ],
+                [
+                    20.52985,
+                    44.68056
+                ],
+                [
+                    20.53306,
+                    44.68062
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": []
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/avala-staza-7/",
+        "canonical_url": "https://pss.rs/terenipp/avala-staza-7/",
+        "pss_id": 12306,
+        "updated_at": "2020-10-24T16:27:39Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T12:01:22Z",
+        "last_synced_at": "2026-11-08T12:01:22Z"
+    },
+    "search": "avala, staza 7 2-3-8 sumadija avala autobuska stanica \"raskrsnica vrcin\", 278 m autobuska stanica \"put za zuce\", 277 m avala pd • decije odmaraliste \"suplja stena\" • u blizini staze je napusteni rudnik zive • kraljeva cesma • na stazi nema izvora pitke vode • na stazi nema smestaja • naselje: ripanj laka • staza 7 spaja se sa stazom 3.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T12:01:22Z"
+    }
+}
