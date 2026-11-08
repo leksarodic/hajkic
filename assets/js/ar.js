@@ -1,4 +1,4 @@
-import { bearingDegrees, escapeHtml, formatNumber, formatShortDistance, haversine } from './lib/format.js';
+import { bearingDegrees, escapeHtml, formatShortDistance, haversine } from './lib/format.js';
 import { showToast } from './lib/dom.js';
 
 const HORIZONTAL_FOV = 66;
@@ -75,6 +75,10 @@ export function openAR({ trail, geojson, onClose = () => {} }) {
     let destroyed = false;
     let targets = [];
 
+    const onKey = (event) => {
+        if (event.key === 'Escape') close();
+    };
+
     const cleanup = () => {
         if (destroyed) return;
         destroyed = true;
@@ -82,6 +86,7 @@ export function openAR({ trail, geojson, onClose = () => {} }) {
         window.removeEventListener('deviceorientation', handleOrientation, true);
         window.removeEventListener('deviceorientationabsolute', handleOrientation, true);
         if (stream) stream.getTracks().forEach((track) => track.stop());
+        document.removeEventListener('keydown', onKey);
         overlay.remove();
         document.body.classList.remove('ar-open');
         onClose();
@@ -91,12 +96,7 @@ export function openAR({ trail, geojson, onClose = () => {} }) {
     overlay.querySelector('#ar-close')?.addEventListener('click', close);
     overlay.querySelector('#ar-close-bottom')?.addEventListener('click', close);
     overlay.querySelector('#ar-fatal-close')?.addEventListener('click', close);
-    document.addEventListener('keydown', function onKey(event) {
-        if (event.key === 'Escape') {
-            document.removeEventListener('keydown', onKey);
-            close();
-        }
-    });
+    document.addEventListener('keydown', onKey);
 
     function fatalError(message) {
         fatal.hidden = false;

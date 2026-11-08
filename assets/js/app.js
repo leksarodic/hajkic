@@ -561,11 +561,12 @@ async function selectTrail(slug, options = {}) {
             }
         });
 
-        if (!options.initial) {
-            updateUrl();
-        } else {
-            updateUrl();
+        updateUrl();
+        const canonical = document.querySelector('link[rel="canonical"]');
+        if (canonical) {
+            canonical.href = new URL(trailPageUrl(slug), window.location.origin).href;
         }
+        document.title = `${trail.name}${trail.mountain ? ' — ' + trail.mountain : ''} | Hajkić`;
 
         if (!options.initial) {
             const title = elements.panelContent.querySelector('#detail-title');
@@ -603,6 +604,9 @@ function closeDetail(keepSelection = false) {
         markSelectedCard(null);
         document.getElementById('map-clear')?.setAttribute('hidden', '');
         updateUrl();
+        const canonical = document.querySelector('link[rel="canonical"]');
+        if (canonical) canonical.href = new URL(config.base || '/', window.location.origin).href;
+        document.title = 'Interaktivna mapa planinarskih staza Srbije | Hajkić';
     }
 
     if (state.lastFocused && document.contains(state.lastFocused)) {

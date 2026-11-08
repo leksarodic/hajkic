@@ -12,12 +12,10 @@
 /.env
 
 # Import output that is regenerated (the committed dataset lives in /data)
-/data/import-report.json
 /data/.import-state.json
 
 # Generated static builds
-/_site/
-/_site-test/
+/_site*/
 /dist-static/
 /build/
 

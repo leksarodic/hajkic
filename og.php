@@ -10,7 +10,8 @@ $trail = $slug !== '' ? $repo->load($slug) : null;
 $key = $trail !== null ? (string) $trail['slug'] : 'default';
 $cacheDir = HAJKIC_ROOT . '/storage/cache/og';
 hajkic_ensure_dir($cacheDir);
-$cachePath = $cacheDir . '/' . $key . '.png';
+$version = (int) @filemtime(HAJKIC_ROOT . '/includes/Seo/OgImage.php');
+$cachePath = $cacheDir . '/' . $key . '-' . $version . '.png';
 
 $sourceMtime = $trail !== null ? (int) @filemtime($repo->trailPath((string) $trail['slug'])) : 0;
 $cacheMtime = (int) @filemtime($cachePath);

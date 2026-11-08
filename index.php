@@ -120,7 +120,7 @@ if ($path === '/') {
 
     if ($selectedTrailData !== null) {
         $trailDescription = (string) ($selectedTrailData['description'] ?? '');
-        $pageTitle = (string) $selectedTrailData['name'] . (!empty($selectedTrailData['mountain']) ? ' — ' . $selectedTrailData['mountain'] : '');
+        $pageTitle = (string) $selectedTrailData['name'] . (!empty($selectedTrailData['mountain']) && $selectedTrailData['mountain'] !== $selectedTrailData['name'] ? ' — ' . $selectedTrailData['mountain'] : '');
         $metaDescription = mb_substr(preg_replace('/\s+/u', ' ', $trailDescription) ?? $trailDescription, 0, 180, 'UTF-8');
         if ($metaDescription === '') {
             $metaDescription = 'Planinarska staza ' . $selectedTrailData['name'] . ' — mapa, GPX i visinski profil.';
@@ -213,6 +213,7 @@ if (str_starts_with($path, '/staza/')) {
             'ogImage'         => hajkic_og_image(),
             'ogType'          => 'website',
         ]);
+        if ($renderOnly) { return; }
         exit;
     }
 
@@ -249,7 +250,7 @@ if (str_starts_with($path, '/staza/')) {
         'useMap'          => false,
         'useApp'          => false,
         'bodyClass'       => 'trail-page-body',
-        'pageTitle'       => (string) $trail['name'] . (!empty($trail['mountain']) ? ' — ' . $trail['mountain'] : ''),
+        'pageTitle'       => (string) $trail['name'] . (!empty($trail['mountain']) && $trail['mountain'] !== $trail['name'] ? ' — ' . $trail['mountain'] : ''),
         'metaDescription' => $metaDescription,
         'canonicalPath'   => '/staza/' . $slug,
         'robots'          => 'index,follow,max-image-preview:large',

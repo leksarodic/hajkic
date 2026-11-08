@@ -220,7 +220,6 @@ export class TrailMap {
 
         this.overviewLayer.bringToFront();
         this.selectedGroup?.eachLayer((child) => child.bringToFront?.());
-        window.__hajkicDebug = { map: this.map, overview: this.overviewLayer, layers: [...this.overviewLayers.keys()] };
         return this;
     }
 
@@ -540,6 +539,7 @@ export class TrailMap {
     locate() {
         if (!navigator.geolocation) {
             showToast('Vaš pregledač ne podržava lokaciju.');
+            this.callbacks.onLocationError?.();
             return;
         }
 

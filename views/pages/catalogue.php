@@ -170,5 +170,16 @@ $elevationCount = (int) ($counts['with_elevation'] ?? 0);
         <div class="catalogue-more">
             <button type="button" class="btn btn--ghost" id="load-more" hidden>Prikaži još staza</button>
         </div>
+
+        <?php if ($trails !== []): ?>
+            <details class="catalogue-directory">
+                <summary>Sve staze A–Ž <span>(<?= h((string) count($trails)) ?>)</span></summary>
+                <div class="catalogue-directory__links">
+                    <?php foreach ($trails as $item): ?>
+                        <a href="<?= h(url('/staza/' . rawurlencode((string) $item['slug']))) ?>"><?= h((string) $item['name']) ?></a>
+                    <?php endforeach; ?>
+                </div>
+            </details>
+        <?php endif; ?>
     </section>
 </main>

@@ -14,7 +14,9 @@ function hajkic_format_number(?float $value, int $decimals = 1): ?string
     }
 
     $formatted = number_format($value, $decimals, ',', '.');
-    $formatted = rtrim(rtrim($formatted, '0'), ',');
+    if (str_contains($formatted, ',')) {
+        $formatted = rtrim(rtrim($formatted, '0'), ',');
+    }
 
     return $formatted === '' ? '0' : $formatted;
 }
@@ -318,7 +320,10 @@ function hajkic_trail_structured_data(array $trail, string $slug): array
         'name'        => (string) ($trail['name'] ?? ''),
         'description' => $description,
         'url'         => $url,
+        'image'       => preg_match('#^https?://#', hajkic_og_image($slug)) ? hajkic_og_image($slug) : hajkic_absolute_url(hajkic_og_image($slug)),
+        'inLanguage'  => 'sr-Latn',
         'touristType' => 'Planinarenje',
+        'sameAs'      => (string) ($trail['source']['canonical_url'] ?? ''),
         'isAccessibleForFree' => true,
         'provider'    => [
             '@type' => 'Organization',
@@ -346,6 +351,9 @@ function hajkic_trail_structured_data(array $trail, string $slug): array
             'value' => (float) $gain,
             'unitCode' => 'MTR',
         ];
+    }
+    if (!empty($trail['source']['updated_at'])) {
+        $trip['dateModified'] = (string) $trail['source']['updated_at'];
     }
     if (!empty($trail['geometry']['bbox']) && is_array($trail['geometry']['bbox'])) {
         $bbox = $trail['geometry']['bbox'];

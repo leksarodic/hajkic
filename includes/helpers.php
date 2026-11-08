@@ -247,8 +247,11 @@ function hajkic_parse_number(?string $value): ?float
         return null;
     }
 
-    $value = preg_replace('/[^\d,.\-]/u', '', $value) ?? '';
-    if ($value === '' || $value === '-' || $value === '.') {
+    // Take the first numeric token, so values like
+    // "479/489 i devijacija 831/687" do not collapse into 489831.
+    if (preg_match('/-?\d+(?:[.,]\d+)?/', $value, $match)) {
+        $value = $match[0];
+    } else {
         return null;
     }
 

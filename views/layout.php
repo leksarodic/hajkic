@@ -63,6 +63,7 @@ $clientConfig = [
     <meta name="description" content="<?= h($metaDescription ?? (string) config('app.description')) ?>">
     <meta name="robots" content="<?= h($robots) ?>">
     <link rel="canonical" href="<?= h($canonical) ?>">
+    <link rel="alternate" hreflang="sr-Latn" href="<?= h($canonical) ?>">
     <link rel="alternate" type="application/json" href="<?= h($jsonIndex) ?>" title="Hajkić trail index (JSON)">
     <link rel="alternate" type="text/plain" href="<?= h(hajkic_absolute_url('/llms.txt')) ?>" title="Hajkić for AI assistants">
     <meta property="og:type" content="<?= h($ogType) ?>">
@@ -82,6 +83,11 @@ $clientConfig = [
     <link rel="icon" href="<?= h(asset('assets/img/favicon.svg')) ?>" type="image/svg+xml">
     <link rel="preload" href="<?= h(asset('assets/fonts/instrument-serif-normal-400-latin.woff2')) ?>" as="font" type="font/woff2" crossorigin>
     <link rel="preload" href="<?= h(asset('assets/fonts/inter-tight-normal-300_700-latin.woff2')) ?>" as="font" type="font/woff2" crossorigin>
+    <link rel="preconnect" href="https://tiles.openstreetmap.rs" crossorigin>
+    <link rel="dns-prefetch" href="https://tile.opentopomap.org">
+    <?php if (in_array($page, ['map', 'catalogue'], true)): ?>
+        <link rel="preload" href="<?= h(url('/data/trails-index.json')) ?>" as="fetch" crossorigin>
+    <?php endif; ?>
     <link rel="stylesheet" href="<?= h(asset('assets/css/app.css')) ?>">
     <?php if ($useMap): ?>
         <link rel="stylesheet" href="<?= h(asset('assets/vendor/leaflet.css')) ?>">

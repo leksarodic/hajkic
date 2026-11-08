@@ -41,7 +41,7 @@ $sections = [
             <a href="<?= h(url('/')) ?>">Hajkić</a>
             <span aria-hidden="true">/</span>
             <a href="<?= h(url('/staze')) ?>">Staze</a>
-            <?php if (!empty($trail['mountain'])): ?>
+            <?php if (!empty($trail['mountain']) && $trail['mountain'] !== $trail['name']): ?>
                 <span aria-hidden="true">/</span>
                 <a href="<?= h(url('/staze?mountain=' . rawurlencode((string) $trail['mountain']))) ?>"><?= h((string) $trail['mountain']) ?></a>
             <?php endif; ?>
@@ -51,7 +51,7 @@ $sections = [
 
         <header class="trail-hero">
             <div class="trail-hero__content">
-                <p class="eyebrow">Planinarska staza<?= !empty($trail['code']) ? ' · oznaka ' . h((string) $trail['code']) : '' ?></p>
+                <p class="eyebrow"><?= h((string) ($trail['category']['label'] ?? 'Planinarska staza')) ?><?= !empty($trail['code']) ? ' · oznaka ' . h((string) $trail['code']) : '' ?></p>
                 <h1><?= h((string) $trail['name']) ?></h1>
                 <?php if ($place !== ''): ?><p class="trail-hero__place"><?= h($place) ?></p><?php endif; ?>
                 <div class="trail-hero__badges">

@@ -33,6 +33,7 @@ function hajkic_icon(string $name, string $class = ''): string
         'check'     => '<path d="m5 12 4 4L19 6"/>',
         'location'  => '<path d="M12 21s7-6.1 7-11a7 7 0 1 0-14 0c0 4.9 7 11 7 11Z"/>',
         'flag'      => '<path d="M5 21V4h13l-2 4 2 4H5"/>',
+        'camera'    => '<path d="M4 8h3l1.5-2h7L17 8h3v11H4z"/><circle cx="12" cy="13" r="3.2"/>',
     ];
 
     $path = $paths[$name] ?? $paths['info'];
