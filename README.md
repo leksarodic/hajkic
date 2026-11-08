@@ -1,5 +1,7 @@
 # Hajkić
 
+**Live demo:** https://leksarodic.github.io/hajkic/
+
 Interactive, map-first guide to hiking trails in Serbia.
 
 Hajkić combines the public trail register of the **Mountaineering Association of Serbia** (Planinarski savez Srbije — PSS) with real GPX geometry, elevation profiles and practical planning tools. It is deliberately lightweight: PHP + static JSON/GeoJSON + vanilla JavaScript + Leaflet. No Docker, no always-on Node.js server, no paid map API, no API keys and no external AI service.
