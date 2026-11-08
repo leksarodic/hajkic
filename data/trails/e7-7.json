@@ -79,12 +79,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/05/E7-7-Cer-Krupanj.gpx",
-        "fetched_at": "2026-11-08T12:50:57Z",
-        "checked_at": "2026-11-08T12:50:57Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 218097,
         "sha256": "ec8e09b7890c3f80278adcb660b52c19cbf458dfe90ac2538d67e5e62f09c91c",
         "etag": null,
-        "last_modified": "Sat, 07 Dec 2024 21:25:30 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": false,
         "points": 3017,
@@ -558,14 +558,14 @@
         "pss_id": 3725,
         "updated_at": "2024-12-07T21:25:39Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:50:57Z",
-        "last_synced_at": "2026-11-08T12:50:57Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "cer - krupanj e7-7 zapadna srbija cer cer psd etnokomplesk trsic, manastir tronosa, krupanj, soko grad, manastir sv. nikolaja zahtevna • planina cer i njeni grebeni prema tekerisu, trsicu i gucevu, kuda prolazi put e7, predstavlja istorijsko podrucje sa spomenicima iz prvog svetskog rata i cuvenih bitaka na ceru i kolubari. celo podrucje nalazi se u sumovitom pobrdju planina iverak i gucevo. u neposrednoj blizini grada loznice nalazi se selo trsic sa rodnom kucom i muzejom tvorca srpske azbuke vuka stefanovica karadzica. • u okruzenju muzeja nalazi se zasticeni etno kompleks „trsic” sa 35 objekata, muzeja, galerija, cardaka, ambara, vajata i dr. u trsicu se svake godine u septembru odrzava medjunarodni skup slavista pod nazivom „vukov sabor”. • na putu e7 nalazi se manastir tronosa iz 14. veka, zaduzbina srpskog kralja dragutina. • gradic krupanj na putu e7 nalazi se u maloj kotlini izmedju niskih planina boranja, jagodnja i sokolske planine. pored ranih tragova naselja iz doba neolita vidljivi su ostaci rimske vile rustike. kao naselje krupanj se prvi put pominje u zapisima dubrovackih trgovaca 1417. godine. prirodne lepote i vrednosti krupnja su veoma zanimljive. • pored lepe planinske prirode ovde se nalazi i kovacevica pecina, bistri planinski potoci i lepi vidici sa okolnih vrhova.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:50:57Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

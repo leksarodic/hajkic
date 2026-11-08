@@ -79,12 +79,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2023/03/Staza-2-Murtenica-Tavnicko-jezero.gpx",
-        "fetched_at": "2026-11-08T12:02:48Z",
-        "checked_at": "2026-11-08T12:02:48Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 315732,
         "sha256": "da54760eb91144cfb819d8da55a6e2fec446a90e8aa7b013bd8b3ead4f8c4420",
         "etag": null,
-        "last_modified": "Mon, 20 Mar 2023 23:10:05 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 2898,
@@ -256,14 +256,14 @@
         "pss_id": 19059,
         "updated_at": "2023-03-20T23:26:00Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:02:49Z",
-        "last_synced_at": "2026-11-08T12:02:49Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "staza br. 2: murtenica – tavnicko jezero 5-12-7 jugozapadna srbija zlatibor drvena crkva svete trojice u draglici drvena crkva svete trojice u draglici tornik pk crkva svete trojice u draglici, vrh medje brdo i tavnicko jezero laka sumarska kuca u pragovima - vrh medje brdo (1,5 km) - sisaci (3,4 km) - previja (4,5 km) - crkva brvnara u draglici (7,3 km) - tavnicko jezero (11,4 km) - stolovi (15,1 km) - stojkovaca (15,8 km) - sumarska kuca u pragovima (16,8 km)",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:02:49Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

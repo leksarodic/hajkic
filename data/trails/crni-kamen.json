@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2022/02/7-1-1-Staza-br.16-Crni-Kamen.gpx",
-        "fetched_at": "2026-11-08T12:02:19Z",
-        "checked_at": "2026-11-08T12:02:19Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 173507,
         "sha256": "d8a2dc1457991622d4f03b9987cf7fa7ecd79ae34d9f26248e3337b02eb36844",
         "etag": null,
-        "last_modified": "Fri, 04 Feb 2022 11:20:53 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 1063,
@@ -150,14 +150,14 @@
         "pss_id": 15674,
         "updated_at": "2022-10-12T21:22:50Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:02:19Z",
-        "last_synced_at": "2026-11-08T12:02:19Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "\"crni kamen\" 7-1-1 jugoistocna srbija babicka gora selo jarsenovo, 530 m vrh kriva buka, 1059 m kukavica psk нема zahtevna • selo jarsenovo - crni kamen - ovcarevo - 1. sumska kuca - izvor - vrh kriva buka • sa stazom br.17 \"jarsenovo - g. kupinovica - kriva buka\" pravi kruznu stazu od 19,5 km.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:02:19Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

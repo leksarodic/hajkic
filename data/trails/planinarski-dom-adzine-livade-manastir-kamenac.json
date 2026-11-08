@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2021/01/2-14-20-Dom-Kamenac.gpx",
-        "fetched_at": "2026-11-08T12:01:48Z",
-        "checked_at": "2026-11-08T12:01:48Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 133577,
         "sha256": "deeb3a67bdbbc983afff05c480f811a393b6726619eee032149c58ece509afc0",
         "etag": null,
-        "last_modified": "Tue, 26 Jan 2021 14:48:37 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 784,
@@ -166,14 +166,14 @@
         "pss_id": 12915,
         "updated_at": "2021-01-26T14:50:21Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:01:48Z",
-        "last_synced_at": "2026-11-08T12:01:48Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "planinarski dom adzine livade - manastir kamenac 2-14-20 sumadija gledicke planine planinarski dom \"dr sonja perisic\" u selu adzine livade, 575 m planinarski dom \"dr sonja perisic\" u selu adzine livade, 575 m zezelj pd • manastir kamenac iz xiv veka • selo cestin • vidikovac gradina (564 m) • naselja: selo adzine livade, selo cestin, zaseok josovici, zaseok bozanici • na pocetku trase planinarski dom \"dr. sonja perisic\" adzine livade • na trasi privatni smestaj (seosko domacinstvo antonijevic, seosko domacinstvo vlajic) laka staza je deo gledicke transverzale, i polazi od planinarskog doma \"dr. sonja perisic\" u selu adzine livade (575 m). pripada kategoriji lakih staza i dugacka je ukupno 16,6 km. moze se preci za oko 7 sati hoda sa pauzama. od trafostanice povise doma skrece se desno u pravcu zapada prema selu cestin. staza obilazi vrh cukar (622 m) sa juzne strane i nastavlja se dalje grebenskim putem preko cestinske gradine (564 m). nakon toga se staza spusta i prolazi kroz selo cestin (306 m), prelazi se preko bozanske reke, potez dobros i silazi se u potok kamenac. potok se nalazi ispod samog manastira kamenac. povratak do planinarskog doma obelezen je istim putem kroz selo cestin. na stazi postoje dva domacinstva kod kojih je moguce dogovoriti osvezenje i kupovinu domacih proizvoda. (antonijevic 0641319581, 034530173 i vlajic 0600809168, 034515191 gde se nalazi i spomen kuca petra tucakovica).",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:01:48Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

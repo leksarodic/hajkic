@@ -80,7 +80,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T12:04:04Z",
+        "checked_at": "2026-11-08T13:01:57Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -120,14 +120,14 @@
         "pss_id": 24298,
         "updated_at": "2024-12-14T19:08:35Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:04:04Z",
-        "last_synced_at": "2026-11-08T12:04:04Z"
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
     },
     "search": "priboj (stari deo grada) - crni vrh 5-65-1 jugozapadna srbija crni vrh (pribojski) priboj - stari deo grada crni vrh - 1186 ljeskovac zkp laka staza vodi od zeleznicke stanice ka godusi. od goduse izlazi na bjelis, pa zatim ide ka selu lunici i sumskoj kuci. od sumske kuce se penje ka crnom vrhu.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:04:04Z"
+        "generated_at": "2026-11-08T13:01:57Z"
     }
 }

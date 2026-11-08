@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2018/10/4-27-5-RTANJ.gpx",
-        "fetched_at": "2026-11-08T11:59:25Z",
-        "checked_at": "2026-11-08T11:59:25Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 344190,
         "sha256": "7db5b7c0bcdea7179e016ee4ff5c6ba4c672fc785ddd36a3eba98ce6c82a28b9",
         "etag": null,
-        "last_modified": "Wed, 31 Oct 2018 10:49:06 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 2132,
@@ -196,14 +196,14 @@
         "pss_id": 7503,
         "updated_at": "2018-10-31T11:13:24Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:59:26Z",
-        "last_synced_at": "2026-11-08T11:59:26Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "rtanj 4-27-7 istocna srbija rtanj kod kamenoloma \"unimer\" mirovo, 363m selo rtanj, 599m dragan radosavljevic opsd • na 3,42 km od starta izlazak iz sume i prvi vidikovac • na 5,05 km od starta izlazak iz sume i drugi vidikovac • nakon 6,38 km izlazak na sedlo • na trasi ima 2 izvora pitke vode • na trasi i van trase ima privatnog smestaja zahtevna pocetak staze nalazi se preko puta glavnog parkinga kamenoloma \"unimer\" mirovo (363 mnv). staza je dobro obelezena u oba pravca standardnom planinarskom markacijom. u prvom delu staze se krece kolskim putrem, gde ga ubrzo zamenjuje prohodna sumska staza. sumska staza i kolski put smenjuju se do 3,42 km kada se izlazi na prvi vidikovac na 750 mnv. nakon toga staza se narednih 700 metara krece grebenom uz konstantan uspon, a potom na 918 mnv opet ulazi u sumu. na tacno 5,05 km od pocetka i 1132 mnv dolazi se do drugog izlaza iz sume i vidikovca. nakon toga staza se krece kroz bukovu i cetinarsku sumu do sedla koje se nalazi na 1363 mnv i na 6,38 km udaljenosti od starta. nakon izlaska na sedlo, dobro obelezena staza vodi grebenom do vrha siljak na 1570 mnv. drugi deo staze u silasku vodi juznom stranom planine, serpentinama do prevoja \"baba\" (984 mnv). nakon prevoja ulazi se u sumu, gde se uzanom ali prohodnom sumskom stazom krece do naselja rtanj (599 mnv). na stazi je potrebna opreznost.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:59:26Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

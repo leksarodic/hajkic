@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2022/04/3-22-2-Pl-dom-na-Poljanama-Paljba.gpx",
-        "fetched_at": "2026-11-08T12:02:29Z",
-        "checked_at": "2026-11-08T12:02:29Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 56975,
         "sha256": "0b6cae8618aa01b49f0daad00213d430e897826fd720e211945522c98cdaac3d",
         "etag": null,
-        "last_modified": "Sat, 30 Apr 2022 12:03:56 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 338,
@@ -182,14 +182,14 @@
         "pss_id": 16547,
         "updated_at": "2023-03-29T14:20:03Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:02:29Z",
-        "last_synced_at": "2026-11-08T12:02:29Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "planinarski dom \"na poljanama\" - paljba 3-22-2 zapadna srbija maljen planinarski dom \"na poljanama\", 980 m vidikovac paljba, 1042 m magles psd • strogi rezervati prirode i kategorije: klisura crne reke sa grebenom ljuti krs (nije dozvoljen pristup bez dozvole) • naselje: divcibare • vidikovci: strazara, golubac, paljba laka • na stazu se moze krenuti vec od autobuskog stajalista na asfaltnom putu jugo-istocno ka planinarskom domu „na poljanama“ (kapaciteta 25 lezajeva). staza je planinarsko-turistickog tipa i pogodna je za sve uzraste. prvih 150 m se poklapa sa evropskim pesackim putem e7. kod planinarskog doma staza se odvaja juzno i prolazi kroz vikend naselje. u pravcu ka vrhu strazara staza na 3 mesta prelazi preko asfaltnog puta. od strazare staza se spusta ka strazarskoj reci na kojoj se nalaze dva manja vodopada. u ovom delu postoji odvajanje ka vidokovcu ljuti krs i klisuri crne reke koji nisu deo staze. prelaskom preko strazarske reke idemo jugo-zapadno ka vidikovcu golubac. uovom delu imamo poklapanje sa stazom memorijal „mile obradovic“. vidikovac golubac je na 1056 m, sa njega se priza fantastican pogled na deo zapadne srbije i vide se vrhovi valjevskih planina: magles, povlen sa svoja tri vrha, jablanik i medvednik. • na horizontu po vedrom vremenu moze se videti i planina cer. vidikovac se nalazi iznad guste cetinarske sume u cijem je podnozju dolina bukovske reke. makadamom nastavljamo obodom beogradskog naselja i odvajamo se zapadno na sumsku stazu ka vidikovcu paljba. • vidikovac se nalazi pored puta koji vodi sa regionalnog puta valjevo-kosjeric ka divcibarama. sam vidikovac se nalazi na 1051 m, orjentisan ka jugu, sa koga se vide planine zlatiborskog okruga. ovo je jedan od najpristupacnijih vidikovaca maljena do kog se moze doci kolima. • u zavisnosti od godisnjeg doba na stazi je mogice videti veliki broj razlicitih biljnih vrsta: safran, jeremicak, beli narcis, vres, beli i crno bor, breze... • pri poseti divcibarama nemojte izostaviti da obidjete ovu stazu.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:02:29Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

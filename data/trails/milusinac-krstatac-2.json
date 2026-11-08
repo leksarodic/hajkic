@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2019/02/4-45-1-Milusinac-Krstatac.gpx",
-        "fetched_at": "2026-11-08T12:00:04Z",
-        "checked_at": "2026-11-08T12:00:04Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 15687,
         "sha256": "69e20d1b34323a49565cf02d6fecac19082c388ddfa875dc271ce1070e5e1f77",
         "etag": null,
-        "last_modified": "Tue, 12 Feb 2019 15:09:30 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 111,
@@ -150,14 +150,14 @@
         "pss_id": 8312,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:00:04Z",
-        "last_synced_at": "2026-11-08T12:00:04Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "milusinac - krstatac 4-45-1 istocna srbija krstatac milusinac, centar sela, 450m siljak, vrh, 1070m ostra cuka pd • vidikovac: vrh siljak • na stazi nema izvora pitke vode • na trasi nema smestaja zahtevna krstatac (jugozapadna strana i vrh)",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:00:04Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

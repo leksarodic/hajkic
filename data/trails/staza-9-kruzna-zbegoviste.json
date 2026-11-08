@@ -70,7 +70,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T11:55:58Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -110,14 +110,14 @@
         "pss_id": 3896,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:55:58Z",
-        "last_synced_at": "2026-11-08T11:55:58Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "staza 9 kruzna \"zbegoviste\" 2-14-11 sumadija gledicke planine grabovac 165mnv pl.dom dubic 700 mnv ljukten psd zahtevna grabovac- crkvica sv.petke- zbegoviste- pl. dom g.dubic",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:55:58Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

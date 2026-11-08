@@ -70,12 +70,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2021/01/3-14-4-Debelo-brdo-pl.dom-Jablanik.gpx",
-        "fetched_at": "2026-11-08T12:01:41Z",
-        "checked_at": "2026-11-08T12:01:41Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 59705,
         "sha256": "b468d0093a98e30595c791d08705419055b84c3a8a836cb38031839fd601b819",
         "etag": null,
-        "last_modified": "Thu, 28 Apr 2022 17:15:44 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 447,
@@ -191,14 +191,14 @@
         "pss_id": 12751,
         "updated_at": "2022-04-28T17:21:45Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:01:41Z",
-        "last_synced_at": "2026-11-08T12:01:41Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "debelo brdo - pl. kuca \"povlenski kucerak\" - jablanik 3-14-4 zapadna srbija jablanik, povlen debelo brdo, 1044 m raskrsnica za jablanik, 1088 m povlen pk • reka tresnjica • spomenik zivanu djurdjevicu na debelom brdu laka staza polazi od prevoja debelo brdo i makadamskim putem ide do planinarske kuce \"povlenski kucerak\", a zatim se oko 400 m vraca nazad i na lokaciji ivlje skrece levo preko mosta na reci tresnjici i ide kroz bukovu sumu prema selu pasna ravan. staza zatim izbija na asfaltni put koji ide od zaseoka kosici u pasnu ravan i prolazi kroz centar sela. nakon toga staza se lagano penje pokraj seoske crkve, kroz vasariste, zaseok prokici i izbija na makadamski put debelo brdo - bobija u podnozju jablanika. u podnozju jablanika, staza izlazi na evropski pesacki put e7 i spaja se sa stazom koja sa prevoja debelo brdo ide na vrh jablanika. ovde se staza 3-14-4 zavrsava.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:01:41Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

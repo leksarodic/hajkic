@@ -79,12 +79,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2023/05/7-Ovcar-data.gpx",
-        "fetched_at": "2026-11-08T12:03:25Z",
-        "checked_at": "2026-11-08T12:03:25Z",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
         "bytes": 42628,
         "sha256": "b93d292bb26e42dce04ea81c740e5acfe073cbab6d89ee140ee70ea4aee9f8bb",
         "etag": null,
-        "last_modified": "Sun, 07 May 2023 18:51:07 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 482,
@@ -196,14 +196,14 @@
         "pss_id": 19523,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:03:25Z",
-        "last_synced_at": "2026-11-08T12:03:25Z"
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
     },
     "search": "ovcar 5-17-1 jugozapadna srbija ovcar ovcar banja, bivsi auto kamp - 278 m ovcar banja, parking ispod manastira preobrazenje - 278 m kablar pd manastiri: sveta trojica, sretenje i preobrazenje laka staza krece od auto kampa ka vikend naselju grabovi i trojickom potoku, u prvom delu blaga, da bi posle potoka krenuo uspon do manastira svete trojice. od manastira nastavljamo ka cesmi glogovac i izlazimo na asfaltni put do manastira sretenje. od manastira sretenje sledi jaci uspon do livade koronja i zatim starim putem do vrha. povratak istom stazom do manastira sretenje, odakle se nastavi stazom niz koronjskido do manastira preobrazenje.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:03:25Z"
+        "generated_at": "2026-11-08T13:01:57Z"
     }
 }

@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2019/04/7-3-10-Koritnjak-Devojacki-grob.gpx",
-        "fetched_at": "2026-11-08T12:00:11Z",
-        "checked_at": "2026-11-08T12:00:11Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 162449,
         "sha256": "b1d76404e5271d76293ce304465a5b939a716026f150a7ac5735604bdb0b8808",
         "etag": null,
-        "last_modified": "Tue, 02 Apr 2019 12:20:15 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 1061,
@@ -198,14 +198,14 @@
         "pss_id": 8686,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:00:12Z",
-        "last_synced_at": "2026-11-08T12:00:12Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "koritnjak - devojacki grob 7-3-10 jugoistocna srbija suva planina koritnjak, 640m devojacki grob, 1305m mosor psk • vidikovci: koritnjak, crni kamen, mosor, sokolov kamen • cesma je na startu, na dalje nema izvora pitke vode. • selo koritnjak nema stalno nastanjeno stanovnistvo. • na trasi ima samo 1 privatni smestaj. • van trase smestaj ima u niskoj banji. zahtevna od koritnjaka prema crnom kamenu staza vodi kroz listopadnu sumu, zbog toga je dobra za pesacenje u letnjim vrelim danima. kod mesta zvanog rajac izlazi se na prelepe livade, na tom mestu mestanin je napravio mini vikendicu gde se moze odmoriti i osveziti se. planira da u narednom periodu vikendicu snabde cistom pijacom vodom. do mosora staza vodi kroz listopadnu sumu. pre samog izlaska na mosor ima par stena koje pazljivo mogu da se predju. sa vrha se pruza pogled na celu potkovicu suve planine i sa suprotne strane na svrljiske planine. sa mosora mozete sici niz stene ili zaobilaznim putem. zatim sledi deo staze koji vodi kroz sumu, a nakon toga preko stena sokolovog kamena. na sokolovom kamenu je predeo prekriven stenama, kamenjem i livadama. do devojackog groba se silazi stazom koja je mesavina stena i livada. na samoj stazi ima veliki broj vidikovaca.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:00:12Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

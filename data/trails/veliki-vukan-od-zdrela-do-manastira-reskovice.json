@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2020/06/4-48-6-Veliki-Vukan_Zdrelo_Reskovica.gpx",
-        "fetched_at": "2026-11-08T12:00:55Z",
-        "checked_at": "2026-11-08T12:00:55Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 207441,
         "sha256": "57d2c1d0a8dc7e145d3f8c520d190831bf2ef647c312a8e6fafef800ff1b6aaa",
         "etag": null,
-        "last_modified": "Tue, 09 Jun 2020 18:06:25 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 1261,
@@ -178,14 +178,14 @@
         "pss_id": 11624,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:00:55Z",
-        "last_synced_at": "2026-11-08T12:00:55Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "veliki vukan od zdrela do manastira reskovice 4-86-6 istocna srbija vukan centar sela zdrelo, 205 m manastir reskovica, 375 m gornjak pd • manastir zdrelo i manastir reskovica • vidikovci: 4 • na trasi 2 izvora pitke vode • selo zdrelo • van trase smestaj u izvidjackom domu zdrelo • van trase smestaj u banji zdrelo i privatni smestaj u okolini laka staza krece iz centra sela zdrela, nakon 200 m se nalazi cesma sa pijacom vodom. staza nastavlja iznad manastira zdrelo gde takodje ima izvor sa vodom u dvoristu manastira. nakon toga se izlazi na put kojim se ide oko 700 m i dalje se nastavlja strmijom stazom kroz sumu do sedla gde se u borovoj sumi skrece levo ka vrhu veliki vukan (825 m). povratak je istom stazom do sedla, nakon toga je spust ka lovackoj cesmi kroz sumu. voda na lovackoj cesmi nije preporucljiva za pice. od cesme se dalje ide sumskim putem do manastira reskovice.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:00:55Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

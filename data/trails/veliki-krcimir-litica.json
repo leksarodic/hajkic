@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/08/7-3-8-Veliki-Krcimir-Litica.gpx",
-        "fetched_at": "2026-11-08T11:57:09Z",
-        "checked_at": "2026-11-08T11:57:09Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 61211,
         "sha256": "39a95b4c5289c4d91913e7e9c0e012f82a2f292b987dabd083e41bf507ed4260",
         "etag": null,
-        "last_modified": "Wed, 31 Jan 2018 11:18:25 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 504,
@@ -156,14 +156,14 @@
         "pss_id": 4487,
         "updated_at": "2018-01-31T11:19:05Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:57:10Z",
-        "last_synced_at": "2026-11-08T11:57:10Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "veliki krcimir - litica 7-3-8 jugoistocna srbija suva planina centar sela veliki krcimir, 520m litica, 1683m zeleznicar pk nis na trasi dva izvora pitke vode. zahtevna",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:57:10Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

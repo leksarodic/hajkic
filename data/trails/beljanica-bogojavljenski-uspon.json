@@ -79,12 +79,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2024/01/Track_BEIJANICA-BU-2020.gpx",
-        "fetched_at": "2026-11-08T12:03:47Z",
-        "checked_at": "2026-11-08T12:03:47Z",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
         "bytes": 182874,
         "sha256": "b3f96b2408865f6bd17c709646ac38cd675ec86c30f7694306607bc54dcda07f",
         "etag": null,
-        "last_modified": "Fri, 12 Jan 2024 12:20:11 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 1721,
@@ -220,14 +220,14 @@
         "pss_id": 23280,
         "updated_at": "2024-01-12T12:26:33Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:03:48Z",
-        "last_synced_at": "2026-11-08T12:03:48Z"
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
     },
     "search": "beljanica - bogojavljenski uspon 4-9-1 istocna srbija beljanica restoran \"zov lisina\" restoran \"zov lisina\" resava psk vodopad veliki buk, vrh beljanica laka staza je kruzna,vrlo zahtevna u zimskim uslovima kada su veliki snegovi i jaki udari vetra.ide se preko cerjaka i dugog dola do vrha beljanice a zatim se nastavlja ka zapadu,grebenom i spusta kod vodopada veliki buk,odakle ostaje 600m asfalta do cilja.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:03:48Z"
+        "generated_at": "2026-11-08T13:01:57Z"
     }
 }

@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2019/05/2-15-2-Bukorovac-kanjon-Voljevice-Besnjaja.gpx",
-        "fetched_at": "2026-11-08T12:00:20Z",
-        "checked_at": "2026-11-08T12:00:20Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 602526,
         "sha256": "41c148bbce404a2d3b1fa6df4989f061400e5dc65486d40512fa414f828d7bf8",
         "etag": null,
-        "last_modified": "Fri, 10 May 2019 14:42:00 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 3666,
@@ -254,14 +254,14 @@
         "pss_id": 8939,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:00:20Z",
-        "last_synced_at": "2026-11-08T12:00:20Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "bukorovac - kanjon voljevice - besnjaja (selo) - bukovorac 2-15-2 sumadija besnjaja bukorovac, 360m bukorovac, 360m gora pek • kanjon voljevice • vrletnica • vidikovci: 3 • na trasi ima tri izvora pitke vode • na trasi ima dva odmaralista zahtevna • na pocetku ture se preko pitomih brda sa puno lepih pogleda na kragujevac i okolinu spustamo u centar bukorovca. ovo je i najniza tacka na nasoj turi te cemo, pre nego sto stignemo do odmorista \"jasenjak\", savladati dva uspona (na drenak i jasenjak). potom nas ocekuje najatraktivniji deo ture: spust i prolazak kroz kanjon voljevice. • treba se lepo oznojiti da bi smo se iz kanjona popeli do nekadasnjeg decijeg odmaralista na besnjaji - najvise tacke na turi. odatle cemo se preko djurine cesme i vrletnice (ponovo uz dosta lepih vidika sa visine) spustiti nazad u bukorovac.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:00:20Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

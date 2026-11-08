@@ -1,15 +1,15 @@
 {
     "schema_version": 1,
-    "generated_at": "2026-11-08T12:07:43Z",
+    "generated_at": "2026-11-08T13:01:57Z",
     "counts": {
-        "trails": 355,
-        "with_gpx": 232,
-        "with_elevation": 225,
-        "missing_gpx": 119,
-        "invalid_gpx": 4,
-        "complete": 200,
-        "partial": 152,
-        "minimal": 3
+        "trails": 420,
+        "with_gpx": 286,
+        "with_elevation": 245,
+        "missing_gpx": 128,
+        "invalid_gpx": 6,
+        "complete": 231,
+        "partial": 177,
+        "minimal": 12
     },
     "source": {
         "name": "Planinarski savez Srbije",

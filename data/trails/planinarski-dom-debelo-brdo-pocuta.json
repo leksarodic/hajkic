@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2022/04/3-13-2-Pl-dom-Debelo-brdo-Pocuta-1.gpx",
-        "fetched_at": "2026-11-08T12:02:26Z",
-        "checked_at": "2026-11-08T12:02:26Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 97499,
         "sha256": "fbe7b366650a3807764530dfc154b4832eb238a93496b5cf8a29f935f1cf15cd",
         "etag": null,
-        "last_modified": "Thu, 28 Apr 2022 12:35:21 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 579,
@@ -210,14 +210,14 @@
         "pss_id": 16415,
         "updated_at": "2022-04-28T12:52:58Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:02:26Z",
-        "last_synced_at": "2026-11-08T12:02:26Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "planinarski dom \"debelo brdo\"- pocuta 3-13-2 zapadna srbija jablanik planinarski dom \"debelo brdo\", 1053 m pocuta, 485 m magles psd • bebica luka • manastir pustinja • penjaliste grdoba • naselja: debelo brdo, vujinovaca (arsici, bebici), pocuta • vidikovac: stena grdoba laka • pocetak staze je kod planinarskog doma na debelom brdu ( kapacitet 40 lezajeva), posle 100 m skrece se severo-istocno makadamskim putem bukovom sumom nizbrdo ka reci jablanici. usput se prolazi kroz borovu sumu gde je postavljeno hraniliste za divlje zivotinje. poslednjih 200 metara ka reci jablanici je strmo. staza prelazi preko reke i dalje se spusta prateci jablanicu do bebica luke. reka se prelazi na nekoliko mesta preko drvenih mostova. u zaseoku arsici pored stare prodavnice na racvnju prati se put pored reke. u koritu reke jablanice mogu se videti ostatci starih vodenica, veliki broj virova i kaskada koje planinska reka pravi u kamenu. usput se mogu videti stara domacinstva od kojih je jedno u bebica luci zasticeno kao nepokretno kulturno dobro. asfaltni putem severo-istocno pored skretanja za manastir pustinja i skretanja za penjaliste grdoba staza vodi ka pocuti. • manastir pustinja, najstarija svetinja eparhije valjevske posvecena je vavedenju presvete bogorodice, pretpostavlja se da je podignuta krajem xiii veka za vreme vladavine kralja dragutina ovim prostorima (1282-1316) kao rudarska crkva, na temeljima starije bogomolje verovatno iz doba pre nemanjica. u letopisu manastira, a takodje i medju narodom ovoga kraja postoji narodno predanje koje govori o nastanku i imenu pustinje: tri rodjena brata dogovore se da naprave tri crkve. jos se zareknu da ne dolaze crkvama dok ne budu gotove. zavet bi ispunjen. kad su crkve bile gotove, braca se sastanu i zajedno pohode crkvu u jovanji, zatim crkvu gracanicu a na kraju dodjose kod najmladjeg da vide njegovu crkvu. dva starija brata se zadive lepoti crkve najmladjeg brata i reknu mu: zasto i nama ne kaza da i mi sazidamo ovako lepu crkvu? dao bog da ti pusta ostala! zbog te kletve crkva dobi ime pustinja. svakako izve",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:02:26Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/08/4-39-3-Krupac-Zeleni-vrh.gpx",
-        "fetched_at": "2026-11-08T11:57:21Z",
-        "checked_at": "2026-11-08T11:57:21Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 68222,
         "sha256": "a1e608f1adab3e15482094da1734780f54a4bf1ec323eb20066f0c6c7fb36285",
         "etag": null,
-        "last_modified": "Wed, 31 Jan 2018 10:45:12 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 566,
@@ -172,14 +172,14 @@
         "pss_id": 4494,
         "updated_at": "2018-01-31T10:45:53Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:57:22Z",
-        "last_synced_at": "2026-11-08T11:57:22Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "krupac - zeleni vrh 4-39-3 istocna srbija svrljiske planine dom izvidjaca u selu krupac, 250m zeleni vrh, 1134m zeleznicar pk nis • izvor pitke vode samo na pocetku staze. • na stazi drugi smestaj: 1 zahtevna",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:57:22Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

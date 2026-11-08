@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2019/03/4-47-6-Knez-Selo-Kalafat-G.Matejevac.gpx",
-        "fetched_at": "2026-11-08T12:00:07Z",
-        "checked_at": "2026-11-08T12:00:07Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 129299,
         "sha256": "5f0fd2d13d0fa5a047ad26aca33332a8757cd652a168cc4f0fbe8a70ebd2b32c",
         "etag": null,
-        "last_modified": "Sun, 17 Mar 2019 15:14:39 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 776,
@@ -210,14 +210,14 @@
         "pss_id": 8547,
         "updated_at": "2019-11-21T15:45:52Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:00:08Z",
-        "last_synced_at": "2026-11-08T12:00:08Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "knez selo-gradac-sliva-kalafat-man.sv.jovana-gornji matejevac 4-47-6 istocna srbija kalafat knez selo, 455m gornji matejevac, 358m preslap pd • manastir sv. jovana • sreckovo vrelo • latinska crkva • cegar • vidikovci: kalafat (838m), temeni vrh (730m), latinska crkva (437m) • izvori pitke vode na trasi: knez selo, izletiste gradac, manastir sv. jovana, gornji matejevac • na trasi ima 2 odmaralista, 2 privatna smestaja i 1 kamp, van trase ima 2 odmaralista, 2 privatna smestaja i 2 kampa. laka • polazak je sa autobuske stanice u knez selu, oko 10km severno od nisa. do sela se moze doci redovnom prigradskom linijom za knez selo. ide se seoskim makadamskim putem u blagom usponu nepuna 2km do izletista gradac. potom se nesto strmijom stazom dolazi do glavnog sumskog puta, kojim se dolazi do velike raskrsnice sliva. zavrsni uspon od slive na vrh kalafat se obavlja sirokom i prohodnom markiranom stazom koja pripada \"niskoj transverzali\". vrh kalafat je prekriven sumskim pojasom, ali je ociscen i prohodan. sledi povratak pomenutom stazom do raskrsnice sliva, a onda i spustanje ka jugu sirokim putem u duzini od 3km do manastira sv. jovan. od manastira se prati staza koja vodi do temenog vrha, obilazeci ga sa severne strane. ta staza je u blagom nagibu, najpre siroka, a potom uska u zoni vrha. ova deonica je godinama bila urasla i vrlo tesko prohodna, ali sada je ona ociscena i spremna za bezbedan prolazak planinara. • plato ispod temenog vrha je uglavnom ogoljen i lako prohodan, ali potrebno je dobro pratiti markacije kako bi se izaslo na stari put koji vodi do gornjeg matejevca. taj put je prohodan i u blagom spustu dolazi do glavnog makadamskog puta izmedju gornjeg matejevca i kamenice. na ulasku u gornji matejevac se nalazi latinska crkva, odakle se pruza sjajan pogled na nis i kotlinu. zavrsetak staze je u centru gornjeg matejevca, oko 1 km nakon latinske ckrve, odakle se moze sacekati autobus koji iz knez sela vozi za nis. • cela staza je dobro markirana propisanim oznakama, koje osvezene i na nekim mestima dodatno i gusce rasporedjene, kao sto je slucaj u zoni temenog vrha. staza je markirana u oba smera.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:00:08Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

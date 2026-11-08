@@ -1,0 +1,356 @@
+{
+    "schema_version": 1,
+    "slug": "zvijezda",
+    "name": "Zvijezda",
+    "code": "E7-11-2",
+    "category": {
+        "key": "evropski-pesacki-putevi-u-srbiji",
+        "label": "Evropski pešački putevi u Srbiji"
+    },
+    "pss": {
+        "post_id": 23563,
+        "category_id": 29,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            67
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Tara",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "lak"
+    },
+    "distance": {
+        "official_km": null,
+        "calculated_km": 39.07
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": null,
+        "official_loss_m": null,
+        "calculated_gain_m": 1400.6,
+        "calculated_loss_m": 1453.0,
+        "min_m": 720.3,
+        "max_m": 1426.0
+    },
+    "start": null,
+    "end": null,
+    "description": null,
+    "landmarks": null,
+    "maintenance": null,
+    "marking": null,
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": null,
+    "club": null,
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2024/02/E7-11-2.gpx",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
+        "bytes": 164403,
+        "sha256": "9f295e94c8eb2c4f71a3adaecaffedf83050136820c4209aef3842d44591329b",
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 2203,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2024/02/E7-11-2.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/zvijezda.geojson",
+        "bbox": [
+            19.313436688,
+            43.828335755,
+            19.431097392,
+            43.926682726
+        ],
+        "center": [
+            19.372267,
+            43.877509
+        ],
+        "start_point": [
+            19.424697794,
+            43.919408435
+        ],
+        "end_point": [
+            19.431097392,
+            43.828335755
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    19.4247,
+                    43.91941
+                ],
+                [
+                    19.41994,
+                    43.91874
+                ],
+                [
+                    19.41873,
+                    43.92374
+                ],
+                [
+                    19.42112,
+                    43.92668
+                ],
+                [
+                    19.4136,
+                    43.9266
+                ],
+                [
+                    19.39589,
+                    43.91197
+                ],
+                [
+                    19.38894,
+                    43.91567
+                ],
+                [
+                    19.3817,
+                    43.91623
+                ],
+                [
+                    19.37358,
+                    43.92203
+                ],
+                [
+                    19.37333,
+                    43.9176
+                ],
+                [
+                    19.36763,
+                    43.91766
+                ],
+                [
+                    19.36639,
+                    43.91569
+                ],
+                [
+                    19.33679,
+                    43.9159
+                ],
+                [
+                    19.33024,
+                    43.91355
+                ],
+                [
+                    19.33408,
+                    43.91087
+                ],
+                [
+                    19.32992,
+                    43.91235
+                ],
+                [
+                    19.32559,
+                    43.90805
+                ],
+                [
+                    19.32484,
+                    43.90007
+                ],
+                [
+                    19.32006,
+                    43.90138
+                ],
+                [
+                    19.31794,
+                    43.90649
+                ],
+                [
+                    19.31344,
+                    43.89793
+                ],
+                [
+                    19.31805,
+                    43.88989
+                ],
+                [
+                    19.32365,
+                    43.88935
+                ],
+                [
+                    19.33043,
+                    43.89249
+                ],
+                [
+                    19.33688,
+                    43.89175
+                ],
+                [
+                    19.34215,
+                    43.88513
+                ],
+                [
+                    19.34048,
+                    43.87749
+                ],
+                [
+                    19.34552,
+                    43.87504
+                ],
+                [
+                    19.35131,
+                    43.87525
+                ],
+                [
+                    19.35273,
+                    43.87232
+                ],
+                [
+                    19.35565,
+                    43.87183
+                ],
+                [
+                    19.35267,
+                    43.86245
+                ],
+                [
+                    19.35467,
+                    43.86019
+                ],
+                [
+                    19.36181,
+                    43.86027
+                ],
+                [
+                    19.37406,
+                    43.85502
+                ],
+                [
+                    19.38009,
+                    43.85702
+                ],
+                [
+                    19.38516,
+                    43.85497
+                ],
+                [
+                    19.3873,
+                    43.85913
+                ],
+                [
+                    19.40173,
+                    43.86029
+                ],
+                [
+                    19.39598,
+                    43.86255
+                ],
+                [
+                    19.40427,
+                    43.86382
+                ],
+                [
+                    19.40932,
+                    43.86107
+                ],
+                [
+                    19.40562,
+                    43.85459
+                ],
+                [
+                    19.40362,
+                    43.85512
+                ],
+                [
+                    19.40116,
+                    43.85253
+                ],
+                [
+                    19.40073,
+                    43.84728
+                ],
+                [
+                    19.40616,
+                    43.84641
+                ],
+                [
+                    19.40331,
+                    43.84857
+                ],
+                [
+                    19.41229,
+                    43.84844
+                ],
+                [
+                    19.41877,
+                    43.83645
+                ],
+                [
+                    19.41546,
+                    43.83781
+                ],
+                [
+                    19.41352,
+                    43.83663
+                ],
+                [
+                    19.42087,
+                    43.8301
+                ],
+                [
+                    19.4311,
+                    43.82834
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/zvijezda/",
+        "canonical_url": "https://pss.rs/terenipp/zvijezda/",
+        "pss_id": 23563,
+        "updated_at": "2024-12-07T22:09:38Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
+    },
+    "search": "zvijezda e7-11-2 jugozapadna srbija tara laka",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T13:01:57Z"
+    }
+}

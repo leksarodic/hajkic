@@ -74,12 +74,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/05/E4-8-Beljanica-vrh-Lepenski-Vir.gpx",
-        "fetched_at": "2026-11-08T12:50:37Z",
-        "checked_at": "2026-11-08T12:50:37Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 324695,
         "sha256": "bc12e3d1d1f041284c9f6779a1885f50fe393f3a32b6e1efc56454496890c00d",
         "etag": null,
-        "last_modified": "Thu, 05 Dec 2024 23:03:49 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": false,
         "points": 4497,
@@ -793,14 +793,14 @@
         "pss_id": 3670,
         "updated_at": "2024-12-05T23:03:58Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:50:37Z",
-        "last_synced_at": "2026-11-08T12:50:37Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "beljanica vrh - lepenski vir e4-8 istocna srbija lepenski vir gornjak pd lepenski vir, djerdapska klisura laka • sa grebena beljanice, jedne od najvecih krecnjackih planina istocne srbije silazi se u pravcu severoistoka do varosice zagubica. dalje od zagubuce prema severu preko planinskih prevoja put e4 silazi ka majdanpeku, poznatom rudniku bakra i zlata. • trasa sa zapadne strane zaobilazi devastirane povrsine skoro monumentalnog otvorenog rudarskog kopa. u blizini majdanpeka nalazi se selo rudna glava sa arheoloskim nalazistem jednog od najstarijih praistorijskih rudnika metala u evropi. posebnu prirodnu vrednost pretstavlja rajkova pecina formirana kroz tok reke ponornice. • od majdanpeka kroz duboke sume i nacionalni park djerdap put se preko pesace spusta prema dunavu na cuveni arheoloski lokalitet lepenski vir sa ocuvanim ostacima stare kulture iz perioda 6 500 do 4 500 godina pre nove ere. u stalnoj postavci prikazano je celo naselje ribara i lovaca sa predmetima iz svakodnevnog zivota i obrednim figurinama medju kojima su vec poznate ribolike ljudske figure urezane na kamenim oblutcima iz reke. u ovom delu djerdapske klisure utisnuta je slozena geoloska gradja sa raznovrsnim stenama, slojevima, naborima i fosilima iz svih geoloskih doba.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:50:37Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

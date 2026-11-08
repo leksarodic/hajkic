@@ -58,12 +58,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/05/E7-3-Sombor-Bac.gpx",
-        "fetched_at": "2026-11-08T12:49:57Z",
-        "checked_at": "2026-11-08T12:49:57Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 107871,
         "sha256": "11c79fdfcc29dc47ef4f5d0cf209f184a6088368347984aa644f7bae42d7ff74",
         "etag": null,
-        "last_modified": "Sat, 07 Dec 2024 21:21:54 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": false,
         "points": 1486,
@@ -533,14 +533,14 @@
         "pss_id": 3560,
         "updated_at": "2024-12-07T21:22:04Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:49:57Z",
-        "last_synced_at": "2026-11-08T12:49:57Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "sombor - bac e7-3 vojvodina gornje podunavlje • spec. rezervat prirode gornje podunavlje • junakovic banja • bac (srednjevekovna tvrdjava, franjevacki samostan) laka • iz baroknog sombora put ide prema dunavu u specijalni rezervat prirode gornje podunavlje. celo podrucje predstavlja mrezu rukavaca dunava, bara, mocvara, trske, suma. ovde zivi vise od 280 vrsta ptica narocito mocvarica. poznato je da je u ovom rezervatu boravio i sakupljao materijal za ornitolosku zbirku prirodnjackog muzeja u becu cuveni istrazivac brem. ovde se nalazi i vredna populacija evropskog jelena koji zivi u ritovima. • brojna je i vredna flora i fauna ovog rezervata. povrsina rezervata je 19.648ha. rezervat predstavlja deo velikog dunavskog parka u evropi zajedno sa parkom kopacki rit u hrvatskoj i parkom gemenc u madjarskoj. • na putu je i gradic apatin na levoj obali dunava. zanatstvo i trgovina su ovde tradicija vise od tri stotine godina. posebno je poznata industrija piva od 1756. godine. apatin je i veliki ribolovni centar gde se odrzavaju brojne turisticke manifestacije pored reke. iz baroknog sombora put ide prema dunavu u specijalni rezervat prirode gornje podunavlje. celo podrucje predstavlja mrezu rukavaca dunava, bara, mocvara, trske, suma. ovde zivi vise od 280 vrsta ptica narocito mocvarica. poznato je da je u ovom rezervatu boravio i sakupljao materijal za ornitolosku zbirku prirodnjackog muzeja u becu cuveni istrazivac brem. ovde se nalazi i vredna populacija • evropskog jelena koji zivi u ritovima. brojna je i vredna flora i fauna ovog rezervata. povrsina rezervata je 19.648ha. rezervat predstavlja deo velikog dunavskog parka u evropi zajedno sa parkom kopacki rit u hrvatskoj i parkom gemenc u madjarskoj. • na putu je i gradic apatin na levoj obali dunava. zanatstvo i trgovina su ovde tradicija vise od tri stotine godina. posebno je poznata industrija piva od 1756. godine. apatin je i veliki ribolovni centar gde se odrzavaju brojne t",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:49:57Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

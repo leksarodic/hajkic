@@ -1,0 +1,277 @@
+{
+    "schema_version": 1,
+    "slug": "sopotnica",
+    "name": "Sopotnica",
+    "code": "E7-12-6",
+    "category": {
+        "key": "evropski-pesacki-putevi-u-srbiji",
+        "label": "Evropski pešački putevi u Srbiji"
+    },
+    "pss": {
+        "post_id": 23572,
+        "category_id": 29,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            68
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Jadovnik",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "lak"
+    },
+    "distance": {
+        "official_km": null,
+        "calculated_km": 26.34
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": null,
+        "official_loss_m": null,
+        "calculated_gain_m": 0.0,
+        "calculated_loss_m": 0.0,
+        "min_m": 0.0,
+        "max_m": 0.0
+    },
+    "start": null,
+    "end": null,
+    "description": null,
+    "landmarks": null,
+    "maintenance": null,
+    "marking": null,
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": null,
+    "club": null,
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2024/02/E7-12-6.gpx",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
+        "bytes": 106133,
+        "sha256": "2353001ee066857031a44c20631a83f15a072b1a91182bcbbca8fc512b66756c",
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": 1466,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2024/02/E7-12-6.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/sopotnica.geojson",
+        "bbox": [
+            19.681781889,
+            43.214901827,
+            19.852331457,
+            43.313385395
+        ],
+        "center": [
+            19.767057,
+            43.264144
+        ],
+        "start_point": [
+            19.681781889,
+            43.313385395
+        ],
+        "end_point": [
+            19.852331457,
+            43.214901827
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    19.68178,
+                    43.31339
+                ],
+                [
+                    19.69077,
+                    43.31108
+                ],
+                [
+                    19.69278,
+                    43.31252
+                ],
+                [
+                    19.69795,
+                    43.30842
+                ],
+                [
+                    19.70885,
+                    43.30449
+                ],
+                [
+                    19.71679,
+                    43.30584
+                ],
+                [
+                    19.71961,
+                    43.30176
+                ],
+                [
+                    19.72059,
+                    43.30398
+                ],
+                [
+                    19.72563,
+                    43.30392
+                ],
+                [
+                    19.72965,
+                    43.30783
+                ],
+                [
+                    19.73933,
+                    43.30448
+                ],
+                [
+                    19.73929,
+                    43.30859
+                ],
+                [
+                    19.74873,
+                    43.31132
+                ],
+                [
+                    19.75693,
+                    43.31105
+                ],
+                [
+                    19.76277,
+                    43.30756
+                ],
+                [
+                    19.76492,
+                    43.30306
+                ],
+                [
+                    19.76843,
+                    43.30399
+                ],
+                [
+                    19.77565,
+                    43.30185
+                ],
+                [
+                    19.78112,
+                    43.29577
+                ],
+                [
+                    19.80095,
+                    43.28572
+                ],
+                [
+                    19.82158,
+                    43.27812
+                ],
+                [
+                    19.82369,
+                    43.27658
+                ],
+                [
+                    19.81616,
+                    43.27286
+                ],
+                [
+                    19.81069,
+                    43.26311
+                ],
+                [
+                    19.81299,
+                    43.26025
+                ],
+                [
+                    19.82024,
+                    43.25816
+                ],
+                [
+                    19.82295,
+                    43.25377
+                ],
+                [
+                    19.8304,
+                    43.25137
+                ],
+                [
+                    19.8331,
+                    43.24591
+                ],
+                [
+                    19.84309,
+                    43.23954
+                ],
+                [
+                    19.84026,
+                    43.23171
+                ],
+                [
+                    19.84636,
+                    43.22848
+                ],
+                [
+                    19.84483,
+                    43.22161
+                ],
+                [
+                    19.85233,
+                    43.2149
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description",
+            "missing_elevation"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/sopotnica/",
+        "canonical_url": "https://pss.rs/terenipp/sopotnica/",
+        "pss_id": 23572,
+        "updated_at": "2024-12-07T22:24:02Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
+    },
+    "search": "sopotnica e7-12-6 jugozapadna srbija jadovnik laka",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T13:01:57Z"
+    }
+}

@@ -80,7 +80,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T11:56:32Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -121,14 +121,14 @@
         "pss_id": 3963,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:56:32Z",
-        "last_synced_at": "2026-11-08T11:56:32Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "kruzna \"ljukten\" 6-5-6 kopaonicko-toplicka regija goc goc jezero 970 mnv selo goc 1030 mnv ljukten psd ostaci srednjovekovnog grada na gocu laka",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:56:32Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

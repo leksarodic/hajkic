@@ -70,7 +70,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T11:56:34Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -110,14 +110,14 @@
         "pss_id": 3965,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:56:34Z",
-        "last_synced_at": "2026-11-08T11:56:34Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "crni vrh 6-5-8 kopaonicko-toplicka regija goc goc jezero 970 mnv crni vrh 1542 mnv ljukten psd zahtevna goc (jezero)- vukovo brdo- savin laz- crni vrh",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:56:34Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

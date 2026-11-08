@@ -79,12 +79,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2023/08/Staza-7.gpx",
-        "fetched_at": "2026-11-08T12:03:39Z",
-        "checked_at": "2026-11-08T12:03:39Z",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
         "bytes": 84250,
         "sha256": "7d93fca6926f2ca2342afaa44fd399f1bddfb499c684c9afa463600bcf79eb50",
         "etag": null,
-        "last_modified": "Sun, 26 Nov 2023 17:17:15 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 764,
@@ -220,14 +220,14 @@
         "pss_id": 20035,
         "updated_at": "2023-11-26T17:28:06Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:03:40Z",
-        "last_synced_at": "2026-11-08T12:03:40Z"
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
     },
     "search": "zlatanci - orlovac - v. vrtop (staza 7) 7-15-2 jugoistocna srbija gramada zlatanci vrh veliki vrtop 1721 m cemernik pd vrhovi orlovac i veliki vrtop laka pocetak staze je u selu zlatanci pored asfaltnog puta ,,surdulica - crna trava&quot;. prvi deo staze vodi uzim i krivudavim asfaltnim putem, koji dalje prelazi u makadamski i sumski i ovu deonicu, koja prolazi kroz zaseoke vujinci, makinci i vesinci sve do zaravni nakon vrha orlovac odlikuje konstantan srednje strm uspon sa bogatom sumskom vegetacijom i retkim kucama pored staze. na predjenih 7 km od pocetka staze, sa leve strane sumskog puta je vrlo izdasan izvor pijace vode. na vrhu orlovac je smesten repetitor i teren je obrastao cetinarskom sumom, tako da ona ne dopusta posetiocima neki siri vidik. od vrha orlovac do vrha veliki vrtop, nagib staze je dosta blazi. staza prolazi sa leve strane sumskog kompleksa, dok su sa desne strane prostrani pasnjacki tereni obrasli borovnicom i divljom malinom. vrh veliki vrtop predstavlja veoma siroku, visokoplaninsku i travnatu zaravan. smer kretanja: - zlatanci - vujinci (1,4 km) - makinci (2,2 km) - vesinci (4,7 km) - vrh orlovac (8,3 km) - vrh veliki vrtop (13,3 km)",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:03:40Z"
+        "generated_at": "2026-11-08T13:01:57Z"
     }
 }

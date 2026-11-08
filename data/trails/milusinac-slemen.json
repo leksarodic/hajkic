@@ -70,7 +70,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T11:55:41Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -111,14 +111,14 @@
         "pss_id": 3834,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:55:41Z",
-        "last_synced_at": "2026-11-08T11:55:41Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "milusinac- slemen 4-37-2 istocna srbija slemen milusinac - centar sela (450 mnv) slemen - vrh (1099 mnv) ostra cuka pd zahtevna",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:55:41Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

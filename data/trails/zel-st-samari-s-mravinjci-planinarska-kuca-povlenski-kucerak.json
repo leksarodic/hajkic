@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2021/01/3-14-6-Samari-Povlen-pl.kuca.gpx",
-        "fetched_at": "2026-11-08T12:01:44Z",
-        "checked_at": "2026-11-08T12:01:44Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 83416,
         "sha256": "62ab2f9d246eb567e66e8cd627cd362d3ce8f3587c0d307cadb393ff90fc0318",
         "etag": null,
-        "last_modified": "Fri, 08 Jan 2021 14:40:15 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 654,
@@ -202,14 +202,14 @@
         "pss_id": 12766,
         "updated_at": "2022-04-28T15:53:11Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:01:45Z",
-        "last_synced_at": "2026-11-08T12:01:45Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "z. stanica samari - planinarska kuca \"povlenski kucerak\" 3-14-6 zapadna srbija povlen zeleznicka stanica samari, 485 m planinarska kuca \"povlenski kucerak\", 1145,8 m povlen pk • reka velika zabava • povlenske kugle • etno domacinstvo dragomira jerinica zahtevna na pocetak staze na zeleznickoj stanici samari moze se doci putnickim vozom iz pravca beograda i uzica. sa stanice staza ide uzvodno pored reke velika zabava. konstantan je uspon do sela mravinjci. asfaltnim putem kroz selo stize se do raskrsnice puteva mravinjci - donji taor i mravinjci - gornja dijavica. odatle se staza penje kroz bukovu sumu i izlazi na makadamski put mravinjci - debelo brdo. tim putem pored vikend naselja \"povlenske kolebe\" staza produzava preko livade zvane guzvara, zatim madzarije do planinarske kuce \"povlenski kucerak\".",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:01:45Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/08/7-3-4-Divljana-Pasarelo.gpx",
-        "fetched_at": "2026-11-08T11:57:02Z",
-        "checked_at": "2026-11-08T11:57:02Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 82679,
         "sha256": "95b46897612ef7e4eba9960d5ed8f8125b0ffa9b22daf0e1d93658beb04c86a1",
         "etag": null,
-        "last_modified": "Wed, 31 Jan 2018 11:07:55 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 691,
@@ -192,14 +192,14 @@
         "pss_id": 4483,
         "updated_at": "2018-01-31T11:08:22Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:57:03Z",
-        "last_synced_at": "2026-11-08T11:57:03Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "divljana - pasarelo 7-3-4 jugoistocna srbija suva planina manastir sv. dimitrija u selu divljana, 450m izlazak na vrh pasarelo, 1522m zeleznicar pk nis • manastir sv. dimitrija u selu divljana • vidikovci: smrdan i pasarelo • izvor pitke vode samo na pocetku staze. laka",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:57:03Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

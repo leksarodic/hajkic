@@ -70,7 +70,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T11:56:53Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -110,14 +110,14 @@
         "pss_id": 4473,
         "updated_at": "2017-08-01T15:01:47Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:56:53Z",
-        "last_synced_at": "2026-11-08T11:56:53Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "milosevac 3-1-4 zapadna srbija cer selo milosevac planinarski dom \"lipove vode\" cer psd trojanov grad laka selo milosevac - konjusa - vodice - trojanov grad - planinarski dom \"lipove vode\"",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:56:53Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

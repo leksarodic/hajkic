@@ -70,7 +70,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T11:55:51Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -110,14 +110,14 @@
         "pss_id": 3859,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:55:51Z",
-        "last_synced_at": "2026-11-08T11:55:51Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "staza zdravlja \"rogovi\" 6-5-1 kopaonicko-toplicka regija goc cairi- crkva sv. petke 260 mnv osaonica 175 mnv ljukten psd crkva sv. petke u cairima laka cairi-rogovi-osaonica",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:55:51Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

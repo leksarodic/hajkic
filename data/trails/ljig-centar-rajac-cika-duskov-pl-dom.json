@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/05/3-20-8-Ljig-Cardak-Rajac.gpx",
-        "fetched_at": "2026-11-08T11:55:46Z",
-        "checked_at": "2026-11-08T11:55:46Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 96682,
         "sha256": "f48aa3d6d1e8ce383cb9b9de1228b36a4a2fbd67a0419f1ca237c2995f151332",
         "etag": null,
-        "last_modified": "Sat, 03 Jul 2021 12:20:52 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 745,
@@ -210,14 +210,14 @@
         "pss_id": 3850,
         "updated_at": "2023-03-29T14:15:52Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:55:47Z",
-        "last_synced_at": "2026-11-08T11:55:47Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "ljig (centar) - rajac (cika duskov pl.dom) 3-20-8 zapadna srbija suvobor ljig (zgrada opstine), 150 m rajac (cika duskov pl.dom), 625 m pobeda psk • crkva spomen-kosturnica (u izgradnji) • spomen obelezja poginulim ratnicima u kolubarskoj bitci na cardaku i rajcu zahtevna pl. put ide iz centra varosi ljiga, pravcem jug uzvodno dolinom reke ljig pored ibarske magistrale, skrece ka rajcu preko mosta na reci dragobilj (desna pritoka ljiga) kod sela kadina luka, nastavlja kroz selo asvaltnim putem do razdvajanja puteva za selo ba i slavkovicu, dolinom slavkovacke reke produzava ka slavkovici i nakon oko 500 m skreca sa asvaltnog puta u desno, prelazi slavkovacku reku preko mostica, prolazi ispod kote krst 332 i lagano se penje pravcem jug ka vrhu cardak 645 mnv. put se dalje spusta planinskom stazom ka zaseoku topalovici, a zatim penje preko kikova i kote 508 do kote 806 zapadno iznad kojica cesme. odavde put skrece na istok i losim makadamskim putem se blago spusta do asvalta i kote 686 (kafana \"lovacka prica\") . odavde se skrece na sever i nakon 500 m asvaltnim putem stize do doma na rajcu.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:55:47Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2019/05/4-26-1-Dom-Vis-Javoracki-vrh.gpx",
-        "fetched_at": "2026-11-08T12:00:21Z",
-        "checked_at": "2026-11-08T12:00:21Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 537621,
         "sha256": "7bcc5ae46cd1f9317df380a196e7b653eaec791a9cec72c72a4907b5695004e6",
         "etag": null,
-        "last_modified": "Fri, 10 May 2019 17:21:05 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 3232,
@@ -238,14 +238,14 @@
         "pss_id": 8945,
         "updated_at": "2019-05-10T17:32:35Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:00:22Z",
-        "last_synced_at": "2026-11-08T12:00:22Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "pd grza - veliki kozji rog - vis - crni vrh - javorak - pd grza 4-26-1 istocna srbija juzni kucaj planinarski dom \"grza\" (\"djordje zivkovic\"), 405m planinarski dom \"grza\" (\"djordje zivkovic\"), 405m javorak pk • vis • javoracki vrh • mali javorak zahtevna • odmah na startu se treba malo oznojiti - ceka nas strm uspon do kolibe pod velikim kozjim rogom (682 mnv). odatle cemo laganije nastaviti uspon do vrha vis (873 mnv, oko 7 km od starta). sa visa se strmom padinom spustamo na put za krivi vir i krecemo njime levo (na sever), do tacke na kojoj cemo ga napustiti i, zaobilazeci crni vrh jednim od najlepsih delova ove dinamicne rute, stici do odmorista \"pojilo\" (13 km od starta). • zatim prolazimo zapadno od javorackog vrha (927 mnv): blizu je i mozemo ga lako posetiti, ali ne treba ocekivati i daleke vidike - vrh je obrastao sumom. no vrh mali javorak (756 mnv, oko 3 km dalje) i jos jedan vidikovac malo posle njega pruzice nam i to zadovoljstvo. na preostalom delu rute cemo se, najpre lagano a na zadnjem kilometru vrlo strmo, spustiti nazad do planinarskog doma.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:00:22Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

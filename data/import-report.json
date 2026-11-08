@@ -1,0 +1,3189 @@
+{
+    "run_at": "2026-11-08T13:01:55Z",
+    "mode": "full",
+    "duration_s": 1.5,
+    "discovered": {
+        "archive_posts": 420,
+        "sitemap_urls": 0,
+        "sitemap_only": 0,
+        "unique_candidates": 420,
+        "not_trails": 0
+    },
+    "processed": 420,
+    "created": 0,
+    "updated": 420,
+    "unchanged": 0,
+    "skipped": 0,
+    "failed": 0,
+    "pruned": 0,
+    "gpx": {
+        "available": 286,
+        "downloaded": 0,
+        "cached": 292,
+        "reused": 286,
+        "missing": 128,
+        "invalid": 6,
+        "errors": 0,
+        "no_elevation": 41,
+        "downloaded_bytes": 0
+    },
+    "catalogue": {
+        "trails": 420,
+        "with_gpx": 286,
+        "with_elevation": 245,
+        "missing_gpx": 128,
+        "invalid_gpx": 6,
+        "complete": 231,
+        "partial": 177,
+        "minimal": 12
+    },
+    "issues": [
+        {
+            "level": "warning",
+            "code": "distance_discrepancy",
+            "message": "Zvanična dužina 16,0 km se razlikuje od GPX dužine 5,4 km.",
+            "slug": "manastir-mesic",
+            "url": "https://pss.rs/terenipp/manastir-mesic/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_elevation",
+            "message": "GPX nema upotrebljive visinske podatke.",
+            "slug": "manastir-mesic",
+            "url": "https://pss.rs/terenipp/manastir-mesic/"
+        },
+        {
+            "level": "error",
+            "code": "invalid_gpx",
+            "message": "Datoteka nema <gpx> koren.",
+            "slug": "e7-1",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/E7-1-Backi-Vinogradi-__-Stari-Zednik.gpx"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "e7-1",
+            "url": "https://pss.rs/terenipp/e7-1/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_difficulty",
+            "message": "Nedostaje težina staze.",
+            "slug": "golijska-transverzala",
+            "url": "https://pss.rs/terenipp/golijska-transverzala/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "golijska-transverzala",
+            "url": "https://pss.rs/terenipp/golijska-transverzala/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "golijska-transverzala",
+            "url": "https://pss.rs/terenipp/golijska-transverzala/"
+        },
+        {
+            "level": "error",
+            "code": "invalid_gpx",
+            "message": "Datoteka nema <gpx> koren.",
+            "slug": "e7-2",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/E7-2-Stari-Zednik-__-Sombor.gpx"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "e7-2",
+            "url": "https://pss.rs/terenipp/e7-2/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 466 m se razlikuje od izračunatog 0 m.",
+            "slug": "e7-3",
+            "url": "https://pss.rs/terenipp/e7-3/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_elevation",
+            "message": "GPX nema upotrebljive visinske podatke.",
+            "slug": "e7-3",
+            "url": "https://pss.rs/terenipp/e7-3/"
+        },
+        {
+            "level": "warning",
+            "code": "distance_discrepancy",
+            "message": "Zvanična dužina 158,7 km se razlikuje od GPX dužine 112,8 km.",
+            "slug": "e4-9",
+            "url": "https://pss.rs/terenipp/e4-9/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 3323 m se razlikuje od izračunatog 0 m.",
+            "slug": "e4-9",
+            "url": "https://pss.rs/terenipp/e4-9/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_elevation",
+            "message": "GPX nema upotrebljive visinske podatke.",
+            "slug": "e4-9",
+            "url": "https://pss.rs/terenipp/e4-9/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 124 m se razlikuje od izračunatog 0 m.",
+            "slug": "e7-4",
+            "url": "https://pss.rs/terenipp/e7-4/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_elevation",
+            "message": "GPX nema upotrebljive visinske podatke.",
+            "slug": "e7-4",
+            "url": "https://pss.rs/terenipp/e7-4/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "zica-stolovi-mataruska-banja",
+            "url": "https://pss.rs/terenipp/zica-stolovi-mataruska-banja/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "zica-stolovi-mataruska-banja",
+            "url": "https://pss.rs/terenipp/zica-stolovi-mataruska-banja/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "maglic-troglav-stanca",
+            "url": "https://pss.rs/terenipp/maglic-troglav-stanca/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "maglic-troglav-stanca",
+            "url": "https://pss.rs/terenipp/maglic-troglav-stanca/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_difficulty",
+            "message": "Nedostaje težina staze.",
+            "slug": "cika-duskove-rajacke-staze",
+            "url": "https://pss.rs/terenipp/cika-duskove-rajacke-staze/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "cika-duskove-rajacke-staze",
+            "url": "https://pss.rs/terenipp/cika-duskove-rajacke-staze/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 277 m se razlikuje od izračunatog 0 m.",
+            "slug": "e4-1",
+            "url": "https://pss.rs/terenipp/e4-1/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_elevation",
+            "message": "GPX nema upotrebljive visinske podatke.",
+            "slug": "e4-1",
+            "url": "https://pss.rs/terenipp/e4-1/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 390 m se razlikuje od izračunatog 0 m.",
+            "slug": "e4-2",
+            "url": "https://pss.rs/terenipp/e4-2/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_elevation",
+            "message": "GPX nema upotrebljive visinske podatke.",
+            "slug": "e4-2",
+            "url": "https://pss.rs/terenipp/e4-2/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_elevation",
+            "message": "GPX nema upotrebljive visinske podatke.",
+            "slug": "e4-3",
+            "url": "https://pss.rs/terenipp/e4-3/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 2085 m se razlikuje od izračunatog 0 m.",
+            "slug": "e4-5",
+            "url": "https://pss.rs/terenipp/e4-5/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_elevation",
+            "message": "GPX nema upotrebljive visinske podatke.",
+            "slug": "e4-5",
+            "url": "https://pss.rs/terenipp/e4-5/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_elevation",
+            "message": "GPX nema upotrebljive visinske podatke.",
+            "slug": "e4-4",
+            "url": "https://pss.rs/terenipp/e4-4/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "manastirska-staza",
+            "url": "https://pss.rs/terenipp/manastirska-staza/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "bojanine-vode-mosor-rajac",
+            "url": "https://pss.rs/terenipp/bojanine-vode-mosor-rajac/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "bojanine-vode-mosor-rajac",
+            "url": "https://pss.rs/terenipp/bojanine-vode-mosor-rajac/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "gornja-studena-manastir-veta",
+            "url": "https://pss.rs/terenipp/gornja-studena-manastir-veta/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "gornja-studena-manastir-veta",
+            "url": "https://pss.rs/terenipp/gornja-studena-manastir-veta/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "ostrovica-gradac",
+            "url": "https://pss.rs/terenipp/ostrovica-gradac/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "ostrovica-gradac",
+            "url": "https://pss.rs/terenipp/ostrovica-gradac/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "ostrovica-ples",
+            "url": "https://pss.rs/terenipp/ostrovica-ples/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "ostrovica-ples",
+            "url": "https://pss.rs/terenipp/ostrovica-ples/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_elevation",
+            "message": "GPX nema upotrebljive visinske podatke.",
+            "slug": "manastir-srediste-guduricki-vrh",
+            "url": "https://pss.rs/terenipp/manastir-srediste-guduricki-vrh/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_elevation",
+            "message": "GPX nema upotrebljive visinske podatke.",
+            "slug": "uspon-na-guduricki-vrh",
+            "url": "https://pss.rs/terenipp/uspon-na-guduricki-vrh/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_elevation",
+            "message": "GPX nema upotrebljive visinske podatke.",
+            "slug": "kamenarice-preko-lisic-glave",
+            "url": "https://pss.rs/terenipp/kamenarice-preko-lisic-glave/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "guduricki-vrh-preko-lisicije-glave",
+            "url": "https://pss.rs/terenipp/guduricki-vrh-preko-lisicije-glave/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_elevation",
+            "message": "GPX nema upotrebljive visinske podatke.",
+            "slug": "guduricki-vrh-preko-lisicije-glave",
+            "url": "https://pss.rs/terenipp/guduricki-vrh-preko-lisicije-glave/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_difficulty",
+            "message": "Nedostaje težina staze.",
+            "slug": "vrsacka-transverzala",
+            "url": "https://pss.rs/terenipp/vrsacka-transverzala/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "vrsacka-transverzala",
+            "url": "https://pss.rs/terenipp/vrsacka-transverzala/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_elevation",
+            "message": "GPX nema upotrebljive visinske podatke.",
+            "slug": "vrsacka-transverzala",
+            "url": "https://pss.rs/terenipp/vrsacka-transverzala/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 479 m se razlikuje od izračunatog 0 m.",
+            "slug": "e4-6",
+            "url": "https://pss.rs/terenipp/e4-6/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_elevation",
+            "message": "GPX nema upotrebljive visinske podatke.",
+            "slug": "e4-6",
+            "url": "https://pss.rs/terenipp/e4-6/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 6565 m se razlikuje od izračunatog 0 m.",
+            "slug": "e4-7",
+            "url": "https://pss.rs/terenipp/e4-7/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_elevation",
+            "message": "GPX nema upotrebljive visinske podatke.",
+            "slug": "e4-7",
+            "url": "https://pss.rs/terenipp/e4-7/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 603 m se razlikuje od izračunatog 0 m.",
+            "slug": "e4-8",
+            "url": "https://pss.rs/terenipp/e4-8/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_elevation",
+            "message": "GPX nema upotrebljive visinske podatke.",
+            "slug": "e4-8",
+            "url": "https://pss.rs/terenipp/e4-8/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 3424 m se razlikuje od izračunatog 0 m.",
+            "slug": "e4-10",
+            "url": "https://pss.rs/terenipp/e4-10/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_elevation",
+            "message": "GPX nema upotrebljive visinske podatke.",
+            "slug": "e4-10",
+            "url": "https://pss.rs/terenipp/e4-10/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 3751 m se razlikuje od izračunatog 1464 m.",
+            "slug": "e4-11",
+            "url": "https://pss.rs/terenipp/e4-11/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 4088 m se razlikuje od izračunatog 99 m.",
+            "slug": "e4-13",
+            "url": "https://pss.rs/terenipp/e4-13/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_elevation",
+            "message": "GPX nema upotrebljive visinske podatke.",
+            "slug": "e4-13",
+            "url": "https://pss.rs/terenipp/e4-13/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "cemerno",
+            "url": "https://pss.rs/terenipp/cemerno/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "cemerno",
+            "url": "https://pss.rs/terenipp/cemerno/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "gledicke-planine-selo-ravanica-samar-s-ravanica",
+            "url": "https://pss.rs/terenipp/gledicke-planine-selo-ravanica-samar-s-ravanica/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "gledicke-planine-selo-ravanica-samar-s-ravanica",
+            "url": "https://pss.rs/terenipp/gledicke-planine-selo-ravanica-samar-s-ravanica/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "gledicke-planine-s-ravanica-g-planine-s-stubal",
+            "url": "https://pss.rs/terenipp/gledicke-planine-s-ravanica-g-planine-s-stubal/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "gledicke-planine-s-ravanica-g-planine-s-stubal",
+            "url": "https://pss.rs/terenipp/gledicke-planine-s-ravanica-g-planine-s-stubal/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "stolovi-manastir-zica-lipar-mataruska-banja",
+            "url": "https://pss.rs/terenipp/stolovi-manastir-zica-lipar-mataruska-banja/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "stolovi-manastir-zica-lipar-mataruska-banja",
+            "url": "https://pss.rs/terenipp/stolovi-manastir-zica-lipar-mataruska-banja/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "pokajnica",
+            "url": "https://pss.rs/terenipp/pokajnica/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "pokajnica",
+            "url": "https://pss.rs/terenipp/pokajnica/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "karadjordjevim-stopama",
+            "url": "https://pss.rs/terenipp/karadjordjevim-stopama/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "karadjordjevim-stopama",
+            "url": "https://pss.rs/terenipp/karadjordjevim-stopama/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "karaula",
+            "url": "https://pss.rs/terenipp/karaula/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "karaula",
+            "url": "https://pss.rs/terenipp/karaula/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 1780 m se razlikuje od izračunatog 0 m.",
+            "slug": "e7-5",
+            "url": "https://pss.rs/terenipp/e7-5/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_elevation",
+            "message": "GPX nema upotrebljive visinske podatke.",
+            "slug": "e7-5",
+            "url": "https://pss.rs/terenipp/e7-5/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 945 m se razlikuje od izračunatog 0 m.",
+            "slug": "e7-6",
+            "url": "https://pss.rs/terenipp/e7-6/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_elevation",
+            "message": "GPX nema upotrebljive visinske podatke.",
+            "slug": "e7-6",
+            "url": "https://pss.rs/terenipp/e7-6/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 1275 m se razlikuje od izračunatog 0 m.",
+            "slug": "e7-7",
+            "url": "https://pss.rs/terenipp/e7-7/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_elevation",
+            "message": "GPX nema upotrebljive visinske podatke.",
+            "slug": "e7-7",
+            "url": "https://pss.rs/terenipp/e7-7/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 7874 m se razlikuje od izračunatog 1034 m.",
+            "slug": "e7-10",
+            "url": "https://pss.rs/terenipp/e7-10/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_elevation",
+            "message": "GPX nema upotrebljive visinske podatke.",
+            "slug": "e7-10",
+            "url": "https://pss.rs/terenipp/e7-10/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 3743 m se razlikuje od izračunatog 786 m.",
+            "slug": "e7-12",
+            "url": "https://pss.rs/terenipp/e7-12/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_elevation",
+            "message": "GPX nema upotrebljive visinske podatke.",
+            "slug": "e7-12",
+            "url": "https://pss.rs/terenipp/e7-12/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "staza-br-4-cukare",
+            "url": "https://pss.rs/terenipp/staza-br-4-cukare/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "staza-br-5-zutajka",
+            "url": "https://pss.rs/terenipp/staza-br-5-zutajka/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "staza-br-7-dren",
+            "url": "https://pss.rs/terenipp/staza-br-7-dren/"
+        },
+        {
+            "level": "warning",
+            "code": "distance_discrepancy",
+            "message": "Zvanična dužina 13,0 km se razlikuje od GPX dužine 8,6 km.",
+            "slug": "staza-br-10-vrh-vlajna-1442",
+            "url": "https://pss.rs/terenipp/staza-br-10-vrh-vlajna-1442/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "staza-br-11-rasin-laz",
+            "url": "https://pss.rs/terenipp/staza-br-11-rasin-laz/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "staza-br-11-rasin-laz",
+            "url": "https://pss.rs/terenipp/staza-br-11-rasin-laz/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "staza-br-14-palje",
+            "url": "https://pss.rs/terenipp/staza-br-14-palje/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 104 m se razlikuje od izračunatog 59 m.",
+            "slug": "ostra-cuka-selo-jezero",
+            "url": "https://pss.rs/terenipp/ostra-cuka-selo-jezero/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "milusinac-krstatac",
+            "url": "https://pss.rs/terenipp/milusinac-krstatac/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "milusinac-krstatac",
+            "url": "https://pss.rs/terenipp/milusinac-krstatac/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "capljinac-ravniste",
+            "url": "https://pss.rs/terenipp/capljinac-ravniste/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "capljinac-ravniste",
+            "url": "https://pss.rs/terenipp/capljinac-ravniste/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "vrmdza-kruzna-staza",
+            "url": "https://pss.rs/terenipp/vrmdza-kruzna-staza/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 2543 m se razlikuje od izračunatog 0 m.",
+            "slug": "e7-13",
+            "url": "https://pss.rs/terenipp/e7-13/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_elevation",
+            "message": "GPX nema upotrebljive visinske podatke.",
+            "slug": "e7-13",
+            "url": "https://pss.rs/terenipp/e7-13/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 5100 m se razlikuje od izračunatog 0 m.",
+            "slug": "e7-14",
+            "url": "https://pss.rs/terenipp/e7-14/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_elevation",
+            "message": "GPX nema upotrebljive visinske podatke.",
+            "slug": "e7-14",
+            "url": "https://pss.rs/terenipp/e7-14/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "tomiceva-koliba-siljak",
+            "url": "https://pss.rs/terenipp/tomiceva-koliba-siljak/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "sesalac-sesalacka-pecina",
+            "url": "https://pss.rs/terenipp/sesalac-sesalacka-pecina/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "sesalac-sesalacka-pecina",
+            "url": "https://pss.rs/terenipp/sesalac-sesalacka-pecina/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "vlasina-leskovik",
+            "url": "https://pss.rs/terenipp/vlasina-leskovik/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "vlasina-leskovik",
+            "url": "https://pss.rs/terenipp/vlasina-leskovik/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "vrbovac-djurkov-vrh",
+            "url": "https://pss.rs/terenipp/vrbovac-djurkov-vrh/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "milusinac-slemen",
+            "url": "https://pss.rs/terenipp/milusinac-slemen/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "milusinac-slemen",
+            "url": "https://pss.rs/terenipp/milusinac-slemen/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "staza-zdravlja-1",
+            "url": "https://pss.rs/terenipp/staza-zdravlja-1/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "staza-zdravlja-1",
+            "url": "https://pss.rs/terenipp/staza-zdravlja-1/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "staza-zdravlja-2",
+            "url": "https://pss.rs/terenipp/staza-zdravlja-2/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "staza-zdravlja-2",
+            "url": "https://pss.rs/terenipp/staza-zdravlja-2/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "staza-zdravlja-3-kamena-kugla",
+            "url": "https://pss.rs/terenipp/staza-zdravlja-3-kamena-kugla/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "staza-zdravlja-3-kamena-kugla",
+            "url": "https://pss.rs/terenipp/staza-zdravlja-3-kamena-kugla/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "staza-zdravlja-rogovi",
+            "url": "https://pss.rs/terenipp/staza-zdravlja-rogovi/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 2200 m se razlikuje od izračunatog 0 m.",
+            "slug": "e7-15",
+            "url": "https://pss.rs/terenipp/e7-15/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_elevation",
+            "message": "GPX nema upotrebljive visinske podatke.",
+            "slug": "e7-15",
+            "url": "https://pss.rs/terenipp/e7-15/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 2800 m se razlikuje od izračunatog 0 m.",
+            "slug": "e7-16",
+            "url": "https://pss.rs/terenipp/e7-16/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_elevation",
+            "message": "GPX nema upotrebljive visinske podatke.",
+            "slug": "e7-16",
+            "url": "https://pss.rs/terenipp/e7-16/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 4200 m se razlikuje od izračunatog 129 m.",
+            "slug": "e7-17",
+            "url": "https://pss.rs/terenipp/e7-17/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_elevation",
+            "message": "GPX nema upotrebljive visinske podatke.",
+            "slug": "e7-17",
+            "url": "https://pss.rs/terenipp/e7-17/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 4060 m se razlikuje od izračunatog 684 m.",
+            "slug": "e7-18",
+            "url": "https://pss.rs/terenipp/e7-18/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_elevation",
+            "message": "GPX nema upotrebljive visinske podatke.",
+            "slug": "e7-18",
+            "url": "https://pss.rs/terenipp/e7-18/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 472 m se razlikuje od izračunatog 0 m.",
+            "slug": "e7-19",
+            "url": "https://pss.rs/terenipp/e7-19/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_elevation",
+            "message": "GPX nema upotrebljive visinske podatke.",
+            "slug": "e7-19",
+            "url": "https://pss.rs/terenipp/e7-19/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 403 m se razlikuje od izračunatog 590 m.",
+            "slug": "e7-20",
+            "url": "https://pss.rs/terenipp/e7-20/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_elevation",
+            "message": "GPX nema upotrebljive visinske podatke.",
+            "slug": "e7-20",
+            "url": "https://pss.rs/terenipp/e7-20/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "staza-zdravlja-4",
+            "url": "https://pss.rs/terenipp/staza-zdravlja-4/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "staza-zdravlja-4",
+            "url": "https://pss.rs/terenipp/staza-zdravlja-4/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "staza-zdravlja-5-djurovaca",
+            "url": "https://pss.rs/terenipp/staza-zdravlja-5-djurovaca/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "staza-zdravlja-5-djurovaca",
+            "url": "https://pss.rs/terenipp/staza-zdravlja-5-djurovaca/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "3892",
+            "url": "https://pss.rs/terenipp/3892/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "3892",
+            "url": "https://pss.rs/terenipp/3892/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "staza-7-adzevac",
+            "url": "https://pss.rs/terenipp/staza-7-adzevac/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "staza-7-adzevac",
+            "url": "https://pss.rs/terenipp/staza-7-adzevac/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "staza-8-loboderska",
+            "url": "https://pss.rs/terenipp/staza-8-loboderska/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "staza-9-kruzna-zbegoviste",
+            "url": "https://pss.rs/terenipp/staza-9-kruzna-zbegoviste/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "staza-10-moravska",
+            "url": "https://pss.rs/terenipp/staza-10-moravska/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "staza-10-moravska",
+            "url": "https://pss.rs/terenipp/staza-10-moravska/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "staza-11-vilindar",
+            "url": "https://pss.rs/terenipp/staza-11-vilindar/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "staza-11-vilindar",
+            "url": "https://pss.rs/terenipp/staza-11-vilindar/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "staza-12-sv-petka",
+            "url": "https://pss.rs/terenipp/staza-12-sv-petka/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "staza-12-sv-petka",
+            "url": "https://pss.rs/terenipp/staza-12-sv-petka/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "staza-13-lesevo-samar",
+            "url": "https://pss.rs/terenipp/staza-13-lesevo-samar/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "staza-13-lesevo-samar",
+            "url": "https://pss.rs/terenipp/staza-13-lesevo-samar/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "vinska-tura-sodjina-staza",
+            "url": "https://pss.rs/terenipp/vinska-tura-sodjina-staza/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "vinska-tura-prokupac",
+            "url": "https://pss.rs/terenipp/vinska-tura-prokupac/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "staza-1-zeljin-iz-polja",
+            "url": "https://pss.rs/terenipp/staza-1-zeljin-iz-polja/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "staza-2-neradja-koznik",
+            "url": "https://pss.rs/terenipp/staza-2-neradja-koznik/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "lazarica-bela-staza",
+            "url": "https://pss.rs/terenipp/lazarica-bela-staza/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "lazarica-bela-staza",
+            "url": "https://pss.rs/terenipp/lazarica-bela-staza/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "banja-vrujci-pl-dom-na-rajcu",
+            "url": "https://pss.rs/terenipp/banja-vrujci-pl-dom-na-rajcu/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "takovo-rajac-pl-dom",
+            "url": "https://pss.rs/terenipp/takovo-rajac-pl-dom/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "kostunici-danilov-vrh",
+            "url": "https://pss.rs/terenipp/kostunici-danilov-vrh/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "subjel-divcibare",
+            "url": "https://pss.rs/terenipp/subjel-divcibare/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_difficulty",
+            "message": "Nedostaje težina staze.",
+            "slug": "gledicka-transverzala",
+            "url": "https://pss.rs/terenipp/gledicka-transverzala/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "gledicka-transverzala",
+            "url": "https://pss.rs/terenipp/gledicka-transverzala/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "gledicka-transverzala",
+            "url": "https://pss.rs/terenipp/gledicka-transverzala/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_difficulty",
+            "message": "Nedostaje težina staze.",
+            "slug": "ovcarsko-kablarska-transverzala",
+            "url": "https://pss.rs/terenipp/ovcarsko-kablarska-transverzala/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "ovcarsko-kablarska-transverzala",
+            "url": "https://pss.rs/terenipp/ovcarsko-kablarska-transverzala/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 837 m se razlikuje od izračunatog 1190 m.",
+            "slug": "pozdrav-prolecu-aleksinac-sokobanja-ripaljka",
+            "url": "https://pss.rs/terenipp/pozdrav-prolecu-aleksinac-sokobanja-ripaljka/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 404 m se razlikuje od izračunatog 734 m.",
+            "slug": "via-militaris-lipovac-bovansko-jezero",
+            "url": "https://pss.rs/terenipp/via-militaris-lipovac-bovansko-jezero/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "via-militaris-lipovac-bovansko-jezero",
+            "url": "https://pss.rs/terenipp/via-militaris-lipovac-bovansko-jezero/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "koviljaca-stanci-lipovac",
+            "url": "https://pss.rs/terenipp/koviljaca-stanci-lipovac/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "sretenjski-susreti-koprivnica-v-drenovac",
+            "url": "https://pss.rs/terenipp/sretenjski-susreti-koprivnica-v-drenovac/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "pesacki-maraton-srpsko-turskom-granicom-iz-1834-god",
+            "url": "https://pss.rs/terenipp/pesacki-maraton-srpsko-turskom-granicom-iz-1834-god/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "pesacki-maraton-srpsko-turskom-granicom-iz-1834-god",
+            "url": "https://pss.rs/terenipp/pesacki-maraton-srpsko-turskom-granicom-iz-1834-god/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "bresnik-gornja-dubocica-maglic",
+            "url": "https://pss.rs/terenipp/bresnik-gornja-dubocica-maglic/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "bresnik-gornja-dubocica-maglic",
+            "url": "https://pss.rs/terenipp/bresnik-gornja-dubocica-maglic/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "selo-ravanica-manastir-kalenic-samar-stubal",
+            "url": "https://pss.rs/terenipp/selo-ravanica-manastir-kalenic-samar-stubal/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "selo-ravanica-manastir-kalenic-samar-stubal",
+            "url": "https://pss.rs/terenipp/selo-ravanica-manastir-kalenic-samar-stubal/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "zupanjevac",
+            "url": "https://pss.rs/terenipp/zupanjevac/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "veliki-blagotin",
+            "url": "https://pss.rs/terenipp/veliki-blagotin/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "stopama-milosa-obilica",
+            "url": "https://pss.rs/terenipp/stopama-milosa-obilica/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "veluce-lisac",
+            "url": "https://pss.rs/terenipp/veluce-lisac/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "kruzna-ljukten",
+            "url": "https://pss.rs/terenipp/kruzna-ljukten/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "kruzna-ljukten",
+            "url": "https://pss.rs/terenipp/kruzna-ljukten/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "grebenska-ljukten",
+            "url": "https://pss.rs/terenipp/grebenska-ljukten/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "crni-vrh",
+            "url": "https://pss.rs/terenipp/crni-vrh/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "staza-vedrog-duha",
+            "url": "https://pss.rs/terenipp/staza-vedrog-duha/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "staza-vedrog-duha",
+            "url": "https://pss.rs/terenipp/staza-vedrog-duha/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_difficulty",
+            "message": "Nedostaje težina staze.",
+            "slug": "4328",
+            "url": "https://pss.rs/terenipp/4328/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "4328",
+            "url": "https://pss.rs/terenipp/4328/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "4328",
+            "url": "https://pss.rs/terenipp/4328/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "bela-stena",
+            "url": "https://pss.rs/terenipp/bela-stena/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "bela-stena",
+            "url": "https://pss.rs/terenipp/bela-stena/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "garasko-jezero",
+            "url": "https://pss.rs/terenipp/garasko-jezero/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "garasko-jezero",
+            "url": "https://pss.rs/terenipp/garasko-jezero/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "staza-zadovoljstva",
+            "url": "https://pss.rs/terenipp/staza-zadovoljstva/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "staza-zadovoljstva",
+            "url": "https://pss.rs/terenipp/staza-zadovoljstva/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "dr-dusan-mitrovic-spirta",
+            "url": "https://pss.rs/terenipp/dr-dusan-mitrovic-spirta/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "dr-dusan-mitrovic-spirta",
+            "url": "https://pss.rs/terenipp/dr-dusan-mitrovic-spirta/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 700 m se razlikuje od izračunatog 1628 m.",
+            "slug": "vukove-bogaze",
+            "url": "https://pss.rs/terenipp/vukove-bogaze/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_difficulty",
+            "message": "Nedostaje težina staze.",
+            "slug": "vukove-bogaze",
+            "url": "https://pss.rs/terenipp/vukove-bogaze/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "vukove-bogaze",
+            "url": "https://pss.rs/terenipp/vukove-bogaze/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "cortanovacka-suma",
+            "url": "https://pss.rs/terenipp/cortanovacka-suma/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "bukovacki-maraton-osnovna-staza",
+            "url": "https://pss.rs/terenipp/bukovacki-maraton-osnovna-staza/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "bukovacki-maraton-srednja-staza",
+            "url": "https://pss.rs/terenipp/bukovacki-maraton-srednja-staza/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "bukovacki-maraton-velika-staza",
+            "url": "https://pss.rs/terenipp/bukovacki-maraton-velika-staza/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 76 m se razlikuje od izračunatog 9 m.",
+            "slug": "obalom-jegricke",
+            "url": "https://pss.rs/terenipp/obalom-jegricke/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "manastir-radovasnica",
+            "url": "https://pss.rs/terenipp/manastir-radovasnica/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "manastir-petkovica",
+            "url": "https://pss.rs/terenipp/manastir-petkovica/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "iverak-debeli-rt",
+            "url": "https://pss.rs/terenipp/iverak-debeli-rt/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "milosevac",
+            "url": "https://pss.rs/terenipp/milosevac/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_difficulty",
+            "message": "Nedostaje težina staze.",
+            "slug": "stazama-cera",
+            "url": "https://pss.rs/terenipp/stazama-cera/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "stazama-cera",
+            "url": "https://pss.rs/terenipp/stazama-cera/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "bojevo-brdo",
+            "url": "https://pss.rs/terenipp/bojevo-brdo/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "jankov-kamen",
+            "url": "https://pss.rs/terenipp/jankov-kamen/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "dajici-okruglica",
+            "url": "https://pss.rs/terenipp/dajici-okruglica/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "jezero-okruglica",
+            "url": "https://pss.rs/terenipp/jezero-okruglica/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "jezero-okruglica",
+            "url": "https://pss.rs/terenipp/jezero-okruglica/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "kosaninova-jezera",
+            "url": "https://pss.rs/terenipp/kosaninova-jezera/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "katici-mucanj",
+            "url": "https://pss.rs/terenipp/katici-mucanj/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "beziste-pasarelo",
+            "url": "https://pss.rs/terenipp/beziste-pasarelo/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "divljana-pasarelo",
+            "url": "https://pss.rs/terenipp/divljana-pasarelo/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "d-koritnica-pasarelo",
+            "url": "https://pss.rs/terenipp/d-koritnica-pasarelo/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "donja-studena-trem",
+            "url": "https://pss.rs/terenipp/donja-studena-trem/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "taskovici-crni-kamen",
+            "url": "https://pss.rs/terenipp/taskovici-crni-kamen/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "veliki-krcimir-litica",
+            "url": "https://pss.rs/terenipp/veliki-krcimir-litica/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "veliki-vrtop-golemo-straziste",
+            "url": "https://pss.rs/terenipp/veliki-vrtop-golemo-straziste/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "kravlje-goli-vrh",
+            "url": "https://pss.rs/terenipp/kravlje-goli-vrh/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "kravlje-pecurina-ljuti-vrh",
+            "url": "https://pss.rs/terenipp/kravlje-pecurina-ljuti-vrh/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "krupac-zeleni-vrh",
+            "url": "https://pss.rs/terenipp/krupac-zeleni-vrh/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "cirin-prolaz-gradiste-ples",
+            "url": "https://pss.rs/terenipp/cirin-prolaz-gradiste-ples/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "staza-vranjskog-planinarskog-maratona",
+            "url": "https://pss.rs/terenipp/staza-vranjskog-planinarskog-maratona/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "vranjska-banja-planinarski-dom-besna-kobila",
+            "url": "https://pss.rs/terenipp/vranjska-banja-planinarski-dom-besna-kobila/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "uspon-na-besnu-kobilu",
+            "url": "https://pss.rs/terenipp/uspon-na-besnu-kobilu/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "uspon-na-besnu-kobilu",
+            "url": "https://pss.rs/terenipp/uspon-na-besnu-kobilu/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "vodopad-damjanik",
+            "url": "https://pss.rs/terenipp/vodopad-damjanik/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "deonica-e7-kukavica-besna-kobila",
+            "url": "https://pss.rs/terenipp/deonica-e7-kukavica-besna-kobila/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "deonica-e7-vlasinsko-jezero-prohor-pcinjski",
+            "url": "https://pss.rs/terenipp/deonica-e7-vlasinsko-jezero-prohor-pcinjski/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_difficulty",
+            "message": "Nedostaje težina staze.",
+            "slug": "zaracka-transverzala",
+            "url": "https://pss.rs/terenipp/zaracka-transverzala/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "zaracka-transverzala",
+            "url": "https://pss.rs/terenipp/zaracka-transverzala/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "zaracka-transverzala",
+            "url": "https://pss.rs/terenipp/zaracka-transverzala/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "staza-zdravlja-strmenice",
+            "url": "https://pss.rs/terenipp/staza-zdravlja-strmenice/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "severne-staze-lipara",
+            "url": "https://pss.rs/terenipp/severne-staze-lipara/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "ostra-glavica-narandzasta-staza",
+            "url": "https://pss.rs/terenipp/ostra-glavica-narandzasta-staza/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "ostra-glavica-narandzasta-staza",
+            "url": "https://pss.rs/terenipp/ostra-glavica-narandzasta-staza/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "ostra-glavica-zelena-staza",
+            "url": "https://pss.rs/terenipp/ostra-glavica-zelena-staza/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "ostra-glavica-zelena-staza",
+            "url": "https://pss.rs/terenipp/ostra-glavica-zelena-staza/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "ostra-glavica-crvena-staza",
+            "url": "https://pss.rs/terenipp/ostra-glavica-crvena-staza/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "ostra-glavica-plava-staza",
+            "url": "https://pss.rs/terenipp/ostra-glavica-plava-staza/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "ostra-glavica-plava-staza",
+            "url": "https://pss.rs/terenipp/ostra-glavica-plava-staza/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "crna-reka",
+            "url": "https://pss.rs/terenipp/crna-reka/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "tri-bunara-na-devici-izvor-moravice",
+            "url": "https://pss.rs/terenipp/tri-bunara-na-devici-izvor-moravice/"
+        },
+        {
+            "level": "warning",
+            "code": "distance_discrepancy",
+            "message": "Zvanična dužina 22,0 km se razlikuje od GPX dužine 11,2 km.",
+            "slug": "sarbanovac-v-porica-baba",
+            "url": "https://pss.rs/terenipp/sarbanovac-v-porica-baba/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 781 m se razlikuje od izračunatog 120 m.",
+            "slug": "sarbanovac-v-porica-baba",
+            "url": "https://pss.rs/terenipp/sarbanovac-v-porica-baba/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "dikuliceva-staza-klisura-zdrelo",
+            "url": "https://pss.rs/terenipp/dikuliceva-staza-klisura-zdrelo/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "dikuliceva-staza-klisura-zdrelo",
+            "url": "https://pss.rs/terenipp/dikuliceva-staza-klisura-zdrelo/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "pesacka-staza-kroz-suboticku-pescaru",
+            "url": "https://pss.rs/terenipp/pesacka-staza-kroz-suboticku-pescaru/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "pesacka-staza-kroz-suboticku-pescaru",
+            "url": "https://pss.rs/terenipp/pesacka-staza-kroz-suboticku-pescaru/"
+        },
+        {
+            "level": "error",
+            "code": "invalid_gpx",
+            "message": "Datoteka nema <gpx> koren.",
+            "slug": "homoljski-planinarski-maraton",
+            "url": "https://pss.rs/wp-content/uploads/2017/12/4-4-1-Homoljski-maraton.gpx"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "homoljski-planinarski-maraton",
+            "url": "https://pss.rs/terenipp/homoljski-planinarski-maraton/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_difficulty",
+            "message": "Nedostaje težina staze.",
+            "slug": "bastionska-transverzala",
+            "url": "https://pss.rs/terenipp/bastionska-transverzala/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "bastionska-transverzala",
+            "url": "https://pss.rs/terenipp/bastionska-transverzala/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_difficulty",
+            "message": "Nedostaje težina staze.",
+            "slug": "mala-toplicka-transverzala",
+            "url": "https://pss.rs/terenipp/mala-toplicka-transverzala/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "mala-toplicka-transverzala",
+            "url": "https://pss.rs/terenipp/mala-toplicka-transverzala/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "mala-toplicka-transverzala",
+            "url": "https://pss.rs/terenipp/mala-toplicka-transverzala/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_difficulty",
+            "message": "Nedostaje težina staze.",
+            "slug": "homoljska-transverzala",
+            "url": "https://pss.rs/terenipp/homoljska-transverzala/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "homoljska-transverzala",
+            "url": "https://pss.rs/terenipp/homoljska-transverzala/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "konaci-kadijevac",
+            "url": "https://pss.rs/terenipp/konaci-kadijevac/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_difficulty",
+            "message": "Nedostaje težina staze.",
+            "slug": "josif-pancic-kopaonik",
+            "url": "https://pss.rs/terenipp/josif-pancic-kopaonik/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "josif-pancic-kopaonik",
+            "url": "https://pss.rs/terenipp/josif-pancic-kopaonik/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "josif-pancic-kopaonik",
+            "url": "https://pss.rs/terenipp/josif-pancic-kopaonik/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "rudnik-blagovestenje",
+            "url": "https://pss.rs/terenipp/rudnik-blagovestenje/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_difficulty",
+            "message": "Nedostaje težina staze.",
+            "slug": "vlasinska-transverzala",
+            "url": "https://pss.rs/terenipp/vlasinska-transverzala/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "vlasinska-transverzala",
+            "url": "https://pss.rs/terenipp/vlasinska-transverzala/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "vlasinska-transverzala",
+            "url": "https://pss.rs/terenipp/vlasinska-transverzala/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_difficulty",
+            "message": "Nedostaje težina staze.",
+            "slug": "rudnicke-staze",
+            "url": "https://pss.rs/terenipp/rudnicke-staze/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "rudnicke-staze",
+            "url": "https://pss.rs/terenipp/rudnicke-staze/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "rudnicke-staze",
+            "url": "https://pss.rs/terenipp/rudnicke-staze/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "dositejevim-stazama",
+            "url": "https://pss.rs/terenipp/dositejevim-stazama/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "lazin-vir",
+            "url": "https://pss.rs/terenipp/lazin-vir/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "lazin-vir",
+            "url": "https://pss.rs/terenipp/lazin-vir/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "banja-badanja-banja-crniljevo",
+            "url": "https://pss.rs/terenipp/banja-badanja-banja-crniljevo/"
+        },
+        {
+            "level": "error",
+            "code": "invalid_gpx",
+            "message": "Datoteka nema <gpx> koren.",
+            "slug": "kozelj-ledenicki-vrh",
+            "url": "https://pss.rs/wp-content/uploads/2019/01/4-36-1Tupižnica-Koželj-Ledeni_ki-vrh.gpx"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "kozelj-ledenicki-vrh",
+            "url": "https://pss.rs/terenipp/kozelj-ledenicki-vrh/"
+        },
+        {
+            "level": "error",
+            "code": "invalid_gpx",
+            "message": "Datoteka nema <gpx> koren.",
+            "slug": "marinovac-glogovacki-vrh",
+            "url": "https://pss.rs/wp-content/uploads/2019/01/4-36-2-Tupiznica-Glogova_ki-vrh.gpx"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "marinovac-glogovacki-vrh",
+            "url": "https://pss.rs/terenipp/marinovac-glogovacki-vrh/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 350 m se razlikuje od izračunatog 641 m.",
+            "slug": "vrska-cuka-vlaski-do-kruzna-staza",
+            "url": "https://pss.rs/terenipp/vrska-cuka-vlaski-do-kruzna-staza/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 1065 m se razlikuje od izračunatog 623 m.",
+            "slug": "oko-ostre-cuke",
+            "url": "https://pss.rs/terenipp/oko-ostre-cuke/"
+        },
+        {
+            "level": "warning",
+            "code": "distance_discrepancy",
+            "message": "Zvanična dužina 12,0 km se razlikuje od GPX dužine 15,3 km.",
+            "slug": "citluk-krstatac",
+            "url": "https://pss.rs/terenipp/citluk-krstatac/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "bobija-rudnik-vrh-dobra-voda-razbojiste",
+            "url": "https://pss.rs/terenipp/bobija-rudnik-vrh-dobra-voda-razbojiste/"
+        },
+        {
+            "level": "error",
+            "code": "invalid_gpx",
+            "message": "Datoteka nema <gpx> koren.",
+            "slug": "mecje-stene",
+            "url": "https://pss.rs/wp-content/uploads/2019/08/6-14-1-Jastrebac-Me_je-stene.gpx"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "mecje-stene",
+            "url": "https://pss.rs/terenipp/mecje-stene/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 327 m se razlikuje od izračunatog 190 m.",
+            "slug": "ski-centar-tornik-ribnica-vodice",
+            "url": "https://pss.rs/terenipp/ski-centar-tornik-ribnica-vodice/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_difficulty",
+            "message": "Nedostaje težina staze.",
+            "slug": "juhorska-transverzala",
+            "url": "https://pss.rs/terenipp/juhorska-transverzala/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "juhorska-transverzala",
+            "url": "https://pss.rs/terenipp/juhorska-transverzala/"
+        },
+        {
+            "level": "warning",
+            "code": "distance_discrepancy",
+            "message": "Zvanična dužina 6,5 km se razlikuje od GPX dužine 3,0 km.",
+            "slug": "strnjak-trest",
+            "url": "https://pss.rs/terenipp/strnjak-trest/"
+        },
+        {
+            "level": "warning",
+            "code": "distance_discrepancy",
+            "message": "Zvanična dužina 9,6 km se razlikuje od GPX dužine 4,6 km.",
+            "slug": "stubej-od-ceremosnje",
+            "url": "https://pss.rs/terenipp/stubej-od-ceremosnje/"
+        },
+        {
+            "level": "warning",
+            "code": "distance_discrepancy",
+            "message": "Zvanična dužina 12,5 km se razlikuje od GPX dužine 6,0 km.",
+            "slug": "veliki-sumorovac-od-bistrice",
+            "url": "https://pss.rs/terenipp/veliki-sumorovac-od-bistrice/"
+        },
+        {
+            "level": "warning",
+            "code": "distance_discrepancy",
+            "message": "Zvanična dužina 16,0 km se razlikuje od GPX dužine 6,8 km.",
+            "slug": "veliki-bic",
+            "url": "https://pss.rs/terenipp/veliki-bic/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "vodotoranj-tresetiste-palic-centar",
+            "url": "https://pss.rs/terenipp/vodotoranj-tresetiste-palic-centar/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 582 m se razlikuje od izračunatog 305 m.",
+            "slug": "avala-staza-1",
+            "url": "https://pss.rs/terenipp/avala-staza-1/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "avala-staza-1",
+            "url": "https://pss.rs/terenipp/avala-staza-1/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "avala-staza-2",
+            "url": "https://pss.rs/terenipp/avala-staza-2/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 645 m se razlikuje od izračunatog 1047 m.",
+            "slug": "bojanine-vode-sokolov-kamen-bojanine-vode",
+            "url": "https://pss.rs/terenipp/bojanine-vode-sokolov-kamen-bojanine-vode/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 150 m se razlikuje od izračunatog 396 m.",
+            "slug": "kanjon-kratovske-reke",
+            "url": "https://pss.rs/terenipp/kanjon-kratovske-reke/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_difficulty",
+            "message": "Nedostaje težina staze.",
+            "slug": "fruskogorska-transverzala",
+            "url": "https://pss.rs/terenipp/fruskogorska-transverzala/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "fruskogorska-transverzala",
+            "url": "https://pss.rs/terenipp/fruskogorska-transverzala/"
+        },
+        {
+            "level": "warning",
+            "code": "distance_discrepancy",
+            "message": "Zvanična dužina 16,6 km se razlikuje od GPX dužine 8,2 km.",
+            "slug": "planinarski-dom-adzine-livade-manastir-kamenac",
+            "url": "https://pss.rs/terenipp/planinarski-dom-adzine-livade-manastir-kamenac/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 617 m se razlikuje od izračunatog 189 m.",
+            "slug": "planinarski-dom-adzine-livade-manastir-kamenac",
+            "url": "https://pss.rs/terenipp/planinarski-dom-adzine-livade-manastir-kamenac/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_difficulty",
+            "message": "Nedostaje težina staze.",
+            "slug": "transverzala-fra",
+            "url": "https://pss.rs/terenipp/transverzala-fra/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "transverzala-fra",
+            "url": "https://pss.rs/terenipp/transverzala-fra/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "transverzala-fra",
+            "url": "https://pss.rs/terenipp/transverzala-fra/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "tri-vrha-atomske-banje",
+            "url": "https://pss.rs/terenipp/tri-vrha-atomske-banje/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 63 m se razlikuje od izračunatog 16 m.",
+            "slug": "mala-staza",
+            "url": "https://pss.rs/terenipp/mala-staza/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 81 m se razlikuje od izračunatog 14 m.",
+            "slug": "srednja-staza-20-km",
+            "url": "https://pss.rs/terenipp/srednja-staza-20-km/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 105 m se razlikuje od izračunatog 27 m.",
+            "slug": "velika-staza-30-km",
+            "url": "https://pss.rs/terenipp/velika-staza-30-km/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 717 m se razlikuje od izračunatog 278 m.",
+            "slug": "jarsenovo-g-kupinovica-kriva-buka",
+            "url": "https://pss.rs/terenipp/jarsenovo-g-kupinovica-kriva-buka/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 108 m se razlikuje od izračunatog 176 m.",
+            "slug": "bele-vode-taorska-vrela",
+            "url": "https://pss.rs/terenipp/bele-vode-taorska-vrela/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_code",
+            "message": "Nedostaje PSS oznaka staze.",
+            "slug": "debelo-brdo-bebica-luka",
+            "url": "https://pss.rs/terenipp/debelo-brdo-bebica-luka/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_region",
+            "message": "Nedostaje region.",
+            "slug": "debelo-brdo-bebica-luka",
+            "url": "https://pss.rs/terenipp/debelo-brdo-bebica-luka/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_mountain",
+            "message": "Nedostaje planina/predeo.",
+            "slug": "debelo-brdo-bebica-luka",
+            "url": "https://pss.rs/terenipp/debelo-brdo-bebica-luka/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "debelo-brdo-bebica-luka",
+            "url": "https://pss.rs/terenipp/debelo-brdo-bebica-luka/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "debelo-brdo-bebica-luka",
+            "url": "https://pss.rs/terenipp/debelo-brdo-bebica-luka/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 790 m se razlikuje od izračunatog 1498 m.",
+            "slug": "staza-br-16-jablanica-ljuljas",
+            "url": "https://pss.rs/terenipp/staza-br-16-jablanica-ljuljas/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 850 m se razlikuje od izračunatog 1228 m.",
+            "slug": "staza-br-4-gostilje-cigota",
+            "url": "https://pss.rs/terenipp/staza-br-4-gostilje-cigota/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 450 m se razlikuje od izračunatog 689 m.",
+            "slug": "staza-br-1-negbina-karaula",
+            "url": "https://pss.rs/terenipp/staza-br-1-negbina-karaula/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 810 m se razlikuje od izračunatog 1386 m.",
+            "slug": "staza-br-3-ljubis-murtenica",
+            "url": "https://pss.rs/terenipp/staza-br-3-ljubis-murtenica/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 595 m se razlikuje od izračunatog 3 m.",
+            "slug": "devojacka-stena",
+            "url": "https://pss.rs/terenipp/devojacka-stena/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 607 m se razlikuje od izračunatog 3 m.",
+            "slug": "kablar",
+            "url": "https://pss.rs/terenipp/kablar/"
+        },
+        {
+            "level": "warning",
+            "code": "distance_discrepancy",
+            "message": "Zvanična dužina 5,6 km se razlikuje od GPX dužine 8,2 km.",
+            "slug": "dule-krnjajic",
+            "url": "https://pss.rs/terenipp/dule-krnjajic/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 365 m se razlikuje od izračunatog 763 m.",
+            "slug": "dule-krnjajic",
+            "url": "https://pss.rs/terenipp/dule-krnjajic/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "ratkova-staza",
+            "url": "https://pss.rs/terenipp/ratkova-staza/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "stazama-kolubarske-bitke",
+            "url": "https://pss.rs/terenipp/stazama-kolubarske-bitke/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 615 m se razlikuje od izračunatog 97 m.",
+            "slug": "polom-m-vrtop-v-vrtop-staza-8",
+            "url": "https://pss.rs/terenipp/polom-m-vrtop-v-vrtop-staza-8/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 316 m se razlikuje od izračunatog 0 m.",
+            "slug": "dreznik-zaseok-joletici-vrh-kucista",
+            "url": "https://pss.rs/terenipp/dreznik-zaseok-joletici-vrh-kucista/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_elevation",
+            "message": "GPX nema upotrebljive visinske podatke.",
+            "slug": "dreznik-zaseok-joletici-vrh-kucista",
+            "url": "https://pss.rs/terenipp/dreznik-zaseok-joletici-vrh-kucista/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "meandri-timoka",
+            "url": "https://pss.rs/terenipp/meandri-timoka/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "dreznik",
+            "url": "https://pss.rs/terenipp/dreznik/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_elevation",
+            "message": "GPX nema upotrebljive visinske podatke.",
+            "slug": "dreznik",
+            "url": "https://pss.rs/terenipp/dreznik/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "cajetina",
+            "url": "https://pss.rs/terenipp/cajetina/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_elevation",
+            "message": "GPX nema upotrebljive visinske podatke.",
+            "slug": "cajetina",
+            "url": "https://pss.rs/terenipp/cajetina/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "kremna",
+            "url": "https://pss.rs/terenipp/kremna/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "tara",
+            "url": "https://pss.rs/terenipp/tara/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "zvijezda",
+            "url": "https://pss.rs/terenipp/zvijezda/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "mokra-gora",
+            "url": "https://pss.rs/terenipp/mokra-gora/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "zlatibor",
+            "url": "https://pss.rs/terenipp/zlatibor/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "sirogojno",
+            "url": "https://pss.rs/terenipp/sirogojno/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "janja",
+            "url": "https://pss.rs/terenipp/janja/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "pribojska-banja",
+            "url": "https://pss.rs/terenipp/pribojska-banja/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_elevation",
+            "message": "GPX nema upotrebljive visinske podatke.",
+            "slug": "pribojska-banja",
+            "url": "https://pss.rs/terenipp/pribojska-banja/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "mazici",
+            "url": "https://pss.rs/terenipp/mazici/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_elevation",
+            "message": "GPX nema upotrebljive visinske podatke.",
+            "slug": "mazici",
+            "url": "https://pss.rs/terenipp/mazici/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "jabuka",
+            "url": "https://pss.rs/terenipp/jabuka/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_elevation",
+            "message": "GPX nema upotrebljive visinske podatke.",
+            "slug": "jabuka",
+            "url": "https://pss.rs/terenipp/jabuka/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "kamena-gora",
+            "url": "https://pss.rs/terenipp/kamena-gora/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_elevation",
+            "message": "GPX nema upotrebljive visinske podatke.",
+            "slug": "kamena-gora",
+            "url": "https://pss.rs/terenipp/kamena-gora/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "sopotnica",
+            "url": "https://pss.rs/terenipp/sopotnica/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_elevation",
+            "message": "GPX nema upotrebljive visinske podatke.",
+            "slug": "sopotnica",
+            "url": "https://pss.rs/terenipp/sopotnica/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "kaludjerske-bare-zboriste",
+            "url": "https://pss.rs/terenipp/kaludjerske-bare-zboriste/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "kaludjerske-bare-zboriste",
+            "url": "https://pss.rs/terenipp/kaludjerske-bare-zboriste/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "kaludjerske-bare-manastir-raca",
+            "url": "https://pss.rs/terenipp/kaludjerske-bare-manastir-raca/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "kaludjerske-bare-manastir-raca",
+            "url": "https://pss.rs/terenipp/kaludjerske-bare-manastir-raca/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "djurino-brdo-jarevac-borovo-brdo",
+            "url": "https://pss.rs/terenipp/djurino-brdo-jarevac-borovo-brdo/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "djurino-brdo-jarevac-borovo-brdo",
+            "url": "https://pss.rs/terenipp/djurino-brdo-jarevac-borovo-brdo/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "ladjevac-sokolina",
+            "url": "https://pss.rs/terenipp/ladjevac-sokolina/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "ladjevac-sokolina",
+            "url": "https://pss.rs/terenipp/ladjevac-sokolina/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_region",
+            "message": "Nedostaje region.",
+            "slug": "mitrovac-predov-krst",
+            "url": "https://pss.rs/terenipp/mitrovac-predov-krst/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_mountain",
+            "message": "Nedostaje planina/predeo.",
+            "slug": "mitrovac-predov-krst",
+            "url": "https://pss.rs/terenipp/mitrovac-predov-krst/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_distance",
+            "message": "Nedostaje dužina staze.",
+            "slug": "mitrovac-predov-krst",
+            "url": "https://pss.rs/terenipp/mitrovac-predov-krst/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "mitrovac-predov-krst",
+            "url": "https://pss.rs/terenipp/mitrovac-predov-krst/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "mitrovac-predov-krst",
+            "url": "https://pss.rs/terenipp/mitrovac-predov-krst/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_region",
+            "message": "Nedostaje region.",
+            "slug": "mitrovac-gorisice-banjska-stena",
+            "url": "https://pss.rs/terenipp/mitrovac-gorisice-banjska-stena/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_mountain",
+            "message": "Nedostaje planina/predeo.",
+            "slug": "mitrovac-gorisice-banjska-stena",
+            "url": "https://pss.rs/terenipp/mitrovac-gorisice-banjska-stena/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_distance",
+            "message": "Nedostaje dužina staze.",
+            "slug": "mitrovac-gorisice-banjska-stena",
+            "url": "https://pss.rs/terenipp/mitrovac-gorisice-banjska-stena/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "mitrovac-gorisice-banjska-stena",
+            "url": "https://pss.rs/terenipp/mitrovac-gorisice-banjska-stena/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "mitrovac-gorisice-banjska-stena",
+            "url": "https://pss.rs/terenipp/mitrovac-gorisice-banjska-stena/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "luke-ravna-stena",
+            "url": "https://pss.rs/terenipp/luke-ravna-stena/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "luke-ravna-stena",
+            "url": "https://pss.rs/terenipp/luke-ravna-stena/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "luke-sklopovi",
+            "url": "https://pss.rs/terenipp/luke-sklopovi/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "luke-sklopovi",
+            "url": "https://pss.rs/terenipp/luke-sklopovi/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "dikava-janjac",
+            "url": "https://pss.rs/terenipp/dikava-janjac/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "dikava-janjac",
+            "url": "https://pss.rs/terenipp/dikava-janjac/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "kotroman-krsmanovica-potok",
+            "url": "https://pss.rs/terenipp/kotroman-krsmanovica-potok/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "kotroman-krsmanovica-potok",
+            "url": "https://pss.rs/terenipp/kotroman-krsmanovica-potok/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "mitrovac-predov-krst-2",
+            "url": "https://pss.rs/terenipp/mitrovac-predov-krst-2/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "mitrovac-predov-krst-2",
+            "url": "https://pss.rs/terenipp/mitrovac-predov-krst-2/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "mitrovac-gorusica-banjska-stena",
+            "url": "https://pss.rs/terenipp/mitrovac-gorusica-banjska-stena/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "mitrovac-gorusica-banjska-stena",
+            "url": "https://pss.rs/terenipp/mitrovac-gorusica-banjska-stena/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "priboj-stari-deo-grada-crni-vrh",
+            "url": "https://pss.rs/terenipp/priboj-stari-deo-grada-crni-vrh/"
+        },
+        {
+            "level": "warning",
+            "code": "distance_discrepancy",
+            "message": "Zvanična dužina 3,7 km se razlikuje od GPX dužine 7,4 km.",
+            "slug": "zajaca-manastir-tronosa",
+            "url": "https://pss.rs/terenipp/zajaca-manastir-tronosa/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 235 m se razlikuje od izračunatog 444 m.",
+            "slug": "zajaca-manastir-tronosa",
+            "url": "https://pss.rs/terenipp/zajaca-manastir-tronosa/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 403 m se razlikuje od izračunatog 675 m.",
+            "slug": "megara-1-milunova-staza",
+            "url": "https://pss.rs/terenipp/megara-1-milunova-staza/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 532 m se razlikuje od izračunatog 805 m.",
+            "slug": "borince-petrov-vrh",
+            "url": "https://pss.rs/terenipp/borince-petrov-vrh/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "mrka-kosa-kozji-rid",
+            "url": "https://pss.rs/terenipp/mrka-kosa-kozji-rid/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "mrka-kosa-kozji-rid",
+            "url": "https://pss.rs/terenipp/mrka-kosa-kozji-rid/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "predov-krst-veliki-stolac",
+            "url": "https://pss.rs/terenipp/predov-krst-veliki-stolac/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "predov-krst-veliki-stolac",
+            "url": "https://pss.rs/terenipp/predov-krst-veliki-stolac/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "predov-krst-vidikovac-stula",
+            "url": "https://pss.rs/terenipp/predov-krst-vidikovac-stula/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "predov-krst-vidikovac-stula",
+            "url": "https://pss.rs/terenipp/predov-krst-vidikovac-stula/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "predov-krst-biljeska-stena",
+            "url": "https://pss.rs/terenipp/predov-krst-biljeska-stena/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "predov-krst-biljeska-stena",
+            "url": "https://pss.rs/terenipp/predov-krst-biljeska-stena/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "sedaljka-orlov-vis-biljeska-stena",
+            "url": "https://pss.rs/terenipp/sedaljka-orlov-vis-biljeska-stena/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "sedaljka-orlov-vis-biljeska-stena",
+            "url": "https://pss.rs/terenipp/sedaljka-orlov-vis-biljeska-stena/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "sedaljka-mramorje",
+            "url": "https://pss.rs/terenipp/sedaljka-mramorje/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "sedaljka-mramorje",
+            "url": "https://pss.rs/terenipp/sedaljka-mramorje/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "sedaljka-sjenic",
+            "url": "https://pss.rs/terenipp/sedaljka-sjenic/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "sedaljka-sjenic",
+            "url": "https://pss.rs/terenipp/sedaljka-sjenic/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "sedaljka-banjska-stena",
+            "url": "https://pss.rs/terenipp/sedaljka-banjska-stena/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "sedaljka-banjska-stena",
+            "url": "https://pss.rs/terenipp/sedaljka-banjska-stena/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "mitrovac-beserovacke-bare-zboriste",
+            "url": "https://pss.rs/terenipp/mitrovac-beserovacke-bare-zboriste/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "mitrovac-beserovacke-bare-zboriste",
+            "url": "https://pss.rs/terenipp/mitrovac-beserovacke-bare-zboriste/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 437 m se razlikuje od izračunatog 672 m.",
+            "slug": "planinarska-kuca-suvaja-resavska-pecina",
+            "url": "https://pss.rs/terenipp/planinarska-kuca-suvaja-resavska-pecina/"
+        },
+        {
+            "level": "warning",
+            "code": "elevation_discrepancy",
+            "message": "Zvanični uspon 405 m se razlikuje od izračunatog 0 m.",
+            "slug": "planinarsko-izletnicka-staza-miroslav-miki-mladenovic",
+            "url": "https://pss.rs/terenipp/planinarsko-izletnicka-staza-miroslav-miki-mladenovic/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_elevation",
+            "message": "GPX nema upotrebljive visinske podatke.",
+            "slug": "planinarsko-izletnicka-staza-miroslav-miki-mladenovic",
+            "url": "https://pss.rs/terenipp/planinarsko-izletnicka-staza-miroslav-miki-mladenovic/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "7-27-1",
+            "url": "https://pss.rs/terenipp/7-27-1/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "7-27-2",
+            "url": "https://pss.rs/terenipp/7-27-2/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "7-27-3",
+            "url": "https://pss.rs/terenipp/7-27-3/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_gpx",
+            "message": "Nema GPX datoteke na PSS stranici.",
+            "slug": "7-22-4",
+            "url": "https://pss.rs/terenipp/7-22-4/"
+        },
+        {
+            "level": "warning",
+            "code": "missing_description",
+            "message": "Nedostaje opis staze.",
+            "slug": "4-23-2",
+            "url": "https://pss.rs/terenipp/4-23-2/"
+        }
+    ],
+    "records_needing_attention": [
+        3892,
+        "4-23-2",
+        4328,
+        "7-22-4",
+        "7-27-1",
+        "7-27-2",
+        "7-27-3",
+        "avala-staza-1",
+        "avala-staza-2",
+        "banja-badanja-banja-crniljevo",
+        "banja-vrujci-pl-dom-na-rajcu",
+        "bastionska-transverzala",
+        "bela-stena",
+        "bele-vode-taorska-vrela",
+        "beziste-pasarelo",
+        "bobija-rudnik-vrh-dobra-voda-razbojiste",
+        "bojanine-vode-mosor-rajac",
+        "bojanine-vode-sokolov-kamen-bojanine-vode",
+        "bojevo-brdo",
+        "borince-petrov-vrh",
+        "bresnik-gornja-dubocica-maglic",
+        "bukovacki-maraton-osnovna-staza",
+        "bukovacki-maraton-srednja-staza",
+        "bukovacki-maraton-velika-staza",
+        "cajetina",
+        "capljinac-ravniste",
+        "cemerno",
+        "cika-duskove-rajacke-staze",
+        "cirin-prolaz-gradiste-ples",
+        "citluk-krstatac",
+        "cortanovacka-suma",
+        "crna-reka",
+        "crni-vrh",
+        "d-koritnica-pasarelo",
+        "dajici-okruglica",
+        "debelo-brdo-bebica-luka",
+        "deonica-e7-kukavica-besna-kobila",
+        "deonica-e7-vlasinsko-jezero-prohor-pcinjski",
+        "devojacka-stena",
+        "dikava-janjac",
+        "dikuliceva-staza-klisura-zdrelo",
+        "divljana-pasarelo",
+        "djurino-brdo-jarevac-borovo-brdo",
+        "donja-studena-trem",
+        "dositejevim-stazama",
+        "dr-dusan-mitrovic-spirta",
+        "dreznik",
+        "dreznik-zaseok-joletici-vrh-kucista",
+        "dule-krnjajic",
+        "e4-1",
+        "e4-10",
+        "e4-11",
+        "e4-13",
+        "e4-2",
+        "e4-3",
+        "e4-4",
+        "e4-5",
+        "e4-6",
+        "e4-7",
+        "e4-8",
+        "e4-9",
+        "e7-1",
+        "e7-10",
+        "e7-12",
+        "e7-13",
+        "e7-14",
+        "e7-15",
+        "e7-16",
+        "e7-17",
+        "e7-18",
+        "e7-19",
+        "e7-2",
+        "e7-20",
+        "e7-3",
+        "e7-4",
+        "e7-5",
+        "e7-6",
+        "e7-7",
+        "fruskogorska-transverzala",
+        "garasko-jezero",
+        "gledicka-transverzala",
+        "gledicke-planine-s-ravanica-g-planine-s-stubal",
+        "gledicke-planine-selo-ravanica-samar-s-ravanica",
+        "golijska-transverzala",
+        "gornja-studena-manastir-veta",
+        "grebenska-ljukten",
+        "guduricki-vrh-preko-lisicije-glave",
+        "homoljska-transverzala",
+        "homoljski-planinarski-maraton",
+        "iverak-debeli-rt",
+        "jabuka",
+        "janja",
+        "jankov-kamen",
+        "jarsenovo-g-kupinovica-kriva-buka",
+        "jezero-okruglica",
+        "josif-pancic-kopaonik",
+        "juhorska-transverzala",
+        "kablar",
+        "kaludjerske-bare-manastir-raca",
+        "kaludjerske-bare-zboriste",
+        "kamena-gora",
+        "kamenarice-preko-lisic-glave",
+        "kanjon-kratovske-reke",
+        "karadjordjevim-stopama",
+        "karaula",
+        "katici-mucanj",
+        "konaci-kadijevac",
+        "kosaninova-jezera",
+        "kostunici-danilov-vrh",
+        "kotroman-krsmanovica-potok",
+        "koviljaca-stanci-lipovac",
+        "kozelj-ledenicki-vrh",
+        "kravlje-goli-vrh",
+        "kravlje-pecurina-ljuti-vrh",
+        "kremna",
+        "krupac-zeleni-vrh",
+        "kruzna-ljukten",
+        "ladjevac-sokolina",
+        "lazarica-bela-staza",
+        "lazin-vir",
+        "luke-ravna-stena",
+        "luke-sklopovi",
+        "maglic-troglav-stanca",
+        "mala-staza",
+        "mala-toplicka-transverzala",
+        "manastir-mesic",
+        "manastir-petkovica",
+        "manastir-radovasnica",
+        "manastir-srediste-guduricki-vrh",
+        "manastirska-staza",
+        "marinovac-glogovacki-vrh",
+        "mazici",
+        "meandri-timoka",
+        "mecje-stene",
+        "megara-1-milunova-staza",
+        "milosevac",
+        "milusinac-krstatac",
+        "milusinac-slemen",
+        "mitrovac-beserovacke-bare-zboriste",
+        "mitrovac-gorisice-banjska-stena",
+        "mitrovac-gorusica-banjska-stena",
+        "mitrovac-predov-krst",
+        "mitrovac-predov-krst-2",
+        "mokra-gora",
+        "mrka-kosa-kozji-rid",
+        "obalom-jegricke",
+        "oko-ostre-cuke",
+        "ostra-cuka-selo-jezero",
+        "ostra-glavica-crvena-staza",
+        "ostra-glavica-narandzasta-staza",
+        "ostra-glavica-plava-staza",
+        "ostra-glavica-zelena-staza",
+        "ostrovica-gradac",
+        "ostrovica-ples",
+        "ovcarsko-kablarska-transverzala",
+        "pesacka-staza-kroz-suboticku-pescaru",
+        "pesacki-maraton-srpsko-turskom-granicom-iz-1834-god",
+        "planinarska-kuca-suvaja-resavska-pecina",
+        "planinarski-dom-adzine-livade-manastir-kamenac",
+        "planinarsko-izletnicka-staza-miroslav-miki-mladenovic",
+        "pokajnica",
+        "polom-m-vrtop-v-vrtop-staza-8",
+        "pozdrav-prolecu-aleksinac-sokobanja-ripaljka",
+        "predov-krst-biljeska-stena",
+        "predov-krst-veliki-stolac",
+        "predov-krst-vidikovac-stula",
+        "priboj-stari-deo-grada-crni-vrh",
+        "pribojska-banja",
+        "ratkova-staza",
+        "rudnicke-staze",
+        "rudnik-blagovestenje",
+        "sarbanovac-v-porica-baba",
+        "sedaljka-banjska-stena",
+        "sedaljka-mramorje",
+        "sedaljka-orlov-vis-biljeska-stena",
+        "sedaljka-sjenic",
+        "selo-ravanica-manastir-kalenic-samar-stubal",
+        "sesalac-sesalacka-pecina",
+        "severne-staze-lipara",
+        "sirogojno",
+        "ski-centar-tornik-ribnica-vodice",
+        "sopotnica",
+        "srednja-staza-20-km",
+        "sretenjski-susreti-koprivnica-v-drenovac",
+        "staza-1-zeljin-iz-polja",
+        "staza-10-moravska",
+        "staza-11-vilindar",
+        "staza-12-sv-petka",
+        "staza-13-lesevo-samar",
+        "staza-2-neradja-koznik",
+        "staza-7-adzevac",
+        "staza-8-loboderska",
+        "staza-9-kruzna-zbegoviste",
+        "staza-br-1-negbina-karaula",
+        "staza-br-10-vrh-vlajna-1442",
+        "staza-br-11-rasin-laz",
+        "staza-br-14-palje",
+        "staza-br-16-jablanica-ljuljas",
+        "staza-br-3-ljubis-murtenica",
+        "staza-br-4-cukare",
+        "staza-br-4-gostilje-cigota",
+        "staza-br-5-zutajka",
+        "staza-br-7-dren",
+        "staza-vedrog-duha",
+        "staza-vranjskog-planinarskog-maratona",
+        "staza-zadovoljstva",
+        "staza-zdravlja-1",
+        "staza-zdravlja-2",
+        "staza-zdravlja-3-kamena-kugla",
+        "staza-zdravlja-4",
+        "staza-zdravlja-5-djurovaca",
+        "staza-zdravlja-rogovi",
+        "staza-zdravlja-strmenice",
+        "stazama-cera",
+        "stazama-kolubarske-bitke",
+        "stolovi-manastir-zica-lipar-mataruska-banja",
+        "stopama-milosa-obilica",
+        "strnjak-trest",
+        "stubej-od-ceremosnje",
+        "subjel-divcibare",
+        "takovo-rajac-pl-dom",
+        "tara",
+        "taskovici-crni-kamen",
+        "tomiceva-koliba-siljak",
+        "transverzala-fra",
+        "tri-bunara-na-devici-izvor-moravice",
+        "tri-vrha-atomske-banje",
+        "uspon-na-besnu-kobilu",
+        "uspon-na-guduricki-vrh",
+        "velika-staza-30-km",
+        "veliki-bic",
+        "veliki-blagotin",
+        "veliki-krcimir-litica",
+        "veliki-sumorovac-od-bistrice",
+        "veliki-vrtop-golemo-straziste",
+        "veluce-lisac",
+        "via-militaris-lipovac-bovansko-jezero",
+        "vinska-tura-prokupac",
+        "vinska-tura-sodjina-staza",
+        "vlasina-leskovik",
+        "vlasinska-transverzala",
+        "vodopad-damjanik",
+        "vodotoranj-tresetiste-palic-centar",
+        "vranjska-banja-planinarski-dom-besna-kobila",
+        "vrbovac-djurkov-vrh",
+        "vrmdza-kruzna-staza",
+        "vrsacka-transverzala",
+        "vrska-cuka-vlaski-do-kruzna-staza",
+        "vukove-bogaze",
+        "zajaca-manastir-tronosa",
+        "zaracka-transverzala",
+        "zica-stolovi-mataruska-banja",
+        "zlatibor",
+        "zupanjevac",
+        "zvijezda"
+    ],
+    "issue_counts": {
+        "distance_discrepancy": 12,
+        "missing_elevation": 41,
+        "invalid_gpx": 6,
+        "missing_gpx": 134,
+        "missing_difficulty": 18,
+        "missing_description": 134,
+        "elevation_discrepancy": 57,
+        "missing_code": 1,
+        "missing_region": 3,
+        "missing_mountain": 3,
+        "missing_distance": 2
+    }
+}

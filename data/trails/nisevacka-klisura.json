@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2018/07/4-40-1-Nisevacka-klisura.gpx",
-        "fetched_at": "2026-11-08T11:59:23Z",
-        "checked_at": "2026-11-08T11:59:23Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 35824,
         "sha256": "3d924fd1652dd47dd3e6c6fdb985281e31883d6a52f5596ed251153072813d60",
         "etag": null,
-        "last_modified": "Sat, 07 Jul 2018 12:45:45 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 241,
@@ -158,14 +158,14 @@
         "pss_id": 6973,
         "updated_at": "2018-07-07T12:50:27Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:59:24Z",
-        "last_synced_at": "2026-11-08T11:59:24Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "nisevacka klisura 4-40-1 istocna srbija tresibaba atar sela varos, 439m selo nisevac, 355m preslap pd • utvrdjenje kule • kupaliste banjica • kotlovi reke belice • kameni zeleznicki lucni most (projektovao milutin milankovic) • vidikovci: vrh kule (511 m) i rimski put iznad sela nisevac laka polazak je sa asfaltnog puta iznad sela varos, oko 1 km juzno od sela. do vrha kule vodi staza u blagom usponu, prolazeci kroz uzak prolaz koji je nekada bio ulaz u utvrdjenje. na vrhu su i dalje ostaci tog utvrdjenja. ispod kule se nalazi pecina do koje se dolazi nesto strmijom stazom. povratak istom stazom do mesta polaska, a zatim spustanje sirokim travnatim putem do zeleznicke pruge. hodanje prugom u duzini oko 500 metara, kroz tri tunela i preko kamenog mosta. kretanje ucesnika prugom ce zbog bezbednosti biti uskladjeno sa redom voznje zeleznice. skretanje za kupaliste banjica. kratak uspon do sirokog rimskog puta, kojim se nakon 2 km dolazi do nisevca, uz nekoliko usputnih vidikovaca. zavrsetak staze u centru nisevca. cela staza je dobro markirana. • na stazi je potrebna opreznost.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:59:24Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

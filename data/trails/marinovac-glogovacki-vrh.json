@@ -69,12 +69,12 @@
         "available": false,
         "status": "invalid",
         "source_url": "https://pss.rs/wp-content/uploads/2019/01/4-36-2-Tupiznica-Glogova_ki-vrh.gpx",
-        "fetched_at": "2026-11-08T12:07:39Z",
-        "checked_at": "2026-11-08T12:07:39Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 89539,
         "sha256": "ea12cb491b666aa79b8a726c6bece4d93018b282d3ff56dce4fecb7498c408de",
         "etag": null,
-        "last_modified": "Sat, 07 Nov 2026 16:41:33 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": false,
         "points": 0,
@@ -111,14 +111,14 @@
         "pss_id": 8170,
         "updated_at": "2020-02-27T09:08:31Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:07:40Z",
-        "last_synced_at": "2026-11-08T12:07:40Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "marinovac - glogovacki vrh 4-36-2 istocna srbija tupiznica selo marinovac, 451m selo marinovac, 451m dragan radosavljevic opsd • na stazi ima jedan bunar sa pitkom vodom • nema smestajnih objekata zahtevna • pocetak staze nalazi se u centru sela marinovac. najvicim delom staza vodi kolskim putem. na stazi postoji jedan bunar sa pitkom vodom, a nakon njega, sumska staza vodi do glogovackog vrha. • na stazi je potrebna opreznost !",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:07:40Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

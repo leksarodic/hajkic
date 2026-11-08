@@ -79,12 +79,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2023/03/Staza-16-Jablanica-Ljuljas.gpx",
-        "fetched_at": "2026-11-08T12:02:46Z",
-        "checked_at": "2026-11-08T12:02:46Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 342939,
         "sha256": "3bd4113f4fd0455167ec2a99d4a194a6e84793aedf9aa8d725656385f70cfe45",
         "etag": null,
-        "last_modified": "Sat, 18 Mar 2023 11:59:25 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 3197,
@@ -256,14 +256,14 @@
         "pss_id": 19043,
         "updated_at": "2023-03-18T12:10:58Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:02:47Z",
-        "last_synced_at": "2026-11-08T12:02:47Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "staza br. 16: jablanica – ljuljas 5-12-6 jugozapadna srbija zlatibor crkva brvnara u jablanici crkva brvnara u jablanici aleksandar dzavovic pd -crkva brvnara u jablanici -vrh guvnine (1108 m) -zaseok brezovac sa starim kolibama -milosev grob -vrh ljuljas (1269 m) laka crkva brvnara u jablanici - jevtovici (3,5 km) - vrh guvnine (7,4 km) - brezovac (9,2 km) - milosev grob (10,5 km) - prisad (12,7 km) - vrh ljuljas (14.6 km) - crkva brvnara u jablanici (18,7 km)",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:02:47Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

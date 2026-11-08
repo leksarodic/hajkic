@@ -1,0 +1,127 @@
+{
+    "schema_version": 1,
+    "slug": "rudnicke-staze",
+    "name": "Rudničke staze",
+    "code": "T-2-6",
+    "category": {
+        "key": "planinarske-transverzale",
+        "label": "Planinarske transverzale"
+    },
+    "pss": {
+        "post_id": 8093,
+        "category_id": 30,
+        "region_ids": [
+            2
+        ],
+        "mountain_ids": [
+            49
+        ]
+    },
+    "region": "Šumadija",
+    "mountain": "Rudnik",
+    "difficulty": {
+        "key": "nepoznato",
+        "label": "Nije navedeno",
+        "source": null
+    },
+    "distance": {
+        "official_km": 72.0,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": 777.0,
+        "official_loss_m": 835.0,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": null,
+    "end": null,
+    "description": null,
+    "landmarks": "• manastiri: Vraćevšnica, Blagoveštenje, Voljavča\n\n • arheološko nalazište Misa\n\n • vulkanski vrh Ostrvica",
+    "maintenance": null,
+    "marking": "propisana planinarska",
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": null,
+    "club": null,
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": false,
+        "status": "missing",
+        "source_url": null,
+        "fetched_at": null,
+        "checked_at": "2026-11-08T13:01:56Z",
+        "bytes": null,
+        "sha256": null,
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": null,
+        "tracks": null,
+        "segments": null,
+        "waypoints": null,
+        "error": null,
+        "download": {
+            "mode": "none",
+            "url": null
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "minimal",
+        "issues": [
+            "missing_difficulty",
+            "missing_description",
+            "missing_gpx"
+        ]
+    },
+    "additional": {
+        "Planine/predeli": "Rudnik",
+        "Status": "aktivna",
+        "Datum poslednje verifikacije": "2010",
+        "Društvo": "PTT POSK",
+        "Vreme obilaska (dana)": "3",
+        "Godina otvaranja": "2002",
+        "Kontakt": "https://pss.rs/terenipp/rudnicke-staze/",
+        "Vrsta": "linijska",
+        "Broj kontrolnih tačaka": "9",
+        "Opis puta": "Start transverzale je u selu Zagrađe na Ibarskoj magistrali, a zatim ide prema Ostrvici, Misi, Mali Šturac, Veliki Šturac (Cvijićev vrh) i završava kod manastira Vraćevšnica.",
+        "Dnevnik": "Ima Dnevnik transverzale, Pravilnik i knjigu obilaznika",
+        "Priznanja": "Značka"
+    },
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/rudnicke-staze/",
+        "canonical_url": "https://pss.rs/terenipp/rudnicke-staze/",
+        "pss_id": 8093,
+        "updated_at": "2019-01-09T20:00:00Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
+    },
+    "search": "rudnicke staze t-2-6 sumadija rudnik • manastiri: vracevsnica, blagovestenje, voljavca • arheolosko nalaziste misa • vulkanski vrh ostrvica nije navedeno",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T13:01:56Z"
+    }
+}

@@ -80,7 +80,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T12:03:46Z",
+        "checked_at": "2026-11-08T13:01:57Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -120,14 +120,14 @@
         "pss_id": 23150,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:03:46Z",
-        "last_synced_at": "2026-11-08T12:03:46Z"
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
     },
     "search": "meandri timoka 4-54-1 istocna srbija dolina timoka hidroelektrana \"sokolovica\" - 100 m.n.v. vidikovac \"kravul cetec\" (vidikovac \"timok\") - 297 m.n.v. ljuba nesic psd hidroelektrana \"sokolovica\" i vidikovac \"kravul cetec\" (vidikovac \"timok\") laka pesacka staza vodi od he „sokolovica“, preko same brane. mala hidroelektrana „sokolovica” se nalazi na 25 km nizvodno od zajecara i prva je hidroelektrana izgradjena posle drugog svetskog rata. he „sokolovica” je jedna od retkih u srbiji koja ima takozvanu „riblju stazu”, odnosno, mogucnost nesmetanog prolaska ribe sa obe strane brane, sto znacajno pomaze ocuvanju ribljeg fonda. odatle staza skrece uzbrdo, kroz sumicu, do vidikovca iznad brane. pogled sa vidikovca je prelep – na meandre timoka koji neverovatno i po obliku i po boji podsecaju na cuvene meandre uvca. povratak je istom stazom.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:03:46Z"
+        "generated_at": "2026-11-08T13:01:57Z"
     }
 }

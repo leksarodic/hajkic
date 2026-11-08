@@ -79,12 +79,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/05/E4-13-Jalovik-Gradina.gpx",
-        "fetched_at": "2026-11-08T12:50:44Z",
-        "checked_at": "2026-11-08T12:50:44Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 395422,
         "sha256": "dbc96a2d51a2890b23a62dbea9f171c7ea4c03647d60c0cfac980415b6fc4d89",
         "etag": null,
-        "last_modified": "Thu, 05 Dec 2024 23:07:33 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": false,
         "points": 5474,
@@ -774,14 +774,14 @@
         "pss_id": 3685,
         "updated_at": "2024-12-05T23:07:54Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:50:44Z",
-        "last_synced_at": "2026-11-08T12:50:44Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "jalovik - gradina e4-13 istocna srbija stara planina babin zub pd babin zub, klisura reke temske, meandri reke visocice, jezero zavoj zahtevna • vredan je napora ovaj uspon na visoke grebene stare planine koja je proglasena za park prirode zbog brojnih prirodnih fenomena, geoloskih retkosti, raznovrsne flore i faune i vrednog etno nasledja. stenoviti vrh od pescarskih stena nazvan babin zub (1757 mnv) je spomenik prirode. ovde je danas poznati skijaski centar. najvisi vrh stare planine zove se midzor (2168 mnv). uspon na vrh od babinog zuba nije mnogo tezak ali zahteva upornost. • put e4 od babinog zuba silazi u dolinu reke temske u selo topli do sa zanimljivim narodnim graditeljstvom. odavde se nastavljaju vredne prirodne, geomorfoloske i geoloske vrednosti. klisura reke temske usecena je u pescarske sedimente crvene boje iz perioda perma (paleozoik). u neposrednoj blizini je stari manastir temska. • u jezgru planine smesteni su meandri reke visocice useceni u krecnjackim stenama. na ovoj reci podignuto je vestacko jezero zavoj i turisticko naselje. • put prolazi kroz brojna sela koje stanovnistvo polako napusta. ovde se negovala tradicija pripreme kvalitetnog sira poznatog kao „pirotski kackavalj”. centar proizvodnje bio je u selu dojkinci, u srcu planine. na staroj planini je registrovano 1190 biljnih vrsta, 116 vrsta leptira, 18 vrsta vodozemaca, 203 vrste ptica i preko 30 vrsta sisara. • od prirodnih fenomena posebno je zanimljiv kanjon rosomacke reke zvani „zdrelo” kod sela rosomac koji je izdubljen u tankoslojevitim raznobojnim stenama. • dalje put e4 prelazi preko planinskog prevoja vidlic i silazi na veliku zaravan odorovackog polja. prirodni fenomeni poniranja reke stvorili su zanimljiv sistem pecina izmedju sela petrlas i odorovci. kroz polje potpuno pravolinijski u duzini od vise kilometara uocava se trasa antickog puta via militaris. u selu smilovci nalazi se stara crkva sa freskom isusa k",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:50:44Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

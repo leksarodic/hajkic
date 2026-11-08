@@ -79,12 +79,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2023/05/Debela-gora.gpx",
-        "fetched_at": "2026-11-08T12:03:23Z",
-        "checked_at": "2026-11-08T12:03:23Z",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
         "bytes": 38346,
         "sha256": "b2f74ac50592496cc458fca67cfe987b8678ec25388b1e3c13d18e399a53b72a",
         "etag": null,
-        "last_modified": "Fri, 15 Dec 2023 09:07:32 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 433,
@@ -180,14 +180,14 @@
         "pss_id": 19521,
         "updated_at": "2023-12-15T09:08:05Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:03:24Z",
-        "last_synced_at": "2026-11-08T12:03:24Z"
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
     },
     "search": "debela gora 5-15-1 jugozapadna srbija debela gora ovcar banja, bivsi auto kamp - 278 m ovcar banja, bivsi auto kamp - 278 m kablar pd laka staza je kruzna, krece od auto kampa ka visecem mostu i dalje ravno kroz mali sumarak do pocetka uspona gede ulazi u sumu. staza je sve vreme u sumi, pretezno bukovoj do vrha branojevac 791m, uz konstantan uspon. pri spustu se nakon 500m izlazi na makadamski put, pa potom kroz zaseok planinci se spusta ka banjskom potoku i ovcar banji.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:03:24Z"
+        "generated_at": "2026-11-08T13:01:57Z"
     }
 }

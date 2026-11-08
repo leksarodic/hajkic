@@ -1,0 +1,590 @@
+{
+    "schema_version": 1,
+    "slug": "e7-20",
+    "name": "Devijacija: Lebane - Sveti Ilija",
+    "code": "E7-20",
+    "category": {
+        "key": "evropski-pesacki-putevi-u-srbiji",
+        "label": "Evropski pešački putevi u Srbiji"
+    },
+    "pss": {
+        "post_id": 3880,
+        "category_id": 29,
+        "region_ids": [
+            7
+        ],
+        "mountain_ids": [
+            69
+        ]
+    },
+    "region": "Jugoistočna Srbija",
+    "mountain": "Kukavica",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevan"
+    },
+    "distance": {
+        "official_km": 98.4,
+        "calculated_km": 98.74
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": 403.0,
+        "official_loss_m": 403.0,
+        "calculated_gain_m": 590.8,
+        "calculated_loss_m": 274.1,
+        "min_m": 598.8,
+        "max_m": 1144.6
+    },
+    "start": null,
+    "end": null,
+    "description": "• Od Lebana alternativni pravac puta E7 nastavlja prema varošici\nVučje ispod planine Kukavice gde je u kanjonu reke Vučjanke 1902. godine\nizgrađena električna centrala. Centrala i danas radi i predstavlja\nzanimljiv muzej. U blizini, u selu Strojkovce, na putu za grad Leskovac,\npoznat po nekada razvijenoj tekstilnoj industriji otvoren je Muzej\ntekstilne industrije.\n\n • Iz Vučja put E7 prolazi kroz deo kanjona i penje se na greben šumovite\nplanine Kukavice (1442m), a zatim nižim grebenima, pored markantnih\nplaninskih kupa Grota i Oblika, silazi u grad Vranje.\n\n • Na ulazu u grad nalaze se ruševine srednjovekovne tvrđave Markovo\nkale. Vranje se prvi put pominje 1093. godine u vizantijskim spisima.\nDanas je grad Vranje značajan regionalni privredni i kulturni centar.\n\n • U gradu se nalazi vredni kulturnoistorijski objekti, Saborna crkva,\nGradski muzej, kompleks zgrada Pašinih konaka iz vremena turske\ndominacije, staro tursko kupatilo „amam” iz 17. veka. U kulturnom\nnasleđu Vranja, književnosti, muzici i igri prisutni su snažni\nuticaji južnog temperamenta, Turske Makedonije i Grčke. U blizini\nVranja nalazi se Vranjska banja na termalnim izvorima temperature\nviše od 90°S što je zanimljiv geotermalni fenomen u ovom kraju. Iz\nVranja, prelazeći koridor autoputa Beograd-Solun, put E7 penje se\nograncima planine Besne Kobile i kod sela Sveti Ilija spaja se sa\nglavnim pravcem puta E7 koji nastavlja prema manastiru Sveti Prohor\nPčinjski i granici sa Severnom Makedonijom.",
+    "landmarks": "Vučje (električna centrala iz 1902. god), selo Stojkovac (Muzej tekstilne industrije), grad Vranje, Vranjska banja, manastir Sv. Prohor",
+    "maintenance": null,
+    "marking": "evropska crveno-žuta",
+    "accommodation": "Lebane, Vučje, Vranje, manastir Sveti Prohor",
+    "notes": "• E7-20-1 Lebane – Vučje 22,2 km\n\n • E7-20-2 Vučje – Kukavica 17,7 km\n\n • E7-20-3 Kukavica – Beliševo 16,4 km\n\n • E7-20-4 Beliševo – Vranje 17,1 km\n\n • E7-20-5 Vranje – Sveti Ilija 25,0 km",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Kukavica PSK",
+        "url": "https://pss.rs/adresar_klubova/kukavica-psk/",
+        "contact": "Deligradska 5, 16000 Leskovac\n+381652824655",
+        "clubs": [
+            {
+                "name": "Kukavica PSK",
+                "url": "https://pss.rs/adresar_klubova/kukavica-psk/",
+                "contact": "Deligradska 5, 16000 Leskovac\n+381652824655"
+            },
+            {
+                "name": "Železničar 2006 PK Vranje",
+                "url": "https://pss.rs/adresar_klubova/zeleznicar-2006-pk/",
+                "contact": "Kralja Stefana Prvovenčanog bb, 17500 Vranje\n+38164 836 7865\nhttp://www.spidzelznicar.com"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/E7-20-Lebane-Sveti-Ilija.gpx",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
+        "bytes": 366726,
+        "sha256": "f383759a16cee82c38f84e40654582067e11a7b5f3e36a2a171e69e575b3c561",
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": 5069,
+        "tracks": 5,
+        "segments": 5,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/E7-20-Lebane-Sveti-Ilija.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/e7-20.geojson",
+        "bbox": [
+            21.739573109,
+            42.474859903,
+            22.05207,
+            42.918580578
+        ],
+        "center": [
+            21.895822,
+            42.69672
+        ],
+        "start_point": [
+            21.739573109,
+            42.918580578
+        ],
+        "end_point": [
+            22.044710315,
+            42.474859903
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.73957,
+                    42.91858
+                ],
+                [
+                    21.74186,
+                    42.91293
+                ],
+                [
+                    21.75455,
+                    42.90603
+                ],
+                [
+                    21.76018,
+                    42.8921
+                ],
+                [
+                    21.76309,
+                    42.89238
+                ],
+                [
+                    21.7669,
+                    42.89693
+                ],
+                [
+                    21.77121,
+                    42.89148
+                ],
+                [
+                    21.78233,
+                    42.89289
+                ],
+                [
+                    21.78901,
+                    42.8904
+                ],
+                [
+                    21.79041,
+                    42.87822
+                ],
+                [
+                    21.79689,
+                    42.87983
+                ],
+                [
+                    21.80322,
+                    42.87711
+                ],
+                [
+                    21.80217,
+                    42.87381
+                ],
+                [
+                    21.80522,
+                    42.87046
+                ],
+                [
+                    21.80152,
+                    42.86496
+                ],
+                [
+                    21.81063,
+                    42.86559
+                ],
+                [
+                    21.81315,
+                    42.86282
+                ],
+                [
+                    21.82206,
+                    42.85961
+                ],
+                [
+                    21.8393,
+                    42.86055
+                ],
+                [
+                    21.85229,
+                    42.85206
+                ],
+                [
+                    21.85294,
+                    42.84826
+                ],
+                [
+                    21.86226,
+                    42.84885
+                ],
+                [
+                    21.8776,
+                    42.85643
+                ],
+                [
+                    21.91101,
+                    42.86483
+                ]
+            ],
+            [
+                [
+                    21.91101,
+                    42.86483
+                ],
+                [
+                    21.91109,
+                    42.85728
+                ],
+                [
+                    21.9165,
+                    42.85606
+                ],
+                [
+                    21.91897,
+                    42.85122
+                ],
+                [
+                    21.91475,
+                    42.84696
+                ],
+                [
+                    21.92017,
+                    42.84478
+                ],
+                [
+                    21.9197,
+                    42.83939
+                ],
+                [
+                    21.92457,
+                    42.83683
+                ],
+                [
+                    21.91882,
+                    42.83554
+                ],
+                [
+                    21.9203,
+                    42.83254
+                ],
+                [
+                    21.92262,
+                    42.83308
+                ],
+                [
+                    21.92314,
+                    42.82772
+                ],
+                [
+                    21.92528,
+                    42.82838
+                ],
+                [
+                    21.94429,
+                    42.81985
+                ],
+                [
+                    21.94267,
+                    42.81601
+                ],
+                [
+                    21.94515,
+                    42.81624
+                ],
+                [
+                    21.94349,
+                    42.80981
+                ],
+                [
+                    21.94533,
+                    42.80462
+                ],
+                [
+                    21.94278,
+                    42.80334
+                ],
+                [
+                    21.94263,
+                    42.79921
+                ],
+                [
+                    21.94726,
+                    42.79742
+                ],
+                [
+                    21.95039,
+                    42.79844
+                ],
+                [
+                    21.95824,
+                    42.79295
+                ],
+                [
+                    21.9517,
+                    42.78487
+                ],
+                [
+                    21.95655,
+                    42.78221
+                ],
+                [
+                    21.95237,
+                    42.78024
+                ],
+                [
+                    21.95906,
+                    42.77107
+                ]
+            ],
+            [
+                [
+                    21.95906,
+                    42.77107
+                ],
+                [
+                    21.95511,
+                    42.76149
+                ],
+                [
+                    21.94197,
+                    42.7578
+                ],
+                [
+                    21.93721,
+                    42.7532
+                ],
+                [
+                    21.93179,
+                    42.75599
+                ],
+                [
+                    21.92479,
+                    42.7478
+                ],
+                [
+                    21.91478,
+                    42.746
+                ],
+                [
+                    21.91634,
+                    42.73406
+                ],
+                [
+                    21.91435,
+                    42.71916
+                ],
+                [
+                    21.91571,
+                    42.71663
+                ],
+                [
+                    21.92203,
+                    42.71517
+                ],
+                [
+                    21.92485,
+                    42.70807
+                ],
+                [
+                    21.92357,
+                    42.70378
+                ],
+                [
+                    21.91312,
+                    42.69746
+                ],
+                [
+                    21.9162,
+                    42.69441
+                ],
+                [
+                    21.9188,
+                    42.68225
+                ],
+                [
+                    21.92727,
+                    42.67182
+                ],
+                [
+                    21.92487,
+                    42.66749
+                ]
+            ],
+            [
+                [
+                    21.92487,
+                    42.66749
+                ],
+                [
+                    21.9212,
+                    42.66449
+                ],
+                [
+                    21.92059,
+                    42.65747
+                ],
+                [
+                    21.92315,
+                    42.65486
+                ],
+                [
+                    21.92348,
+                    42.6482
+                ],
+                [
+                    21.92747,
+                    42.64527
+                ],
+                [
+                    21.92897,
+                    42.63964
+                ],
+                [
+                    21.93252,
+                    42.63849
+                ],
+                [
+                    21.93212,
+                    42.63648
+                ],
+                [
+                    21.92214,
+                    42.6204
+                ],
+                [
+                    21.91494,
+                    42.62222
+                ],
+                [
+                    21.90931,
+                    42.62022
+                ],
+                [
+                    21.90824,
+                    42.61525
+                ],
+                [
+                    21.89476,
+                    42.6073
+                ],
+                [
+                    21.89384,
+                    42.6004
+                ],
+                [
+                    21.8874,
+                    42.58923
+                ],
+                [
+                    21.88978,
+                    42.57468
+                ],
+                [
+                    21.90125,
+                    42.56039
+                ],
+                [
+                    21.89514,
+                    42.55519
+                ],
+                [
+                    21.8984,
+                    42.55203
+                ]
+            ],
+            [
+                [
+                    21.89839,
+                    42.55201
+                ],
+                [
+                    21.91035,
+                    42.52223
+                ],
+                [
+                    21.91837,
+                    42.51297
+                ],
+                [
+                    21.92431,
+                    42.51721
+                ],
+                [
+                    21.95133,
+                    42.51048
+                ],
+                [
+                    21.98869,
+                    42.52606
+                ],
+                [
+                    21.99429,
+                    42.53147
+                ],
+                [
+                    22.00191,
+                    42.5324
+                ],
+                [
+                    22.00879,
+                    42.53001
+                ],
+                [
+                    22.01851,
+                    42.53056
+                ],
+                [
+                    22.01764,
+                    42.52651
+                ],
+                [
+                    22.01379,
+                    42.5236
+                ],
+                [
+                    22.02012,
+                    42.51923
+                ],
+                [
+                    22.02098,
+                    42.51488
+                ],
+                [
+                    22.0135,
+                    42.51527
+                ],
+                [
+                    22.03993,
+                    42.50086
+                ],
+                [
+                    22.05045,
+                    42.48942
+                ],
+                [
+                    22.05014,
+                    42.48243
+                ],
+                [
+                    22.05207,
+                    42.48104
+                ],
+                [
+                    22.04471,
+                    42.47486
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": [
+            "missing_elevation"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/e7-20/",
+        "canonical_url": "https://pss.rs/terenipp/e7-20/",
+        "pss_id": 3880,
+        "updated_at": "2024-12-07T21:36:19Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
+    },
+    "search": "devijacija: lebane - sveti ilija e7-20 jugoistocna srbija kukavica kukavica psk vucje (elektricna centrala iz 1902. god), selo stojkovac (muzej tekstilne industrije), grad vranje, vranjska banja, manastir sv. prohor zahtevna • od lebana alternativni pravac puta e7 nastavlja prema varosici vucje ispod planine kukavice gde je u kanjonu reke vucjanke 1902. godine izgradjena elektricna centrala. centrala i danas radi i predstavlja zanimljiv muzej. u blizini, u selu strojkovce, na putu za grad leskovac, poznat po nekada razvijenoj tekstilnoj industriji otvoren je muzej tekstilne industrije. • iz vucja put e7 prolazi kroz deo kanjona i penje se na greben sumovite planine kukavice (1442m), a zatim nizim grebenima, pored markantnih planinskih kupa grota i oblika, silazi u grad vranje. • na ulazu u grad nalaze se rusevine srednjovekovne tvrdjave markovo kale. vranje se prvi put pominje 1093. godine u vizantijskim spisima. danas je grad vranje znacajan regionalni privredni i kulturni centar. • u gradu se nalazi vredni kulturnoistorijski objekti, saborna crkva, gradski muzej, kompleks zgrada pasinih konaka iz vremena turske dominacije, staro tursko kupatilo „amam” iz 17. veka. u kulturnom nasledju vranja, knjizevnosti, muzici i igri prisutni su snazni uticaji juznog temperamenta, turske makedonije i grcke. u blizini vranja nalazi se vranjska banja na termalnim izvorima temperature vise od 90°s sto je zanimljiv geotermalni fenomen u ovom kraju. iz vranja, prelazeci koridor autoputa beograd-solun, put e7 penje se ograncima planine besne kobile i kod sela sveti ilija spaja se sa glavnim pravcem puta e7 koji nastavlja prema manastiru sveti prohor pcinjski i granici sa severnom makedonijom.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T13:01:56Z"
+    }
+}

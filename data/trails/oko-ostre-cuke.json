@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2019/01/4-31-12-Oko-Ostre-cuke.gpx",
-        "fetched_at": "2026-11-08T11:59:52Z",
-        "checked_at": "2026-11-08T11:59:52Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 67530,
         "sha256": "56b88003941d3ec6694d46a7d0cfba9c1b85a962d49ae54eb604f0752d0006f3",
         "etag": null,
-        "last_modified": "Thu, 24 Jan 2019 11:41:29 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 538,
@@ -226,14 +226,14 @@
         "pss_id": 8218,
         "updated_at": "2019-01-24T11:46:17Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:59:52Z",
-        "last_synced_at": "2026-11-08T11:59:52Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "oko ostre cuke 4-31-12 istocna srbija devica sokobanja, 305m radenkovac, 738m ostra cuka pd • na stazi ima vidikovaca, ukljucujuci i sam vrh • na stazi ima izvora pitke vode: borici, barudzija, kalinovica, sopur, gabar • smestaj u sokobanji zahtevna • staza polazi iz centra sokobanje i preko nekoliko izletista (suma), izlazi do mesta ozrenske livade gde je uspon blazi i staza dalje vodi kroz bukovu sumu do mesta debela oranica odakle se staza penje na krecnjacku visoravan. staza je u vidu \"kozje staze\" do vrha device, capljinca, odakle staza izlazi iz sume postaje sumski put i obara postepeno visinu do radenkovca. tokom uspona do capljinca ima dosta vidikovaca kao nakon silaska sa vrha. na capljincu nema dobrog vidika. • spaja sledece staze/puteve: sokobanja - kalinovica, kalinovica - capljinac - radenkovac, novo selo - krst - radenkovac.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:59:52Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

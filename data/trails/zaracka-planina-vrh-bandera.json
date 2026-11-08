@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2025/03/suuntoapp-Hiking-2025-02-16T08-15-53Z-route.gpx",
-        "fetched_at": "2026-11-08T12:06:18Z",
-        "checked_at": "2026-11-08T12:06:18Z",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
         "bytes": 294070,
         "sha256": "51095c4c5c56d1ce32ec037e35548a4f9a387e746babf400f9c27a0fc31f677a",
         "etag": null,
-        "last_modified": "Sun, 23 Mar 2025 22:33:19 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 4672,
@@ -202,14 +202,14 @@
         "pss_id": 26126,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:06:18Z",
-        "last_synced_at": "2026-11-08T12:06:18Z"
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
     },
     "search": "zaracka planina - vrh bandera 6-9-1 kopaonicko-toplicka regija zaracka planina zeleznicka stanica usce vrh bandera radocelo pd manastir studenica laka staza pocinje kod zeleznicke stanice usce (347mnv). staza je kruznog tipa, markirana u oba smera. od stanicne zgrade krenuti u pravcu severa i izaci na put, skrenuti desno, pratiti put i markacije. posle 200m pored puta se nalazi periodicni izvor. pratiti sve vreme zemljani put i markacije, nakon 2,3km se stize u selo seoce, staza dalje vodi pored vocnjaka i groblja do velike livade na cijem se kraju sa leve strane nalazi prvi vidikovac na 760mnv. sa vidikovca se pruza pogled na cemerno, selo odmenje i radocelo. na kraju livade skrenuti desno i nastaviti uzbrdo do prvog vrha (seocko brdo 812mnv) sa ovog vrha se od juga prema zapadu pruza vidik na kopaonik, rogoznu, goliju, plavacku planinu, radocelo. na vrhu se nalazi i improvizovani bivak u vidu rova gde se moze skloniti od vetra. sa vrha se staza spusta na raskrsnicu gde se staza racva. desni krak vodi ka zarackoj visoravni a levi pravo na vrh. preporucuje se desni krak zbog vidikovaca. desnim krakom staze nastaviti putem, pa uz potok do izlaska na visoravan, skrenuti levo po izlasku na visoravan. staza vodi paralelno sa zemljanim putem grebenom visoravni u pravcu severoistoka i blago se penje ka vrhu. cela visoravan je jedan veliki vidikovac na okolne planine. na pola puta do vrha nailazi se na manju formaciju stena sa kojih se pruza pogled, gledano ka severu, na goc, ravnu planinu, jastrebar, zeljin, dalje na istok staza vodi ka vrhu, postoji jasna markacija na steni. od vrha krenuti 200m nazad istom rutom, na kamenu postoji strelica koja pokazuje gde se skrece desno. pratiti markacije do velikog hrasta gde se skrece levo. izohipsom se kretati ka dalekovodu pored kog se izlazi na greben na cijem se kraju se skrece levo u sumu. kroz sumu staza vodi nazad na raskrsnicu. pratiti putokaz na raskrsnici koji pokazuje na u",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:06:18Z"
+        "generated_at": "2026-11-08T13:01:57Z"
     }
 }

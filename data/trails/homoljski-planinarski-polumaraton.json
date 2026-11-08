@@ -71,12 +71,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/12/4-4-2-Homoljski-polumaraton.gpx",
-        "fetched_at": "2026-11-08T11:59:11Z",
-        "checked_at": "2026-11-08T11:59:11Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 822057,
         "sha256": "54fd22ff857383f91f0445ef2733a508f1a85fa516c6e518d88b95d726f2b399",
         "etag": null,
-        "last_modified": "Mon, 31 Oct 2022 01:21:51 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 5064,
@@ -216,14 +216,14 @@
         "pss_id": 5632,
         "updated_at": "2022-10-31T01:22:27Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:59:12Z",
-        "last_synced_at": "2026-11-08T11:59:12Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "homoljski planinarski polumaraton 4-4-2 istocna srbija homoljske planine centar sela vitovnica, 230m centar sela vitovnica, 230m vukan pk • srednjovekovni manastir vitovnica • vidikovci: vrh vrata zahtevna • iz centra sela vitovnica, preko puta manastira uspon sumskom stazom, preko vrha sest, spust i uspon vrha dragisonj, spust sumom trest, uspon na vrh vrata - kt6 (815m), spust do prevoja i uspon i prelazak grebenom kobilje glave (778m), tezi spust do reke vitovnice i makadamom pored reke do centra sela. • lokalna markacija (plavo-zuta) • na stazi potrebna opreznost !",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:59:12Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

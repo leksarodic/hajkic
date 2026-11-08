@@ -79,12 +79,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2025/03/ARILJE-Dobrilova-staza-.gpx",
-        "fetched_at": "2026-11-08T12:06:16Z",
-        "checked_at": "2026-11-08T12:06:16Z",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
         "bytes": 199681,
         "sha256": "ebc32f7d5ec1ed0877e85ae584edec1e830a16b4627690ba80517ea81711396f",
         "etag": null,
-        "last_modified": "Sat, 22 Mar 2025 23:08:56 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 1847,
@@ -208,14 +208,14 @@
         "pss_id": 26115,
         "updated_at": "2025-03-22T23:29:04Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:06:16Z",
-        "last_synced_at": "2026-11-08T12:06:16Z"
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
     },
     "search": "pesacko-izletnicka staza \"dobrilo nenadic\" 5-66-1 jugozapadna srbija vigoste-pogled biblioteka \"dobrilo nenadic u centru arilja, 335 m biblioteka \"dobrilo nenadic u centru arilja, 335 m suncevica supsd biblioteka \"dobrilo nenadic\" u arilju, izletiste klokoc, kuca knjzevnika dobrila nenadica, vidikovac na klokocu i dr. laka staza je kruzna i krece od biblioteke ,,dobrilo nenadic\", preko puta crkve svetog ahilija iz 12. veka, jedina crkva na svetu u kojoj postoji freska plavog andjela, dalje se ukrsta s evropskim pesackim putem e-7, nastavlja obalom rzava, najcistije reke u srbiji, prolazi pored gradske plaze i plaze uski vir, pored koje skrece levo kroz naselje pogled pored samog usca planinskog, potoka u rzav. prateci uzvodno planinski potok ulazimo u prelepu hrastovu sumu, bogatu florom i faunom, silaskom do potoka oseca se osetna razlika u temperaturi (leti tu dolaze mestani da bi se rashladili u prijatnom ambijentu). prelaskom preko prirodno napravljenog mostica, dolazimo na desnu stranu potoka i ulazimo u naselje vigoste, krecuci se ka rodnoj kuci dobrila nenadica koja je na 600 mnv.,okruzena listopadnom i cetinarskom sumom, gde se oseca pravi mir a cuje se samo cvrkut ptica i zubor potoka. supruga dobila nenadica, gdja petkana, presrecna docekuje planinare s obaveznim posluzenjem i okrepljenjen izvorskom hladnom vodom. nastavlja dalje kroz sumu do makadamskog puta koji levo vodi kracim putem ka arilju, namenjenim deci i pocetnicima, kao i dijabeticarima i licima u postoperativnom oporavku na svezem vazduhu. na toj raskrsnici se pruza prelep pogled na planine javor, mucanj, goliju, malic, kukutnicu a desno se vidi i tornik. skrecemo desno, makadamskim putem ka zelenjaku i selu radobudja, na 1.5 km skrecemo desno ispod vrha pogled, krecemo se sumom prema vrhu cer koji ostaje s desne strane, prolazimo pored potoka i pored zasada raznog domaceg i divljeg voca. na raskrsnici se pruza pogled ka planinama golubac, krstac i dr.., skrecemo levo i kroz sumu dolazimo do lepo uredjenog vidikovca, pored krsta, odakle se vidik pruza ka nebeskoj, dreznickoj gradini, loretu, jelici, ovcaru, kablaru i dr",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:06:16Z"
+        "generated_at": "2026-11-08T13:01:57Z"
     }
 }

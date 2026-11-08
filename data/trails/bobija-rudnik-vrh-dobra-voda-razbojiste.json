@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2019/07/3-8-1-bobija-rudnik-vrh-dobra-voda-razbojiste.gpx",
-        "fetched_at": "2026-11-08T12:00:27Z",
-        "checked_at": "2026-11-08T12:00:27Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 34733,
         "sha256": "c7d784aec52291ece034fc2a90e4c2db3c169fc78e5441bc118b68d679753acc",
         "etag": null,
-        "last_modified": "Tue, 02 Jul 2019 13:58:19 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 179,
@@ -216,14 +216,14 @@
         "pss_id": 9246,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:00:27Z",
-        "last_synced_at": "2026-11-08T12:00:27Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "bobija (rudnik - vrh - dobra voda - razbojiste) 3-8-1 zapadna srbija bobija kovacevac - selo tornik, 739 m dobra voda (na planini bobija), 1169 m avala pd • rudnik barita • racica crkva • vidikovci: 7 • naselja tornik, orovicka planina, savkovic • na trasi ima 4 izvora pitke vode • na trasi 1 planinarski objekt, 1 kamp i 4 privatna smestaja laka",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:00:27Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

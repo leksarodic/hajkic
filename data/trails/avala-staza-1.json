@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2020/10/2-3-2-Avala-staza-1.gpx",
-        "fetched_at": "2026-11-08T12:01:11Z",
-        "checked_at": "2026-11-08T12:01:11Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 125858,
         "sha256": "b9ac7f607d087b71dabe0b323d43417bfa81d6d4c3f9c4dec3bb993ad6ad6f16",
         "etag": null,
-        "last_modified": "Wed, 21 Oct 2020 12:58:48 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 759,
@@ -196,14 +196,14 @@
         "pss_id": 12282,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:01:11Z",
-        "last_synced_at": "2026-11-08T12:01:11Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "avala, staza 1 2-3-2 sumadija avala autobuska stanica \"avala\" u pinosavi, 265 m autobuska stanica \"avala\" u pinosavi, 265 m avala pd • cesma sakinac • drveni spomenik vasi carapicu • spomenik vasi carapicu • planinarski dom \"carapicev brest\" laka",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:01:11Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

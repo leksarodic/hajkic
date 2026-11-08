@@ -71,12 +71,12 @@
         "available": false,
         "status": "invalid",
         "source_url": "https://pss.rs/wp-content/uploads/2017/12/4-4-1-Homoljski-maraton.gpx",
-        "fetched_at": "2026-11-08T11:59:09Z",
-        "checked_at": "2026-11-08T11:59:09Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 89539,
         "sha256": "ea12cb491b666aa79b8a726c6bece4d93018b282d3ff56dce4fecb7498c408de",
         "etag": null,
-        "last_modified": "Sat, 07 Nov 2026 16:41:33 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": false,
         "points": 0,
@@ -113,14 +113,14 @@
         "pss_id": 5623,
         "updated_at": "2017-12-11T10:56:08Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:59:10Z",
-        "last_synced_at": "2026-11-08T11:59:10Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "homoljski planinarski maraton 4-4-1 istocna srbija homoljske planine centar sela vitovnica, 230m centar sela vitovnica, 230m vukan pk • srednjovekovni manastir vitovnica • vidikovci: stene stubeja, veliki vranj, vrata vrlo teska • iz centra sela, pored manastira do ribnjaka, uspon do melnickog kolskog puta, njime do stubeja (940m), silazak kroz vitovnicku sumu, kolskim putem do vranja (884m), uspon stenama, spust sumom do izvora krepoljinske reke, uspon i spust do mijucica pecine, kolskim putem do hajducke pecine, uspon sumom do vrha vrata (815m), spust do prevoja i uspon i prelazak grebenom kobilje glave (778m), tezi spust do reke vitovnice i makadamom pored reke do centra sela. • maraton ima 7 kontrolnih tacaka: kt -1 vrh stubelj 940 m kt- 2 vrh veliki vranj 884 m kt-3 izvor krepoljinske reke kt-4 miucica pecina kt-5 hajducka pecina kt -6 vrh vrata 815 m kt-7 vrh kobilja glava 778 m • staza jednim delom ide homoljskom transverzalom i jednim delom evropskim pesackim putem e4. • markacija lokalna (plavo-zuta) • na stazi je potrebna opreznost !",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:59:10Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

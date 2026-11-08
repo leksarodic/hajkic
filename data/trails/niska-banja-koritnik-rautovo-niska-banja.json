@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2020/11/7-3-12-Niska-banja-Koritnjak-Rautovo.gpx",
-        "fetched_at": "2026-11-08T12:01:27Z",
-        "checked_at": "2026-11-08T12:01:27Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 772837,
         "sha256": "005258c8e15d24ed5ab0f8516e16f5701bf07af06ccd76c17a4e8ed993be8386",
         "etag": null,
-        "last_modified": "Mon, 16 Nov 2020 17:24:31 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 5194,
@@ -210,14 +210,14 @@
         "pss_id": 12419,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:01:27Z",
-        "last_synced_at": "2026-11-08T12:01:27Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "niska banja - koritnik - rautovo - niska banja 7-3-12 jugoistocna srbija suva planina niska banja - kod fontane, 258 m niska banja, 258 m mosor psk • niska banja • vidikovci: koritnik, crni kamen • naselja: koritnik i rautovo • na trasi ima izvora pitke vode: niska banja, koritnik, rautovo • na trasi ima privatnog smestaja zahtevna polazak na stazu je iz centra niske banje (258 m) stazom \"zdravlja\" do sela koritnik. u istoimenom selu postoji cesma gde se moze snabdeti vodom. staza vodi dalje kroz bukovu sumu pored vidikovca crni kamen (808 m), presklana (867 m), locista (839 m) do sela rautovo, i dalje do niske banje asfaltnim putem.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:01:27Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

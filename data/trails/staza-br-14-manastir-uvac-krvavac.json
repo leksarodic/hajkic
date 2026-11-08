@@ -79,12 +79,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2023/03/Staza-14-Man-Uvac-Krvavac-1.gpx",
-        "fetched_at": "2026-11-08T12:02:43Z",
-        "checked_at": "2026-11-08T12:02:43Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 118842,
         "sha256": "b5e3d1632a19eda89a47a12b625f4122fdf33cd18ef69cba1694e658d0e5cfc2",
         "etag": null,
-        "last_modified": "Sat, 11 Mar 2023 20:43:31 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 1085,
@@ -212,14 +212,14 @@
         "pss_id": 18979,
         "updated_at": "2023-03-18T11:14:40Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:02:43Z",
-        "last_synced_at": "2026-11-08T12:02:43Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "staza br. 14: manastir uvac - krvavac 5-12-4 jugozapadna srbija zlatibor kolijevka 1060 m kolijevka 1060 m aleksandar dzavovic pd manastir uvac, planinarski dom \"aleksandar dzavovic\", vrh zakopina (1186 m), vidikovci kolijevka i lekica livade zahtevna kolijevka - zaseok lazarevici (0,5 km) - manastir uvac (4,4 km) - zaseok didanovici (5,2 km) - lekica livade (7,2 km) - planinarski dom \"aleksandar dzavovic\" (8,4 km) - vrh zakopina (8,5 km) - kolijevka (10,3 km)",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:02:43Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

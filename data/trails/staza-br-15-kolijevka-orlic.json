@@ -79,12 +79,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2023/03/Staza-15-Kolijevka-Orlic.gpx",
-        "fetched_at": "2026-11-08T12:02:44Z",
-        "checked_at": "2026-11-08T12:02:44Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 150970,
         "sha256": "d33a6884c80413895b4e0e9c67c9f9e6c0a33192b541c6cc49f8fd24351530b2",
         "etag": null,
-        "last_modified": "Sat, 11 Mar 2023 22:24:57 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 1390,
@@ -184,14 +184,14 @@
         "pss_id": 18980,
         "updated_at": "2023-03-18T11:44:51Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:02:45Z",
-        "last_synced_at": "2026-11-08T12:02:45Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "staza br. 15: kolijevka - orlic 5-12-5 jugozapadna srbija zlatibor kolijevka 1060 m kolijevka 1060 m aleksandar dzavovic pd vrh orlic (1230 m), vrh zakopina (1186 m), planinarski dom \"aleksandar dzavovic\", vodopadi i slapovi na radovom i tomovom potoku vrlo teska kolijevka - kod planinarskog doma (1,4 km) - radov potok (2,3 km) - tomov vodopad (4,0 km) - vrh orlic (6,6 km) -klacina (9,7 km) - kolijevka (10,9 km)",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:02:45Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

@@ -70,7 +70,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T12:50:04Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -111,14 +111,14 @@
         "pss_id": 3598,
         "updated_at": "2017-05-11T07:18:51Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:50:04Z",
-        "last_synced_at": "2026-11-08T12:50:04Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "zica-stolovi-mataruska banja 6-3-1 kopaonicko-toplicka regija stolovi manastir zica mataruska banja zeleznicar psk kraljevo manastir zica, lokalitet lojanik (okamenjena suma) zahtevna",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:50:04Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

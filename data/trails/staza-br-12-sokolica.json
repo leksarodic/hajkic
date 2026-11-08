@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/05/7-9-12-Staza-br.12-Sokolica.gpx",
-        "fetched_at": "2026-11-08T11:55:20Z",
-        "checked_at": "2026-11-08T11:55:20Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 245963,
         "sha256": "382fee2e7b1d5b250be93943d1c695ced9a8bdc7ad788c2af3b5b769c865382a",
         "etag": null,
-        "last_modified": "Wed, 20 Jan 2021 20:23:13 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 1492,
@@ -190,14 +190,14 @@
         "pss_id": 3769,
         "updated_at": "2022-07-24T17:45:08Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:55:21Z",
-        "last_synced_at": "2026-11-08T11:55:21Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "staza br. 12 \"sokolica\" 7-9-12 jugoistocna srbija kukavica mesto vucje, 302 m mesto vucje, 290 m kukavica psk • skobaljic grad • crkva sv. jovana krstitelja zahtevna centar mesta vucje - streliste - arheolosko nalaziste i zidine skobaljic grada - selo zbeziste - hidroelektrana u kanjonu reke vucjanke - vila teokarevic u centru vucja",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:55:21Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

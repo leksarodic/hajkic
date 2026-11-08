@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2021/03/4-45-4-Milusinac-Bogova-vrata.gpx",
-        "fetched_at": "2026-11-08T12:02:02Z",
-        "checked_at": "2026-11-08T12:02:02Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 127811,
         "sha256": "59c2a309097caa1015f9bd23cb696e922ea4df17b87e54377b17ba086e5aacf0",
         "etag": null,
-        "last_modified": "Mon, 13 Dec 2021 13:40:38 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 770,
@@ -158,14 +158,14 @@
         "pss_id": 13417,
         "updated_at": "2021-12-13T13:41:34Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:02:02Z",
-        "last_synced_at": "2026-11-08T12:02:02Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "milusinac - bogova vrata 4-45-4 istocna srbija krstatac selo milusinac, 443 m selo milusinac, 443 m ozren pk • bogova vrata • vidikovac: urdes • na trasi ima izvora pitke vode • naselje: milusinac • smestaj: kamp, odmaraliste, privatni smestaj laka staza je kruzna i polazi od doma u milusincu i ide asfaltnim i posle zemljanim putem do raskrsca. na raskrscu se odvaja levo prema manastiristu. nakon toga staza ide do vidikovca i zatim na kolski put. zatim skrece desno i spaja se sa stazom koja silazi sa krstatca i odvaja se prema bogovim vratima i vodopadu urdeskog potoka. povratak ide niz potok uz nekoliko prelazaka potoka i dolazi se do manastirista, a odatle do raskrsca i zatim do polazne lokacije.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:02:02Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

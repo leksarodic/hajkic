@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2021/12/4-31-15-4-vrha-Device.gpx",
-        "fetched_at": "2026-11-08T12:02:10Z",
-        "checked_at": "2026-11-08T12:02:10Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 70738,
         "sha256": "aadcaba9653c9e9fba3d11a70f37ec50a01ec5ccab479fdae3f53e2fe0516668",
         "etag": null,
-        "last_modified": "Mon, 13 Dec 2021 12:43:56 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 431,
@@ -198,14 +198,14 @@
         "pss_id": 15058,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:02:10Z",
-        "last_synced_at": "2026-11-08T12:02:10Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "4 vrha device 4-31-15 istocna srbija devica izletiste sopur, 843 m izletiste sopur, 843 m ozren pk • izletiste i cesma sopur • vrhovi ostra cuka (1075m), aleksin kamen (1100m), dzambinac (1185m), capljinac (1187m) • vidikovci: vrh ostra cuka, vidikovac pre vrha aleksin kamen, vrh aleksin kamen, vrh capljinac (juzna strana) • studeni kladenac • na trasi ima izvora pitke vode laka staza je kruzna i polazi sa izletista sopur. ide jakim i nasutim kolskim putem uzbrdo, i nakon 1,2 km skrece u desno i zemljanim kolskim putem kroz livade se prvo spusta, a zatim blago penje do skretanja sa kolskog puta. tu se preko livada dolazi do sumovitog dela i ostrijeg uspona kamenitom stazom na ostru cuku. silazak je na juznu stranu, prvo kamenitom stazom, a zatim zemljanom do kolskog puta, gde se skrece u levo. staza se spusta i zalama u levo do kaptaze vode. odatle se penje do skretanja u levo i preko jedne livade sa velikim kamenom u sredini ulazi u sumoviti deo. tu je staza kamenita i ima veci uspon do vidikovca. od vidikovca staza je kamenita i zatim izlazi na livadu gde skrece u desno, a zatim ulazi u sumu. na izlasku iz sume se nastavnja uspon do vrha aleksin kamen. vrh nije izdvojen, vec je samo trigonometrijska tacka. nakon vrha staza naglo skrece u levo i prolazi kroz sumoviti deo, prvo se blago spusta, a zatim penje i prolazi kroz nisko rastinje. staza izlazi na jaci zemljani put, gde skrece u desno. kroz sumoviti deo staza dolazi do odvajanja za vrh dzambinac, koji nije posebno izdvojen i nalazi se u sumi. od mesta odvajanja staza nastavlja kroz sumu i izlazi na jaci kolski put. prati se taj put i nakon sto naglo skrene u levo, staza se odvaja od njega i skrece u desno nanize kroz cetinarsku sumu. zatim blago skrece u desno i kroz bukovu sumu izlazi na deo sa nizim rastinjem, a zatim na zaravan, gde kroz sumu skrece u desno i vrlo brzo dolazi do capljinca (1187m), najviseg vrha planine device. vrh je otvoren prema jugu sa dobrim pogledom. staza vodi kroz kameniti deo prema jugu i vrlo brzo se spaja sa kolskim putem, koji vodi prema zapadu. zatim staza izlazi na kameniti put po obodu i pocinje da se spusta. deonica je bez rastinja. nakon toga ulazi u s",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:02:10Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

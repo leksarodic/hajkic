@@ -71,12 +71,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/12/4-48-2-Mali-i-Veliki-Vukan.gpx",
-        "fetched_at": "2026-11-08T11:59:13Z",
-        "checked_at": "2026-11-08T11:59:13Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 221969,
         "sha256": "0149fca0344538f51ea7d524b1594b51f3bd7c612e5dfbfb5dad28dc1f9f2dd2",
         "etag": null,
-        "last_modified": "Mon, 31 Oct 2022 01:21:58 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 1353,
@@ -196,14 +196,14 @@
         "pss_id": 5642,
         "updated_at": "2022-10-31T01:24:51Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:59:14Z",
-        "last_synced_at": "2026-11-08T11:59:14Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "mali i veliki vukan od doma zdrelo 4-48-2 istocna srbija vukan dom zdrelo, 215m dom zdrelo, 215m vukan pk • manastir sv. trojice • vidikovci na vrhovima velikog i malog vukana zahtevna od doma livadom, kroz borovu sumu, sumskim putem do grebena, lovackom stazom do vrha veliki vukan (825m), sa vrha spust kamenjarom do sedla, uspon kamenjarom do vidikovca ispod vrha mali vukan (752m). povratak istom stazom do sedla, spust sumom do manastira sv. trojice. putem do potoka, pasnjacima do doma.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:59:14Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

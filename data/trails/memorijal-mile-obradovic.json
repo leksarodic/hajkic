@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2019/11/3-22-1-Podbukovi-Golubac.gpx",
-        "fetched_at": "2026-11-08T12:00:36Z",
-        "checked_at": "2026-11-08T12:00:36Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 204687,
         "sha256": "63d98a43e014919eb573d36546f387f06bd944044396a3a4688b40b4dca6d9b5",
         "etag": null,
-        "last_modified": "Mon, 11 Nov 2019 13:45:31 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 1219,
@@ -194,14 +194,14 @@
         "pss_id": 10444,
         "updated_at": "2022-03-16T14:44:28Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:00:36Z",
-        "last_synced_at": "2026-11-08T12:00:36Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "memorijal \"mile obradovic\" 3-22-1 zapadna srbija maljen mesto podbukovi, 512 m mesto podbukovi, 512 m magles psd • naselje divcibare • okno starog rudnika magnezita • park prirode \"crna reka\" zahtevna staza je kruznog tipa i pocinje u mestu podbukovi, tacnije na uscu crne reke u bukovsku reku kod domacinstva porodice obradovic, na nadmorskoj visini od 512 mnv. dobar deo staze vodi uz bukovsku reku makadamskim (sumskim putem). prilikom izlaska prema beogradskom vikend naselju staza vodi kroz sumu uz solidan uspon, gde izlazi na kruznu stazu koja povezuje vrhove maljena oko naseljenog mesta divcibare. zatim prati kruznu stazu makadamsko-zemljanim putem do obliznjeg vrha – golubac (1056 mnv). sa vrha golubac uz blagi spust staza vodi preko livade, pa makadamsko-zemljanim putem do vrha mali golubac (995 mnv). a potom uglavno sumskom stazom kroz cetinarsku sumu pored nekoliko vidikovaca, pa preko sedla i crvenog brega (852 mnv) do polazne tacke 512 mnv. na startu-cilju staze postoji domacinstvo obradovic koji se bave seoskim turizmom gde je moguc smestaj i ishrana. takodje je moguc smestaj u planinarskom domu ptt–beograd, u neposrednoj blizini staze kod naselja divcibare kao i u samom naselju. pored staze je i staro okno rudnika magnezita u koje je moguce uci uz osvetljenje lampama. neposredna blizina zasticenog prirodnog rezervata crna reka doprinosi jos vise lepoti i carima ove staze.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:00:36Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

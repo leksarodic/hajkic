@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2019/07/3-7-1-tri-manastira-prva-etapa-ljubovija-soko-grad.gpx",
-        "fetched_at": "2026-11-08T12:00:25Z",
-        "checked_at": "2026-11-08T12:00:25Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 29985,
         "sha256": "38b7e8a79a5b6c6652a6e7d36c1bd1693eeb81968bb2fa44a7457cbee6b0bf06",
         "etag": null,
-        "last_modified": "Tue, 02 Jul 2019 13:40:44 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 156,
@@ -206,14 +206,14 @@
         "pss_id": 9241,
         "updated_at": "2019-07-02T13:43:24Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:00:26Z",
-        "last_synced_at": "2026-11-08T12:00:26Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "tri manastira, prva etapa: ljubovija - soko grad 3-7-1 zapadna srbija sokolska planina ljubovija, 178 m soko grad - manastir svetog nikolaja, 542 m avala pd • manastir svete trojice citluk • manastir svetog nikolaja • tvrdjava soko grad • vidikovci: 6 • naselja citluk, sokolac • na trasi ima 8 izvora pitke vode • na trasi 3 planinarska objekta, 1 kamp i 10 privatnih smestaja laka vrlo atraktivna etapa evropskog puta e7 kroz zapadnu srbiju. prvi deo od ljubovije do sokolske planine. dobra mounti bajking staza.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:00:26Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

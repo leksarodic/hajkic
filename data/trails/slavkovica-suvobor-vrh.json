@@ -69,8 +69,8 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/05/3-20-1-Slavkovica-Suvobor-vrh.gpx",
-        "fetched_at": "2026-11-08T12:50:00Z",
-        "checked_at": "2026-11-08T12:50:00Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 67596,
         "sha256": "b27a24aa1e15895c65f4c83af352114556bfbcbeedb6ef8cba58fe26c097fe38",
         "etag": null,
@@ -198,14 +198,14 @@
         "pss_id": 3591,
         "updated_at": "2021-07-03T11:35:23Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:50:01Z",
-        "last_synced_at": "2026-11-08T12:50:01Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "slavkovica - suvobor (vrh) 3-20-1 zapadna srbija suvobor s. slavkovica (crkva), 240 m suvobor (vrh). 866 m pobeda psk • vodopad crkvine • spomenik \"1300 kaplara\" • suvoborski rajac • spomenik borcima suvoborsko-kolubarske bitke srednje teska staza krece od crkve u selu slavkovica i penje se asvaltnim putem u pravcu juga do planinarskog doma na rajcu i nastavlja dalje do kafane ”lovacka prica” gde skrece na zapad i nakon 400 m prelazi u makadamski put koji sa severne strane obilazi vrh rajac (848 mnv). put dalje nastavlja ka planinarskoj kuci dobra voda, a zatim se pravcem jug staza lagano penje pored vrha siljak na vrh suvobora",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:50:01Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

@@ -1,0 +1,126 @@
+{
+    "schema_version": 1,
+    "slug": "josif-pancic-kopaonik",
+    "name": "Josif Pančić Kopaonik",
+    "code": "T-6-1",
+    "category": {
+        "key": "planinarske-transverzale",
+        "label": "Planinarske transverzale"
+    },
+    "pss": {
+        "post_id": 8030,
+        "category_id": 30,
+        "region_ids": [
+            6
+        ],
+        "mountain_ids": [
+            76
+        ]
+    },
+    "region": "Kopaoničko-Toplička regija",
+    "mountain": "Kopaonik",
+    "difficulty": {
+        "key": "nepoznato",
+        "label": "Nije navedeno",
+        "source": null
+    },
+    "distance": {
+        "official_km": 45.0,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": 1207.0,
+        "official_loss_m": 1207.0,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": null,
+    "end": null,
+    "description": null,
+    "landmarks": "• Mauzolej Josif Pančić (na Pančićevom vrhu)\n\n • Izletište Kadijevac\n\n • Gejzir",
+    "maintenance": null,
+    "marking": "propisana planinarska",
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": "Planinarsko-turistička karta Kopaonika 1:40000",
+    "club": null,
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": false,
+        "status": "missing",
+        "source_url": null,
+        "fetched_at": null,
+        "checked_at": "2026-11-08T13:01:56Z",
+        "bytes": null,
+        "sha256": null,
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": null,
+        "tracks": null,
+        "segments": null,
+        "waypoints": null,
+        "error": null,
+        "download": {
+            "mode": "none",
+            "url": null
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "minimal",
+        "issues": [
+            "missing_difficulty",
+            "missing_description",
+            "missing_gpx"
+        ]
+    },
+    "additional": {
+        "Planine/predeli": "Kopaonik",
+        "Status": "aktivna",
+        "Datum poslednje verifikacije": "2010",
+        "Društvo": "Kopaonik PSD",
+        "Vreme obilaska (dana)": "2 (17 sati)",
+        "Godina otvaranja": "1999",
+        "Kontakt": "https://pss.rs/terenipp/josif-pancic-kopaonik/",
+        "Vrsta": "kružna",
+        "Broj kontrolnih tačaka": "10",
+        "Dnevnik": "Ima Dnevnik",
+        "Priznanja": "Značka"
+    },
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/josif-pancic-kopaonik/",
+        "canonical_url": "https://pss.rs/terenipp/josif-pancic-kopaonik/",
+        "pss_id": 8030,
+        "updated_at": "2019-01-09T19:54:20Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
+    },
+    "search": "josif pancic kopaonik t-6-1 kopaonicko-toplicka regija kopaonik • mauzolej josif pancic (na pancicevom vrhu) • izletiste kadijevac • gejzir nije navedeno",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T13:01:56Z"
+    }
+}

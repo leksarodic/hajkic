@@ -79,12 +79,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2023/03/Staza-19-Ribnica-Liska.gpx",
-        "fetched_at": "2026-11-08T12:03:11Z",
-        "checked_at": "2026-11-08T12:03:11Z",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
         "bytes": 172663,
         "sha256": "ae1fd630b69093786b84b39c2c07f326b33330ecb5699dc02562efd12a1d74a3",
         "etag": null,
-        "last_modified": "Fri, 31 Mar 2023 20:11:16 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 1588,
@@ -216,14 +216,14 @@
         "pss_id": 19323,
         "updated_at": "2023-09-08T20:19:03Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:03:11Z",
-        "last_synced_at": "2026-11-08T12:03:11Z"
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
     },
     "search": "staza br. 19: ribnica – liska 5-12-21 jugozapadna srbija zlatibor djurovica groblje na putu ribnica – jablanica (raskrsnica za stublo i tornik) - 1190 m djurovica groblje na putu ribnica – jablanica (raskrsnica za stublo i tornik) - 1190 m tornik pk vrh liska, rudnik magnezita liska, stoletni borovi kod djurovica groblja. laka djurovica groblje - vrh liska (1,4 km) - vrh jelicic (3,6 km) - masnica (7,1 km) - bakici (11,0 km) - djurovica groblje (14,9 km)",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:03:11Z"
+        "generated_at": "2026-11-08T13:01:57Z"
     }
 }

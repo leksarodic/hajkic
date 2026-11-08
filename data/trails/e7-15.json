@@ -1,0 +1,493 @@
+{
+    "schema_version": 1,
+    "slug": "e7-15",
+    "name": "Kriva Reka - Žuč",
+    "code": "E7-15",
+    "category": {
+        "key": "evropski-pesacki-putevi-u-srbiji",
+        "label": "Evropski pešački putevi u Srbiji"
+    },
+    "pss": {
+        "post_id": 3865,
+        "category_id": 29,
+        "region_ids": [
+            6
+        ],
+        "mountain_ids": [
+            76
+        ]
+    },
+    "region": "Kopaoničko-Toplička regija",
+    "mountain": "Kopaonik",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevan"
+    },
+    "distance": {
+        "official_km": 68.0,
+        "calculated_km": 67.76
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": 2200.0,
+        "official_loss_m": 2450.0,
+        "calculated_gain_m": 0.0,
+        "calculated_loss_m": 0.0,
+        "min_m": 0.0,
+        "max_m": 0.0
+    },
+    "start": null,
+    "end": null,
+    "description": "• Od Krive Reke put E7 penje se na glavni greben planine Kopaonik\n(2017m), na teritoriji istoimenog nacionalno parka. Put vijuga\niznad velikog turističkog centra sa više hiljada ležajeva i preko 30\nžičara. Kopaonik je kroz istoriju bio poznat kao rudarska planina\njoš od starog i srednjeg veka. Tragovi rudarenja, pored toponima,\nvidljivi su i na samom terenu. Put E7 prelazi visinu od 1900 m, a na\nnajvišem vrhu sahranjen je prvi predsednik Srpske akademije nauka,\nbotaničar Josif Pančić. Ispod vrha, sa istočne strane, put prolazi\npored ostataka ranovizantijske bazilike iz 5. veka koja se nalazila na\nstarom istorijskom rudarskom putu iz tog vremena.\n\n • Odavde put silazi istočnim padinama Kopaonika kroz selo Blaževo,\na zatim se, kroz sela Štava i Mrče stiže u Lukovsku banju. Ovaj topli\nizvor je jedan od brojnih koji okružuju kopaonički planinski masiv.\n\n • Lukovska banja ima više turističkih objekata, lečilišta, hotela i\npansiona. Iz banje i sela Lukova put E7 se spušta u dolinu Toplice ka\nselima Selova i Žuč.",
+    "landmarks": "Nacionalni park Kopaonik, Lukovska banja",
+    "maintenance": null,
+    "marking": "evropska crveno-žuta",
+    "accommodation": "Jaram, Kopaonik, Blaževo, Mramor, Lukovska Banja",
+    "notes": "• E7-15-1 Kriva Reka – Pančićev vrh 19,5 km\n\n • E7-15-2 Pančićev vrh – Blaževo 11,0 km\n\n • E7-15-3 Blaževo – Lukovo 16,9 km\n\n • E7-15-4 Lukovo – Žuč 20,6 km",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Avala PD",
+        "url": "https://pss.rs/adresar_klubova/psk-avala/",
+        "contact": "Murska 14, 11000 Beograd\n+38111 386 00 64 ; +38160 04 28 252, \nhttp://www.avala.club/",
+        "clubs": [
+            {
+                "name": "Avala PD",
+                "url": "https://pss.rs/adresar_klubova/psk-avala/",
+                "contact": "Murska 14, 11000 Beograd\n+38111 386 00 64 ; +38160 04 28 252, \nhttp://www.avala.club/"
+            },
+            {
+                "name": "Kopaonik PSD",
+                "url": "https://pss.rs/adresar_klubova/kopaonik-psk/",
+                "contact": "Zmaj od Noćaja 9/IV, 11000 Beograd\n 064 1552 607\nhttp://www.psd-kopaonik.org.rs"
+            },
+            {
+                "name": "Srebrnac PSD",
+                "url": "https://pss.rs/adresar_klubova/srebrnac-psd/",
+                "contact": "Org. Crvenog krsta Bratislave Peterović bb, 37220 Brus\n+38163 80 67 165"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/E7-15-Kriva-Reka-Zuc.gpx",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
+        "bytes": 205652,
+        "sha256": "4c658e4ca93601de8eb4404119c0c13be384ec1d5ea6cc9a229f96052e3ca11e",
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": 2845,
+        "tracks": 4,
+        "segments": 4,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/E7-15-Kriva-Reka-Zuc.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/e7-15.geojson",
+        "bbox": [
+            20.819041685,
+            43.16368156,
+            21.157982755,
+            43.388592977
+        ],
+        "center": [
+            20.988512,
+            43.276137
+        ],
+        "start_point": [
+            20.88672211,
+            43.388592977
+        ],
+        "end_point": [
+            21.157982755,
+            43.194017436
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    20.88672,
+                    43.38859
+                ],
+                [
+                    20.88681,
+                    43.38695
+                ],
+                [
+                    20.88303,
+                    43.38826
+                ],
+                [
+                    20.88386,
+                    43.38668
+                ],
+                [
+                    20.87962,
+                    43.38536
+                ],
+                [
+                    20.88346,
+                    43.38348
+                ],
+                [
+                    20.8829,
+                    43.38099
+                ],
+                [
+                    20.86559,
+                    43.3809
+                ],
+                [
+                    20.86168,
+                    43.37847
+                ],
+                [
+                    20.84739,
+                    43.36191
+                ],
+                [
+                    20.85284,
+                    43.35201
+                ],
+                [
+                    20.86042,
+                    43.3483
+                ],
+                [
+                    20.85936,
+                    43.34216
+                ],
+                [
+                    20.85763,
+                    43.34022
+                ],
+                [
+                    20.84956,
+                    43.33995
+                ],
+                [
+                    20.84535,
+                    43.33761
+                ],
+                [
+                    20.84269,
+                    43.32819
+                ],
+                [
+                    20.83371,
+                    43.32174
+                ],
+                [
+                    20.83545,
+                    43.31528
+                ],
+                [
+                    20.83105,
+                    43.31434
+                ],
+                [
+                    20.82652,
+                    43.30775
+                ],
+                [
+                    20.82878,
+                    43.28864
+                ],
+                [
+                    20.81904,
+                    43.27942
+                ],
+                [
+                    20.82462,
+                    43.27638
+                ],
+                [
+                    20.82476,
+                    43.27345
+                ],
+                [
+                    20.82981,
+                    43.273
+                ]
+            ],
+            [
+                [
+                    20.82981,
+                    43.273
+                ],
+                [
+                    20.83712,
+                    43.25704
+                ],
+                [
+                    20.85234,
+                    43.25103
+                ],
+                [
+                    20.85268,
+                    43.24802
+                ],
+                [
+                    20.8621,
+                    43.2376
+                ],
+                [
+                    20.87091,
+                    43.23559
+                ],
+                [
+                    20.88578,
+                    43.23645
+                ],
+                [
+                    20.89701,
+                    43.24073
+                ],
+                [
+                    20.8983,
+                    43.23957
+                ],
+                [
+                    20.89487,
+                    43.23804
+                ],
+                [
+                    20.90724,
+                    43.23726
+                ],
+                [
+                    20.91397,
+                    43.23294
+                ]
+            ],
+            [
+                [
+                    20.91398,
+                    43.23292
+                ],
+                [
+                    20.93184,
+                    43.22034
+                ],
+                [
+                    20.93395,
+                    43.21609
+                ],
+                [
+                    20.93059,
+                    43.20607
+                ],
+                [
+                    20.93675,
+                    43.20373
+                ],
+                [
+                    20.93505,
+                    43.19662
+                ],
+                [
+                    20.93596,
+                    43.19324
+                ],
+                [
+                    20.93977,
+                    43.19096
+                ],
+                [
+                    20.95186,
+                    43.18773
+                ],
+                [
+                    20.95611,
+                    43.18995
+                ],
+                [
+                    20.96128,
+                    43.18817
+                ],
+                [
+                    20.9768,
+                    43.17138
+                ],
+                [
+                    20.98606,
+                    43.17308
+                ],
+                [
+                    21.01265,
+                    43.16368
+                ],
+                [
+                    21.02376,
+                    43.1661
+                ],
+                [
+                    21.03141,
+                    43.1638
+                ],
+                [
+                    21.03726,
+                    43.16638
+                ]
+            ],
+            [
+                [
+                    21.03726,
+                    43.16638
+                ],
+                [
+                    21.04192,
+                    43.16696
+                ],
+                [
+                    21.04392,
+                    43.17234
+                ],
+                [
+                    21.05652,
+                    43.17188
+                ],
+                [
+                    21.04999,
+                    43.17519
+                ],
+                [
+                    21.05042,
+                    43.17785
+                ],
+                [
+                    21.05161,
+                    43.17968
+                ],
+                [
+                    21.05212,
+                    43.17813
+                ],
+                [
+                    21.0605,
+                    43.18074
+                ],
+                [
+                    21.06384,
+                    43.1846
+                ],
+                [
+                    21.06385,
+                    43.19492
+                ],
+                [
+                    21.06794,
+                    43.20275
+                ],
+                [
+                    21.07766,
+                    43.1965
+                ],
+                [
+                    21.08177,
+                    43.20064
+                ],
+                [
+                    21.0907,
+                    43.20156
+                ],
+                [
+                    21.09132,
+                    43.20327
+                ],
+                [
+                    21.0987,
+                    43.20059
+                ],
+                [
+                    21.10596,
+                    43.2121
+                ],
+                [
+                    21.1127,
+                    43.21422
+                ],
+                [
+                    21.12531,
+                    43.20253
+                ],
+                [
+                    21.13477,
+                    43.20182
+                ],
+                [
+                    21.13881,
+                    43.19668
+                ],
+                [
+                    21.14211,
+                    43.19905
+                ],
+                [
+                    21.14422,
+                    43.19575
+                ],
+                [
+                    21.1477,
+                    43.19733
+                ],
+                [
+                    21.15566,
+                    43.19515
+                ],
+                [
+                    21.15614,
+                    43.19309
+                ],
+                [
+                    21.15701,
+                    43.19612
+                ],
+                [
+                    21.15798,
+                    43.19402
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": [
+            "missing_elevation"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/e7-15/",
+        "canonical_url": "https://pss.rs/terenipp/e7-15/",
+        "pss_id": 3865,
+        "updated_at": "2024-12-07T21:32:06Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
+    },
+    "search": "kriva reka - zuc e7-15 kopaonicko-toplicka regija kopaonik avala pd nacionalni park kopaonik, lukovska banja zahtevna • od krive reke put e7 penje se na glavni greben planine kopaonik (2017m), na teritoriji istoimenog nacionalno parka. put vijuga iznad velikog turistickog centra sa vise hiljada lezajeva i preko 30 zicara. kopaonik je kroz istoriju bio poznat kao rudarska planina jos od starog i srednjeg veka. tragovi rudarenja, pored toponima, vidljivi su i na samom terenu. put e7 prelazi visinu od 1900 m, a na najvisem vrhu sahranjen je prvi predsednik srpske akademije nauka, botanicar josif pancic. ispod vrha, sa istocne strane, put prolazi pored ostataka ranovizantijske bazilike iz 5. veka koja se nalazila na starom istorijskom rudarskom putu iz tog vremena. • odavde put silazi istocnim padinama kopaonika kroz selo blazevo, a zatim se, kroz sela stava i mrce stize u lukovsku banju. ovaj topli izvor je jedan od brojnih koji okruzuju kopaonicki planinski masiv. • lukovska banja ima vise turistickih objekata, lecilista, hotela i pansiona. iz banje i sela lukova put e7 se spusta u dolinu toplice ka selima selova i zuc.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T13:01:56Z"
+    }
+}

@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2018/01/4-48-4-zdrelo_v-vukan.gpx",
-        "fetched_at": "2026-11-08T11:59:18Z",
-        "checked_at": "2026-11-08T11:59:18Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 64993,
         "sha256": "9ca50d748723a08810b539d90697b0e7dd175692b5b31eae6f2054d6b4ca2ce7",
         "etag": null,
-        "last_modified": "Thu, 25 Jan 2018 12:30:50 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 386,
@@ -170,14 +170,14 @@
         "pss_id": 5841,
         "updated_at": "2018-01-25T12:35:32Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:59:18Z",
-        "last_synced_at": "2026-11-08T11:59:18Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "veliki vukan od zdrela 4-48-4 istocna srbija vukan centar sela zdrelo, 205m centar sela zdrelo, 205m gornjak pd • manastir zdrelo • vidikovaci: 4 • dva izvora pitke vode • smestaj van staze: izvidjacki dom zdrelo • privatni smestaj van staze: banja zdrelo i smestaji u okolini zahtevna staza krece iz centra sela, nakon 200m se nalazi cesma sa pijacom vodom. staza nastavlja iznad manastira zdrelo gde takodje ima izvor sa vodom u dvoristu manastira. nakon toga se izlazi na put kojim se ide oko 700m i dalje se nastavlja strmijom stazom kroz sumu do sedla gde se u borovoj sumi skrece levo ka vrhu veliki vukan (825m). povratak je istom stazom.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:59:18Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

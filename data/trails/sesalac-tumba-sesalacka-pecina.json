@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2021/03/Sesalac-Tumba-Sesalacka-pecina-new.gpx",
-        "fetched_at": "2026-11-08T12:01:51Z",
-        "checked_at": "2026-11-08T12:01:51Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 186436,
         "sha256": "edcd5077905bcf15b13005bb0d5949bd03f6b337a5dbcbd9c901ad5b90fead93",
         "etag": null,
-        "last_modified": "Tue, 14 Jun 2022 11:57:17 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 1427,
@@ -202,14 +202,14 @@
         "pss_id": 13383,
         "updated_at": "2022-06-14T12:00:45Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:01:52Z",
-        "last_synced_at": "2026-11-08T12:01:52Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "sesalac - tumba - sesalacka pecina 4-27-8 istocna srbija rtanj selo sesalac, 433 m selo sesalac, 433 m ozren pk • tumba, sesalacka pecina • vidikovci: tumba, orli skok, stubline • naselje: sesalac • na trasi ima izvora pitke vode • smestaj: kamp, odmaraliste, privatni smestaj srednje teska staza je kruzna i polazi od doma u sesalcu i ide kolskim putem obodom reke. izlazi na rujiski put i pre klisure se odvaja u levo preko mosta prema tumbi. prati se kolski put i sumska staza. na izlasku iz sume je odvajanje za vrh tumbe (842 m). povratak je istom deonicom do odvajanja i preko grebena spustanje do madjarske reke. prelazak preko reke i uspon do vidikovca orli skok, a zatim uspon do grebena stubline. zatim se kolskim putem dolazi do sesalacke pecine. potom sledi silazak do sela.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:01:52Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

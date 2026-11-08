@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2019/01/4-33-1-Vlasina-Leskovik.gpx",
-        "fetched_at": "2026-11-08T11:59:53Z",
-        "checked_at": "2026-11-08T11:59:53Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 12165,
         "sha256": "0c4645e95d243eae828720161642d3836c56616f7bc2edc0fa74b1f67d027ca8",
         "etag": null,
-        "last_modified": "Thu, 24 Jan 2019 12:39:10 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 86,
@@ -158,14 +158,14 @@
         "pss_id": 8222,
         "updated_at": "2019-01-24T12:40:14Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:59:54Z",
-        "last_synced_at": "2026-11-08T11:59:54Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "vlasina - leskovik 4-33-1 istocna srbija ozren visoravan vlasina (granica izmedju device i ozrena), 939m leskovik, 1174m ostra cuka pd • vidikovci: vlasina i leskovik • na stazi nema izvora pitke vode • nema smestaja laka spaja sledece staze/puteve: spaja stazu \"sokobanja - kalinovica - vlasina - ostra cuka\" sa stazom \"lipovac - leskovik\"",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:59:54Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

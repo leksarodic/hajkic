@@ -80,7 +80,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T12:50:48Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -121,14 +121,14 @@
         "pss_id": 3691,
         "updated_at": "2017-05-14T18:02:35Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:50:48Z",
-        "last_synced_at": "2026-11-08T12:50:48Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "gledicke planine (s.ravanica-g.planine-s.stubal) 2-14-2 sumadija gledicke planine selo ravanica (232) selo stubal (258) zeleznicar psk kraljevo manastir u selu stubal, sv petka zahtevna",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:50:48Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

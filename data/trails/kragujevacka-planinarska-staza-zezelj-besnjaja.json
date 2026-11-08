@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2019/02/2-15-1-Zezelj-Besnjaja.gpx",
-        "fetched_at": "2026-11-08T11:59:55Z",
-        "checked_at": "2026-11-08T11:59:55Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 179035,
         "sha256": "d1313b2e87a3de173c516b15fb6228fc7feca02774162086019d70098a676d52",
         "etag": null,
-        "last_modified": "Tue, 12 Feb 2019 13:43:58 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 1446,
@@ -234,14 +234,14 @@
         "pss_id": 8292,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:59:56Z",
-        "last_synced_at": "2026-11-08T11:59:56Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "kragujevacka planinarska staza zezelj-besnjaja 2-15-1 sumadija besnjaja naselje zdralica, vodopad buk, podnozje zezelja, 224m selo bukorovac, seoska vodenica (autobuska okretnica), 301m gora pek • vidikovci: kota 482m (drugi vrh zezelja), zapis u gornjoj mali, livada ispod lisinog laza, livada ispod meteo stanice. • na trasi ima 4 izvora pitke vode: cosica izvor, djurina cesma, izvor kod odmaralista, seoska cesma kod okretnice (na cilju). • na trasi nema smestajnih objekata. laka • \"kragujevacka planinarska staza zezelj-besnjaja\" pocinje u selu zdraljica ispred ugostiteljskog objekta \"medna\" - popularno nazvanog po vlasnici i \"marina kafana\". prati put za staro selo zdraljica u duzini od stotinak metara i skrece sa tog puta desno u duboki potok, pokraj \"cosickog izvora\". • na stotinak metara iznad izvora i stoletne bukve staza vodi pokraj vodopada \"buk\", ispred kog su planinari pek \"gora\" izgradili platformu za razgledanje. staza dalje vodi grebenom kroz pojas stoletne bukove sume i proplancima sve do vrha zezelj (486m) sa kog se pruza pogled na grad kragujevac, dolinu reke zdraljice i horizont gledickih planina. sa zezelja staza vodi do zaseoka srednja mala - donja sabanta do stoletnog zapisa, ispod kog su postavljeni sto i klupe za odmor. dalji put nas vodi opet do jednog zapisa, ovog puta iznad kuca u gornjoj mali - bukorovac, odakle se opet pruza lep pogled na kragujevac i okolne visove iznad njega. od zapisa sledi spust do usca mamutovackog potoka u reku osanicu. iz tog podnozja sledi uspon ka vrhu cerjak (507m), do poteza zvanog prlic, sa kog se opet pruzaju lepi pogledi u daljinu. dalje se prolazi ispod vrha lisin laz (613m). od sumske kuce ispod lisinog laza put se blago spusta i prolazi iznad izvora \"djurina cesma\", onda se preko kose veliko brdo izbija na greben besnjaje kod objekta srbija sume. • grebenom besnjaje nastavlja se u pravcu severa ka zaseoku drenak - gornje komarice. na kilometar ispred skretanja za drenak skrece se levo i spusta u gigovski potok, koji vodi u pravcu donje male - bukorovac. sledi kraci uspon do prvih kuca u podnozju zaseoka drenak, pa ponovni i konacni spust u donju malu - bukorovac, do \"momcilove vodenice\". • preporucuje se prevoz do startne pozicije, gradskim prevozom, na liniji br. 2, petrovac - zra",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:59:56Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

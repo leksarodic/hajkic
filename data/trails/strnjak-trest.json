@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2020/06/4-4-4-Strnjak-Trest.gpx",
-        "fetched_at": "2026-11-08T12:00:46Z",
-        "checked_at": "2026-11-08T12:00:46Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 26889,
         "sha256": "777ff92ab530a7e6be9872c3f623393d4a11c5b18e91dad562e54baeb286860e",
         "etag": null,
-        "last_modified": "Tue, 09 Jun 2020 16:37:04 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 146,
@@ -146,14 +146,14 @@
         "pss_id": 11581,
         "updated_at": "2020-06-09T16:41:20Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:00:47Z",
-        "last_synced_at": "2026-11-08T12:00:47Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "strnjak - trest 4-4-4 istocna srbija homoljske planine put ka trestu od sela vitovnice, 280 m put ka trestu od sela vitovnice, 280 m gornjak pd • na stazi ima 3 vidikovca • van trase ima izvidjacki dom \"zdrelo\" • van trase je banja zdrelo i privatni smestaj u okolini laka staza krece od puta ka izletistu trest od sela vitovnice pre prvog mosta na vitovnickoj reci. staza ide zemljenim sumskim putem i na oko 1,5 km sece ponovo put sa koga smo prosli, ko ima dzip ili vislje vozilo moze krenuti i odavde. od ove tacke krece uspon kroz sumu do izlaska na greben. grebenom se ide jos oko 300 m i stize se na vrh strnjak (613 m). staza je skoro celom duzinom u sumi.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:00:47Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

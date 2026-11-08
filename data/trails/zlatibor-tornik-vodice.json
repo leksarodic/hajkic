@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2020/06/5-12-1-Zlatibor-Tornik-Vodice.gpx",
-        "fetched_at": "2026-11-08T12:00:41Z",
-        "checked_at": "2026-11-08T12:00:41Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 52233,
         "sha256": "6225e4ba5efdd84f0cfcca064b3fd87633d1b49bb479da471ca260860bde3724",
         "etag": null,
-        "last_modified": "Tue, 02 Jun 2020 15:31:55 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 403,
@@ -222,14 +222,14 @@
         "pss_id": 11537,
         "updated_at": "2020-06-02T15:37:38Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:00:41Z",
-        "last_synced_at": "2026-11-08T12:00:41Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "zlatibor - tornik - vodice 5-12-1 jugozapadna srbija zlatibor preko puta hotela \"tornik\" na zlatiboru, 958 m vodice naselje, 1047 m tornik pk • znacajni lokaliteti: dve spomen cesme u ribnici, ski centar tornik • vidikovci: kobilja glava, tornik, ravni tornik • trasa prolazi kroz naselja: zlatibor, kobilja glava, kutlesici, ribnica, vodice srednje teska staza pocinje preko puta hotela tornik na zlatiboru i krece u pravcu zapada preko naselja \"my village\". blagom padinom se spusta do reke rzav, odakle vodi makadamskim putem u pravcu juga kroz naselje kobilja glava sve do naselja ribnica. odatle se penje savica potokom do vrha tornik (1496 m). sa vrha u pravcu istoka vencem tornika preko vrha ravni tornik (1442 m) sve do naselja vodice.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:00:41Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

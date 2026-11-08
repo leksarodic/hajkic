@@ -70,7 +70,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T11:56:55Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -110,14 +110,14 @@
         "pss_id": 4477,
         "updated_at": "2017-08-02T08:51:21Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:56:55Z",
-        "last_synced_at": "2026-11-08T11:56:55Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "jankov kamen 5-46-2 jugozapadna srbija golija golijska reka 1408m golijska reka 1408m golija pd vidikovci: preko brdo, jankov kamen zahtevna • preko brdo, jankov kamen • kruzna staza, obelezena u oba smera",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:56:55Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

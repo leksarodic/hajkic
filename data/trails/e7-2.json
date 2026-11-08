@@ -74,12 +74,12 @@
         "available": false,
         "status": "invalid",
         "source_url": "https://pss.rs/wp-content/uploads/2017/05/E7-2-Stari-Zednik-__-Sombor.gpx",
-        "fetched_at": "2026-11-08T12:49:55Z",
-        "checked_at": "2026-11-08T12:49:55Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 89539,
         "sha256": "ea12cb491b666aa79b8a726c6bece4d93018b282d3ff56dce4fecb7498c408de",
         "etag": null,
-        "last_modified": "Sat, 07 Nov 2026 16:41:33 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": false,
         "points": 0,
@@ -116,14 +116,14 @@
         "pss_id": 3556,
         "updated_at": "2024-12-07T21:21:28Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:49:56Z",
-        "last_synced_at": "2026-11-08T12:49:56Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "stari zednik - sombor e7-2 vojvodina telecka visoravan dr. radivoj simonovic pd • zobnatica - odgajaliste konja, • lesna dolina krivaje - zasticeni predeo izuzetnih odlika • telecka visoravan laka • od zednika put e-7 prolazi kroz zobnaticu koja je poznata kao odgajaliste konja duze od dva veka. za posetioce su organizovani programi, skola jahanja i voznje fijakera. vredi posetiti muzej konjarstva. velika manifestacija „zobnaticke konjicke igre” odrzava se svake godine u drugoj nedelji septembra. • put dalje prelazi preko lesnih platoa i dolina nekadasnjih prostranih stepa. veoma je zanimljiv zasticeni predeo izuzetnih odlika lesnih dolina krivaje sa izuzetnim pejzaznim vrednostima. • bez obzira na male visinske razlike na putu je prepoznatljiv silazak sa niskih platoa telecke visoravni u siroku ravan dunava. od mesta sivac do grada sombora put ide sirokom ravnicom zanimljivih pejzaza lokalnih kanala i vodotokova. grad sombor smesten je nedaleko od obale dunava. centralni trg izgradjuje vise baroknih zdanja, posebno gradske kuce sa visokim tornjem iz 1842. godine. • u lepoj zgradi zupanije iz devetnaestog veka nalazi se najveca slika u srbiji povrsine 28m2 i predstavlja cuvenu bitku kod sente. sombor je poznat po dobrim muzicarima tamburasima, lepim zabavama i raskosnim fijakerima. oko grada se nalazi sesnaest salasa – naselja u polju sa sacuvanim etno nasledjem. mnogi od njih su otvoreni za posetioce. u okolini grada su veliki backi i bajski kanal i reka dunav.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:49:56Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

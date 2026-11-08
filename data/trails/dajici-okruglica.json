@@ -70,7 +70,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T11:56:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -110,14 +110,14 @@
         "pss_id": 4478,
         "updated_at": "2017-08-02T10:27:45Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:56:56Z",
-        "last_synced_at": "2026-11-08T11:56:56Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "dajici - okruglica 5-46-3 jugozapadna srbija golija dajici (bele vode) 1330m dajici (bele vode) 1330m golija pd • jezero okruglica nastalo 1974. • vidikovac: okruglica laka staza obelezena u oba smera",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:56:56Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

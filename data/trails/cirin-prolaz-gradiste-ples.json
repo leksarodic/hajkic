@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/08/4-39-4-Cirin-prolaz-Gradiste-Ples.gpx",
-        "fetched_at": "2026-11-08T11:57:23Z",
-        "checked_at": "2026-11-08T11:57:23Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 79048,
         "sha256": "82be6f853e747bdf8d5d7c580c058fb2f135b66e9ce57a0b7552631ef9012bf7",
         "etag": null,
-        "last_modified": "Wed, 31 Jan 2018 10:48:15 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 650,
@@ -184,14 +184,14 @@
         "pss_id": 4495,
         "updated_at": "2018-01-31T10:48:50Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:57:24Z",
-        "last_synced_at": "2026-11-08T11:57:24Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "cirin prolaz - gradiste - ples 4-39-4 istocna srbija svrljiske planine magistralni put e80, autobusko stajaliste iza tunela br. 8, 250m ples, 1267m zeleznicar pk nis na stazi jedan izvor pitke vode. vrlo teska",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:57:24Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

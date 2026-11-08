@@ -36,7 +36,7 @@
     "elevation": {
         "official_gain_m": null,
         "official_loss_m": null,
-        "calculated_gain_m": 395.3,
+        "calculated_gain_m": 398.2,
         "calculated_loss_m": 169.6,
         "min_m": 394.3,
         "max_m": 909.1
@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2024/03/Vodena-pecina-konacno.gpx",
-        "fetched_at": "2026-11-08T12:04:05Z",
-        "checked_at": "2026-11-08T12:04:05Z",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
         "bytes": 91791,
         "sha256": "e83001b8b6e5980bea0cfb89ea7d6bca74a5c680db87117c71934935bd7161ff",
         "etag": null,
-        "last_modified": "Wed, 27 Mar 2024 16:47:58 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 901,
@@ -194,14 +194,14 @@
         "pss_id": 24346,
         "updated_at": "2024-06-03T20:03:04Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:04:06Z",
-        "last_synced_at": "2026-11-08T12:04:06Z"
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
     },
     "search": "kanjon reke panjice - vodena pecina - brekovo 5-19-1 jugozapadna srbija budec ambulanta u selu dobracama crkva svetog nikole mirlikijskog, brekovo suncevica supsd kaljon reke panjice, vodena pecina, rasovacka pecina, crkva svetog nikole mirlikijskog laka pesacka staza krece od ambulante u selu dobracama. sa desne strane nalazi se etno domacinstvo „panjica” koje ima mogucnost prenocista. staza prolazi kroz seoske zaseoke lazovicii petrovici gde se od domacina moze kupiti med, slatko, sir, kajmak i proizvodi iz domace radinosti. posle 1 km ulazi se u predivan kanjon reke panjice koji je medju najcistijim u srbiji. sa leve strane se nalazi planina sedalac ( 1084 m.n.v. ). posle oko 1 km hoda kanjonom dolazimo do bozanstvenih vodopada. kanjon je vrlo zivopisan i bogat biljnim i zivotinjskim svetom. vodena pecina je jos uvek nedovoljno ispitana. iz nje izvire velika kolicina vode a smatra se da se ispod nalazi jezero koje jos nije ispitano. sa desne strane pecine produzava pesacka staza kroz bukovu sumu ka rasovackoj pecini ova pecina je sa dva ulaza. staza vodi do centra sela brekovo gde se moze posetiti crkva svetog nikole mirlikijskog iz xii veka.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:04:06Z"
+        "generated_at": "2026-11-08T13:01:57Z"
     }
 }

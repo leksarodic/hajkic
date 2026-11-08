@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/08/4-31-6-Kanjon-Zdrelo-na-Devici.gpx",
-        "fetched_at": "2026-11-08T11:57:39Z",
-        "checked_at": "2026-11-08T11:57:39Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 106433,
         "sha256": "50ddf7b37b7a223c7ea5d72a60b1e78db2b2a9a950685cfb87a6e3d91860031b",
         "etag": null,
-        "last_modified": "Fri, 21 Dec 2018 11:35:32 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 629,
@@ -198,14 +198,14 @@
         "pss_id": 4572,
         "updated_at": "2018-12-21T11:37:56Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:57:40Z",
-        "last_synced_at": "2026-11-08T11:57:40Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "kanjon zdrelo na devici (levovik) 4-31-6 istocna srbija devica stari rudnik, 458m stari rudnik, 458m ostra cuka pd • vidikovci: spic, orlov kamen, busarnik • na stazi ima izvor pitke vode • nema smestaja • naseljeno mesto: levovik zahtevna • cilj staze: busarnik 938m • spaja sledece staze/puteve: spaja se sa stazom \"velika i mala propast na devici\" i \"kanjonom izgarske reke (dikuliceva staza)\" • napomena: neophodna je opreznost u blizini kanjona",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:57:40Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

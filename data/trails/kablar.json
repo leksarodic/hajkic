@@ -79,12 +79,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2023/05/3-Kablar-data.gpx",
-        "fetched_at": "2026-11-08T12:03:18Z",
-        "checked_at": "2026-11-08T12:03:18Z",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
         "bytes": 4250,
         "sha256": "bd94efa56c4f7de3ed6c27ca2fd9c892aa441baa808c49f34c99cd0e09f1c438",
         "etag": null,
-        "last_modified": "Sun, 07 May 2023 17:17:55 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 44,
@@ -176,14 +176,14 @@
         "pss_id": 19512,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:03:18Z",
-        "last_synced_at": "2026-11-08T12:03:18Z"
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
     },
     "search": "kablar 3-28-3 zapadna srbija kablar ovcar banja - 278 m vrh kablara - 885 m kablar pd manastir nikolje laka staza krece iz centra ovcar banje, asfaltnim putem ka manastiru nikolje i planinarskom domu „kablar“. od planinarskog doma staza ulazi u sumu do kuca u zaseoku cvrkici, na ovom delu staza vodi izmedju livada i njiva. kod seoskog turistickog domacinstava cvrkic staza se vraca u sumu do krajnjeg ishodista.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:03:18Z"
+        "generated_at": "2026-11-08T13:01:57Z"
     }
 }

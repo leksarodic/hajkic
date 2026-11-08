@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2019/12/Cortanovacka-magija.gpx",
-        "fetched_at": "2026-11-08T12:00:37Z",
-        "checked_at": "2026-11-08T12:00:37Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 269686,
         "sha256": "ed6118a36b6501566ef3aa796aea8e437d322d0064642e98c284d9e26efd3de3",
         "etag": null,
-        "last_modified": "Wed, 11 Dec 2019 11:48:15 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 1624,
@@ -206,14 +206,14 @@
         "pss_id": 10597,
         "updated_at": "2019-12-11T12:05:46Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:00:38Z",
-        "last_synced_at": "2026-11-08T12:00:38Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "\"cortanovacka magija\" 1-13-2 vojvodina cortanovacka suma \"cortanovacka magija\", banstol \"cortanovacka magija\", banstol zeleznicar pd beograd • crkva sv. nikole • rodna kuca andrije jovica • spomenik nor-a • izvor savinac na kozarici • cesma cetiri kamena • cortanovacka suma • hajducki izvor • u blizini je rimsko nalaziste castra herkulis • vila stankovic laka pocetak staze je od kuce domacinstva \"cortanovacka magija\". staza dalje vodi uz obalu potoka ab, i na ulazu u cortanovce mogu se videti crkva sv. nikole, rodna kuca andrije jovica, spomenik iz nor-a i stara pekara. kada se prodje gradiliste tunela nove brze pruge nailazi se na lokalitet dabar, izvor savinac na kozarici, cesma cetiri kamena, planinarski dom \"kozarica\" i ulazi se u cortanovacku sumu. u sumi pored staze s desne strane je jedna velika vrtaca, a sa leve strane izvor koji je napravio malo jezero i hajducki izvor. na izlazu iz sume stize se do ferijalnog doma gde se moze lepo odmoriti i okrepiti. u neposrednoj blizini je i spomenik rugovo. setnjom uz obalu stize se do cortanovacke plaze \"varljivo leto ’68\". u nastavku se prolazi putem kroz gradiliste brze pruge, ide se prema karasu i penje na kraljevo brdo, a zatim se spusta na polaznu tacku.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:00:38Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

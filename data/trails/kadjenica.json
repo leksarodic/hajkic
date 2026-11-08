@@ -79,12 +79,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2023/05/10-Kadjenica-sa-Branojevca-data.gpx",
-        "fetched_at": "2026-11-08T12:03:29Z",
-        "checked_at": "2026-11-08T12:03:29Z",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
         "bytes": 30023,
         "sha256": "5730b3ecafbe7b7a9e307e2b2e431483e4847973c67e427cdb0bd87fe457e257",
         "etag": null,
-        "last_modified": "Sun, 07 May 2023 19:35:28 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 338,
@@ -160,14 +160,14 @@
         "pss_id": 19528,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:03:30Z",
-        "last_synced_at": "2026-11-08T12:03:30Z"
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
     },
     "search": "kadjenica 5-15-2 jugozapadna srbija debela gora branojevac - 791 m ovcar banja, bivsi auto kamp - 278 m kablar pd spomen kosturnica crkva pecina kadjenica laka staza se moze posmatrati kao varijanta staze debela gora sa oblilaskom spomen kosturnice crkve pecine kadjenica. moze se ici iz oba snmera, mi opis dajemo iz smera branojevac na dole ka ovcar banji. staza je sve vreme u sumi, mestimicno strma do izlaska na put koji vodi iz dljina ka brani he ovcar banja. u ovom delu staza je gotovo polozena.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:03:30Z"
+        "generated_at": "2026-11-08T13:01:57Z"
     }
 }

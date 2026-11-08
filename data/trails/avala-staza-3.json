@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2020/10/2-3-4-Avala-staza-3.gpx",
-        "fetched_at": "2026-11-08T12:01:14Z",
-        "checked_at": "2026-11-08T12:01:14Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 47003,
         "sha256": "56e47dd50219271ef9fdebdd0a3ba80200391588b3b564ec03baab956f7107b2",
         "etag": null,
-        "last_modified": "Wed, 21 Oct 2020 13:25:45 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 267,
@@ -146,14 +146,14 @@
         "pss_id": 12290,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:01:15Z",
-        "last_synced_at": "2026-11-08T12:01:15Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "avala, staza 3 2-3-4 sumadija avala autobuska stanica \"put za zuce\", 278 spomenik neznanom junaku na vrhu avale, 506 m avala pd • rimski rudnik • spomenik neznanom junaku laka • staza 3 spaja sledece staze: staza 2, staza 4, staza 5 i staza 6.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:01:15Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

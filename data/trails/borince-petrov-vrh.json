@@ -79,12 +79,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2024/07/Borince-Petrov-vrh.gpx",
-        "fetched_at": "2026-11-08T12:05:59Z",
-        "checked_at": "2026-11-08T12:05:59Z",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
         "bytes": 154422,
         "sha256": "7730d93d0ff7400c53f7a17bf6fc86ad39f4c84d5e57eb4d48af4e1643879102",
         "etag": null,
-        "last_modified": "Mon, 01 Jul 2024 19:30:49 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 1198,
@@ -196,14 +196,14 @@
         "pss_id": 24824,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:05:59Z",
-        "last_synced_at": "2026-11-08T12:05:59Z"
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
     },
     "search": "borince - petrov vrh 6-31-1 kopaonicko-toplicka regija radan selo borince, opstina bojnik - 616 m selo borince, opstina bojnik - 616 m zmaj sa radana psk znacajni lokaliteti: crkva ognjene marije i crkva casnih veriga sv. petra i pavla vidikovci: mali petrovac naselja i zaseoci sa nazivima: selo borince i mahala ostatovac laka staza krece iz centra sela borince. vec posle 20 minuta nailazi se na seosku crkvu ognjene marije gde je oslicno mesto za pauzu. od crkve ide se sumskim putevima do lokaliteta na kome se nalazi rezervoar za vodu iz koga se snabdevaju podradanska sela. odatle staza izlazi na put ka slisanu ali vec posle 100 metara krece zavrsni uspon na petrov vrh koji je najstrmiji i gde se savladava visinska razlika od 150mnv u nepunih 1000 metara. na petrovom vrhu 1148 se nalazi crkva sv. petra i pavla. nepunih 15 minuta hoda od petrovog vrha nalazi se vidikovac mali petrovac. sa vidikovca se priza pogled na gornju jablanicu, radan planinu, dolinu puste reke, leskovacku kotlinu kao i masiv kukavice i suve planine. sa vidikovca staza vodi makadamskim putem nazad u selo borince preko mahale ostatovac u kojoj se mogu videti ostaci predratne arhitekture iz 20. veka.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:05:59Z"
+        "generated_at": "2026-11-08T13:01:57Z"
     }
 }

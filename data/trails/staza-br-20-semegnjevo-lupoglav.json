@@ -79,12 +79,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2023/03/Staza-20-Semegnjevo-Lupoglav.gpx",
-        "fetched_at": "2026-11-08T12:03:12Z",
-        "checked_at": "2026-11-08T12:03:12Z",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
         "bytes": 96446,
         "sha256": "5d3686c26c08344b5131ab85bd9441389cfb0fb204c8975b125814738749e9ea",
         "etag": null,
-        "last_modified": "Fri, 31 Mar 2023 20:51:35 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 1115,
@@ -192,14 +192,14 @@
         "pss_id": 19333,
         "updated_at": "2023-09-08T20:01:04Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:03:13Z",
-        "last_synced_at": "2026-11-08T12:03:13Z"
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
     },
     "search": "staza br. 20: semegnjevo – lupoglav 5-12-22 jugozapadna srbija zlatibor zeleznicka stanica zlatibor - 795 m zeleznicka stanica zlatibor - 795 m tornik pk vrh lupoglav, crkva u semegnjevu, vrh divizbor, ostri greben iznad zel. stanice zlatibor laka zeleznicka stanica zlatibor - planinica (3,1 km) - vrh lupoglav (4,4 km) - semegnjevo (7,0 km) - vrh divizbor (10,3 km) - dzambasi (11,1 km) - zeleznicka stanica zlatibor (13,3 km)",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:03:13Z"
+        "generated_at": "2026-11-08T13:01:57Z"
     }
 }

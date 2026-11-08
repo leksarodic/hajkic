@@ -59,7 +59,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T11:59:39Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -99,14 +99,14 @@
         "pss_id": 8106,
         "updated_at": "2019-01-09T14:32:24Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:59:39Z",
-        "last_synced_at": "2026-11-08T11:59:39Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "dositejevim stazama 1-3-4 vojvodina fruska gora planinarski dom \"vojvodina\" - 495mnv planinarski dom \"vojvodina\" - 495mnv manastiri: grgeteg, novo i staro hopovo laka kruzna staza koja pocinje i zavrsava kod planinarskog doma \"vojvodina\". velika staza je duzine 21 km, a mala staza 9 km.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:59:39Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

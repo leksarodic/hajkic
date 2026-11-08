@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2021/01/3-14-1-3-vrha-Povlena.gpx",
-        "fetched_at": "2026-11-08T12:01:35Z",
-        "checked_at": "2026-11-08T12:01:35Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 80645,
         "sha256": "b30e5975aed05d045e5260c1a9a94d29d10fb5a3ddafed2dae49fe76e99014f1",
         "etag": null,
-        "last_modified": "Fri, 08 Jan 2021 11:54:43 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 665,
@@ -174,14 +174,14 @@
         "pss_id": 12724,
         "updated_at": "2022-04-28T15:35:53Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:01:36Z",
-        "last_synced_at": "2026-11-08T12:01:36Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "3 vrha povlena 3-14-1 zapadna srbija povlen planinarska kuca \"povlenski kucerak\", 1145,8 m planinarska kuca \"povlenski kucerak\", 1145,8 m povlen pk • vidikovci: 3 vrha, ploce i drvena osmatracnica na ivici knezeva polja • 3 izvora pitke vode • u blizini su povlenske kugle laka staza je kruzna. start je kod planinarske kuce \"povlenski kucerak\", a ide se uzbrdo, juznom padinom velikog povlena. staza je u ovom delu strma, uska, posumljena, ide se u koloni po jedan oko 20 minuta do vrha veliki povlen (1271m). sa vrha se pruza zivopisan pogled na valjevske planine, kao i na taru, zlatibor i planine preko9 drine u republici srpskoj. odatle stenovitim grebenom staza vodi kroz cetinarsku i bukovu sumu pored repetitora na prostranu livadu. preko livade staza penje na srednji povlen (1301m). od ovog vrha silazi se na stene eruptivnog porekla ploce, gde ima takodje vidikovac. posle se staza delimicno vracamo i silazimo na izvor reke cetinje. ovaj deo je u prolece poznat po velikim povrsinama sremusa. od izvora staza vodi preko livade (lici na dzinovski amfiteatar) koja se zove guzvara i pored vikend naselja izlazi na knezevo polje. pored crkve sv. stefana arhidjakona preko livade staza se penje severnom stranom na mali povlen (1347m). staza je uska, strma i posumljena. sa najviseg vrha povlena - mali povlena, kada je dobra vidljivost, vidi se maglic i durmitor. sa vrha se silazi istim putem, pa sa knezeva polja ide zapadno vododerinom pored koliba na kolski put. odatle staza produzava preko madzarije i zavrsava kod planinarske kuce \"povlenski kucerak\".",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:01:36Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

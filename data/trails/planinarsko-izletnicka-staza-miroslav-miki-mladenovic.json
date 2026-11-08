@@ -79,12 +79,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2025/05/Staza-M-M-Mladenovic.gpx",
-        "fetched_at": "2026-11-08T12:06:19Z",
-        "checked_at": "2026-11-08T12:06:19Z",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
         "bytes": 62312,
         "sha256": "266015d600103002fecef1db52859a1dbc50342059ad782deb5e54060670b41e",
         "etag": null,
-        "last_modified": "Sat, 10 May 2025 20:15:26 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": false,
         "points": 588,
@@ -226,14 +226,14 @@
         "pss_id": 26474,
         "updated_at": "2025-05-10T20:26:11Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:06:20Z",
-        "last_synced_at": "2026-11-08T12:06:20Z"
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
     },
     "search": "planinarsko-izletnicka staza \"miroslav miki mladenovic\" 5-66-2 jugozapadna srbija vigoste-pogled gradska plaza u arilju (330 m) gradska plaza u arilju (330 m) suncevica supsd laka staza krece od gradske plaze (viseceg mosta), pravo kroz naselje vrane, pored gradskog groblja, posle 100 m, skretanje levo, pored rodne kuce miroslava mikija mladenovica, kao i firme ,,soliton\". pravo do raskrsnice puta arilje-svrackovo-roge, skrece desno ka arilju i na prvoj raskrsnice levo pored bagremske cesme (izvorska voda), na istoj raskrsnici desno se nalazi smestajni objekat ,,kacara\" tel. 065-9898298, dalje pored ,,colovica kapije\", prema ,,danilovim vratima\" kroz zaseok andrici sa leve strane pored andrica groblja, nakon toga skretanje levo ka potoku, i uzbrdo prema grdovicima, gde skrecemo levo kroz sumu ka lovackoj ceki, poznatija kao ,,limarova ceka\", ispred koje se nalazi prelep vidikovac (ovcar, kablar, jelica...). od ceke se ide dalje levo prema zaseoku djunisijevici (desno zaseok zirave), odakle 500 m do vrha karaula 705 mnv. sledi kratak odmor u letnjikovcu i fotografisanje na vidikovcu. povratak do skretanja za vidikovac, gde se skrece levo kroz zaseok savovici, kroz zaseok grabovik, zatim na piperskoj kosi skretanje levo ka arilju, gde se staza ukrsta sa evropskim pesackim putem e-7 i dalje nastavlja istom trasom, gde u zaseoku ratkovici skrece desno ka zaseoku djurici, pored djurica groblja silazi do usca malog u veliki rzav. prelazak levo, preko mosta na velikom rzavu ( desno vaskovica vodenica i plaza urjak), a u neposrednoj blizini su dve neimenovane izvorske vode, dalje, levo preko mosta na malom rzavu (sa desne strane se vidi usce malog u veliki rzav. ispod se nalazi i djurica vodenica. posle mosta desno, pored borovnjacke cesme (izvorska voda), kroz zaseok lazine ispod klokoca ka naselju pogled, do raskrsnice s putem arilje-visoka-zlatibor, skretanje desno (s leve strane 400 m., smestajni objekat ,,mlinarev san\" tel. 064-649-60-77 i 064-649-6",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:06:20Z"
+        "generated_at": "2026-11-08T13:01:57Z"
     }
 }

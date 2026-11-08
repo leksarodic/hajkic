@@ -97,12 +97,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/05/E7-9-Divcibare-Ovcar-Banja.gpx",
-        "fetched_at": "2026-11-08T12:51:00Z",
-        "checked_at": "2026-11-08T12:51:00Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 221070,
         "sha256": "22175b18ab82bb79431da16cbd2fb7c45a119fbfcdf0f8a545a3ef61aa5a404c",
         "etag": null,
-        "last_modified": "Sat, 07 Dec 2024 21:27:12 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 2971,
@@ -892,14 +892,14 @@
         "pss_id": 3730,
         "updated_at": "2024-12-07T21:28:02Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:51:01Z",
-        "last_synced_at": "2026-11-08T12:51:01Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "divcibare - ovcar banja e7-9 zapadna srbija kablar kablar pd • spomenik palim u velikom ratu, • spomen kompleks na ravnoj gori, • rajac, spomenik borcima suvoborsko-kolubarske bitke, • rudnik, • spomen-kompleks takovo, • arheoloski lokalitet gradina na jelici, • ovcarsko-kablarska klisura sa svojim manastirima, • ovcar banja zahtevna • sa divcibara put e7 prelazi na dugacki greben planina suvobor i rajac koje su nize od 1000 metara i prekrivene pasnjacima i sumama. ovo je takodje istorijski put po planinskom vencu na kome je odrzana znacajna kolubarska bitka u prvom svetskom ratu. • na planini rajac koji je takodje turisticka zona nalazi se planinarski dom podignut 1953. godine. u siroj okolini rajca i suvobora nalazi se dobro obelezena mreza staza za rekreativno pesacenje. postoje i kvalitetne karte za orijentaciojsko takmicenje. ovde se odrzavaju brojne manifestacije i dogadjaji usko vezani za etno-kulturno nasledje. • poznato je veliko takmicenje kosidba na rajcu koje okuplja i ucesnike iz inostranstva. • sa rajca put nastavlja prema planini rudnik poznatoj po veoma starim ostacima rudarske aktivnosti. rudnik olova, cinka i srebra i danas je aktivan. u direkciji rudnika nalazi se mali muzej. na rudniku i u okolini nalazi se nekoliko aktivnih manastira izgradjenih od 15. do 18. veka. • put e7 padinama rudnika silazi u grad gornji milanovac, a zatim prolazi kroz niz sela takovskog kraja koja su smestena u prirodnim oazama zelenih bregova na juznim padinama planina suvobor i rajac. • u mestu takovo nalaze se spomenici posveceni drugom srpskom ustanku protiv turske okupacije. u celom kraju vec je razvijen etnoturizam. • seoska arhitektura sumadijskog tipa budi posebnu paznju. prizemne kuce sa tremovima i doksatima su pravo mesto za odmor. ovo je vocarski kraj i gosti se pridruzuju u berbama voca i pripremanju dzemova i rakija. • kroz takovski kraj i selo pranjane, pored kamenice, stize se u poznatu ovcarsko-kablarsku klisuru reke zapadne morave. ova klisura zasticena je kao predeo izuzetnih odlika. karakterise je zivi svet sa 150 vrsta ptica, 30 vrsta riba i vise od 600 biljnih vrsta. okolne",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:51:01Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

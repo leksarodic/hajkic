@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2018/01/4-4-3-man.gornjak_krupajsko-vrelo.gpx",
-        "fetched_at": "2026-11-08T11:59:20Z",
-        "checked_at": "2026-11-08T11:59:20Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 144403,
         "sha256": "c9feb71b624608ca228051af0b7d17f9f079c9c09fd435f3888b820724c64cc0",
         "etag": null,
-        "last_modified": "Thu, 25 Jan 2018 13:22:59 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 878,
@@ -202,14 +202,14 @@
         "pss_id": 5845,
         "updated_at": "2018-01-25T13:24:06Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:59:20Z",
-        "last_synced_at": "2026-11-08T11:59:20Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "od manastira gornjak do krupajskog vrela 4-4-3 istocna srbija homoljske planine manastir gornjak, 170m krupajsko vrelo, 227m gornjak pd • manastir gornjak • krupajsko vrelo • izletiste cvarinac • dva izvora pitke vode na trasi • privatni smestaj van trase: banja zdrelo i smestaji u okolini zahtevna staza krece od manastira gornjak gde ima mesta za parking. ide se istom stazom koja vodi ka jezevcu do iznad izletista cvarinac gde se staza odvaja levo i kasnije prati lep put koji ide uz levu obalu reke mlave i reke dubocice. uz put se na desnoj i levoj obali mlave mogu videti ostaci srednjovekovnih utvrdjenja. na sedmom kilometru se gazi dubocica i kasnije nastavlja sumskim i seoskim putevima dalje. na 18km se izlazi na asfalt i skrene desno jos 200m do skretanja za krupajsko vrelo.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:59:20Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

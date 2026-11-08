@@ -1,0 +1,129 @@
+{
+    "schema_version": 1,
+    "slug": "transverzala-fra",
+    "name": "Transverzala \"FRA\"",
+    "code": "T-2-25",
+    "category": {
+        "key": "planinarske-transverzale",
+        "label": "Planinarske transverzale"
+    },
+    "pss": {
+        "post_id": 13545,
+        "category_id": 30,
+        "region_ids": [
+            2
+        ],
+        "mountain_ids": [
+            203,
+            202,
+            84
+        ]
+    },
+    "region": "Šumadija",
+    "mountain": "Bukovik (Čačak)",
+    "difficulty": {
+        "key": "nepoznato",
+        "label": "Nije navedeno",
+        "source": null
+    },
+    "distance": {
+        "official_km": 51.0,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": 2048.0,
+        "official_loss_m": 2048.0,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": null,
+    "end": null,
+    "description": null,
+    "landmarks": "• Manastir Vujan\n\n • Borački krš\n\n • Gornja Trepča (Atomska banja)\n\n • Vidikovci: Bukovik, Ostrica, Borački krš\n\n • Izvori pitke vode: Bukovik i Ješevac\n\n • Naselja u blizini: Gornja Trepča, Prislonica, Ostra, Borač\n\n • Privatni smeštaj, više privatnih vila i odmaralište na trasi\n\n • Informacije o smeštaju kod Dragutina Nikitovića - restoran \"Šumadinac\" i u odmaralištu Atomske banje - na recepciji.",
+    "maintenance": null,
+    "marking": "propisana planinarska",
+    "accommodation": null,
+    "notes": "Transverzalu je trasirao Vladan Marković, a otvorena je 01.06.1984. godine.\nTransverzala je rekonstruisana 2016. godine.\nPoslednji put transverzala je markirana 2020. i 2021. godine.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": null,
+    "legend": [],
+    "photos_count": 4,
+    "gpx": {
+        "available": false,
+        "status": "missing",
+        "source_url": null,
+        "fetched_at": null,
+        "checked_at": "2026-11-08T13:01:56Z",
+        "bytes": null,
+        "sha256": null,
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": null,
+        "tracks": null,
+        "segments": null,
+        "waypoints": null,
+        "error": null,
+        "download": {
+            "mode": "none",
+            "url": null
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "minimal",
+        "issues": [
+            "missing_difficulty",
+            "missing_description",
+            "missing_gpx"
+        ]
+    },
+    "additional": {
+        "Planine/predeli": "Bukovik (Čačak), Ostrica, Vujan",
+        "Status": "aktivna",
+        "Datum poslednje verifikacije": "2016",
+        "Društvo": "FRA PK",
+        "Vreme obilaska (dana)": "2",
+        "Godina otvaranja": "01.06.1984.",
+        "Kontakt": "https://pss.rs/terenipp/transverzala-fra/",
+        "Vrsta": "kružna",
+        "Broj kontrolnih tačaka": "8 + 1",
+        "Opis puta": "• Obilazak transverzale počinje iz Gornje Trepče gde se i završava, ili iz sela Borač, jer u jednom i drugom mestu postoje smeštajni kapaciteti, a za oba mesta postoji javni prevoz. \n\n • KT 1 - Hotel Vujan u centru Atomske Banje (kontrolni pečat KT 1 zbog poštovanja privatnosti banje utisnut je u dnevnik, a pečat se nalazi u Mesnoj zajednici),\n\n • KT 2 - Manastir Vujan (520 m),\n\n • KT 3 - Veliki Vujan (857 m) (pečat se nalazi kraj piramide na vrhu Vujna),\n\n • KT 4 - Bukovik (851 m) (pečat se nalazi kraj piramide na vrhu Bukovika),\n\n • KT 5 - Ruševine manastira Ješevac (471 m) (pečat se nalazi kraj crkve),\n\n • KT 6 - Borački krš (615 m) (pečat se nalazi u crkvi ili domaćinstvu Dejana Miloševića, vlasnika etno restorana gde se može prenoćiti),\n\n • KT 7 - Ostrica (802 m) (pečat se nalazi kraj piramide na vrhu Ostrice),\n\n • KT 7A - Sokolica (ova tačka je neobavezna)\n\n • KT 8 - MZ Gornja Trepča - (kontrolni pečat se nalazi na obaveštajnoj tabli ili u Mesnoj zajednici)\n\n • Napomena: Za vreme većih kiša, u rano proleće, u vreme otapanja snega i zimi zbog uništenih mostova na Boračkoj reci 2014. godine, a nisu obnovljeni, nije bezbedno obilaziti transverzalu. Tačke KT 5 i KT 6 obići tačkasto od tačke KT 6.",
+        "Dnevnik": "• Postoji Pravilnik o Transverzali FRA,\n\n • Postoji Dnevnik o transverzali,\n\n • Nagrada transverzale je značka,\n\n • Postoji knjiga obilaska trasverzale\n\n • Dnevnik se može nabaviti kod PK \"FRA\" sa trekom obeleženih staza",
+        "Priznanja": "Značka"
+    },
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/transverzala-fra/",
+        "canonical_url": "https://pss.rs/terenipp/transverzala-fra/",
+        "pss_id": 13545,
+        "updated_at": null,
+        "published_at": null,
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
+    },
+    "search": "transverzala \"fra\" t-2-25 sumadija bukovik (cacak) • manastir vujan • boracki krs • gornja trepca (atomska banja) • vidikovci: bukovik, ostrica, boracki krs • izvori pitke vode: bukovik i jesevac • naselja u blizini: gornja trepca, prislonica, ostra, borac • privatni smestaj, vise privatnih vila i odmaraliste na trasi • informacije o smestaju kod dragutina nikitovica - restoran \"sumadinac\" i u odmaralistu atomske banje - na recepciji. nije navedeno",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T13:01:56Z"
+    }
+}

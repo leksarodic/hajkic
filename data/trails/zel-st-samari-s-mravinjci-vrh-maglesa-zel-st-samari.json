@@ -71,12 +71,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2021/01/3-14-7-Samari-s.Mravinjci-vrh-Maglesa.gpx",
-        "fetched_at": "2026-11-08T12:01:46Z",
-        "checked_at": "2026-11-08T12:01:46Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 128329,
         "sha256": "b6429fe57bf5b4a05ea2a1fbf42913fb712014d936309858455b74c20e789ac4",
         "etag": null,
-        "last_modified": "Fri, 08 Jan 2021 15:22:10 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 1046,
@@ -228,14 +228,14 @@
         "pss_id": 12775,
         "updated_at": "2022-04-28T16:28:54Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:01:46Z",
-        "last_synced_at": "2026-11-08T12:01:46Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "zel. stanica samari - mravinjci 3-14-7 zapadna srbija magles, ostres, povlen zel. stanica samari, 485 m zel. stanica samari, 485 m povlen pk • reke zabava i zabavica • privatni smestaj u selu mravinjci zahtevna staza je kruzna. na start staze na zeleznickoj stanici samari moze se doci putnickim vozom iz pravca beograda i uzica. u selo mravinjce moze se doci autobusom. od samara pesaci se uz reku veliku zabavu kolskim putem kroz bukovu sumu. pri tome sve do sela mravinjci je stalni uspon. staza prolazi kroz ostres gde ima par naseljenih kuca. nakon 10-ak km dolazi u selo mravinjci (oko 900 m nadmorske visine) na asfaltni put valjevo - taorska vrela. zatim pored vikend naselja matica ravan (kafana \"panorama\") staza ide kroz cetinarsku i bukovu sumu ka vrhu maglesa (1036 m). dalje staza ide stalno nizbrdo i delimicno je posumljena. pri kraju ide se nizvodno pored reke zabavice, ponovo do samara.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:01:46Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

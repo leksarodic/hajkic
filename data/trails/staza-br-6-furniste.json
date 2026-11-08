@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/05/7-9-6-Staza-br.6-Furniste.gpx",
-        "fetched_at": "2026-11-08T11:55:11Z",
-        "checked_at": "2026-11-08T11:55:11Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 92012,
         "sha256": "e027174a6eab16563c938b795ecc9a29e74a3ea3fcae281c80b3ed7a8014201d",
         "etag": null,
-        "last_modified": "Wed, 20 Jan 2021 20:06:27 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 541,
@@ -226,14 +226,14 @@
         "pss_id": 3763,
         "updated_at": "2021-02-27T12:00:38Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:55:11Z",
-        "last_synced_at": "2026-11-08T11:55:11Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "staza br. 6 \"furniste\" 7-9-6 jugoistocna srbija kukavica selo brestovo, 718 m planinarski dom \"preka voda\", 1270 m kukavica psk zahtevna selo brestovo - selo kukavica - furniste - planinarski dom \"preka voda\"",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:55:11Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

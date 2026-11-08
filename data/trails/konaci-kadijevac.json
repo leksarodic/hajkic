@@ -70,7 +70,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T11:59:34Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -110,14 +110,14 @@
         "pss_id": 8029,
         "updated_at": "2019-01-09T20:16:07Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:59:34Z",
-        "last_synced_at": "2026-11-08T11:59:34Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "konaci - kadijevac 6-10-1 kopaonicko-toplicka regija kopaonik konaci, 1725m kadijevac, 1459m kopaonik psd skijaski cantar kopaonik laka put vodi od turistickog naselja konaci do izletista kadijevac",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:59:34Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

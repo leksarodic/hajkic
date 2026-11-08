@@ -104,12 +104,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/05/E7-10-Ovcar-Banja-Kremna.gpx",
-        "fetched_at": "2026-11-08T12:51:02Z",
-        "checked_at": "2026-11-08T12:51:02Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 459022,
         "sha256": "3dc186efe3866d6a9ac76807fdd249eb8c0c132e4f0ced397eee7d16994b9b35",
         "etag": null,
-        "last_modified": "Sat, 07 Dec 2024 21:28:44 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": false,
         "points": 6293,
@@ -873,14 +873,14 @@
         "pss_id": 3733,
         "updated_at": "2024-12-07T21:28:51Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:51:03Z",
-        "last_synced_at": "2026-11-08T12:51:03Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "ovcar banja - kremna e7-10 jugozapadna srbija tara kablar pd ovcar banja, guca, arilje, manastir sv. ahilija (13.vek), reka rzav, cajetina, kremna (tarabici), mokra gora (\"sarganska osmica\", drvengrad), nacionalni park \"tara\", perucac, manastir raca, etnoselo sirogojno zahtevna • iz ovcar banje put e7 ide kroz dragacevski kraj, lepu zelenu kotlinu sa tipicnim seskim naseljima zapadne srbije. stize se u gucu gde se odrzava vec legendarni festiva majstora trube sa hiljadama posetilaca. • ovaj dogadjaj predstavlja pravi nacionalni festival etnonasledja, muzike, hrane, proizvoda i suvenira. iz guce preko niskih zelenih brda stize se u lep gradic arilje, koga ukrasava manastir svetog ahilija iz 13. veka. okolna brda prekrivena su vocnjacima maline koja je poznata po svom ukusu i glavni je izvozni proizvod ovog kraja. • iz arilja uz cistu reku rzav i zanimljivi kanjon put se penje prema selu dreznik sa zanimljivim kraskim reljefom, vrtacama i zaravnima. ovde pocinje i deo puta e7 koji je, u duzini od preko 330 km, kvalitetno obelezen i opremljen usmeravajucim i informativnim tablama kroz projekat prekogranicne saradnje „e-crosspass”. • dalje, uz promene reljefa put se lagano penje prema gradicu cajetina poznatom turistickom mestu ispod planine zlatibor. preko pitomih udolina i brezuljaka kremanske sljivovice put stize u maleno mesto kremna danas poznato po prorocima iz porodice tarabic. nekada su kremna bila usputna stanica na zeleznickoj pruzi uskog koloseka od beograda prema sarajevu, a danas je to prijatno mesto za odmor sa smestajem u kampovima, vikend kucama i domacinstvima.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:51:03Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

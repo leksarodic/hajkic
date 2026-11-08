@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2019/01/4-31-11-Maljica.gpx",
-        "fetched_at": "2026-11-08T11:59:50Z",
-        "checked_at": "2026-11-08T11:59:50Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 92189,
         "sha256": "5ae022700878cdc3905f5532dabca9b8dd0dcf1d3e2e02d817857d09e44ca473",
         "etag": null,
-        "last_modified": "Thu, 24 Jan 2019 11:09:38 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 755,
@@ -194,14 +194,14 @@
         "pss_id": 8214,
         "updated_at": "2019-01-24T11:13:06Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:59:50Z",
-        "last_synced_at": "2026-11-08T11:59:50Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "maljica 4-31-11 istocna srbija devica selo novo selo. 750m radenkovac, 738m ostra cuka pd • vidikovci: ima, ukljucujuci i sam vrh • na stazi ima izvora pitke vode: novoselska cesma, velkova slama, gabar • na stazi nema smestajnih objekata zahtevna • staza koristi poljske i sumske puteve (pocetni kilometar), na drugom kilometru (ravnise) se izlazi na krecnjacku visoravan i do vrha maljica je kamena podloga. sa vrha se pruza pogled ka celoj juznoj srbiji (suva planina, svrljiske planine, ostrozub, radan, veliki jastrebac) i istocnoj srbiji (tupiznica, borski stol, stara planina...) • spaja sledece staze/puteve: kalinovica - capljinac - radenkovac, i novo selo - krst - radenkovac",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:59:50Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

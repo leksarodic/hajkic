@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2021/12/4-27-9-Grebenom-Rtnja.gpx",
-        "fetched_at": "2026-11-08T12:02:12Z",
-        "checked_at": "2026-11-08T12:02:12Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 74141,
         "sha256": "a57c29de75a47d6bc804b32f69307aa5ca8a2ccebaadcbf0c237cedea3e348e0",
         "etag": null,
-        "last_modified": "Mon, 13 Dec 2021 13:23:25 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 442,
@@ -186,14 +186,14 @@
         "pss_id": 15062,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:02:12Z",
-        "last_synced_at": "2026-11-08T12:02:12Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "grebenom rtnja 4-27-9 istocna srbija rtanj tomiceva koliba, u podnozju rtnja, 834 m tomiceva koliba, u podnozju rtnja, 834 m ozren pk • vrhovi kusak (1309), preslo (1405 m) i siljak (1565 m) • ostaci kapele na vrhu • vidikovci: vrhovi kusak i siljak, greben rtnja • izvor pitke vode: nema srednje teska staza je kruzna i polazi od etno tomiceve kolibe, udaljene 6,5 km nasutim putem od sela muzinca. ide kolskim putem i posle 0,3 km skrece u levo i nakon 0,4 km ulazi u sumoviti deo. prati sumske staze i izlazi na livadu sa pojatom, gde skrece u desno i uzbrdo. vrlo brzo sa tog puta skrece u levo i uzbrdo sumskim putem. zatim skrece u desno i izlazi u predeo sa niskim rastinjem i ide po obodu vrtace. zalama u levo i ide do zapadnog dela rtnja i vidikovca. odatle ide strmo na desno do prve grupe stena, zatim druge grupe stena i izlazi na kusak (1309 m), zapadni vrh rtnja. staza, zatim nastavlja grebenom talasajuci nekoliko puta, i prolazi preko kote 1410, vrha preslo (1405 m) i stize do prevoja. zatim ide grebenom strmo do vrha siljak (1565 m). povratak ide spustajuci se klasicnom stazom preko serpentina do kosine koja vodi istocno do ulaska u sumoviti deo. tu staza skrece u desno i kolskim putevima se spusta do tomiceve kolibe.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:02:12Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

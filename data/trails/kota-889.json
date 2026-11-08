@@ -36,7 +36,7 @@
     "elevation": {
         "official_gain_m": 599.0,
         "official_loss_m": 0.0,
-        "calculated_gain_m": 683.1,
+        "calculated_gain_m": 728.1,
         "calculated_loss_m": 1.5,
         "min_m": 278.9,
         "max_m": 888.9
@@ -79,12 +79,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2023/05/5-kota-889-kablar_staza.gpx",
-        "fetched_at": "2026-11-08T12:03:21Z",
-        "checked_at": "2026-11-08T12:03:21Z",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
         "bytes": 36622,
         "sha256": "f8b9259ea3bc10bded447ff53b441a45fe848d2ee40a574008f889d7df4d0ba6",
         "etag": null,
-        "last_modified": "Sun, 07 May 2023 17:46:52 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 369,
@@ -156,14 +156,14 @@
         "pss_id": 19516,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:03:22Z",
-        "last_synced_at": "2026-11-08T12:03:22Z"
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
     },
     "search": "kota 889 3-28-5 zapadna srbija kablar ovcar banja, planinarski dom „bogoljub djuric“ - 290 m vrh kablara - 889 m kablar pd zahtevna staza krece od planinarskog doma „bogoljub djuric“ kroz sumu, pa nakon oko 600m krece grebenom ka koti 889m. na grebenskom delu staze pologa je kamen, stena i povremeno zemlja, uspon je konstantan.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:03:22Z"
+        "generated_at": "2026-11-08T13:01:57Z"
     }
 }

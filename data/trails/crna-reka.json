@@ -70,7 +70,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T11:57:38Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -110,14 +110,14 @@
         "pss_id": 4526,
         "updated_at": "2017-08-06T09:29:50Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:57:38Z",
-        "last_synced_at": "2026-11-08T11:57:38Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "crna reka 6-3-8 kopaonicko-toplicka regija stolovi na uscu crne reke u ibar (most), 230m na uscu crne reke u ibar (most), 230m kraljevo pak vidikovac na jednom delu desnog kraka staze laka od autobuske stanice u mataruskoj banji do pocetka staza vodi prvo asfaltni put (4,6km) , a onda makadamski put (2,4km) do usca crne reke u ibar. staza je dvosmerna: levi smer je lak, desni smer je zahtevan.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:57:38Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

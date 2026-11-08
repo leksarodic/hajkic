@@ -79,12 +79,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2023/08/Staza-5-GPS.gpx",
-        "fetched_at": "2026-11-08T12:03:38Z",
-        "checked_at": "2026-11-08T12:03:38Z",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
         "bytes": 31778,
         "sha256": "a9706b55f915e94bbe586614ca82669494519c4d92f0e2b31406b1e77f3e86db",
         "etag": null,
-        "last_modified": "Wed, 16 Aug 2023 22:38:24 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 283,
@@ -168,14 +168,14 @@
         "pss_id": 20034,
         "updated_at": "2023-11-26T20:11:19Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:03:38Z",
-        "last_synced_at": "2026-11-08T12:03:38Z"
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
     },
     "search": "vlasinski vrtovi - v. cemernik (staza 5) 7-22-3 jugoistocna srbija cemernik restoran vlasinski vrtovi 1235 m vrh cemernik 1638 m svarog psu vrh cemernik laka pocetak staze je ispod apartmanskog kompleksa ,,vlasinski vrtovi\" u blizini brane vlasinskog jezera i pored asfaltnog puta ,,surdulica - crna trava\". ona u svom prvom delu prolazi pored pomenutog objekata i niza drugih objekata za odmor u vlasina ridu, udaljavajuci se od vlasinskog jezera u smeru zapada uskim asfaltnim putem. nakon predjenih oko 500 metara se prelazi na uzu stazu uz dalji strmi uspon na terenu obraslom razlicitom vegetacijom. nakon prolaska pored repetitora, uspon postaje blazi. nakon predjenih oko 2 km se izlazi na siri sumski put na kome se zadrzava smer kretanja. sledi duza sumska deonica staze, a nakon nje nastupaju prostrane travnate povrsine. staza prolazi kroz mesto zvano preslap i ispod istoimenog vidikovca na kome su vidni rovovi iz prethodnih ratova. u nastavku staze je raskrsnica ispod vrha kula, gde se levo odvaja planinarska staza ,,promaja-cemernik\", a pravo se ide nasom stazom . zavrsni deo uspona vodi kroz terene sa vestacki podignutim sumama cetinara do samog vrha cemernik. smer kretanja: - vlasinski vrtovi - cemernik - raskrsnica (3,1 km) - preslap (3,8 km) - ispod kule – raskrsnica (5,6 km) - vrh cemernik (6,8 km)",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:03:38Z"
+        "generated_at": "2026-11-08T13:01:57Z"
     }
 }

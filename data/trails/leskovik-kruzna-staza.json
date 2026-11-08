@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/06/4-33-2-Leskovik-kruzna-staza.gpx",
-        "fetched_at": "2026-11-08T11:56:16Z",
-        "checked_at": "2026-11-08T11:56:16Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 200057,
         "sha256": "3b8a8776bd076bbbc67fe22e2a32a1cc0c8409093cb0ac3cd76c250cc165f6d9",
         "etag": null,
-        "last_modified": "Wed, 19 Feb 2020 13:05:35 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 1227,
@@ -210,14 +210,14 @@
         "pss_id": 3941,
         "updated_at": "2020-02-19T13:09:42Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:56:16Z",
-        "last_synced_at": "2026-11-08T11:56:16Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "leskovik - kruzna staza 4-33-2 istocna srbija ozren lipovac (ustanova za odmor i rekreaciju dece) - 395 mnv lipovac (ustanova za odmor i rekreaciju dece) - 395 mnv brdjanka psk • manastir svetog stevena, crkva svetog jovana i stari grad lipovac, sa nekoliko prelepih vidikovaca (krst, siroka livada, vrh leskovik, stene, prisad) • pitka voda kod manastira sv.stevan i crkva sv.jovan i u selu prisad zahtevna start je u selu lipovac, a nastavak staze ide prema manastiru sveti stevan odakle se staza penje ka vrhu leskovik (1174 mnv). nastavak staze ide vencem leskovika i spusta do mesta prised, a zatim ide podnozjem planine pored crkve svetog jovana ponovo do manastira svetog stevana i lipovca",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:56:16Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

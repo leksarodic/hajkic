@@ -79,12 +79,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2023/05/2-Sveti-Sava-data.gpx",
-        "fetched_at": "2026-11-08T12:03:16Z",
-        "checked_at": "2026-11-08T12:03:16Z",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
         "bytes": 31675,
         "sha256": "dacf32a793f55a0642be4fdb68cd07ae07f06320e93b84d0937d4b000e5d07c1",
         "etag": null,
-        "last_modified": "Sun, 07 May 2023 17:00:00 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 357,
@@ -156,14 +156,14 @@
         "pss_id": 19509,
         "updated_at": "2023-11-09T15:12:43Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:03:17Z",
-        "last_synced_at": "2026-11-08T12:03:17Z"
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
     },
     "search": "sveti sava - staza je privremeno zatvorena 3-28-2 zapadna srbija kablar ovcar banja, planinarski dom „bogoljub djuric“ - 290 m vrh kablara - 885 m kablar pd crkva svetog save vrlo teska jedna od najatraktivnijih staza na kablaru. staza je gotovo u stalnom usponu,koji je u sredisnjem delu veoma izrazen, posebno u delu od podnozja centralne stene – polazna tacka via ferate do vidikovca sa pogledom na meandre.. podloga je zamlja na pocetku, a potom je kamen i stena, na nekim mestima otvoren teren. potreban je oprez, dobra psiho-fizicka spremnost.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:03:17Z"
+        "generated_at": "2026-11-08T13:01:57Z"
     }
 }

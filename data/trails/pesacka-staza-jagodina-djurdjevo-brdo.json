@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2020/06/2-16-1-Pesacka-staza-Jagodina.gpx",
-        "fetched_at": "2026-11-08T12:00:58Z",
-        "checked_at": "2026-11-08T12:00:58Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 73320,
         "sha256": "5dde94b21bf63f3c3b75b5a4e04fe3365c7f02dff9d6cf10a195cb15e9a23817",
         "etag": null,
-        "last_modified": "Fri, 19 Jun 2020 17:25:56 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 433,
@@ -174,14 +174,14 @@
         "pss_id": 11656,
         "updated_at": "2026-09-21T15:06:33Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:00:59Z",
-        "last_synced_at": "2026-11-08T12:00:59Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "edukativna staza 2-16-1 sumadija juhor gradski park \"potok\", 120 m gradski park \"potok\", 120 m planinski duh pd • odlicno uredjen javni park \"potok\" • akva park • muzej vostanih figura • zooloski vrt \"tigar\" • sportska sala jassa • na stazi postoji nekoliko vidikovaca, bez uredjene infrastrukture sa pogledom na juhor i crni vrh. • na pocetku staze nalazi se cesma sa pijacom vodom, dok neposredno pred kraj staze postoji izvor sa pijacom vodom. • na trasi je uredjen kamp \"ruza vetrova\" • odmaralista na trasi i van trase • van trase su hoteli i privatni smestaj u jagodini laka planinarski put se nalazi na djurdjevom brdu (229 m), nadomak jagodine. pocetak puta je javni park \"potok\", put nastavlja kroz park do puta sa savremenim kolovoznim zastorom, put vodi do raskrsnice gde se nastavlja nekategorisanim, losim kolskim putem (tu se nalazi oznaceno mesto za kampovanje). put dalje vodi nekategorisanim putem, koji je mestimicno nasipan tucanikom. put dalje vodi pored korita reke belice. put je kruzan, to jest zavrsava se na polaznom mestu.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:00:59Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

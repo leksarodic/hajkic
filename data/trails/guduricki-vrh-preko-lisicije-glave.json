@@ -69,8 +69,8 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/05/1-4-5.gpx",
-        "fetched_at": "2026-11-08T12:50:30Z",
-        "checked_at": "2026-11-08T12:50:30Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 20922,
         "sha256": "1e5d2f011a45be82f6e504e48044cc3c74de8211487cd374c50993995b3c5083",
         "etag": null,
@@ -229,14 +229,14 @@
         "pss_id": 3653,
         "updated_at": "2023-03-11T10:44:29Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:50:30Z",
-        "last_synced_at": "2026-11-08T12:50:30Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "guduricki vrh preko lisicije glave 1-4-5 vojvodina vrsacke planine planinarski dom 280 mnv guduricki vrh 641 mnv vrsacka kula psd zahtevna",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:50:30Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

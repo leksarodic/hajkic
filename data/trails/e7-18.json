@@ -1,0 +1,826 @@
+{
+    "schema_version": 1,
+    "slug": "e7-18",
+    "name": "Vlasotince - Prohor Pčinjski",
+    "code": "E7-18",
+    "category": {
+        "key": "evropski-pesacki-putevi-u-srbiji",
+        "label": "Evropski pešački putevi u Srbiji"
+    },
+    "pss": {
+        "post_id": 3875,
+        "category_id": 29,
+        "region_ids": [
+            7
+        ],
+        "mountain_ids": [
+            78
+        ]
+    },
+    "region": "Jugoistočna Srbija",
+    "mountain": "Čemernik",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevan"
+    },
+    "distance": {
+        "official_km": 141.2,
+        "calculated_km": 141.42
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": 4060.0,
+        "official_loss_m": 3200.0,
+        "calculated_gain_m": 684.4,
+        "calculated_loss_m": 95.2,
+        "min_m": 228.0,
+        "max_m": 822.0
+    },
+    "start": null,
+    "end": null,
+    "description": "• Put E7 se iz grada Vlasotince penje na greben Vlasinskih planina\nvisokih od 1000 do 1800 metara. Put prolazi preko velikih livada\ni širokih grebena iznad doline reke Vlasine. Prolazeći poed vrha\nVeliki Čemernik (1638m), put silazi na poznato Vlasinsko jezero\nveći turistički centar ovog kraja. Jezero je podignuto gradnjom\nveštačke brane na nekadašnjoj velikoj močvari zvanoj „blato”, za\npotrebe izgradnje hidroelektrane. Posebna zanimljivost su „ploveća\nostrva” izgrađena od barske flore otkinute od obale na kojoj izrasta\ni drvenasta vegetacija. Ovde rastu i veoma retke biljke „mesožderi”.\n\n • Zbog svojih prirodnih vrednosti Vlasinsko jezero je zaštićeno i\nproglašeno za predeo izuzetnih odlika. Sa jezera, put E7 prelazi\nvisoke grebene planine Vardenika i penje se na masiv planine Besne\nKobile (1923).\n\n • Sa vrhova Besne Kobile put E7 silazi prema jugu i lokalitetima\nPatarica, Brezovica i Sveti Ilija odakle se spušta u dolinu reke\nPčinje. Kod sela Sveti Ilija (Barelić) alternativna ruta E7 koja se\nodvojila kod mesta Žuč se ponovo vraća na osnovnu rutu.\n\n • Na delovima dolinskih strana u stenama peščara izvajani su neobični\noblici i prirodne skulpture koje bude pažnju prolaznika.\n\n • Na najlepšem delu pored reke Pčinje podignut je manastir Sveti\nProhor Pčinjski iz 11.veka. Od manastira put E7 se nastavlja prema\nobližnjem graničnom prelazu sa Severnom Makedonijom.",
+    "landmarks": "Vlasotince, Vlasinsko jezero, manastir Sv.Prohor",
+    "maintenance": null,
+    "marking": "evropska crveno-žuta",
+    "accommodation": "Vlasotince, Vlasinsko jezero, Kriva Feja, Besna Kobila, Vranje, manastir sv.Prohor",
+    "notes": "• E7-18-1 Vlasotince – Ostrozub 18,3 km\n\n • E7-18-2 Ostrozub – Veliki Čemernik 24,7 km\n\n • E7-18-3 Veliki Čemernik – Veliki Strešer 23,3 km\n\n • E7-18-4 Veliki Strešer – Besna Kobila 17,4 km\n\n • E7-18-5 Besna Kobila – Sveti Ilija 24,8 km\n\n • E7-18-6 Sveti Ilija – Šajince 12,0 km\n\n • E7-18-7 Šajince – Granični prelaz Prohor Pčinjski 20,7 km",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Čemernik PD",
+        "url": "https://pss.rs/adresar_klubova/cemernik-pd/",
+        "contact": "Marka Oreškovića 4, 16210 Vlasotince\n+38116 876 000 ; +38162 896 01 62",
+        "clubs": [
+            {
+                "name": "Čemernik PD",
+                "url": "https://pss.rs/adresar_klubova/cemernik-pd/",
+                "contact": "Marka Oreškovića 4, 16210 Vlasotince\n+38116 876 000 ; +38162 896 01 62"
+            },
+            {
+                "name": "Dvig PSK",
+                "url": "https://pss.rs/adresar_klubova/dvig-psk/",
+                "contact": "Svetosavska 8, 17510 Vladičin Han\n+381 63473666"
+            },
+            {
+                "name": "Morič PD",
+                "url": "https://pss.rs/adresar_klubova/moric-pd/",
+                "contact": "Nemanjina 37, 16210 Vlasotince\n+38162 17 55 729"
+            },
+            {
+                "name": "Ostrovica PK",
+                "url": "https://pss.rs/adresar_klubova/ostrovica-pd/",
+                "contact": "Maršala Tita 2, 17523 Preševo\n+38163 17 59 337; +3817 660 279"
+            },
+            {
+                "name": "Strešer PD",
+                "url": "https://pss.rs/adresar_klubova/streser-pd/",
+                "contact": "Kralja Petra I 33/6, 17530 Surdulica\n+38163 844 15 29; +38160 081 42 66"
+            },
+            {
+                "name": "Železničar 2006 PK Vranje",
+                "url": "https://pss.rs/adresar_klubova/zeleznicar-2006-pk/",
+                "contact": "Kralja Stefana Prvovenčanog bb, 17500 Vranje\n+38164 836 7865\nhttp://www.spidzelznicar.com"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/E7-18-Vlasotince-Prohor-Pcinjski.gpx",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
+        "bytes": 512119,
+        "sha256": "9daba8194cb03375847da75387ced1b10c05b263268aeda267b13266121b7000",
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": 7039,
+        "tracks": 7,
+        "segments": 7,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/E7-18-Vlasotince-Prohor-Pcinjski.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/e7-18.geojson",
+        "bbox": [
+            21.88266216,
+            42.313404283,
+            22.332290863,
+            42.963646
+        ],
+        "center": [
+            22.107477,
+            42.638525
+        ],
+        "start_point": [
+            22.135329,
+            42.963638
+        ],
+        "end_point": [
+            21.88266216,
+            42.313404283
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    22.13533,
+                    42.96364
+                ],
+                [
+                    22.13323,
+                    42.96331
+                ],
+                [
+                    22.13659,
+                    42.96111
+                ],
+                [
+                    22.15815,
+                    42.95699
+                ],
+                [
+                    22.15401,
+                    42.95588
+                ],
+                [
+                    22.15168,
+                    42.94873
+                ],
+                [
+                    22.1581,
+                    42.94248
+                ],
+                [
+                    22.159,
+                    42.93358
+                ],
+                [
+                    22.17141,
+                    42.92891
+                ],
+                [
+                    22.17132,
+                    42.92582
+                ],
+                [
+                    22.17607,
+                    42.92422
+                ],
+                [
+                    22.17687,
+                    42.91906
+                ],
+                [
+                    22.18023,
+                    42.91567
+                ],
+                [
+                    22.17773,
+                    42.91242
+                ],
+                [
+                    22.18109,
+                    42.91337
+                ],
+                [
+                    22.18639,
+                    42.9093
+                ],
+                [
+                    22.20276,
+                    42.90715
+                ],
+                [
+                    22.20057,
+                    42.90413
+                ],
+                [
+                    22.20317,
+                    42.90191
+                ],
+                [
+                    22.20995,
+                    42.90367
+                ],
+                [
+                    22.21593,
+                    42.90232
+                ],
+                [
+                    22.22382,
+                    42.89671
+                ],
+                [
+                    22.23147,
+                    42.8968
+                ],
+                [
+                    22.24303,
+                    42.88583
+                ],
+                [
+                    22.25017,
+                    42.88471
+                ]
+            ],
+            [
+                [
+                    22.25017,
+                    42.88471
+                ],
+                [
+                    22.25663,
+                    42.87471
+                ],
+                [
+                    22.2539,
+                    42.86572
+                ],
+                [
+                    22.25623,
+                    42.86041
+                ],
+                [
+                    22.25438,
+                    42.85892
+                ],
+                [
+                    22.26159,
+                    42.8397
+                ],
+                [
+                    22.24807,
+                    42.84166
+                ],
+                [
+                    22.24517,
+                    42.83808
+                ],
+                [
+                    22.2284,
+                    42.83381
+                ],
+                [
+                    22.23045,
+                    42.82808
+                ],
+                [
+                    22.23929,
+                    42.8186
+                ],
+                [
+                    22.24937,
+                    42.81007
+                ],
+                [
+                    22.25432,
+                    42.80894
+                ],
+                [
+                    22.25352,
+                    42.8044
+                ],
+                [
+                    22.26541,
+                    42.80291
+                ],
+                [
+                    22.26402,
+                    42.80047
+                ],
+                [
+                    22.26724,
+                    42.79505
+                ],
+                [
+                    22.26312,
+                    42.77922
+                ],
+                [
+                    22.26955,
+                    42.75912
+                ],
+                [
+                    22.26731,
+                    42.74929
+                ],
+                [
+                    22.27149,
+                    42.74139
+                ],
+                [
+                    22.27209,
+                    42.7328
+                ],
+                [
+                    22.27743,
+                    42.72804
+                ]
+            ],
+            [
+                [
+                    22.27743,
+                    42.72804
+                ],
+                [
+                    22.28222,
+                    42.72482
+                ],
+                [
+                    22.28454,
+                    42.71937
+                ],
+                [
+                    22.30811,
+                    42.70365
+                ],
+                [
+                    22.31603,
+                    42.68937
+                ],
+                [
+                    22.31239,
+                    42.67711
+                ],
+                [
+                    22.31621,
+                    42.67078
+                ],
+                [
+                    22.32431,
+                    42.66635
+                ],
+                [
+                    22.32931,
+                    42.65864
+                ],
+                [
+                    22.32958,
+                    42.65625
+                ],
+                [
+                    22.32418,
+                    42.65401
+                ],
+                [
+                    22.32397,
+                    42.64878
+                ],
+                [
+                    22.32156,
+                    42.6477
+                ],
+                [
+                    22.33229,
+                    42.63978
+                ],
+                [
+                    22.31533,
+                    42.61728
+                ],
+                [
+                    22.31629,
+                    42.61026
+                ],
+                [
+                    22.30227,
+                    42.60669
+                ],
+                [
+                    22.30103,
+                    42.60382
+                ],
+                [
+                    22.28947,
+                    42.6035
+                ],
+                [
+                    22.28634,
+                    42.60492
+                ],
+                [
+                    22.28026,
+                    42.61232
+                ],
+                [
+                    22.27762,
+                    42.62305
+                ],
+                [
+                    22.27011,
+                    42.62443
+                ],
+                [
+                    22.26891,
+                    42.62836
+                ],
+                [
+                    22.26748,
+                    42.62647
+                ]
+            ],
+            [
+                [
+                    22.26748,
+                    42.62647
+                ],
+                [
+                    22.25711,
+                    42.61821
+                ],
+                [
+                    22.26164,
+                    42.61794
+                ],
+                [
+                    22.2663,
+                    42.62036
+                ],
+                [
+                    22.26742,
+                    42.61828
+                ],
+                [
+                    22.27311,
+                    42.61933
+                ],
+                [
+                    22.2709,
+                    42.61586
+                ],
+                [
+                    22.2751,
+                    42.61274
+                ],
+                [
+                    22.26919,
+                    42.61094
+                ],
+                [
+                    22.26615,
+                    42.60749
+                ],
+                [
+                    22.27017,
+                    42.60583
+                ],
+                [
+                    22.27064,
+                    42.59627
+                ],
+                [
+                    22.26018,
+                    42.58783
+                ],
+                [
+                    22.25232,
+                    42.58626
+                ],
+                [
+                    22.24326,
+                    42.58159
+                ],
+                [
+                    22.24795,
+                    42.57501
+                ],
+                [
+                    22.24487,
+                    42.5646
+                ],
+                [
+                    22.23674,
+                    42.56069
+                ],
+                [
+                    22.23138,
+                    42.54485
+                ],
+                [
+                    22.2272,
+                    42.54083
+                ],
+                [
+                    22.22763,
+                    42.53332
+                ],
+                [
+                    22.21515,
+                    42.52663
+                ]
+            ],
+            [
+                [
+                    22.21515,
+                    42.52663
+                ],
+                [
+                    22.21185,
+                    42.5218
+                ],
+                [
+                    22.21524,
+                    42.51551
+                ],
+                [
+                    22.20973,
+                    42.50974
+                ],
+                [
+                    22.21668,
+                    42.49879
+                ],
+                [
+                    22.2133,
+                    42.48999
+                ],
+                [
+                    22.21595,
+                    42.48281
+                ],
+                [
+                    22.20401,
+                    42.47605
+                ],
+                [
+                    22.19792,
+                    42.46001
+                ],
+                [
+                    22.18164,
+                    42.45757
+                ],
+                [
+                    22.17666,
+                    42.44952
+                ],
+                [
+                    22.16872,
+                    42.44578
+                ],
+                [
+                    22.14728,
+                    42.4439
+                ],
+                [
+                    22.1446,
+                    42.44591
+                ],
+                [
+                    22.14627,
+                    42.44813
+                ],
+                [
+                    22.13985,
+                    42.44673
+                ],
+                [
+                    22.13294,
+                    42.45128
+                ],
+                [
+                    22.12306,
+                    42.45092
+                ],
+                [
+                    22.10746,
+                    42.46154
+                ],
+                [
+                    22.08091,
+                    42.47156
+                ],
+                [
+                    22.07389,
+                    42.47366
+                ],
+                [
+                    22.04471,
+                    42.47484
+                ]
+            ],
+            [
+                [
+                    22.04471,
+                    42.47484
+                ],
+                [
+                    22.03913,
+                    42.4729
+                ],
+                [
+                    22.03441,
+                    42.46627
+                ],
+                [
+                    22.03447,
+                    42.45486
+                ],
+                [
+                    22.03176,
+                    42.45009
+                ],
+                [
+                    22.03358,
+                    42.44625
+                ],
+                [
+                    22.03772,
+                    42.44544
+                ],
+                [
+                    22.03911,
+                    42.43791
+                ],
+                [
+                    22.03427,
+                    42.42539
+                ],
+                [
+                    22.03808,
+                    42.40848
+                ],
+                [
+                    22.03416,
+                    42.39753
+                ],
+                [
+                    22.0251,
+                    42.38495
+                ]
+            ],
+            [
+                [
+                    22.0251,
+                    42.38495
+                ],
+                [
+                    22.01521,
+                    42.38835
+                ],
+                [
+                    22.00768,
+                    42.38443
+                ],
+                [
+                    22.0018,
+                    42.39057
+                ],
+                [
+                    21.99408,
+                    42.3847
+                ],
+                [
+                    21.98302,
+                    42.38471
+                ],
+                [
+                    21.97117,
+                    42.38032
+                ],
+                [
+                    21.94755,
+                    42.35755
+                ],
+                [
+                    21.94382,
+                    42.35917
+                ],
+                [
+                    21.94243,
+                    42.35668
+                ],
+                [
+                    21.93955,
+                    42.35734
+                ],
+                [
+                    21.93765,
+                    42.35247
+                ],
+                [
+                    21.93262,
+                    42.35365
+                ],
+                [
+                    21.92975,
+                    42.34848
+                ],
+                [
+                    21.93147,
+                    42.34574
+                ],
+                [
+                    21.92454,
+                    42.34571
+                ],
+                [
+                    21.92554,
+                    42.34238
+                ],
+                [
+                    21.92012,
+                    42.34102
+                ],
+                [
+                    21.91842,
+                    42.34249
+                ],
+                [
+                    21.91753,
+                    42.34028
+                ],
+                [
+                    21.91444,
+                    42.34019
+                ],
+                [
+                    21.91321,
+                    42.33508
+                ],
+                [
+                    21.9096,
+                    42.33234
+                ],
+                [
+                    21.90598,
+                    42.33334
+                ],
+                [
+                    21.9018,
+                    42.33168
+                ],
+                [
+                    21.89956,
+                    42.33303
+                ],
+                [
+                    21.89997,
+                    42.33141
+                ],
+                [
+                    21.8982,
+                    42.33255
+                ],
+                [
+                    21.89394,
+                    42.32978
+                ],
+                [
+                    21.89633,
+                    42.32625
+                ],
+                [
+                    21.89035,
+                    42.32161
+                ],
+                [
+                    21.89395,
+                    42.31645
+                ],
+                [
+                    21.88266,
+                    42.3134
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": [
+            "missing_elevation"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/e7-18/",
+        "canonical_url": "https://pss.rs/terenipp/e7-18/",
+        "pss_id": 3875,
+        "updated_at": "2024-12-07T21:34:19Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
+    },
+    "search": "vlasotince - prohor pcinjski e7-18 jugoistocna srbija cemernik cemernik pd vlasotince, vlasinsko jezero, manastir sv.prohor zahtevna • put e7 se iz grada vlasotince penje na greben vlasinskih planina visokih od 1000 do 1800 metara. put prolazi preko velikih livada i sirokih grebena iznad doline reke vlasine. prolazeci poed vrha veliki cemernik (1638m), put silazi na poznato vlasinsko jezero veci turisticki centar ovog kraja. jezero je podignuto gradnjom vestacke brane na nekadasnjoj velikoj mocvari zvanoj „blato”, za potrebe izgradnje hidroelektrane. posebna zanimljivost su „ploveca ostrva” izgradjena od barske flore otkinute od obale na kojoj izrasta i drvenasta vegetacija. ovde rastu i veoma retke biljke „mesozderi”. • zbog svojih prirodnih vrednosti vlasinsko jezero je zasticeno i proglaseno za predeo izuzetnih odlika. sa jezera, put e7 prelazi visoke grebene planine vardenika i penje se na masiv planine besne kobile (1923). • sa vrhova besne kobile put e7 silazi prema jugu i lokalitetima patarica, brezovica i sveti ilija odakle se spusta u dolinu reke pcinje. kod sela sveti ilija (barelic) alternativna ruta e7 koja se odvojila kod mesta zuc se ponovo vraca na osnovnu rutu. • na delovima dolinskih strana u stenama pescara izvajani su neobicni oblici i prirodne skulpture koje bude paznju prolaznika. • na najlepsem delu pored reke pcinje podignut je manastir sveti prohor pcinjski iz 11.veka. od manastira put e7 se nastavlja prema obliznjem granicnom prelazu sa severnom makedonijom.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T13:01:56Z"
+    }
+}

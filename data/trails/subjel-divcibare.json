@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/06/3-32-1-Subjel-Divcibare.gpx",
-        "fetched_at": "2026-11-08T11:56:14Z",
-        "checked_at": "2026-11-08T11:56:14Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 72439,
         "sha256": "8028a84d13bd954e57b3d0a9a7cc13719885bf2844887929b8c437a31c29409a",
         "etag": null,
-        "last_modified": "Sat, 03 Jul 2021 12:39:43 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 572,
@@ -188,14 +188,14 @@
         "pss_id": 3917,
         "updated_at": "2021-07-03T12:40:40Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:56:15Z",
-        "last_synced_at": "2026-11-08T11:56:15Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "subjel - divcibare 3-32-1 zapadna srbija subjel selo subjel, 720 m divcibare (centar), 980 m pobeda psk • vodopad skakavac • divcibare zahtevna",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:56:15Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

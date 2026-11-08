@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2020/06/4-48-5-Mali-Vukan_greben.gpx",
-        "fetched_at": "2026-11-08T12:00:53Z",
-        "checked_at": "2026-11-08T12:00:53Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 49855,
         "sha256": "7719d7fcb4c7a81d293968aeb453607e6c0c535017458f3a612b55131e3af506",
         "etag": null,
-        "last_modified": "Tue, 09 Jun 2020 17:47:42 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 291,
@@ -166,14 +166,14 @@
         "pss_id": 11614,
         "updated_at": "2020-06-09T17:52:00Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:00:54Z",
-        "last_synced_at": "2026-11-08T12:00:54Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "mali vukan grebenom od cetiri lule 4-48-5 istocna srbija vukan cesma cetiri lula, 176 m cesma cetiri lula, 176 m gornjak pd • srednjevekovna mitropolija (200 m iznad izvora 4 lule) • na trasi izvor pitke vode \"4 lule\" • van trase smestaj u izvidjackom domu \"zdrelo\" • van trase smestaj u banji zdrelo i u privatnom smestaju u okolini srednje teska • start je od cesme 4 lule ispred koje ima dovoljno mesta za parking. staza krece putem iznad 4 lule i nakon 200 m se skrece levo i ide do pocetka grebena. nakon toga staza nastavlja grebenom, gde je potrebno koristiti ruke za pridrzavanje na steni. na jednom mestu ima i postavljen lanac za pridrzavanje tokom penjanja. kada se stigne do kudelinove tvrdjave staza je malo ravnija i pri kraju se sa grebena ulazi u sumu. silazak je klasicnom stazom ka 4 lule gde se nakon oko 1 km stize do sumskog puta kojim se ide do kraja. • staza nije preporucljiva za pocetnike, jer je potrebno i penjanje uz stenu. • takodje tokom toplijih meseci treba paziti na zmije. • na grebenskom delu staze je potrebna opreznost.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:00:54Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

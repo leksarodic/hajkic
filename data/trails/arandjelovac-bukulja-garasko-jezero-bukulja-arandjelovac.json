@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2019/05/2-5-6-Bukulja-Garasko-jezero.gpx",
-        "fetched_at": "2026-11-08T12:00:14Z",
-        "checked_at": "2026-11-08T12:00:14Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 665348,
         "sha256": "3c3303e1eeb13431c5c422d8a1a498fabe55e4dcd3075451128f6e71c142bbfe",
         "etag": null,
-        "last_modified": "Fri, 10 May 2019 12:22:28 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 4057,
@@ -214,14 +214,14 @@
         "pss_id": 8923,
         "updated_at": "2019-05-10T12:22:39Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:00:15Z",
-        "last_synced_at": "2026-11-08T12:00:15Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "arandjelovac - bukulja - garasko jezero - bukulja - arandjelovac 2-5-6 sumadija bukulja bukovicki park u arandjelovcu, 255m bukovicki park u arandjelovcu, 255m bukulja pd • park bukovicke banje • bukulja • garasko jezero zahtevna • iz arandjelovackog parka kroz prijatne ulicice na obodu grada dolazimo na pocetak \"staze zdravlja\" i sledimo je uzbrdo do vrha bukulje. (ovo je i najtezi deo rute.) • posle predaha i obaveznog uspona na osmatracnicu, ulazimo u sumski predeo na zapadu planine pa se, najpre makadamom a onda zemljanim puteljkom, lagano spustamo do garaskog jezera. • od jezera nas ocekuje dug uspon po makadamu i zemljanom puteljku nazad na bukulju. sa vrha se stazom zdravlja ponovo spustamo u grad.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:00:15Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

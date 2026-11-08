@@ -70,7 +70,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T11:57:30Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -110,14 +110,14 @@
         "pss_id": 4503,
         "updated_at": "2017-08-20T13:28:31Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:57:30Z",
-        "last_synced_at": "2026-11-08T11:57:30Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "vlasinsko jezero - prohor pcinjski 7-20-5 jugoistocna srbija besna kobila promaja na vlasinskom jezeru, 1230m manastir prohor pcinjski, 430m zeleznicar 2006 pk vranje manastir sv. prohor pcinjski zahtevna staza: promaja na vlasinskom jezeru (1230m) - besna kobila (1923m) - siroka planina (1345m) - manastir prohor pcinjski (430m)",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:57:30Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

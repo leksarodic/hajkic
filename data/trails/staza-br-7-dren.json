@@ -70,7 +70,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T11:55:13Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -110,14 +110,14 @@
         "pss_id": 3764,
         "updated_at": "2021-02-27T12:08:10Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:55:13Z",
-        "last_synced_at": "2026-11-08T11:55:13Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "staza br. 7 \"dren\" 7-9-7 jugoistocna srbija kukavica mesto vucje, 302 m planinarski dom \"preka voda\", 1270 m kukavica psk • srednjovekovni grad - skobaljic grad • vila teokarevic u vucju • hidroelektrana \"vucje\" • kanjon reke vucjanke zahtevna mesto vucje - potok turjak - mali bazovik - dren - svinjarnik - vrteska - vrh vlajna (1442 m) - planinarski dom \"preka voda\"",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:55:13Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

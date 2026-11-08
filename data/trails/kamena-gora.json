@@ -1,0 +1,329 @@
+{
+    "schema_version": 1,
+    "slug": "kamena-gora",
+    "name": "Kamena Gora",
+    "code": "E7-12-5",
+    "category": {
+        "key": "evropski-pesacki-putevi-u-srbiji",
+        "label": "Evropski pešački putevi u Srbiji"
+    },
+    "pss": {
+        "post_id": 23571,
+        "category_id": 29,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            194
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Pobijenik",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "lak"
+    },
+    "distance": {
+        "official_km": null,
+        "calculated_km": 37.5
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": null,
+        "official_loss_m": null,
+        "calculated_gain_m": 0.0,
+        "calculated_loss_m": 0.0,
+        "min_m": 0.0,
+        "max_m": 0.0
+    },
+    "start": null,
+    "end": null,
+    "description": null,
+    "landmarks": null,
+    "maintenance": null,
+    "marking": null,
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": null,
+    "club": null,
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2024/02/E7-12-5.gpx",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
+        "bytes": 156031,
+        "sha256": "093ef4533f82995828e45699bdedee7aaf7a6855b6e77fe462f120563246e708",
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": 2159,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2024/02/E7-12-5.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/kamena-gora.geojson",
+        "bbox": [
+            19.513074486,
+            43.242148214,
+            19.696376195,
+            43.342123394
+        ],
+        "center": [
+            19.604725,
+            43.292136
+        ],
+        "start_point": [
+            19.51832371,
+            43.342123394
+        ],
+        "end_point": [
+            19.681779388,
+            43.313382575
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    19.51832,
+                    43.34212
+                ],
+                [
+                    19.51314,
+                    43.33573
+                ],
+                [
+                    19.52734,
+                    43.32662
+                ],
+                [
+                    19.53103,
+                    43.31996
+                ],
+                [
+                    19.5302,
+                    43.31691
+                ],
+                [
+                    19.53556,
+                    43.31328
+                ],
+                [
+                    19.53257,
+                    43.31149
+                ],
+                [
+                    19.53934,
+                    43.30865
+                ],
+                [
+                    19.53844,
+                    43.30488
+                ],
+                [
+                    19.54475,
+                    43.30094
+                ],
+                [
+                    19.54511,
+                    43.29567
+                ],
+                [
+                    19.5523,
+                    43.29054
+                ],
+                [
+                    19.55202,
+                    43.28811
+                ],
+                [
+                    19.55652,
+                    43.28783
+                ],
+                [
+                    19.56344,
+                    43.28188
+                ],
+                [
+                    19.5642,
+                    43.27778
+                ],
+                [
+                    19.54852,
+                    43.27679
+                ],
+                [
+                    19.54736,
+                    43.26674
+                ],
+                [
+                    19.5605,
+                    43.26339
+                ],
+                [
+                    19.5765,
+                    43.26303
+                ],
+                [
+                    19.57396,
+                    43.25714
+                ],
+                [
+                    19.58193,
+                    43.25647
+                ],
+                [
+                    19.58642,
+                    43.25269
+                ],
+                [
+                    19.59289,
+                    43.25619
+                ],
+                [
+                    19.59265,
+                    43.25376
+                ],
+                [
+                    19.59601,
+                    43.25236
+                ],
+                [
+                    19.59222,
+                    43.24958
+                ],
+                [
+                    19.59745,
+                    43.24321
+                ],
+                [
+                    19.60062,
+                    43.24241
+                ],
+                [
+                    19.61567,
+                    43.24262
+                ],
+                [
+                    19.62619,
+                    43.24729
+                ],
+                [
+                    19.63671,
+                    43.24469
+                ],
+                [
+                    19.63819,
+                    43.25026
+                ],
+                [
+                    19.6471,
+                    43.25526
+                ],
+                [
+                    19.6481,
+                    43.26026
+                ],
+                [
+                    19.65113,
+                    43.26244
+                ],
+                [
+                    19.6683,
+                    43.26433
+                ],
+                [
+                    19.68446,
+                    43.26236
+                ],
+                [
+                    19.68707,
+                    43.26393
+                ],
+                [
+                    19.69221,
+                    43.27566
+                ],
+                [
+                    19.69638,
+                    43.27879
+                ],
+                [
+                    19.69058,
+                    43.29172
+                ],
+                [
+                    19.69327,
+                    43.29995
+                ],
+                [
+                    19.68465,
+                    43.30477
+                ],
+                [
+                    19.68668,
+                    43.30459
+                ],
+                [
+                    19.68535,
+                    43.311
+                ],
+                [
+                    19.68178,
+                    43.31338
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description",
+            "missing_elevation"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/kamena-gora/",
+        "canonical_url": "https://pss.rs/terenipp/kamena-gora/",
+        "pss_id": 23571,
+        "updated_at": "2024-12-07T22:15:48Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
+    },
+    "search": "kamena gora e7-12-5 jugozapadna srbija pobijenik laka",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T13:01:57Z"
+    }
+}

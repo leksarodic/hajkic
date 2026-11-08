@@ -79,12 +79,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2023/03/Staza-17-Donje-Selo-Dubrava.gpx",
-        "fetched_at": "2026-11-08T12:03:09Z",
-        "checked_at": "2026-11-08T12:03:09Z",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
         "bytes": 147530,
         "sha256": "ef326f40721cd8fa9a54de8fb6ca3dbb691cb2bb9207036d430eb01d56d8cf38",
         "etag": null,
-        "last_modified": "Fri, 31 Mar 2023 19:38:33 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 1349,
@@ -236,14 +236,14 @@
         "pss_id": 19308,
         "updated_at": "2023-09-08T20:02:44Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:03:10Z",
-        "last_synced_at": "2026-11-08T12:03:10Z"
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
     },
     "search": "staza br. 17: donje selo – dubrava 5-12-20 jugozapadna srbija zlatibor donje selo - 770 m donje selo - 770 m omorika pd vrh smanjska glava (1119 m), vrh kljun (1027 m), vrh vis (1007 m), kanjon reke grize, pogled na manastir dubravu u klisuri reke uvca, studeno vrelo, izvor dzukela laka donje selo - vrh vis (1,8 km) - potok griza (3,2 km) -dzukela (5,0 km) - vrh kljun (6,1 km) - vrh smanjska glava (9,5 km) - zastup (12,4 km) - donje selo (14,9 km)",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:03:10Z"
+        "generated_at": "2026-11-08T13:01:57Z"
     }
 }

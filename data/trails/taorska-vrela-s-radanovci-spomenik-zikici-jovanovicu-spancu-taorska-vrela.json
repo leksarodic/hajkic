@@ -37,7 +37,7 @@
         "official_gain_m": 430.0,
         "official_loss_m": 430.0,
         "calculated_gain_m": 391.4,
-        "calculated_loss_m": 393.1,
+        "calculated_loss_m": 393.5,
         "min_m": 585.2,
         "max_m": 931.8
     },
@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2021/01/3-14-5-Taorska-vrela-s.Radanovci.gpx",
-        "fetched_at": "2026-11-08T12:01:42Z",
-        "checked_at": "2026-11-08T12:01:42Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 76279,
         "sha256": "b95fb24f59362400ee6299cee8db0c9418a4fd065703ece6390260302e6aeff3",
         "etag": null,
-        "last_modified": "Fri, 08 Jan 2021 14:04:46 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 592,
@@ -192,14 +192,14 @@
         "pss_id": 12756,
         "updated_at": "2022-04-28T16:33:18Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:01:43Z",
-        "last_synced_at": "2026-11-08T12:01:43Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "taorska vrela - s. radanovci - taorska vrela 3-14-5 zapadna srbija povlen donji taor (taorska vrela), 610 m donji taor (taorska vrela), 610 m povlen pk • taorska vrela • spomenik zikice jovanovica-spanca • naselja donji taor i radanovci • privatni smestaj u selima donji taor i radanovci laka staza je kruzna. polazak na stazu je od slapova u selu donji taor (etno domacinstvo jovanovic). preko brvna prelazi se reka skrapez, zatim uz levu obalu pesaci se oko 1,5 km do ulivanja belog potoka u reku skrapez. uz navedeni potok do makadamskog puta kroz zaseok cirovine sela radanovci do spomenika zikice jovanovica-spanca. odatle se pruza pogled prema kosjericu. grebenom koji se zove mramor (pogled se pruza juzno i severno od staze), dolazi se do makadamskog puta istocno od taorske stene. odatle se silazi, a zatim penje kroz borovnjak visa rudine (780 m) i dolazi se na pocetnu tacku.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:01:43Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

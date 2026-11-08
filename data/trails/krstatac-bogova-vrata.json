@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2019/01/4-45-2-Milusinac-Krstatac-Bogova-vrata.gpx",
-        "fetched_at": "2026-11-08T11:59:36Z",
-        "checked_at": "2026-11-08T11:59:36Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 157162,
         "sha256": "20ea3a135f6559099f7ee5ad21d4b5c87d069ba583854bc403fd5be76f02d236",
         "etag": null,
-        "last_modified": "Wed, 31 Mar 2021 14:57:52 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 955,
@@ -182,14 +182,14 @@
         "pss_id": 8077,
         "updated_at": "2021-03-31T15:00:56Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:59:37Z",
-        "last_synced_at": "2026-11-08T11:59:37Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "milusinac - krstatac - bogova vrata 4-45-2 istocna srbija krstatac selo milusinac, 443 m selo milusinac, 443 m ozren pk • krstatac, bogova vrata, bukovi na milusinackoj reci, manastiriste • vidikovci: krstatac, 3 vidikovca duz grebena urdes • na trasi ima izvora pitke vode • naselje: milusinac • smestaj: kamp, odmaraliste, privatni smestaj srednje teska staza je kruzna, polazi od doma u milusincu i ide asfaltnim i posle zemljanim putem do raskrsca, gde se odvaja udesno prema krstatcu. prolazi pored bunara i dolazi do prve ceke. odatle skrece u desno i izlazi na greben i dolazi do vrha. zatim se spusta do druge ceke blizu koverke, gde skrece u desno. izlazi na tri vidikovca odakle se vide bogova vrata. prelazi se reka i izlazi na kolski put, sa koga se ostro odvaja prema bogovskim vratima i vodopadu urdeskog potoka. povratak ide niz potok uz nekoliko prelazaka potoka i dolazi se do manastirista, a odatle do raskrsca i zatim do polazne lokacije.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:59:37Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

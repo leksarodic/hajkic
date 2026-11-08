@@ -70,7 +70,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T11:56:58Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -110,14 +110,14 @@
         "pss_id": 4480,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:56:58Z",
-        "last_synced_at": "2026-11-08T11:56:58Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "kosaninova jezera 5-47-1 jugozapadna srbija radocelo pridvorica 760m pridvorica 760m golija pd manastir pridvorica iz xiii veka laka • kruzna staza • kosaninova jezera, slatina, braduljica",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:56:58Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

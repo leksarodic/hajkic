@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/06/4-33-3-Aleksinac-Sokobanja.gpx",
-        "fetched_at": "2026-11-08T11:56:17Z",
-        "checked_at": "2026-11-08T11:56:17Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 236304,
         "sha256": "a2cd4b4ec685fdf7321c8e3114d242b03236191927593aace7b54a6000a1e81f",
         "etag": null,
-        "last_modified": "Wed, 19 Feb 2020 13:43:29 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 1438,
@@ -266,14 +266,14 @@
         "pss_id": 3943,
         "updated_at": "2020-02-19T13:45:56Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:56:18Z",
-        "last_synced_at": "2026-11-08T11:56:18Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "pozdrav prolecu / aleksinac - sokobanja (ripaljka) 4-33-3 istocna srbija ozren aleksinac (centar) - 168 mnv sokobanja, vodopad ripaljka - 506 mnv brdjanka psk • ruski spomenik na brdjanci, crkva sv. trojice i spomen-obelezje na sumatovcu, manastir jermencic, spomenik prirode \"ripaljka\". • aleksinac i sokobanja zahtevna staza kreca iz centra aleksinca, preko vakupa, zatim pored crkve sv. trojice, sumarske kuce (janjin grob), cardaka, prisada, jovanovog kamena, do vodopada ripaljka.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:56:18Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

@@ -1,0 +1,332 @@
+{
+    "schema_version": 1,
+    "slug": "sirogojno",
+    "name": "Sirogojno",
+    "code": "E7-11-5",
+    "category": {
+        "key": "evropski-pesacki-putevi-u-srbiji",
+        "label": "Evropski pešački putevi u Srbiji"
+    },
+    "pss": {
+        "post_id": 23566,
+        "category_id": 29,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            122
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Zlatibor",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "lak"
+    },
+    "distance": {
+        "official_km": null,
+        "calculated_km": 30.8
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": null,
+        "official_loss_m": null,
+        "calculated_gain_m": 1530.7,
+        "calculated_loss_m": 1233.4,
+        "min_m": 721.2,
+        "max_m": 1353.2
+    },
+    "start": null,
+    "end": null,
+    "description": null,
+    "landmarks": null,
+    "maintenance": null,
+    "marking": null,
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": null,
+    "club": null,
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2024/02/E7-11-5.gpx",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
+        "bytes": 200184,
+        "sha256": "97c23353d13da69fb3631ba94316ff4bce3a292f6695bbefb2f822aef0c70b63",
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 2677,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2024/02/E7-11-5.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/sirogojno.geojson",
+        "bbox": [
+            19.776259661,
+            43.599094,
+            19.881516583,
+            43.707706165
+        ],
+        "center": [
+            19.828888,
+            43.6534
+        ],
+        "start_point": [
+            19.80111974,
+            43.702068009
+        ],
+        "end_point": [
+            19.782535,
+            43.599094
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    19.80112,
+                    43.70207
+                ],
+                [
+                    19.8027,
+                    43.70682
+                ],
+                [
+                    19.80608,
+                    43.70771
+                ],
+                [
+                    19.81743,
+                    43.70379
+                ],
+                [
+                    19.83143,
+                    43.70602
+                ],
+                [
+                    19.83421,
+                    43.70075
+                ],
+                [
+                    19.84298,
+                    43.70194
+                ],
+                [
+                    19.84991,
+                    43.69903
+                ],
+                [
+                    19.84688,
+                    43.69437
+                ],
+                [
+                    19.84911,
+                    43.69042
+                ],
+                [
+                    19.86632,
+                    43.68587
+                ],
+                [
+                    19.8739,
+                    43.68491
+                ],
+                [
+                    19.87966,
+                    43.68625
+                ],
+                [
+                    19.87665,
+                    43.68311
+                ],
+                [
+                    19.87969,
+                    43.68192
+                ],
+                [
+                    19.88149,
+                    43.67702
+                ],
+                [
+                    19.87794,
+                    43.67378
+                ],
+                [
+                    19.87144,
+                    43.67477
+                ],
+                [
+                    19.86912,
+                    43.67052
+                ],
+                [
+                    19.86458,
+                    43.67111
+                ],
+                [
+                    19.85599,
+                    43.6677
+                ],
+                [
+                    19.85199,
+                    43.66497
+                ],
+                [
+                    19.85438,
+                    43.66522
+                ],
+                [
+                    19.85293,
+                    43.66195
+                ],
+                [
+                    19.84735,
+                    43.65915
+                ],
+                [
+                    19.84223,
+                    43.66086
+                ],
+                [
+                    19.83774,
+                    43.65568
+                ],
+                [
+                    19.82988,
+                    43.65443
+                ],
+                [
+                    19.8285,
+                    43.65132
+                ],
+                [
+                    19.82117,
+                    43.64974
+                ],
+                [
+                    19.82312,
+                    43.64894
+                ],
+                [
+                    19.82051,
+                    43.64674
+                ],
+                [
+                    19.80914,
+                    43.64099
+                ],
+                [
+                    19.79709,
+                    43.64241
+                ],
+                [
+                    19.78631,
+                    43.63885
+                ],
+                [
+                    19.78528,
+                    43.63633
+                ],
+                [
+                    19.77967,
+                    43.63602
+                ],
+                [
+                    19.77626,
+                    43.63074
+                ],
+                [
+                    19.77857,
+                    43.6285
+                ],
+                [
+                    19.777,
+                    43.62672
+                ],
+                [
+                    19.78146,
+                    43.62307
+                ],
+                [
+                    19.78019,
+                    43.61862
+                ],
+                [
+                    19.78323,
+                    43.61598
+                ],
+                [
+                    19.78281,
+                    43.61321
+                ],
+                [
+                    19.79413,
+                    43.61045
+                ],
+                [
+                    19.78662,
+                    43.60452
+                ],
+                [
+                    19.78801,
+                    43.60213
+                ],
+                [
+                    19.78254,
+                    43.59909
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/sirogojno/",
+        "canonical_url": "https://pss.rs/terenipp/sirogojno/",
+        "pss_id": 23566,
+        "updated_at": "2024-12-07T22:12:05Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
+    },
+    "search": "sirogojno e7-11-5 jugozapadna srbija zlatibor laka",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T13:01:57Z"
+    }
+}

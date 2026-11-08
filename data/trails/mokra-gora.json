@@ -1,0 +1,252 @@
+{
+    "schema_version": 1,
+    "slug": "mokra-gora",
+    "name": "Mokra Gora",
+    "code": "E7-11-3",
+    "category": {
+        "key": "evropski-pesacki-putevi-u-srbiji",
+        "label": "Evropski pešački putevi u Srbiji"
+    },
+    "pss": {
+        "post_id": 23564,
+        "category_id": 29,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            67
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Tara",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "lak"
+    },
+    "distance": {
+        "official_km": null,
+        "calculated_km": 18.83
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": null,
+        "official_loss_m": null,
+        "calculated_gain_m": 937.0,
+        "calculated_loss_m": 1010.0,
+        "min_m": 538.5,
+        "max_m": 1241.5
+    },
+    "start": null,
+    "end": null,
+    "description": null,
+    "landmarks": null,
+    "maintenance": null,
+    "marking": null,
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": null,
+    "club": null,
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2024/02/E7-11-3.gpx",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
+        "bytes": 87168,
+        "sha256": "12274ded26aed37b4a5958499ca74505d9a6b8391ce3e8861f8266b32b4f4399",
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 1167,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2024/02/E7-11-3.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/mokra-gora.geojson",
+        "bbox": [
+            19.431127684,
+            43.75841,
+            19.544539,
+            43.828341236
+        ],
+        "center": [
+            19.487833,
+            43.793376
+        ],
+        "start_point": [
+            19.431127684,
+            43.828341236
+        ],
+        "end_point": [
+            19.544539,
+            43.759644
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    19.43113,
+                    43.82834
+                ],
+                [
+                    19.44718,
+                    43.82498
+                ],
+                [
+                    19.4514,
+                    43.82239
+                ],
+                [
+                    19.45628,
+                    43.81491
+                ],
+                [
+                    19.46329,
+                    43.81178
+                ],
+                [
+                    19.46348,
+                    43.806
+                ],
+                [
+                    19.46777,
+                    43.80943
+                ],
+                [
+                    19.46536,
+                    43.81219
+                ],
+                [
+                    19.47316,
+                    43.81129
+                ],
+                [
+                    19.47216,
+                    43.80726
+                ],
+                [
+                    19.47713,
+                    43.80794
+                ],
+                [
+                    19.47719,
+                    43.80637
+                ],
+                [
+                    19.48156,
+                    43.80533
+                ],
+                [
+                    19.48098,
+                    43.80202
+                ],
+                [
+                    19.48883,
+                    43.79841
+                ],
+                [
+                    19.49852,
+                    43.79795
+                ],
+                [
+                    19.49898,
+                    43.78958
+                ],
+                [
+                    19.51016,
+                    43.78779
+                ],
+                [
+                    19.50408,
+                    43.77943
+                ],
+                [
+                    19.5164,
+                    43.77394
+                ],
+                [
+                    19.52253,
+                    43.77316
+                ],
+                [
+                    19.52444,
+                    43.76996
+                ],
+                [
+                    19.53391,
+                    43.76673
+                ],
+                [
+                    19.53483,
+                    43.7636
+                ],
+                [
+                    19.53194,
+                    43.76528
+                ],
+                [
+                    19.53441,
+                    43.76034
+                ],
+                [
+                    19.54077,
+                    43.75848
+                ],
+                [
+                    19.54454,
+                    43.75964
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/mokra-gora/",
+        "canonical_url": "https://pss.rs/terenipp/mokra-gora/",
+        "pss_id": 23564,
+        "updated_at": "2024-12-07T22:10:30Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
+    },
+    "search": "mokra gora e7-11-3 jugozapadna srbija tara laka",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T13:01:57Z"
+    }
+}

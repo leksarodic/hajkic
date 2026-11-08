@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2019/02/4-45-3-Citluk-Krstatac.gpx",
-        "fetched_at": "2026-11-08T12:00:06Z",
-        "checked_at": "2026-11-08T12:00:06Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 85464,
         "sha256": "eba28355bb6c88d78ca9a2928c99cb9dee9a126a4e34625a11fc7a642c5b3869",
         "etag": null,
-        "last_modified": "Tue, 12 Feb 2019 15:22:13 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 698,
@@ -206,14 +206,14 @@
         "pss_id": 8316,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:00:06Z",
-        "last_synced_at": "2026-11-08T12:00:06Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "citluk - krstatac 4-45-3 istocna srbija krstatac selo citluk, 500m vrh siljak, 1070m ostra cuka pd • vidikovci: ima • na stazi ima dva izvora pitke vode • na trasi nema smestaja zahtevna staza se na vrhu siljak spaja sa stazom pd \"ostra cuka\" koja vodi iz sela milusinac.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:00:06Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/08/4-27-5-Gola-planina.gpx",
-        "fetched_at": "2026-11-08T11:58:58Z",
-        "checked_at": "2026-11-08T11:58:58Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 19076,
         "sha256": "2c8cb0c017e4294fc3ede09ae268f61e04d3e5d2db48d32b041b6dd65b467a9d",
         "etag": null,
-        "last_modified": "Fri, 21 Dec 2018 08:01:40 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 146,
@@ -162,14 +162,14 @@
         "pss_id": 4614,
         "updated_at": "2019-02-12T15:36:50Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:58:59Z",
-        "last_synced_at": "2026-11-08T11:58:59Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "gola planina 4-27-5 istocna srbija rtanj selo sarbanovac, 530 mnv gola planina (greda), 1113 mnv ostra cuka pd • vidikovaca ima, ukljucujuci i sam vrh • na stazi ima izvor pitke vode - bogojevski kladenac • na trasi nema smestaja zahtevna staza koristi poljske i sumske puteve (pocetni kilometri), 3 kilometara pred kraj staza postaje uza sa stenovitom podlogom. postoji i izvor na stazi (na 2km od vrha). sa vrha se pruza lep pogled ka rtnju i sokobanjskoj kotlini.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:58:59Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

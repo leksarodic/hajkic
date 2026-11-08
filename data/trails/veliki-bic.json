@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2020/08/Veliki-Bic.gpx",
-        "fetched_at": "2026-11-08T12:01:04Z",
-        "checked_at": "2026-11-08T12:01:04Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 91062,
         "sha256": "857e73d69c3db1d1c59b1bbcacc19bac2431bd7291afeb4d0ef200db41cfc10d",
         "etag": null,
-        "last_modified": "Mon, 24 Aug 2020 12:29:47 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 539,
@@ -166,14 +166,14 @@
         "pss_id": 11936,
         "updated_at": "2020-11-26T15:54:31Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:01:04Z",
-        "last_synced_at": "2026-11-08T12:01:04Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "veliki bic 5-6-1 jugozapadna srbija bic novi deo grada priboja - srednja skola gimnazija, 380 m bic - vrh golet, 1386 m - i nazad istim putem ljeskovac zkp • zadruga milijes • vidikovci: vrh golet • naselja: citluk i crnuzi • na trasi ima 2 izvora pitke vode • na trasi postoji smestaj na pocetku staze u hotelu lim, kao i privatni smestaj u novom delu grada naselje. u pribojskoj banji koja je van trase (udaljena 5 km) postoji privatni smestajni kapacitet. zahtevna staza krece iz centra novog dela grada, ispred srednje skole gimnazije. krece se jugozapadno ka naselju citluk. zatim do mesta zvanog bracica odakle staza u smeru zapada vodi ka groblju u naselju crnuzi. odatle se asfaltnim putem ide oko kilometar do oznake za skretanje ka velikom bicu. put dalje vodi u pravcu severa ka velikom bicu i vrhu golet. povratak je istom stazom.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:01:04Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

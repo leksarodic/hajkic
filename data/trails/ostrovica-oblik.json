@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2019/03/7-47-1-Ostrovica-Oblik.gpx",
-        "fetched_at": "2026-11-08T12:00:09Z",
-        "checked_at": "2026-11-08T12:00:09Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 83716,
         "sha256": "ab9bfdc86a1e306d4630d4c20823d4356288b44bece356e6e5b0117b894f4bf2",
         "etag": null,
-        "last_modified": "Sun, 24 Mar 2019 16:51:13 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 548,
@@ -178,14 +178,14 @@
         "pss_id": 8594,
         "updated_at": "2019-03-24T17:01:15Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:00:10Z",
-        "last_synced_at": "2026-11-08T12:00:10Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "ostrovica - oblik 7-47-1 jugoistocna srbija oblik selo ostrovica, mesna zajednica, 350m selo ostrovica, mesna zajednica, 350m mosor psk • veci broj vidikovaca: prema svrljiskim planinama, prema suvoj planini • na trasi ima dva izvora pitke vode • na trasi nema smestajnih objekata laka staza polazi iz centra sela ostrovica. prvi deo vodi asfaltnim putem pored skole, a zatim kolskim putem. veci deo staze prolazi kroz sumu, tako da je pogodna u letnjim mesecima. staza je kruzna. na stazi postoje dva izvora (jedan na samom pocetku staze, a drugi na kraju kruzne staze).",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:00:10Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

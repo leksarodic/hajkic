@@ -48,7 +48,7 @@
     "maintenance": "zapuštena",
     "marking": "propisna planinarska (crveno-bela)",
     "accommodation": null,
-    "notes": "STRANICA JE U PRIPREMI",
+    "notes": null,
     "map_reference": null,
     "map_sheet": null,
     "club": {
@@ -80,7 +80,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T12:03:52Z",
+        "checked_at": "2026-11-08T13:01:57Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -121,14 +121,14 @@
         "pss_id": 23575,
         "updated_at": "2024-12-14T18:55:29Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:03:52Z",
-        "last_synced_at": "2026-11-08T12:03:52Z"
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
     },
     "search": "kaludjerske bare - manastir raca 5-3-3 jugozapadna srbija tara tara pk laka",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:03:52Z"
+        "generated_at": "2026-11-08T13:01:57Z"
     }
 }

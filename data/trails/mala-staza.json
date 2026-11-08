@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2021/12/1-2-1-Mala-staza-15-km.gpx",
-        "fetched_at": "2026-11-08T12:02:13Z",
-        "checked_at": "2026-11-08T12:02:13Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 93952,
         "sha256": "1e1e27bca15a087d32706662e7bef2c7b2b20ce390826ac8931c216a7a543c1e",
         "etag": null,
-        "last_modified": "Wed, 15 Dec 2021 14:51:41 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 510,
@@ -206,14 +206,14 @@
         "pss_id": 15081,
         "updated_at": "2021-12-15T14:57:17Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:02:14Z",
-        "last_synced_at": "2026-11-08T12:02:14Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "mala staza 15 km 1-2-1 vojvodina carska bara pristaniste na starom begeju, 71,80 m pristaniste na starom begeju, 71,80 m zrenjanin kp • specijalni rezervat prirode \"carska bara\" • spomenik prirode \"stari dud\" u belom blatu • naselje na stazi: belo blato • na trasi izvori pitke vode iz vodovoda i bunara • privatni smestaj u belom blatu • na trasi hotel \"sibila\" laka • - od starta - pristanista - turisticki punkt obelezen sa “i”na karti, se krece 200 m do asfaltnog puta na nasipu. • - na asfaltnom putu skrece se levo i ide prema selu belo blato u duzini 700m • - sa asfaltnog puta se skrece levo kod napustene cuvarnice na prvi nasip sa leve strane • - ide se nasipom 3050 m , po kolskom putu (sa leve strane se proteze carska bara, a sa desne botoski rit). • - na kraju carske bare (kt.1) silazi se sa nasipa i skrece desno poljskim putem prema selu belo blato (put pred selom je makadamski) • - do sela se ide 1150 m • -kada se dodje do sela skrece se desno u prvu obodnu ulicu и produzava 100 m do prve raskrsnice • - na prvoj raskrsnici skrece se levo i prati se pravac ulice u duzini 1100 m • - na kraju ulice t.j na sestoj raskrsnici skrece se levo i posle 100 m sa leve strane nalazi se etno-salas mala lujza (kt.2) - voda sa cesme, pica po restoranskim cenama, upotreba wc-a) • - kada se izadje iz dvorista salasa skrece se levo, produzuje 50 m, do prve raskrsnice, gde se skrece desno, pa prevlakom izmedju jezera mika i jezera koca u duzini od 1350 m do poteza ek.suvajka • - po prolasku prevlake skrece se desno i nastavlja slabo definisanim poljskim putem kroz pasnjake (za orijentaciju sa desne strane je obodni kanal i iza njega posle pojasa trske 100-200 m nalazi se jezero koca) • - posle 2750 m od suvajke sa leve strane ostaje novo jezero • - 500 m posle novog jezera skrece se na raskrsnici desno preko mostica, prema mlinu • - do mlina koji je sa desne strane puta dolazi se posle 350 m. • - kod mlina je (kt.3) – mogucnost odmora u hladovini na klupama, pijaca voda sa cesme • - od mlina se nastavlja preko prevlake izmedju jezera koca i belog jezera i posle 1350 m izlazi se na nasip sa asfaltnim putem • - na sfa",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:02:14Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

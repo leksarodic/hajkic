@@ -74,12 +74,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/05/E7-12-Murtenica-Sjenica.gpx",
-        "fetched_at": "2026-11-08T12:51:06Z",
-        "checked_at": "2026-11-08T12:51:06Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 641100,
         "sha256": "505e34649242f638568565f1a564030f5f53d67ac6a0d03079db7225811c7a95",
         "etag": null,
-        "last_modified": "Sat, 07 Dec 2024 21:30:05 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": false,
         "points": 8829,
@@ -945,14 +945,14 @@
         "pss_id": 3739,
         "updated_at": "2024-12-07T21:30:14Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:51:06Z",
-        "last_synced_at": "2026-11-08T12:51:06Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "murtenica - sjenica e7-12 jugozapadna srbija jadovnik kamena gora pk zlatarsko jezero, spec. rezervat prirode uvac, pribojska banja, manastir sveti nikola, visoravan babine i jabuka, slapovi sopotnice zahtevna • sa padina murtenice, pored malenog tavnickog jezera, od put e7 nastavlja kroz novovarosku opstinu ka manastiru janja, prolazeci grebenima izbad sela radoinja i rutosi. put zatim silazi u dolinu reke lim kroz pribojsku banju, staro termalno leciliste iz perioda rima i srednjeg veka koje je aktivno i danas. u banji se nalazi manastir sveti nikola izgradjen u 13. veku. • nakon prelaska preko lima na brani rekovic kod priboja, put e7 se dalje penje do vrha borak (1423m) na pobijeniku, nastavljajuci na visoravan babine i jabuka (sa izvanrednim vidicima prema kanjonu lima i srbiji na istoku, te planinama crne gore na zapadu). u blizini granicnog prelaza za crnu goru put e7 ulazi u predeo kamene gore. • ovaj prostor je izvanredan spoj izvorne lepote prirode i sacuvanog narodnog graditeljstva. simbol kamene gore je veliko razgranato stablo crnog bora koje je staro vise od 400 godina. gostoprimljivi stanovnici nude turisticke usluge u obnovljenim starinskim objektima narodne arhitekture izgradjenim od drveta. • sa kamene gore se, preko boretinog brda, spusta ponovo u dolinu lima i nastavlja prema selu sopotnica i spomeniku prirode „slapovi sopotnice”. pored slapova koji su izgradile naslage stene bigar nalaze se stare vodenice za zito i valjarice za valjanje vune i sukna. danas je to lep etnokutak i zasticeni spomenik prirode. sa sopotnice, pesaceci planinom jadovnik, visoko pod planinom prolazimo iznad etno sela „ticje polje”. • preko grebena planine ozren, visine oko 1300 metara, put lagano silazi prema gradu sjenici, malom gradu na obodu istoimene kotline koja je i deo poznate pesterske visoravni. kraj (poznat po zimskim hladnocama) je dostojanstveni spoj dve kulture i religije. u sjenici se nalazi dzamija valide sultan iz 19. veka sa kupolom precnika 15 metara, jedan",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:51:06Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

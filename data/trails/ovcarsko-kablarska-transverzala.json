@@ -1,0 +1,376 @@
+{
+    "schema_version": 1,
+    "slug": "ovcarsko-kablarska-transverzala",
+    "name": "Ovčarsko-kablarska transverzala",
+    "code": "T-5-8",
+    "category": {
+        "key": "planinarske-transverzale",
+        "label": "Planinarske transverzale"
+    },
+    "pss": {
+        "post_id": 3924,
+        "category_id": 30,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            83
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Ovčar",
+    "difficulty": {
+        "key": "nepoznato",
+        "label": "Nije navedeno",
+        "source": null
+    },
+    "distance": {
+        "official_km": 45.0,
+        "calculated_km": 44.79
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": 1395.0,
+        "official_loss_m": 1350.0,
+        "calculated_gain_m": 1850.7,
+        "calculated_loss_m": 1876.7,
+        "min_m": 236.0,
+        "max_m": 986.0
+    },
+    "start": null,
+    "end": null,
+    "description": null,
+    "landmarks": "• Planine: Ovčar (985 m), Kablar (889 m), Jelica (926 m), Debela gora (792 m), Orovica (856 m)\n\n • Ovčarsko-kablarski manastiri\n\n • Isposnica Svetog Save\n\n • Pećine Turčinovac i Kađenica\n\n • Planinarski dom \"Bogoljub Đurić\" - PD \"Železničar\" Beograd u Ovčar banji\n\n • Planinarska kuća \"Kablar\" Čačak u Ovčar banji\n\n • Odmaralište \"Sunce\" i nekoliko privatnih smeštaja u Ovčar banji\n\n • Hotel „Kablar“ sa Wellness centarom, otvorenim i zatvorenim bazenom",
+    "maintenance": null,
+    "marking": "propisana planinarska",
+    "accommodation": null,
+    "notes": "UPOZORENJE: TRANSVERZALA JE PRIVREMENO VAN UPOTREBE!!!",
+    "map_reference": null,
+    "map_sheet": "Turističko-planinarska karta 1:20000 \"Ovčarsko-kablarska klisura\" (pokriva 3/4 staze)",
+    "club": null,
+    "legend": [],
+    "photos_count": 4,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/06/T-5-8-Ovcarsko-Kablarska-transverzala.gpx",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
+        "bytes": 276231,
+        "sha256": "1ba172f35d172f158eefd78bf1714be8ad5b647293a2da97fab82653ccc27c2b",
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 2038,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 29,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/06/T-5-8-Ovcarsko-Kablarska-transverzala.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/ovcarsko-kablarska-transverzala.geojson",
+        "bbox": [
+            20.18778453581035,
+            43.856266932561994,
+            20.344177102670074,
+            43.93269496969879
+        ],
+        "center": [
+            20.265981,
+            43.894481
+        ],
+        "start_point": [
+            20.31885076314211,
+            43.88184489682317
+        ],
+        "end_point": [
+            20.343971075490117,
+            43.89766540378332
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    20.31885,
+                    43.88184
+                ],
+                [
+                    20.31208,
+                    43.87017
+                ],
+                [
+                    20.30998,
+                    43.8732
+                ],
+                [
+                    20.30905,
+                    43.8698
+                ],
+                [
+                    20.30172,
+                    43.86853
+                ],
+                [
+                    20.2949,
+                    43.8619
+                ],
+                [
+                    20.27992,
+                    43.85813
+                ],
+                [
+                    20.27915,
+                    43.85627
+                ],
+                [
+                    20.27289,
+                    43.85776
+                ],
+                [
+                    20.26739,
+                    43.86995
+                ],
+                [
+                    20.261,
+                    43.87205
+                ],
+                [
+                    20.25622,
+                    43.87779
+                ],
+                [
+                    20.25021,
+                    43.87575
+                ],
+                [
+                    20.24587,
+                    43.87863
+                ],
+                [
+                    20.23978,
+                    43.87855
+                ],
+                [
+                    20.23999,
+                    43.88187
+                ],
+                [
+                    20.22429,
+                    43.89045
+                ],
+                [
+                    20.21818,
+                    43.88878
+                ],
+                [
+                    20.21055,
+                    43.89039
+                ],
+                [
+                    20.21556,
+                    43.89685
+                ],
+                [
+                    20.21015,
+                    43.89122
+                ],
+                [
+                    20.20307,
+                    43.90041
+                ],
+                [
+                    20.20227,
+                    43.89848
+                ],
+                [
+                    20.19462,
+                    43.90474
+                ],
+                [
+                    20.20051,
+                    43.90556
+                ],
+                [
+                    20.20747,
+                    43.91216
+                ],
+                [
+                    20.20317,
+                    43.91263
+                ],
+                [
+                    20.20138,
+                    43.91707
+                ],
+                [
+                    20.19485,
+                    43.91611
+                ],
+                [
+                    20.19282,
+                    43.92061
+                ],
+                [
+                    20.18781,
+                    43.91618
+                ],
+                [
+                    20.18937,
+                    43.91305
+                ],
+                [
+                    20.19289,
+                    43.91229
+                ],
+                [
+                    20.18958,
+                    43.91303
+                ],
+                [
+                    20.18778,
+                    43.91629
+                ],
+                [
+                    20.19529,
+                    43.92087
+                ],
+                [
+                    20.19493,
+                    43.92444
+                ],
+                [
+                    20.20608,
+                    43.92434
+                ],
+                [
+                    20.20691,
+                    43.92776
+                ],
+                [
+                    20.2188,
+                    43.93269
+                ],
+                [
+                    20.2267,
+                    43.92874
+                ],
+                [
+                    20.22962,
+                    43.92485
+                ],
+                [
+                    20.23389,
+                    43.92535
+                ],
+                [
+                    20.24223,
+                    43.91697
+                ],
+                [
+                    20.25407,
+                    43.91458
+                ],
+                [
+                    20.25641,
+                    43.91033
+                ],
+                [
+                    20.26601,
+                    43.90473
+                ],
+                [
+                    20.26333,
+                    43.90413
+                ],
+                [
+                    20.27394,
+                    43.90744
+                ],
+                [
+                    20.27379,
+                    43.90283
+                ],
+                [
+                    20.28194,
+                    43.9043
+                ],
+                [
+                    20.28337,
+                    43.89985
+                ],
+                [
+                    20.29784,
+                    43.89851
+                ],
+                [
+                    20.30831,
+                    43.89489
+                ],
+                [
+                    20.31484,
+                    43.89766
+                ],
+                [
+                    20.33457,
+                    43.90057
+                ],
+                [
+                    20.34165,
+                    43.90017
+                ],
+                [
+                    20.34397,
+                    43.89767
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_difficulty",
+            "missing_description"
+        ]
+    },
+    "additional": {
+        "Planine/predeli": "Ovčar",
+        "Status": "neaktivna",
+        "Datum poslednje verifikacije": "09/11/2019",
+        "Društvo": "Kablar PD",
+        "Vreme obilaska (dana)": "2",
+        "Godina otvaranja": "2001",
+        "Kontakt": "https://pss.rs/kontakti/goran-nikolic/, Goran, Nikolić, gorannikolic032@gmail.com, 064 6446 053, Goran Nikolić",
+        "Vrsta": "linijska",
+        "Broj kontrolnih tačaka": "7",
+        "Opis puta": "• Start transverzale je u Čačku kod kompanije \"Sloboda\", a cilj takođe u Čačku kod Sportskog centra \"Mladost\". Nadmorska visina starta i cilja je 242 mnv, a najviša tačka je 986 mnv (vrh Ovčar)\n\n • KT-1 Tošin do\n\n • KT-2 Jelica\n\n • KT-3 Ovčar (986 m)\n\n • put ide dalje ka manastirima Sretenje i Preobraženje\n\n • KT-4 Planinarski dom \"Bogoljub Đurić\" u Ovčar banji\n\n • manastir Nikolje, planinarska kuća \"Kablar\", Čvrkići\n\n • KT-5 Kablar (885 m)\n\n • Čvrkići, Ljubičići\n\n • KT-6 Vodenica\n\n • bedemom do KT-7 Sportski centar \"Mladost\" u Čačku",
+        "Dnevnik": "Ima Dnevnik i Pravilnik transverzale",
+        "Priznanja": "značka"
+    },
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/ovcarsko-kablarska-transverzala/",
+        "canonical_url": "https://pss.rs/terenipp/ovcarsko-kablarska-transverzala/",
+        "pss_id": 3924,
+        "updated_at": "2022-11-22T09:50:16Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
+    },
+    "search": "ovcarsko-kablarska transverzala t-5-8 jugozapadna srbija ovcar • planine: ovcar (985 m), kablar (889 m), jelica (926 m), debela gora (792 m), orovica (856 m) • ovcarsko-kablarski manastiri • isposnica svetog save • pecine turcinovac i kadjenica • planinarski dom \"bogoljub djuric\" - pd \"zeleznicar\" beograd u ovcar banji • planinarska kuca \"kablar\" cacak u ovcar banji • odmaraliste \"sunce\" i nekoliko privatnih smestaja u ovcar banji • hotel „kablar“ sa wellness centarom, otvorenim i zatvorenim bazenom nije navedeno",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T13:01:56Z"
+    }
+}

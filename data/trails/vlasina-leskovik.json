@@ -70,7 +70,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T11:55:38Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -111,14 +111,14 @@
         "pss_id": 3832,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:55:38Z",
-        "last_synced_at": "2026-11-08T11:55:38Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "vlasina-leskovik 4-33-1 istocna srbija ozren visoravan vlasina (939) leskovik (1174) ostra cuka pd laka",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:55:38Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

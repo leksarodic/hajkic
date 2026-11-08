@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2026/09/Vera.gpx",
-        "fetched_at": "2026-11-08T12:06:27Z",
-        "checked_at": "2026-11-08T12:06:27Z",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
         "bytes": 33868,
         "sha256": "b30a62d1b32fe9789faf93ea92926d8deff9f1c32dca6bd1eb2e926bbcf3a2fd",
         "etag": null,
-        "last_modified": "Mon, 21 Sep 2026 20:29:23 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 303,
@@ -146,14 +146,14 @@
         "pss_id": 28732,
         "updated_at": "2026-09-25T20:13:26Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:06:28Z",
-        "last_synced_at": "2026-11-08T12:06:28Z"
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
     },
     "search": "vera 2-16-5 sumadija juhor gradski park \"potok\", 120 m gradski park \"potok\", 120 m planinski duh pd laka 🥾 staza vera – mali uspon, veliki pogledi! 🌿⛰️ krecemo sa izletista potok, gde nas odmah na pocetku ceka jedan mali uspon – cisto da se noge sete zasto smo dosli! 😄 💧 na samom pocetku staze nalazi se cesma sa pijacom vodom, a za kraj smo ostavili jos jedno malo iznenadjenje – izvor na stazi. dakle, nema izgovora za zedj! 😉 a izmedju pocetka i kraja… ceka nas ono zbog cega planinarenje toliko volimo! ❤️ 🌄 lepi vidikovci 🏙️ pogled na jagodinu ⛰️ pogled prema crnom vrhu 🌲 pogled na juhor 🥾 lagano hodanje, dobro drustvo i jos bolja atmosfera! vera nije staza na kojoj jurimo kilometre – ovde uzivamo u svakom koraku, pogledu i razgovoru. malo uspona, malo vode, malo pogleda… i mnogo dobre energije! 😃 koracamo zajedno, sirimo duh planinarenja! 🥾💚",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:06:28Z"
+        "generated_at": "2026-11-08T13:01:57Z"
     }
 }

@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/06/6-21-1-Koprivnica-Veliki-Drenovac.gpx",
-        "fetched_at": "2026-11-08T11:56:23Z",
-        "checked_at": "2026-11-08T11:56:23Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 145122,
         "sha256": "7565f340b2d35e8f18fb74549582078af326102e72357ef4b2198a6ccf830a10",
         "etag": null,
-        "last_modified": "Fri, 16 Apr 2021 10:19:22 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 856,
@@ -232,14 +232,14 @@
         "pss_id": 3947,
         "updated_at": "2021-04-16T10:24:20Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:56:23Z",
-        "last_synced_at": "2026-11-08T11:56:23Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "sretenjski susreti / koprivnica - veliki drenovac 6-21-1 kopaonicko-toplicka regija mali jastrebac koprivnica, 200 m veliki drenovac, 260 m brdjanka psk crkve sv.ilije, sv.petka i lazarica laka",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:56:23Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

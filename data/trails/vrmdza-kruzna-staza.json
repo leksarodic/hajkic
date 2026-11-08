@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/05/4-27-1-Vrmdza-kruzna.gpx",
-        "fetched_at": "2026-11-08T11:55:30Z",
-        "checked_at": "2026-11-08T11:55:30Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 51146,
         "sha256": "91a2c5b51bfd19996627f423e41c5c1c4e57b26aafedd02ba81d772ad44fe916",
         "etag": null,
-        "last_modified": "Tue, 18 Dec 2018 12:43:07 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 416,
@@ -208,14 +208,14 @@
         "pss_id": 3802,
         "updated_at": "2018-12-18T12:43:21Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:55:31Z",
-        "last_synced_at": "2026-11-08T11:55:31Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "vrmdza (kruzna staza) 4-27-1 istocna srbija rtanj vrmdza (latin grad), 500 mnv vrmdza (crkovac), 530 mnv ostra cuka pd • znacajni lokaliteti: latin grad, vrmdzansko jezero, crkva sv. trojice (sa muzejem) • vidikovci: latin grad, obroz, vidikovac, sokolovica, crkovac • na stazi ima izvora pitke vode • van trase ima privatni smestaj laka",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:55:31Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

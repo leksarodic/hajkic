@@ -80,7 +80,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T11:56:05Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -120,14 +120,14 @@
         "pss_id": 3903,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:56:05Z",
-        "last_synced_at": "2026-11-08T11:56:05Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "staza 1 zeljin iz polja 6-12-1 kopaonicko-toplicka regija zeljin mitrovo polje 680 mnv zeljin vrh 1785 mnv ljukten psd zahtevna mitrovo polje- prokleta cuka- smrecje- zeljin vrh",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:56:05Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

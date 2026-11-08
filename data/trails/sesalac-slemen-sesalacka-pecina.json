@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2021/03/4-37-3-Sesalac-Slemen-Sesalacka-pecina.gpx",
-        "fetched_at": "2026-11-08T12:01:53Z",
-        "checked_at": "2026-11-08T12:01:53Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 93184,
         "sha256": "0ed942b3d31e22be249e9464bf04b793d73642c35acbffa4f988b22a5ee23479",
         "etag": null,
-        "last_modified": "Tue, 30 Mar 2021 17:47:23 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 554,
@@ -218,14 +218,14 @@
         "pss_id": 13387,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:01:54Z",
-        "last_synced_at": "2026-11-08T12:01:54Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "sesalac - slemen - sesalacka pecina 4-37-3 istocna srbija slemen selo sesalac, 433 m selo sesalac, 433 m ozren pk • slemen, sesalacka pecina • vidikovci: vardiste, banovo brdo • naselje: sesalac • na trasi ima pitke vode • smestaj: kamp, odmaraliste, privatni smestaj srednje teska staza je kruzna i polazi od doma u sesalcu i blizu planinarskog doma se odvaja prema rtu i dalje prema vardistu. prati kolski put i nastavlja prema banovom brdu (861 m) i preko kamencica (1080 m) se na kraju dolazi do najviseg vrha slemena (1099 m). povratak je istom stazom do vardiste, gde se odvaja u desno prema sesalackoj pecini. nakon toga staza silazi u sesalac.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:01:54Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

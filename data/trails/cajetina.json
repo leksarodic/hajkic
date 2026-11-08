@@ -1,0 +1,317 @@
+{
+    "schema_version": 1,
+    "slug": "cajetina",
+    "name": "Čajetina",
+    "code": "E7-10-5",
+    "category": {
+        "key": "evropski-pesacki-putevi-u-srbiji",
+        "label": "Evropski pešački putevi u Srbiji"
+    },
+    "pss": {
+        "post_id": 23559,
+        "category_id": 29,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            122
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Zlatibor",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "lak"
+    },
+    "distance": {
+        "official_km": null,
+        "calculated_km": 27.99
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": null,
+        "official_loss_m": null,
+        "calculated_gain_m": 1.9,
+        "calculated_loss_m": 2.1,
+        "min_m": 759.2,
+        "max_m": 890.8
+    },
+    "start": null,
+    "end": null,
+    "description": null,
+    "landmarks": null,
+    "maintenance": null,
+    "marking": null,
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": null,
+    "club": null,
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2024/02/E7-10-5.gpx",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
+        "bytes": 76344,
+        "sha256": "70fcb1abf08fa05aa518173bdf4a0226d7aa32567f69da1adadbbe6394f59da3",
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": 1052,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2024/02/E7-10-5.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/cajetina.geojson",
+        "bbox": [
+            19.646504004,
+            43.750445082,
+            19.838739453,
+            43.820683261
+        ],
+        "center": [
+            19.742622,
+            43.785564
+        ],
+        "start_point": [
+            19.837627108,
+            43.778412109
+        ],
+        "end_point": [
+            19.646504004,
+            43.820683261
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    19.83763,
+                    43.77841
+                ],
+                [
+                    19.83874,
+                    43.77701
+                ],
+                [
+                    19.83218,
+                    43.77596
+                ],
+                [
+                    19.82487,
+                    43.77736
+                ],
+                [
+                    19.81944,
+                    43.77153
+                ],
+                [
+                    19.81005,
+                    43.76916
+                ],
+                [
+                    19.80258,
+                    43.76949
+                ],
+                [
+                    19.79944,
+                    43.77222
+                ],
+                [
+                    19.79577,
+                    43.76877
+                ],
+                [
+                    19.78842,
+                    43.76728
+                ],
+                [
+                    19.78183,
+                    43.77152
+                ],
+                [
+                    19.77922,
+                    43.772
+                ],
+                [
+                    19.77357,
+                    43.76892
+                ],
+                [
+                    19.76163,
+                    43.77359
+                ],
+                [
+                    19.75555,
+                    43.77365
+                ],
+                [
+                    19.74882,
+                    43.76958
+                ],
+                [
+                    19.73645,
+                    43.7553
+                ],
+                [
+                    19.73296,
+                    43.75523
+                ],
+                [
+                    19.72767,
+                    43.75092
+                ],
+                [
+                    19.71393,
+                    43.75072
+                ],
+                [
+                    19.71446,
+                    43.75437
+                ],
+                [
+                    19.71041,
+                    43.75491
+                ],
+                [
+                    19.71205,
+                    43.7572
+                ],
+                [
+                    19.70917,
+                    43.75883
+                ],
+                [
+                    19.70962,
+                    43.76556
+                ],
+                [
+                    19.71926,
+                    43.77109
+                ],
+                [
+                    19.71284,
+                    43.77537
+                ],
+                [
+                    19.70974,
+                    43.77968
+                ],
+                [
+                    19.71126,
+                    43.78179
+                ],
+                [
+                    19.70538,
+                    43.78983
+                ],
+                [
+                    19.70329,
+                    43.78957
+                ],
+                [
+                    19.70421,
+                    43.79113
+                ],
+                [
+                    19.69609,
+                    43.79167
+                ],
+                [
+                    19.69766,
+                    43.7923
+                ],
+                [
+                    19.69255,
+                    43.79623
+                ],
+                [
+                    19.67498,
+                    43.79601
+                ],
+                [
+                    19.671,
+                    43.80215
+                ],
+                [
+                    19.67216,
+                    43.80892
+                ],
+                [
+                    19.6698,
+                    43.81303
+                ],
+                [
+                    19.66441,
+                    43.81451
+                ],
+                [
+                    19.66018,
+                    43.81323
+                ],
+                [
+                    19.65832,
+                    43.81616
+                ],
+                [
+                    19.65087,
+                    43.81725
+                ],
+                [
+                    19.6465,
+                    43.82068
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description",
+            "missing_elevation"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/cajetina/",
+        "canonical_url": "https://pss.rs/terenipp/cajetina/",
+        "pss_id": 23559,
+        "updated_at": "2024-12-07T22:07:04Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
+    },
+    "search": "cajetina e7-10-5 jugozapadna srbija zlatibor laka",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T13:01:57Z"
+    }
+}

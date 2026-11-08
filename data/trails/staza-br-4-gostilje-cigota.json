@@ -79,12 +79,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2023/03/Staza-4-Gostilje-Cigota.gpx",
-        "fetched_at": "2026-11-08T12:02:50Z",
-        "checked_at": "2026-11-08T12:02:50Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 549483,
         "sha256": "1a59246f23f303b5f53080bf9be13e90fbb00176ea0e1f9ccf2672cdd8dbcbeb",
         "etag": null,
-        "last_modified": "Tue, 21 Mar 2023 16:55:47 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 5085,
@@ -236,14 +236,14 @@
         "pss_id": 19085,
         "updated_at": "2023-03-21T17:49:39Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:02:50Z",
-        "last_synced_at": "2026-11-08T12:02:50Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "staza br. 4: gostilje – cigota 5-12-8 jugozapadna srbija zlatibor centar sela gostilja centar sela gostilja tornik pk gostiljski vodopad, rakovicka pecina, izletiste zaugline i vrh cigota (1422 m) zahtevna centar sela gostilja - vucajica (1,0 km) – rakovicka pecina (5,7 km) - osoje (8,0 km) – vrh cigota (10,9 km) – zaugline (12,7 km) – svinjcine (15,4 km) - centar sela gostilja (17,6 km)",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:02:50Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

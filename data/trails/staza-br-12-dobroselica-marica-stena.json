@@ -79,12 +79,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2023/03/Staza-12-Dobroselica-Marica-stena.gpx",
-        "fetched_at": "2026-11-08T12:03:05Z",
-        "checked_at": "2026-11-08T12:03:05Z",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
         "bytes": 163218,
         "sha256": "fb8966df0917e865f239f6c88aa0964a5ab46bd70b96f3632c6f53adc67be095",
         "etag": null,
-        "last_modified": "Thu, 30 Mar 2023 22:00:21 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 1491,
@@ -208,14 +208,14 @@
         "pss_id": 19276,
         "updated_at": "2023-09-08T20:18:09Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:03:06Z",
-        "last_synced_at": "2026-11-08T12:03:06Z"
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
     },
     "search": "staza br. 12: dobroselica – marica stena 5-12-18 jugozapadna srbija zlatibor crkva brvnara u dobroselici crkva brvnara u dobroselici tornik pk dobroselicka prerast, koracevo vrelo, dobroselicka vrela, vrh marica stena (1251 m), vrh oglavcic (1078 m), vidikovac glavata stena iznad kanjona dobroselicke reke, ciganska jama laka crkva brvnara u dobroselici - dobroselicka vrela (1,5 km) - glavata stena (2,5 km) - vrh oglavcic (4,2 km) - stublo (6,0 km) - vrh marica stena (6,9 km) - koracevo vrelo (8,8 km) - prerast (13,9 km) - crkva brvnara u dobroselici (15,1 km)",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:03:06Z"
+        "generated_at": "2026-11-08T13:01:57Z"
     }
 }

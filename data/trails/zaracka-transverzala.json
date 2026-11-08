@@ -1,0 +1,128 @@
+{
+    "schema_version": 1,
+    "slug": "zaracka-transverzala",
+    "name": "Žaračka transverzala",
+    "code": "T-6-34",
+    "category": {
+        "key": "planinarske-transverzale",
+        "label": "Planinarske transverzale"
+    },
+    "pss": {
+        "post_id": 4505,
+        "category_id": 30,
+        "region_ids": [
+            6
+        ],
+        "mountain_ids": [
+            72,
+            105,
+            104
+        ]
+    },
+    "region": "Kopaoničko-Toplička regija",
+    "mountain": "Goč",
+    "difficulty": {
+        "key": "nepoznato",
+        "label": "Nije navedeno",
+        "source": null
+    },
+    "distance": {
+        "official_km": 23.4,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": 1200.0,
+        "official_loss_m": 700.0,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": null,
+    "end": null,
+    "description": null,
+    "landmarks": "• Dve ski staze na Goču\n\n • Jezero na Goču\n\n • Glavni vidikovac Kućište (1184m)",
+    "maintenance": null,
+    "marking": "lokalna",
+    "accommodation": null,
+    "notes": "Transverzalu je trasirao Branislav Binić Bine 2006. a poslednji put je markirana mart-april 2015.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": null,
+    "legend": [],
+    "photos_count": 4,
+    "gpx": {
+        "available": false,
+        "status": "missing",
+        "source_url": null,
+        "fetched_at": null,
+        "checked_at": "2026-11-08T13:01:56Z",
+        "bytes": null,
+        "sha256": null,
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": null,
+        "tracks": null,
+        "segments": null,
+        "waypoints": null,
+        "error": null,
+        "download": {
+            "mode": "none",
+            "url": null
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "minimal",
+        "issues": [
+            "missing_difficulty",
+            "missing_description",
+            "missing_gpx"
+        ]
+    },
+    "additional": {
+        "Planine/predeli": "Goč, Studena planina, Žaračka planina",
+        "Status": "aktivna",
+        "Datum poslednje verifikacije": "april 2015.",
+        "Društvo": "Kraljevo PAK",
+        "Vreme obilaska (dana)": "8:00 (kontra 7:00)",
+        "Godina otvaranja": "2006.",
+        "Vrsta": "linijska",
+        "Broj kontrolnih tačaka": "2",
+        "Opis puta": "Transverzala počinje od Ušća (340m) do jezera na Goču (820m), dužine 23,4km i prelazi se za jedan dan. Visinska razlika pri usponu je 1200m i 700m pri silasku. Obrnut smer je lakši, manja je visinska razlika pri usponu i staza je nešto kraća. Potrebno vreme za obilazak je 8 sati (u obrnutom smeru 7 sati), a stazu je moguće preći u bilo kom godišnjem dobu. Staza je markirana žuto-plavom markacijom. Početak staze je kod Železničke stanice, gde se iza skretnice prelazi asfalt i nastavlja dalje uz potok.\n\nStaza je bezbedna, odlično uređena, markirana i dobro održavana.",
+        "Dnevnik": "• Postoji Dnevnik transverzale (Putni vodič sa šematskom kartom) i Knjiga obilaska transverzale.\n\n • Ne postoji Pravilnik transverzale.\n\n • Pečati se nalaze kod otpravnika vozova na železničkoj stanici u Ušću.\n\n • Putni dnevnik se naručuje poštom ili dolaskom u Kraljevo (kod Branislava Binića na mob.tel. 064 910 9013 ili fiksni tel. 036/371-757).\n\n • Upisivanje u „Knjigu obilaska transverzale“ kod otpravnika vozova u Ušću.",
+        "Priznanja": "Bedž"
+    },
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/zaracka-transverzala/",
+        "canonical_url": "https://pss.rs/terenipp/zaracka-transverzala/",
+        "pss_id": 4505,
+        "updated_at": "2017-08-15T12:02:58Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
+    },
+    "search": "zaracka transverzala t-6-34 kopaonicko-toplicka regija goc • dve ski staze na gocu • jezero na gocu • glavni vidikovac kuciste (1184m) nije navedeno",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T13:01:56Z"
+    }
+}

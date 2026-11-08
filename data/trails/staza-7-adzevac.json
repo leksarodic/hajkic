@@ -80,7 +80,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T11:55:55Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -121,14 +121,14 @@
         "pss_id": 3894,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:55:55Z",
-        "last_synced_at": "2026-11-08T11:55:55Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "staza 7 \"adzevac\" 2-14-9 sumadija gledicke planine planinica (donja mala) 250 mnv pl.dom dubic 700 mnv ljukten psd zahtevna",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:55:55Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

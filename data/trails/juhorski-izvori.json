@@ -79,12 +79,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2023/06/Juhorski-izvori.gpx",
-        "fetched_at": "2026-11-08T12:03:31Z",
-        "checked_at": "2026-11-08T12:03:31Z",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
         "bytes": 96992,
         "sha256": "17c5e4a5d4b939460d1cff18c60a76111d1dc26cec666e7912e621cb377e312d",
         "etag": null,
-        "last_modified": "Fri, 09 Jun 2023 09:33:30 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 888,
@@ -252,14 +252,14 @@
         "pss_id": 19716,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:03:32Z",
-        "last_synced_at": "2026-11-08T12:03:32Z"
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
     },
     "search": "juhorski izvori 2-16-3 sumadija juhor dvoriste crkve svetog arhangela gavrila u selu sekuric, opstina rekovac dvoriste crkve svetog arhangela gavrila u selu sekuric, opstina rekovac planinski duh pd vidikovci: na stazi postoji vidikovac. od toga je jedan uredjen sa izgradjenom infrastrukturom sa pogledom na planinu ratanj i meandre velike morave. naselja i zaseoci sa nazivima: staza pocinje u selu sekuric, opstina rekovac. znacajni lokaliteti: u blizini staze nema znacajnih lokaliteta. laka planinarska staza se nalazi na planini juhor. pocetak staze je dvoriste crkve sv. arhangela gavrila u selu sekuric opstina rekovac. nedaleko od crkve se nalazi izvor crkviste. staza dalje nastavlja preko izvora –cesme bukovica do lovackog doma na zmajevici, pored koga se nalazi i istoimeni izvor. iducim istom izohipsom dolazimo do prelepog vidikovca, sa kojim se pruza pogled na meandre velike morave, i na siljak, vrh rtanj planine. u povratku staza vodi pored dva kladenca i to sv. trojice i starcevog brega. put je kruzan, to jest zavrsava se na polaznom mestu. postoji mogucnos da se okviru ove staze uredi i jos jedan vidikovac tako da bi se dobila i kraca staza od 9 km.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:03:32Z"
+        "generated_at": "2026-11-08T13:01:57Z"
     }
 }

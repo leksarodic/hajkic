@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2018/07/4-39-5-Prekonoska-pecina.gpx",
-        "fetched_at": "2026-11-08T11:59:21Z",
-        "checked_at": "2026-11-08T11:59:21Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 26497,
         "sha256": "9b3fa396562d1a0c553e8663aab1a2a819a2cc2c9dd11ac20ebda01b5a9aab70",
         "etag": null,
-        "last_modified": "Sat, 07 Jul 2018 12:18:02 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 208,
@@ -154,14 +154,14 @@
         "pss_id": 6969,
         "updated_at": "2018-07-07T12:22:55Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:59:22Z",
-        "last_synced_at": "2026-11-08T11:59:22Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "prekonoska pecina 4-39-5 istocna srbija svrljiske planine selo prekonoga, 513m selo prekonoga, 513m preslap pd • prekonoska pecina • vidikovci: izlaz iz sela prekonoga i prevoj kod skretanja za pecinu laka staza je kruzna, polazak i zavsetak je u centru sela prekonoga. prvih pola kilometara u usponu se ide seoskim asfaltnim putem, a potom dobrim makadamskim putem. na nekoliko mesta makadamski put se racva u 2-3 kraka, koji se posle par desetina metara ponovo spajaju u glavnu stazu. stize se do prevoja i odvajanje staze ka prekonoskoj pecini. na tom mestu postoji informaciona tabla koja usmerava ucesnike ka ulazu u pecinu, sa leve strane makadama. do ulaza u pecinu je potrebno spustiti se jos oko 100 metara sirokom i dobro obezbedjenom stazom na cijoj ivici je postavljena metalna ograda. postoje dva ulaza u pecinu. na prvom je postavljena resetka, dok ucesnici mogu da udju na drugom vecem ulazu koji je 10-tak metara nize, iduci do kraja staze. unutar pecine ce ucesnici preci oko 100 metara do prve galerije, i taj deo staze je potpuno bezbedan za prolazak. povratak u prekonogu se odvija istim putem.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:59:22Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

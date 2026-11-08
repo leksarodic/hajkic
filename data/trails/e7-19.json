@@ -1,0 +1,711 @@
+{
+    "schema_version": 1,
+    "slug": "e7-19",
+    "name": "Devijacija: Žuč - Lebane",
+    "code": "E7-19",
+    "category": {
+        "key": "evropski-pesacki-putevi-u-srbiji",
+        "label": "Evropski pešački putevi u Srbiji"
+    },
+    "pss": {
+        "post_id": 3878,
+        "category_id": 29,
+        "region_ids": [
+            6
+        ],
+        "mountain_ids": [
+            79
+        ]
+    },
+    "region": "Kopaoničko-Toplička regija",
+    "mountain": "Radan",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevan"
+    },
+    "distance": {
+        "official_km": 101.0,
+        "calculated_km": 101.26
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": 472.0,
+        "official_loss_m": 878.0,
+        "calculated_gain_m": 0.0,
+        "calculated_loss_m": 0.0,
+        "min_m": 0.0,
+        "max_m": 0.0
+    },
+    "start": null,
+    "end": null,
+    "description": "• Put E7, alternativnim pravcem, kod sela Žuč u blizini Selove, pruža\nmogućnost izbora pešačenja prema gradu Kuršumlija i dalje prema\njugoistoku, ka gradovima Lebane i Vranje. Grad Kuršumlija nalazi se\nna temeljima rimskog grada Ad Fines, što znači „na kraju“. U ranom\nsrednjem veku srpski vladar Stefan Nemanja podigao je manastire\nPresvete Bogorodice i Svetog Nikole. Tada se grad zvao Bele crkve. Ime\nKuršumlija dali su joj Turci zbog krovova crkava prekrivenih olovom\n(turski „kuršum”). U bližoj okolini otkriveni su ostaci banjskog\nlečilišta iz trećeg milenijuma pre nove ere. Izvori termalnih voda\nnalaze se u velikom broju u Lukovskoj banji, Kuršumlijskoj banji i\nProlom banji.\n\n • Put E7 iz Kuršumlije prelazi planinu Sokolovicu i kreće se prema\nplanini Radan na kojoj se nalazi vredan prirodni fenomen Spomenik\nprirode Đavolja varoš. Ovaj narodni naziv jasno objašnjava izgled\nvelike površine pod erozijom na kojoj su stvoreni visoki zemljani\ni stenoviti stubovi sa kamenim blokovima na vrhovima. Broj stubova\ni piramida je oko 200, sa stalnim procesom obrušavanja i nastajanja\nnovih oblika. Narodne legende o nastanku Ćavolje varoši su brojne. U\npodnožju se nalaze izvori sa veoma velikom koncentracijom gvožđa i\nsumpora koji sprečavaju razvoj bilo kakvog života.\n\n • Kroz guste šume planine Radan, put E7 silazi u dolinu reke Jablanice\ngde se pored gradića Lebane nalaze ostaci kasnoantičkog grada\nJustinijana Prima. Njegov osnivač je car Istočnog rimskog carstva\nJustinijan Prvi koji se rodio u obližnjem selu Taurezijumu. Lokalitet\nzahvata nekoliko hektara sa ostacima više značajnih objekata,\nakropolja, bazilike i dr.\n\n • U blizini Lebana moguće je posetiti rudnik zlata i poludragog kamenja\nLece koji je poznat još od pradavnih vremena, antičkog doba i srednjeg\nveka. Takođe, južno od Lebana, nalazi se Sijarinska banja sa poznatim\nfenomenom isticanja toplih voda u vidu gejzira i vrelih para.",
+    "landmarks": "Kuršumlija (Ad Fines), manastiri Presvete Bogorodice i Sv. Nikole, Lukovska, Kuršumlijska, Sijerinska i Prolom banja, Đavolja varoš, Justinijana Prima",
+    "maintenance": null,
+    "marking": "evropska crveno-žuta",
+    "accommodation": "Kuršumlija, Prolom banja, Lebane, Vučje",
+    "notes": "• E7-19-1 Žuč – Kuršumlija 16,0 km\n\n • E7-19-2 Kuršumlija – Prolom 26,6 km\n\n • E7-19-3 Prolom – Đavolja Varoš 12,8 km\n\n • E7-19-4 Đavolja Varoš – Ivanje 23,2 km\n\n • E7-19-5 Ivanje – Lebane 22,4 km",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Dvig PSK",
+        "url": "https://pss.rs/adresar_klubova/dvig-psk/",
+        "contact": "Svetosavska 8, 17510 Vladičin Han\n+381 63473666",
+        "clubs": [
+            {
+                "name": "Dvig PSK",
+                "url": "https://pss.rs/adresar_klubova/dvig-psk/",
+                "contact": "Svetosavska 8, 17510 Vladičin Han\n+381 63473666"
+            },
+            {
+                "name": "Kukavica PSK",
+                "url": "https://pss.rs/adresar_klubova/kukavica-psk/",
+                "contact": "Deligradska 5, 16000 Leskovac\n+381652824655"
+            },
+            {
+                "name": "Toplica PSK",
+                "url": "https://pss.rs/adresar_klubova/toplica-psk/",
+                "contact": "Adresa Arsenija Čarnojevića III br.117 , 18400 Prokuplje\n065/229-2622"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/E7-19-Devijacija-Zuc-Lebane.gpx",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
+        "bytes": 320425,
+        "sha256": "de34456c2738e9bdfe2ea60ebaad6b95a122826869fee6f947c350782ee238d1",
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": 4438,
+        "tracks": 5,
+        "segments": 5,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/E7-19-Devijacija-Zuc-Lebane.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/e7-19.geojson",
+        "bbox": [
+            21.158049172,
+            42.918573014,
+            21.739579094,
+            43.195932602
+        ],
+        "center": [
+            21.448814,
+            43.057253
+        ],
+        "start_point": [
+            21.158049172,
+            43.194057344
+        ],
+        "end_point": [
+            21.739579094,
+            42.918573014
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.15805,
+                    43.19406
+                ],
+                [
+                    21.16048,
+                    43.19579
+                ],
+                [
+                    21.16508,
+                    43.19174
+                ],
+                [
+                    21.1655,
+                    43.18644
+                ],
+                [
+                    21.17128,
+                    43.18188
+                ],
+                [
+                    21.17138,
+                    43.16763
+                ],
+                [
+                    21.17565,
+                    43.16195
+                ],
+                [
+                    21.18598,
+                    43.15944
+                ],
+                [
+                    21.18246,
+                    43.15299
+                ],
+                [
+                    21.18542,
+                    43.15242
+                ],
+                [
+                    21.19417,
+                    43.14116
+                ],
+                [
+                    21.20788,
+                    43.13809
+                ],
+                [
+                    21.21399,
+                    43.14023
+                ],
+                [
+                    21.22356,
+                    43.13993
+                ],
+                [
+                    21.22575,
+                    43.14193
+                ],
+                [
+                    21.23383,
+                    43.14075
+                ],
+                [
+                    21.24038,
+                    43.1371
+                ],
+                [
+                    21.26445,
+                    43.14022
+                ],
+                [
+                    21.27179,
+                    43.13832
+                ]
+            ],
+            [
+                [
+                    21.27179,
+                    43.13832
+                ],
+                [
+                    21.27938,
+                    43.13836
+                ],
+                [
+                    21.28222,
+                    43.14286
+                ],
+                [
+                    21.29144,
+                    43.1401
+                ],
+                [
+                    21.29566,
+                    43.14196
+                ],
+                [
+                    21.29292,
+                    43.13643
+                ],
+                [
+                    21.29599,
+                    43.13792
+                ],
+                [
+                    21.30307,
+                    43.13636
+                ],
+                [
+                    21.3048,
+                    43.13909
+                ],
+                [
+                    21.30853,
+                    43.13773
+                ],
+                [
+                    21.31041,
+                    43.1332
+                ],
+                [
+                    21.31849,
+                    43.12884
+                ],
+                [
+                    21.31453,
+                    43.1232
+                ],
+                [
+                    21.31796,
+                    43.10725
+                ],
+                [
+                    21.33271,
+                    43.10323
+                ],
+                [
+                    21.33981,
+                    43.09927
+                ],
+                [
+                    21.34746,
+                    43.10057
+                ],
+                [
+                    21.35008,
+                    43.10343
+                ],
+                [
+                    21.35508,
+                    43.10306
+                ],
+                [
+                    21.37506,
+                    43.08727
+                ],
+                [
+                    21.38743,
+                    43.0676
+                ],
+                [
+                    21.39358,
+                    43.07443
+                ],
+                [
+                    21.40131,
+                    43.07066
+                ],
+                [
+                    21.40093,
+                    43.0653
+                ],
+                [
+                    21.40638,
+                    43.06617
+                ],
+                [
+                    21.40709,
+                    43.06402
+                ],
+                [
+                    21.41098,
+                    43.06414
+                ],
+                [
+                    21.42001,
+                    43.05465
+                ],
+                [
+                    21.4196,
+                    43.04942
+                ],
+                [
+                    21.41654,
+                    43.04865
+                ],
+                [
+                    21.41518,
+                    43.05071
+                ],
+                [
+                    21.40631,
+                    43.04645
+                ],
+                [
+                    21.40224,
+                    43.04771
+                ],
+                [
+                    21.40051,
+                    43.04376
+                ]
+            ],
+            [
+                [
+                    21.40043,
+                    43.04373
+                ],
+                [
+                    21.39449,
+                    43.04396
+                ],
+                [
+                    21.39813,
+                    43.03898
+                ],
+                [
+                    21.41197,
+                    43.03599
+                ],
+                [
+                    21.41237,
+                    43.03374
+                ],
+                [
+                    21.41669,
+                    43.0318
+                ],
+                [
+                    21.41394,
+                    43.02851
+                ],
+                [
+                    21.41276,
+                    43.01819
+                ],
+                [
+                    21.41509,
+                    43.01368
+                ],
+                [
+                    21.42001,
+                    43.01264
+                ],
+                [
+                    21.42462,
+                    43.0076
+                ],
+                [
+                    21.41559,
+                    42.99845
+                ],
+                [
+                    21.40743,
+                    42.99893
+                ],
+                [
+                    21.40286,
+                    42.99689
+                ],
+                [
+                    21.40045,
+                    42.99879
+                ],
+                [
+                    21.39264,
+                    42.99587
+                ],
+                [
+                    21.38796,
+                    42.98959
+                ],
+                [
+                    21.39218,
+                    42.98213
+                ],
+                [
+                    21.3936,
+                    42.98795
+                ]
+            ],
+            [
+                [
+                    21.3936,
+                    42.98795
+                ],
+                [
+                    21.39461,
+                    42.98383
+                ],
+                [
+                    21.39989,
+                    42.98286
+                ],
+                [
+                    21.39862,
+                    42.98158
+                ],
+                [
+                    21.41259,
+                    42.97818
+                ],
+                [
+                    21.4235,
+                    42.97953
+                ],
+                [
+                    21.42507,
+                    42.98375
+                ],
+                [
+                    21.4353,
+                    42.9837
+                ],
+                [
+                    21.445,
+                    42.98007
+                ],
+                [
+                    21.4601,
+                    42.98489
+                ],
+                [
+                    21.45975,
+                    42.99129
+                ],
+                [
+                    21.4627,
+                    42.99319
+                ],
+                [
+                    21.4687,
+                    42.99284
+                ],
+                [
+                    21.47857,
+                    42.99777
+                ],
+                [
+                    21.49613,
+                    42.99317
+                ],
+                [
+                    21.49772,
+                    42.99466
+                ],
+                [
+                    21.50231,
+                    42.99311
+                ],
+                [
+                    21.50991,
+                    42.99408
+                ],
+                [
+                    21.52028,
+                    42.99906
+                ],
+                [
+                    21.52601,
+                    42.99843
+                ],
+                [
+                    21.52518,
+                    43.00386
+                ],
+                [
+                    21.52227,
+                    43.00453
+                ],
+                [
+                    21.52849,
+                    43.00636
+                ],
+                [
+                    21.53265,
+                    43.00533
+                ],
+                [
+                    21.5392,
+                    42.99771
+                ],
+                [
+                    21.54728,
+                    42.99987
+                ],
+                [
+                    21.54868,
+                    42.99569
+                ],
+                [
+                    21.55215,
+                    42.99571
+                ],
+                [
+                    21.55877,
+                    43.00053
+                ],
+                [
+                    21.56819,
+                    43.0025
+                ],
+                [
+                    21.57041,
+                    42.9982
+                ],
+                [
+                    21.57909,
+                    42.9996
+                ],
+                [
+                    21.58458,
+                    42.99803
+                ]
+            ],
+            [
+                [
+                    21.58458,
+                    42.99803
+                ],
+                [
+                    21.59871,
+                    42.99585
+                ],
+                [
+                    21.60419,
+                    42.99275
+                ],
+                [
+                    21.60303,
+                    42.99121
+                ],
+                [
+                    21.60733,
+                    42.98957
+                ],
+                [
+                    21.60682,
+                    42.98792
+                ],
+                [
+                    21.61329,
+                    42.98816
+                ],
+                [
+                    21.60874,
+                    42.98008
+                ],
+                [
+                    21.61618,
+                    42.97736
+                ],
+                [
+                    21.6185,
+                    42.97354
+                ],
+                [
+                    21.62425,
+                    42.9727
+                ],
+                [
+                    21.62992,
+                    42.97524
+                ],
+                [
+                    21.62769,
+                    42.96662
+                ],
+                [
+                    21.62922,
+                    42.96055
+                ],
+                [
+                    21.6395,
+                    42.96225
+                ],
+                [
+                    21.63597,
+                    42.95691
+                ],
+                [
+                    21.64186,
+                    42.95437
+                ],
+                [
+                    21.64708,
+                    42.94768
+                ],
+                [
+                    21.65222,
+                    42.94685
+                ],
+                [
+                    21.6637,
+                    42.9388
+                ],
+                [
+                    21.66988,
+                    42.93579
+                ],
+                [
+                    21.67498,
+                    42.93814
+                ],
+                [
+                    21.67874,
+                    42.93741
+                ],
+                [
+                    21.68448,
+                    42.93227
+                ],
+                [
+                    21.68564,
+                    42.93677
+                ],
+                [
+                    21.69835,
+                    42.94189
+                ],
+                [
+                    21.69966,
+                    42.93813
+                ],
+                [
+                    21.70944,
+                    42.9381
+                ],
+                [
+                    21.72,
+                    42.93529
+                ],
+                [
+                    21.72899,
+                    42.92505
+                ],
+                [
+                    21.73387,
+                    42.9239
+                ],
+                [
+                    21.73549,
+                    42.9202
+                ],
+                [
+                    21.73958,
+                    42.91857
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": [
+            "missing_elevation"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/e7-19/",
+        "canonical_url": "https://pss.rs/terenipp/e7-19/",
+        "pss_id": 3878,
+        "updated_at": "2024-12-07T21:35:11Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
+    },
+    "search": "devijacija: zuc - lebane e7-19 kopaonicko-toplicka regija radan dvig psk kursumlija (ad fines), manastiri presvete bogorodice i sv. nikole, lukovska, kursumlijska, sijerinska i prolom banja, djavolja varos, justinijana prima zahtevna • put e7, alternativnim pravcem, kod sela zuc u blizini selove, pruza mogucnost izbora pesacenja prema gradu kursumlija i dalje prema jugoistoku, ka gradovima lebane i vranje. grad kursumlija nalazi se na temeljima rimskog grada ad fines, sto znaci „na kraju“. u ranom srednjem veku srpski vladar stefan nemanja podigao je manastire presvete bogorodice i svetog nikole. tada se grad zvao bele crkve. ime kursumlija dali su joj turci zbog krovova crkava prekrivenih olovom (turski „kursum”). u blizoj okolini otkriveni su ostaci banjskog lecilista iz treceg milenijuma pre nove ere. izvori termalnih voda nalaze se u velikom broju u lukovskoj banji, kursumlijskoj banji i prolom banji. • put e7 iz kursumlije prelazi planinu sokolovicu i krece se prema planini radan na kojoj se nalazi vredan prirodni fenomen spomenik prirode djavolja varos. ovaj narodni naziv jasno objasnjava izgled velike povrsine pod erozijom na kojoj su stvoreni visoki zemljani i stenoviti stubovi sa kamenim blokovima na vrhovima. broj stubova i piramida je oko 200, sa stalnim procesom obrusavanja i nastajanja novih oblika. narodne legende o nastanku cavolje varosi su brojne. u podnozju se nalaze izvori sa veoma velikom koncentracijom gvozdja i sumpora koji sprecavaju razvoj bilo kakvog zivota. • kroz guste sume planine radan, put e7 silazi u dolinu reke jablanice gde se pored gradica lebane nalaze ostaci kasnoantickog grada justinijana prima. njegov osnivac je car istocnog rimskog carstva justinijan prvi koji se rodio u obliznjem selu taurezijumu. lokalitet zahvata nekoliko hektara sa ostacima vise znacajnih objekata, akropolja, bazilike i dr. • u blizini lebana moguce je posetiti rudnik zlata i poludragog kamenja lece koji je poznat jos od pradavnih vremena, antickog doba i srednjeg veka. takodje, juzno od",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T13:01:56Z"
+    }
+}

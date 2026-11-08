@@ -70,12 +70,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/05/3-20-7-Suvobor-Divcibare.gpx",
-        "fetched_at": "2026-11-08T11:55:44Z",
-        "checked_at": "2026-11-08T11:55:44Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 219259,
         "sha256": "e96dc8825bb997c0e0f6d34c64a56ecc10dce7048e2bd746886fe7a22a41fef7",
         "etag": null,
-        "last_modified": "Sat, 21 May 2022 17:13:08 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 1643,
@@ -231,14 +231,14 @@
         "pss_id": 3849,
         "updated_at": "2022-05-21T17:17:37Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:55:45Z",
-        "last_synced_at": "2026-11-08T11:55:45Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "suvobor - divcibare (pl.dom \"na poljanama\") 3-20-7 zapadna srbija maljen, suvobor vrh suvobora, 866 m maljen (divcibare, pl. dom \"na poljanama\"), 980 m pobeda psk • spomenik borcima suvoborsko-kolubarske bitke • spomen komplaks na ravnoj gori • mokra pecina • spomenik palim u velikom ratu zahtevna planinarski put polazi sa vrha suvobora na zapad, spusta se na asfaltni put koji ide do spomen komplaksa na ravnoj gori. spusta se dalje makadamskim putem do potoka grab (nema obezbedjen prelaz - most), a zatim se lagano penje sumskom pa livadskom stazom u pravcu zapada ka kotama riorak-721 i rior-882. put dalje nastavlja takodje na zapad (pretezno livadskom stazom) prolazeci sa severne strane ispod malog i velikog maljena, preko kote vlasovi 1003 m, preseca makadamski put, spusta se ka lokalnom potocicu i potom izlazi na proplanak gde se nalazi planinarski dom \"na poljanama\".",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:55:45Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

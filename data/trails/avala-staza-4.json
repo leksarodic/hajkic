@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2020/10/2-3-5-Avala-staza-4.gpx",
-        "fetched_at": "2026-11-08T12:01:16Z",
-        "checked_at": "2026-11-08T12:01:16Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 65510,
         "sha256": "265c5f7878b73f37b44f311f72e399c0f1482e8bd2fff3a7282e8a155b815fe3",
         "etag": null,
-        "last_modified": "Wed, 21 Oct 2020 13:36:44 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 384,
@@ -154,14 +154,14 @@
         "pss_id": 12294,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:01:17Z",
-        "last_synced_at": "2026-11-08T12:01:17Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "avala, staza 4 2-3-5 sumadija avala autobuska stanica \"beli potok centar\", 233 m spomenik neznanom junaku na vrhu avale, 506 m avala pd • spomenik vasi carapicu • planinarski kuca \"avala\" • planinarski dom \"carapicev brest\" • cesma ladna voda • rimski rudnik • spomenik neznanom junaku • vidikovac: vrh avale laka staza 4 spaja sledece staze: stazu 2, stazu 3, stazu 5 i stazu 6.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:01:17Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

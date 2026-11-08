@@ -79,12 +79,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2023/08/Staza-8.gpx",
-        "fetched_at": "2026-11-08T12:03:41Z",
-        "checked_at": "2026-11-08T12:03:41Z",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
         "bytes": 96796,
         "sha256": "86a520fc880f345b487c7f094d7b66c6dd0cbe32d5319c191cdb92560135e4c7",
         "etag": null,
-        "last_modified": "Sun, 26 Nov 2023 18:43:47 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 885,
@@ -168,14 +168,14 @@
         "pss_id": 20036,
         "updated_at": "2023-11-26T18:47:36Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:03:42Z",
-        "last_synced_at": "2026-11-08T12:03:42Z"
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
     },
     "search": "polom - m. vrtop - v. vrtop (staza 8) 7-15-3 jugoistocna srbija gramada polom vrh veliki vrtop 1721 m cemernik pd vrhovi mali veliki vrtop laka pocetak staze je 1200 metara ispod brane vlasinskog jezera pored asfaltnog puta \"surdulica - crna trava\". nakon 100 metara spustanja makadamskim putem prema selu polom, sledi konstantan i srednje strm uspon do samog vrha veliki vrtop. sa rastom nadmorske visine ucesce liscarskih vrsta sumskog drveca, kao sto su breza i jasika se smanjuje, a povecava se ucesce cetinarskih: smrce, crnog i belog bora. posle predjenih 2 km, staza prolazi pored veceg broja kuca u selu polom, a nakon toga nastupaju divlji vlasinski predeli, koji ce svakog ljubitelja prirode ostaviti bez daha. pri prilasku vrhu mali vrtop, izlazi se iz retkih suma na prostrane i strme pasnjacke strane. vrh mali vrtop pruza jedinstven pogled posetiocima na vlasinsko jezero i siru okolinu. stazom, takodje strmom se treba spustiti do raskrsnice sumskih puteva na prevoju prema vrhu veliki vrtop, a zatim sledi zavrsni uspon kroz pasnjacke terene do ovog vrha. vrh veliki vrtop predstavlja veoma siroku, visokoplaninsku i travnatu zaravan. smer kretanja: - polom - start - polom - selo (2,0 km) - polomska cuka (3,1 km) - vrh mali vrtop (4,9 km) - vrh veliki vrtop (7,7 km)",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:03:42Z"
+        "generated_at": "2026-11-08T13:01:57Z"
     }
 }

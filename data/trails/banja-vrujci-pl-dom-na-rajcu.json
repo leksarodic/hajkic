@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/06/3-20-9-Banja-Vrujci-Rajac-dom.gpx",
-        "fetched_at": "2026-11-08T11:56:09Z",
-        "checked_at": "2026-11-08T11:56:09Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 112657,
         "sha256": "c3b1a58eb1ab160391f4feb52e801a01d741cd030c29be4b1bab0c05a86a078f",
         "etag": null,
-        "last_modified": "Sat, 03 Jul 2021 12:22:46 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 876,
@@ -224,14 +224,14 @@
         "pss_id": 3910,
         "updated_at": "2021-07-03T12:23:19Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:56:09Z",
-        "last_synced_at": "2026-11-08T11:56:09Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "banja vrujci - pl.dom na rajcu 3-20-9 zapadna srbija suvobor banja vrujci (centar), 180 m rajac (cika duskov pl.dom), 625 m pobeda psk • banja vrujci • crkva svetog ilije • izvor ljiga u selu ba • rajac • spomenik \"1300 kaplara\" zahtevna",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:56:09Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

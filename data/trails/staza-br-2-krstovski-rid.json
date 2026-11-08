@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/05/Staza-br.-2-Krstovski-Rid.gpx",
-        "fetched_at": "2026-11-08T11:55:05Z",
-        "checked_at": "2026-11-08T11:55:05Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 85578,
         "sha256": "7532163573a59881be1e2b255320ada002e1f26a7dba09138f554fb2eca2e870",
         "etag": null,
-        "last_modified": "Sun, 31 Oct 2021 13:30:44 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 527,
@@ -194,14 +194,14 @@
         "pss_id": 3759,
         "updated_at": "2021-10-31T13:31:59Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:55:06Z",
-        "last_synced_at": "2026-11-08T11:55:06Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "staza br. 2 \"krstovski rid\" 7-9-2 jugoistocna srbija kukavica selo cukljenik, 376 m planinarski dom \"preka voda\", 1270 m kukavica psk • crkva sv. nikole • spomenik vlajku stoiljkovicu zahtevna selo cukljenik - strugara - krstovski rid - strmac - planinarski dom \"preka voda\"",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:55:06Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

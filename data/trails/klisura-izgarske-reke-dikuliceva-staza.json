@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/08/4-31-9-Klisura-Izgarske-reke.gpx",
-        "fetched_at": "2026-11-08T11:58:56Z",
-        "checked_at": "2026-11-08T11:58:56Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 72172,
         "sha256": "b7aab5853e0abb8127c8b7801116b71f4bafc427f181ef2acd3609c7b1297504",
         "etag": null,
-        "last_modified": "Fri, 21 Dec 2018 12:17:49 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 393,
@@ -194,14 +194,14 @@
         "pss_id": 4612,
         "updated_at": "2018-12-21T12:18:55Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:58:57Z",
-        "last_synced_at": "2026-11-08T11:58:57Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "klisura izgarske reke - \"dikuliceva staza\" 4-31-9 istocna srbija devica stari rudnik (citluk) - 470 mnv stari rudnik (citluk) - 470 mnv (kruzna staza) ostra cuka pd • momin kamen i nekoliko pecina • vidikovci: 8 • na stazi ima 2 izvora pitke vode • nema smestaja vrlo teska • najvisa tacka 669 mnv, najniza tacka 431 mnv • napomena: na stazi je potrebna opreznost.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:58:57Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

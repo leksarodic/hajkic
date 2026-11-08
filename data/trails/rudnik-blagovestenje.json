@@ -70,7 +70,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T11:59:35Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -110,14 +110,14 @@
         "pss_id": 8038,
         "updated_at": "2019-01-09T20:02:38Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:59:35Z",
-        "last_synced_at": "2026-11-08T11:59:35Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "rudnik - blagovestenje 2-8-2 sumadija rudnik planinarska kuca \"ratko kuruzovic\" rudnik, 527 m manastir blagovestenje, 548 m ptt posk • cvijicev vrh (1132m) • manastir blagovestenje laka staza polazi od planinarske kuce \"ratko kuruzovic\" iznad varosice rudnik, penje se pravcem istok ka vrhovima mali i veliki sturac (1132m), a zatim lagano spusta ka manastiru blagovestenje",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:59:35Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

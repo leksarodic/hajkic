@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/06/4-33-5-Stanci-Koviljaca-Manastir-Lipovac.gpx",
-        "fetched_at": "2026-11-08T11:56:21Z",
-        "checked_at": "2026-11-08T11:56:21Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 175355,
         "sha256": "35f7f622716bae86380456d4a165853eb9e591e92d44a808bb0b85b8c8b4e35d",
         "etag": null,
-        "last_modified": "Wed, 19 Feb 2020 14:05:04 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 1069,
@@ -188,14 +188,14 @@
         "pss_id": 3946,
         "updated_at": "2020-02-19T14:07:09Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:56:22Z",
-        "last_synced_at": "2026-11-08T11:56:22Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "koviljaca / stanci - lipovac 4-33-5 istocna srbija ozren selo stanci - 255 mnv manastir lipovac - 395 mnv brdjanka psk • manastir sv. stevan (14.vek) u lipovcu • crkva sv. jovana • vidikovac laka",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:56:22Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

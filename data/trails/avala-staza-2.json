@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2020/10/2-3-3-Avala-staza-2.gpx",
-        "fetched_at": "2026-11-08T12:01:12Z",
-        "checked_at": "2026-11-08T12:01:12Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 45508,
         "sha256": "912af9df3f418d3c8921a89bf923882d5a8aeeb8f7d12a8d40006515f5842a96",
         "etag": null,
-        "last_modified": "Wed, 21 Oct 2020 13:10:23 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 241,
@@ -164,14 +164,14 @@
         "pss_id": 12286,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:01:13Z",
-        "last_synced_at": "2026-11-08T12:01:13Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "avala, staza 2 2-3-3 sumadija avala autobuska stanica \"avala\" u pinosavi, 265 m spomenik neznanom junaku na vrhu avale, 506 m avala pd • cesma sakinac • spomenik sovjetskim ratnim veteranima • hotel \"avala\" • spomenik neznanom junaku laka",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:01:13Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

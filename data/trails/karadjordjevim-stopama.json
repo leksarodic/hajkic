@@ -70,7 +70,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T12:50:51Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -111,14 +111,14 @@
         "pss_id": 3714,
         "updated_at": "2017-05-14T17:59:52Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:50:51Z",
-        "last_synced_at": "2026-11-08T12:50:51Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "karadjordjevim stopama 2-17-2 sumadija radovanjska brda sportski centar u velikoj plani (130) sportski centar u velikoj plani (130) vrbica pk manastir koporin, crkva pokajnica, radovanjski lug laka",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:50:51Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

@@ -80,7 +80,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T11:56:01Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -121,14 +121,14 @@
         "pss_id": 3899,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:56:01Z",
-        "last_synced_at": "2026-11-08T11:56:01Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "staza 12 \"sv. petka\" 2-14-14 sumadija gledicke planine manastir sv. petka 170 mnv pl. dom gornji dubic 700 mnv ljukten psd zahtevna",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:56:01Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

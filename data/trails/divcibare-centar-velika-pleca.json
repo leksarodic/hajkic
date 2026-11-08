@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2022/04/3-22-3-Centar-Velika-Pleca.gpx",
-        "fetched_at": "2026-11-08T12:02:30Z",
-        "checked_at": "2026-11-08T12:02:30Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 37099,
         "sha256": "32bb1092c4e93da8bcccec17aa5cbf5f7cb3f313bea1027878cefc0347286a4d",
         "etag": null,
-        "last_modified": "Sat, 30 Apr 2022 12:50:47 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 198,
@@ -154,14 +154,14 @@
         "pss_id": 16552,
         "updated_at": "2022-04-30T12:54:34Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:02:31Z",
-        "last_synced_at": "2026-11-08T12:02:31Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "divcibare centar - velika pleca 3-22-3 zapadna srbija maljen centar divcibara, 945 m velika pleca, 1025 m magles psd • vidikovci: crni vrh, velika pleca • snabdevenost: trgovinski objekti u centru divcibara laka • na stazu koja je turisticka se krece jugo-zapadno iz centra pored pravoslavne crkve i decijeg igralista preko proplanka stazom koja vodi kroz sumu. blago uzbrdo se krecemo pored potoka zujan ka beogradskom naselju. iza beogradskog naselja ukljucujemo se na asfaltni put, duzine oko 1 km, gde je potrebna opreznost pri kretanju. odvajamo se juzno na put ka tometinom polju kojim se krecemo 150 m i ponovo odvajamo makadamskim putem ka maloj ski stazi koju prelazimo. na raskrscu kod meteoroloske stanice penjemo se juzno ka grebenu koji vodi pored „drveta ljubavi“ ka crnom vrhu. • „drvo ljubavi“ je izuvijani beli bor koji privlaci paznju posetilaca divcibara. zbog verovanja da donosi srecu u ljubavi mnogi muskarci i zene ostavljaju novcice u kori na stablu ovog drveta. • crni vrh se nalazi izmedju male i velike ski staze na visini od 1096 m. pored ovog vrha nalazi se vidikovac sa prepoznatljivom ljuljaskom i pogledom na planine centralne i zapadne srbije: ovcar, kablar, subjel... golija, ski staza tornik na zlatiboru, obronci tare i valjevske planine. • krecuci se lagano dalje stazom nizbrdo kroz cetinarsku sumu izlazimo na makadamski put koji pored vikendica vodi ka vidikovcu velika pleca (1025 m). na sam vidikovac se skrece juzno, uzbrdo, kroz cetinarsku sumu.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:02:31Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

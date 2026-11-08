@@ -69,12 +69,12 @@
         "available": false,
         "status": "invalid",
         "source_url": "https://pss.rs/wp-content/uploads/2019/01/4-36-1Tupižnica-Koželj-Ledeni_ki-vrh.gpx",
-        "fetched_at": "2026-11-08T12:07:35Z",
-        "checked_at": "2026-11-08T12:07:35Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 89539,
         "sha256": "ea12cb491b666aa79b8a726c6bece4d93018b282d3ff56dce4fecb7498c408de",
         "etag": null,
-        "last_modified": "Sat, 07 Nov 2026 16:41:33 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": false,
         "points": 0,
@@ -111,14 +111,14 @@
         "pss_id": 8159,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:07:36Z",
-        "last_synced_at": "2026-11-08T12:07:36Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "kozelj - ledenicki vrh 4-36-1 istocna srbija tupiznica selo kozelj, 464m selo kozelj, 464m dragan radosavljevic opsd • na stazi ima dva izvora koji peko leta presusuju. na mestu \"tri bunara\" postoji pitka voda iz bunara. • nema smestajnih objekata zahtevna • pocetak staze nalazi se u selu kozelj na istocnim obroncima planine tupiznice. prvi deo staze prolazi uzanim sumskim putem kroz usek i klisuru. nakon toga prolazi se pored vikendice koja ostaje sa desne strane i dolazi do mesta \"tri bunara\". staza onda nastavlja putem do lovacke kolibe odakle se blagim usponom dolazi do pecine ledenice. nakon pecine izlazi se na greben sa zapadne strane planine odakle se pruza pogled ka rtnju. po izlasku na ledenicki vrh, staza se kruzno, kolskim putem vraca do pecine ledenice i potom istim putem nazad do sela kozelj. • na stazi je potrebna opreznost !",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:07:36Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

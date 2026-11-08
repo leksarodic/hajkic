@@ -70,7 +70,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T11:59:03Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -111,14 +111,14 @@
         "pss_id": 4619,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:59:03Z",
-        "last_synced_at": "2026-11-08T11:59:03Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "pesacka staza kroz suboticku pescaru 1-1-1 vojvodina palicko jezero palic, majkin salas - 110 mnv kelebija drzavna granica, autobuska okretnica - 130 mnv spartak psk jezera tresetiste i majdan laka",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:59:03Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

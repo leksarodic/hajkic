@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2019/02/4-37-2-Milusinac-Slemen.gpx",
-        "fetched_at": "2026-11-08T12:00:02Z",
-        "checked_at": "2026-11-08T12:00:02Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 187885,
         "sha256": "db7a291d86a0cd88f846a295b85bf2f02acb68fa112a2b8298adc14099da9e90",
         "etag": null,
-        "last_modified": "Tue, 12 Feb 2019 14:59:56 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 1152,
@@ -166,14 +166,14 @@
         "pss_id": 8308,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:00:03Z",
-        "last_synced_at": "2026-11-08T12:00:03Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "milusinac - slemen 4-37-2 istocna srbija slemen milusinac, centar sela, 450m slemen, vrh (spomenik), 1099m ostra cuka pd • spomenik iz slemenske bitke • crkva • vidikovci: srednji rt i vrh slemena • na stazi ima izvor pitke vode • na trasi nema smestaja zahtevna slemen (juzna strana i vrh)",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:00:03Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

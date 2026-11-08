@@ -89,12 +89,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/05/E4-4-Padina-Beograd.gpx",
-        "fetched_at": "2026-11-08T12:50:16Z",
-        "checked_at": "2026-11-08T12:50:16Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 237796,
         "sha256": "f27711f2018a38f24205026a34d728884c6bce57b46108fa0b76030646d10a15",
         "etag": null,
-        "last_modified": "Thu, 05 Dec 2024 23:00:41 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": false,
         "points": 3265,
@@ -494,14 +494,14 @@
         "pss_id": 3639,
         "updated_at": "2024-12-05T23:00:53Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:50:17Z",
-        "last_synced_at": "2026-11-08T12:50:17Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "padina - beograd (krnjaca) e4-4 vojvodina deliblatska pescara jelenak pd deliblatska pescara (poslednja kontinentalna pescara u evropi), specijalni rezervat prirode labudovo okno laka • posle ritova tamisa zalazimo u predele poslednje kontinentalne pescare u evropi. deliblatska pescara, na povrsini od 35.000ha pretstavlja stecifican rezervat prirode, sa tipicnim karakteristikama nekadasnjeg navejavanja i kretanja peska i bogatim biodiverzitetom. ima prepoznatljivu stepsku vegetaciju (40 biljnih vrsta ima status prirodnih retkosti). veliki deo pescare je sada posumljen. u pescari zive, pored sitnih zivotinja i vukovi. • ambijent pescare pruza mogucnosti za pesacenje, sport, rekreaciju, istrazivanje i obrazovanje. pescane dine su visine od 70 do 200m. pescara na jugoistoku dopire do reke dunav gde se nalazi specijalni rezervat prirode labudovo okno. najveca kolonija laste bregunice gnezdi se u peskovitoj obali dunava.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:50:17Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/08/4-27-4-Tomiceva-koliba-jama-Ledenica.gpx",
-        "fetched_at": "2026-11-08T11:58:55Z",
-        "checked_at": "2026-11-08T11:58:55Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 18469,
         "sha256": "e88c3dc8ce189f2369059cc788c55be8eb93fa1a022b39bd3a2a412ed2960c0d",
         "etag": null,
-        "last_modified": "Tue, 18 Dec 2018 13:25:53 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 140,
@@ -134,14 +134,14 @@
         "pss_id": 4592,
         "updated_at": "2018-12-18T13:26:58Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:58:55Z",
-        "last_synced_at": "2026-11-08T11:58:55Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "tomiceva koliba - jama ledenica 4-27-4 istocna srbija rtanj tomiceva koliba, 820m jama ledenica, 922m ostra cuka pd • jama ledenica za rtnju • na stazi nema izvora pitke vode • nema smestaja laka • spaja sledece staze: povezane je sa stazom koja vodi od tomiceve kolibe do vrha siljak na rtnju i stazom od tomiceve kolibe do sela muzinac. • napomena: potrebna je opreznost pri prilasku jami. jama nije uredjena za posetu !!!",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:58:55Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

@@ -1,0 +1,241 @@
+{
+    "schema_version": 1,
+    "slug": "dreznik",
+    "name": "Drežnik",
+    "code": "E7-10-4",
+    "category": {
+        "key": "evropski-pesacki-putevi-u-srbiji",
+        "label": "Evropski pešački putevi u Srbiji"
+    },
+    "pss": {
+        "post_id": 23557,
+        "category_id": 29,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            122
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Zlatibor",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "lak"
+    },
+    "distance": {
+        "official_km": null,
+        "calculated_km": 13.92
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": null,
+        "official_loss_m": null,
+        "calculated_gain_m": 142.7,
+        "calculated_loss_m": 161.2,
+        "min_m": 755.1,
+        "max_m": 939.3
+    },
+    "start": null,
+    "end": null,
+    "description": null,
+    "landmarks": null,
+    "maintenance": null,
+    "marking": null,
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": null,
+    "club": null,
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2024/02/E7-10-4.gpx",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
+        "bytes": 69708,
+        "sha256": "b6b3826b09afac4d72c034425aa3f28774296839c82ecd50b2c655deb899a722",
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": 952,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2024/02/E7-10-4.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/dreznik.geojson",
+        "bbox": [
+            19.837630672,
+            43.766915883,
+            19.948446274,
+            43.78766177
+        ],
+        "center": [
+            19.893038,
+            43.777289
+        ],
+        "start_point": [
+            19.948446274,
+            43.780330658
+        ],
+        "end_point": [
+            19.837630672,
+            43.778416759
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    19.94845,
+                    43.78033
+                ],
+                [
+                    19.93271,
+                    43.78495
+                ],
+                [
+                    19.93055,
+                    43.78741
+                ],
+                [
+                    19.92568,
+                    43.78698
+                ],
+                [
+                    19.92462,
+                    43.78441
+                ],
+                [
+                    19.91561,
+                    43.78316
+                ],
+                [
+                    19.91342,
+                    43.77792
+                ],
+                [
+                    19.89985,
+                    43.77699
+                ],
+                [
+                    19.89739,
+                    43.77386
+                ],
+                [
+                    19.89887,
+                    43.77043
+                ],
+                [
+                    19.8951,
+                    43.77081
+                ],
+                [
+                    19.8932,
+                    43.76692
+                ],
+                [
+                    19.89043,
+                    43.7682
+                ],
+                [
+                    19.88872,
+                    43.77396
+                ],
+                [
+                    19.88126,
+                    43.77659
+                ],
+                [
+                    19.87799,
+                    43.77557
+                ],
+                [
+                    19.86973,
+                    43.78017
+                ],
+                [
+                    19.86788,
+                    43.77876
+                ],
+                [
+                    19.86487,
+                    43.78253
+                ],
+                [
+                    19.85974,
+                    43.78132
+                ],
+                [
+                    19.85362,
+                    43.78551
+                ],
+                [
+                    19.8491,
+                    43.78531
+                ],
+                [
+                    19.84786,
+                    43.78153
+                ],
+                [
+                    19.84139,
+                    43.77797
+                ],
+                [
+                    19.83763,
+                    43.77842
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description",
+            "missing_elevation"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/dreznik/",
+        "canonical_url": "https://pss.rs/terenipp/dreznik/",
+        "pss_id": 23557,
+        "updated_at": "2024-12-07T22:06:28Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
+    },
+    "search": "dreznik e7-10-4 jugozapadna srbija zlatibor laka",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T13:01:57Z"
+    }
+}

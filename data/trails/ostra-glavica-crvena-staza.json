@@ -70,7 +70,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T11:57:36Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -110,14 +110,14 @@
         "pss_id": 4524,
         "updated_at": "2017-08-05T15:18:47Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:57:36Z",
-        "last_synced_at": "2026-11-08T11:57:36Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "ostra glavica, crvena staza 6-3-6 kopaonicko-toplicka regija stolovi u mataruskoj banji kod male pijace, 210m ostra glavica, 728m kraljevo pak vidikovac na ostroj glavici (728m) laka crvena staza je duga 3,2km i posle se spaja sa plavom stazom i do vrha ostra glavica ima jos 2,67km.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:57:36Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

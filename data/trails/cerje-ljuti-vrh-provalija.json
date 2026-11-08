@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/08/4-47-2-Cerje-Ljuti-vrh-Provalija.gpx",
-        "fetched_at": "2026-11-08T11:57:14Z",
-        "checked_at": "2026-11-08T11:57:14Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 60609,
         "sha256": "64fe35164aa07f2303a36c980ae401e4eecbdc2d1062204a135199f9d18738a1",
         "etag": null,
-        "last_modified": "Wed, 31 Jan 2018 10:52:56 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 481,
@@ -174,14 +174,14 @@
         "pss_id": 4490,
         "updated_at": "2018-01-31T10:53:30Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:57:15Z",
-        "last_synced_at": "2026-11-08T11:57:15Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "cerje - ljuti vrh - provalija 4-47-2 istocna srbija kalafat cerje centar, 450m cerje centar, 450m zeleznicar pk nis laka staza: cerje (450m) - virovi - ljuti vrh (783m) - provalija (515m) - cerje (450m)",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:57:15Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2020/06/4-4-7-Krepoljin-Veliki-Vranj.gpx",
-        "fetched_at": "2026-11-08T12:00:51Z",
-        "checked_at": "2026-11-08T12:00:51Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 91938,
         "sha256": "0657650396f367356b441d0b3fc7050d9ce1e1b8a8079e9b42387cb1cf84487f",
         "etag": null,
-        "last_modified": "Tue, 09 Jun 2020 17:23:28 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 555,
@@ -210,14 +210,14 @@
         "pss_id": 11606,
         "updated_at": "2020-06-09T17:28:00Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:00:52Z",
-        "last_synced_at": "2026-11-08T12:00:52Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "veliki vranj od krepoljina 4-4-7 istocna srbija homoljske planine gavranova stena (put u blizini krepoljina), 290 m gavranova stena (put u blizini krepoljina), 290 m gornjak pd • izvor krepoljinske reke • naselje: krepoljin • pitka voda na izvoru krepoljinske reke zahtevna • start je u blizini gavranove stene na putu koji ide od centra krepoljina pored skole do starog stajalista za autobus. put od centra krepoljina je asfalt i dobar makadam u duzini od 4,5 km. staza vecinom ide sumskim putevima, dok u drugoj polovini prati stazu homoljskog maratona. na stazi ima izvora sa vodom i vecinom se ide kroz sumu. staza u prvoj polovini nije oznacena dok u drugoj postoje plavo-zute oznake homoljskog maratona. sam pristup vrhu veliki vranj (884 m) u zadnjih 100 m je stena sa dosta ostrog kamenja. • pri usponu na sam vrh potrebna je opreznost.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:00:52Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

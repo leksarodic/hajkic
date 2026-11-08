@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2020/06/4-49-4-Izvor-reke-Dubocice.gpx",
-        "fetched_at": "2026-11-08T12:00:57Z",
-        "checked_at": "2026-11-08T12:00:57Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 122140,
         "sha256": "eba73830a4f8dfd352dfbe20ecbc5689c528f6eb9b9a0ca74a2570ffcfe7a8d9",
         "etag": null,
-        "last_modified": "Tue, 09 Jun 2020 18:43:35 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 746,
@@ -174,14 +174,14 @@
         "pss_id": 11633,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:00:57Z",
-        "last_synced_at": "2026-11-08T12:00:57Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "izvor reke dubocice 4-49-4 istocna srbija jezevac manastir gornjak, 177 m izvor reke dubocice, 286 m gornjak pd • manastir gornjak • izvor i izletiste cvarinac • vestacki tuneli iznad manastira gornjak • izvor reke dubocice • vidikovci: 1 • na trasi izvori pitke vode: izvor cvarinac i izvor reke dubocice • van trase smestaj u izvidjackom domu zdrelo • van trase smestaj u banji zdrelo i privatni smestaj u okolini zahtevna • staza krece ispred manastira gornjak gde ima mesta za siguran parking. dalje se ide uz tok reke mlave. na prvom kilometru se nalazi izvor vode i izletiste cvarinac. posle krece kraci uspon koji prati stazu ka jezevcu i sa koje se skrece i vraca nazad ka reci mlavi, koja se prati do mesta ulivanja reke dubocice. dalje se prati tok reke dubocice do njenog izvora. staza je atraktivna i na par mesta se gazi recica dubocica, voda obicno nije velika. vecinom se ide kroz sumu. kod samog izvora se moze videti interesantan vodopad i izvor koji izlazi im male pecine u steni. • prikazan je trek samo u jednom smeru, u povratku se mozete vratiti istim putem ili sami istazivati put nazad po obodima ceretara i jezevca. • od izvora se moze seoskim putem preko padina jezevca spustiti u selo setonje, udaljeno oko 5,5 km.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:00:57Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

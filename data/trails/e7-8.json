@@ -94,12 +94,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/05/E7-8-Krupanj-Divcibare.gpx",
-        "fetched_at": "2026-11-08T12:50:59Z",
-        "checked_at": "2026-11-08T12:50:59Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 443221,
         "sha256": "f3024b644587eaf54d2f06d682796afcb527ec96144cd97acc4e777a9fa49207",
         "etag": null,
-        "last_modified": "Sat, 07 Dec 2024 21:26:20 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 6002,
@@ -895,14 +895,14 @@
         "pss_id": 3728,
         "updated_at": "2024-12-07T21:26:28Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:50:59Z",
-        "last_synced_at": "2026-11-08T12:50:59Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "krupanj - divcibare e7-8 zapadna srbija bobija brdjanka psk • sokograd, • ljubovija, • kanjon reke tresnjice, • klisura reke gradac, • grad valjevo, • manastiri pustinja, celije i lelic, • divcibare zahtevna • iz krupnja put e7 prelazi preko sokolskih planina ciji je najvisi vrh rozanj 973 metra i kroz podrucje bregovite azbukovice silazi ka ostacima starog utvrdjenja soko grad ispod koga je krajem proslog veka podignut veliki pravoslavni manastir sv. nikolaja zickog. put dalje vodi ka varosici ljubovija, na reci drini. na ovom delu trase puta nalaze se brojna rasuta planinska sela sa sacuvanom lokalnom arhitekturom i tradicijom pripreme lokalnih specijaliteta. kraj je poznat po proizvodnji voca, posebno sljiva od kojih se pravi cuvena rakija srpska sljivovica. • grad ljubovija nalazi se na uscu recice ljubovidje u reku drinu. na reci drini koja spada u najcistije reke evrope odrzavaju se brojne manifestacije, ribolov, rafting, sportovi na vodi i dr. u celoj okolini razvijen je seoski turizam u velikom broju domacinstava. • nakon ljubovije put e7 podize se prema valjevskim planinama i prolazi iznad kanjona reke tresnjice, specijalnog rezervata prirode. • u ovom kanjonu koji je prirodno veoma atraktivan nalazi se kolonija beloglavih supova o kojima brinu lokalna ekoloska drustva. put e7 ide, preko prevoja debelo brdo, vencem valjevskih planina visine od 1000 do 1300 metara, kroz relativno pitomi planinski kraj, a zatim silazi u podgorinu valjevskih planina na krasku povrs sela leskovica i lelic. zanimljiv je ovaj prolazak kroz raznovrsne oblike reljefa koji se smenjuju u svojoj raznovrsnosti, kanjoni, vrtace, ponori, pecine. • sa desne strane puta nalazi se kanjon reke gradac koji je takodje pod rezimom zastite zahvaljujuci sacuvanoj izvornoj cistoci vode i prirode. zatim put e7 silazi u grad valjevo, crediste regiona. • grad valjevo predstavlja vazan istorijski, kulturni i privredni centar ovog kraja srbije. arheoloski podaci govore o njegovom preromanckom naseljavan",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:50:59Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

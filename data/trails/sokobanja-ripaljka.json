@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2019/02/4-33-6-Sokobanja-Ripaljka.gpx",
-        "fetched_at": "2026-11-08T11:59:57Z",
-        "checked_at": "2026-11-08T11:59:57Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 7538,
         "sha256": "7322486cc0d2f5e22128e2fe3fca193742338de629bf577135b36ff36ef593f4",
         "etag": null,
-        "last_modified": "Tue, 12 Feb 2019 14:19:54 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 44,
@@ -138,14 +138,14 @@
         "pss_id": 8296,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:59:57Z",
-        "last_synced_at": "2026-11-08T11:59:57Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "sokobanja - ripaljka 4-33-6 istocna srbija ozren grudonjske vodenice, 330m ozren naselje, 470m ostra cuka pd • grudonjske vodenice • vodopad ripaljka • izletiste ozren • na trasi izvor vode: bele vode • privatni smestaj van trase laka ozren (severoistocna strana)",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:59:57Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2021/03/4-33-9-Ripaljka-Jermencic-Leskovik-Ozrenska-vrata.gpx",
-        "fetched_at": "2026-11-08T12:02:00Z",
-        "checked_at": "2026-11-08T12:02:00Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 231764,
         "sha256": "b972f7bf5ad9077277f260318a9237a8f9265759e4a1dca3d6539299675dbe52",
         "etag": null,
-        "last_modified": "Wed, 31 Mar 2021 14:37:41 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 1407,
@@ -230,14 +230,14 @@
         "pss_id": 13409,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:02:01Z",
-        "last_synced_at": "2026-11-08T12:02:01Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "ripaljka - jermencic - leskovik - ozrenska vrata 4-33-9 istocna srbija ozren kapija bolnice ozren, 487 m kapija bolnice ozren, 487 m ozren pk • bolnica ozren, manastir jermencic, vrh leskovik, ozrenska vrata • vidikovac: vrh leskovik • na stazi ima izvora pitke vode • naselje: ozren • smestaj: kamp, odmaraliste, privatni smestaj zahtevna staza je kruzna i polazi od kapije bolnice ozren i ide pored juzne ograde i izlazi na uvaljani put do manastira jermencic. zatim ide pored gornjeg izvora do renovirane kuce. odatle nastavlja prema jugu i uskom kosinom izlazi na greben golemog kamena. zatim nastavlja do tzv. slepog puta. spusta se zapadno - desno, a zatim skrece ulevo u bukovu sume. sledi izlazak na stazu grebenskog uspona na leskovik. od leskovika ide prema najvisoj koti planine ozren i spusta se pored kovarnice do lakaliteta ozrenska vrata - prerast. zatim staza silazi do partizanske cesme i preko troroge silazi do polazne lokacije.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:02:01Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

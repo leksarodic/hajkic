@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2020/03/7-15-1-GRAMADA-Vlasina-vrh-Vrtop-Vlasina.gpx",
-        "fetched_at": "2026-11-08T12:00:39Z",
-        "checked_at": "2026-11-08T12:00:39Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 50778,
         "sha256": "02fcc01fab76954f60dc78f2f8acf2b89008bdd8ca0d845087c38da0c60fda3c",
         "etag": null,
-        "last_modified": "Thu, 19 Mar 2020 15:09:15 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 409,
@@ -234,14 +234,14 @@
         "pss_id": 11091,
         "updated_at": "2020-03-30T13:36:25Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:00:40Z",
-        "last_synced_at": "2026-11-08T12:00:40Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "veliki i mali vrtop - gramada, vlasina 7-15-1 jugoistocna srbija gramada skretanje za selo polom na magistralnom putu vlasina - crna trava, 1120 m skretanje za selo polom na magistralnom putu vlasina - crna trava, 1120 m vlasina spk • na trasi 2 izvora pitke vode • selo polom • van trase 1 motel, 1 kamp i nekoliko desetina privatnog smestaja laka staza prolazi sve vreme kroz izuzetno lepe predele vlasinske visoravni. nema nikakvih naglih i teskih uspona i silazaka. vrlo brzo se izlazi na greben i onda je konstantan pogled na vlasinsko jezero, visoravan i okolne planine.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:00:40Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

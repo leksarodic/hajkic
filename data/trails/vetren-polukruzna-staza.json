@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2019/01/4-42-2-Vetren.gpx",
-        "fetched_at": "2026-11-08T11:59:48Z",
-        "checked_at": "2026-11-08T11:59:48Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 154211,
         "sha256": "c518136a8bd8e3e1ae866dbf429712511bfc9339875dabc875ea59c02151bbc0",
         "etag": null,
-        "last_modified": "Thu, 21 Feb 2019 13:19:47 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 949,
@@ -170,14 +170,14 @@
         "pss_id": 8193,
         "updated_at": "2019-02-21T14:04:16Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:59:49Z",
-        "last_synced_at": "2026-11-08T11:59:49Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "vetren - polukruzna staza 4-42-2 istocna srbija stara planina manastir suvodol, 373m mali izvor, 250m ljuba nesic psd • manastir suvodol • vetrenske pecine • vidikovac: vrh vetren • na trasi ima izvora pitke vode na pocetku i pred kraj staze • na trasi ima privatnog smestaja laka • vrh stare planine vetren (703m) nalazi se izmedju sela selacka i mali izvor, kraj magistralnog puta zajecar-knjazevac, iznad manastira suvodol. u okolini manastira nalaze se vetrenske pecine. najveca od njih dugacka je oko 700m, sa par uskih prolaza koji se sire u prostranije dvorane sa visokim svodovima i bogatim pecinskim ukrasima. do te najvece i najdalje pecine postoji obelezena staza. • pocetak staze je od manastira suvodol, koji se ubraja u najstarije zaduzbine srbije. u samoj porti manastira je izvor, odakle voda pravi vodopad ispod manastirskih zidina, cije su kaskade obrasle bujnom mahovinom. • od manastira staza ide asfaltnim putem, gde se na odvojku desno prelazi preko drvenog mostica. sumskom stazom se izlazi na sumski put i dolazi u podnozje vetrena i do velike raskrsnice, odakle se staza penje na greben i izlazi na vrh. ono sto se ne vidi sa strane kojom se dolazi je litica koja krasi ovaj deo planine i koja je prirodno staniste orlova. na samom vrhu se nalaze ostaci odbrambenih utvrdjenja (iz rimskog dobra i i sv.rata). nazalost, tu se nalaze i jame koje su napravili \"tragaci za blagom\", od kojih je jedna duboka preko 20m. kretanje pored litice i jame zahteva dodatni oprez! • sa vetrena se pruza otvoren pogled na vrhove stare planine, tupiznice, na rtanj, stol, deli jovan, malinik... • silazak sa vrha je planinarskom stazom prema zapadu, gde na obelezenom odvojku desno vodi kroz bukovu sumu koja izlazi na zemljani put i dolazi se u selo mali izvor.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:59:49Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

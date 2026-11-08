@@ -72,7 +72,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T12:02:03Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -112,14 +112,14 @@
         "pss_id": 13550,
         "updated_at": "2021-04-16T13:13:48Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:02:03Z",
-        "last_synced_at": "2026-11-08T12:02:03Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "tri vrha atomske banje 2-11-1 sumadija bukovik (cacak), ostrica, vujan centar banje - hotel vujan kt-1, 330 m mesna zajednica - skola kt-8, 380 m fra pk • manastir vujan • arheolosko nalaziste sokolica • vidikovci: bukovik, majdan, ostrica • na trasi ima izvor pitke vode: bukovik • naselja: gornja trepca, vujetinci • na trasi ima privatni smestaj i odmaraliste. zahtevna staza povezuje jednosmerne staze koje iz banje izlaze na vrhove vujna, bukovika i ostrice i moze se deliti na vise nezavisnih celina koje mogu biti kruzne u kombinaciji jednog, dva ili sva tri vrha i tacko bi cinila jedinstvenu stazu.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:02:03Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2021/12/1-2-3-Velika-staza-30-km.gpx",
-        "fetched_at": "2026-11-08T12:02:17Z",
-        "checked_at": "2026-11-08T12:02:17Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 191591,
         "sha256": "70ee87ee5284f1a6733e03fe5ce2558b899e01b2a4e7b5dc76e1da8318ad4907",
         "etag": null,
-        "last_modified": "Wed, 15 Dec 2021 15:48:59 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 1082,
@@ -242,14 +242,14 @@
         "pss_id": 15109,
         "updated_at": "2021-12-15T15:59:01Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:02:18Z",
-        "last_synced_at": "2026-11-08T12:02:18Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "velika staza 30 km 1-2-3 vojvodina carska bara pristaniste na starom begeju, 71,80 m pristaniste na starom begeju, 71,80 m zrenjanin kp • specijalni rezervat prirode \"carska bara\" • spomenik prirode \"stari dud\" u belom blatu • naselje na stazi: belo blato, lukino selo • na trasi izvori pitke vode iz vodovoda i bunara • privatni smestaj u belom blatu • na trasi hotel \"sibila\" laka • - od starta-pristanista - informativni centar, se krece 200 m do asfaltnog puta na nasipu. • - na asfaltnom putu skrece se levo i ide prema selu belo blato u duzini 700m • - sa asfaltnog puta se skrece levo kod napustene cuvarnice na prvi nasip sa leve strane • - ide se nasipom 3050 m, po kolskom putu (sa leve strane se proteze carska bara, a sa desne botoski rit). • - na kraju carske bare, ne silazi se sa nasipa (mala i srednja staza) vec se produzava nasipom u duzini 5600 m, kada se stigne do ustave “carska bara”(orijentir kockasti betonski objekat visine 1,5 m na nasipu sa desne strane puta), posle koga se nadesno silazi sa nasipa do cuvarnica gde je i kontrolna tacka kt.1 • - put se nastavlja pored nasipa i posle 200 m skrece se desno pod uglom od 110 stepeni. • - kroz sumarak se ide 470 m do mostica. • - prelazi se mostic i nastavlja pravo zemljanim kolskim putem. posle 2700 m, prelazi se na makadam i produzava jos 2300 m do poljoprivrednog preduzeca sa desne strane • - posle 500 m stize se do sela belo blato i skrece levo, produzava obodnobodnom ulicom (grobljanska) jos 370 m do kraja sela i skrece desno, gde je nakon 170 m, sa desne strane, etno salas mala lujza (kt.2) - voda sa cesme, pica po cenama iz restorana, upotreba wc-a • - kada se izadje iz dvorista salasa skrece se levo, produzuje 50 m, do prve raskrsnice, gde se skrece desno, pa prevlakom izmedju jezera mika i jezera koca u duzini od 1350 m do poteza ek.suvajka • - po prolasku prevlake skrece se desno i nastavlja slabo definisanim poljskim putem kroz pasnjake (za orijentaciju sa desne strane je obodni kanal i iza njega posle pojasa trske 100-200 m nalazi se jezero koca) • - posle 2750 m od suvajke sa leve strane ostaje novo jezero • - 500 m posle novog jezera skrece s",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:02:18Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

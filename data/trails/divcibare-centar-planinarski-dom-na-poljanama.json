@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2022/04/3-22-5-Centar-Pl.dom-na-Poljanama.gpx",
-        "fetched_at": "2026-11-08T12:02:37Z",
-        "checked_at": "2026-11-08T12:02:37Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 41112,
         "sha256": "6bc477e77a21a9358556371d9a27ffea1eb283b179471694d0df9b51478afb4a",
         "etag": null,
-        "last_modified": "Sat, 30 Apr 2022 17:19:23 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 230,
@@ -178,14 +178,14 @@
         "pss_id": 16690,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:02:38Z",
-        "last_synced_at": "2026-11-08T12:02:38Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "divcibare centar - planinarski dom \"na poljanama\" 3-22-5 zapadna srbija maljen centar divcibara, 945 m planinarski dom \"na poljanama\", 1000 m magles psd • vidikovac: kraljev sto • naselje: divcibare laka • staza je laka turisticko-planinarska. polazi se iz centra divcibara severo-istocno pored nove pijace. kroz vikend naselje dolazimo do putokaza i stazu nastavljamo severno ka vili plamenac. na raskrsnici kod vile plamenac pratimo makadamski put koji se uzbrdo odvaja ka severo-istoku. par desetina metara staza prolazi obodom ostre krivine na asfaltnom glavnom putu divcibare-krcmar i makadamskim putem istocno se odvaja prema livadama. sa usputnih livada ka jugu se moze videti u celosti velika ski staza crni vrh. • kroz livade dalje se krecemo zemljanim putem koji se kroz sumoviti deo spusta ka calackom potoku. zatim se krecemo uzvodno stotinak metara do useka u kome se nalaze bandere. u zavisnosti od nivoa vode u potoku u ovom delu od stotinak metara potrebno je na najzgodnijem mestu preci na drugu stranu. staza se nastavlja uzbrdo severo-istocno pored drvenih bandera do vrha grebena. sa ovog dela grebena ka zapadu jasno se mogu videti oba repetitora na golubcu. dalje se grebenom krecemo zemljanim kolskim putem jugo-istocno. prolazeci pored vikendica staza se ukljucuje na siri zemljani put. na raskrscu nastavljamo blago severo-istocno do spomen crkve na kraljevom stolu (1104 m) posvecene nastradalim vojnicima u nato bombardovanju. • od crkvice glavnim putem spustamo se ka severu kroz sumu pored vojnog objekta do velike asfaltne raskrsnice. biramo severo-istocni pravac, a na prvom sledecem raskrscu oko 250 m dalje biramo severo-zapadni. dalje dobro obelezena staza vodi kolskim putem kroz vikend naselje do planinarskog doma na poljanama. u ovom delu staza se poklapa sa evropskim pesackim putem e7-9. • planinarski dom na poljanama je kapaciteta 25 lezajeva i nalazi se u vlasnistvu planinarskog-smucarskog drustva magles iz valjeva. ispred doma se nalazi info tabla na k",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:02:38Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

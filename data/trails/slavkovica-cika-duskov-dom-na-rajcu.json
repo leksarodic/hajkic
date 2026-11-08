@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/05/3-20-3-Slavkovica-Ikonici-Crkvine-Rajac-dom.gpx",
-        "fetched_at": "2026-11-08T11:55:42Z",
-        "checked_at": "2026-11-08T11:55:42Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 32794,
         "sha256": "729863b4ecf395f46a9e7e928aca43b915d2581b153e5973eb49138a86a9868b",
         "etag": null,
-        "last_modified": "Sat, 03 Jul 2021 11:41:36 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 236,
@@ -162,14 +162,14 @@
         "pss_id": 3844,
         "updated_at": "2021-07-03T11:42:47Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:55:43Z",
-        "last_synced_at": "2026-11-08T11:55:43Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "slavkovica - cika duskov dom na rajcu 3-20-3 zapadna srbija suvobor selo slavkovica (crkva), 250 m planinarski dom na rajcu, 625 m pobeda psk • lokalitet crkvina • spomenik 1300 kaplara na rajcu. laka pl. put krece od crkva u selu slavkovica asfaltnim putem na jug ka rajcu i nakon oko 500 m skrece ulevo ka zaseoku ikonici (takodje lokalni asvaltni put) i nakon 1 km i blagog uspona dolazi se na lokalitet crkvina. put dalje skrece na istok, ide uzbrdo lokalnim makadamskim putem, prolazi sa zapadne strane ispod kote 468 i kroz sumu lagano se penje u pravcu juga. nakon oko 1,5 km izlazi iz sume na malo bolji makadamski put ispod debelog brda i iznad izvora canak. tu se put racva i skrece u desno na zapad (makadamski put) i pored doma izvidjaca lagano se spusta ka pl. domu na rajcu.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:55:43Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/10/4-49-1_Jezevac-Kozji_grb.gpx",
-        "fetched_at": "2026-11-08T11:59:06Z",
-        "checked_at": "2026-11-08T11:59:06Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 91677,
         "sha256": "7c471681a76d70ebc23a5c0f2bdaeb3d09dd0b78ef7453b7ecc7d928bb6f954b",
         "etag": null,
-        "last_modified": "Fri, 20 Oct 2017 15:27:33 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 552,
@@ -166,14 +166,14 @@
         "pss_id": 5084,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:59:06Z",
-        "last_synced_at": "2026-11-08T11:59:06Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "jezevac preko kozjeg grba 4-49-1 istocna srbija jezevac setonjski most na reci mlavi (158m) manastir gornjak (177m) gornjak pd • manastir gornjak • izletiste cvarinac • vestacki tuneli iznad manastira gornjak • 3 vidikovca zahtevna na startu staze ima mesta za parking. prvo se ide seoskim putem sa koga se skrece na stazu. staza je veoma interesantna jer se velikim delom ide grebenom sa koga se pruza lep pogled na tok mlave i kamenolom. podloga je na usponu vecinom kamen, dok se pri silasku ide kroz sumu do izletista cvarinac gde postoji izvor. dalji deo do manastira gornjak je nasut put. u tom delu puta sa leve strane postoje vestacki tuneli kroz koje se moze proci.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:59:06Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

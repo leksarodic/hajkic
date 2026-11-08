@@ -70,7 +70,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T11:57:25Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -110,14 +110,14 @@
         "pss_id": 4498,
         "updated_at": "2017-08-20T12:54:37Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:57:25Z",
-        "last_synced_at": "2026-11-08T11:57:25Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "staza vranjskog planinarskog maratona 7-10-1 jugoistocna srbija grot grad vranje (cika mitkin spomenik), 485m grad vranje (beli most), 500m zeleznicar 2006 pk vranje • markovo kale • beli most • crkva svete petke poznatija kao \"krstata dzamija\" • vidikovci: borino brdo i oblik zahtevna staza: krstilovica (1154m) - grot (1327m) - oblik (1310m)",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:57:25Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

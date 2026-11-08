@@ -74,12 +74,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/05/E4-12-Sokobanja-Jalovik.gpx",
-        "fetched_at": "2026-11-08T12:50:42Z",
-        "checked_at": "2026-11-08T12:50:42Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 306147,
         "sha256": "44a9e9c4c62c16a33d0c70cf7c061586b671265573e9dc308ffd0590fe0a0297",
         "etag": null,
-        "last_modified": "Thu, 05 Dec 2024 23:06:32 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 4161,
@@ -625,14 +625,14 @@
         "pss_id": 3683,
         "updated_at": "2024-12-05T23:07:03Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:50:43Z",
-        "last_synced_at": "2026-11-08T12:50:43Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "sokobanja - jalovik e4-12 istocna srbija devica babin zub pd soko banja, planina devica, klisura svrljiskog timoka i trasa antickog puta via militaris, knjazevac, crkva iz xiv veka u donjoj kamenici zahtevna • sokobanja je koriscena jos od antickih vremena, za vreme turske imperije i kasnije oslobodjene srpske drzave. sacuvana su kupalista i turski hamami, koji su jos u upotrebi. u varosici i okolini nalaze se hoteli, sanatorijumi, galerija i muzej, a u okolini sumovite planine i kanjon reke moravice sa zanimljivim vodopadom ripaljka. • u sokobanji se svakog leta, preko sezdeset godina odrzava medjunarodni festival harmonike na koji dolaze majstori ovog instrumenta. od sokobanje do grada knjazevca odabran je pravac za put e4 preko planine device i njenih sumovitih grebena kroz stara sela beli potok, rudnik uglja podvis i sela rgoste. • kroz ovaj deo jugoistocne srbije retko se prolazi. nekada su ovde bili stari rudnici uglja u blizoj okolini. put vodi iznad atraktivne klisure reke svrljiski timok do grada knjazevca. u kanjonu reke uocava se trasa antickog puta via militaris i ostaci tvrdjave koja je stitila put. grad knjazevac podignut je na ostacima rimskih naselja timacum mains (veliki timok). knjazevac je sacuvao tradiciju i delom autenticnu arhitekturu. poznat je po vinovoj lozi, vinu i siru. u okolini su brojni kulturni i istorijski spomenici od rimskog doba i srednjeg veka. • u selu donja kamenica nalazi se zanimljiva crkva iz xiv veka, podignuta od bugarskog vlastelina mihajla. sa zapadne strane crkve nalaze se dva ostra tornja sa elementima jednostavne gotike a odmah iza njih je romanicka kupola. crkva je freskopisana. put e4 ide dalje padinama planine tresibaba sa izvanrednim pogledima prema staroj planini do sela jalovik izvor i predgorja stare planine.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:50:43Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

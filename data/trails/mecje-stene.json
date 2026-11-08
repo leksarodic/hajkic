@@ -69,12 +69,12 @@
         "available": false,
         "status": "invalid",
         "source_url": "https://pss.rs/wp-content/uploads/2019/08/6-14-1-Jastrebac-Me_je-stene.gpx",
-        "fetched_at": "2026-11-08T12:07:42Z",
-        "checked_at": "2026-11-08T12:07:42Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 89539,
         "sha256": "ea12cb491b666aa79b8a726c6bece4d93018b282d3ff56dce4fecb7498c408de",
         "etag": null,
-        "last_modified": "Sat, 07 Nov 2026 16:41:33 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": false,
         "points": 0,
@@ -111,14 +111,14 @@
         "pss_id": 9626,
         "updated_at": "2019-08-12T12:53:00Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:07:43Z",
-        "last_synced_at": "2026-11-08T12:07:43Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "mecje stene 6-14-1 kopaonicko-toplicka regija jastrebac planinarski dom \"zarko zaric\" na jastebcu, 519m planinarski dom \"zarko zaric\" na jastebcu, 519m jastrebac psk • vidikovac \"terasa\" na 1020m laka • staza pocinje sa livadice ispred planinarskog doma na jastrepcu i markirana je kompletno u oba smera. staza sa livadice vodi nas uzbrdo do puta koji nas nakon nekih 400 m dovodi do zice lovista (u nastavku zicana ograda nam je na dalje uvek sa desne strane iz ovog pravca). • na 1,7 km od startne pozicije nailazimo na lokaciju \"mircetova cesma\" i nakon 30 m od nje je prvo ostro skretanje u desno (postavljen je putokaz), nastavljamo dalje uz zicu lovista. • na 3,6 km od starta imamo odvajanje levo za zivkov kladenac, a staza nastavlja pravo. • na 3,9 km pratimo putokaz i odvajamo se levo od sumskog puta i nastavljamo vododerinom uzbrdo. staza je pored markacijskih oznaka obelezena i usmeravajucim tablama. ovaj deo staze je pod najvecim usponom do konacne tacke. • na 4,7 km (oko 900 mnv) imamo skretanje koje nas pod konstantnim usponom odvaja desno sa vododerine i uvodi nas dublje u sumu planinarskom stazom (pratiti putokaze i markacije), koja je zbog konfiguracije terena velikim delom u serpentinama. • na 5 km dolazimo do popularne pozicije vidikovac \"terasa\". na ovom mestu je srusena bukva svojim korenom napravila ogradu na steni pa je tako i nastala navedena lokacija na 1020 mnv.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:07:43Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

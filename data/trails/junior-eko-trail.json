@@ -79,12 +79,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2024/05/Junior-eko-trail.gpx",
-        "fetched_at": "2026-11-08T12:05:53Z",
-        "checked_at": "2026-11-08T12:05:53Z",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
         "bytes": 24918,
         "sha256": "a8cd8ea4bdf65f4aa26aeff5a906e50961489ebe416e63ea21259b090fc59bac",
         "etag": null,
-        "last_modified": "Thu, 16 May 2024 20:17:45 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 216,
@@ -168,14 +168,14 @@
         "pss_id": 24568,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:05:54Z",
-        "last_synced_at": "2026-11-08T12:05:54Z"
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
     },
     "search": "junior eko trail 2-16-4 sumadija juhor dvoriste crkve svetog arhangela gavrila u selu sekuric, opstina rekovac - 323 m pocetak sataze juhorski izvori planinski duh pd na stazi postoji vidikovac sa pogledom na planinu crni vrh. laka planinarska staza se nalazi na planini juhor. pocetak staze je dvoriste crkve sv. arhangela gavrila u selu sekuric opstina rekovac. nedaleko od crkve se nalazi izvor crkviste. staza dalje nastavlja makadamskim putem, gde se nakon 3 km, spaja sa stazom juhorski izvori i vodi dalje ka pocetku staze juhorski izvori. primarna namena staze je odrzavanje eko trejl trke za malisane u okviru projekta eko kampa.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:05:54Z"
+        "generated_at": "2026-11-08T13:01:57Z"
     }
 }

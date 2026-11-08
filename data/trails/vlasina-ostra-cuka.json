@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2019/02/4-33-7-Vlasina-Ostra-cuka.gpx",
-        "fetched_at": "2026-11-08T11:59:59Z",
-        "checked_at": "2026-11-08T11:59:59Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 6904,
         "sha256": "2941cc078fb9cbd3248a4ebd3d13c2e4654c88cf5d2c514dfeb9c3cae75fd298",
         "etag": null,
-        "last_modified": "Tue, 12 Feb 2019 14:35:51 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 44,
@@ -142,14 +142,14 @@
         "pss_id": 8300,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:59:59Z",
-        "last_synced_at": "2026-11-08T11:59:59Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "vlasina - ostra cuka 4-33-7 istocna srbija ozren visoravan vlasina (granica izmedju device i ozrena), 939m ostra cuka, 1075m ostra cuka pd • vidikovci: vlasina i ostra cuka • na stazi nema izvora pitke vode • na trasi nema smestaja laka • ozren (istocna strana i vrh ostra cuka na devici) • spaja sledece staze/puteve: spaja stazu \"sokobanja-kalinovica-vlasina-ostra cuka\" i stazu \"kalinovica-capljanac\" (oko ostre cuke)",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:59:59Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

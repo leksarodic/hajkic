@@ -79,12 +79,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2023/03/Staza-18-Jecmiste-vrh-Bandera.gpx",
-        "fetched_at": "2026-11-08T12:02:53Z",
-        "checked_at": "2026-11-08T12:02:53Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 243607,
         "sha256": "daca16cad8946a4f5cf785b6926aa16e5a21194c4e19bf1dc95126bc6230a310",
         "etag": null,
-        "last_modified": "Mon, 27 Mar 2023 14:32:41 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 2237,
@@ -228,14 +228,14 @@
         "pss_id": 19140,
         "updated_at": "2023-03-28T18:08:58Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:02:54Z",
-        "last_synced_at": "2026-11-08T12:02:54Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "staza br. 18: jecmiste – vrh bandera (tornik) 5-12-11 jugozapadna srbija zlatibor parking ski centra \"tornik\" na jecmistu parking ski centra \"tornik\" na jecmistu tornik pk vrh bandera (tornik), vrh ravni tornik, savica spomen-cesma laka parking ski centra „tornik“ na jecmistu – savica cesma (0,5 km) – vrh bandera (3,6 km) – dragovica presedo (5,6 km) – vrh ravni tornik (7,5 km) – izvor veliki zaglavak (9,3 km) – marinkova kosa (13,6 km) - parking ski centra „tornik“ na jecmistu (16,1 km)",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:02:54Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

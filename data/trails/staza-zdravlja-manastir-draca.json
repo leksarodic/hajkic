@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2021/11/2-8-3-Staza-zdravlja-manastir-Draca.gpx",
-        "fetched_at": "2026-11-08T12:02:08Z",
-        "checked_at": "2026-11-08T12:02:08Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 25991,
         "sha256": "966ce1037e8722b93324114252153667b1858f033b0e0a5d8721256f25a99181",
         "etag": null,
-        "last_modified": "Tue, 16 Nov 2021 20:00:13 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 135,
@@ -158,14 +158,14 @@
         "pss_id": 14968,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:02:09Z",
-        "last_synced_at": "2026-11-08T12:02:09Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "staza zdravlja manastir draca 2-8-3 sumadija rudnik most na drackoj reci ispred manastira draca, 285 m most na drackoj reci ispred manastira draca, 285 m zezelj pd • manastir draca • vidikovci: 2 • dva izvora pijace vode • na stazi nema smestaja laka • staza je projektovana u cilju afirmacije planinarenja, pogodna je za planinare, rekreativce, sportiste. pocetna i zavrsna tacka je ispred mosta na drackoj reci, ispred manastira draca. staza je potpuno uredjena, propisno markirana, obelezena i uredjena planinarskim putokazima i markacijama. na stazi se nalaze dva vidikovca gde su postavljene klupe. • u okrivu staze je projektovana i kraca staza duzine 3,5 km koja je potpuno uredjena, propisno markirana, obelezena i uredjena planinarskim putokazima i markacijama. • na stazi se nalaze dva izvora pijace vode koji su obelezeni.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:02:09Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

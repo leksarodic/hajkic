@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2019/07/3-8-2-tri-manastira-druga-etapa-ljubovija-bele-vode-bobija.gpx",
-        "fetched_at": "2026-11-08T12:00:28Z",
-        "checked_at": "2026-11-08T12:00:28Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 47021,
         "sha256": "8561194dea9e53664e4e40714d1a38fa17dab4baba0b57365a77f2095cb23387",
         "etag": null,
-        "last_modified": "Tue, 02 Jul 2019 14:16:00 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 248,
@@ -234,14 +234,14 @@
         "pss_id": 9250,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:00:29Z",
-        "last_synced_at": "2026-11-08T12:00:29Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "tri manastira, druga etapa: ljubovija - bele vode - tornicka bobija 3-8-2 zapadna srbija bobija ljubovija, 177 m dobra voda (na planini bobija), 1169 m avala pd • manastir svete trojice, bele vode • vidikovci: 7 • na trasi ima 8 izvora pitke vode • naselja: tornik, orovicka planina, savkovic • na trasi 1 planinarski objekat, 1 kamp, 4 privatna smestaja zahtevna vrlo atraktivna etapa evropskog pesackog puta e7 kroz zapadnu srbiju. drugi deo od ljubovije do planine bobije. polumaraton planinarskog trcanja.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:00:29Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

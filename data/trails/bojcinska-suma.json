@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2020/07/1-15-1-Bojcinska-suma.gpx",
-        "fetched_at": "2026-11-08T12:01:00Z",
-        "checked_at": "2026-11-08T12:01:00Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 76563,
         "sha256": "9cc40f59cc180e2110865806e9101ca9095e04b945cf9edad78aef5114d9a4ea",
         "etag": null,
-        "last_modified": "Mon, 13 Jul 2020 08:41:45 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 450,
@@ -150,14 +150,14 @@
         "pss_id": 11734,
         "updated_at": "2020-08-24T10:52:15Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:01:01Z",
-        "last_synced_at": "2026-11-08T12:01:01Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "bojcinska suma 1-15-1 vojvodina bojcinska suma stanica gsp na ulazu u bojcinsku sumu, 80 m stanica gsp na izlasku iz bojcinske sume, 80 m zeleznicar pd beograd • letnja pozornica (http://surcin.rs/?page_id=3279&script=lat) • etno kompleks \"bojcinska koleba\" (https://koleba.rs/) • partizanske baze • farma mangulica • ergela konja • vode za pice ima samo na pocetku staze • smestaj u bungalovima etno kompleksa \"bojcinska suma\" • selo progar laka • bojcinska suma se nalazi na teritoriji opstine surcin i zasticena je kao spomenik prirode zbog svojih posebnosti (neke od retkih biljnih i zivotinjskih vrsta, medju kojima i orao belorepan). prostire se na oko 650 hektara, a na njenom samom pocetku se nalazi letnja pozornica na kojoj se odrzava cuvena manifestacija \"bojcinsko kulturno leto\". • staza je trasirana kroz najlepse delove bojcinske sume. u pocetku prolazi pored ograde farme mangulica, zatim pored partizanskih baza i ergele lipicanera, a zavrsava trim stazom i etno kompleksom \"bojcinska koleba\".",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:01:01Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

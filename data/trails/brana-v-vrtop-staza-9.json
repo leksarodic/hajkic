@@ -79,12 +79,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2023/08/Staza-9.gpx",
-        "fetched_at": "2026-11-08T12:03:43Z",
-        "checked_at": "2026-11-08T12:03:43Z",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
         "bytes": 84816,
         "sha256": "716e488a86ae13613896cd15b9529aed25bc708991ae56e8177cdfccf7f1c073",
         "etag": null,
-        "last_modified": "Sun, 26 Nov 2023 19:05:56 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 775,
@@ -192,14 +192,14 @@
         "pss_id": 20038,
         "updated_at": "2023-11-26T19:12:35Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:03:43Z",
-        "last_synced_at": "2026-11-08T12:03:43Z"
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
     },
     "search": "brana - v. vrtop (staza 9) 7-15-4 jugoistocna srbija gramada brana vlasinskog jezera vrh veliki vrtop 1721 m cemernik pd vrh veliki vrtop laka pocetak staze je 700 metara ispod brane vlasinskog jezera pored asfaltnog puta ,,surdulica - crna trava\". prvi deo staze u duzini od 150 metara se spusta makadamskim putem do raskrsnice na kojoj nasa staza odvaja takodje makadamskim putem levo prema zaseoku milenkovici. staza do njega je sa razlicitim nagibom. blage i strme uspone smenjuju krace zaravni. ova deonica, kao i ona nakon kuca milenkovica vodi kroz sumsku vegetaciju gusto obraslu i zbunjem. staza krivuda navise i nakon 5,7 km od svog pocetka, konacno izlazi iz sume na travnate strane i nastavlja ispod vrha mali vrtop sa njegove desne strane do raskrsnice sumskih puteva na prevoju prema vrhu veliki vrtop. dalje sledi zavrsni uspon kroz pasnjacke terene do ovog vrha. vrh veliki vrtop predstavlja veoma siroku, visokoplaninsku i travnatu zaravan. smer kretanja: - brana vlasinskog jezera - milenkovici (2,3 km) - ispod m. vrtopa - raskrsnica (6,8 km) - vrh veliki vrtop (8,8 km)",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:03:43Z"
+        "generated_at": "2026-11-08T13:01:57Z"
     }
 }

@@ -69,7 +69,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T12:06:24Z",
+        "checked_at": "2026-11-08T13:01:57Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -109,14 +109,14 @@
         "pss_id": 28527,
         "updated_at": "2026-08-31T08:25:11Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:06:24Z",
-        "last_synced_at": "2026-11-08T12:06:24Z"
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
     },
     "search": "topli do – veliki streser (staza br. 2) 7-27-2 jugoistocna srbija vardenik laka staza u fazi realizacije projekta",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:06:24Z"
+        "generated_at": "2026-11-08T13:01:57Z"
     }
 }

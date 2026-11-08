@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/10/4-49-2_Jezevac-Lalin_kladenac.gpx",
-        "fetched_at": "2026-11-08T11:59:07Z",
-        "checked_at": "2026-11-08T11:59:07Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 154951,
         "sha256": "300ff58b6422de3faaaa015a499cbf4cd9ab1b169e7382b0b3f85e1b4dca7b78",
         "etag": null,
-        "last_modified": "Fri, 20 Oct 2017 15:57:40 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 986,
@@ -190,14 +190,14 @@
         "pss_id": 5088,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:59:08Z",
-        "last_synced_at": "2026-11-08T11:59:08Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "jezevac, manastir gornjak-lalin kladenac 4-49-2 istocna srbija jezevac manastir gornjak (177m) asfaltni put u blizini setonjskog mosta na reci mlavi (163m) gornjak pd • manastir gornjak • izletiste cvarinac • vestacki tuneli iznad manastira gornjak • 2 vidikovca laka na startu i cilju ima mesta za parkiranje vozila. iz oba smera se jednim delom ide nasutim ili zemljenim putem, dok ostatak cine planinarske staze sa vecinski zemljanom podlogom. staza nije strma i prikladna je za pocetnike i osobe sa slabijom kondicijom.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:59:08Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

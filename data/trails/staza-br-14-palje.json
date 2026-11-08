@@ -70,7 +70,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T11:55:23Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -110,14 +110,14 @@
         "pss_id": 3771,
         "updated_at": "2021-02-11T11:08:53Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:55:23Z",
-        "last_synced_at": "2026-11-08T11:55:23Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "staza br. 14. \"palje\" 7-9-14 jugoistocna srbija kukavica selo rudare, 250 m selo cukljenik, 376 m kukavica psk • crkva sv. petka trnovska • konak u porti crkve iz 17. veka u selu rudare • arheolosko nalaziste \"progon\" u selu mala grabovnica • jezera kod male grabovnice • spomenik vlajku stoiljkovicu zahtevna selo rudare - crkva sv. petka trnovka - visoki breg kota 351 - zeljkovac - krusar - selo mala grabovica - selo zaguzane - tulovska reka - kosanovac kota 378 - selo tulovo - turska groblja - selo cukljenik",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:55:23Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2021/03/4-33-8-Sokobanja-Ripaljka-Jermencic.gpx",
-        "fetched_at": "2026-11-08T12:01:58Z",
-        "checked_at": "2026-11-08T12:01:58Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 98058,
         "sha256": "42aeead824355a488a96f30a50ec7253fc15dac4cca7e6df49ed227bdf7dd696",
         "etag": null,
-        "last_modified": "Wed, 31 Mar 2021 14:18:54 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 572,
@@ -182,14 +182,14 @@
         "pss_id": 13405,
         "updated_at": "2021-03-31T14:20:12Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:01:59Z",
-        "last_synced_at": "2026-11-08T12:01:59Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "sokobanja - ripaljka - jermencic 4-33-8 istocna srbija ozren grudonjske vodenice, 336 m grudonjske vodenice, 336 m ozren pk • grudonjske vodenice, vodopad ripaljka, manastir jermencic • na trasi ima izvota pitke vode • naselje: sokobanja • smestaj: kamp, odmaraliste, privatni smestaj laka staza polazi od grudonjskih vodenica u gradisnici (deo sokobanje). ide uzvodno pored reke gradisnice, izlazi na kolski put pored belih voda i dolazi do slapa ripaljka. zatim, ide kolskim putem, prema manastiru jermencic. povratak ide pored cucunjskog potoka kroz bukovu sumu. zatim se odvaja i po pribliznoj izohipsi oko brda koviljaca i spusta se do grudonjskih vodenica.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:01:59Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

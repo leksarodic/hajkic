@@ -1,0 +1,360 @@
+{
+    "schema_version": 1,
+    "slug": "juhorska-transverzala",
+    "name": "Juhorska transverzala",
+    "code": "T-2-36",
+    "category": {
+        "key": "planinarske-transverzale",
+        "label": "Planinarske transverzale"
+    },
+    "pss": {
+        "post_id": 11559,
+        "category_id": 30,
+        "region_ids": [
+            2
+        ],
+        "mountain_ids": [
+            191
+        ]
+    },
+    "region": "Šumadija",
+    "mountain": "Juhor",
+    "difficulty": {
+        "key": "nepoznato",
+        "label": "Nije navedeno",
+        "source": null
+    },
+    "distance": {
+        "official_km": 38.1,
+        "calculated_km": 38.32
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": 1681.0,
+        "official_loss_m": 1698.0,
+        "calculated_gain_m": 1442.7,
+        "calculated_loss_m": 1456.7,
+        "min_m": 184.0,
+        "max_m": 770.4
+    },
+    "start": null,
+    "end": null,
+    "description": null,
+    "landmarks": "• Manastiri Ivković i Sveti Nikola\n\n • Lokalitet Jerinin grad\n\n • Keltsko nalazište\n\n • Naselja: Ivkovački Prnjavor, Dragoševac, Svojnovo, Potočac i Beočić\n\n • Na trasi ima izvora vode: manastir Ivković, Bakarni kladenac, Nikolin kladenac, Dobra voda, Zmajevica i manastir Sveti Nikola\n\n • Vidikovci: Ljubomirov lipak, Mali Vetren, Živin pogled, Bukovica i Jelenjak\n\n • Van trase ima planinarski objekat\n\n • Van trase ima privatnog smeštaja\n\n • Van trase ima druge vrste smeštaja\n\n • Planinarski dom na planini Crni Vrh, vlasništvo PSK \"Juhor\" Jagodina\n\n • Hoteli u Jagodini: \"Hil\", \"Ving\", \"Alfa\", \"Lav\" i razni privatni apartmani.\n\n • Hotel \"Petrus\" u Paraćinu",
+    "maintenance": null,
+    "marking": "propisana planinarska",
+    "accommodation": null,
+    "notes": "Start: Manastir Ivković u selu Ivkovački Prnjavor, 218 m\nCilj: selo Beočić (prodavnica pored škole), 281 m",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": null,
+    "legend": [
+        "Transverzalu je trasirao PK \"Runolist\" 2009. godine",
+        "Stazu će markirati i održavati PK \"Runolist\", Jagodina",
+        "Transverzala je zahtevna",
+        "Svake godine u julu održava se \"Memorijalni pohod na Juhorsku transverzalu - Ivan Nikolić\", u znak sećanja na osnivača Kluba Ivana Nikolića."
+    ],
+    "photos_count": 14,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2020/06/T-2-36-Juhorska-transverzala.gpx",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
+        "bytes": 172790,
+        "sha256": "d09c06bf719bd1111246fcdee84cabb5e1cf75bf4dacba96945ca14278bf7815",
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 1008,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 22,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2020/06/T-2-36-Juhorska-transverzala.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/juhorska-transverzala.geojson",
+        "bbox": [
+            21.196049032732844,
+            43.78449898213148,
+            21.284316005185246,
+            43.86955602094531
+        ],
+        "center": [
+            21.240183,
+            43.827028
+        ],
+        "start_point": [
+            21.216134000569582,
+            43.863811986520886
+        ],
+        "end_point": [
+            21.196049032732844,
+            43.843116983771324
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.21613,
+                    43.86381
+                ],
+                [
+                    21.22283,
+                    43.86956
+                ],
+                [
+                    21.22832,
+                    43.86834
+                ],
+                [
+                    21.23061,
+                    43.86312
+                ],
+                [
+                    21.23526,
+                    43.86112
+                ],
+                [
+                    21.24069,
+                    43.86621
+                ],
+                [
+                    21.24532,
+                    43.86295
+                ],
+                [
+                    21.24944,
+                    43.86562
+                ],
+                [
+                    21.25565,
+                    43.86586
+                ],
+                [
+                    21.25294,
+                    43.86485
+                ],
+                [
+                    21.25871,
+                    43.86211
+                ],
+                [
+                    21.26445,
+                    43.8654
+                ],
+                [
+                    21.26541,
+                    43.86099
+                ],
+                [
+                    21.27075,
+                    43.8582
+                ],
+                [
+                    21.26953,
+                    43.86039
+                ],
+                [
+                    21.26981,
+                    43.85536
+                ],
+                [
+                    21.26056,
+                    43.84103
+                ],
+                [
+                    21.2597,
+                    43.83004
+                ],
+                [
+                    21.25639,
+                    43.82864
+                ],
+                [
+                    21.25966,
+                    43.8264
+                ],
+                [
+                    21.25973,
+                    43.82044
+                ],
+                [
+                    21.26622,
+                    43.81582
+                ],
+                [
+                    21.26433,
+                    43.81199
+                ],
+                [
+                    21.25856,
+                    43.80874
+                ],
+                [
+                    21.25451,
+                    43.80691
+                ],
+                [
+                    21.2515,
+                    43.8084
+                ],
+                [
+                    21.2533,
+                    43.79921
+                ],
+                [
+                    21.25756,
+                    43.79684
+                ],
+                [
+                    21.27014,
+                    43.79587
+                ],
+                [
+                    21.27796,
+                    43.78868
+                ],
+                [
+                    21.27862,
+                    43.79134
+                ],
+                [
+                    21.28408,
+                    43.78953
+                ],
+                [
+                    21.27836,
+                    43.79133
+                ],
+                [
+                    21.27792,
+                    43.78865
+                ],
+                [
+                    21.27029,
+                    43.79575
+                ],
+                [
+                    21.25761,
+                    43.79689
+                ],
+                [
+                    21.2533,
+                    43.79925
+                ],
+                [
+                    21.25025,
+                    43.79673
+                ],
+                [
+                    21.25167,
+                    43.79459
+                ],
+                [
+                    21.2482,
+                    43.78903
+                ],
+                [
+                    21.2429,
+                    43.78907
+                ],
+                [
+                    21.24312,
+                    43.78735
+                ],
+                [
+                    21.23423,
+                    43.7845
+                ],
+                [
+                    21.22865,
+                    43.78523
+                ],
+                [
+                    21.23312,
+                    43.79078
+                ],
+                [
+                    21.2314,
+                    43.79515
+                ],
+                [
+                    21.21371,
+                    43.80343
+                ],
+                [
+                    21.21187,
+                    43.80594
+                ],
+                [
+                    21.22011,
+                    43.80911
+                ],
+                [
+                    21.20625,
+                    43.81771
+                ],
+                [
+                    21.20886,
+                    43.82346
+                ],
+                [
+                    21.20546,
+                    43.8348
+                ],
+                [
+                    21.19605,
+                    43.84312
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_difficulty",
+            "missing_description"
+        ]
+    },
+    "additional": {
+        "Planine/predeli": "Juhor",
+        "Status": "aktivna",
+        "Društvo": "Runolist PK",
+        "Vreme obilaska (dana)": "14 h (2 dana)",
+        "Godina otvaranja": "12. juli 2009.",
+        "Kontakt": "https://pss.rs/terenipp/juhorska-transverzala/",
+        "Vrsta": "linijska",
+        "Broj kontrolnih tačaka": "9",
+        "Opis puta": "• Deonica 1 (prvi dan)\n\n • Transverzala počinje od manastira Ivković KT1 (218 m), potom se asfaltnim putem ide do centra sela Ivkovački Prnjavor gde se prelazi preko pešačkog mosta na Županjevačkoj reci i penje na greben Prodanovica (398 m). Od Prodanovice se silazi do reke Crna Grača, a zatim penje do Bakarnog kladenca KT2 (460 m). Deonica KT1-KT2 se prelazi za 2 sata. Od Bakarnog kladenca se ide prema vidikovcu na lokaciji Ljubomirov lipak (520 m), a zatim izlazi na grebenski put, odakle se spušta do Nikolinog kladenca KT3 (550 m). Deonica KT2-KT3 se prelazi za 1 sat. Od Nikolinog kladenca se vraća na grebenski put i ide do spomen parka Dobra voda KT4 (636 m). Deonica KT3-KT4 se prelazi za manje od sat vremena. Od Dobre vode se grebenskim makadamskim putem ide dalje ka Velikom Vetrenu KT5. Deonica KT4-KT5 se prelazi za sat i po vremena. Veliki Vetren je najviši vrh planine Juhor (775 m). Sa njega se pruža pogled na pomoravsku ravnicu. Sa Velikog Vetrena se silazi na prevoj i zatim penje na Mali Vetren (735 m). Na Malom Vetrenu se nalazi vidikovac sa koga se pruža pogled na meandre Velike Morave i planine Kučaj, Rtanj, Ozren i dr. Sa Malog Vetrena se spušta zemljanim šumskim putem do manastira Sveti Nikola KT6 (265 m), koji se nalazi 2 km od sela Svojnovo. Deonica KT5-KT6 se prelazi za dva i po sata. \n\n • Ukupna dužina deonice 1 je 21,5 km, ukupan uspon 1038 m, ukupan spust 988 m, ukupno vreme prelaska 8 sati.\n\n • Deonica 2 (drugi dan)\n\n • Ova deonica kreće od manastira Sveti Nikola KT6 (265 m), zemljanim šumskim putem se penje do vidikovca Živin pogled (540 m), odakle se pruža pogled na Beljanicu, Malinik, Rtanj, Jastrebac i dr. Staza dalje vodi do vrha Zmajevica KT 7 (686 m) i do šumske kuće ispod ovog vrha. Deonica KT6-KT7 se prelazi za sati i po vremena. Zatim se ide ka vrhu Bukovica KT 8 (687 m). Sa vrha Bukovica se vide Gledićke planine. Deonica KT7-KT8 se prelazi za sat vremena. Od Bukovice staza ide prema Jelenjaku KT9 (528 m). Deonica KT8-KT9 se prelazi za nešto manje od 2 sata. Zatim se šumskim putem spušta do reke Velika Grača i makadamskog puta koji vodi do sela Beočić. Završetak staze je u selu Beočić, kod prodavnice pored škole. Deonica KT9-Beočić se prelazi za sati i po. \n\n • Ukupna dužina deonice 2 je 16,5 km, ukupan uspon 643 m, ukupan spust 710 m, ukupno vreme prelaska 6 sati.",
+        "Dnevnik": "• Postoji Dnevnik tresverzale\n\n • Postoji Pravilnik transverzale\n\n • Postoji Diploma transverzale\n\n • Postoji Knjiga obilaska transverzale\n\n • Pečati KT1-KT4 su u manastiru Ivković\n\n • Pečat KT5 je na samom vrhu Veliki Vetren\n\n • Pečati KT6 i KT7 su u manastiru Sv. Nikola\n\n • Pečati KT8 i KT9 su u prodavnici pored škole u srlu Beočić",
+        "Priznanja": "Diploma"
+    },
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/juhorska-transverzala/",
+        "canonical_url": "https://pss.rs/terenipp/juhorska-transverzala/",
+        "pss_id": 11559,
+        "updated_at": "2020-06-23T08:57:27Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
+    },
+    "search": "juhorska transverzala t-2-36 sumadija juhor • manastiri ivkovic i sveti nikola • lokalitet jerinin grad • keltsko nalaziste • naselja: ivkovacki prnjavor, dragosevac, svojnovo, potocac i beocic • na trasi ima izvora vode: manastir ivkovic, bakarni kladenac, nikolin kladenac, dobra voda, zmajevica i manastir sveti nikola • vidikovci: ljubomirov lipak, mali vetren, zivin pogled, bukovica i jelenjak • van trase ima planinarski objekat • van trase ima privatnog smestaja • van trase ima druge vrste smestaja • planinarski dom na planini crni vrh, vlasnistvo psk \"juhor\" jagodina • hoteli u jagodini: \"hil\", \"ving\", \"alfa\", \"lav\" i razni privatni apartmani. • hotel \"petrus\" u paracinu nije navedeno",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T13:01:56Z"
+    }
+}

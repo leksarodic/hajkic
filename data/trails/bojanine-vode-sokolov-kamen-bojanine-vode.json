@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2020/11/7-3-14-Bojanine-vode-Sokolov-kamen.gpx",
-        "fetched_at": "2026-11-08T12:01:30Z",
-        "checked_at": "2026-11-08T12:01:30Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 95650,
         "sha256": "18de2683d935e2f22f52a9028a9067b98c9fe14e3892663d70858ce890ac38e3",
         "etag": null,
-        "last_modified": "Wed, 18 Nov 2020 14:38:54 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 588,
@@ -178,14 +178,14 @@
         "pss_id": 12442,
         "updated_at": "2020-11-18T14:40:23Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:01:31Z",
-        "last_synced_at": "2026-11-08T12:01:31Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "bojanine vode - sokolov kamen - bojanine vode 7-3-14 jugoistocna srbija suva planina bojanine vode, 860 m bojanine vode, 860 m mosor psk • vidikovci: sokolov kamen • izvor pitke vode: bojanine vode • na trasi ima privatni smestaj. zahtevna staza krece od bojaninih voda (860 m) gde postoji izvor pitke vode. asfaltnim putem se spusta do skretanja za mosor, sa leve strane puta. staza dalje vodi kroz bukovu sumu do raskrsnice gde postoji trafo stanica i ide se levo kroz sumu. nakon pola staza hora izlazi se na greben suve planine, pa sve do samog vrha sokolov kamen (1523 m). nakon vrha staza nastavlja da se spusta ka devojackom grobu (1311 m). levo se skrece na kraljev put, pa sve do bojaninih voda.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:01:31Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

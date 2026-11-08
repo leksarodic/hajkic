@@ -80,7 +80,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T12:03:33Z",
+        "checked_at": "2026-11-08T13:01:57Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -120,14 +120,14 @@
         "pss_id": 19735,
         "updated_at": "2024-12-14T16:19:37Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:03:33Z",
-        "last_synced_at": "2026-11-08T12:03:33Z"
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
     },
     "search": "stazama kolubarske bitke 2-18-1 sumadija lajkovac igraliste fk“d. tucovic“ celije - 126 m.n.v. igraliste fk“d. tucovic“ celije - 126 m.n.v. cira psd vidikovci: livada iznad manastira ka spomeniku dimitriju tucovic i silazak ka izvoru vreline naselja i zaseoci sa nazivima: cela staza je na teritoriji sela celije (kolubarske) opstina lajkovac znacajni lokaliteti: arheolosko nalaziste“anine“, kota covka 272 iz prvog svetskog rata-kolubarska bitka 1914 godine, manastir sv.georgija i spomen kosturnica, spomenik dimitriju tucovicu laka polazak od igralista u selu celije ka arheoloskom nalazistu „anine“. staza je laka i sa par izvora vode. od „anina“ staza vodi ka covci ( do sume sve ravno, siroka staza). ulazak u sumi i uspon ka covci. od spomenika na covci kojeg su planinari cire podigli 2014. na stogodisnjicu „kolubarske bitke“ ide se kroz sumu i pazljivim razgledanjem mogu se videti obrisi rovova. dolazak do dela gde se skrece ka manastiru sv.georgija i spomen kosturnici (moze i pravo, ovaj put se koristi u slucaju kise jer se ide makadamom). od manastira livadom (vidikovac) se penje ka spomeniku dimitriju tucovic a zatim ka izvoru vreline. prolazi se podhodnik ispod ibarske magistrele i za nekih 10-15 minuta se dolazi do kraja staze-igraliste. staza je kruzna.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:03:33Z"
+        "generated_at": "2026-11-08T13:01:57Z"
     }
 }

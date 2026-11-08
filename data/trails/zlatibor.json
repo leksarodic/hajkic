@@ -1,0 +1,340 @@
+{
+    "schema_version": 1,
+    "slug": "zlatibor",
+    "name": "Zlatibor",
+    "code": "E7-11-4",
+    "category": {
+        "key": "evropski-pesacki-putevi-u-srbiji",
+        "label": "Evropski pešački putevi u Srbiji"
+    },
+    "pss": {
+        "post_id": 23565,
+        "category_id": 29,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            122
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Zlatibor",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "lak"
+    },
+    "distance": {
+        "official_km": null,
+        "calculated_km": 35.78
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": null,
+        "official_loss_m": null,
+        "calculated_gain_m": 786.5,
+        "calculated_loss_m": 777.5,
+        "min_m": 826.9,
+        "max_m": 1270.3
+    },
+    "start": null,
+    "end": null,
+    "description": null,
+    "landmarks": null,
+    "maintenance": null,
+    "marking": null,
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": null,
+    "club": null,
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2024/02/E7-11-4.gpx",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
+        "bytes": 107264,
+        "sha256": "1d60c0e9621d2bfd2078beb7e6522776dc3cc5df5912365939953d2dd70a1ed2",
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 1437,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2024/02/E7-11-4.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/zlatibor.geojson",
+        "bbox": [
+            19.54455,
+            43.681517712,
+            19.801105,
+            43.769392287
+        ],
+        "center": [
+            19.672828,
+            43.725455
+        ],
+        "start_point": [
+            19.54455,
+            43.759652
+        ],
+        "end_point": [
+            19.801105,
+            43.702086
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    19.54455,
+                    43.75965
+                ],
+                [
+                    19.54709,
+                    43.76527
+                ],
+                [
+                    19.56048,
+                    43.76423
+                ],
+                [
+                    19.56582,
+                    43.76601
+                ],
+                [
+                    19.56609,
+                    43.76417
+                ],
+                [
+                    19.57217,
+                    43.76341
+                ],
+                [
+                    19.57449,
+                    43.76499
+                ],
+                [
+                    19.57957,
+                    43.76354
+                ],
+                [
+                    19.58534,
+                    43.75508
+                ],
+                [
+                    19.58759,
+                    43.75885
+                ],
+                [
+                    19.58978,
+                    43.7587
+                ],
+                [
+                    19.59207,
+                    43.76836
+                ],
+                [
+                    19.60623,
+                    43.76937
+                ],
+                [
+                    19.61245,
+                    43.76535
+                ],
+                [
+                    19.61618,
+                    43.76603
+                ],
+                [
+                    19.61967,
+                    43.75884
+                ],
+                [
+                    19.61585,
+                    43.75156
+                ],
+                [
+                    19.62346,
+                    43.74829
+                ],
+                [
+                    19.62487,
+                    43.74576
+                ],
+                [
+                    19.6336,
+                    43.74422
+                ],
+                [
+                    19.635,
+                    43.73905
+                ],
+                [
+                    19.63973,
+                    43.73546
+                ],
+                [
+                    19.6394,
+                    43.73198
+                ],
+                [
+                    19.64829,
+                    43.73653
+                ],
+                [
+                    19.65083,
+                    43.73459
+                ],
+                [
+                    19.65081,
+                    43.72566
+                ],
+                [
+                    19.66299,
+                    43.72601
+                ],
+                [
+                    19.67087,
+                    43.72418
+                ],
+                [
+                    19.68904,
+                    43.72913
+                ],
+                [
+                    19.69219,
+                    43.72554
+                ],
+                [
+                    19.70133,
+                    43.72296
+                ],
+                [
+                    19.70204,
+                    43.71872
+                ],
+                [
+                    19.71199,
+                    43.71137
+                ],
+                [
+                    19.71607,
+                    43.71132
+                ],
+                [
+                    19.72219,
+                    43.70724
+                ],
+                [
+                    19.74136,
+                    43.70435
+                ],
+                [
+                    19.74105,
+                    43.69972
+                ],
+                [
+                    19.75506,
+                    43.69085
+                ],
+                [
+                    19.76475,
+                    43.68181
+                ],
+                [
+                    19.77557,
+                    43.68626
+                ],
+                [
+                    19.78064,
+                    43.68633
+                ],
+                [
+                    19.77825,
+                    43.68731
+                ],
+                [
+                    19.78239,
+                    43.68999
+                ],
+                [
+                    19.78331,
+                    43.69437
+                ],
+                [
+                    19.78716,
+                    43.6969
+                ],
+                [
+                    19.7915,
+                    43.69416
+                ],
+                [
+                    19.79716,
+                    43.69897
+                ],
+                [
+                    19.79421,
+                    43.69907
+                ],
+                [
+                    19.79611,
+                    43.70175
+                ],
+                [
+                    19.80111,
+                    43.70209
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/zlatibor/",
+        "canonical_url": "https://pss.rs/terenipp/zlatibor/",
+        "pss_id": 23565,
+        "updated_at": "2024-12-07T22:11:27Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
+    },
+    "search": "zlatibor e7-11-4 jugozapadna srbija zlatibor laka",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T13:01:57Z"
+    }
+}

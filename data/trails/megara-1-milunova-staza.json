@@ -79,12 +79,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2024/06/Megara.gpx",
-        "fetched_at": "2026-11-08T12:05:57Z",
-        "checked_at": "2026-11-08T12:05:57Z",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
         "bytes": 173862,
         "sha256": "c39d307c6ca5b1f97195d732381e302ad06b060b1d2124d7e18f991a7cd2d8b0",
         "etag": null,
-        "last_modified": "Tue, 18 Jun 2024 14:26:43 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 1686,
@@ -200,14 +200,14 @@
         "pss_id": 24768,
         "updated_at": "2024-06-18T14:39:36Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:05:58Z",
-        "last_synced_at": "2026-11-08T12:05:58Z"
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
     },
     "search": "megara 1 – milunova staza 5-9-1 jugozapadna srbija ponikve neolitsko naselje „stapark“ (rekonstrukcija) - 497 m neolitsko naselje „stapark“ (rekonstrukcija) - 497 m zlatibor pd na samoj stazi - neolitsko naselje „stapark“, staparska banja, „rimsko groblje“, arheoloski lokalitet mala gradina, pecina megara, a selu se jos mogu posetiti savin kamen (zaseok dolovi), vrelo postjenica (divljakovica vrelo) sa periodicnim vodopadima, crkva arhistratiga gavrila u staparima iz 19. veka, manastir rujan u zaseoku vrutci i vestacko jezero (akumulacija) vrutci. vidikovci: lep pogled na zlatibor i okolinu sa najvise tacke iznad pecine megara i sa mesta arheoloskog lokaliteta gradina naselja i zaseoci sa nazivima: staza pripada selu stapari i prolazi kroz zaseoke popadici i gredeljevici. laka staza pocinje od neolitskog naselja stapark“ , pa uzbrdo pored nove zeleznicke stanice staparisve asfaltom do ostre krivine gde silazi na tvrdi put i dolazi do lokaliteta „ rimsko groblje“ i cesme (nije u funkciji), do naredne raskrisnice, gde se put racva. jedan krak uzbrdo ide ka pecini megara, a drugi preko zaseoka popadici ka arheoloskom lokalitetu gradina na maloj gradini, a medjusobno povezani ovom stazom (kruzno). kada se krene pravcem, ka pecini megara, prvo se ide asfaltnim putem nekih kilometar duzine, pa se skrece levo sumskim putem i preko livade do najvise tacke staze zaselak gredeljevici, odakle nastavlja nizbrdo pored seoskog groblja i spusta se ka pecini megara. staza prolazi neposredno pored pecine megara, prelazi megarski potok, nastavalja dalje lokalnim sumskim putem preko rogica do arholoskog lokaliteta ma maloj gradini 666m. ima odvajanje ka njemu. nastavlja dalje, blago nizbrdo i ponovo prelazi megarski potok, pa preko zaseoka popadici, rimskog groblja do raskrsnice gde se tvrdi put spusta do zgrade stare zeleznicke stanice. markirana staza nastavlja levo trasom stare zeleznicke pruge, koja vodi do neolitskog naselja.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:05:58Z"
+        "generated_at": "2026-11-08T13:01:57Z"
     }
 }

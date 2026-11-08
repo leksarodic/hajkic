@@ -70,7 +70,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T12:50:49Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -111,14 +111,14 @@
         "pss_id": 3692,
         "updated_at": "2017-06-26T21:22:19Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:50:49Z",
-        "last_synced_at": "2026-11-08T12:50:49Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "stolovi (manastir zica-lipar-mataruska banja) 6-3-2 kopaonicko-toplicka regija stolovi manastir zica (226) mataruska banja (218) zeleznicar psk kraljevo manastir zica, mataruska banja, lojnik (okamenjena suma) laka",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:50:49Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

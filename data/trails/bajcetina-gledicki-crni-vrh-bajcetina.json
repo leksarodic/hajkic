@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2021/02/2-14-21-Bajcetina-Crni-vrh-Bajcetina.gpx",
-        "fetched_at": "2026-11-08T12:01:49Z",
-        "checked_at": "2026-11-08T12:01:49Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 119025,
         "sha256": "42ab024547a9883c3e678ae4d2964d0b7cca5e9b750e7a0eceb0ed410ecf9fef",
         "etag": null,
-        "last_modified": "Tue, 09 Feb 2021 14:28:52 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 950,
@@ -186,14 +186,14 @@
         "pss_id": 13001,
         "updated_at": "2021-02-09T14:41:03Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:01:50Z",
-        "last_synced_at": "2026-11-08T12:01:50Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "bajcetina - gledicki crni vrh - bajcetina 2-14-21 sumadija gledicke planine raskrsnica u selu bajcetina, 676 m raskrsnica u selu bajcetina, 676 m zezelj pd • manastir svetog dimitrija u bajcetini • dva vidikovca, jedan pri penjanju ka gledickom crnom vrhu, drugi pri silasku sa crnog vrha • na trasi ima tri izvora pitke vode u delu staze koji vodi kroz bajcetinu pri silasku sa gledickog crnog vrha • naselja: lazarevici i karajovici • na trasi nema smestaja laka staza polazi od raskrsnice u selu bajcetina, ujedno je to i krajnja tacka staze. staza je deo gledicke transverzale. veoma je laka za prolazak i snalazenje. odlikuju je dva fantasticna vidikovca koja su obelezena. na stazi postoje i tri izvora pitke vode. cela staza se prelazi za manje od 3,5 sata laganog hoda. na gledickom crnom vrhu nalaze se dva privatna objekta koja su uvek otvorena i gde svako moze da svrati, da napravi pauzu, da se odmori. klupe i stolovi su postavljeni i u dvoristu. u istim postoji tehnicka voda.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:01:50Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

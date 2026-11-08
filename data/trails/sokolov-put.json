@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2020/11/7-3-15-Suva-trail-Niska-Banja-Trem.gpx",
-        "fetched_at": "2026-11-08T12:01:25Z",
-        "checked_at": "2026-11-08T12:01:25Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 861415,
         "sha256": "14d4c1dbc030c03d6f862dc4a4ca320b52af9f159b09644e02c31a0d024220a4",
         "etag": null,
-        "last_modified": "Wed, 18 Nov 2020 14:54:15 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 5307,
@@ -302,14 +302,14 @@
         "pss_id": 12405,
         "updated_at": "2020-11-18T15:01:42Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:01:25Z",
-        "last_synced_at": "2026-11-08T12:01:25Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "suva trail - niska banja - trem - niska banja 7-3-15 jugoistocna srbija suva planina niska banja - kod fontane, 258 m niska banja, 258 m mosor psk • niska banja • vidikovci: koritnik, crni kamen, sokolov kamen, trem • na trasi ima izvora pitke vode: niska banja, koritnik, bojanine vode • naselja: koritnik • na trasi ima privatnog smestaja vrlo teska • polazak na stazu je iz centra niske banje (258 m) stazom \"zdravlja\" do sela koritnik. u istoimenom selu postoji cesma gde se moze snabdeti vodom. staza vodi dalje kroz bukovu sumu pored vidikovca crni kamen. nastavlja prema rajcu, do ispred mosora. vrh mosor se zaobilazi sa leve strane u penjanju. zatim staza nastavlja preko grebena suve planine, preko sokolovog kamena (1523 m), devojackog groba, pa sve do najviseg vrha trem (1810 m). od vrha staza ide nazad do devojackog groba, gde se skrece na kraljev put do bojaninih voda. na bojaninim vodama ima izvor pijace vode. odatle deo staze ide asfaltnim putem do skretanja za mosor. staza vodi sada desno od vrha mosor, i dalje do niske banje, istim putem kao u penjanju. • staza je deonica niske transverzale i evropskog pesackog puta e-7",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:01:25Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

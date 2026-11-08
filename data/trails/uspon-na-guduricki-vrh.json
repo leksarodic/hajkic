@@ -69,8 +69,8 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/05/1-4-1.gpx",
-        "fetched_at": "2026-11-08T12:50:26Z",
-        "checked_at": "2026-11-08T12:50:26Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 20704,
         "sha256": "a62ffdef0f6ae7a6345325c22dc3be1edb3d321f1d5e01caad6eeb9346ea9978",
         "etag": null,
@@ -228,14 +228,14 @@
         "pss_id": 3650,
         "updated_at": "2023-03-11T10:21:59Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:50:27Z",
-        "last_synced_at": "2026-11-08T12:50:27Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "uspon na guduricki vrh 1-4-1 vojvodina vrsacke planine planinarski dom \"siroko bilo\" 280mnv planinarski dom \"siroko bilo\" 280mnv vrsacka kula psd guduricki vrh zahtevna staza je deonica vrsacke transverzale ( t-1-3 )",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:50:27Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

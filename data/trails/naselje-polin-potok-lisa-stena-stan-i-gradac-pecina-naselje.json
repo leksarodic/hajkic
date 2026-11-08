@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2020/08/5-40-1-Lisa-Stena.gpx",
-        "fetched_at": "2026-11-08T12:01:05Z",
-        "checked_at": "2026-11-08T12:01:05Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 220496,
         "sha256": "dd7810e9c7f14f94bfc07d8a9169d5569b6addb23a16a8ad2eba5d48d3211b46",
         "etag": null,
-        "last_modified": "Mon, 24 Aug 2020 14:40:54 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 1342,
@@ -206,14 +206,14 @@
         "pss_id": 11944,
         "updated_at": "2020-11-26T15:39:49Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:01:06Z",
-        "last_synced_at": "2026-11-08T12:01:06Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "naselje-polin potok-lisa stena-stan i gradac pecina-naselje 5-40-1 jugozapadna srbija pobijenik novi deo grada priboj (naselje), 380 m novi deo grada priboj (naselje), 380 m ljeskovac zkp • gradac i stan pecina • vidikovac: lisa stena • naselja: banjski camac, dobrilovici, pribojska golesa • na trasi ima 2 izvora pitke vode • u lovackoj kuci na lisoj steni postoji smestajni kapacitet od 20 lezajeva. pored ovog smestaja koji je na trasi, postoji i smestaj na pocetku staze u hotelu lim, kao i privatni smestaj u novom delu grada naselje. u pribojskoj banji koja je van trase (udaljena 5 km) postoji privatni smestajni kapacitet. zahtevna staza krece iz centra grada ispred hotela lim. odatle se prati planinarska markacija u pravcu jugoistok asfaltnim putem ka naselju banjski camac. od naselja banjski camac blago okrenuti ka zapadu ide se do usca polinog potoka u lim, a zatim staza ide u pravcu juga ka naselju dobrilovici i dalje ka vidikovcu lisa stena i lovackoj kuci (kota 1193 m). kod lovacke kuce se nalazi izvor pijace vode. od lovacke kuce u pravcu severa staza ide ka pecini gradac. a zatim u pravcu severoistoka staza se vraca na pocetnu tacku.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:01:06Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

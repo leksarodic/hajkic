@@ -79,12 +79,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2022/08/7-9-16-Staza-br.16-Biser_Kukavice.gpx",
-        "fetched_at": "2026-11-08T12:02:41Z",
-        "checked_at": "2026-11-08T12:02:41Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 33066,
         "sha256": "c2dbf4f6a7d73db280d153ab8c3506db6cf07594cb008382f640340d1e62d9bb",
         "etag": null,
-        "last_modified": "Mon, 08 Aug 2022 18:16:10 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 231,
@@ -176,14 +176,14 @@
         "pss_id": 17521,
         "updated_at": "2022-08-08T18:30:28Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:02:41Z",
-        "last_synced_at": "2026-11-08T12:02:41Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "staza br. 16. \"biser kukavice\" 7-9-16 jugoistocna srbija kukavica crkva sv. jovana krstitelja u vucju, 309 m hidroelektrana u vucju, 340 m kukavica psk - crkva sv. jovana krstitelja u vucju - skobaljic grad - kamen cuvar - sokolica - vidikovac ,,orlovo gnezdo” - hidroelektrana i vodopadi u kanjonu vucjanke laka crkva – skobaljic grad – kamen cuvar – sokolica – vidikovac ,,orlovo gnezdo” – hidroelektrana i vodopadi u kanjonu vucjanke",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:02:41Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

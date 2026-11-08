@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/06/3-20-11-Takovo-Rajac-dom.gpx",
-        "fetched_at": "2026-11-08T11:56:10Z",
-        "checked_at": "2026-11-08T11:56:10Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 92308,
         "sha256": "6e867b915ae238fb8fa98cab047f23d48e02a723ef2492b1b9bf3c0d6b208951",
         "etag": null,
-        "last_modified": "Sat, 03 Jul 2021 12:27:11 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 714,
@@ -228,14 +228,14 @@
         "pss_id": 3913,
         "updated_at": "2021-07-03T12:27:58Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:56:11Z",
-        "last_synced_at": "2026-11-08T11:56:11Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "takovo - rajac (pl. dom) 3-20-11 zapadna srbija suvobor takovo (memorijalni centar takovski grm), 380 m rajac (cika duskov pl.dom), 625 m pobeda psk • memorijalni kompleks \"takovski ustanak\" (takovski grm) • rajac • spomenik \"1300 kaplara\" zahtevna",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:56:11Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

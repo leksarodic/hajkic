@@ -70,7 +70,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T11:59:42Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -110,14 +110,14 @@
         "pss_id": 8109,
         "updated_at": "2019-01-11T16:02:58Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:59:42Z",
-        "last_synced_at": "2026-11-08T11:59:42Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "banja badanja - banja crniljevo 3-2-1 zapadna srbija vlasic banja badanja, 170 mnv gornje crniljevo, spomen kompleks pilotu milenku pavlovicu, 220 mnv civija pak • banja badanja i gornje crniljevo • izvor i cesma prirodno gazirane mineralne vode u gornjem crniljevu • spomen kompleks pilotu milenku pavlovicu laka banja badanja - d. sipulja - breza - razbojiste (465m) - jankov vis (454m) - gornje crniljevo",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:59:42Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

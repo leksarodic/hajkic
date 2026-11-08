@@ -59,7 +59,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T11:56:08Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -100,14 +100,14 @@
         "pss_id": 3906,
         "updated_at": "2019-02-12T12:58:27Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:56:08Z",
-        "last_synced_at": "2026-11-08T11:56:08Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "lazarica - bela staza 4-7-1 istocna srbija kucaj (resavica) manastir ravanica, 253mnv senjski rudnik, 432 mnv manastir ravanica, senjski rudnik (muzej ugljarstva) laka",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:56:08Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

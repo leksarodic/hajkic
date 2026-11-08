@@ -79,12 +79,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2023/03/Staza-7-Semegnjevo-Savino-Brdo.gpx",
-        "fetched_at": "2026-11-08T12:02:58Z",
-        "checked_at": "2026-11-08T12:02:58Z",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
         "bytes": 121130,
         "sha256": "655c2095518f7bb1a89cc19db3d5923eb1daf24fa12517fc0a92247a393247d2",
         "etag": null,
-        "last_modified": "Wed, 29 Mar 2023 21:51:30 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 1142,
@@ -228,14 +228,14 @@
         "pss_id": 19216,
         "updated_at": "2023-09-08T20:15:24Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:02:59Z",
-        "last_synced_at": "2026-11-08T12:02:59Z"
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
     },
     "search": "staza br. 7: semegnjevo – savino brdo 5-12-14 jugozapadna srbija zlatibor vratanovac u semegnjevu vratanovac u semegnjevu omorika pd vrh savino brdo, vrh leskovi vis, piscevica kolibe, klisura kamisine laka vratanovac - kurtovo brdo (1,3 km) - piscevica kolibe (3,8 km) - leskovi vis (4,8 km) -savino brdo (6,5 km) - veliko brdo (10,5 km) - vratanovac (14,4 km)",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:02:59Z"
+        "generated_at": "2026-11-08T13:01:57Z"
     }
 }

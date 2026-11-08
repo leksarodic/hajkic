@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/08/4-27-3-Muzinac-Tomiceva-koliba.gpx",
-        "fetched_at": "2026-11-08T11:58:53Z",
-        "checked_at": "2026-11-08T11:58:53Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 16054,
         "sha256": "ef46c7fd5cebcbbea083ba22ffc60862f46862077103c965e383e6359cf94763",
         "etag": null,
-        "last_modified": "Tue, 18 Dec 2018 12:59:42 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 116,
@@ -158,14 +158,14 @@
         "pss_id": 4588,
         "updated_at": "2018-12-18T13:01:42Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:58:53Z",
-        "last_synced_at": "2026-11-08T11:58:53Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "muzinac - tomiceva koliba (podnozje rtnja) 4-27-3 istocna srbija rtanj muzinac (selo), 551m tomiceva koliba (podnozje rtnja), 820m ostra cuka pd • na stazi ima 2 vidikovca • na stazi nema izvora pitke vode • nema smestaja laka spaja sledece staze/puteve: povezana je sa stazom koja vodi od tomiceve kolibe do vrha siljak na rtnju i sa stazom koja vodi do jame lednice na rtnju.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:58:53Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

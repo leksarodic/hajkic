@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2020/10/2-3-7-Avala-staza-6.gpx",
-        "fetched_at": "2026-11-08T12:01:19Z",
-        "checked_at": "2026-11-08T12:01:19Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 43250,
         "sha256": "cbefa622e44a7a583b1d67f86096db359c7c315764ef3d47a27f1a1daf09d9bd",
         "etag": null,
-        "last_modified": "Wed, 21 Oct 2020 14:05:47 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 223,
@@ -146,14 +146,14 @@
         "pss_id": 12302,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:01:20Z",
-        "last_synced_at": "2026-11-08T12:01:20Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "avala, staza 6 2-3-7 sumadija avala planinarski dom \"carapicev brest\", 310 m spomenik neznanom junaku na vrhu avale, 506 m avala pd • spomenik vasi carapicu • planinarska kuca \"avala\" • planinarski dom \"carapicev brest\" • avalski tv toranj • mitrovicev dom • crkva brvnara svetog despota stevana lazarevica • hotel \"avala\" • spomenik neznanom junaku • vidikovac: vrh avale laka • staza 6 spaja sledece staze: stazu 1, stazu 2, stazu 3, stazu 4 i stazu 5.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:01:20Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

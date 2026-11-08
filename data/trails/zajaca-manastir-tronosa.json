@@ -79,12 +79,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2024/04/3-5-1-Zajaca-Tronosa.gpx",
-        "fetched_at": "2026-11-08T12:04:07Z",
-        "checked_at": "2026-11-08T12:04:07Z",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
         "bytes": 33506,
         "sha256": "00634edb242ee16cff22b6ce8c489981c11d8f878bc0def7a88c23cefb80d825",
         "etag": null,
-        "last_modified": "Mon, 01 Apr 2024 21:52:49 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 358,
@@ -194,14 +194,14 @@
         "pss_id": 24380,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:04:08Z",
-        "last_synced_at": "2026-11-08T12:04:08Z"
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
     },
     "search": "zajaca - manastir tronosa 3-5-1 zapadna srbija boranja zajaca - 310 m manastir tronosa - 290 m gucevo pk manastir tronosa laka staza se iz pravca zajace pruza ka sedmaku (535mnv)i levom obalom potoka sedmak blago penje ka malom prevoju kaludjerovaca,koji je i najvisa tacka uspona(500mnv).sa te kote se moze ici u 4 smera.tu se ova staza ukrsta sa transverzalom sa boranje koja dolazi sa juga.kretanje nastaviti istocno nanize, stalno kroz bukovu sumu ugazenom stazom sa jednim delom makadamskog puta.dva izvora.moguc susreti sa srnama i div.svinjama.staza se strmo spusta preko babinog brda iza samog izvora 9 jugovica nedaleko od manastira tronosa.pogledati u nacionalnom registru nematerijalnog nasledja srbije,vise teksta,o svetkovini u mesecu aprilu na ovoj stazi i o samom manastiru...",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:04:08Z"
+        "generated_at": "2026-11-08T13:01:57Z"
     }
 }

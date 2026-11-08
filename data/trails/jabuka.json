@@ -1,0 +1,241 @@
+{
+    "schema_version": 1,
+    "slug": "jabuka",
+    "name": "Jabuka",
+    "code": "E7-12-4",
+    "category": {
+        "key": "evropski-pesacki-putevi-u-srbiji",
+        "label": "Evropski pešački putevi u Srbiji"
+    },
+    "pss": {
+        "post_id": 23570,
+        "category_id": 29,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            194
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Pobijenik",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "lak"
+    },
+    "distance": {
+        "official_km": null,
+        "calculated_km": 19.71
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": null,
+        "official_loss_m": null,
+        "calculated_gain_m": 0.0,
+        "calculated_loss_m": 0.0,
+        "min_m": 0.0,
+        "max_m": 0.0
+    },
+    "start": null,
+    "end": null,
+    "description": null,
+    "landmarks": null,
+    "maintenance": null,
+    "marking": null,
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": null,
+    "club": null,
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2024/02/E7-12-4.gpx",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
+        "bytes": 61418,
+        "sha256": "98ec7dcd911186e159194a8d41c2703b67ede832adefb2eca52981a1172cf43b",
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": 845,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2024/02/E7-12-4.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/jabuka.geojson",
+        "bbox": [
+            19.514573188,
+            43.34213245,
+            19.549807072,
+            43.478544497
+        ],
+        "center": [
+            19.53219,
+            43.410338
+        ],
+        "start_point": [
+            19.549683005,
+            43.478544497
+        ],
+        "end_point": [
+            19.518328816,
+            43.34213245
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    19.54968,
+                    43.47854
+                ],
+                [
+                    19.54488,
+                    43.47628
+                ],
+                [
+                    19.54981,
+                    43.47665
+                ],
+                [
+                    19.54937,
+                    43.47407
+                ],
+                [
+                    19.54252,
+                    43.45934
+                ],
+                [
+                    19.53728,
+                    43.45554
+                ],
+                [
+                    19.53884,
+                    43.45308
+                ],
+                [
+                    19.53574,
+                    43.44788
+                ],
+                [
+                    19.53593,
+                    43.44085
+                ],
+                [
+                    19.53083,
+                    43.43274
+                ],
+                [
+                    19.53275,
+                    43.4271
+                ],
+                [
+                    19.53801,
+                    43.42257
+                ],
+                [
+                    19.53643,
+                    43.41442
+                ],
+                [
+                    19.5421,
+                    43.4065
+                ],
+                [
+                    19.53426,
+                    43.40133
+                ],
+                [
+                    19.52866,
+                    43.40153
+                ],
+                [
+                    19.52617,
+                    43.39976
+                ],
+                [
+                    19.5304,
+                    43.38965
+                ],
+                [
+                    19.5386,
+                    43.38099
+                ],
+                [
+                    19.52913,
+                    43.36496
+                ],
+                [
+                    19.53073,
+                    43.36207
+                ],
+                [
+                    19.5274,
+                    43.35672
+                ],
+                [
+                    19.51748,
+                    43.35273
+                ],
+                [
+                    19.51457,
+                    43.34879
+                ],
+                [
+                    19.51833,
+                    43.34213
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description",
+            "missing_elevation"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/jabuka/",
+        "canonical_url": "https://pss.rs/terenipp/jabuka/",
+        "pss_id": 23570,
+        "updated_at": "2024-12-07T22:15:05Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
+    },
+    "search": "jabuka e7-12-4 jugozapadna srbija pobijenik laka",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T13:01:57Z"
+    }
+}

@@ -71,12 +71,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/07/1-3-1.gpx",
-        "fetched_at": "2026-11-08T11:56:42Z",
-        "checked_at": "2026-11-08T11:56:42Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 151580,
         "sha256": "751d22d2e657eb860d60e97e1202a663cdd4bd6e8441cbf4cd8aef85da433c2b",
         "etag": null,
-        "last_modified": "Fri, 21 Jul 2017 16:51:21 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 919,
@@ -218,14 +218,14 @@
         "pss_id": 4338,
         "updated_at": "2017-08-02T11:48:16Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:56:43Z",
-        "last_synced_at": "2026-11-08T11:56:43Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "bukovacki maraton - osnovna staza 1-3-1 vojvodina fruska gora bukovac 180m bukovac 180m vilina vodica pd • strazilovo • brankov spomenik • cerat laka",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:56:43Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

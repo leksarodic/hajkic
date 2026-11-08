@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2021/05/7-9-15-Staza-br.15-Kita.gpx",
-        "fetched_at": "2026-11-08T12:02:05Z",
-        "checked_at": "2026-11-08T12:02:05Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 538010,
         "sha256": "2c79d66ccc48745d29fc1b073ad42cc738ba0dac411ca7c21fbea11c7b8202c7",
         "etag": null,
-        "last_modified": "Tue, 31 Aug 2021 17:21:54 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 3309,
@@ -238,14 +238,14 @@
         "pss_id": 13714,
         "updated_at": "2021-08-31T17:25:44Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:02:05Z",
-        "last_synced_at": "2026-11-08T12:02:05Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "staza br. 15 ,,kita\" 7-9-15 jugoistocna srbija kukavica mesto vucje, 290 m vila teokarevic u centru vucja, 331 m kukavica psk • skobaljic grad • mala hidroelektrana u kanjonu reke vucjanke • vidikovac stene sokolica zahtevna centar mesta vucje - streliste - arheolosko nalaziste i zidine skobaljic grada - vidikovac stene sokolica - uzvisenje orlovo gnezdo - selo sutilica - vrh kita 988 m - selo sutilica - hidroelektrana u kanjonu reke vucjanke - vila teokarevic u centru vucja",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:02:05Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

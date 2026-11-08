@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/08/4-31-8-Tri-bunara-na-Devici-Izvor-Moravice.gpx",
-        "fetched_at": "2026-11-08T11:57:43Z",
-        "checked_at": "2026-11-08T11:57:43Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 153320,
         "sha256": "7ed3349772eb5417a5bc57a573d8221fb2214d0e3558912a8c1e0e0026906a6b",
         "etag": null,
-        "last_modified": "Fri, 21 Dec 2018 12:01:43 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 916,
@@ -252,14 +252,14 @@
         "pss_id": 4584,
         "updated_at": "2018-12-21T12:03:17Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:58:52Z",
-        "last_synced_at": "2026-11-08T11:58:52Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "tri bunara na devici - izvor moravice 4-31-8 istocna srbija devica stari rudnik, 458m izvor moravice, 399m ostra cuka pd • izvor moravice • vidikovci: cucka i stojin vrh • na stazi ima izvor pitke vode • nema smestaja zahtevna",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:58:52Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

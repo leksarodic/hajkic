@@ -70,7 +70,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T11:57:31Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -110,14 +110,14 @@
         "pss_id": 4512,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:57:31Z",
-        "last_synced_at": "2026-11-08T11:57:31Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "staza zdravlja strmenice 6-2-1 kopaonicko-toplicka regija ozren (kraljevo) 3km od zice uz reku kod kafane i vira za kupanje, 270m 3km od zice uz reku kod kafane i vira za kupanje, 270m kraljevo pak vidikovac na vrhu strmenica (679 m) laka • od mosta u zici crveno-belom bojom, obelezenim putem (2,8km) uz zicku reku, kod poslednjih kuca, pocinje obelezena plava staza za rekreaciju i trening sportista. • ukupna duzina staza 14,39km • propisna planinarska markacija u pet boja: plava staza (8km), zelena staza (2,55km), zuta staza (2,14km), crvena staza (1,3km), braon staza (0,4km)",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:57:31Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

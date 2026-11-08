@@ -1,0 +1,244 @@
+{
+    "schema_version": 1,
+    "slug": "stazama-cera",
+    "name": "Stazama Cera",
+    "code": "T-3-7",
+    "category": {
+        "key": "planinarske-transverzale",
+        "label": "Planinarske transverzale"
+    },
+    "pss": {
+        "post_id": 4475,
+        "category_id": 30,
+        "region_ids": [
+            3
+        ],
+        "mountain_ids": [
+            65
+        ]
+    },
+    "region": "Zapadna Srbija",
+    "mountain": "Cer",
+    "difficulty": {
+        "key": "nepoznato",
+        "label": "Nije navedeno",
+        "source": null
+    },
+    "distance": {
+        "official_km": 23.0,
+        "calculated_km": 22.07
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": 546.0,
+        "official_loss_m": 686.0,
+        "calculated_gain_m": 634.4,
+        "calculated_loss_m": 782.9,
+        "min_m": 146.3,
+        "max_m": 690.4
+    },
+    "start": null,
+    "end": null,
+    "description": null,
+    "landmarks": "• Spomenik Cerskim junacima u Tekerišu\n\n • Trojanov grad\n\n • Kosanin grad\n\n • Manastir Čokešina\n\n • Vidikovci: Vodice, Raskršće, šumska kuća",
+    "maintenance": null,
+    "marking": "propisana planinarska",
+    "accommodation": "Planinarski dom \"Lipove vode\"",
+    "notes": "Transverzalu su trasirali članovi PSD \"Cer\" 1977. a poslednji put je markirana maja 2015.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": null,
+    "legend": [],
+    "photos_count": 2,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/08/T-3-7-Stazama-Cera.gpx",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
+        "bytes": 390159,
+        "sha256": "62522a7a0a7bbb0a5c391cea2333ab8cf1dfc21a4fd14a5688e58982a29cb8c1",
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 2385,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 13,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/08/T-3-7-Stazama-Cera.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/stazama-cera.geojson",
+        "bbox": [
+            19.392001032829285,
+            44.55423999577761,
+            19.536001961678267,
+            44.64184102602303
+        ],
+        "center": [
+            19.464001,
+            44.598041
+        ],
+        "start_point": [
+            19.52768904156983,
+            44.55423999577761
+        ],
+        "end_point": [
+            19.395615980029106,
+            44.64168696664274
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    19.52769,
+                    44.55424
+                ],
+                [
+                    19.53599,
+                    44.57098
+                ],
+                [
+                    19.52951,
+                    44.57718
+                ],
+                [
+                    19.52556,
+                    44.5876
+                ],
+                [
+                    19.51075,
+                    44.5968
+                ],
+                [
+                    19.4914,
+                    44.60287
+                ],
+                [
+                    19.49281,
+                    44.60732
+                ],
+                [
+                    19.47708,
+                    44.61083
+                ],
+                [
+                    19.46679,
+                    44.61577
+                ],
+                [
+                    19.45339,
+                    44.61519
+                ],
+                [
+                    19.44807,
+                    44.61872
+                ],
+                [
+                    19.44754,
+                    44.62171
+                ],
+                [
+                    19.43682,
+                    44.61924
+                ],
+                [
+                    19.43189,
+                    44.62107
+                ],
+                [
+                    19.42989,
+                    44.61948
+                ],
+                [
+                    19.42184,
+                    44.62392
+                ],
+                [
+                    19.42105,
+                    44.62081
+                ],
+                [
+                    19.41235,
+                    44.62218
+                ],
+                [
+                    19.40829,
+                    44.61961
+                ],
+                [
+                    19.40319,
+                    44.61987
+                ],
+                [
+                    19.39572,
+                    44.62454
+                ],
+                [
+                    19.39388,
+                    44.62819
+                ],
+                [
+                    19.392,
+                    44.63779
+                ],
+                [
+                    19.39484,
+                    44.63835
+                ],
+                [
+                    19.39562,
+                    44.64169
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_difficulty",
+            "missing_description"
+        ]
+    },
+    "additional": {
+        "Planine/predeli": "Cer",
+        "Status": "aktivna",
+        "Datum poslednje verifikacije": "2015",
+        "Društvo": "Cer PSD",
+        "Vreme obilaska (dana)": "jednodnevna",
+        "Godina otvaranja": "1977.",
+        "Kontakt": "https://pss.rs/terenipp/stazama-cera/",
+        "Vrsta": "linijska",
+        "Broj kontrolnih tačaka": "3",
+        "Opis puta": "Selo Tekeriš, Spomenik Cerskim junacima - Trojanov grad - planinarski dom \"Lipove vode\" - Šančine - Krstovi - Kumovac - Mršića grob - manastir Čokešina",
+        "Dnevnik": "• Postoji Dnevnik transverzale.\n\n • Pečati se nalaze u planinarskom domu \"Lipove vode\"\n\n • Nema Pravilnika transverzale, niti Knjige obilaska transverzale.",
+        "Priznanja": "Značka transverzale"
+    },
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/stazama-cera/",
+        "canonical_url": "https://pss.rs/terenipp/stazama-cera/",
+        "pss_id": 4475,
+        "updated_at": "2019-02-21T14:02:11Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
+    },
+    "search": "stazama cera t-3-7 zapadna srbija cer • spomenik cerskim junacima u tekerisu • trojanov grad • kosanin grad • manastir cokesina • vidikovci: vodice, raskrsce, sumska kuca nije navedeno",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T13:01:56Z"
+    }
+}

@@ -1,0 +1,798 @@
+{
+    "schema_version": 1,
+    "slug": "e7-16",
+    "name": "Žuč - Gornja Trnava",
+    "code": "E7-16",
+    "category": {
+        "key": "evropski-pesacki-putevi-u-srbiji",
+        "label": "Evropski pešački putevi u Srbiji"
+    },
+    "pss": {
+        "post_id": 3870,
+        "category_id": 29,
+        "region_ids": [
+            6
+        ],
+        "mountain_ids": [
+            85,
+            77
+        ]
+    },
+    "region": "Kopaoničko-Toplička regija",
+    "mountain": "Mali Jastrebac",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevan"
+    },
+    "distance": {
+        "official_km": 110.7,
+        "calculated_km": 111.07
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": 2800.0,
+        "official_loss_m": 2550.0,
+        "calculated_gain_m": 0.0,
+        "calculated_loss_m": 0.0,
+        "min_m": 0.0,
+        "max_m": 0.0
+    },
+    "start": null,
+    "end": null,
+    "description": "• Kod sela Žuč je raskrsnica osnovne rute (E7-16) i alternativne\nrute (E7-19) Evropskog pešačkog puta E7. Osnovna ruta E7 nastavlja\nseveroistočno Topličkim krajem kroz sela okoline varoši Blace\nkoja se nalazi u prostranoj kotlini. Ovo je poznati voćarski\nkraj. U selu Trbunje put prolazi pored spomenika doajenu srpskog\nplaninarstva Dušanu Jovanoviću - čika Dušku. Iz Blaca put E7 se,\nkroz široku kotlinu, penje na šumovite padine planine Veliki\nJastrebac do Planinarskog doma „Žarko Žarić” i turističke zone\n„Ravnište” udaljene oko 20 km od istorijskog grada Kruševca, jedne od\nsrednjevekovnih prestonica Srbije.\n\n • Kruševačka župa je takođe istorijski poznato vinogorje. Planina\nVeliki Jastrebac je poznati planinarski centar sa velikom mrežom\nobeleženih staza za pešačenje. Put E7 prati greben planine Veliki\nJastrebac, prema istoku preko najvišeg vrha Velika Đulica (1491m),\ni dalje preko grebena Malog Jastrepca, silazi u dolinu Južne Morave\npored sela Dašnica, Tešica i Donja Trnava do sela Gornja Trnava.\n\n • Između sela Donja i Gornja Trnava pešački put E7 prelazi autoput na\nkoridoru 10 Beograd – (Sofija) – Solun.",
+    "landmarks": "selo Trbunje, Veliki Jastrebac (\"Ravnište\"), grad Kruševac, vinogorje Kruševačke župe, izletište Jasenova voda (izvor pitke vode), vrh Kupinjak",
+    "maintenance": null,
+    "marking": "evropska crveno-žuta",
+    "accommodation": "Selova, Blace, Veliki Jastrebac, Grebac, Mali Jastrebac, Ribarska banja, Prokuplje, Niš",
+    "notes": "• E7-16-1 Žuč – Blace 21,4 km\n\n • E7-16-2 Blace – Planinarski dom „Žarko Žarić“ 25,8 km\n\n • E7-16-3 Planinarski dom „Žarko Žarić“ – Veliki Jastrebac 12,6 km\n\n • E7-16-4 Veliki Jastrebac (Velika Đulica) – Grebac 15,8 km\n\n • E7-16-5 Grebac – Mali Jastrebac 16,2 km\n\n • E7-16-6 Mali Jastrebac – Gornja Trnava 18,9 km",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Brđanka PSK",
+        "url": "https://pss.rs/adresar_klubova/psd-brdanka/",
+        "contact": "Dušana Trivunca 54, 18220 Aleksinac\n060 680 29 75\nhttp://www.planinari-brdjanka.org",
+        "clubs": [
+            {
+                "name": "Brđanka PSK",
+                "url": "https://pss.rs/adresar_klubova/psd-brdanka/",
+                "contact": "Dušana Trivunca 54, 18220 Aleksinac\n060 680 29 75\nhttp://www.planinari-brdjanka.org"
+            },
+            {
+                "name": "Jastrebac PSK",
+                "url": "https://pss.rs/adresar_klubova/jastrebac-pk/",
+                "contact": "Nikole Tesle bb,37000 Kruševac\n060/65 87 176\nhttps://www.pskjastrebac.rs/"
+            },
+            {
+                "name": "Toplica PSK",
+                "url": "https://pss.rs/adresar_klubova/toplica-psk/",
+                "contact": "Adresa Arsenija Čarnojevića III br.117 , 18400 Prokuplje\n065/229-2622"
+            }
+        ]
+    },
+    "legend": [
+        "Deo 5 deonice 16 E7: dužina staze 24,5 km, vreme potrebno za obilazak 9h, uspon 540 m, spust 1007, najviša tačka 940 m, najniža tačka 174 m.",
+        "Stazu su trasirali članovi PSK \"Brđanka\" pod nadzovorom markiranta Svetomira Ranđelovića, od jula do septembra 2020. godine.",
+        "Poslednji put staza je markirana februara 2021. godine."
+    ],
+    "photos_count": 3,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/E7-16-Zuc-Gornja-Trnava.gpx",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
+        "bytes": 336791,
+        "sha256": "5983f1ce9537aa7277004ea5daed08ad898951d43cdd34585197304d7b03b4d5",
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": 4663,
+        "tracks": 6,
+        "segments": 6,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/E7-16-Zuc-Gornja-Trnava.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/e7-16.geojson",
+        "bbox": [
+            21.153002768,
+            43.194017436,
+            21.821407636,
+            43.45205883
+        ],
+        "center": [
+            21.487205,
+            43.323038
+        ],
+        "start_point": [
+            21.157982755,
+            43.194017436
+        ],
+        "end_point": [
+            21.821407636,
+            43.429840005
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.15798,
+                    43.19402
+                ],
+                [
+                    21.15762,
+                    43.19727
+                ],
+                [
+                    21.15301,
+                    43.19969
+                ],
+                [
+                    21.15369,
+                    43.20286
+                ],
+                [
+                    21.15807,
+                    43.20276
+                ],
+                [
+                    21.16083,
+                    43.20567
+                ],
+                [
+                    21.16448,
+                    43.20489
+                ],
+                [
+                    21.16445,
+                    43.20971
+                ],
+                [
+                    21.17369,
+                    43.21129
+                ],
+                [
+                    21.17524,
+                    43.21903
+                ],
+                [
+                    21.18419,
+                    43.21889
+                ],
+                [
+                    21.19191,
+                    43.22382
+                ],
+                [
+                    21.20871,
+                    43.21873
+                ],
+                [
+                    21.21886,
+                    43.22387
+                ],
+                [
+                    21.22618,
+                    43.23163
+                ],
+                [
+                    21.23453,
+                    43.23207
+                ],
+                [
+                    21.23814,
+                    43.23426
+                ],
+                [
+                    21.2381,
+                    43.23979
+                ],
+                [
+                    21.25312,
+                    43.24737
+                ],
+                [
+                    21.25267,
+                    43.25125
+                ],
+                [
+                    21.2564,
+                    43.25463
+                ],
+                [
+                    21.25399,
+                    43.25723
+                ],
+                [
+                    21.25906,
+                    43.25944
+                ],
+                [
+                    21.26109,
+                    43.26308
+                ],
+                [
+                    21.25901,
+                    43.26811
+                ],
+                [
+                    21.26228,
+                    43.27609
+                ],
+                [
+                    21.27315,
+                    43.2778
+                ],
+                [
+                    21.27374,
+                    43.28612
+                ],
+                [
+                    21.28533,
+                    43.29296
+                ],
+                [
+                    21.28569,
+                    43.29859
+                ]
+            ],
+            [
+                [
+                    21.28586,
+                    43.29862
+                ],
+                [
+                    21.29439,
+                    43.30131
+                ],
+                [
+                    21.29823,
+                    43.30545
+                ],
+                [
+                    21.29712,
+                    43.30784
+                ],
+                [
+                    21.30523,
+                    43.32315
+                ],
+                [
+                    21.32236,
+                    43.31504
+                ],
+                [
+                    21.33011,
+                    43.32002
+                ],
+                [
+                    21.32779,
+                    43.32314
+                ],
+                [
+                    21.32986,
+                    43.32533
+                ],
+                [
+                    21.32913,
+                    43.3365
+                ],
+                [
+                    21.32423,
+                    43.34906
+                ],
+                [
+                    21.32441,
+                    43.35073
+                ],
+                [
+                    21.32691,
+                    43.35062
+                ],
+                [
+                    21.32871,
+                    43.35683
+                ],
+                [
+                    21.32659,
+                    43.36639
+                ],
+                [
+                    21.33101,
+                    43.37161
+                ],
+                [
+                    21.33092,
+                    43.38704
+                ],
+                [
+                    21.33406,
+                    43.39193
+                ],
+                [
+                    21.33312,
+                    43.39681
+                ],
+                [
+                    21.32744,
+                    43.39939
+                ],
+                [
+                    21.33224,
+                    43.40087
+                ],
+                [
+                    21.33069,
+                    43.40778
+                ],
+                [
+                    21.33382,
+                    43.41052
+                ],
+                [
+                    21.33928,
+                    43.4082
+                ],
+                [
+                    21.33917,
+                    43.40971
+                ],
+                [
+                    21.34321,
+                    43.40978
+                ],
+                [
+                    21.33943,
+                    43.41309
+                ],
+                [
+                    21.34772,
+                    43.41708
+                ],
+                [
+                    21.34917,
+                    43.42021
+                ],
+                [
+                    21.35749,
+                    43.41308
+                ],
+                [
+                    21.35865,
+                    43.41474
+                ],
+                [
+                    21.36097,
+                    43.41292
+                ],
+                [
+                    21.36731,
+                    43.41499
+                ],
+                [
+                    21.3686,
+                    43.41868
+                ],
+                [
+                    21.37385,
+                    43.4205
+                ],
+                [
+                    21.37322,
+                    43.42475
+                ],
+                [
+                    21.37557,
+                    43.42658
+                ]
+            ],
+            [
+                [
+                    21.37557,
+                    43.42658
+                ],
+                [
+                    21.37875,
+                    43.42517
+                ],
+                [
+                    21.37957,
+                    43.42659
+                ],
+                [
+                    21.39339,
+                    43.42812
+                ],
+                [
+                    21.39671,
+                    43.42603
+                ],
+                [
+                    21.39618,
+                    43.42415
+                ],
+                [
+                    21.402,
+                    43.42257
+                ],
+                [
+                    21.40465,
+                    43.41926
+                ],
+                [
+                    21.40304,
+                    43.41901
+                ],
+                [
+                    21.4055,
+                    43.41333
+                ],
+                [
+                    21.40284,
+                    43.4084
+                ],
+                [
+                    21.39536,
+                    43.40708
+                ],
+                [
+                    21.39525,
+                    43.3974
+                ],
+                [
+                    21.40648,
+                    43.39339
+                ],
+                [
+                    21.41358,
+                    43.39789
+                ],
+                [
+                    21.41723,
+                    43.39661
+                ],
+                [
+                    21.43271,
+                    43.39782
+                ],
+                [
+                    21.43988,
+                    43.39332
+                ],
+                [
+                    21.44208,
+                    43.38901
+                ]
+            ],
+            [
+                [
+                    21.44208,
+                    43.38901
+                ],
+                [
+                    21.44676,
+                    43.38886
+                ],
+                [
+                    21.45234,
+                    43.38437
+                ],
+                [
+                    21.4565,
+                    43.38583
+                ],
+                [
+                    21.46218,
+                    43.38326
+                ],
+                [
+                    21.47515,
+                    43.3842
+                ],
+                [
+                    21.47691,
+                    43.38178
+                ],
+                [
+                    21.47462,
+                    43.38297
+                ],
+                [
+                    21.47159,
+                    43.38128
+                ],
+                [
+                    21.48825,
+                    43.37218
+                ],
+                [
+                    21.49881,
+                    43.3715
+                ],
+                [
+                    21.51602,
+                    43.36562
+                ],
+                [
+                    21.52091,
+                    43.36687
+                ],
+                [
+                    21.52635,
+                    43.36333
+                ],
+                [
+                    21.53205,
+                    43.36376
+                ],
+                [
+                    21.53465,
+                    43.36053
+                ],
+                [
+                    21.54068,
+                    43.36034
+                ],
+                [
+                    21.54328,
+                    43.3577
+                ],
+                [
+                    21.55297,
+                    43.35803
+                ],
+                [
+                    21.55758,
+                    43.35583
+                ],
+                [
+                    21.56509,
+                    43.35704
+                ],
+                [
+                    21.57023,
+                    43.35345
+                ],
+                [
+                    21.57312,
+                    43.35852
+                ],
+                [
+                    21.57721,
+                    43.3598
+                ],
+                [
+                    21.58022,
+                    43.35767
+                ]
+            ],
+            [
+                [
+                    21.58022,
+                    43.35767
+                ],
+                [
+                    21.58637,
+                    43.36164
+                ],
+                [
+                    21.58895,
+                    43.36071
+                ],
+                [
+                    21.59798,
+                    43.3687
+                ],
+                [
+                    21.59933,
+                    43.36201
+                ],
+                [
+                    21.60356,
+                    43.36458
+                ],
+                [
+                    21.60977,
+                    43.37257
+                ],
+                [
+                    21.61344,
+                    43.38421
+                ],
+                [
+                    21.61987,
+                    43.38483
+                ],
+                [
+                    21.62214,
+                    43.38762
+                ],
+                [
+                    21.62552,
+                    43.3871
+                ],
+                [
+                    21.62929,
+                    43.39131
+                ],
+                [
+                    21.63511,
+                    43.3868
+                ],
+                [
+                    21.64215,
+                    43.38538
+                ],
+                [
+                    21.64904,
+                    43.37434
+                ],
+                [
+                    21.66066,
+                    43.37549
+                ],
+                [
+                    21.66802,
+                    43.38055
+                ],
+                [
+                    21.67377,
+                    43.37804
+                ],
+                [
+                    21.68879,
+                    43.37901
+                ],
+                [
+                    21.69645,
+                    43.38211
+                ],
+                [
+                    21.69903,
+                    43.38554
+                ],
+                [
+                    21.70276,
+                    43.38493
+                ]
+            ],
+            [
+                [
+                    21.70276,
+                    43.38493
+                ],
+                [
+                    21.70233,
+                    43.39248
+                ],
+                [
+                    21.71555,
+                    43.4158
+                ],
+                [
+                    21.71253,
+                    43.41663
+                ],
+                [
+                    21.71196,
+                    43.42149
+                ],
+                [
+                    21.72114,
+                    43.42964
+                ],
+                [
+                    21.71897,
+                    43.43232
+                ],
+                [
+                    21.72645,
+                    43.43533
+                ],
+                [
+                    21.73243,
+                    43.43516
+                ],
+                [
+                    21.73293,
+                    43.43995
+                ],
+                [
+                    21.74394,
+                    43.45206
+                ],
+                [
+                    21.74802,
+                    43.45094
+                ],
+                [
+                    21.75173,
+                    43.44588
+                ],
+                [
+                    21.75833,
+                    43.44513
+                ],
+                [
+                    21.75951,
+                    43.44064
+                ],
+                [
+                    21.75744,
+                    43.43852
+                ],
+                [
+                    21.76205,
+                    43.43444
+                ],
+                [
+                    21.76926,
+                    43.43133
+                ],
+                [
+                    21.78062,
+                    43.43106
+                ],
+                [
+                    21.78564,
+                    43.42401
+                ],
+                [
+                    21.79733,
+                    43.42294
+                ],
+                [
+                    21.7993,
+                    43.42579
+                ],
+                [
+                    21.81016,
+                    43.42958
+                ],
+                [
+                    21.81445,
+                    43.42831
+                ],
+                [
+                    21.82141,
+                    43.42984
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": [
+            "missing_elevation"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/e7-16/",
+        "canonical_url": "https://pss.rs/terenipp/e7-16/",
+        "pss_id": 3870,
+        "updated_at": "2024-12-07T22:28:37Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
+    },
+    "search": "zuc - gornja trnava e7-16 kopaonicko-toplicka regija mali jastrebac brdjanka psk selo trbunje, veliki jastrebac (\"ravniste\"), grad krusevac, vinogorje krusevacke zupe, izletiste jasenova voda (izvor pitke vode), vrh kupinjak zahtevna • kod sela zuc je raskrsnica osnovne rute (e7-16) i alternativne rute (e7-19) evropskog pesackog puta e7. osnovna ruta e7 nastavlja severoistocno toplickim krajem kroz sela okoline varosi blace koja se nalazi u prostranoj kotlini. ovo je poznati vocarski kraj. u selu trbunje put prolazi pored spomenika doajenu srpskog planinarstva dusanu jovanovicu - cika dusku. iz blaca put e7 se, kroz siroku kotlinu, penje na sumovite padine planine veliki jastrebac do planinarskog doma „zarko zaric” i turisticke zone „ravniste” udaljene oko 20 km od istorijskog grada krusevca, jedne od srednjevekovnih prestonica srbije. • krusevacka zupa je takodje istorijski poznato vinogorje. planina veliki jastrebac je poznati planinarski centar sa velikom mrezom obelezenih staza za pesacenje. put e7 prati greben planine veliki jastrebac, prema istoku preko najviseg vrha velika djulica (1491m), i dalje preko grebena malog jastrepca, silazi u dolinu juzne morave pored sela dasnica, tesica i donja trnava do sela gornja trnava. • izmedju sela donja i gornja trnava pesacki put e7 prelazi autoput na koridoru 10 beograd – (sofija) – solun.",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T13:01:56Z"
+    }
+}

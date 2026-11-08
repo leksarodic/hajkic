@@ -79,12 +79,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/05/E4-9-Lepenski-Vir-Djerdap.gpx",
-        "fetched_at": "2026-11-08T12:49:58Z",
-        "checked_at": "2026-11-08T12:49:58Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 382440,
         "sha256": "fec585415bee24aee8b83ca75acd83cad29af95531530870461508e2b77009df",
         "etag": null,
-        "last_modified": "Thu, 05 Dec 2024 23:04:36 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": false,
         "points": 5299,
@@ -690,14 +690,14 @@
         "pss_id": 3582,
         "updated_at": "2024-12-05T23:04:47Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:49:59Z",
-        "last_synced_at": "2026-11-08T12:49:59Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "lepenski vir - djerdap hidroelektrana e4-9 istocna srbija djerdap gornjak pd np djerdap zahtevna • od lepenskog vira put se podize na grebene planine liskovac iznad dunava sa brojnim izvanrednim vidicima na srednji deo djerdapske klisure i na planinske masive preko dunava u rumuniji i juzno u istocnoj srbiji. grad donji milanovac na dunavu izgradjen je na obali jezera posle izgradnje brane u djerdapu. stari grad sa tornjem crkve nalazi se ispod nivoa jezera. nacionalni park djerdap zahvata povrsinu od 640 km2. bioloska i geoloska raznovrsnost parka je izuzetna. klisura djerdapa kroz proteklo vreme velikih promena postala je sigurno skloniste (refugium) u kome su se sacuvale brojne endemske vrste flore i faune. • rec djerdap nastala je od persijske reci gir-dap sto znaci duboki vir. ovde u gvozdenim vratima virovi djerdapa bili su duboki, tajanstveni i opasni. • iz gornjeg milanovca put e4 nastavlja niz dunav preko zaliva porecke reke prema selu mosna. u ovom zalivu nalazi se veliko prirodno mrestiliste dunavske ribe. nazalost, ne i ribe morune i jesetre jer je velika brana presekla puteve ovim vrstama od kojih se dobijao izvanredni kavijar. • iz mosne put se penje na krecnjacki plato planine miroc, poznate iz narodnih legendi o junaku marku kraljevicu. odavde se put nastavlja iznad najlepseg dela klisure koji se zovu kazani, mali i veliki. • samo sa ove visine moze se sagledati monumentalnost klisure. u ovom tesnacu, pre potapanja, u „kazanima” su brodovima upravljali posebni dunavski kapetani zvani „locovi” cija stanica je bila u mestu tekija na obali. • tekija je sada lepo mesto sa tradicijom ribolova i manifestacijom takmicenja u lovu na somove sa napravom zvanom „bucka”. preko puta tekije nalazi se veliki rumunski grad orsava. • na izlazu iz kazana, na steni iznad vode, rimski car trajan isklesao je veliku tablu posvecenu izgradnji puta pored dunava i traj",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:49:59Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

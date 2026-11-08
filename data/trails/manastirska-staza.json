@@ -69,8 +69,8 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/05/Manastir-Voljavca-Ramaca_PD-Zezelj.gpx",
-        "fetched_at": "2026-11-08T12:50:18Z",
-        "checked_at": "2026-11-08T12:50:18Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 130240,
         "sha256": "ed7410f73dddae8e26584d47a65a51fe54a5b6033dc999163f97541a93e8fba4",
         "etag": null,
@@ -180,14 +180,14 @@
         "pss_id": 3642,
         "updated_at": "2022-09-05T19:33:03Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:50:19Z",
-        "last_synced_at": "2026-11-08T12:50:19Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "manastirska staza 2-8-1 sumadija rudnik crkva u selu ramaca - 500 crkva u selu ramaca - 500 zezelj pd crkva kumanica u ramaci i manastir voljavca laka",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:50:19Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

@@ -36,7 +36,7 @@
     "elevation": {
         "official_gain_m": 590.0,
         "official_loss_m": null,
-        "calculated_gain_m": 548.6,
+        "calculated_gain_m": 548.7,
         "calculated_loss_m": 556.4,
         "min_m": 674.1,
         "max_m": 1059.2
@@ -79,12 +79,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2026/10/Mali-rtanjski-vrhoviBaba-2025-05-15-1359__20250515_1359.gpx",
-        "fetched_at": "2026-11-08T12:06:29Z",
-        "checked_at": "2026-11-08T12:06:29Z",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
         "bytes": 98599,
         "sha256": "a0d1beca4a704d19363ff4a08b0e0ee01afb484c1e8c23750b45232d58e581c4",
         "etag": null,
-        "last_modified": "Thu, 08 Oct 2026 21:00:41 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 742,
@@ -244,14 +244,14 @@
         "pss_id": 28842,
         "updated_at": "2026-10-08T21:44:20Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:06:29Z",
-        "last_synced_at": "2026-11-08T12:06:29Z"
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
     },
     "search": "мали ртањски врхови - баба 4-23-2 istocna srbija rtanj церови церови ostra cuka pd голема порица звечана пропаст zahtevna",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:06:29Z"
+        "generated_at": "2026-11-08T13:01:57Z"
     }
 }

@@ -74,12 +74,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/05/E7-11-Kremna-Murtenica.gpx",
-        "fetched_at": "2026-11-08T12:51:04Z",
-        "checked_at": "2026-11-08T12:51:04Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 663867,
         "sha256": "9e3a56302aa59377882e8778d406612acb2875eff95c2dcd78d67ed1d63c3e5f",
         "etag": null,
-        "last_modified": "Sat, 07 Dec 2024 21:29:31 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 8916,
@@ -971,14 +971,14 @@
         "pss_id": 3737,
         "updated_at": "2024-12-07T21:29:37Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:51:04Z",
-        "last_synced_at": "2026-11-08T12:51:04Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "kremna - murtenica e7-11 jugozapadna srbija jadovnik kamena gora pk stitkovo, uvac, kokin brod, zlatar, manastir mileseva (\"beli andjeo\"), hisardzik, stari grad milesevac i isposnice svetog save zahtevna • iz kremana put se penje na planinu taru i vijuga, oko 60 km, kroz teritoriju nacionalnog parka „tara”. park se prostire na planine taru i zvijezdu i na delu kanjona drine. bioloska raznovrsnost tare preko 1100 vrsta (skoro trecina flore srbije), preko 140 vrsta ptica i, pored ostalih vrsta zivotinja, najveca populacija mrkog medveda u srbiji. sume pokrivaju blizu 80% nacionalnog parka. na tari je otkrivena i cuvena „panciceva omorika” u mestu zaovine. sa tare se pruzaju izvanredni vidici na kanjon reke drine. silaskom sa trase e7 lako se dolazi do turistickog grada bajina basta gde je cuvena kucica na drini i gde se prave vrhunske rakije prepecenice. u neposrednoj blizini trase, na ulazu u kanjon recice race je i manastir raca iz 13. veka. • preko turistickog centra mitrovac i sela zaovine put e7 vodi do turistickog gradica „drvengrad” na mokroj gori. kuce u gradicu su od drveta i potpuno u stilu lokalne arhitekture. podigao ga je poznati filmski stvaralac emir kusturica. u njemu se odrzavaju filmski festivali, pozorisne predstave i drugi kulturni dogadjaji. podrucje mokre gore je zasticeno i proglaseno je za park prirode. • tu je obnovljen i deo pruge pruge uskog koloseka, cuvena „sarganska osmica“. prelaz preko planinskog prevoja sargan je inzenjerski izvanredno resen izgradnjom tunela i trase u vidu broja 8. sada je ova atrakcija postala turisticki veoma interesantna jer na toj deonici „sarganskom osmicom“ ponovo odjekuje klaparanje vagona i pisak parnjace muzejskog voza „nostalgija“. • u blizini mokre gore, preko granicnog prelaza kotroman, trasa e7 je, kroz prekogranicni projekat „e-crosspass”, spojena sa velikom pesackom stazom „kameni spavaci“ koja se proteze od planine majevice, preko tuzle, konjuha, olova, knezine, zljebova, borika i visegrada, do granic",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:51:04Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

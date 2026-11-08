@@ -89,12 +89,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/05/E4-5-Beograd-Osipaonica.gpx",
-        "fetched_at": "2026-11-08T12:50:15Z",
-        "checked_at": "2026-11-08T12:50:15Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 357342,
         "sha256": "af20d9678c319af56db26b6b99d60da5060c4822e4d4484073cc8bb03e187f5b",
         "etag": null,
-        "last_modified": "Thu, 05 Dec 2024 23:01:26 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": false,
         "points": 4949,
@@ -860,14 +860,14 @@
         "pss_id": 3636,
         "updated_at": "2024-12-05T23:01:38Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:50:15Z",
-        "last_synced_at": "2026-11-08T12:50:15Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "beograd (krnjaca) - osipaonica e4-5 sumadija avala avala pd beograd, tvrdjava kalemegdan, veliko ratno ostrvo, avala, vinca, smederevo, salinacki lug, laka • kroz beograd put e4 prirodno pocinje sa jednog od lepih predela evrope, pogleda na usce reka save i dunava sa tvrdjave kalemegdan koja pamti milenijumsku istoriju beograda, glavnog grada srbije. • na samom uscu nalazi se jedinstveno recno ostrvo nazvano ratnim ostrvom zbog istorijske granice turske i austrijske carevine i stalnih napada na beograd. • sada je ratno ostrvo zasticeno prirodno dobro zbog svoje geoloske, bioloske i hidroloske raznovrsnosti. • na grebenu iznad usca reke save u dunav a zbog izuzetnog strateskog znacaja, krajem prvog veka nase ere podignuto je utvrdjenje - rimski kastrum, kao stalni vojni logor iv flavijeve legije. posle rusenja od strane gota i huna, utvrdjenje je obnovljeno u prvim decenijama vi veka da bi se obnavljanja i gradjenja nastavila sve do xviii veka. u xii veku ga obnavlja vizantijski car manojlo komnin. iznad rimskih zidina su srpski bedemi (iz xiv-xv veka) a preko njih turske i austrijske fortifikacije. turci ga dodatno utvrdjuju u vreme njihove dominacije. pod austrijskom okupacijom, 1717-39. godine, beogradska tvrdjava je predstavljala jedno od najjacih vojnih uporista u evropi. gradjena je prema projektima generala nikole doksata demoreza, svajcarca u austrijskoj sluzbi nepravedno optuzenog i streljanog 1738. godine upravo pred bedemima tvrdjave. do kraja xviii veka beogradska tvrdjava je dobila konacni oblik da bi u ratnim razaranjima tokom proteklih decenija bili poruseni gotovo svi objekti u gornjem i donjem gradu, a bedemi znatno osteceni. • arheolozi i konzervatori se danas trude da ispitaju, sacuvaju i restauriraju sve sto je vezano za bogatu i burnu istoriju beogradske tvrdjave i grada beograda. • prelaskom dunava put je napustio istocni deo panonske ravnice i usao u pribrezje njegove desne obale. kroz gradske ulice, ",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:50:15Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

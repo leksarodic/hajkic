@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2022/04/3-22-4-Centar-Golubac.gpx",
-        "fetched_at": "2026-11-08T12:02:32Z",
-        "checked_at": "2026-11-08T12:02:32Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 25952,
         "sha256": "906c963f97f216beba668b12ddee904c163fe7e11afc9cbac59e7eb6444800ea",
         "etag": null,
-        "last_modified": "Sat, 30 Apr 2022 13:18:18 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 119,
@@ -166,14 +166,14 @@
         "pss_id": 16553,
         "updated_at": "2022-04-30T13:21:54Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:02:33Z",
-        "last_synced_at": "2026-11-08T12:02:33Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "divcibare centar - golubac 3-22-4 zapadna srbija maljen centar divcibara, 945 m golubac, 1056 m magles psd • vidikovac: golubac • naselje: divcibare • laka • ova turisticka staza u potpunosti se nalazi u centralnom delu divcibara. na samom pocetku nalazi se pravoslavna crkva svetog pantelejmona. prva inicijativa za podizanje crkve potekla je od protojereja m.tripkovica oko 1930.godine. gradnja je zapoceta u leto 1998.godine a 2000. godine je postavljen krst na kupolu. nalazi se na levoj obali potoka zujan. • na stazu se krece iz centra severo-istocno pored nove pijace kroz vikend naselje, prelazeci potok, ka velikoj ski stazi crni vrh. • ski staza se nalazi na severnoj strani crnog vrha u duzini od 850 m i visinske razlike od 180 m. na stazi je izgradjena dvosedna zicara kapaciteta 1200 skijasa na sat. skijaska staza se ubraja u ski staze crvene kategorije namenjena vestijim skijasima, vestacki se osnezava po potrebi. u letnjem periodu moze se koristiti za panoramsko razgledanje. • krecemo se severno asfaltnim putem pored vile jezero, vodovoda, odvajanja ka vili plamenac i stizemo do benziske pumpe na glavnom putu za centar divcibara. juzno glavnim putem posle 250 m skrece se na severo-zapad ka decijem odmaralistu stevan filipovic. ispred odmaralista polukruzno skrecemo ka jugu, prema starom otvorenom bazenu. na raskrsnici pored zapocetog kongresnog centra skrecemo zapadno ka vrhu golubca. na putu ka samom vrhu prolazi se uzbrdo kroz vikend naselje i cetinarsku sumu.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:02:33Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

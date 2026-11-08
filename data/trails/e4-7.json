@@ -74,12 +74,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/05/E4-7-V-Gradiste-Beljanica-vrh.gpx",
-        "fetched_at": "2026-11-08T12:50:35Z",
-        "checked_at": "2026-11-08T12:50:35Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 501517,
         "sha256": "8935fcf139785d59906ddb621cff5ebfbad1f6829d370e6e637b8966fad1a64d",
         "etag": null,
-        "last_modified": "Thu, 05 Dec 2024 23:02:58 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": false,
         "points": 6950,
@@ -903,14 +903,14 @@
         "pss_id": 3668,
         "updated_at": "2024-12-05T23:03:16Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:50:36Z",
-        "last_synced_at": "2026-11-08T12:50:36Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "veliko gradiste - beljanica vrh e4-7 istocna srbija branicevo gornjak pd golubac, zlatni pek, manastiri tumane i gornjak, pecine: ceremosnja, duboka, ravnistarka, majdanpek, rudna glava, rajkova pecina, lepenski vir zahtevna • desnom obalom dunava, koji je u ovom delu veliko jezero, put e4 ide prema gradu golupcu sa tvrdjavom iz xiv veka. tvrdjava je stitila ulaz u veliku klisuru dunava-djerdap, koja se u rumuniji zove port fere (gvozdena vrata). odavde pocinje teritorija nacionalnog parka djerdap. od golupca pesacki put napusta uzanu obalu reke i ulazi u planinski masiv severnog kucaja, prema gradu kucevo i zlatonosnoj reci pek. iz reke je tradicionalnim nacinom ispirano zlato iz recnog nanosa. rimski car hadrijan ovde je imao rudnike zlata i srebra od cega je kovao zlatni novac sa svojim likom. na mestu danasnjeg kuceva bio je utvrdjen grad guduskum. u ovom kraju pored izvanredne lepote u cistoce prirode, vrela, reka i suma, prisustvovacete sacuvanim cudesnim obicajima etno nasledja. ovim krajevima u hіh veku putovao je putopisac zigmund avgust heder i opisao tradiciju ispiranja zlata iz recnog nanosa. • na daljem pravcu puta prema klisuri reke mlave i gornjaku preko homoljskih planina nalaze se raznovrsni prirodni geomorfoloski fenomeni karstne oblasti homolja, izvori. vrela, ponornice, kanjoni i pecine. poznate su pecine ceremosnja, duboka i ravnistarka kod kuceva. • kod zagubice se nalazi izvor reke mlave koji istice iz velikog vrela uzlaznog tipa. u lepoj i ocuvanoj prirodi smesteni su srednjevekovni manastiri tumane kod golupca i manastir gornjak u klisuri reke mlave. homoljske planine su izvanredan prostor za sve vrste aktivnog istrazivackog turizma u otvorenoj prirodi.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:50:36Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

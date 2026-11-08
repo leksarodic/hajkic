@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/10/4-48-1_V_Vukan_od_man_Gornjak.gpx",
-        "fetched_at": "2026-11-08T11:59:04Z",
-        "checked_at": "2026-11-08T11:59:04Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 100200,
         "sha256": "e4c93b57e148104c21fe82ef1e428554e7b21fe00320e1167c1bfc7bc8b104ea",
         "etag": null,
-        "last_modified": "Fri, 20 Oct 2017 14:01:50 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 605,
@@ -190,14 +190,14 @@
         "pss_id": 5080,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:59:04Z",
-        "last_synced_at": "2026-11-08T11:59:04Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "veliki vukan od manastira gornjak do izvidjackog doma u zdrelu 4-48-1 istocna srbija vukan manastir gornjak (185m) izvodjacki dom u zdrelu (210m) gornjak pd • manastir gornjak • 4 vidikovca laka staza krece preko puta starog motela gornjak. prvi deo staze ide kroz sumu do vojinog salasa, dalje se ide putem do mesta gde se spaja sa stazom od cesme \"4 lule\" i stazom vodi do malog vukana a kasnije i velikog vukana. silazak je stazom ka izvidjackom domu u selu zdrelo.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:59:04Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

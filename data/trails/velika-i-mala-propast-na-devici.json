@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/08/4-31-7-Velika-i-Mala-Propast-na-Devici.gpx",
-        "fetched_at": "2026-11-08T11:57:41Z",
-        "checked_at": "2026-11-08T11:57:41Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 136381,
         "sha256": "be39b3c0e7d6b327a1566241caba5226788bcd8a16633e21e669450505eae6eb",
         "etag": null,
-        "last_modified": "Fri, 21 Dec 2018 11:51:28 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 812,
@@ -262,14 +262,14 @@
         "pss_id": 4576,
         "updated_at": "2018-12-21T11:52:43Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:57:42Z",
-        "last_synced_at": "2026-11-08T11:57:42Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "velika i mala propast na devici 4-31-7 istocna srbija devica stari rudnik, 458m stari rudnik, 458m ostra cuka pd • vidikovac: grozdinski kamen • na trasi ima izvor pitke vode • nema smestaja • naseljeno mesto: stari rudnik zahtevna • cilj staze: velika i mala propast • spaja sledece staze/puteve: spaja se sa stazom \"zdrelo\" i \"kanjonom izgarske reke (dikuliceva staza)\" • napomena: neophodna je opreznost u blizini male i velike propasti (nije obezbedjen prilaz)",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:57:42Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

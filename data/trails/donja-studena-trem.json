@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/08/7-3-6-Donja-Studena-Trem.gpx",
-        "fetched_at": "2026-11-08T11:57:05Z",
-        "checked_at": "2026-11-08T11:57:05Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 69553,
         "sha256": "04ecf919f167456d4dbec7ba746fe9baac630336f9f00fda028ddc20c205a1d4",
         "etag": null,
-        "last_modified": "Wed, 31 Jan 2018 11:13:34 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 569,
@@ -184,14 +184,14 @@
         "pss_id": 4485,
         "updated_at": "2025-10-30T16:07:47Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:57:06Z",
-        "last_synced_at": "2026-11-08T11:57:06Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "donja studena - trem 7-3-6 jugoistocna srbija suva planina autobuska stanica ispred doma kulture u donjoj studeni, 365m trem, 1810m zeleznicar pk nis dva izvora pitke vode na pocetku staze. vrlo teska",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:57:06Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

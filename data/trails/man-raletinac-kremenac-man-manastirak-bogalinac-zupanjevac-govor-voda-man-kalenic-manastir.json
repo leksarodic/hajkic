@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2019/05/2-14-19-Man.RaletinacManastirakKalenic.gpx",
-        "fetched_at": "2026-11-08T12:00:23Z",
-        "checked_at": "2026-11-08T12:00:23Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 613814,
         "sha256": "e7c972b336343431c5a5764be83ec99e2ef4afb12943b129e69dcf35a8c5345e",
         "etag": null,
-        "last_modified": "Fri, 10 May 2019 18:15:28 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 3725,
@@ -334,14 +334,14 @@
         "pss_id": 8950,
         "updated_at": "2019-10-30T17:30:43Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:00:24Z",
-        "last_synced_at": "2026-11-08T12:00:24Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "man. raletinac - kremenac - man. manastirak - bogalinac - zupanjevac - govor voda - man. kalenic (\"manastirska tura\") 2-14-19 sumadija gledicke planine manastir raletinac, 295m manastir kalenic, 456m zezelj pd • manastiri reletinac, manastirak i kalenic • arheolosko nalaziste zupanjevac • ostaci srednjovekovnog grada • izvor govor voda • na trasi ima 5 izvora pitke vode • veci broj vidikovaca • privatni smestaj na trasi: 2 • odmaralista na trasi: 2 zahtevna • ova \"manastirska\" ruta vodi nas od raletinca, preko manastirka sve do kalenica. • na pocetku se treba malo oznojiti - ocekuje nas intezivan uspon na kremenicku kosu (568m). a odatle cemo lako - najpre do vrha kremenac (640m), potom do lovacke kolibe (levo od puta, \"gospodari\" lepom livadom, prijatno mesto za predah) i na kraju nizbrdo do manastira manastirak. • iz velike krusevice se penjemo na uzani asfaltni put po dugackom grebenu i njime stizemo do bogalinca. dugacka asfaltna deonica (6,5 km) nam ipak nece previse tesko pasti jer je pesacenje lagano, put vrlo miran a vidici sjajni. • iznad zupanjevca prolazimo kroz arheoloski kompleks pa se penjemo pod brdo grad na kome se nalaze ostaci jos jednog drevnog grada. malo dalje, pod zapadnom stranom brda, stizemo do izvora govor voda i odmorista. voda je na jakom glasu - veruje se da je cudotvorna i da leci probleme sa govorom. na preostalom delu rute spustamo se do manastira kalenic - vecim delom lagano a samo na poslednjem kilometru intenzivno.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:00:24Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

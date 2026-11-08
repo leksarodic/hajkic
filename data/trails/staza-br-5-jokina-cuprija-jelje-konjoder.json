@@ -79,8 +79,8 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2023/03/Staza-5-Jokina-cuprija-Jelje-Konjoder.gpx",
-        "fetched_at": "2026-11-08T12:02:50Z",
-        "checked_at": "2026-11-08T12:02:50Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 188044,
         "sha256": "c1efbf696d7ad982ce913a1e83cd0939bf22a99e860779195020c554998a216a",
         "etag": null,
@@ -224,14 +224,14 @@
         "pss_id": 19094,
         "updated_at": "2023-03-21T19:34:00Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:02:50Z",
-        "last_synced_at": "2026-11-08T12:02:50Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "staza br. 5: jokina cuprija – jelje - konjoder 5-12-9 jugozapadna srbija zlatibor jokina cuprija (vodice) jokina cuprija (vodice) tornik pk vrh jelje (1411 m), vrh konjoder (1337 m), popov kolac, vidikovac, most jokina cuprija laka jokina cuprija – popov kolac (2,5 km) – donje biljege (3,5 km) – gornje biljege (5,1 km) – vrh jelje (6,4 km) – vrh konjoder (8,1 km) – vidikovac (11,7 km) – popov kolac (12,0 km) - jokina cuprija (14,5 km)",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:02:50Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

@@ -79,12 +79,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2023/08/Staza-4.gpx",
-        "fetched_at": "2026-11-08T12:03:36Z",
-        "checked_at": "2026-11-08T12:03:36Z",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
         "bytes": 78424,
         "sha256": "57716407bc3d2ee60cb56ff276247e24588bb6bf78be7be9be296201aef95592",
         "etag": null,
-        "last_modified": "Wed, 16 Aug 2023 21:58:12 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 991,
@@ -164,14 +164,14 @@
         "pss_id": 20033,
         "updated_at": "2023-11-26T19:36:50Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:03:36Z",
-        "last_synced_at": "2026-11-08T12:03:36Z"
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
     },
     "search": "promaja - v. cemernik (staza 4) 7-22-2 jugoistocna srbija cemernik promaja 1250 m vrh cemernik 1638 m svarog psu vrh cemernik laka staza pocinje u mestu promaja pored asfaltnog puta ,,surdulica - crna trava\". staza celom svojom duzinom prati prvo makadamski put kroz zaseoke prsini i sokolovi, a pri kraju staze je sumski put. uspon je umereno blag , osim par kracih deonica koje su dosta strme. zavrsnica uspona na vrh cemernik vodi kroz terene sa vestacki podignutim sumama cetinara. smer kretanja: - promaja - prsini (0,8 km) - sokolovi (2,5 km) - ispod kule – raskrsnica (5,7 km) - vrh cemernik (6,9 km)",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:03:36Z"
+        "generated_at": "2026-11-08T13:01:57Z"
     }
 }

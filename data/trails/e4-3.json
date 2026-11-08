@@ -79,12 +79,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/05/E4-3-Zrenjanin-Padina-1.gpx",
-        "fetched_at": "2026-11-08T12:50:13Z",
-        "checked_at": "2026-11-08T12:50:13Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 91399,
         "sha256": "725ae86d388a597eefdb010ec1bc43e0eb09702878a65855c445fd7acaee27db",
         "etag": null,
-        "last_modified": "Thu, 05 Dec 2024 22:59:49 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": false,
         "points": 1256,
@@ -380,14 +380,14 @@
         "pss_id": 3633,
         "updated_at": "2024-12-05T23:00:00Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:50:14Z",
-        "last_synced_at": "2026-11-08T12:50:14Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "zrenjanin - padina e4-3 vojvodina carska bara jelenak pd • specijalni rezervat prirode carska bara • selo belo blato, u neposrednoj blizini rezervata • ribnjaci ecka • crkva u farkazdinu • reka tamis • idvor, zaduzbina mihajla pupina (muzej, rodna kuca) • crkve u idvoru i uzdinu • ribnjak i veliko jezero kod uzdina • etno kuce u uzdinu i padini • bunar djeram u putnikovu • mnogobrojne bare, ribnjak i jezero kod uzdina • izletiste alas sa bunar dolam u padini • crkve u putnikovu i padini • kovacica (naivno slikarstvo) laka • iz zrenjanina treba svratiti u ecku i posetiti hotel u nekadasnjem kastelu. prilikom otvaranja dvorca 1820. godine na klaviru je sviralo cudo od deteta – devetogodisnji franc list. • i odmah odavde ulazi se u specijalni rezervat prirode stari begej – carska bara, sa bogatim i raznovrsnim zivim svetom. ovo je rezervat gde se gnezde i odmaraju brojne vrste ptica u vreme migracije. • u blizini trase e4, prema zapadu, vredi obici gradic titel i njegov lesni breg, geoloski spomenik prirode, u koji je tisa usekla visoku obalu. u selu idvor rodjen je mihajlo pupin, svetski priznati naucnik i pronalazac. u trouglu uzdin – kovacica – padina zivi mastoviti svet slikarske naive koja je osvojila svetske galerije.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:50:14Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

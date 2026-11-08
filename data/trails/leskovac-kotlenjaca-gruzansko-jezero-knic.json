@@ -58,12 +58,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2019/05/2-13-1-Leskovac-Kotlenjaca-Knic.gpx",
-        "fetched_at": "2026-11-08T12:00:18Z",
-        "checked_at": "2026-11-08T12:00:18Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 706595,
         "sha256": "a3ec8d9ab7000f6c1987af01bf2c6f2389f7bbca8c5249b5491e161edddeacbf",
         "etag": null,
-        "last_modified": "Fri, 10 May 2019 13:31:58 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 4323,
@@ -279,14 +279,14 @@
         "pss_id": 8935,
         "updated_at": "2019-05-10T14:21:24Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:00:19Z",
-        "last_synced_at": "2026-11-08T12:00:19Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "leskovac - kotlenjaca - gruzansko jezero - knic 2-13-1 sumadija kotlenik lekovac, 280m knic, 305m • vodopad kotlenjaca • ostaci starog grada • gruzansko jezero • vidikovci: 2 • izvori pitke vode na trasi: 5 • privatni smestaj, na trasi 2, van trase 1 (4km od starta) • odmaraliste na trasi 1 zahtevna • na ruti nema ekstremno napornih delova - ali je staza duga. vodi kroz nenastanjene predela kotlenika, pa uz sebe treba kao minimum imati zalihu vode, telefon i baterijsku lampu. iako je obelezena, gps uredjaj sa ucitanim trekom i tackama na ruti ce biti koristan \"alat\". • prvi deo rute je pretezno sumski. na 5 kilometru od starta uzivacemo u lepoj stazi usecenu u strmu stranu sa bukovom sumom, a posle vodopada na kotlenjaci (ativan uglavnom do aprila) izlazimo na brdo sa temeljima tajanstvenog starog grada. na 9 kilometru stizemo do odmorista na brdu cerje - vrh i lovacka koliba su samo nekoliko stotina metara dalje. odatle se brzo spustamo u pitomine oko gruzanskog jezera i izbijamo na njegovu obalu. divnom stazom uz vodu i kroz bukovu sumu stizemo do brane pa silazimo u pajsijevic - odatle nas ceka dug uspon na lipov vrh, a potom nam preostaje prijatan silazak u knic.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:00:19Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

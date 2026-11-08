@@ -74,12 +74,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/05/E4-2-Ada-Zrenjanin.gpx",
-        "fetched_at": "2026-11-08T12:50:11Z",
-        "checked_at": "2026-11-08T12:50:11Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 145300,
         "sha256": "4da58840b0421ac388238f2e4c5b9b42de05ed1e6ebe6800e48e1ce3ede09f06",
         "etag": null,
-        "last_modified": "Thu, 05 Dec 2024 22:58:00 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": false,
         "points": 2004,
@@ -541,14 +541,14 @@
         "pss_id": 3630,
         "updated_at": "2024-12-05T22:58:41Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:50:12Z",
-        "last_synced_at": "2026-11-08T12:50:12Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "ada - zrenjanin e4-2 vojvodina slano kopovo kindja pd • arheoloski lokalitet gradiste - idjos, • narodni muzej u kikindi (skelet mamuta), • manastir svete trojice, • ranohriscanska bazilika u araci, • jezero slano kopovo, • recica jegricka, • novi becej - dvorci, • banja rusanda - melenci, • grad zrenjanin. laka • ovdasnje puteve odredjivali su nekadasnji meandri reke tise koji su ostavili stare mocvare sa raznovrsnim ekosistemima bioloske raznovrsnosti. • ovde je slano kopovo, slatina sa vise od 200 vrsta ptica, zatim park prirode autohtone backe recice koja se zove jegricka sa svojim belim lokvanjima i mnostvom vodenog zivog sveta. u melencima je poznato istorijsko leciliste banja rusanda. • zanimljivi su prelasci preko mreze kanala izmedju reka tise i dunava i reke stari begej. put e4 stize u veliki grad zrenjanin, regionalni centar.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:50:12Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

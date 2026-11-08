@@ -89,12 +89,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/05/E4-11-Sikole-Sokobanja.gpx",
-        "fetched_at": "2026-11-08T12:50:40Z",
-        "checked_at": "2026-11-08T12:50:40Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 456634,
         "sha256": "15142546ba46708b0846f451eded0bfd9b87e46fe7aca64ee52341361c4b48f8",
         "etag": null,
-        "last_modified": "Thu, 05 Dec 2024 23:05:55 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 6229,
@@ -826,14 +826,14 @@
         "pss_id": 3680,
         "updated_at": "2024-12-05T23:06:02Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:50:41Z",
-        "last_synced_at": "2026-11-08T12:50:41Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "sikole - sokobanja e4-11 istocna srbija kucaj malinik crni vrh psd crni vrh, brestovacka i sokobanja, naselje zlot, kanjon lazareve reke, planina malinik, bogovinska pecina, crni timok, gamzigrad (felix romuliana), planina rtanj, vodopad ripaljka zahtevna • posle zaista pitomih predela vinogroja negotinske krajine put e4 penje se prema grebenu planina deli jovan i veliki krs, sa raznovrsnom prirodom, sumama i stenovitim grebenim i vrhovima gde je potrebno uloziti malo vise napora. • iza toga put silazi u rudarsko naselje krivelj koje pretstavlja deo velikog kompleksa rudnika bakra bor. stizemo u podrucje gde se susrecu geoloska raznovrsnost, industrijsko nasledje i nazalost ekoloski problemi velike eksploatacije rude i razaranja zemljista i prirode. • bor je veliki rudarski grad sa znacajnim institucijama nauke, kulture i nasledja. treba obici muzej rudarstva koje je u ovom basenu traje jos iz praistorije. • iz borskog basena, gde pokalni pejsaz uporno podseca na posledice iskopavanja i prerade rude bakra, put e4 prelazi u sumovite predele planine crni vrh sa zanimljivim vulkanskim reljefom, kupastim uzvisenjima koja se na lokalnom jeziku zovu „coke”. u blizini trase nalaze se veoma zanimljiva brestovacka banja sa muzejskom postavkom kuce za odmor srpskog kneza milosa obrenovica iz hіh veka. • kod naselja zlot, reljef se potpuno menja zbog karbonatnih stena i izrazite kraske zije. ovde se nalazi veliki kanjon lazareve reke i istoimena pecina sa snaznim kraskim vrelom. pecina je uredjena za turisticke posete. u njoj je bilo staniste praistorijskog coveka. • preko planine malinik (1158mnv) sa izvanrednim pogledima na duboki kanjon lazareve reke i okolne planine, put se spusta u dolinu reke crni timok koja svojom cistocom meandrima i vrbacima podseca na price iz romana marka tvena o nestasnom decaku tomu sojeru. na tom putu je bogovinska pecina - jedna od najduzih u srbiji. • od prethodnog naselja zlot put se moze odabrati i kroz kotlinu preko mesta sarbanovac do poznatog i vrednog arheoloskog lokaliteta gamzigrad.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:50:41Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

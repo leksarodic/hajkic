@@ -69,8 +69,8 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/05/1-4-3.gpx",
-        "fetched_at": "2026-11-08T12:49:50Z",
-        "checked_at": "2026-11-08T12:49:50Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 7303,
         "sha256": "015160fbdf0f5535a0a7c234419ee95bdadc0529516180e98674688c8ddd96bd",
         "etag": null,
@@ -156,14 +156,14 @@
         "pss_id": 3535,
         "updated_at": "2023-03-11T10:33:53Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:49:51Z",
-        "last_synced_at": "2026-11-08T12:49:51Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "manastir mesic 1-4-3 vojvodina vrsacke planine planinarski dom \"siroko bilo\" manastir mesic vrsacka kula psd laka staza je deonica vrsacke transverzale t-1-3",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:49:51Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

@@ -1,0 +1,842 @@
+{
+    "schema_version": 1,
+    "slug": "e7-13",
+    "name": "Sjenica - Gradac",
+    "code": "E7-13",
+    "category": {
+        "key": "evropski-pesacki-putevi-u-srbiji",
+        "label": "Evropski pešački putevi u Srbiji"
+    },
+    "pss": {
+        "post_id": 3821,
+        "category_id": 29,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            34
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Golija",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevan"
+    },
+    "distance": {
+        "official_km": 133.6,
+        "calculated_km": 133.6
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": 2543.0,
+        "official_loss_m": 2637.0,
+        "calculated_gain_m": 0.0,
+        "calculated_loss_m": 0.0,
+        "min_m": 0.0,
+        "max_m": 0.0
+    },
+    "start": null,
+    "end": null,
+    "description": "• Od Sjenice, pored meandara bistre rečice Vape put E7 lagano se penje\nprema visokim grebenima planine Golije i njenom najvišem vrhu\nJankov kamen (1833m). To je najviša planina Starog Vlaha sa blagim\ngrebenima prekrivenim livadama i šumama. Prirodne vrednosti,\nbogata flora i fauna, brojna izvorišta vode doprineli su da se Golija\nproglasi za Park prirode, a zatim od komisije UNESCO za Rezervat\nbiosfere „Golija - Studenica”.\n\n • Sa grebena Golije put silazi u dolinu Ljudske reke sa velikom visinskom\nrazlikom i prelazi preko ogranaka planine Ninaje do manastira\nSopoćani iz 13. veka. Manastir je oslikan izvanrednim freskama\nod druge polovine 13. veka spada među najlepše manastire u Srbiji.\n\n • Freska Uspenje Presevete Bogorodice na izložbi u Parizu 1961.\ngodine proglašena je za najlepšu fresku srednjeg veka. Manastir je\npod zaštitom UNESCO. Od Sopoćana put E7 prolazi kroz arheološki\nlokalitet Gradina na kome se nalaze ostaci stare tvrđave Ras iz\ndoba dinastije Nemanjića, a ispod nje nekadašnje Trgovište (staro\nPazarište) sa ostacima objekata jednog složenog naselja. Istorijski\nse potvrđuje da je ovde bila prestonica prve srednjevekovne srpske\ndržave Raške.\n\n • Posle nekoliko kilometara stiže se u Novi Pazar grad podignut\n15. veku. Grad je veoma lep i u njemu se mešaju uticaji hrišćanske i\nislamske kulture. Najvažniji islamski spomenik je Altun-alem džamija\n(džamija sa dragim kamenom) podignuta u 16. veku. Stari amam iz druge\npolovine 15. veka najstarije je tursko kupatilo u Srbiji. Grad je poznat\nkroz istoriju kao zanatsko-trgovačka varoš. Vredi obići i zanimljiv\ngradski muzej.\n\n • Na periferiji Novog Pazara put prolazi pored najstarije crkve u\nSrbiji, izgrađene u 8. i 9. veku na temeljima ranohrišćanske građevine\niz 6. veka. Crkva je posvećena Svetom Petru i Pavlu. Od ove crkve\nput E7 podužuje prema manastiru Đurđevi Stupovi podignutom oko\n1170. godine, posvećenom Svetom Đorđu. Njegova arhitektura sadrži\nromanske uticaje.\n\n • Dalje put E7 ide istočnim padinama planine Golije kroz prirodu i\ntipična sela ovog dela Srbije do manastira Gradac. Ovaj manastir\npodignut je u 13. veku kao grobna crkva kraljice Jelene Anžujske,\nžene kralja Uroša I. Građen je u poznom romaničnom stilu i jedna je\nod bogatije ukrašenih građevina Srbije 13. veka. Manastir okružuju\nguste šume planine Golije.",
+    "landmarks": "Rezervat biosfere \"Golija-Studenica\", manastiri Sopoćani, Đurđevi stupovi, Gradac, Crkva sv. Petra i Pavla, arheološki lokalitet Gradina, Novi Pazar, Altum-alem džamija",
+    "maintenance": null,
+    "marking": "evropska crveno-žuta",
+    "accommodation": "Sjenica, Golijska reka, Odvraćenica, Sopoćani, Šaronje, Novi Pazar, Đurđevi stupovi, Trnava, m.Gradac, Raška",
+    "notes": "• E7-13-1 Sjenica – Dunišiće 9,2 km\n\n • E7-13-2 Dunišiće – Jankov kamen 26,4 km\n\n • E7-13-3 Jankov kamen – Odvraćenica 9,0 km\n\n • E7-13-4 Odvraćenica – Osaonica 11,6 km\n\n • E7-13-5 Osaonica – Sopoćani 16,8 km\n\n • E7-13-6 Sopoćani – Novi Pazar 17,8 km\n\n • E7-13-7 Novi Pazar – Deževa 1,8 km\n\n • E7-13-8 Deževa – Boroviće 20,0 km\n\n • E7-13-9 Boroviće – Gradac 11,0 km",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Golija PD",
+        "url": "https://pss.rs/adresar_klubova/golija-pd/",
+        "contact": "Braće Rabrenović 11, 32250 Ivanjica\n062 223797",
+        "clubs": [
+            {
+                "name": "Golija PD",
+                "url": "https://pss.rs/adresar_klubova/golija-pd/",
+                "contact": "Braće Rabrenović 11, 32250 Ivanjica\n062 223797"
+            },
+            {
+                "name": "Sandžak PK",
+                "url": "https://pss.rs/adresar_klubova/sandzak-pk/",
+                "contact": "Rifata Burdžovića 10, 36300 Novi Pazar\n+38165 63 12 221; +38165 90 54 784\nhttps://www.pdsandzak.org.rs/"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/E7-13-Sjenica-Gradac.gpx",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
+        "bytes": 308699,
+        "sha256": "09b0633ecc9337c45c326088ce699605ab75fc56321419d6b0197de3aaf0557d",
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": 4271,
+        "tracks": 9,
+        "segments": 9,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/E7-13-Sjenica-Gradac.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/e7-13.geojson",
+        "bbox": [
+            20.00048608,
+            43.110879692,
+            20.543479722,
+            43.368740264
+        ],
+        "center": [
+            20.271983,
+            43.23981
+        ],
+        "start_point": [
+            20.00048608,
+            43.273227359
+        ],
+        "end_point": [
+            20.543479722,
+            43.368633241
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    20.00049,
+                    43.27323
+                ],
+                [
+                    20.00866,
+                    43.27183
+                ],
+                [
+                    20.01258,
+                    43.27671
+                ],
+                [
+                    20.01936,
+                    43.27664
+                ],
+                [
+                    20.02031,
+                    43.28052
+                ],
+                [
+                    20.02853,
+                    43.28465
+                ],
+                [
+                    20.05349,
+                    43.28904
+                ],
+                [
+                    20.05495,
+                    43.29845
+                ],
+                [
+                    20.0601,
+                    43.30499
+                ],
+                [
+                    20.05908,
+                    43.30775
+                ],
+                [
+                    20.06179,
+                    43.31113
+                ],
+                [
+                    20.07215,
+                    43.31618
+                ]
+            ],
+            [
+                [
+                    20.07223,
+                    43.31618
+                ],
+                [
+                    20.07617,
+                    43.31657
+                ],
+                [
+                    20.07969,
+                    43.32506
+                ],
+                [
+                    20.07887,
+                    43.32869
+                ],
+                [
+                    20.08568,
+                    43.32753
+                ],
+                [
+                    20.09756,
+                    43.33338
+                ],
+                [
+                    20.10475,
+                    43.33437
+                ],
+                [
+                    20.11466,
+                    43.33314
+                ],
+                [
+                    20.12983,
+                    43.32616
+                ],
+                [
+                    20.13521,
+                    43.31958
+                ],
+                [
+                    20.14141,
+                    43.31775
+                ],
+                [
+                    20.14484,
+                    43.31216
+                ],
+                [
+                    20.16396,
+                    43.31491
+                ],
+                [
+                    20.16826,
+                    43.308
+                ],
+                [
+                    20.1749,
+                    43.30374
+                ],
+                [
+                    20.17422,
+                    43.29778
+                ],
+                [
+                    20.18965,
+                    43.28803
+                ],
+                [
+                    20.19253,
+                    43.28216
+                ],
+                [
+                    20.21714,
+                    43.30506
+                ],
+                [
+                    20.23628,
+                    43.31536
+                ],
+                [
+                    20.23913,
+                    43.32882
+                ],
+                [
+                    20.24512,
+                    43.33324
+                ],
+                [
+                    20.26069,
+                    43.3315
+                ],
+                [
+                    20.26983,
+                    43.33492
+                ],
+                [
+                    20.28275,
+                    43.33089
+                ]
+            ],
+            [
+                [
+                    20.28276,
+                    43.33088
+                ],
+                [
+                    20.28264,
+                    43.32684
+                ],
+                [
+                    20.29257,
+                    43.31813
+                ],
+                [
+                    20.29427,
+                    43.3114
+                ],
+                [
+                    20.30047,
+                    43.30947
+                ],
+                [
+                    20.30906,
+                    43.3021
+                ],
+                [
+                    20.30635,
+                    43.29724
+                ],
+                [
+                    20.31132,
+                    43.29148
+                ],
+                [
+                    20.32602,
+                    43.28328
+                ],
+                [
+                    20.34457,
+                    43.27655
+                ]
+            ],
+            [
+                [
+                    20.34457,
+                    43.27655
+                ],
+                [
+                    20.34813,
+                    43.27535
+                ],
+                [
+                    20.34808,
+                    43.26759
+                ],
+                [
+                    20.34528,
+                    43.26077
+                ],
+                [
+                    20.34225,
+                    43.25942
+                ],
+                [
+                    20.34271,
+                    43.25395
+                ],
+                [
+                    20.33893,
+                    43.24698
+                ],
+                [
+                    20.34392,
+                    43.2435
+                ],
+                [
+                    20.34026,
+                    43.23717
+                ],
+                [
+                    20.34727,
+                    43.22521
+                ],
+                [
+                    20.33664,
+                    43.22147
+                ],
+                [
+                    20.3279,
+                    43.214
+                ],
+                [
+                    20.32261,
+                    43.20385
+                ],
+                [
+                    20.31401,
+                    43.20157
+                ]
+            ],
+            [
+                [
+                    20.31396,
+                    43.2016
+                ],
+                [
+                    20.31084,
+                    43.20124
+                ],
+                [
+                    20.30803,
+                    43.19765
+                ],
+                [
+                    20.31031,
+                    43.19611
+                ],
+                [
+                    20.30356,
+                    43.19696
+                ],
+                [
+                    20.30176,
+                    43.19556
+                ],
+                [
+                    20.3015,
+                    43.19387
+                ],
+                [
+                    20.30501,
+                    43.19402
+                ],
+                [
+                    20.30895,
+                    43.19055
+                ],
+                [
+                    20.31009,
+                    43.17864
+                ],
+                [
+                    20.31616,
+                    43.17483
+                ],
+                [
+                    20.31512,
+                    43.17247
+                ],
+                [
+                    20.31886,
+                    43.17206
+                ],
+                [
+                    20.32616,
+                    43.16581
+                ],
+                [
+                    20.32891,
+                    43.16067
+                ],
+                [
+                    20.34522,
+                    43.15308
+                ],
+                [
+                    20.35213,
+                    43.15189
+                ],
+                [
+                    20.35767,
+                    43.14685
+                ],
+                [
+                    20.3614,
+                    43.13471
+                ],
+                [
+                    20.37011,
+                    43.132
+                ],
+                [
+                    20.37507,
+                    43.13529
+                ],
+                [
+                    20.3753,
+                    43.12623
+                ],
+                [
+                    20.37831,
+                    43.12245
+                ],
+                [
+                    20.37234,
+                    43.12194
+                ],
+                [
+                    20.36965,
+                    43.11883
+                ],
+                [
+                    20.37306,
+                    43.11661
+                ]
+            ],
+            [
+                [
+                    20.37238,
+                    43.11712
+                ],
+                [
+                    20.37177,
+                    43.11561
+                ],
+                [
+                    20.37535,
+                    43.11639
+                ],
+                [
+                    20.37949,
+                    43.11362
+                ],
+                [
+                    20.38159,
+                    43.11437
+                ],
+                [
+                    20.38618,
+                    43.11088
+                ],
+                [
+                    20.39935,
+                    43.12066
+                ],
+                [
+                    20.39898,
+                    43.11652
+                ],
+                [
+                    20.4072,
+                    43.12026
+                ],
+                [
+                    20.41047,
+                    43.12563
+                ],
+                [
+                    20.41701,
+                    43.1282
+                ],
+                [
+                    20.41764,
+                    43.13029
+                ],
+                [
+                    20.41806,
+                    43.12869
+                ],
+                [
+                    20.42096,
+                    43.13391
+                ],
+                [
+                    20.42627,
+                    43.13697
+                ],
+                [
+                    20.42832,
+                    43.14176
+                ],
+                [
+                    20.43478,
+                    43.13893
+                ],
+                [
+                    20.44725,
+                    43.13962
+                ],
+                [
+                    20.44667,
+                    43.13744
+                ],
+                [
+                    20.44944,
+                    43.13565
+                ],
+                [
+                    20.4615,
+                    43.13724
+                ],
+                [
+                    20.48093,
+                    43.13321
+                ],
+                [
+                    20.48771,
+                    43.1354
+                ],
+                [
+                    20.49837,
+                    43.13488
+                ],
+                [
+                    20.49747,
+                    43.13737
+                ],
+                [
+                    20.51753,
+                    43.14072
+                ]
+            ],
+            [
+                [
+                    20.51764,
+                    43.1408
+                ],
+                [
+                    20.50778,
+                    43.15429
+                ],
+                [
+                    20.49915,
+                    43.15656
+                ],
+                [
+                    20.49085,
+                    43.16241
+                ],
+                [
+                    20.49022,
+                    43.16485
+                ],
+                [
+                    20.4953,
+                    43.1653
+                ],
+                [
+                    20.49592,
+                    43.16856
+                ],
+                [
+                    20.48604,
+                    43.16728
+                ],
+                [
+                    20.49107,
+                    43.17936
+                ],
+                [
+                    20.48324,
+                    43.17851
+                ],
+                [
+                    20.47457,
+                    43.18077
+                ],
+                [
+                    20.4741,
+                    43.18923
+                ],
+                [
+                    20.47723,
+                    43.18989
+                ],
+                [
+                    20.47595,
+                    43.19191
+                ],
+                [
+                    20.47826,
+                    43.19346
+                ],
+                [
+                    20.47705,
+                    43.20188
+                ],
+                [
+                    20.48041,
+                    43.20384
+                ]
+            ],
+            [
+                [
+                    20.48041,
+                    43.20384
+                ],
+                [
+                    20.48234,
+                    43.20782
+                ],
+                [
+                    20.49117,
+                    43.21376
+                ],
+                [
+                    20.48312,
+                    43.21823
+                ],
+                [
+                    20.48278,
+                    43.22374
+                ],
+                [
+                    20.48154,
+                    43.22223
+                ],
+                [
+                    20.47993,
+                    43.22351
+                ],
+                [
+                    20.47981,
+                    43.23063
+                ],
+                [
+                    20.47147,
+                    43.2316
+                ],
+                [
+                    20.47123,
+                    43.24058
+                ],
+                [
+                    20.47879,
+                    43.24661
+                ],
+                [
+                    20.46621,
+                    43.25295
+                ],
+                [
+                    20.46759,
+                    43.25665
+                ],
+                [
+                    20.46451,
+                    43.26571
+                ],
+                [
+                    20.47297,
+                    43.27804
+                ],
+                [
+                    20.45948,
+                    43.29379
+                ],
+                [
+                    20.46639,
+                    43.30515
+                ],
+                [
+                    20.46935,
+                    43.30576
+                ],
+                [
+                    20.48074,
+                    43.30001
+                ],
+                [
+                    20.48444,
+                    43.30271
+                ],
+                [
+                    20.48532,
+                    43.30721
+                ],
+                [
+                    20.48699,
+                    43.30613
+                ],
+                [
+                    20.48645,
+                    43.30887
+                ],
+                [
+                    20.49614,
+                    43.30964
+                ],
+                [
+                    20.4963,
+                    43.31117
+                ],
+                [
+                    20.49106,
+                    43.31205
+                ]
+            ],
+            [
+                [
+                    20.49106,
+                    43.31205
+                ],
+                [
+                    20.4872,
+                    43.31667
+                ],
+                [
+                    20.49237,
+                    43.32226
+                ],
+                [
+                    20.48744,
+                    43.33804
+                ],
+                [
+                    20.49275,
+                    43.34311
+                ],
+                [
+                    20.4937,
+                    43.34721
+                ],
+                [
+                    20.49838,
+                    43.34847
+                ],
+                [
+                    20.50602,
+                    43.34517
+                ],
+                [
+                    20.5097,
+                    43.34603
+                ],
+                [
+                    20.51628,
+                    43.35519
+                ],
+                [
+                    20.51719,
+                    43.36443
+                ],
+                [
+                    20.52199,
+                    43.36599
+                ],
+                [
+                    20.52922,
+                    43.36501
+                ],
+                [
+                    20.54348,
+                    43.36863
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": [
+            "missing_elevation"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/e7-13/",
+        "canonical_url": "https://pss.rs/terenipp/e7-13/",
+        "pss_id": 3821,
+        "updated_at": "2024-12-07T21:30:52Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
+    },
+    "search": "sjenica - gradac e7-13 jugozapadna srbija golija golija pd rezervat biosfere \"golija-studenica\", manastiri sopocani, djurdjevi stupovi, gradac, crkva sv. petra i pavla, arheoloski lokalitet gradina, novi pazar, altum-alem dzamija zahtevna • od sjenice, pored meandara bistre recice vape put e7 lagano se penje prema visokim grebenima planine golije i njenom najvisem vrhu jankov kamen (1833m). to je najvisa planina starog vlaha sa blagim grebenima prekrivenim livadama i sumama. prirodne vrednosti, bogata flora i fauna, brojna izvorista vode doprineli su da se golija proglasi za park prirode, a zatim od komisije unesco za rezervat biosfere „golija - studenica”. • sa grebena golije put silazi u dolinu ljudske reke sa velikom visinskom razlikom i prelazi preko ogranaka planine ninaje do manastira sopocani iz 13. veka. manastir je oslikan izvanrednim freskama od druge polovine 13. veka spada medju najlepse manastire u srbiji. • freska uspenje presevete bogorodice na izlozbi u parizu 1961. godine proglasena je za najlepsu fresku srednjeg veka. manastir je pod zastitom unesco. od sopocana put e7 prolazi kroz arheoloski lokalitet gradina na kome se nalaze ostaci stare tvrdjave ras iz doba dinastije nemanjica, a ispod nje nekadasnje trgoviste (staro pazariste) sa ostacima objekata jednog slozenog naselja. istorijski se potvrdjuje da je ovde bila prestonica prve srednjevekovne srpske drzave raske. • posle nekoliko kilometara stize se u novi pazar grad podignut 15. veku. grad je veoma lep i u njemu se mesaju uticaji hriscanske i islamske kulture. najvazniji islamski spomenik je altun-alem dzamija (dzamija sa dragim kamenom) podignuta u 16. veku. stari amam iz druge polovine 15. veka najstarije je tursko kupatilo u srbiji. grad je poznat kroz istoriju kao zanatsko-trgovacka varos. vredi obici i zanimljiv gradski muzej. • na periferiji novog pazara put prolazi pored najstarije crkve u srbiji, izgradjene u 8. i 9. veku na temeljima ranohriscanske gradjevine iz 6. veka. crkva je posvecena svetom petru i pavlu. od ove ",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T13:01:56Z"
+    }
+}

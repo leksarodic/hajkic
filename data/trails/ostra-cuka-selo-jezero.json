@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/05/4-31-1-Ostra-cuka-Jezero.gpx",
-        "fetched_at": "2026-11-08T11:55:25Z",
-        "checked_at": "2026-11-08T11:55:25Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 12615,
         "sha256": "80c5e0e05a6c270f553a719b2da8fbc1d4a112306616475ffb3f3a67b7ea63d3",
         "etag": null,
-        "last_modified": "Fri, 21 Dec 2018 10:20:20 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 92,
@@ -162,14 +162,14 @@
         "pss_id": 3797,
         "updated_at": "2018-12-21T10:23:45Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:55:25Z",
-        "last_synced_at": "2026-11-08T11:55:25Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "ostra cuka- selo jezero 4-31-1 istocna srbija devica ostra cuka - vrh, 1075m selo jezero, 820m ostra cuka pd • vidikovac: ostra cuka • na stazi nema izvora pitke vode • na staze nema smestaja laka spaja sledece staze/puteve: \"vlasina - leskovik\", \"sokobanja - golemi kamen - ostra cuka\" i \"sokobanja - kalinovica - ostra cuka\"",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:55:25Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

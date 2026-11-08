@@ -1,0 +1,701 @@
+{
+    "schema_version": 1,
+    "slug": "e7-17",
+    "name": "Gornja Trnava - Vlasotince",
+    "code": "E7-17",
+    "category": {
+        "key": "evropski-pesacki-putevi-u-srbiji",
+        "label": "Evropski pešački putevi u Srbiji"
+    },
+    "pss": {
+        "post_id": 3873,
+        "category_id": 29,
+        "region_ids": [
+            7
+        ],
+        "mountain_ids": [
+            50
+        ]
+    },
+    "region": "Jugoistočna Srbija",
+    "mountain": "Suva planina",
+    "difficulty": {
+        "key": "zahtevna",
+        "label": "Zahtevna",
+        "source": "zahtevan"
+    },
+    "distance": {
+        "official_km": 99.1,
+        "calculated_km": 99.87
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": 4200.0,
+        "official_loss_m": 3900.0,
+        "calculated_gain_m": 129.3,
+        "calculated_loss_m": 585.1,
+        "min_m": 201.0,
+        "max_m": 1327.0
+    },
+    "start": null,
+    "end": null,
+    "description": "• Iz sela Gornja Trnava put E7 prolazi kroz selo Cerje u kome se nalazi\njedna od najvećih i najatraktivnijih pećina u Srbiji, pripremljena\nza posetioce zainteresovane za istraživački speleoturizam, sa\nvodičima i speleološkom opremom. Od Cerja put se penje na izletište\nKamenički vis (814m) odakle se pruža izvanredan vidik na grad Niš\ni okolinu. Zatim se spušta preko sela Kamenica ka periferiji grada\nNiša.\n\n • Grad Niš, danas kulturni, univerzitetski i privredni centar\nJugoistočne Srbije nalazi se na reci Nišavi u blizini ušća u reku\nJužnu Moravu. Dolinama ovih reka vode glavni putevi prema Bugarskoj\ni Grčkoj. Niš je podignut na temeljima starog rimskog grada koji se\nzvao Naisus. U ovom gradu rodio se rimski car Konstantin Veliki,\npoznat kao donosilac čuvenog Milanskog Edikta (313. godine) kojim je\npriznato hrišćanstvo kao državna religija. Istorijsko nasleđe Niša\nje veoma bogato, od staror Rima zatim Vizantije, Bugarske, Ugarske,\nsrednjevekovne Srbije, Turske imperije, sa brojnim spomenicima.\n\n • Velika tvrđava podignuta je u periodu turske okupacije početkom 18.\nveka. Spomenik Ćele kula podignut je posle herojske bitke malobrojnih\nsrpskih ustanika sa Turcima na brdu Čegar početkom 19. veka. Turski\nkomandant naredio je da se sve lobanje ubijenih Srba uzidaju u kulu\nkao upozorenje srpskom narodu da mora biti poslušan. Od 852 ugrađene\nlobanje sačuvano je samo 58.\n\n • Pešačeći uz reku Nišavu stiže se u Nišku Banju, termalno\nlečilište još iz rimskog perioda. U njenoj blizini nalazi se\narheološko nalazište Medijana letnja rezidencija cara Konstantina\nVelikog (oko 330 godine). Pronađeni su ostaci carske palate, termi i\nizuzetno očuvani mozaici. Iz Niške Banje put E7 podiže se na visoke\ngrebene Suve planine koja je poznati planinarski centar sa mrežom\nobeleženih pešačkih puteva i staza. U blizin se nalazi Jelašnička\nklisura i Sićevačka klisura dva velika centra za sportsko penjanje na\nprirodnoj steni. Put E7 preko Suve planine, čiji je najveći vrh Trem\nvisok 1809 metara, predstavlja donekle zahtevan pešački napor, ali bez posebnih, tehnički rizičnih, detalja osim delimično kamenitih\nterena.\n\n • Sa Suve planine put silazi preko jugozapadne padine u dolinu Zaplanje,\na zatim preko niske planine Kruševice silazi u grad Vlasotince.\n\n • Grad Vlasotince na bistroj reci Vlasini predstavlja tradicionalno\nsredište poznatog Vlasotinačkog vinogorja u kome se decenijama\nodržava manifestacija „Vinski bal” krajem meseca avgusta, na kome\nse bira „Boginja vina” i proglašava Nezavisna vinska kneževina.\n\n • U Gradskom muzeju nalaze se vredni eksponati još od vremena prvog\npominjanja ove varoši tokom 16. veka, pa do savremenih likovnih\nstvaralaca.",
+    "landmarks": "Cerje (pećina), Kamenički vis, Niška banja, grad Niš (Naisus, Čegar), Suva planina (Trem), Jelašnička i Sićevačka klisura, Vlasotince (\"Vinski bal\")",
+    "maintenance": null,
+    "marking": "evropska crveno-žuta",
+    "accommodation": "Niš, Niška banja, Bojanine vode, Kosmovac, V.Krčimir, R.Dubrava, Vlasotince",
+    "notes": "• E7-17-1 Gornja Trnava – Kamenički vis 16,0 km\n\n • E7-17-2 Kamenički vis – Niška Banja 22,5 km\n\n • E7-17-3 Niška Banja – Bojanine vode 15,9 km\n\n • E7-17-4 Bojanine vode – Gornji Prisjan 27,9 km\n\n • E7-17-5 Gornji Prisjan – Vlasotince 16,8 km",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": {
+        "name": "Brđanka PSK",
+        "url": "https://pss.rs/adresar_klubova/psd-brdanka/",
+        "contact": "Dušana Trivunca 54, 18220 Aleksinac\n060 680 29 75\nhttp://www.planinari-brdjanka.org",
+        "clubs": [
+            {
+                "name": "Brđanka PSK",
+                "url": "https://pss.rs/adresar_klubova/psd-brdanka/",
+                "contact": "Dušana Trivunca 54, 18220 Aleksinac\n060 680 29 75\nhttp://www.planinari-brdjanka.org"
+            },
+            {
+                "name": "Čemernik PD",
+                "url": "https://pss.rs/adresar_klubova/cemernik-pd/",
+                "contact": "Marka Oreškovića 4, 16210 Vlasotince\n+38116 876 000 ; +38162 896 01 62"
+            },
+            {
+                "name": "Morič PD",
+                "url": "https://pss.rs/adresar_klubova/moric-pd/",
+                "contact": "Nemanjina 37, 16210 Vlasotince\n+38162 17 55 729"
+            },
+            {
+                "name": "Suva Planina PD",
+                "url": "https://pss.rs/adresar_klubova/suva-planina-pd/",
+                "contact": "Tvrđava bb, 18000 Niš\n+38163 40 44 74\nhttps://www.pdsuvaplanina.rs/"
+            },
+            {
+                "name": "Toplica PSK",
+                "url": "https://pss.rs/adresar_klubova/toplica-psk/",
+                "contact": "Adresa Arsenija Čarnojevića III br.117 , 18400 Prokuplje\n065/229-2622"
+            }
+        ]
+    },
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/05/E7-17-Gornja-Trnava-Vlasotince.gpx",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
+        "bytes": 655004,
+        "sha256": "af6a5b002f85703c7ab58cb10c430b1b9d48373948989e45c67770dbbfebecfd",
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": 9077,
+        "tracks": 5,
+        "segments": 5,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/05/E7-17-Gornja-Trnava-Vlasotince.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/e7-17.geojson",
+        "bbox": [
+            21.82135,
+            42.963689396,
+            22.226712632,
+            43.433719969
+        ],
+        "center": [
+            22.024031,
+            43.198705
+        ],
+        "start_point": [
+            21.82135,
+            43.42982
+        ],
+        "end_point": [
+            22.135388915,
+            42.963689396
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    21.82135,
+                    43.42982
+                ],
+                [
+                    21.82954,
+                    43.42946
+                ],
+                [
+                    21.83802,
+                    43.43176
+                ],
+                [
+                    21.85405,
+                    43.42683
+                ],
+                [
+                    21.86368,
+                    43.433
+                ],
+                [
+                    21.86729,
+                    43.43346
+                ],
+                [
+                    21.86803,
+                    43.43168
+                ],
+                [
+                    21.87687,
+                    43.43372
+                ],
+                [
+                    21.88696,
+                    43.43259
+                ],
+                [
+                    21.89267,
+                    43.42952
+                ],
+                [
+                    21.89891,
+                    43.43121
+                ],
+                [
+                    21.90802,
+                    43.42911
+                ],
+                [
+                    21.941,
+                    43.43056
+                ],
+                [
+                    21.94826,
+                    43.42709
+                ],
+                [
+                    21.95512,
+                    43.4195
+                ],
+                [
+                    21.95486,
+                    43.41606
+                ],
+                [
+                    21.95816,
+                    43.4148
+                ],
+                [
+                    21.958,
+                    43.40679
+                ],
+                [
+                    21.95448,
+                    43.4042
+                ],
+                [
+                    21.9533,
+                    43.39847
+                ]
+            ],
+            [
+                [
+                    21.9533,
+                    43.39847
+                ],
+                [
+                    21.94706,
+                    43.39464
+                ],
+                [
+                    21.94582,
+                    43.39033
+                ],
+                [
+                    21.94006,
+                    43.38838
+                ],
+                [
+                    21.94045,
+                    43.38311
+                ],
+                [
+                    21.9383,
+                    43.38207
+                ],
+                [
+                    21.94425,
+                    43.37796
+                ],
+                [
+                    21.93931,
+                    43.37402
+                ],
+                [
+                    21.94179,
+                    43.36609
+                ],
+                [
+                    21.93903,
+                    43.36454
+                ],
+                [
+                    21.93999,
+                    43.36167
+                ],
+                [
+                    21.9382,
+                    43.35987
+                ],
+                [
+                    21.91797,
+                    43.35903
+                ],
+                [
+                    21.916,
+                    43.35739
+                ],
+                [
+                    21.91169,
+                    43.35238
+                ],
+                [
+                    21.91382,
+                    43.35045
+                ],
+                [
+                    21.90909,
+                    43.34215
+                ],
+                [
+                    21.90664,
+                    43.34172
+                ],
+                [
+                    21.9064,
+                    43.33479
+                ],
+                [
+                    21.90956,
+                    43.33452
+                ],
+                [
+                    21.9064,
+                    43.32835
+                ],
+                [
+                    21.90876,
+                    43.32615
+                ],
+                [
+                    21.93175,
+                    43.3253
+                ],
+                [
+                    21.94141,
+                    43.31998
+                ],
+                [
+                    21.95352,
+                    43.32011
+                ],
+                [
+                    21.96999,
+                    43.31332
+                ],
+                [
+                    21.98094,
+                    43.31274
+                ],
+                [
+                    21.98484,
+                    43.30691
+                ],
+                [
+                    21.99664,
+                    43.30472
+                ],
+                [
+                    22.00118,
+                    43.30583
+                ],
+                [
+                    22.00025,
+                    43.30066
+                ],
+                [
+                    21.99832,
+                    43.30041
+                ],
+                [
+                    22.00494,
+                    43.2934
+                ]
+            ],
+            [
+                [
+                    22.00494,
+                    43.2934
+                ],
+                [
+                    22.01152,
+                    43.2899
+                ],
+                [
+                    22.00668,
+                    43.28927
+                ],
+                [
+                    22.00953,
+                    43.28829
+                ],
+                [
+                    22.0055,
+                    43.28637
+                ],
+                [
+                    22.02099,
+                    43.27725
+                ],
+                [
+                    22.02374,
+                    43.27306
+                ],
+                [
+                    22.03,
+                    43.27228
+                ],
+                [
+                    22.03712,
+                    43.26386
+                ],
+                [
+                    22.04807,
+                    43.25895
+                ],
+                [
+                    22.05015,
+                    43.25981
+                ],
+                [
+                    22.05231,
+                    43.2556
+                ],
+                [
+                    22.05975,
+                    43.25226
+                ],
+                [
+                    22.06782,
+                    43.24972
+                ],
+                [
+                    22.07708,
+                    43.25028
+                ],
+                [
+                    22.08881,
+                    43.23042
+                ],
+                [
+                    22.0976,
+                    43.22526
+                ],
+                [
+                    22.10317,
+                    43.22377
+                ],
+                [
+                    22.10533,
+                    43.225
+                ],
+                [
+                    22.11371,
+                    43.2205
+                ]
+            ],
+            [
+                [
+                    22.11371,
+                    43.2205
+                ],
+                [
+                    22.11747,
+                    43.2177
+                ],
+                [
+                    22.12159,
+                    43.21761
+                ],
+                [
+                    22.12683,
+                    43.2112
+                ],
+                [
+                    22.13432,
+                    43.2087
+                ],
+                [
+                    22.14353,
+                    43.19773
+                ],
+                [
+                    22.14973,
+                    43.19369
+                ],
+                [
+                    22.14502,
+                    43.19289
+                ],
+                [
+                    22.13914,
+                    43.1947
+                ],
+                [
+                    22.13829,
+                    43.1899
+                ],
+                [
+                    22.14473,
+                    43.18408
+                ],
+                [
+                    22.14671,
+                    43.17681
+                ],
+                [
+                    22.15032,
+                    43.17433
+                ],
+                [
+                    22.16198,
+                    43.15504
+                ],
+                [
+                    22.16544,
+                    43.15378
+                ],
+                [
+                    22.16492,
+                    43.14899
+                ],
+                [
+                    22.1732,
+                    43.14359
+                ],
+                [
+                    22.16863,
+                    43.13832
+                ],
+                [
+                    22.17149,
+                    43.13814
+                ],
+                [
+                    22.17198,
+                    43.13503
+                ],
+                [
+                    22.17777,
+                    43.13052
+                ],
+                [
+                    22.17602,
+                    43.12892
+                ],
+                [
+                    22.18391,
+                    43.12769
+                ],
+                [
+                    22.19024,
+                    43.12199
+                ],
+                [
+                    22.18483,
+                    43.11387
+                ],
+                [
+                    22.18923,
+                    43.1162
+                ],
+                [
+                    22.19595,
+                    43.11297
+                ],
+                [
+                    22.19719,
+                    43.11399
+                ],
+                [
+                    22.21553,
+                    43.09145
+                ],
+                [
+                    22.22671,
+                    43.08481
+                ],
+                [
+                    22.2217,
+                    43.07341
+                ],
+                [
+                    22.22176,
+                    43.06705
+                ],
+                [
+                    22.21803,
+                    43.06587
+                ],
+                [
+                    22.22197,
+                    43.06228
+                ],
+                [
+                    22.21681,
+                    43.06044
+                ],
+                [
+                    22.21937,
+                    43.05774
+                ]
+            ],
+            [
+                [
+                    22.21937,
+                    43.05774
+                ],
+                [
+                    22.21151,
+                    43.05134
+                ],
+                [
+                    22.21194,
+                    43.04367
+                ],
+                [
+                    22.21625,
+                    43.03506
+                ],
+                [
+                    22.21088,
+                    43.03336
+                ],
+                [
+                    22.20663,
+                    43.02882
+                ],
+                [
+                    22.20197,
+                    43.029
+                ],
+                [
+                    22.19318,
+                    43.02601
+                ],
+                [
+                    22.19309,
+                    43.0244
+                ],
+                [
+                    22.18316,
+                    43.02564
+                ],
+                [
+                    22.17006,
+                    43.02003
+                ],
+                [
+                    22.164,
+                    43.01005
+                ],
+                [
+                    22.16085,
+                    43.00641
+                ],
+                [
+                    22.15717,
+                    43.00629
+                ],
+                [
+                    22.15709,
+                    43.00223
+                ],
+                [
+                    22.14918,
+                    42.99632
+                ],
+                [
+                    22.14805,
+                    42.99308
+                ],
+                [
+                    22.13924,
+                    42.99116
+                ],
+                [
+                    22.13775,
+                    42.98372
+                ],
+                [
+                    22.1395,
+                    42.9829
+                ],
+                [
+                    22.1359,
+                    42.97889
+                ],
+                [
+                    22.13475,
+                    42.96987
+                ],
+                [
+                    22.13163,
+                    42.96786
+                ],
+                [
+                    22.13539,
+                    42.96369
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "complete",
+        "issues": [
+            "missing_elevation"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/e7-17/",
+        "canonical_url": "https://pss.rs/terenipp/e7-17/",
+        "pss_id": 3873,
+        "updated_at": "2024-12-07T21:33:35Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
+    },
+    "search": "gornja trnava - vlasotince e7-17 jugoistocna srbija suva planina brdjanka psk cerje (pecina), kamenicki vis, niska banja, grad nis (naisus, cegar), suva planina (trem), jelasnicka i sicevacka klisura, vlasotince (\"vinski bal\") zahtevna • iz sela gornja trnava put e7 prolazi kroz selo cerje u kome se nalazi jedna od najvecih i najatraktivnijih pecina u srbiji, pripremljena za posetioce zainteresovane za istrazivacki speleoturizam, sa vodicima i speleoloskom opremom. od cerja put se penje na izletiste kamenicki vis (814m) odakle se pruza izvanredan vidik na grad nis i okolinu. zatim se spusta preko sela kamenica ka periferiji grada nisa. • grad nis, danas kulturni, univerzitetski i privredni centar jugoistocne srbije nalazi se na reci nisavi u blizini usca u reku juznu moravu. dolinama ovih reka vode glavni putevi prema bugarskoj i grckoj. nis je podignut na temeljima starog rimskog grada koji se zvao naisus. u ovom gradu rodio se rimski car konstantin veliki, poznat kao donosilac cuvenog milanskog edikta (313. godine) kojim je priznato hriscanstvo kao drzavna religija. istorijsko nasledje nisa je veoma bogato, od staror rima zatim vizantije, bugarske, ugarske, srednjevekovne srbije, turske imperije, sa brojnim spomenicima. • velika tvrdjava podignuta je u periodu turske okupacije pocetkom 18. veka. spomenik cele kula podignut je posle herojske bitke malobrojnih srpskih ustanika sa turcima na brdu cegar pocetkom 19. veka. turski komandant naredio je da se sve lobanje ubijenih srba uzidaju u kulu kao upozorenje srpskom narodu da mora biti poslusan. od 852 ugradjene lobanje sacuvano je samo 58. • pesaceci uz reku nisavu stize se u nisku banju, termalno leciliste jos iz rimskog perioda. u njenoj blizini nalazi se arheolosko nalaziste medijana letnja rezidencija cara konstantina velikog (oko 330 godine). pronadjeni su ostaci carske palate, termi i izuzetno ocuvani mozaici. iz niske banje put e7 podize se na visoke grebene suve planine koja je poznati planinarski centar sa mrezom obelezenih pesackih puteva",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T13:01:56Z"
+    }
+}

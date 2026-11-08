@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2022/04/3-18-1-Radanovci-Obradovic.gpx",
-        "fetched_at": "2026-11-08T12:02:34Z",
-        "checked_at": "2026-11-08T12:02:34Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 101131,
         "sha256": "01422d9b6c5f132d217bab24d6a21630ac932516019e8d9fd270a41b7134d979",
         "etag": null,
-        "last_modified": "Thu, 28 Apr 2022 10:26:33 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 597,
@@ -206,14 +206,14 @@
         "pss_id": 16565,
         "updated_at": "2022-04-28T15:12:47Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:02:34Z",
-        "last_synced_at": "2026-11-08T12:02:34Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "selo radanovci - \"obradovici\" 3-18-1 zapadna srbija magles selo radanovci (zaseok cirovine), 665 m etno domacinstvo \"obradovic\" (podbukovi), 524 m povlen pk • spomenik zikici jovanovicu spancu • vidikovci: 3 • naselja: radanovci, drenovci, podbukovi • planinarsko skloniste \"kik\" • privatni smestaj na trasi: 1 • odmaraliste na trasi: 1 laka start staze je u selu radanovci (zaseok cirovine). iz pravca beograda i uzica najlakse je doci preko kosjerica (put je prohodan i za velike autobuse). dalje se ide uzbrdo prema uzvisenju gde je spomenik zikici jovanovicu spancu. odatle se pruza lep pogled prema kozomoru i subjelu. staza produzava dalje makadamskim putem u pravcu sela drenovci. prolazi preko tunela drenovacki kik (pruga beograd-bar), stazom juzno od vrha drenovacki kik (946 m) i penje na vrh mali basinac (876 m). staza posle produzava na vrh veliki basinac (821 m). potom, izbija na asfaltni put valjevo-kosjeric, na koti 759 kaona. dalje se sa kaone ide u pravcu valjeva oko 500 m, pa skrece desno nizbrdo preko babinog groba i dalje do etno domacinstava „obradovici“.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:02:34Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

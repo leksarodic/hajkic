@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/08/1-14-1-Obalom-Jegicke.gpx",
-        "fetched_at": "2026-11-08T11:56:47Z",
-        "checked_at": "2026-11-08T11:56:47Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 44963,
         "sha256": "31e51886ddbabbb206acfa033bd354068c16b3f9abd7c2eb0dcd8c48e3fef85f",
         "etag": null,
-        "last_modified": "Mon, 13 Dec 2021 15:22:40 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 272,
@@ -178,14 +178,14 @@
         "pss_id": 4469,
         "updated_at": "2021-12-13T15:26:37Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:56:48Z",
-        "last_synced_at": "2026-11-08T11:56:48Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "obalom jegricke 1-14-1 vojvodina park prirode jegricka-sirig planinarski-lovacki dom na levoj obali jegricke-sirig planinarski-lovacki dom na levoj obali jegricke-sirig sirig psk • obala reke jegricke • vojvodjanski salasi - hevirov salas, salas \"mali kojot\" • planinarski-lovacki dom na trasi • kamp na trasi • 2 odmaralista na trasi laka start kod motela, nizvodno desnom obalom jegricke, preko mosta na malom kanalu pa do salasa mali kojot. potom se nastavlja obalom jegricke pa preko mosta na levu obalu, dalje se ide uzvodno pored hevirovog salasa i nazad do motela.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:56:48Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

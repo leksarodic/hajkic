@@ -89,12 +89,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/05/E7-5-Novi-Sad-Sremska-Mitrovica.gpx",
-        "fetched_at": "2026-11-08T12:50:53Z",
-        "checked_at": "2026-11-08T12:50:53Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 179532,
         "sha256": "cb61502349563c3654efd7b5841f47187165b203f53cdc2f3d46641247ba9e5b",
         "etag": null,
-        "last_modified": "Sat, 07 Dec 2024 21:23:36 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": false,
         "points": 2479,
@@ -618,14 +618,14 @@
         "pss_id": 3717,
         "updated_at": "2024-12-07T21:23:51Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:50:54Z",
-        "last_synced_at": "2026-11-08T12:50:54Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "novi sad - sremska mitrovica e7-5 vojvodina fruska gora borkovac pk begecka jama (park prirode), fruska gora, novi sad, petrovaradin, sremski karlovci, fruskogorski manastiri, banja vrdnik, irig, sremska mitrovica (sirmijum) laka • iz novog sada prelazimo preko dunava i ulazimo u zidine velike petrovaradinske tvrdjave koja je obelezila istoriju ovog grada kroz vekovnu borbu turske i austrougarske imperije. sa pravom je nazivaju „gibraltar na dunavu”. tvrdjava je podignuta na visokoj steni na ostacima nekadasnjeg rimskog, a zatim vizantijskog i ugarskog utvrdjenja. gradjena je od 1692. do 1780. godine. u stenovitom podzemlju izgradjena su cetiri sprata sa 16,5 kilometara podzemnih galerija, 12.000 puskarnica i 13 kapija. danas je tvrdjava turisticko srediste sa brojnim kulturnim dogadjajima. sa tvrdjave se pruza izvanredan vidik prema gradu i obalama dunava. • iz petrovaradina put e7 ide padinama desne obale dunava pored istorijski zanimljive crkve marije snezne na cijem tornju se nalaze hriscanski krst i muhamedanski polumesec, kao obelezje borbe za prevlast i konacne pobede nad turskom imperijom. odavde put se penje na brdo vezirac (194 m/nv) na kome je 1716. go dine odrzana istorijska petrovaradinska bitka izmedju austrijske vojske pod komandom eugena savojskog sa brojnim jedinicama u kojima su bili srbi i vojske turske imperije. • pobedom austrijske vojske turska je konacno udaljena od granica austrougarske. • nastavljajuci putem dolazimo do barokne varosice sremski karlovci koja je bila srpski kulturni centar i duhovna prestonica za vreme turske okupacije srbije. u centru varosice nalaze se izvanredne barokne gradjevine, saborna crkva svetog nikole. patrijarsijski dvor, эgrada najstarije gimnazije u srbiji. ceo kraj obiluje vinogradima a u gradu se nalaze proizvodjaci kvalitetnih vina. preko puta, na levoj obali dunava, se nalazi prostrani specijalni rezervat prirode koviljsko-petrovaradinski rit. to je plavno podrucje reke dunav sa ritovima, adama i vlaznim livadama. u njemu se nalazi znacajno s",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:50:54Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

@@ -70,7 +70,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T11:59:02Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -111,14 +111,14 @@
         "pss_id": 4617,
         "updated_at": "2017-08-20T17:59:36Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:59:02Z",
-        "last_synced_at": "2026-11-08T11:59:02Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "dikuliceva staza - klisura zdrelo 4-31-10 istocna srbija devica stari rudnik (citluk) - 470 mnv (kruzna staza) stari rudnik (citluk) - 470 mnv ostra cuka pd laka",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:59:02Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

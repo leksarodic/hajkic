@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/08/4-47-3-Kamenica-Sreckovo-vrelo-Kamenicka-karaula.gpx",
-        "fetched_at": "2026-11-08T11:57:16Z",
-        "checked_at": "2026-11-08T11:57:16Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 38162,
         "sha256": "2f2d9a315c52f305ef1a600aa2b81d6698563d391f0eafefe9045f0a2d52e72f",
         "etag": null,
-        "last_modified": "Wed, 31 Jan 2018 10:54:47 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 304,
@@ -162,14 +162,14 @@
         "pss_id": 4491,
         "updated_at": "2020-08-24T15:28:47Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:57:17Z",
-        "last_synced_at": "2026-11-08T11:57:17Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "kamenica - sreckovo vrelo - kamenicka karaula 4-47-3 istocna srbija kalafat spomenik u centru sela kamenica, 365m kamenicka karaula, 783m zeleznicar pk nis • staza je zahtevna i na jednom delu staze je potrebna opreznost srednje teska staza: kamenica (365m) - sreckovo vrelo - kamenicka karaula (783m)",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:57:17Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

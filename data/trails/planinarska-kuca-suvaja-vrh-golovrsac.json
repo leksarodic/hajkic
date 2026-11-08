@@ -79,12 +79,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2024/12/Golovrsac_trek_2021-06-05.gpx",
-        "fetched_at": "2026-11-08T12:06:10Z",
-        "checked_at": "2026-11-08T12:06:10Z",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
         "bytes": 403311,
         "sha256": "19a606b0c4712a81ce62f41dbd339aaa35fde9660885ae9ee48c9bdadf4cc454",
         "etag": null,
-        "last_modified": "Tue, 10 Dec 2024 21:51:56 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 1525,
@@ -176,14 +176,14 @@
         "pss_id": 25701,
         "updated_at": "2024-12-10T22:03:18Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:06:11Z",
-        "last_synced_at": "2026-11-08T12:06:11Z"
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
     },
     "search": "planinarska kuca „suvaja\"- vrh golovrsac 4-9-2 istocna srbija beljanica planinarska kuca „suvaja\" 376 m planinarska kuca „suvaja\" 376 m beljanica pd vidikovci: vidikovac ka kanjonu resave i vidikovac ka klisuri reke cemernice naselja i zaseoci sa nazivima: sela strmosten i lisine, opstine despotovac. znacajni lokaliteti: prirodni/hidro-kompleks lisine, prasuma vinatovaca. laka polazna tacka je kod planinarske kuce „suvaja\" na planini beljanici. visina sa koje se polazi i gde se nalazi planinarski objekat je 376 mnv. ispred planinarske kuce „suvaja\" se nalazi adekvatan parking za automobile, kombi i autobuski prevoz. staza je markirana od polazne tacke do vrha beljanice (1339 mnv). polaskom od planinarskog objekta, krecemo se livadama dok ne zadjemo u sumoviti potez cerjak gde se krecemo utabanom paninarskom stazom sa blagim usponima do izlaska na livadu sa koje se baca pogled ka stenovitom masivu sokolice i ispupcenom vrhu golovrsca (951 mnv). utabana staza vodi pored samog vrha cerjak (695 mnv) koji se nalazi sa desne strane prilikom izlaska na livadu. dalje nastavljamo utabanom stazom preko livade do kolskog puta. na kolskom putu se ukazuju planinarski putokazi, odnosno planinarske table koje dalje vode ka vidikovcu mecja leska (sklopovi), vrhu golovrsac (95 jmnv) i vrhu beljanice (1339 mnv). staza od planinarskog objekta do kolskog puta vremenski se prelazi za 1 cas. od trenutka izlaska na kolski put do skretanja za vidikovac mecja leska (sklopovi) potrebno je 15 minuta laganog hoda. vidikovac je jasno obelezen putokazima i tablama. od kolskog puta do samog vidikovca potrebno je 10 minuta laganog hoda u jednom pravcu (nije uracunato u celokupno predjeno vreme do vrha golovrsca i nazad). vidikovac je jako strm i ne preporucuje se da na vidikovcu bude veci broj planinara u isto vreme. sa vidikovca se baca pogled na kanjon reke resave i sa druge strane na sumoviti i stenoviti predeo vita bukva (901 mnv). povratak do kolskog puta sa vidikovca je istom stazom. dalje kolskim putem se krecemo oko 500 m odakle naglo na levo skrecemo ka vrhu golovrsca. od skretanja sa kolskog puta do vrha golovrsca vremenski je potrebno 1 cas i 30minuta i pocinje kon",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:06:11Z"
+        "generated_at": "2026-11-08T13:01:57Z"
     }
 }

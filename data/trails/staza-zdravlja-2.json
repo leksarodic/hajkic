@@ -80,7 +80,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T11:55:49Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -121,14 +121,14 @@
         "pss_id": 3857,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:55:49Z",
-        "last_synced_at": "2026-11-08T11:55:49Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "staza zdravlja 2 2-14-4 sumadija gledicke planine grabovac 165mnv manastir ljubostinja 200 mnv ljukten psd laka",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:55:49Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

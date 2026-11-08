@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/08/4-47-5-Kravlje-Pecurina-Ljuti-vrh.gpx",
-        "fetched_at": "2026-11-08T11:57:20Z",
-        "checked_at": "2026-11-08T11:57:20Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 23765,
         "sha256": "b22cfd4700eb28a89e9f86ef4bbf63af0f0d6231f7afe22c21fb7c9616ea8d3c",
         "etag": null,
-        "last_modified": "Wed, 31 Jan 2018 11:01:30 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 184,
@@ -148,14 +148,14 @@
         "pss_id": 4493,
         "updated_at": "2018-01-31T11:02:16Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:57:20Z",
-        "last_synced_at": "2026-11-08T11:57:20Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "kravlje - pecurina - ljuti vrh 4-47-5 istocna srbija kalafat autobusko stajaliste i cesma u selu kravlje, 300m ljuti vrh, 783m zeleznicar pk nis laka",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:57:20Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

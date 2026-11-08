@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2021/01/3-14-2-4-izvora-Povlena.gpx",
-        "fetched_at": "2026-11-08T12:01:37Z",
-        "checked_at": "2026-11-08T12:01:37Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 138475,
         "sha256": "94666e8dc21d20819602d0936f246f145257902baeffc16d5d18cbda01fd0448",
         "etag": null,
-        "last_modified": "Fri, 08 Jan 2021 12:12:36 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 1153,
@@ -210,14 +210,14 @@
         "pss_id": 12733,
         "updated_at": "2022-04-28T15:48:11Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:01:38Z",
-        "last_synced_at": "2026-11-08T12:01:38Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "4 izvora povlena 3-14-2 zapadna srbija povlen planinarska kuca \"povlenski kucerak\", 1145,8 m planinarska kuca \"povlenski kucerak\", 1145,8 m povlen pk • 4 vidikovca • crkva sv. stefana arhidjakona • u blizini povlenske kugle laka staza je kruzna. start i cilj je planinarska kuca \"povlenski kucerak\" ispod velikog povlena. od planinarske kuce se silazi makadamskim putem prema debelom brdu, skrece desno na istok i dijavickim putem ulazi u bukovu sumu i nakon 4,5 km nailazi se na izvor povlenske reke. ovde se nalazi lep od drveta sagradjen letnjikovac. odatle se sumskim putem staza penje na stenoviti deo koji se zove ploce, gde ima istaknut vidikovac. dalje se staza penje na srednji povlen (1301 m) koji ostaje desno, pa onda silazi do izvora reke cetinje. staza dalje produzava preko travnatog proplanka guzvara i dolazi do crkve sv. arhidjakona stefana na knezevu polju. na knezevu polju je treci izvor, na 1200 m, poznat kao stojadinov izvor. smatra se da je ta voda najkvalitetnija. od izvora penje se na bezimeni vis (vidikovac na juznu i jugoistocnu stranu povlena). odatle se staza penje istocnu stranu na vrh malog povlena (1347 m). sa vrha staza silazi severnom padinom na knezevo polje, pa vododerinom na makadamski put prema makovistu. staza se dalje vraca ka planinarskoj kuci i nailazi na cetvrti izvor koji se zove madzarija.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:01:38Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

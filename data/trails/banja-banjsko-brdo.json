@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2020/11/5-11-1-Banjsko-brdo.gpx",
-        "fetched_at": "2026-11-08T12:01:32Z",
-        "checked_at": "2026-11-08T12:01:32Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 221708,
         "sha256": "23129fe644e014e3552137b5a165deb7c588e16aec3008203021265f2d0896c4",
         "etag": null,
-        "last_modified": "Fri, 20 Nov 2020 15:10:56 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 1349,
@@ -226,14 +226,14 @@
         "pss_id": 12511,
         "updated_at": "2020-11-20T15:17:59Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:01:32Z",
-        "last_synced_at": "2026-11-08T12:01:32Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "banja - banjsko brdo 5-11-1 jugozapadna srbija stari vlah pribojska banja - os \"nikola tesla\", 580 m pribojska banja - os \"nikola tesla\", 580 m ljeskovac zkp • pribojska banja • manastir sv. nikole • vidikovac: banjsko brdo • naselje: gracanica • na trasi ima 1 izvor pitke vode • u naselju pribojska banja postoje bazeni termalne izvorske vode kao i veliki broj privatnog smestaja namenjenog banjskom turizmu. zahtevna • od os \"nikola tesla\" na banji ide se u pravcu istoka ka naselju gracanica (sedlo ispod velikog krsa). odatle u pravcu severoistoka staza se spusta ka potoku miajlovac, a odatle u pravcu jugozapada ide ka groblju saponjica i ka previji. od previje u pravcu juga staza ide ka vrhu banjskog brda. sa vrha banjskog brda pruza se pogled u pravcu 360 stepeni. sa banjskog brda staza se vraca ka previji a onda u smeru severa, iduci grebenom pot, staza dolazi do petibora (raskrsnica puteva). u pravcu severozapada staza vodi ka manastiru uvac. u pravcu jugozapada spustamo se ka pjevcevom vrelu (izvor pijace vode). odatle u pravcu juga spusta se ka zaseoku gracanica i staza dalje vodi ka pribojskoj banji. • staza se spaja sa stazom kanjon kratovske reke u pravcu istoka preko zaseoka orasac. sa severne stane vezuje se sa stazom ka manastiru uvac.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:01:32Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

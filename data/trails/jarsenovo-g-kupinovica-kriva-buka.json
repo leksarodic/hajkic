@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2022/02/7-1-2-Staza-br.17-Jarsenovo-G.Kupinovica-Kriva-Buka.gpx",
-        "fetched_at": "2026-11-08T12:02:20Z",
-        "checked_at": "2026-11-08T12:02:20Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 367381,
         "sha256": "2add8d176923408cbfb790f34bc94d90aa86dd190d88092e7ae6a3685484cb3b",
         "etag": null,
-        "last_modified": "Fri, 04 Feb 2022 11:52:49 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 2251,
@@ -198,14 +198,14 @@
         "pss_id": 15678,
         "updated_at": "2022-10-31T19:36:18Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:02:21Z",
-        "last_synced_at": "2026-11-08T12:02:21Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "jarsenovo - g. kupinovica - kriva buka 7-1-2 jugoistocna srbija babicka gora selo jarsenovo, 530 m vrh kriva buka, 1059 m kukavica psk • vidikovac ka planini ostrozub • vidikovac ka radan planini • sela: jarsenovo, gornja kupinovica, jasunja i golema njiva • 2 manastira \"leskovacke svete gore\" zahtevna • selo jarsenovo - kota 611 m - manastir sv. jovan - vikend naselje - zaseok sela golema njiva - zenski manastir vavedenje presvete bogorodice - 2. sumska kuca i izvor - vrh kriva buka • sa stazom \"crni kamen\" pravi kruznu stazu duzine 19,5 km. • jedan izvor pitke vode pored staze",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:02:21Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

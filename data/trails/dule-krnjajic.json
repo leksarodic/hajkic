@@ -79,12 +79,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2023/05/8-Dusan-Krnjajic-data.gpx",
-        "fetched_at": "2026-11-08T12:03:27Z",
-        "checked_at": "2026-11-08T12:03:27Z",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
         "bytes": 46854,
         "sha256": "09f575044c14fe6b0a8de4206021d9cb99d290797f1779495908f6fadc72e66b",
         "etag": null,
-        "last_modified": "Sun, 07 May 2023 19:01:59 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 530,
@@ -192,14 +192,14 @@
         "pss_id": 19525,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:03:27Z",
-        "last_synced_at": "2026-11-08T12:03:27Z"
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
     },
     "search": "dule krnjajic 5-17-2 jugozapadna srbija ovcar medjuvrsje, pejicina krivina - 280 m ducalovici, cesma stublina - 645 m kablar pd manastir vaznesenje laka staza krece iz medjuvrsja sa magistralnog puta kod lakat krivine pejice, uspon pored groblja do proplanka na cijem se kraju nalzi lep vidikovac. nastavak staze kroz sumu, gotovo ravno do manastira vaznesenje. zatim uspon kroz sumu sa blazim usponima do cesme stublina.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:03:27Z"
+        "generated_at": "2026-11-08T13:01:57Z"
     }
 }

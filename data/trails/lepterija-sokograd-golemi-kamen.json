@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2021/03/4-31-13-Lepterija-Sokograd-Golemi-kamen.gpx",
-        "fetched_at": "2026-11-08T12:01:55Z",
-        "checked_at": "2026-11-08T12:01:55Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 77671,
         "sha256": "0a61f4d87984e65f8a4e7bf507688b5d82e39cb42d898db8c2a92909b558c26b",
         "etag": null,
-        "last_modified": "Tue, 30 Mar 2021 18:26:47 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 450,
@@ -162,14 +162,14 @@
         "pss_id": 13396,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:01:55Z",
-        "last_synced_at": "2026-11-08T12:01:55Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "lepterija - sokograd - golemi kamen 4-31-13 istocna srbija devica izletiste lepterija, 320 m izletiste lepterija, 320 m ozren pk • izletiste lepterija, sokograd • vidikovci: golemi kamen, siljati kamen, sokograd • na trasi ima izvora pitke vode • smestaj: kamp laka staza polazi sa izletista lepterija uzvodno pored reke moravice. zatim skrece udesno i prolazi pored dve pecine. nastavlja sumskom stazom sa nesto jacim usponom do vidikovca golemi kamen (panoramski pogled na sokobanjsku kotlinu). odatle ide sumskom stazom po pribliznoj izohipsi iznad sokograda. skrece ulevo i spusta se jednom kosom do vidikovca siljati kamen (pogled na kanjon moravice i sokograd). staza se nesto strmije spusta do kanjona reke moravice i nastavlja tim kanjonom. potom se penje do zidina starog grada - sokograda. odatle se silazi putem sa serpentinama do reke moravice i stazom pored reke se stize do startnog mesta. staza je samostalna i koristi se za dan pesacenja \"srbija hoda\".",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:01:55Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

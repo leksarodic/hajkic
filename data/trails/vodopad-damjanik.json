@@ -70,7 +70,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T11:57:28Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -110,14 +110,14 @@
         "pss_id": 4501,
         "updated_at": "2017-08-20T13:07:35Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:57:28Z",
-        "last_synced_at": "2026-11-08T11:57:28Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "vodopad damjanik 7-20-3 jugoistocna srbija besna kobila selo nesvrta, 920m selo nesvrta, 920m zeleznicar 2006 pk vranje vodopad damjanik zahtevna bezbednost: potrebna opreznost",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:57:28Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

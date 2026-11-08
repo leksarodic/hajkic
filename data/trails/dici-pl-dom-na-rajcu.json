@@ -69,8 +69,8 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/05/3-20-5-Dici-Rajac-dom.gpx",
-        "fetched_at": "2026-11-08T12:50:06Z",
-        "checked_at": "2026-11-08T12:50:06Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 59609,
         "sha256": "2a9871c6668c74ac35c4c48daad5679779ad03a07ef2cb641ca754ada83fca95",
         "etag": null,
@@ -194,14 +194,14 @@
         "pss_id": 3617,
         "updated_at": "2021-07-03T11:48:50Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:50:07Z",
-        "last_synced_at": "2026-11-08T12:50:07Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "dici – pl. dom na rajcu 3-20-5 zapadna srbija suvobor s. dici (most na r. dragobilj), 200 m pl. dom na rajcu, 625 m pobeda psk • spomenik \"1300 kaplara\" srednje teska staza krece iz s. dici od mosta na reci dragobilj, kod petlje na ibarskoj magistrali i novog auto-puta i penje se pravcem jug, naizmenicno kroz predeo obrastao sumom i livadske proplanke.prolazi zapadno od kote 406 - palez, a zatim neposredno ispod kote 486 – dudic i dalje ide makadamskim putem do zaseoka radivojevici. zatim ulazi u bukovu sumu ka repinom brdu - kota 574 i dalje ka lipovaci, zapadno od kote 683. na lipovaci izlazi na makadamski put koji od s. boljkovci (iz pravca rudnika) vodi ka rajcu. tu staza skrece na zapad i makadamskim putem prolazi iznad canka i zapadno od debelog brda, pored doma izvidjaca i cesme na rajcu, stize u planinarski dom ”cika dusko jovanovic” na rajcu.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:50:07Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

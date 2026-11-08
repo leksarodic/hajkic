@@ -79,12 +79,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2023/03/Staza-6-Zlatibor-Spomenik-Cuker.gpx",
-        "fetched_at": "2026-11-08T12:02:51Z",
-        "checked_at": "2026-11-08T12:02:51Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 350408,
         "sha256": "e6fba89eda8ed24243c42e8e83952a6e8a82e7835e1f448dcd5c5eea0778e85d",
         "etag": null,
-        "last_modified": "Sun, 26 Mar 2023 13:38:47 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 4648,
@@ -248,14 +248,14 @@
         "pss_id": 19111,
         "updated_at": "2023-03-26T14:02:16Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:02:52Z",
-        "last_synced_at": "2026-11-08T12:02:52Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "staza br. 6: zlatibor – spomenik - cuker 5-12-10 jugozapadna srbija zlatibor pesacki nadvoznjak prema spomeniku u naselju zlatibor pesacki nadvoznjak prema spomeniku u naselju zlatibor tornik pk vrh sumnato brdo ili glavudza (1082 m), vrh cuker (1359 m), crni vrh (1175 m) i vrh cajetinska gradina (1146 m) zahtevna pesacki nadvoznjak prema spomeniku u naselju zlatibor – spomenik iz ii svetskog rata na vrhu sumnato brdo (1,1 km) – jedini bor (3,5 km) – vrh cuker (4,9 km) – ispod vrha konjoder (6,5 km) – izvor u bjelicicima (8,2 km) – most preko reke katusnice (10,4 km) – crni vrh (14,4 km) – cajetinska gradina (16,0 km) - nadvoznjak prema spomeniku u naselju zlatibor (21,7 km)",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:02:52Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

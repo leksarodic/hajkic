@@ -70,7 +70,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T11:57:33Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -110,14 +110,14 @@
         "pss_id": 4515,
         "updated_at": "2017-08-05T12:39:18Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:57:33Z",
-        "last_synced_at": "2026-11-08T11:57:33Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "severne staze lipara 6-3-3 kopaonicko-toplicka regija stolovi 3km od zice uz reku kod kafane i vira za kupanje, 270m 3km od zice uz reku kod kafane i vira za kupanje, 270m kraljevo pak • manastir zica • streliste • vidikovac na 690 m, i tri sporedna laka prvih 1,1km ide se plavom stazom, a onda se moze nastaviti plavom ili crvenom stazom (na dalje zelenom ili zutom), da bi se opet vratili na plavu stazu. posle 800m stize se ispod vrha lipara (835m), a odatle se moze levo na vidikovac (690 m) ili desno na cirovu kolibu (770 m). istim putem se vraca nazad do polazne tacke. propisana planinarska markacija u cetiri boje: plava staza (2,73km), crvena staza (2,19km), zelena staza (460m), zuta staza (270m)",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:57:33Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

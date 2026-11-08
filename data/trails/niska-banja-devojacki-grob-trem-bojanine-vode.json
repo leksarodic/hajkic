@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2020/11/7-3-13-Niska-Banja-Devojacki-grob-Trem-Bojanine-vode.gpx",
-        "fetched_at": "2026-11-08T12:01:28Z",
-        "checked_at": "2026-11-08T12:01:28Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 2369411,
         "sha256": "d7141a3675ba1a8eec953a81900bcad257c7529b84b7665bbe8a383f9d6273d5",
         "etag": null,
-        "last_modified": "Mon, 16 Nov 2020 17:42:04 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 14822,
@@ -238,14 +238,14 @@
         "pss_id": 12431,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:01:29Z",
-        "last_synced_at": "2026-11-08T12:01:29Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "niska banja - devojacki grob - trem - bojanine vode t-3-13 jugoistocna srbija suva planina niska banja - kod fontane, 258 m bojanine vode, 857 m mosor psk • niska banja • vidikovci: koritnik, crni kamen, sokolov kamen, trem • naselje: koritnik • na trasi ima izvori pitke vode: niska banja, koritnik, bojanine vode • na trasi ima privatni smestaj vrlo teska polazak na stazu je iz centra niske banje (258 m) stazom \"zdravlja\" do sela koritnik. u istoimenom selu postoji cesma gde se moze snabdeti vodom. staza vodi dalje kroz bukovu sumu pored vidikovca crni kamen (808 m). nastavlja prema rajcu, preko vrha mosor. zatim staza nastavlja preko grebena suve planine, sokolovog kamena (1523 m), devojackog groba (1311 m), pa sve do najviseg vrha trem (1810 m). od vrha staza ide nazad do devojackog groba, gde se skrece na kraljev put do bojaninih voda. na bojaninim vodama ima izvor pijace vode.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:01:29Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

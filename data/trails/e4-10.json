@@ -74,12 +74,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/05/E4-10-Djerdap-Sikole.gpx",
-        "fetched_at": "2026-11-08T12:50:38Z",
-        "checked_at": "2026-11-08T12:50:38Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 308916,
         "sha256": "bbebd4a8fcf1ea2250217da973a2ddbf7ab3a435b8db3d98e1708aaa7c5080e0",
         "etag": null,
-        "last_modified": "Thu, 05 Dec 2024 23:05:17 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": false,
         "points": 4275,
@@ -847,14 +847,14 @@
         "pss_id": 3676,
         "updated_at": "2024-12-05T23:05:28Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:50:39Z",
-        "last_synced_at": "2026-11-08T12:50:39Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "djerdap hidroelektrana - sikole e4-10 istocna srbija deli jovan crni vrh psd negotin, sarkamen, pimnice (rajac, rogljevo, stubik, tamnic), deli jovan, bor - muzej rudarstva zahtevna • prolaskom kroz djerdap prepoznaje se priroda i istorija ostrog prelaza iz drevne provincije panonije u provinciju meziju prema donjem toku dunava. • kod grada kladova se nalazi rimsko i ranovizantijsko utvrdjenje diana (103-102 godine p.n.e.). takodje su sacuvani i ostaci utvrdjenja fetislam iz vremena turske imperije. • put e4 preko jezerskih i recnih terasa prolazi izmedju brojnih naselja sa primerima starog graditeljstva. kod sela grabovice e4 se podize u brda i stize u selo vratna, poznato po prirodnim mostovima zvanim prerasti koji se nadvijaju nad istoimenom rekom. atraktivni prirodni mostovi izgradjeni su od krecnjackih stena i predstavljaju porusene svodove nekadasnjih pecina. u blizini prerasta nalazi se lep srednjevekovni manastir vratna. • ovde, na bliskoj tromedji srbije, bugarske i rumunije, iznad usca reke timok u dunav kroz milenijume je gajena autohtona vinova loza. ovo je negotinska krajina jedno od „vrela” kulturnog nasledja srbije. put e4 od vratne prolazi brdima preko reke zamne i silazi pored poznatog kasnoantickog lokaliteta kod sela sarkamen gde se nekada nalazio rimski grad ad akvas. • grad negotin i njegovo staro jezgro zasticeno je kulturno dobro sa starom carsijom i rodnom kucom velikog srpskog kompozitora i cuvara muzicke tradicije stevana mokranjca. ovde se nalazi i stara varoska kuca u kojoj je muzej iz prvog srpskog ustanka protiv turaka i spomenik jednog od junaka hajduk veljka, saborna crkva svete trojice i negotinska tvrdjava. • kroz vinograde krajine pored timoka put e4 nailazi na tradicionalne objekte za pripremu i cuvanje vina lokalno zvane „pimnice”. to su veoma lepe kuce tradicionalne arhitekture, zidane od tesanog kamena. nalaze se u blizini sela rajac, rogljevo, stubik, tamnic. gradjene su jos u xviii veku, jos uvek su aktivne ",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:50:39Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

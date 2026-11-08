@@ -1,0 +1,229 @@
+{
+    "schema_version": 1,
+    "slug": "mazici",
+    "name": "Mažići",
+    "code": "E7-12-3",
+    "category": {
+        "key": "evropski-pesacki-putevi-u-srbiji",
+        "label": "Evropski pešački putevi u Srbiji"
+    },
+    "pss": {
+        "post_id": 23569,
+        "category_id": 29,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            194
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Pobijenik",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "lak"
+    },
+    "distance": {
+        "official_km": null,
+        "calculated_km": 17.83
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": null,
+        "official_loss_m": null,
+        "calculated_gain_m": 0.0,
+        "calculated_loss_m": 0.0,
+        "min_m": 0.0,
+        "max_m": 0.0
+    },
+    "start": null,
+    "end": null,
+    "description": null,
+    "landmarks": null,
+    "maintenance": null,
+    "marking": null,
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": null,
+    "club": null,
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2024/02/E7-12-3.gpx",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
+        "bytes": 83955,
+        "sha256": "8d7e9018d163746595e340988e002aeb837eb1c0dada1146606e418efca6da41",
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": 1158,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2024/02/E7-12-3.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/mazici.geojson",
+        "bbox": [
+            19.547848303,
+            43.473769705,
+            19.598277486,
+            43.544035333
+        ],
+        "center": [
+            19.573063,
+            43.508903
+        ],
+        "start_point": [
+            19.550959517,
+            43.544035333
+        ],
+        "end_point": [
+            19.549695867,
+            43.478578313
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    19.55096,
+                    43.54404
+                ],
+                [
+                    19.55071,
+                    43.53808
+                ],
+                [
+                    19.56473,
+                    43.5309
+                ],
+                [
+                    19.56355,
+                    43.52694
+                ],
+                [
+                    19.55896,
+                    43.52665
+                ],
+                [
+                    19.5592,
+                    43.522
+                ],
+                [
+                    19.5671,
+                    43.52387
+                ],
+                [
+                    19.56956,
+                    43.51624
+                ],
+                [
+                    19.57662,
+                    43.51558
+                ],
+                [
+                    19.57878,
+                    43.51111
+                ],
+                [
+                    19.58737,
+                    43.51028
+                ],
+                [
+                    19.59304,
+                    43.50477
+                ],
+                [
+                    19.58923,
+                    43.50107
+                ],
+                [
+                    19.59828,
+                    43.49902
+                ],
+                [
+                    19.59534,
+                    43.49827
+                ],
+                [
+                    19.59296,
+                    43.49135
+                ],
+                [
+                    19.59042,
+                    43.49195
+                ],
+                [
+                    19.58552,
+                    43.48257
+                ],
+                [
+                    19.57261,
+                    43.47427
+                ],
+                [
+                    19.55486,
+                    43.48007
+                ],
+                [
+                    19.54789,
+                    43.48462
+                ],
+                [
+                    19.5497,
+                    43.47858
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description",
+            "missing_elevation"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/mazici/",
+        "canonical_url": "https://pss.rs/terenipp/mazici/",
+        "pss_id": 23569,
+        "updated_at": "2024-12-07T22:14:25Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
+    },
+    "search": "mazici e7-12-3 jugozapadna srbija pobijenik laka",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T13:01:57Z"
+    }
+}

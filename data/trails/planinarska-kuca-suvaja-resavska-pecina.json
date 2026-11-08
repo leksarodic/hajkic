@@ -79,12 +79,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2024/12/Resavska_pecina_2021-04-18.gpx",
-        "fetched_at": "2026-11-08T12:06:14Z",
-        "checked_at": "2026-11-08T12:06:14Z",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
         "bytes": 419355,
         "sha256": "5fe184ed6fe35e34562848938931279a39414576f31ba0601db4c37840796249",
         "etag": null,
-        "last_modified": "Tue, 10 Dec 2024 22:56:52 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 1585,
@@ -180,14 +180,14 @@
         "pss_id": 25717,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:06:15Z",
-        "last_synced_at": "2026-11-08T12:06:15Z"
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
     },
     "search": "planinarska kuca „suvaja\"- resavska pecina 4-7-3 istocna srbija kucaj (resavica) planinarska kuca „suvaja\", 376 mnv planinarska kuca „suvaja\", 376 mnv beljanica pd vidikovci: vidikovac ka kanjonu resave i vidikovac ka klisuri reke cemernice naselja i zaseoci sa nazivima: sela strmosten, lisine i jelovac, onstina despotovac. znacajni lokaliteti: prirodni/hidro-kompleks lisine, prasuma vinatovaca i veliki pecinski kompleks „resavska pecina\". laka polazna tacka staze je sa parkinga kod planinarske kuce „suvaja\". visina sa koje se polazi i gde se nalazi planinarski objekat i sam parking je 376 mnv. ispred planinarske kuce „suvaja\" nalazi se adekvatan parking za automobile, kombi i autobuski prevoz. dalje staza vodi asfaltom 100 m od parkinga i polako prekidom asfalta bez prelaska mosta nastaviti kretanje udesno oko sumske kuce dobro markiranom stazom i tucanikom na uspon ka prevoju babina glava (648 mnv). nakon polaska ka prevoju babina glava, krece konstantan uspon do samog prevoja a zatim dalje se spustamo ka predelu divljakovac i resavskoj pecini. preko prevoja babine glave nailazi se na napustena stara domacinstva i dalje na nekadasnju ski stazu starijih generacija planinara iz svilajnca. staza je odlicno markirana i redovno se odrzava. staza nije kruzna i istom se vraca do parkinga i planinarskog objekta.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:06:15Z"
+        "generated_at": "2026-11-08T13:01:57Z"
     }
 }

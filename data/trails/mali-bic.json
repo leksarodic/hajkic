@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2020/08/5-6-2-Priboj-Tvrdjava-Jagat.gpx",
-        "fetched_at": "2026-11-08T12:01:07Z",
-        "checked_at": "2026-11-08T12:01:07Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 119738,
         "sha256": "7ecd91ac5ec2eea0bcde4651621698c77b6860e0bd14b6af835022583e642099",
         "etag": null,
-        "last_modified": "Thu, 26 Nov 2020 15:22:55 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 723,
@@ -186,14 +186,14 @@
         "pss_id": 11974,
         "updated_at": "2020-11-26T15:25:14Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:01:08Z",
-        "last_synced_at": "2026-11-08T12:01:08Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "priboj - tvrdjava jagat 5-6-2 jugozapadna srbija bic stari deo grada (od zeleznicke stanice), 390 m tvrdjava jagat, na malo bicu, vrh grad, 920 m ljeskovac zkp • tvrdjava jagat • na stazi ima 1 izvor pitke vode. laka staza polazi iz starog dela grada (od zeleznicke stanice) ide stazom zdravlja na osovniku. izlazi na proplanak tepa (620 m). sa tepe staza nastavlja ka trvdjavi jagat koja se nalazi na malom bicu, vrh grad na 920 m. staza se u selu crnuzi spaja sa stazom 5-6-1 koja iz novog dela grada ide na veliki bic (1386 m).",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:01:08Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

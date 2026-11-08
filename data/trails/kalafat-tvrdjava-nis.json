@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2019/04/4-47-7-Kalafat-Tvrdjava-Nis.gpx",
-        "fetched_at": "2026-11-08T12:00:13Z",
-        "checked_at": "2026-11-08T12:00:13Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 108437,
         "sha256": "b97b7329742a9c4e985b04d55a4b7c13cdedbd48e8717de895b65536c1cf521b",
         "etag": null,
-        "last_modified": "Thu, 04 Apr 2019 12:36:44 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 667,
@@ -206,14 +206,14 @@
         "pss_id": 8712,
         "updated_at": "2019-04-04T12:48:55Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:00:13Z",
-        "last_synced_at": "2026-11-08T12:00:13Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "kalafat - tvrdjava nis 4-47-7 istocna srbija kalafat kalafat, 838m tvrdjava, 200m mosor psk • manastir sv. djordja, crkva sv. nikola, crkva sv. petka, spomenik vojvodi stevanu sindjelicu i njegovim junacima palim na cegru 19.maja 1809., latinska crkva • izletiste kamenicki vis, izletiste dabilo, sreckovo vrelo • ranohriscanska bazilika sa matirijumom • niska tvrdjava sa brojnim istorijskim objektima i spomenicima • vidikovci: kalafat, kamenicki vis, dabilo (krst), cegar • na trasi ima dva kampa i dva privatna smestaja • na trasi ima dosta izvora pitke vode laka • od kalafata prvi deo staze je los kolski put, a zatim se izlazi na makadamski siroki put koji vodi sve do kamenickog visa. put dalje prolazi kroz listopadnu sumu, te je staza odlicna za toplo i suncano vreme, jer pruza hladovinu. na kamenickom visu postoji odlicno mesto za kampovanje, a odatle se pruza pogled na ceo nis. od kamenickog visa staza vodi pored dabila. dabilo je izletnicko mesto gde mozete uzeti vodu za pice sa cesme. na tom mestu je racvanje staze i moze se otici do stene na kojoj je postavljen krst i odakle se vidi niska dolina. posle dabila staza ide kroz lepu cetinarsku borovu sumu sve do sela kamenica. na ulazu u selo je prelepa crkva. odatle se moze stici do manastira sv. djordje i sreckovog vrela. do cegra je asfaltni put. na cegru je spomenik stevanu sindjelicu, a odatle na nekih 200m je crkva sv.petke sa odlicno uradjenim mestom za odmor, tu se mozete snabdeti vodom za pice. od cegra kolskim putem se stize do brda vinik, a zatim asfaltnim putem do niske tvrdjave. • ova staza je izuzetno dobra za biciklisticke ture.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:00:13Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

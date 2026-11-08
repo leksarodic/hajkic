@@ -80,7 +80,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T11:56:04Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -120,14 +120,14 @@
         "pss_id": 3902,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:56:04Z",
-        "last_synced_at": "2026-11-08T11:56:04Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "vinska tura \"prokupac\" 6-5-3 kopaonicko-toplicka regija goc man veluce 240 mnv trzac 360 mnv ljukten psd zahtevna man veluce-pogled-ciker-rzanica-dremca- trzac",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:56:04Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

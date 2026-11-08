@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2020/06/4-4-5-Ceremosnja-Stubej.gpx",
-        "fetched_at": "2026-11-08T12:00:48Z",
-        "checked_at": "2026-11-08T12:00:48Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 85729,
         "sha256": "03c1cf7b9d274cda13707484fa1e7f3ad0f5a0b4347a85fb3b676fdcf1a465fe",
         "etag": null,
-        "last_modified": "Tue, 09 Jun 2020 16:53:14 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 516,
@@ -158,14 +158,14 @@
         "pss_id": 11590,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:00:48Z",
-        "last_synced_at": "2026-11-08T12:00:48Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "stubej od ceremosnje 4-4-5 istocna srbija homoljske planine pecina ceremosnja, 545 m pecina ceremosnja, 545 m gornjak pd • pecina ceremosnja • vidikovac: 1 • selo ceremosnja laka staza krece od parkinga ispred pecine ceremosnje, gde postoji restoran. restoran i pecina ne rade stalno tako da je potrebno ranije pozvati na telefon 012/855-039 i 063/238-090. od pecine se prvo ide kroz lepu sumu do izlaska na seoski put, njime se stize do vrha cucek (822 m). dalje se prati isti put do pred sam vrh stubej (940 m). na vrhu se nalazi predajnik.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:00:48Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

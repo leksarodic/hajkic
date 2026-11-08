@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2020/09/1-1-2-Vodotoranj-Tresetiste-Palic-centar.gpx",
-        "fetched_at": "2026-11-08T12:01:09Z",
-        "checked_at": "2026-11-08T12:01:09Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 105569,
         "sha256": "43ee02444b9067d8a80344faf7533930266051f09931880743da4caa61b5811d",
         "etag": null,
-        "last_modified": "Sun, 06 Sep 2020 17:38:20 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 634,
@@ -196,14 +196,14 @@
         "pss_id": 12024,
         "updated_at": "2020-09-06T17:49:24Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:01:10Z",
-        "last_synced_at": "2026-11-08T12:01:10Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "vodotoranj-tresetiste-palic centar 1-1-2 vojvodina palicko jezero vodotoranj palic, 108 m palic centar, semafor, 108 m spartak psk • suboticka pescara • jezera tesetista • palicko jezero • park narodnih heroja, palic • zoo vrt palic laka",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:01:10Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

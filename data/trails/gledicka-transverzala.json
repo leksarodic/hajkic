@@ -1,0 +1,126 @@
+{
+    "schema_version": 1,
+    "slug": "gledicka-transverzala",
+    "name": "Gledićka transverzala",
+    "code": "T-2-31",
+    "category": {
+        "key": "planinarske-transverzale",
+        "label": "Planinarske transverzale"
+    },
+    "pss": {
+        "post_id": 3920,
+        "category_id": 30,
+        "region_ids": [
+            2
+        ],
+        "mountain_ids": [
+            61
+        ]
+    },
+    "region": "Šumadija",
+    "mountain": "Gledićke planine",
+    "difficulty": {
+        "key": "nepoznato",
+        "label": "Nije navedeno",
+        "source": null
+    },
+    "distance": {
+        "official_km": 101.0,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": 3434.0,
+        "official_loss_m": 3434.0,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": null,
+    "end": null,
+    "description": null,
+    "landmarks": "• manastiri: Kamenac, Kalenić, Raletinac, Manastirak, Denkovac, Sarinac\n\n • srednjovekovna utvrđenja: Županjevački grad, \n\n • prirodni fenomen: \"Govor vode\"\n\n • vidikovci: Crni vrh, Tikva, Jasenovita glava, Samar, Brdo Grad, Kremenac, Golo brdo, Sitno kamenje",
+    "maintenance": null,
+    "marking": "propisana planinarska",
+    "accommodation": null,
+    "notes": "Dobro uređena i markirana (poslednji put juli-avgust 2012. god)",
+    "map_reference": null,
+    "map_sheet": "topografske karte: Kraljevo-2 1:50000 i Kruševac-1 1:50000",
+    "club": null,
+    "legend": [],
+    "photos_count": 1,
+    "gpx": {
+        "available": false,
+        "status": "missing",
+        "source_url": null,
+        "fetched_at": null,
+        "checked_at": "2026-11-08T13:01:56Z",
+        "bytes": null,
+        "sha256": null,
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": null,
+        "tracks": null,
+        "segments": null,
+        "waypoints": null,
+        "error": null,
+        "download": {
+            "mode": "none",
+            "url": null
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "minimal",
+        "issues": [
+            "missing_difficulty",
+            "missing_description",
+            "missing_gpx"
+        ]
+    },
+    "additional": {
+        "Planine/predeli": "Gledićke planine",
+        "Status": "aktivna",
+        "Društvo": "Žeželj PD",
+        "Vreme obilaska (dana)": "4-5",
+        "Godina otvaranja": "9.9.2007",
+        "Kontakt": "https://pss.rs/terenipp/gledicka-transverzala/",
+        "Vrsta": "kružna",
+        "Broj kontrolnih tačaka": "14",
+        "Opis puta": "• Transverzala je kružna, dvosmerno obeležena;\n\n • Start i cilj se poklapaju kod Planinarskog doma \"Dr.Sonja Perišić\" - Adžine livade, 575 mnv.\n\n • Najviša tačka na transverzali je 922 mnv, a najniža 260 mnv",
+        "Dnevnik": "Postoji Pravilnik transverzale i Knjiga obilazaka",
+        "Priznanja": "Bedž i Diploma"
+    },
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/gledicka-transverzala/",
+        "canonical_url": "https://pss.rs/terenipp/gledicka-transverzala/",
+        "pss_id": 3920,
+        "updated_at": "2017-06-01T18:30:42Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
+    },
+    "search": "gledicka transverzala t-2-31 sumadija gledicke planine • manastiri: kamenac, kalenic, raletinac, manastirak, denkovac, sarinac • srednjovekovna utvrdjenja: zupanjevacki grad, • prirodni fenomen: \"govor vode\" • vidikovci: crni vrh, tikva, jasenovita glava, samar, brdo grad, kremenac, golo brdo, sitno kamenje nije navedeno",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T13:01:56Z"
+    }
+}

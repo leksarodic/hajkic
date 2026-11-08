@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2019/02/4-37-1-Sesalac-Sesalacka-pecina.gpx",
-        "fetched_at": "2026-11-08T12:00:00Z",
-        "checked_at": "2026-11-08T12:00:00Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 9846,
         "sha256": "23a5d898e4a965daebaa4f0161d1076f3fc590bb29a718316e68e71e84c03472",
         "etag": null,
-        "last_modified": "Tue, 12 Feb 2019 14:49:09 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 65,
@@ -150,14 +150,14 @@
         "pss_id": 8304,
         "updated_at": "2019-02-24T13:47:17Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:00:01Z",
-        "last_synced_at": "2026-11-08T12:00:01Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "sesalac - sesalacka pecina 4-37-1 istocna srbija slemen sesalac, centar sela, 436m sesalacka pecina, 601m ostra cuka pd • sesalacka pecina • nema izvora pitke vode • nema smestaja laka slemen (jugozapadna strana)",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:00:01Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

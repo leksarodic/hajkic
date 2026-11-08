@@ -79,12 +79,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2023/03/Staza-13-Stublo-Omarski-potok.gpx",
-        "fetched_at": "2026-11-08T12:03:07Z",
-        "checked_at": "2026-11-08T12:03:07Z",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
         "bytes": 122041,
         "sha256": "f19099bea5613ca7847c790aa7e49511ef38853c02f461e6692c9c394838cbaf",
         "etag": null,
-        "last_modified": "Fri, 31 Mar 2023 18:43:25 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 1125,
@@ -200,14 +200,14 @@
         "pss_id": 19291,
         "updated_at": "2023-09-08T20:00:08Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:03:08Z",
-        "last_synced_at": "2026-11-08T12:03:08Z"
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
     },
     "search": "staza br. 13: stublo – omarski potok 5-12-19 jugozapadna srbija zlatibor metaljka u selu stublo - 1160 m metaljka u selu stublo - 1160 m omorika pd klisura omarskog potoka i vrh vis vrlo teska metaljka - kanjon omarskog potoka (3,6 km) - vrh vis (5,9 km) - metaljka (9,0 km)",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:03:08Z"
+        "generated_at": "2026-11-08T13:01:57Z"
     }
 }

@@ -59,12 +59,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/05/T-3-2-Rajacka-transverzala.gpx",
-        "fetched_at": "2026-11-08T12:50:08Z",
-        "checked_at": "2026-11-08T12:50:08Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 225990,
         "sha256": "009a2e645d54ede32026b11f81a746d820e8d730041f68011854acf48e186657",
         "etag": null,
-        "last_modified": "Sun, 31 Oct 2021 15:21:18 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 1310,
@@ -400,14 +400,14 @@
         "pss_id": 3619,
         "updated_at": "2022-02-02T16:01:28Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:50:08Z",
-        "last_synced_at": "2026-11-08T12:50:08Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "cika duskove rajacke staze t-3-2 zapadna srbija rajac (suvoborski) • izvanredni vidikovci, purina crkva, vodopad, • spomenik borcima kolubarske bitke “1300 kaplara”, • turisticka manifestacija “kosidba na rajcu”, • na 1 sat hoda od vrha suvobora je i spomen komplaks na ravnoj gori i mokra pecina. nije navedeno",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:50:08Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

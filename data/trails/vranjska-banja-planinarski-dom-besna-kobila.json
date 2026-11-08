@@ -70,7 +70,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T11:57:26Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -110,14 +110,14 @@
         "pss_id": 4499,
         "updated_at": "2017-08-20T13:00:51Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:57:26Z",
-        "last_synced_at": "2026-11-08T11:57:26Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "vranjska banja - planinarski dom besna kobila 7-20-1 jugoistocna srbija besna kobila vranjska banja, 460m planinarski dom na besnoj kobili, 1460m zeleznicar 2006 pk vranje zahtevna • staza: vranjska banja (460m) - golemi kicer (1143m) - planinarski dom besna kobila (1460m) • staza je deonica evropskog pesackog puta e7",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:57:26Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

@@ -79,12 +79,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2023/03/Staza-10-Semegnjevo-Lecica-vrh.gpx",
-        "fetched_at": "2026-11-08T12:03:04Z",
-        "checked_at": "2026-11-08T12:03:04Z",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
         "bytes": 120065,
         "sha256": "98b87dd84922fbc149978b9376c21d6c3e7cc0cb15bd3b810583a2ed681a2cf8",
         "etag": null,
-        "last_modified": "Thu, 30 Mar 2023 21:36:03 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 1595,
@@ -224,14 +224,14 @@
         "pss_id": 19264,
         "updated_at": "2023-09-08T20:21:10Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:03:04Z",
-        "last_synced_at": "2026-11-08T12:03:04Z"
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
     },
     "search": "staza br. 10: semegnjevo – lecica vrh 5-12-17 jugozapadna srbija zlatibor kupaliste trcinoga na putu od zlatibora prema semegnjevu kupaliste trcinoga na putu od zlatibora prema semegnjevu tornik pk vrh kolibiste (976 m), lecica vrh (1091 m), zeleznicka stanica „zlatibor“ laka kupaliste trcinoga - lecica vrh (2,2 km) - milinkovici (8,8 km) - vrh kolibiste (11,2 km) - kupaliste trcinoga (15,5 km)",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:03:04Z"
+        "generated_at": "2026-11-08T13:01:57Z"
     }
 }

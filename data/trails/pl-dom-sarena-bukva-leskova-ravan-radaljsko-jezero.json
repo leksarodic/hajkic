@@ -79,12 +79,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2024/04/5-3-2-Sarena-bukva-Radaljsko-jezero.gpx",
-        "fetched_at": "2026-11-08T12:05:52Z",
-        "checked_at": "2026-11-08T12:05:52Z",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
         "bytes": 50044,
         "sha256": "707562da3944d404d09df6a41619d6849b4eaf66cfff70034ddeb81b12747192",
         "etag": null,
-        "last_modified": "Tue, 02 Apr 2024 20:19:25 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 456,
@@ -172,14 +172,14 @@
         "pss_id": 24391,
         "updated_at": "2024-04-02T20:27:25Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:05:52Z",
-        "last_synced_at": "2026-11-08T12:05:52Z"
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
     },
     "search": "pl.dom sarena bukva-leskova ravan-radaljsko jezero 3-5-2 zapadna srbija boranja planinarski dom \"sarena bukva\" - 798 m radaljsko jezero - 495 m gucevo pk radaljsko jezero laka od pl. doma krenuti ka stolicama.od ruinirane radionice nakon 150m skrenuti u levo-ka staroj trafo stanici-markacija.spustiti se vlakom lestak preci potocic i jasnim sumskim putem izbiti ispod kuca savica.obici imanje i izbiti na greben leskove ravni.nastaviti pored breza i nanize do izmedju kuca pavlovica tu se put racva. ici levo(drvored jabuka) zapadno ka jezeru,desni smer je pravac za stolice i zajacu. staza dalje vodi samim grebenom sa vidikovcima ka bosni zapadno i gucevu severno,izmedju zasada malina i kupina .nakon predjenih 3,5km otpoceti blago spustanje ka jezeru i izaci na parking kod same brane. mogucnost povratka drugim stazama u 4 pravca.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:05:52Z"
+        "generated_at": "2026-11-08T13:01:57Z"
     }
 }

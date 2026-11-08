@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/08/7-3-5-Donja-Koritnica-Pasarelo.gpx",
-        "fetched_at": "2026-11-08T11:57:04Z",
-        "checked_at": "2026-11-08T11:57:04Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 24310,
         "sha256": "ee11757b0aa0c520a2b1c49a74f9fcfda82d87de73db11206cb3d355911b48dc",
         "etag": null,
-        "last_modified": "Wed, 31 Jan 2018 11:10:14 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 190,
@@ -184,14 +184,14 @@
         "pss_id": 4484,
         "updated_at": "2018-01-31T11:11:16Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:57:04Z",
-        "last_synced_at": "2026-11-08T11:57:04Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "donja koritnica - pasarelo 7-3-5 jugoistocna srbija suva planina autobusko stajaliste u selu donja koritnica, 400m izlazak na vrh pasarelo, 1522m zeleznicar pk nis • vidikovci: smrdan i pasarelo • izvor pitke vode samo na pocetku staze. • na stazi drugi smestaj: 1 zahtevna",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:57:04Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

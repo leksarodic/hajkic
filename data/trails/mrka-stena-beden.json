@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2021/01/3-14-3-Mrka-stena-Beden.gpx",
-        "fetched_at": "2026-11-08T12:01:39Z",
-        "checked_at": "2026-11-08T12:01:39Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 63436,
         "sha256": "d74eab88a23e9acb9ce2501a83e9000e3b77ea1354f364cd0dad3a41d074b623",
         "etag": null,
-        "last_modified": "Fri, 08 Jan 2021 12:33:05 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 507,
@@ -178,14 +178,14 @@
         "pss_id": 12742,
         "updated_at": "2021-01-08T12:36:56Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:01:39Z",
-        "last_synced_at": "2026-11-08T12:01:39Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "mrka stena - beden 3-14-3 zapadna srbija povlen planinarska kuca \"povlenski kucerak\", 1145,8 m planinarska kuca \"povlenski kucerak\", 1145,8 m povlen pk • reka tresnjica • vidikovci, narocito mrka stena • izvori vesina voda, madzarija laka start od planinarske kuce ispod v. povlena. silazimo makadamskim putem prema debelom brdu. nakon 1 km skrecemo levo i preko mosta na reci tresnjici penjemo se kroz bukovu sumu (severne padine bedena), prema mrkoj steni (1210 m). to je stenoviti vidikovac odakle se pruza pogled prema jablaniku, medvedniku, bobiji kao i prema planinama rs. zatim se ide proplancima, livadama bedenom, kolskim putem, sa pogledom juzno na planine rs, severno na povlen. od vrha bedena (1256 m) juzno 300 m nalazi se izvor pitke vode vesina voda. na kraju bedena izlazi se na makadamski put debelo brdo - zaseok kosici. tim putem prema debelom brdu preko madzarije dolazi se do planinarske kuce.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:01:39Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

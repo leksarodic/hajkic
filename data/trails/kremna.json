@@ -1,0 +1,204 @@
+{
+    "schema_version": 1,
+    "slug": "kremna",
+    "name": "Kremna",
+    "code": "E7-10-6",
+    "category": {
+        "key": "evropski-pesacki-putevi-u-srbiji",
+        "label": "Evropski pešački putevi u Srbiji"
+    },
+    "pss": {
+        "post_id": 23561,
+        "category_id": 29,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            122
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Zlatibor",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "lak"
+    },
+    "distance": {
+        "official_km": null,
+        "calculated_km": 10.79
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": null,
+        "official_loss_m": null,
+        "calculated_gain_m": 96.4,
+        "calculated_loss_m": 178.1,
+        "min_m": 769.2,
+        "max_m": 907.6
+    },
+    "start": null,
+    "end": null,
+    "description": null,
+    "landmarks": null,
+    "maintenance": null,
+    "marking": null,
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": null,
+    "club": null,
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2024/02/E7-10-6.gpx",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
+        "bytes": 56920,
+        "sha256": "13d422582c2a2964f81602286f02cc1d21072ca1efd294cf630d324c2837a33d",
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 765,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2024/02/E7-10-6.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/kremna.geojson",
+        "bbox": [
+            19.579857853,
+            43.820691411,
+            19.646462202,
+            43.859068133
+        ],
+        "center": [
+            19.61316,
+            43.83988
+        ],
+        "start_point": [
+            19.646462202,
+            43.820691411
+        ],
+        "end_point": [
+            19.582265301,
+            43.859068133
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    19.64646,
+                    43.82069
+                ],
+                [
+                    19.64545,
+                    43.8223
+                ],
+                [
+                    19.63479,
+                    43.82305
+                ],
+                [
+                    19.62047,
+                    43.82854
+                ],
+                [
+                    19.61968,
+                    43.82657
+                ],
+                [
+                    19.60827,
+                    43.82642
+                ],
+                [
+                    19.60337,
+                    43.82439
+                ],
+                [
+                    19.60251,
+                    43.82864
+                ],
+                [
+                    19.59375,
+                    43.82885
+                ],
+                [
+                    19.59211,
+                    43.83203
+                ],
+                [
+                    19.58493,
+                    43.83495
+                ],
+                [
+                    19.59306,
+                    43.84172
+                ],
+                [
+                    19.58984,
+                    43.84603
+                ],
+                [
+                    19.57987,
+                    43.84957
+                ],
+                [
+                    19.58595,
+                    43.85256
+                ],
+                [
+                    19.58227,
+                    43.85907
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/kremna/",
+        "canonical_url": "https://pss.rs/terenipp/kremna/",
+        "pss_id": 23561,
+        "updated_at": "2024-12-07T22:07:46Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
+    },
+    "search": "kremna e7-10-6 jugozapadna srbija zlatibor laka",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T13:01:57Z"
+    }
+}

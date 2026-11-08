@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2021/03/4-31-14-Izletista-i-vidikovci-Sokobanje.gpx",
-        "fetched_at": "2026-11-08T12:01:56Z",
-        "checked_at": "2026-11-08T12:01:56Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 164144,
         "sha256": "bfcdc38ffb02847e43140cac54ece8c522270fa3813cb5973e1049efef2f8b45",
         "etag": null,
-        "last_modified": "Tue, 30 Mar 2021 19:18:07 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 978,
@@ -198,14 +198,14 @@
         "pss_id": 13400,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:01:57Z",
-        "last_synced_at": "2026-11-08T12:01:57Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "izletista i vidikovci sokobanje 4-31-14 istocna srbija devica centar sokobanje, 308 m centar sokobanje, 308 m ozren pk • park borici, vodopad ripaljka, izletiste barudzija, poletiste za paraglajding, golemi kamen • vidikovci: paraglajding, golemi kamen, vidikovac • mesto: sokobanja • na trasi ima izvora pitke vode • smestaj: kamp, odmaraliste, privatni smestaj laka staza polazi iz centra sokobanje i preko parka borici, parka cuka 2 i belih voda vodi do slapa ripaljke. odatle izlazi do kapije bolnice \"ozren\" i nastavlja makadamskim putem do asfaltnog puta sokobanja - selo jezero. spusta se do izletista barudzija i penje se do poletista za paraglajding. zatim izohipsom prolazi pored orlovcica i dolazi do goleme padine. tu se spusta do vidikovca golemi kamen. zatim se spusta do strelista, gde izlazi na asfaltni put. dalje staza ide prema centru sokobanje, pored restorana vidikovac i didiceve cesme. staza je samostalna i koristi se za dan pesacenja \"srbija hoda\" u septembru.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:01:57Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

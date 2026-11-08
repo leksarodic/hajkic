@@ -1,0 +1,127 @@
+{
+    "schema_version": 1,
+    "slug": "mala-toplicka-transverzala",
+    "name": "Mala Toplička transverzala",
+    "code": "T-6-37",
+    "category": {
+        "key": "planinarske-transverzale",
+        "label": "Planinarske transverzale"
+    },
+    "pss": {
+        "post_id": 7022,
+        "category_id": 30,
+        "region_ids": [
+            6
+        ],
+        "mountain_ids": [
+            79
+        ]
+    },
+    "region": "Kopaoničko-Toplička regija",
+    "mountain": "Radan",
+    "difficulty": {
+        "key": "nepoznato",
+        "label": "Nije navedeno",
+        "source": null
+    },
+    "distance": {
+        "official_km": 122.0,
+        "calculated_km": null
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": 4023.0,
+        "official_loss_m": 2996.0,
+        "calculated_gain_m": null,
+        "calculated_loss_m": null,
+        "min_m": null,
+        "max_m": null
+    },
+    "start": null,
+    "end": null,
+    "description": null,
+    "landmarks": "• Crkva Sv. Prokopija, Bučinski grad, Rastovničko jezero, Opservatorija na Vidojevici, Rgajski grad, Sokolov vis - vrh Radana, Đavolja varoš, crkva Lazarica, Prolom banja\n\n • Veliki broj vidikovaca sa svih kontrolnih tačaka.\n\n • Na trasi ima dovoljno izvora pitke vode.\n\n • Mogućnost noćenja u Prokuplju (hotel, restoran, hostel, privatni smeštaj), Jovine livade (domaćinstvo), Beli kamen (Planinarski dom Beli kamen i Etno kuća Krivokuća), Široke njive (domaćinstvo), Prolom banja (hotel, vila)",
+    "maintenance": null,
+    "marking": "propisana planinarska",
+    "accommodation": null,
+    "notes": "Transverzalu je trasirao Ljubiša Jović 2013. Verifikovana je 2015, a poslednji put markirana 2017.",
+    "map_reference": null,
+    "map_sheet": "Karta Male Topličke transverzale 1:50000, može se nabaviti u klubu (izdanje 2015.)",
+    "club": null,
+    "legend": [],
+    "photos_count": 4,
+    "gpx": {
+        "available": false,
+        "status": "missing",
+        "source_url": null,
+        "fetched_at": null,
+        "checked_at": "2026-11-08T13:01:56Z",
+        "bytes": null,
+        "sha256": null,
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": null,
+        "tracks": null,
+        "segments": null,
+        "waypoints": null,
+        "error": null,
+        "download": {
+            "mode": "none",
+            "url": null
+        }
+    },
+    "geometry": {
+        "geojson": null,
+        "bbox": null,
+        "center": null,
+        "start_point": null,
+        "end_point": null,
+        "is_loop": false,
+        "overview_lines": []
+    },
+    "data_quality": {
+        "level": "minimal",
+        "issues": [
+            "missing_difficulty",
+            "missing_description",
+            "missing_gpx"
+        ]
+    },
+    "additional": {
+        "Planine/predeli": "Radan",
+        "Status": "aktivna",
+        "Datum poslednje verifikacije": "2015",
+        "Društvo": "Toplica PSK",
+        "Vreme obilaska (dana)": "4",
+        "Godina otvaranja": "2013",
+        "Kontakt": "https://pss.rs/kontakti/ljubisa-jovic/, Boban, Stojkovic, psdtoplica@gmail.com, 065/229-2622, Boban Stojkovic",
+        "Vrsta": "linijska",
+        "Broj kontrolnih tačaka": "15",
+        "Opis puta": "Mala Toplička transverzala, dužine 122km, na svom putu od Prokuplja do Prolom banje vodi preko 14 vrhova. Tom prilikom obilazi dva stara grada, opservatoriju, nekoliko crkava i Đavolju varoš.\n\n • Start: u Prokuplju kod crkve Sv. Prokopija (260m), podignute u X veku. \n\n • KT1 - brdo Hisar (358m), pečat se nalazi u restoranu, a na vrhu su ostaci srednjovekovnog grada Jug Bogdana.\n\n • KT2 - crkva u Rastovnici (279m), pečat se nalazi u crkvi, a 300m dalje nalazi se Rastovničko jezero.\n\n • KT3 - vrh Pasjača (971m), kontrolna tačka kod drveta u centru livade, ispod vrha koji je u šumi.\n\n • KT3a - Bučanski grad (568m), kontrolna tačka na ostacima kule, a levo i desno ostaci zidina grada koje treba obići.\n\n • KT4 - Beli kamen (970m), pečat u planinarskom domu koji ima smeštaj i restoran.\n\n • KT5 - vrh Vidojevice - Bandera (1155m), kontrolna tačka pored objekta sa kupolom u kojoj je smešten teleskop i ostala oprema.\n\n • KT6 - Rgajski grad (657m), kontrolna tačka na ostacima crkvice u dnu grada. Malo niže su i ostaci Rimskog kupatila.\n\n • KT7a - Arbanaško vrelo (685m), kontrolna tačka ispod jedne stene na sastavu dva potoka, Bubnja i Bačija.\n\n • KT7 - Bačije (890m), kontrolna tačka kod velikog hrasta na livadi.\n\n • KT8 - vrh Samar (1012m), kontrolna tačka pomerena sa vrha na livadu na kojoj je lep vidikovac.\n\n • KT9 - vrh Sokolovac (1260m), kontrolna tačka pored antene sa mobilne operatere, odakle je divan vidikovac na sve strane.\n\n • KT10 - Šopot (1409m), pečat u ormariću pored trigonomerijske tačke.\n\n • KT11 - Sokolov vis (1370m), pečat u ormariću na samom vrhu.\n\n • KT12 - Đavolja varoš (700m), na 9km od Đavolje varoši nalazi se crkva Lazarica.\n\n • Kt13 - Prolom banja (610m), pečat na recepciji hotela.",
+        "Dnevnik": "• Pečati na kontrolnim tačkama nalaze se na vrhovima i u restoranima\n\n • Postoji Dnevnik transverzale (izdanje 2017)\n\n • Postoji Pravilnik transverzale\n\n • Postoji Knjiga obilaska transverzale\n\n • toplickatrasverzala@gmail.com i psdtoplica@gmail.com",
+        "Priznanja": "Diploma"
+    },
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/mala-toplicka-transverzala/",
+        "canonical_url": "https://pss.rs/terenipp/mala-toplicka-transverzala/",
+        "pss_id": 7022,
+        "updated_at": "2019-01-05T13:25:32Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
+    },
+    "search": "mala toplicka transverzala t-6-37 kopaonicko-toplicka regija radan • crkva sv. prokopija, bucinski grad, rastovnicko jezero, opservatorija na vidojevici, rgajski grad, sokolov vis - vrh radana, djavolja varos, crkva lazarica, prolom banja • veliki broj vidikovaca sa svih kontrolnih tacaka. • na trasi ima dovoljno izvora pitke vode. • mogucnost nocenja u prokuplju (hotel, restoran, hostel, privatni smestaj), jovine livade (domacinstvo), beli kamen (planinarski dom beli kamen i etno kuca krivokuca), siroke njive (domacinstvo), prolom banja (hotel, vila) nije navedeno",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T13:01:56Z"
+    }
+}

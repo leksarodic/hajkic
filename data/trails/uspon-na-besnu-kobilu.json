@@ -70,7 +70,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T11:57:27Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -111,14 +111,14 @@
         "pss_id": 4500,
         "updated_at": "2017-08-20T13:02:36Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:57:27Z",
-        "last_synced_at": "2026-11-08T11:57:27Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "uspon na besnu kobilu 7-20-2 jugoistocna srbija besna kobila planinarski dom \"dragan spasic\", 1460m planinarski dom \"dragan spasic\", 1460m zeleznicar 2006 pk vranje laka",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:57:27Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

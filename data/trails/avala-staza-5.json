@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2020/10/2-3-6-Avala-staza-5.gpx",
-        "fetched_at": "2026-11-08T12:01:18Z",
-        "checked_at": "2026-11-08T12:01:18Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 58868,
         "sha256": "54eb8a60dc07a8ea806ab7cd98430c7bd8822f8bbb89de9dea7f25f435f9e6b9",
         "etag": null,
-        "last_modified": "Wed, 21 Oct 2020 13:49:37 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 318,
@@ -142,14 +142,14 @@
         "pss_id": 12298,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:01:18Z",
-        "last_synced_at": "2026-11-08T12:01:18Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "avala. staza 5 2-3-6 sumadija avala autobuska stanica \"beli potok centar\", 233 m spomenik neznanom junaku na vrhu avale, 506 m avala pd • cesma kamenac • avalski tv toranj • mitrovicev dom • crkva brvnara svetog despota stevana lazarevica • hotel \"avala\" • spomenik neznanom junaku • vidikovac: vrh avale laka • staza 5 spaja sledece staze: staza 2, staza 3, staza 4 i staza 6.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:01:18Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

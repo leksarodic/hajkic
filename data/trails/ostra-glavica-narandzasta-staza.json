@@ -70,7 +70,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T11:57:34Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -111,14 +111,14 @@
         "pss_id": 4518,
         "updated_at": "2017-08-05T15:19:25Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:57:34Z",
-        "last_synced_at": "2026-11-08T11:57:34Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "ostra glavica, narandzasta staza 6-3-4 kopaonicko-toplicka regija stolovi u mataruskoj banji kod male pijace, 210m ostra glavica, 728m kraljevo pak • okamenjena suma • vidikovac na ostroj glavici (728m) laka",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:57:34Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

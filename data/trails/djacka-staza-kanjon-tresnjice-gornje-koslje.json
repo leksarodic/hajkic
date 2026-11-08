@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2019/07/3-8-3-djacka-staza-kanjon-tresnjice-gornje-koslje.gpx",
-        "fetched_at": "2026-11-08T12:00:30Z",
-        "checked_at": "2026-11-08T12:00:30Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 33057,
         "sha256": "60e47fb7cb8c39e21c728c83bad4b2ad339bbf11acd37d98b7c9a154263bbdba",
         "etag": null,
-        "last_modified": "Tue, 02 Jul 2019 14:34:10 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 191,
@@ -210,14 +210,14 @@
         "pss_id": 9254,
         "updated_at": "2019-07-02T15:06:28Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:00:31Z",
-        "last_synced_at": "2026-11-08T12:00:31Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "djacka staza, kanjon tresnjice - gornje koslje 3-8-3 zapadna srbija bobija selo gornja tresnjica, 239 m selo gornje koslje, 832 m avala pd • specijalni rezervat prirode \"kanjon reke tresnjice\" • arheoloski rimski put • veliki i mali grad • vidikovci: 5 • na trasi 4 izvora pitke vode • naselja: gornja tresnjica i selo gornje koslje • na trasi 1 kamp • van trase 1 planinarski objekat i 8 privatnih smestaja laka • gornja tresnjica - kroz kanjon uz reku tresnjicu - prelazak reke tribuca - ispod vrha mitrova stena do sela gornje koslje i nazad istim putem. • na stazi je potrebna opreznost",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:00:31Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

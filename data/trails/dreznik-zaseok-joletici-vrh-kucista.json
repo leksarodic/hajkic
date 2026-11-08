@@ -79,12 +79,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2023/11/Dreznik-Kucista.gpx",
-        "fetched_at": "2026-11-08T12:03:45Z",
-        "checked_at": "2026-11-08T12:03:45Z",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
         "bytes": 47448,
         "sha256": "52373a19697416a66499dfa2a1c0153813f8a7656eb48066d062f15961321dc7",
         "etag": null,
-        "last_modified": "Wed, 29 Nov 2023 19:44:29 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": false,
         "points": 651,
@@ -170,14 +170,14 @@
         "pss_id": 23081,
         "updated_at": "2023-11-29T20:50:43Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:03:45Z",
-        "last_synced_at": "2026-11-08T12:03:45Z"
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
     },
     "search": "dreznik (zaseok joletici) – vrh kucista 5-12-23 jugozapadna srbija zlatibor od zaseoka joletici u selu dreznik - 614 m vrh kucista (lipovac) - 932 m zlatibor pd vrh lipovca - kucista laka staza krece od zaseoka joletici u selu dreznik blago uzbrdo, sa asfaltnog puta, koji vodi do lokalne crkvice. u pocetku se jednim delom svoje trase poklapa sa evropskim pesackim putem e7, koji vodi prema skrzutima i zbojstici i to oko 1,7 km. na mestu gde pesacki put e7 izlazi na omanju, udubljenu livadu i skrece desno, na tom mestu, staza za vrh kucista skrece levo, i blago krece uzbrdo sumskim putem. nakon 200m opet se skrece levo jace uzbrdo, pa desno i grebenom vijuga uzbrdo kroz sumu. na 2,4 km izalazi se prvu livadu, a potom za 300m i na drugi livadu, gde je treca raskrsnica i ima odvajanje sumski put za centar dreznika. zatim put nastavlja dalje do cetvrte rasksnice, za sela vrane i ravni, odnosno za vrh kucista. nakon 300m, preko livada, uzbrdo, izlazi se na vrh kucista (932m).",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:03:45Z"
+        "generated_at": "2026-11-08T13:01:57Z"
     }
 }

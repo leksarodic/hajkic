@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2020/10/2-3-8-Avala-staza-7.gpx",
-        "fetched_at": "2026-11-08T12:01:21Z",
-        "checked_at": "2026-11-08T12:01:21Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 74010,
         "sha256": "20de9f85954d94a4d5e26f90ae0fb8d88d6d0acfc986187f18a1562411b21bb9",
         "etag": null,
-        "last_modified": "Sat, 24 Oct 2020 16:25:45 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 442,
@@ -166,14 +166,14 @@
         "pss_id": 12306,
         "updated_at": "2020-10-24T16:27:39Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:01:22Z",
-        "last_synced_at": "2026-11-08T12:01:22Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "avala, staza 7 2-3-8 sumadija avala autobuska stanica \"raskrsnica vrcin\", 278 m autobuska stanica \"put za zuce\", 277 m avala pd • decije odmaraliste \"suplja stena\" • u blizini staze je napusteni rudnik zive • kraljeva cesma • na stazi nema izvora pitke vode • na stazi nema smestaja • naselje: ripanj laka • staza 7 spaja se sa stazom 3.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:01:22Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

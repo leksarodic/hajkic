@@ -70,7 +70,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T11:56:27Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -111,14 +111,14 @@
         "pss_id": 3958,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:56:27Z",
-        "last_synced_at": "2026-11-08T11:56:27Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "selo ravanica-manastir kalenic. samar. stubal 2-14-16 sumadija gledicke planine selo ravanica 232 mnv selo stubal 258 mnv zeleznicar psk kraljevo zahtevna",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:56:27Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

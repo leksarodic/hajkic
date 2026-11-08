@@ -71,12 +71,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/07/1-3-2.gpx",
-        "fetched_at": "2026-11-08T11:56:44Z",
-        "checked_at": "2026-11-08T11:56:44Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 389944,
         "sha256": "43eeeb11f0ee8c99cb0dbb159134dfe7f5aeb2a9bdabbb86c52257ff8a295c0d",
         "etag": null,
-        "last_modified": "Fri, 21 Jul 2017 17:20:10 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 2382,
@@ -306,14 +306,14 @@
         "pss_id": 4341,
         "updated_at": "2017-08-02T11:49:04Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:56:45Z",
-        "last_synced_at": "2026-11-08T11:56:45Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "bukovacki maraton - srednja staza 1-3-2 vojvodina fruska gora bukovac 180m bukovac 180m vilina vodica pd • osteceni tv toranj • manastir grgetek • manastir krusedol • manastir velika remeta • brankov grob i spomenik zahtevna",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:56:45Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

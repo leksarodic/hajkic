@@ -1,0 +1,268 @@
+{
+    "schema_version": 1,
+    "slug": "janja",
+    "name": "Janja",
+    "code": "E7-12-1",
+    "category": {
+        "key": "evropski-pesacki-putevi-u-srbiji",
+        "label": "Evropski pešački putevi u Srbiji"
+    },
+    "pss": {
+        "post_id": 23567,
+        "category_id": 29,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            122
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Zlatibor",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "lak"
+    },
+    "distance": {
+        "official_km": null,
+        "calculated_km": 21.7
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": null,
+        "official_loss_m": null,
+        "calculated_gain_m": 786.6,
+        "calculated_loss_m": 813.3,
+        "min_m": 754.0,
+        "max_m": 1402.9
+    },
+    "start": null,
+    "end": null,
+    "description": null,
+    "landmarks": null,
+    "maintenance": null,
+    "marking": null,
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": null,
+    "club": null,
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2024/02/E7-12-1.gpx",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
+        "bytes": 133048,
+        "sha256": "a5dd8214d4f454f77368a51564fdb64ccddd92a4bcc89737719e14b25c2910ee",
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 1778,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2024/02/E7-12-1.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/janja.geojson",
+        "bbox": [
+            19.671231465,
+            43.525932859,
+            19.788479276,
+            43.5990866
+        ],
+        "center": [
+            19.729855,
+            43.56251
+        ],
+        "start_point": [
+            19.782498405,
+            43.5990866
+        ],
+        "end_point": [
+            19.671231465,
+            43.545076246
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    19.7825,
+                    43.59909
+                ],
+                [
+                    19.78217,
+                    43.59371
+                ],
+                [
+                    19.78844,
+                    43.58844
+                ],
+                [
+                    19.77644,
+                    43.57481
+                ],
+                [
+                    19.76684,
+                    43.57234
+                ],
+                [
+                    19.76372,
+                    43.57419
+                ],
+                [
+                    19.75575,
+                    43.5704
+                ],
+                [
+                    19.75769,
+                    43.56768
+                ],
+                [
+                    19.75457,
+                    43.56646
+                ],
+                [
+                    19.75725,
+                    43.5649
+                ],
+                [
+                    19.75821,
+                    43.5598
+                ],
+                [
+                    19.75164,
+                    43.55993
+                ],
+                [
+                    19.74392,
+                    43.55723
+                ],
+                [
+                    19.74158,
+                    43.55982
+                ],
+                [
+                    19.7362,
+                    43.55977
+                ],
+                [
+                    19.72968,
+                    43.55221
+                ],
+                [
+                    19.72515,
+                    43.55326
+                ],
+                [
+                    19.72377,
+                    43.54932
+                ],
+                [
+                    19.72178,
+                    43.55031
+                ],
+                [
+                    19.71645,
+                    43.54816
+                ],
+                [
+                    19.71419,
+                    43.54419
+                ],
+                [
+                    19.71742,
+                    43.54302
+                ],
+                [
+                    19.71682,
+                    43.54114
+                ],
+                [
+                    19.72422,
+                    43.53228
+                ],
+                [
+                    19.72224,
+                    43.52593
+                ],
+                [
+                    19.70825,
+                    43.53425
+                ],
+                [
+                    19.7021,
+                    43.53264
+                ],
+                [
+                    19.70004,
+                    43.53392
+                ],
+                [
+                    19.69767,
+                    43.53202
+                ],
+                [
+                    19.6925,
+                    43.53807
+                ],
+                [
+                    19.67834,
+                    43.53875
+                ],
+                [
+                    19.67123,
+                    43.54508
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/janja/",
+        "canonical_url": "https://pss.rs/terenipp/janja/",
+        "pss_id": 23567,
+        "updated_at": "2024-12-07T22:13:02Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
+    },
+    "search": "janja e7-12-1 jugozapadna srbija zlatibor laka",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T13:01:57Z"
+    }
+}

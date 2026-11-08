@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/05/7-9-1-Staza-br.1-Strugara.gpx",
-        "fetched_at": "2026-11-08T11:55:03Z",
-        "checked_at": "2026-11-08T11:55:03Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 175175,
         "sha256": "64ae060a52f68d4b7a9be4395d9e8a1607ca5211dcdef62b7ace2b8fff586812",
         "etag": null,
-        "last_modified": "Wed, 20 Jan 2021 19:56:42 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 1053,
@@ -174,14 +174,14 @@
         "pss_id": 3758,
         "updated_at": "2021-02-27T11:29:11Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:55:04Z",
-        "last_synced_at": "2026-11-08T11:55:04Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "staza br. 1 \"strugara\" 7-9-1 jugoistocna srbija kukavica selo cukljenik, 376 m planinarski dom \"preka voda\", 1270 m kukavica psk • crkva sv. nikole • spomenik vlajku stojiljkovicu (vodja ustanka 1878.) • crkvena vodenica - potocara (cukljenik) zahtevna selo cukljenik - strugara - cukare - strmac - pl.dom \"preka voda\"",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:55:04Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

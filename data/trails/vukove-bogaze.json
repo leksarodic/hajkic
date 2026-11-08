@@ -1,0 +1,405 @@
+{
+    "schema_version": 1,
+    "slug": "vukove-bogaze",
+    "name": "Vukove bogaze",
+    "code": "T-3-29",
+    "category": {
+        "key": "planinarske-transverzale",
+        "label": "Planinarske transverzale"
+    },
+    "pss": {
+        "post_id": 4335,
+        "category_id": 30,
+        "region_ids": [
+            3
+        ],
+        "mountain_ids": [
+            90,
+            89
+        ]
+    },
+    "region": "Zapadna Srbija",
+    "mountain": "Boranja",
+    "difficulty": {
+        "key": "nepoznato",
+        "label": "Nije navedeno",
+        "source": null
+    },
+    "distance": {
+        "official_km": 45.0,
+        "calculated_km": 48.25
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": 700.0,
+        "official_loss_m": 700.0,
+        "calculated_gain_m": 1628.9,
+        "calculated_loss_m": 1547.5,
+        "min_m": 125.1,
+        "max_m": 783.8
+    },
+    "start": null,
+    "end": null,
+    "description": null,
+    "landmarks": "• Spomenik Vuku Karadžiću u centru Loznice\n\n • Spomen-kosturnica iz I svetskog rata na Gučevu \n\n • Manastir Tronoša\n\n • Spomen-kuća Vuka Karadžića u Tršiću\n\n • Banja Koviljača\n\n • Četiri vidikovca",
+    "maintenance": null,
+    "marking": "propisana planinarska",
+    "accommodation": "Planinarska kuća \"Šarena Bukva\"",
+    "notes": "Staza je trasirana 1998. godine, a poslednji put je markirana tokom septembra 2018. godine. \n 21. transverzala održana je 15. i 16. septembra 2018. godine ( http://pkgucevo.org.rs/21-transverzala-vukove-bogaze/ )",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": null,
+    "legend": [],
+    "photos_count": 16,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2017/07/T-3-29-Vukove-bogaze.gpx",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
+        "bytes": 523096,
+        "sha256": "981e156aab6641f9c77c61351eb5fc7d62905fc44fb188270a040ae9a8457ed4",
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 3238,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 6,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2017/07/T-3-29-Vukove-bogaze.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/vukove-bogaze.geojson",
+        "bbox": [
+            19.17423508130014,
+            44.383436338976026,
+            19.28352914750576,
+            44.53296320512891
+        ],
+        "center": [
+            19.228882,
+            44.4582
+        ],
+        "start_point": [
+            19.22238316386938,
+            44.53296320512891
+        ],
+        "end_point": [
+            19.269140269607306,
+            44.49344789609313
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    19.22238,
+                    44.53296
+                ],
+                [
+                    19.21003,
+                    44.53047
+                ],
+                [
+                    19.19806,
+                    44.52431
+                ],
+                [
+                    19.20133,
+                    44.51601
+                ],
+                [
+                    19.19715,
+                    44.51369
+                ],
+                [
+                    19.18855,
+                    44.50135
+                ],
+                [
+                    19.18574,
+                    44.501
+                ],
+                [
+                    19.18157,
+                    44.4953
+                ],
+                [
+                    19.18247,
+                    44.49259
+                ],
+                [
+                    19.17821,
+                    44.49309
+                ],
+                [
+                    19.17916,
+                    44.49123
+                ],
+                [
+                    19.17466,
+                    44.49128
+                ],
+                [
+                    19.17424,
+                    44.48957
+                ],
+                [
+                    19.18051,
+                    44.48512
+                ],
+                [
+                    19.18277,
+                    44.48025
+                ],
+                [
+                    19.19138,
+                    44.47574
+                ],
+                [
+                    19.19748,
+                    44.47505
+                ],
+                [
+                    19.19636,
+                    44.47016
+                ],
+                [
+                    19.2052,
+                    44.4667
+                ],
+                [
+                    19.20574,
+                    44.46199
+                ],
+                [
+                    19.21169,
+                    44.46106
+                ],
+                [
+                    19.21472,
+                    44.45465
+                ],
+                [
+                    19.22219,
+                    44.45664
+                ],
+                [
+                    19.22924,
+                    44.45495
+                ],
+                [
+                    19.23383,
+                    44.44845
+                ],
+                [
+                    19.2392,
+                    44.45005
+                ],
+                [
+                    19.24315,
+                    44.44305
+                ],
+                [
+                    19.24113,
+                    44.44053
+                ],
+                [
+                    19.24995,
+                    44.43928
+                ],
+                [
+                    19.25843,
+                    44.43028
+                ],
+                [
+                    19.26536,
+                    44.43066
+                ],
+                [
+                    19.26922,
+                    44.42804
+                ],
+                [
+                    19.27402,
+                    44.4157
+                ],
+                [
+                    19.27957,
+                    44.41125
+                ],
+                [
+                    19.27772,
+                    44.40878
+                ],
+                [
+                    19.28074,
+                    44.40135
+                ],
+                [
+                    19.27686,
+                    44.39989
+                ],
+                [
+                    19.27756,
+                    44.39679
+                ],
+                [
+                    19.27194,
+                    44.39564
+                ],
+                [
+                    19.2719,
+                    44.38773
+                ],
+                [
+                    19.26868,
+                    44.38344
+                ],
+                [
+                    19.2719,
+                    44.38773
+                ],
+                [
+                    19.27191,
+                    44.39566
+                ],
+                [
+                    19.27776,
+                    44.39692
+                ],
+                [
+                    19.27689,
+                    44.39984
+                ],
+                [
+                    19.28076,
+                    44.40134
+                ],
+                [
+                    19.27784,
+                    44.40896
+                ],
+                [
+                    19.27965,
+                    44.41136
+                ],
+                [
+                    19.27408,
+                    44.41564
+                ],
+                [
+                    19.26923,
+                    44.42797
+                ],
+                [
+                    19.2777,
+                    44.42995
+                ],
+                [
+                    19.27549,
+                    44.43892
+                ],
+                [
+                    19.27824,
+                    44.44025
+                ],
+                [
+                    19.26632,
+                    44.44858
+                ],
+                [
+                    19.2687,
+                    44.45172
+                ],
+                [
+                    19.26567,
+                    44.45706
+                ],
+                [
+                    19.26918,
+                    44.45523
+                ],
+                [
+                    19.2708,
+                    44.45833
+                ],
+                [
+                    19.2785,
+                    44.46236
+                ],
+                [
+                    19.28349,
+                    44.46026
+                ],
+                [
+                    19.28353,
+                    44.46527
+                ],
+                [
+                    19.27508,
+                    44.47295
+                ],
+                [
+                    19.28126,
+                    44.48672
+                ],
+                [
+                    19.27114,
+                    44.48951
+                ],
+                [
+                    19.26914,
+                    44.49345
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_difficulty",
+            "missing_description"
+        ]
+    },
+    "additional": {
+        "Planine/predeli": "Boranja, Gučevo",
+        "Status": "aktivna",
+        "Datum poslednje verifikacije": "06/12/2018",
+        "Društvo": "Gučevo PK",
+        "Vreme obilaska (dana)": "13:00 (2 dana)",
+        "Godina otvaranja": "1998.",
+        "Kontakt": "https://pss.rs/terenipp/vukove-bogaze/",
+        "Vrsta": "linijska",
+        "Broj kontrolnih tačaka": "5",
+        "Opis puta": "• Start transverzale je Vukov spomenik (142m) u Loznici i ide se preko Gučeva (779m) do planinarskog doma \"Šarena bukva\" (806m) na Boranji.\n\n • U povratku ide se pored manastira Tronoša, a cilj je Vukova kuća u Tršiću (185m).\n\n • Kontrolne tačke: KT1 - Spomenik Vuku Karadžiću u Loznici, KT2 - Spomen-kosturnica iz I sv. rata na Gučevu, KT3 - Planinarski dom \"Šarena bukva\" na Boranji, KT4 - Manastir Tronoša, KT5 - Spomen-kuća Vuka Karadžića u Tršiću\n\n • Transverzala je dobro uređena i markirana.",
+        "Dnevnik": "• Postoji Pravilnik transverzale\n\n • Postoji Dnevnik transverzale\n\n • Za sada nema Knjige obilaska transverzale, ali postoje spiskovi učesnika koji su prelazili transverzalu tokom tradicionalnog Vukovog sabora u Tršiću\n\n • Postoji pregledna karta 1:75000, deonice transverzale 1:50000 - 1:20000 \n\n • Dnevnik transverzale i karte se mogu nabaviti u prostorijama kluba PK \"Gučevo\" u Loznici\n\n • Pečati se nalaze u prostorijama kluba PK \"Gučevo\", a pečat za KT 3 nalazi se u planinarskom domu \"Šarena bukva\" na Boranji",
+        "Priznanja": "Značka pojedincima i diploma transverzale za klubove"
+    },
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/vukove-bogaze/",
+        "canonical_url": "https://pss.rs/terenipp/vukove-bogaze/",
+        "pss_id": 4335,
+        "updated_at": "2018-12-17T17:34:16Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
+    },
+    "search": "vukove bogaze t-3-29 zapadna srbija boranja • spomenik vuku karadzicu u centru loznice • spomen-kosturnica iz i svetskog rata na gucevu • manastir tronosa • spomen-kuca vuka karadzica u trsicu • banja koviljaca • cetiri vidikovca nije navedeno",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T13:01:56Z"
+    }
+}

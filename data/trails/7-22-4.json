@@ -59,7 +59,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T12:06:26Z",
+        "checked_at": "2026-11-08T13:01:57Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -99,14 +99,14 @@
         "pss_id": 28529,
         "updated_at": "2026-08-31T08:23:35Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:06:26Z",
-        "last_synced_at": "2026-11-08T12:06:26Z"
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
     },
     "search": "donji del – veliki cemernik (staza br. 6) 7-22-4 jugoistocna srbija cemernik laka staza u fazi realizacije projekta",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:06:26Z"
+        "generated_at": "2026-11-08T13:01:57Z"
     }
 }

@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2022/03/3-34-1-Klisura-reke-Gradac.gpx",
-        "fetched_at": "2026-11-08T12:02:22Z",
-        "checked_at": "2026-11-08T12:02:22Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 69291,
         "sha256": "6c70c90c1d2aa41935969d9d47732b76a4a0991c9768acbb6e4b62770fe4ab24",
         "etag": null,
-        "last_modified": "Wed, 23 Mar 2022 12:16:23 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 383,
@@ -194,14 +194,14 @@
         "pss_id": 15907,
         "updated_at": "2022-04-28T16:22:02Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:02:23Z",
-        "last_synced_at": "2026-11-08T12:02:23Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "klisura reke gradac 3-34-1 zapadna srbija klisura reke gradac valjevo, restoran vidra, 187 m vrelo reke gradac, 273 m povlen pk • manastiri celije i lelic • reka gradac • arheoloski delovi grada \"prokleta jerina\" • vidikovac: celijsko brdo • etno restoran \"skok po skok\" • na trasi ima 2 izvora pitke vode • naselja: selo degiric, selo bogatic • smestaj: na pocetku staze u valjevu, van trase privatni smestaj u selu lelic laka staza pocinje iz valjeva, tacnije od restorana „vidra“. prolazi tik uz reku gradac, levom obalom. uz put nailazi i na kafice gde se moze ugodno odmoriti. delimicno od mosta „milovan glisic“ pored crpne stanice (vodovodne) oko 1 km ide se asfaltnim putem. u zaseoku anicici penje se kroz posumljeni deo do celijskog brda. to je vidikovac odakle se vidi deo klisure reke gradac i valjevske planine (povlen, maljen, suvobor i rudnik). posle se izlazi kroz sumu i prolazi pored manastira celije. u blizini manastira nalazi se etno domacinstvo „skok po skok“. manastir lelic je takodje u blizini do koga planinari cesto produze. staza produzava uz reku do sireg platoa koji se zove sareno platno i gde je leti moguce i kupanje. na liticama iznad reke nalazi se arheolosko nalaziste „prokleta jerina“. na platou se nalazi objekat eko-drustva „gradac\" koje inace gazduje ovim prostorom. posle sarenog platna uz reku na udaljenosti od 3 km dolazi se do izvora reke gradac, odnosno do mesta gde reka suvaja ulazi u reku gradac. ova staza se inace celom svojom duzinom preklapa sa evropskim pesackim putev e7 koji dolazi od jablanika i povlena do hrama u valjevu, a zatim nastavlja ka divcibarama.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:02:23Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

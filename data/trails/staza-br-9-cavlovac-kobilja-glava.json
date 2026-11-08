@@ -79,12 +79,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2023/03/Staza-9-Cavlovac-Kobilja-glava.gpx",
-        "fetched_at": "2026-11-08T12:03:02Z",
-        "checked_at": "2026-11-08T12:03:02Z",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
         "bytes": 116180,
         "sha256": "d7c83466e281746e8326983afc87786e0258d1575b05abfdde132e41fbf57376",
         "etag": null,
-        "last_modified": "Thu, 30 Mar 2023 20:50:55 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 1103,
@@ -212,14 +212,14 @@
         "pss_id": 19253,
         "updated_at": "2023-09-08T20:24:24Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:03:03Z",
-        "last_synced_at": "2026-11-08T12:03:03Z"
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
     },
     "search": "staza br. 9: cavlovac – kobilja glava 5-12-16 jugozapadna srbija zlatibor objekat za separaciju rude na putu za ribnicko jezero objekat za separaciju rude na putu za ribnicko jezero tornik pk vrh kobilja glava (1178 m), crni vrh (1198 m), vrh dzamija (1176 m), sumarska kuca u cavlovcu, izvor gudura laka separacija magnezita - planinski dom \"tornik\" (0,4 km) - kutlese (0,9 km) - vrh kobilja glava (3,1 km) - izvor u guduri (4,1 km) -sumarska kuca (5,5 km) - svatovsko groblje (6,5 km) - crni vrh (7,5 km) - vrh dzamija (9,4 km) - kutlese (13,0 km) - separacija magnezita (13,8 km)",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:03:03Z"
+        "generated_at": "2026-11-08T13:01:57Z"
     }
 }

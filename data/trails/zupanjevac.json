@@ -70,7 +70,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T11:56:28Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -110,14 +110,14 @@
         "pss_id": 3959,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:56:28Z",
-        "last_synced_at": "2026-11-08T11:56:28Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "zupanjevac 2-14-17 sumadija gledicke planine man kalenic 457 mnv man kalenic 457 mnv ljukten psd man. kalenic, stari grad zupanjevac, ostaci crkve sv. jovana na gradu, grad strazevica, crkva sv. petke u potoku ispod grada, govor voda zahtevna man. kalenic- cvoraja- zupanjevac- man. kalenic",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:56:28Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

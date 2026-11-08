@@ -79,12 +79,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2024/06/Ravni-Dreznik.gpx",
-        "fetched_at": "2026-11-08T12:05:55Z",
-        "checked_at": "2026-11-08T12:05:55Z",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
         "bytes": 198050,
         "sha256": "66789441fbeedc2a6ecde5d60946ba3000bda38ee68a2fd576243599027f1597",
         "etag": null,
-        "last_modified": "Tue, 18 Jun 2024 08:06:40 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 1823,
@@ -216,14 +216,14 @@
         "pss_id": 24752,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:05:56Z",
-        "last_synced_at": "2026-11-08T12:05:56Z"
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
     },
     "search": "ravni (centar) – dreznik (centar) 5-12-25 jugozapadna srbija zlatibor ravni (centar) - autobusko stajaliste, kafana i prodavnica - 522 m dreznik (centar) - autobusko stajaliste i prodavnica - 624 m zlatibor pd vrh kucista (vrh planine lipovac), crkava u drazniku, kanjon reke veliki rzav, bliznina zlatibora kao turisticeke destinacije. vidikovci: pre raskrsnice za kucista (na kucista), nakon raskrsnice za kucista (malo nize), na greben lipovca, kada se predje na dreznicku stranu ka dreznickoj gradini i sire. laka polazak iz pravca ravni od centra sela – kafana, prodavnica i autobusko stajaliste, gde je planirano postavljanje info table (kod poste i bivse prodavnice). staza ide asfaltnim putem za skrzuti jedan kilometar, pa skrece desno putem za selo vrane, nakon kilometr i dvesta metara, kod mosta skrece levo blago uzbrdo za gornje vrane (drugi put nastavlja desno za donje vrane), i nakon 1200m napusta asfaltni put i skrece levo uzbrdo prema lipovcu (i drezniku). ide dobrim makadamskim putem uzbrdo. nakon devetstotina metara se napusta dobar makadam i skrece levo na dobar zemljani put i dalje narednih pet stotina metara dolazi na cetvorostruko racvanje puta. mi skrecemo, opet levo, na losiji zemljani put uzbrdo i njega se drzimo i polako penjemo, ka najvisim tackama lipovca. nakon kilometar i petstotina metara stizemo na mesto, gde se odvaja staza za vrh kucista 932m. od tog mesta do vrha 360m, a mi produzavamo pravo, do nove raskrsnice (na kilometar i sto od prethodne), gde se desno produzava dobar zemljani put za dreznik centar, a levo zemljanim putem preko livade za skrzuti i vezu sa e7 putem. od tog mesta staza krece nizbrdo (posle petstotina metara krece asfalni put) i tako sve do dna dreznicke doline, a onda asfaltnim seoskim putem, blago uzbrdo, do centra dreznika.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:05:56Z"
+        "generated_at": "2026-11-08T13:01:57Z"
     }
 }

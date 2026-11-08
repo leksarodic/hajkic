@@ -80,7 +80,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T12:03:28Z",
+        "checked_at": "2026-11-08T13:01:57Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -120,14 +120,14 @@
         "pss_id": 19527,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:03:28Z",
-        "last_synced_at": "2026-11-08T12:03:28Z"
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
     },
     "search": "ratkova staza 5-17-3 jugozapadna srbija ovcar medjuvrsje, obilazni put oko tunela - 280 m vrh ovcar - 986 m kablar pd vrlo teska staza krece sa obilaznog puta oko tunela na putu ovcar banja - cacak. najatraktivnija staza na ovcaru. konstantan uspon kroz sumu, na momente izlazak na otvorene delove terena, podloga zemlja i kamen. jedan od najlepsih vidikovaca je na ovoj stazi.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:03:28Z"
+        "generated_at": "2026-11-08T13:01:57Z"
     }
 }

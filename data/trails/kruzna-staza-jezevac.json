@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/12/4-49-3-Jezevac.gpx",
-        "fetched_at": "2026-11-08T11:59:14Z",
-        "checked_at": "2026-11-08T11:59:14Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 199288,
         "sha256": "6997e188e39432ccc415ab7ac9b2e4d413de76ff8bba81e1aae2d197065b1fdf",
         "etag": null,
-        "last_modified": "Mon, 31 Oct 2022 01:21:54 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 1203,
@@ -186,14 +186,14 @@
         "pss_id": 5654,
         "updated_at": "2022-10-31T01:23:52Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:59:16Z",
-        "last_synced_at": "2026-11-08T11:59:16Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "kruzna staza jezevac 4-49-3 istocna srbija jezevac manastir gornjak, 170m setonjski most, 158m vukan pk • srednjovekovni manastir gornjak • izletiste cvarinac • dva izvora pitke vode zahtevna od manastira gornjak, sumskim putem uz reku mlavu do izletista i izvora cvarinac, uspon sumskim putem, posle izlaza iz sume stazom kroz kamenjar do vrha jezevac (675m). sa vrha stenovitim grebenom, spust do sumskog puta i njime do izvora lalin kladenac (izvor patuljak). uspon stazicom na padini kozjeg grba i spust sumskim putem preko konjica do setonjskog mosta.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:59:16Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

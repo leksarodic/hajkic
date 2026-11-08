@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2020/07/2-3-1-Ritpopek-Vinca.gpx",
-        "fetched_at": "2026-11-08T12:01:02Z",
-        "checked_at": "2026-11-08T12:01:02Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 179110,
         "sha256": "b988037739b32a7ffa24e33838b5d804dc22460cc0a1a6202ed8f3cd6111a468",
         "etag": null,
-        "last_modified": "Mon, 20 Jul 2020 11:55:43 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 1089,
@@ -178,14 +178,14 @@
         "pss_id": 11761,
         "updated_at": "2020-09-10T23:20:29Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:01:02Z",
-        "last_synced_at": "2026-11-08T12:01:02Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "ritopek - vinca 2-3-1 sumadija avala okretnica autobusa 304 u ritopeku, 70 m stanica autobusa 307 „vincanska“, 94 m zeleznicar pd beograd • crkva svete trojice u ritopeku • spomenik palim borcima crvene armije u ritopeku • crkva svetih apostola petra i pavla u vinci • institut za nuklearne nauke “vinca” • muzej “arheolosko nalaziste vinca” • smestaj van trase u hotelu “radmilovac” i hostelu “obala” u vinci • naselja ritopek i vinca • na trasi dva izvora pitke vode, na pocetku staze i kod crkve svetih apostola petra i pavla u vinci laka • staza pocinje na okretnici gradskog autobusa broj 304 u ritopeku. u neposrednoj blizini okretnice, nalazi se skela ritopek-ivanovo i bife, odakle se polazi na pesacenje. • staza vodi pored crkve svete trojice i onda uzbrdo do vrha brda na kome se nalazi spomenik palim borcima crvene armije koji su stradali u borbi za oslobodjenje ritopeka i beograda. od spomenika se ide ulicama do ulaza u ritopek, gde je skretanje na zemljani put. na dalje staza ide kroz vocnjake i njive, a tu je i jedan prelep vidikovac prema vinci i dunavu. u vinci se moze obici crkva svetih apostola petra i pavla i na kraju muzej: arheolosko nalaziste vinca. • iz vince se gradskim autobusom broj 307 moze vratiti u beograd.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:01:02Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

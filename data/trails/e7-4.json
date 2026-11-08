@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/05/E7-4-Bac-Novi-Sad.gpx",
-        "fetched_at": "2026-11-08T12:50:02Z",
-        "checked_at": "2026-11-08T12:50:02Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 78584,
         "sha256": "c4cbd69ada8e4b81ab6d06e165f086aaf7e7bd163d207220501abb739bfcc9d3",
         "etag": null,
-        "last_modified": "Sat, 07 Dec 2024 21:22:34 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": false,
         "points": 1079,
@@ -436,14 +436,14 @@
         "pss_id": 3595,
         "updated_at": "2024-12-07T21:22:42Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:50:03Z",
-        "last_synced_at": "2026-11-08T12:50:03Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "bac - novi sad e7-4 vojvodina karadjordjevo ravnicar psd • karadjordjevo - spec. rezervat prirode • celarevo - nekropola iz 8. i 9. veka • kulpin - dvorac grofovske porodice dundjerski laka • od drevnog baca preko istorijske recice mostonga put ide prema mladenovu i karadjordjevu koje je poznato kao turisticko mesto, ekskluzivno loviste sa ergelom konja koja je osnovana 1885. godine u austrougarskoj monarhiji. ovo je bilo loviste srpske kraljevske dinastije karadjordjevic, a zatim i predsednika nekadasnje jugoslavije. josipa broza tita. • deo karadjordjeva zasticen je kao specijalni rezervat prirode sa vrednim sadrzajem flore i faune nekadasnjih ritskih suma pored dunava. • od karadjordjeva put vodi za grad backu palanku sa vrednom paleontoskom postavkom izumrlih zivotinja sa teritorije vojvodine. medju njima su ostaci mamuta stari preko 25.000 godina. u backoj palanci organizuje se poznati dzez i bluz festival u mesecu junu kada se obelezava i dan dunava 29. jun. • kod mesta celarevo je najveca otkrivena nekropola iz 8. i 9. veka sa vrednim nalazima zlatnog nakita, oruzja i orudja. u blizini je i gradic backi petrovac. posebno su znacajne slovacke narodne svecanosti u avgustu mesecu koje se odrzavaju od 1919. godine. na njima se pokazuje bogatstvo kulturnog nasledja slovaka koji zive u ovom delu vojvodine. • u mestu kulpin nalazi se dvorac grofovske porodice dundjerski koji mnogi smatraju najromanticnijim mestom u vojvodini, a takodje i poljoprivredni muzej vojvodine. put nastavlja nasipom leve obale dunava sa lepim vidicima prema vencu planine fruske gore. • hodajuci niz dunav sa njegove leve strane prema mestu futog put e7 prolazi pored zasticenog prirodnog dobra park prirode begecka jama. ovo je prava oaza raznovrsne flore i faune takozvanih vlaznih stanista. prisutne su skoro sve pticje vrste barske faune. veoma cesto se mogu videti velika jata labudova. lagano pored dunava koji nas deli od severnih padina planine fruske gore, koja je u davno geolosko vr",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:50:03Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

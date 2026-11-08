@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2019/01/4-42-1-Vrska-cuka-Vlaski-do.gpx",
-        "fetched_at": "2026-11-08T11:59:46Z",
-        "checked_at": "2026-11-08T11:59:46Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 223844,
         "sha256": "ba04a6be729c30a60adbc3f50e99884490cc87914f0ace666058bdd156194afb",
         "etag": null,
-        "last_modified": "Sat, 23 Feb 2019 15:11:03 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 1376,
@@ -230,14 +230,14 @@
         "pss_id": 8192,
         "updated_at": "2019-02-23T15:14:20Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:59:47Z",
-        "last_synced_at": "2026-11-08T11:59:47Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "vrska cuka - vlaski do - kruzna staza 4-42-1 istocna srbija stara planina zaseok gornja prlita, 320m zaseok gornja prlita, 210m ljuba nesic psd • crkva sveti jovan • pocetna stanica nekadasnje \"belgijske pruge\" • belgijska kuca • vidikovci na vrhu vrska cuka i na vrhu vlaskog dola • na trasi ima izvora pitke vode u zaseoku gornja prlita (nakon silaska sa vrske cuke) i u vlaskom dolu, na platou nekadasnje pocetne stanice timocke pruge • na trasi ima privatnog smestaja laka • vrska cuka je najseverniji deo stare planine, 12km istocno od zajecara. preko najviseg vrha prostire se srpsko-bugarska granica. vrh vrska cuka je u bugarskoj (692m), a najvisa kota na srpskoj stani je 672m. • pocetak staze je na platou (raskrscu) sela prlita i grljana. odatle se ide do vrha zamljenim putem oko 2 sata hoda, sa visinskom razlikom od 350m. sa vrha je impresivan pogled ka bugarskoj i srpskoj strani. • sa vrha se silazi grebenom ka zaseoku gornja prlita (tu je i prva cesma). kroz gornju prlitu se dolazi u vlaski do i to najpre asfaltnim, a potom zemljanim i sumskim putem, preko platoa, iznad klisure, na vrh vlaskog dola uz uspon do krsta, do crkve sv. jovan izgradjene na temeljima svetilista iz vizantijskog doba i do izletista. to sadasnje izletiste je, ustvari, ostatak pocetne stanice prve timocke pruge, nekadasnje \"belgijske pruge\", sagradjene 1888. godine. sagradili su je belgijanci da bi prevozili kameni ugalj sa vrske cuke, do 80km udaljenog pristanista radujevac, odakle su se, preko dunava, ugalj, a kasnije i druga vrsta robe (kao npr. rajacko vino), prevozili u inostrane zemlje. pred \"gasenje\" te pruge taj voz je koriscen i za prevoz ljudi (prosecna brzina kretanja voza bila je 10km/h). vlaski dol je mesto u ataru sela prlita koje ima sve sto se u prirodi pozeleti moze - reku, klisuru, pecine, livade, proplanke, sume, stene... • sa platoa vlaskog dola moguc je obilazak klisure prlitske reke. grebenom vlaskog dola, najvecim delom zemljanim putem, ostatkom nekadasnje pruge kojom se prevozio ugalj od rudnika do pocetne stanice \"belgijske pruge\", dolazi se u selo prilita, odnosno na pocetak staze.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:59:47Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

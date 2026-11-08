@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2019/07/7-3-11-Banjica-Kusaca.gpx",
-        "fetched_at": "2026-11-08T12:00:32Z",
-        "checked_at": "2026-11-08T12:00:32Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 90509,
         "sha256": "6ab98037fbe52d527cc3ff4aa10a7836fb1f11e85fbe767ad9540bb2ebc53329",
         "etag": null,
-        "last_modified": "Tue, 23 Jul 2019 12:36:03 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 595,
@@ -214,14 +214,14 @@
         "pss_id": 9341,
         "updated_at": "2019-07-23T12:42:08Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:00:33Z",
-        "last_synced_at": "2026-11-08T12:00:33Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "banjica - kusaca 7-3-11 jugoistocna srbija suva planina izletiste banjica, naselje orovica, 230 m izletiste banjica, naselje orovica, 230 m mosor psk • vidikovci: veci broj vidikovaca prema svrljiskim planinama i prema suvoj planini. sa vrha se odlicno vidi sicevacka klisura i tok reke nisave. • na pocetku staze ima jedan izvor pitke vode. • najblize naselje ostrovica • na trasi nema smestaja. u blizini su niska banja i bela palanka. zahtevna • cilj staze: vrh vis (kusaca), 771 m • pocetak staze je na prelepom izletistu banjica, pored samog toka reke nisave. u prvom delu staze je makadamski put a zatim se ulazi u listopadnu sumu. staza je dobo markirana i uredjena, istu stazu koriste i trkaci i rekreativci. nakon izlaska iz sume staza je prilicno strma, ima dosta kamenja i potrebna je obuca sa jakim djonom. sa vrh se odlicno vide na jednoj strani svrljiske planine, a na drugoj kompletna suva planina. sa vrha je dobar pogled i na sicevacku klisuru i tok reke nisave. na pocetku staze, na izletistu ima uredjena cesma sa pijacom vodom, a postavljen je i tus.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:00:33Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

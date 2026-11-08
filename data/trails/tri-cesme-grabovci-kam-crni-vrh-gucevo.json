@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2018/12/3-3-2-Staza-2.gpx",
-        "fetched_at": "2026-11-08T11:59:30Z",
-        "checked_at": "2026-11-08T11:59:30Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 60946,
         "sha256": "3f7a729f5945720f8fe32deff563f8ca37c3b5d1126bd7d18cb789e3e314aaf8",
         "etag": null,
-        "last_modified": "Mon, 17 Dec 2018 18:28:32 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 486,
@@ -174,14 +174,14 @@
         "pss_id": 7907,
         "updated_at": "2024-07-01T14:54:34Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:59:31Z",
-        "last_synced_at": "2026-11-08T11:59:31Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "tri cesme - grabovci - kam - crni vrh (gucevo) 3-3-2 zapadna srbija gucevo banja koviljaca, \"tri cesme\", 156m crni vrh, vrh guceva, 779m gucevo pk • banja koviljaca • spomen kosturnica iz prvog svetskog rata • vidikovaca: 3 • izvora pitke vode: 4 • na trasi ima kamp, odmaraliste i privatni smestaj • van trase ima planinarski objekat zahtevna iza izvora \"tri cesme\" krenuti cik-cak trim stazom navise. doci do bolnice-sanatorijum starog zdanja, izaci na kapiju, preci 50-tak metara asfalta i navise pored napustenih kuca preci na brdo miskovac i proci pored igralista decijeg odmaralista. potom kroz gustu kestenovu sumu otpoceti uspon preko grebena grabovci. nakon koga sledi nesto strmija staza zavrsnog zapadnog grebena guceva zvanog kam (izbor skretanja ka jednoj od vise stena - vidikovaca). nastaviti uspon preko kamenite bukve sa mogucnoscu izbora kretanja ka samom vrhu guceva, asfaltom (zimi) ili kroz sumu (leti).",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:59:31Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

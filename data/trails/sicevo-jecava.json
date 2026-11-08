@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2020/11/4-39-7-Sicevo-Jecava.gpx",
-        "fetched_at": "2026-11-08T12:01:23Z",
-        "checked_at": "2026-11-08T12:01:23Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 22124,
         "sha256": "a0d2cf2570c6e91926c3d31f3ebf87c3d3a48f7b8b6c2cd84afa96b8de03f8a6",
         "etag": null,
-        "last_modified": "Sat, 14 Nov 2020 13:23:19 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 164,
@@ -158,14 +158,14 @@
         "pss_id": 12392,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:01:24Z",
-        "last_synced_at": "2026-11-08T12:01:24Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "sicevo - jecava 4-39-7 istocna srbija svrljiske planine sicevo, 330 m sicevo, 410 m mosor psk • vidikovac: jecava • naseljeno mesto: sicevo • na trasi nema izvora pitke vode • na trasi nema smestajnih objekata laka polazak na stazu je sa lokalnog puta na ulazu u selo sicevo. zatim vodi obodom istoimenog sela, preko vlaskog dola do same jecave na litici sicevacke klisure. zatim se liticom vraca do sela sicevo.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:01:24Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

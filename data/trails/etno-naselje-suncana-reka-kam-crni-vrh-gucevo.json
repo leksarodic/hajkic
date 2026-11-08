@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2018/12/3-3-3-staza-3.gpx",
-        "fetched_at": "2026-11-08T11:59:32Z",
-        "checked_at": "2026-11-08T11:59:32Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 62215,
         "sha256": "3f82b6b34e4256b83e52dcdeb107832f912f41ee4e68360a0fc1440bac1f52ee",
         "etag": null,
-        "last_modified": "Mon, 17 Dec 2018 18:54:20 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 505,
@@ -178,14 +178,14 @@
         "pss_id": 7925,
         "updated_at": "2018-12-17T19:01:13Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:59:33Z",
-        "last_synced_at": "2026-11-08T11:59:33Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "etno naselje suncana reka - kam - crni vrh (gucevo) 3-3-3 zapadna srbija gucevo etno naselje \"suncana reka\" (reka drina), 133m crni vrh, vrh guceva, 799m gucevo pk • reka drina • etno selo \"suncana reka\" • spomen kosturnica iz prvog svetskog rata • izvori pitke vode: 3 • na trasi: kamp i odmaraliste • van trase: planinarski objekat zahtevna sa parkinga etno naselja \"suncana reka\" preci magistralni put loznica-mali zvornik, popeti se na pruzni bedem i krenuti u pravcu severa i zapoceti uspon padinama guceva. doci na padine vinogradine odakle se vec vidi piramidalni deo guceva \"kam\". izlaskom na asfaltni put krenuti udesno pored putnog branika i na njegovom kraju otpoceti uspon izohipsom ka kamskoj steni. od stene-vidikovca grebenom kama doci do spajanje sa stazom br. 2 i istim pravcem preci breg kamenite bukve i doci do spomen kosturnice i samog crnog vrha.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:59:33Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

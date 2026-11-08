@@ -1,0 +1,229 @@
+{
+    "schema_version": 1,
+    "slug": "pribojska-banja",
+    "name": "Pribojska Banja",
+    "code": "E7-12-2",
+    "category": {
+        "key": "evropski-pesacki-putevi-u-srbiji",
+        "label": "Evropski pešački putevi u Srbiji"
+    },
+    "pss": {
+        "post_id": 23568,
+        "category_id": 29,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            193
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Bič",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "lak"
+    },
+    "distance": {
+        "official_km": null,
+        "calculated_km": 18.32
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": null,
+        "official_loss_m": null,
+        "calculated_gain_m": 0.0,
+        "calculated_loss_m": 0.0,
+        "min_m": 0.0,
+        "max_m": 0.0
+    },
+    "start": null,
+    "end": null,
+    "description": null,
+    "landmarks": null,
+    "maintenance": null,
+    "marking": null,
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": null,
+    "club": null,
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2024/02/E7-12-2.gpx",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
+        "bytes": 79211,
+        "sha256": "170036d0a295378c4d286fbda308f85b5dc146b13a6b9f9bb40390dbfb23c82f",
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": false,
+        "points": 1092,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2024/02/E7-12-2.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/pribojska-banja.geojson",
+        "bbox": [
+            19.547765439,
+            43.544035548,
+            19.671228202,
+            43.570894105
+        ],
+        "center": [
+            19.609497,
+            43.557465
+        ],
+        "start_point": [
+            19.671228202,
+            43.545080573
+        ],
+        "end_point": [
+            19.550962327,
+            43.544035548
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    19.67123,
+                    43.54508
+                ],
+                [
+                    19.65956,
+                    43.54453
+                ],
+                [
+                    19.64469,
+                    43.55495
+                ],
+                [
+                    19.63979,
+                    43.56208
+                ],
+                [
+                    19.63053,
+                    43.56848
+                ],
+                [
+                    19.61644,
+                    43.56939
+                ],
+                [
+                    19.61404,
+                    43.56792
+                ],
+                [
+                    19.60705,
+                    43.57089
+                ],
+                [
+                    19.59447,
+                    43.56831
+                ],
+                [
+                    19.59522,
+                    43.56545
+                ],
+                [
+                    19.58993,
+                    43.56026
+                ],
+                [
+                    19.59012,
+                    43.5573
+                ],
+                [
+                    19.58207,
+                    43.54916
+                ],
+                [
+                    19.57018,
+                    43.55269
+                ],
+                [
+                    19.5618,
+                    43.55056
+                ],
+                [
+                    19.56086,
+                    43.54609
+                ],
+                [
+                    19.55769,
+                    43.54957
+                ],
+                [
+                    19.55897,
+                    43.55351
+                ],
+                [
+                    19.56499,
+                    43.55708
+                ],
+                [
+                    19.55872,
+                    43.55803
+                ],
+                [
+                    19.54777,
+                    43.55104
+                ],
+                [
+                    19.55096,
+                    43.54404
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description",
+            "missing_elevation"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/pribojska-banja/",
+        "canonical_url": "https://pss.rs/terenipp/pribojska-banja/",
+        "pss_id": 23568,
+        "updated_at": "2024-12-07T22:13:50Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
+    },
+    "search": "pribojska banja e7-12-2 jugozapadna srbija bic laka",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T13:01:57Z"
+    }
+}

@@ -79,12 +79,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/05/E7-6-Sremska-Mitrovica-Cer.gpx",
-        "fetched_at": "2026-11-08T12:50:55Z",
-        "checked_at": "2026-11-08T12:50:55Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 94629,
         "sha256": "55dc9988fb670145ee679bca48e59d7cf7cf4e286fd2b052199dc1bc3a0f09a9",
         "etag": null,
-        "last_modified": "Sat, 07 Dec 2024 21:24:29 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": false,
         "points": 1301,
@@ -512,14 +512,14 @@
         "pss_id": 3719,
         "updated_at": "2024-12-07T21:24:53Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:50:56Z",
-        "last_synced_at": "2026-11-08T12:50:56Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "sremska mitrovica - cer e7-6 zapadna srbija zasavica borkovac pk zasavica (spec. rezervat prirode), manastir cokesina, planina cer (kosanin grad, trajanov grad) laka • sremska mitrovica je veliki grad na cijoj lokaciji u bogatoj proslosti se smenjuju naselja, od vremena neolita do danas. rimljani zauzimaju srem 31. godine. strateski znacaj grada koji je nazvan sirmijum je veliki. u njemu borave rimski carevi septimije sever, maksimilijan tracanin a zatim i carevi koji su ovde rodjeni, dacije trajan, lucije domicije aurelijan i marko aurelije prob koji je doneo vinovu lozu u ove krajeve. za vreme vladavine iz perioda tetrarhije u sirmijumu je upravljao car galerije. u to vreme se sirmijum podize i ukrasava. posle proglasenja milanskog edikta 313. godine kojim hriscanstvo dobija legitimitet u sirmijumu se formira episkopija. • u 5. i 6. veku sirmijum napadaju i konacno razaraju huni. grad dobija konacno ime dmitrovica u srednjem veku po imenu sveca zastitnika svetog dimitrija. • danas se u gradu nalaze brojni arheoloski lokaliteti i ostaci carskih palata. u muzeju srema nalazi se bogat lapidarijum. od novih objekata zanimljiva je stara pravoslavna crkva svetog stefana iz 16. veka, rimokatolicka crkva svetog dimitrija i zupni dvor iz 19. veka. • iz sremske mitrovice put e7 prelazi pesackim mostom sv. irineja preko reke save prema centralnoj srbiji. • prelaskom na desnu obalu save put e7 krece se kroz podrucje ravnice macve. ravnica je nastala na uscu reke drine u savu sa nanosenjem debelih naslaga recnog sljunka i formiranjem brojnih meandara starih tokova, bara i mrtvaja. • jedan od takvih fenomena je i bara zasavica koja predstavlja stari tok save a danas se „hrani” podzemnim dotokom iz voda reke drine. u bari je stvoren specifican ekosistem sa vrednim primercima bioloske raznovrsnosti. • danas je ovo podrucje zasticeno kao specijalni rezervat prirode na povrsini od 1825 hektara. od toga je 675 hektara u prvom stepenu zast",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:50:56Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

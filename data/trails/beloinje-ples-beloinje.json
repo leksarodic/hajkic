@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2018/11/4-39-6-Ples.gpx",
-        "fetched_at": "2026-11-08T11:59:27Z",
-        "checked_at": "2026-11-08T11:59:27Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 107530,
         "sha256": "b0d9d861e26c4a92a355deff460c8f602f34eb68985762a594b85bfbd4ecc4d7",
         "etag": null,
-        "last_modified": "Fri, 16 Nov 2018 11:56:12 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 647,
@@ -202,14 +202,14 @@
         "pss_id": 7655,
         "updated_at": "2018-11-16T12:00:56Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:59:27Z",
-        "last_synced_at": "2026-11-08T11:59:27Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "beloinje - ples - beloinje 4-39-6 istocna srbija svrljiske planine selo beloinje, 414m selo beloinje, 414m preslap pd • vidikovci: podevala (800m), vrh ples (1267m) zahtevna polazak je na ulasku u selo beloinje, oko 5 km istocno od svrljiga. ide se seoskim makadamskim putem u blagom usponu puna 4 km. potom se staza odvaja od glavnog puta, i u nesto strmijem nagibu se stize do drugog makadamskog puta koji vodi do samog podnozja vrha ples, i do pocetka zavrsnog uspona na vrh. zavrsni uspon se obavlja sirokom i prohodnom stazom koja delimicno pripada \"niskoj transverzali\". vrh ples je ogoljen, bez sume, pa je i sjajan vidikovac na tri velike susedne opstine: nis, bela palanka i svrljig. povratak u beloinje se obavlja istom stazom. u vecem delu staza prolazi kroz sumu. postoje pet veoma vaznih raskrsnica na kojima treba voditi racuna o pravcu kretanja, i pratiti markirane oznake. posebnu paznju treba obratiti na prevoju podevala, i dobro pratiti nacrtane oznake, narociti pri spustu. cela staza je odlicno markirana propisnim oznakama, od mesta odakle se polazi na uspon u selu beloinje, pa do samog vrha ples. staza je markirana kako u smeru uspona, tako i u smeru spusta.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:59:27Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

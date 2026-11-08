@@ -74,12 +74,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/05/E4-1-Horgos-Ada.gpx",
-        "fetched_at": "2026-11-08T12:50:09Z",
-        "checked_at": "2026-11-08T12:50:09Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 45446,
         "sha256": "8b8ba735a909a58d91e803e70357cba1f50e544d8736892ee80a9c9224b0c1f2",
         "etag": null,
-        "last_modified": "Thu, 05 Dec 2024 19:15:42 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": false,
         "points": 621,
@@ -345,14 +345,14 @@
         "pss_id": 3626,
         "updated_at": "2024-12-05T20:45:47Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:50:10Z",
-        "last_synced_at": "2026-11-08T12:50:10Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "horgos - ada e4-1 vojvodina kanjiza kindja pd • banja kanjiza, park prirode kamaras, jezera adorjan, martonos i sarvasko, \"cvetanje tise\"; • u senti spomenik sencanske bitke - 1697.g, zavicajna kuca stevana sremca, pravoslavna i katolicka crkva; • ada - salasi u blizini vestackog jezera budzak. laka • evropski put e4 silazi u srbiju iz madjarske krivudajuci mirnim tokom ravnicarske reke tise od severa prema jugu banata. ko prolazi u ranom letnjem mesecu kroz kanjizu i njene tople banje dozivece mozda neobicno cvetanje reke kada se iz vode pojavljuju bezbrojni rojevi insekta zvanog ,,tiski cvet”. • put prolazi kroz gradove i manja naselja koja su sacuvala tradiciju stare austrougarske monarhije i bogatog etnokulturnog nasledja. danas je kanjiza centar savremene kulture i stvaralastva. na putu od kanjize ka senti i adi, iz do line tise prema zapadu uocavaju se konture blago zatalasanog gornjeg brega koji predstavlja istocne obode horgoske i suboticke pescare. • takodje prema zapadu, u blizini subotice, nalaze se i poznata jezera palic i ludosko, zasticeni parkovi prirode, pored kojih prolazi put e7. u sacuvanim predelima panonske ravnice, pored reke zlatice, nalaze se pasnjaci veoma retke najvece ptice evrope, „velike droplje”",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:50:10Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

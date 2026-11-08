@@ -80,7 +80,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T11:56:31Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -120,14 +120,14 @@
         "pss_id": 3962,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:56:31Z",
-        "last_synced_at": "2026-11-08T11:56:31Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "veluce-lisac 6-5-5 kopaonicko-toplicka regija goc man. veluce 240 mnv mitrovo polje 673 mnv ljukten psd man. veluce- crkva sv. ilije leskovica- pecina zaseoka boskovici zahtevna man. veluce- pogled- sablja- viljak- lisac- mitrovo polje",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:56:31Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

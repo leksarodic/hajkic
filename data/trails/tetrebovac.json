@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2020/06/5-12-3-Tetrebovac.gpx",
-        "fetched_at": "2026-11-08T12:00:44Z",
-        "checked_at": "2026-11-08T12:00:44Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 26598,
         "sha256": "ab757aed4c54e5d33a5166c98fadeadc9eab0e0a87aca9ec7f4cf73b56ca051f",
         "etag": null,
-        "last_modified": "Tue, 02 Jun 2020 16:37:51 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 192,
@@ -226,14 +226,14 @@
         "pss_id": 11545,
         "updated_at": "2023-03-27T12:32:43Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:00:45Z",
-        "last_synced_at": "2026-11-08T12:00:45Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "staza br. 11: tetrebovac - stekovci 5-12-3 jugozapadna srbija zlatibor na magistrali zlatibor - nova varos - ulaz u opstinu nova varos, 1043 m na magistrali zlatibor - nova varos - ulaz u opstinu nova varos, 1043 m tornik pk • znacajni lokalitet: park prirode zlatibor • vidikovci: crni omar, klikovi, karaula, coska ploca, ravni, tetrebovac • naselja: suljagici zahtevna staza pocinje na granici opstina cajetina i nova varos, pored magistralnog puta. staza krece u pravcu jugozapada kroz zaseok suljagici do vidikovca iznad kanjona reke uvac zvanog klikovi. odatle nastavlja u pravcu severa obodom kanjona uvca preko vidikovca karaula do vidikovca ravni, a odatle u pravcu severoistoka preko vrha tetrebovac (1136 m) vraca na pocetnu tacku. na sedmom kilometru postoji izvor pijace vode. svojom trasom staza prolazi kroz dve trecine kanjona reke uvac koji se nalazi u kategoriji 1 parka prirode zlatibor. na vidikovcima je potrebna opreznost.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:00:45Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

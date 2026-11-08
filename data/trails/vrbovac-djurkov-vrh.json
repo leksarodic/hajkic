@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/05/4-29-1-Vrbovac-Djurkov-vrh.gpx",
-        "fetched_at": "2026-11-08T11:55:40Z",
-        "checked_at": "2026-11-08T11:55:40Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 204835,
         "sha256": "2f24a67d96cf0216455d46b0a555634047ad7efc3b8b0947a0052dd1b05d0fae",
         "etag": null,
-        "last_modified": "Fri, 21 Dec 2018 08:35:09 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 1264,
@@ -180,14 +180,14 @@
         "pss_id": 3833,
         "updated_at": "2018-12-21T08:37:59Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:55:40Z",
-        "last_synced_at": "2026-11-08T11:55:40Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "vrbovac- djurkov vrh 4-29-1 istocna srbija rozanj vrbovac- centar sela, 370 mnv djurkov vrh, 544 mnv ostra cuka pd • crkva sv. nikole • vidikovac djurkov vrh • na stazi ima izvor pitke vode • na stazi nema smestaja laka",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:55:40Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

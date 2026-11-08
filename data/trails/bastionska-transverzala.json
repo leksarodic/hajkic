@@ -1,0 +1,484 @@
+{
+    "schema_version": 1,
+    "slug": "bastionska-transverzala",
+    "name": "Bastionska transverzala",
+    "code": "T-4-41",
+    "category": {
+        "key": "planinarske-transverzale",
+        "label": "Planinarske transverzale"
+    },
+    "pss": {
+        "post_id": 6888,
+        "category_id": 30,
+        "region_ids": [
+            4
+        ],
+        "mountain_ids": [
+            114
+        ]
+    },
+    "region": "Istočna Srbija",
+    "mountain": "Romulijana",
+    "difficulty": {
+        "key": "nepoznato",
+        "label": "Nije navedeno",
+        "source": null
+    },
+    "distance": {
+        "official_km": 68.75,
+        "calculated_km": 67.47
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": 1606.0,
+        "official_loss_m": 1611.0,
+        "calculated_gain_m": 1516.7,
+        "calculated_loss_m": 1523.2,
+        "min_m": 51.2,
+        "max_m": 439.9
+    },
+    "start": null,
+    "end": null,
+    "description": null,
+    "landmarks": "• Zaječarski bastioni: utvrđenja na istočnoj i zapadnoj Kraljevici, utvrđenje na Parajankuli, utvrđenje na Kravarniku, utvrđenje Kraljica Natalija na Koilovoj čuki, utvđenje na Vlaškom brdu, utvrđenje na Plandištu, utvrđenje Zabela poznato i pod imenom Krivuljansko-Šontolovski šanac\n\n • Felix Romulijana kasnoantički lokalitet pod zaštitom UNESCO, HE Gamzigrad, početna stanica Belgijske pruge i crkva Svetog Jovana\n\n • Vidikovac na Krstu u Vlaškom dolu i posebno, svaki bastion je vidikovac za sebe.\n\n • http://www.opsddraganradosavljevic.rs/bastionska-transverzala/\n\n • https://www.facebook.com/bastionskatrasverzala/",
+    "maintenance": null,
+    "marking": "propisana planinarska",
+    "accommodation": null,
+    "notes": "Pečati se nalaze na kontrolnim tačkama i potrebno je poneti jastuče.",
+    "map_reference": null,
+    "map_sheet": null,
+    "club": null,
+    "legend": [],
+    "photos_count": 16,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2018/06/T-4-41-Bastionska-transverzala.gpx",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
+        "bytes": 836991,
+        "sha256": "b13ba2a16c15f392cf58d7e84713421611714807f6ed7c0c66e7294c07212718",
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 5197,
+        "tracks": 2,
+        "segments": 2,
+        "waypoints": 17,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2018/06/T-4-41-Bastionska-transverzala.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/bastionska-transverzala.geojson",
+        "bbox": [
+            22.167065106332302,
+            43.860399378463626,
+            22.352712443098426,
+            43.952163783833385
+        ],
+        "center": [
+            22.259889,
+            43.906282
+        ],
+        "start_point": [
+            22.276938697323203,
+            43.89588098041713
+        ],
+        "end_point": [
+            22.27693031542003,
+            43.895814176648855
+        ],
+        "is_loop": true,
+        "overview_lines": [
+            [
+                [
+                    22.27694,
+                    43.89588
+                ],
+                [
+                    22.282,
+                    43.89331
+                ],
+                [
+                    22.28551,
+                    43.89391
+                ],
+                [
+                    22.28563,
+                    43.88981
+                ],
+                [
+                    22.29025,
+                    43.88875
+                ],
+                [
+                    22.28938,
+                    43.87718
+                ],
+                [
+                    22.28374,
+                    43.87447
+                ],
+                [
+                    22.28539,
+                    43.87396
+                ],
+                [
+                    22.27906,
+                    43.8673
+                ],
+                [
+                    22.27854,
+                    43.86944
+                ],
+                [
+                    22.27608,
+                    43.86896
+                ],
+                [
+                    22.27626,
+                    43.87173
+                ],
+                [
+                    22.26693,
+                    43.87373
+                ],
+                [
+                    22.26537,
+                    43.87836
+                ],
+                [
+                    22.25874,
+                    43.87492
+                ],
+                [
+                    22.24181,
+                    43.8796
+                ],
+                [
+                    22.23177,
+                    43.87194
+                ],
+                [
+                    22.22267,
+                    43.87596
+                ],
+                [
+                    22.21513,
+                    43.87431
+                ],
+                [
+                    22.20823,
+                    43.87672
+                ],
+                [
+                    22.20083,
+                    43.88286
+                ],
+                [
+                    22.1995,
+                    43.89655
+                ],
+                [
+                    22.19158,
+                    43.89864
+                ],
+                [
+                    22.18388,
+                    43.89734
+                ],
+                [
+                    22.18063,
+                    43.90456
+                ],
+                [
+                    22.17548,
+                    43.90867
+                ],
+                [
+                    22.17612,
+                    43.9168
+                ],
+                [
+                    22.16852,
+                    43.91815
+                ],
+                [
+                    22.16938,
+                    43.92353
+                ],
+                [
+                    22.17494,
+                    43.92439
+                ],
+                [
+                    22.16957,
+                    43.92361
+                ],
+                [
+                    22.16857,
+                    43.92079
+                ],
+                [
+                    22.17059,
+                    43.92791
+                ],
+                [
+                    22.16707,
+                    43.93022
+                ],
+                [
+                    22.17155,
+                    43.92963
+                ],
+                [
+                    22.17259,
+                    43.93635
+                ],
+                [
+                    22.1776,
+                    43.94187
+                ],
+                [
+                    22.1894,
+                    43.94214
+                ],
+                [
+                    22.19302,
+                    43.94455
+                ],
+                [
+                    22.19196,
+                    43.94588
+                ],
+                [
+                    22.1937,
+                    43.94441
+                ],
+                [
+                    22.19921,
+                    43.94821
+                ],
+                [
+                    22.20879,
+                    43.94925
+                ],
+                [
+                    22.23621,
+                    43.94686
+                ],
+                [
+                    22.24026,
+                    43.94888
+                ],
+                [
+                    22.24502,
+                    43.948
+                ],
+                [
+                    22.24394,
+                    43.95215
+                ],
+                [
+                    22.24523,
+                    43.9482
+                ],
+                [
+                    22.25233,
+                    43.94939
+                ],
+                [
+                    22.26333,
+                    43.94046
+                ],
+                [
+                    22.27852,
+                    43.94584
+                ],
+                [
+                    22.27846,
+                    43.93637
+                ],
+                [
+                    22.28981,
+                    43.93764
+                ],
+                [
+                    22.29443,
+                    43.94091
+                ],
+                [
+                    22.2974,
+                    43.94017
+                ],
+                [
+                    22.30073,
+                    43.9434
+                ],
+                [
+                    22.31632,
+                    43.94425
+                ],
+                [
+                    22.31595,
+                    43.94073
+                ],
+                [
+                    22.3224,
+                    43.9399
+                ],
+                [
+                    22.32867,
+                    43.93222
+                ],
+                [
+                    22.3288,
+                    43.92642
+                ],
+                [
+                    22.33295,
+                    43.92063
+                ],
+                [
+                    22.33736,
+                    43.91757
+                ],
+                [
+                    22.34314,
+                    43.91882
+                ],
+                [
+                    22.35271,
+                    43.91611
+                ],
+                [
+                    22.34309,
+                    43.91878
+                ],
+                [
+                    22.33731,
+                    43.9176
+                ],
+                [
+                    22.33554,
+                    43.92036
+                ],
+                [
+                    22.33174,
+                    43.91659
+                ],
+                [
+                    22.32926,
+                    43.91756
+                ],
+                [
+                    22.33436,
+                    43.90841
+                ],
+                [
+                    22.34056,
+                    43.88725
+                ],
+                [
+                    22.34719,
+                    43.88364
+                ],
+                [
+                    22.35086,
+                    43.87769
+                ],
+                [
+                    22.35216,
+                    43.87844
+                ],
+                [
+                    22.35248,
+                    43.87306
+                ],
+                [
+                    22.34558,
+                    43.87241
+                ],
+                [
+                    22.33547,
+                    43.86405
+                ],
+                [
+                    22.33608,
+                    43.86244
+                ],
+                [
+                    22.33083,
+                    43.8606
+                ],
+                [
+                    22.31675,
+                    43.87345
+                ],
+                [
+                    22.31438,
+                    43.88944
+                ],
+                [
+                    22.29265,
+                    43.89236
+                ],
+                [
+                    22.28762,
+                    43.89644
+                ],
+                [
+                    22.27693,
+                    43.89581
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_difficulty",
+            "missing_description"
+        ]
+    },
+    "additional": {
+        "Planine/predeli": "Romulijana",
+        "Status": "aktivna",
+        "Datum poslednje verifikacije": "27/09/2018",
+        "Društvo": "Dragan Radosavljević OPSD",
+        "Vreme obilaska (dana)": "3",
+        "Godina otvaranja": "12.05.2018.",
+        "Kontakt": "https://pss.rs/kontakti/miroslav-zikic-zika/, Miroslav, Žikić, draganradosavljevic.za@gmail.com, +381 63 457 536, Miroslav Žikić",
+        "Vrsta": "kružna",
+        "Broj kontrolnih tačaka": "11",
+        "Opis puta": "• Bastionska transverzala osmišljena je tako da obuhvata veći broj znamenitosti iz okoline Zaječara koje su privlačne kako za planinare tako i za obične turiste. Osam od jedanaest kontrolnih tačaka predstavljaju Zaječarski Bastioni, utvrđenja iz 19. veka koja su po svojoj arhitekturi jedinstvena za ove prostore. Pored istorijskog značaja, oni su privlačni i za planinare, jer su raspoređeni na uzvišenjima oko samog grada. Sa svakog od njih se pruža neverovatan pogled na Zaječarsku kotlinu iz različitih uglova ali i na sve značajnije vrhove istočne Srbije.\n\n • Pored bastiona, jedna od kontrolnih tačaka je i kasnoantički lokalitet Feliks Romuliana koji se nalazi pod UNESCO zaštitom.\n\n • Prva hidroelektrana na ovim prostorima u Gamzigradskoj banji, predstavlja kontrolnu tačku broj 5.\n\n • Poslednja kontrolna tačka je lokalitet Vlaški do u kome se nalazi spomenik na mestu nekadašnje prve stranice Belgijske pruge, vidikovac ”Krst”, crkva Svetog Jovana i dr.\n\n • Transverzala sadrži transverzalni dnevnik u kome postoji mesto za overu obilaska. Na svakoj kontrolnoj tački nalazi se pečat koji se otiskuje na za to predviđeno mesto u dnevniku. Mesto pečata na kontrolnim tačkama naznačeno je u dnevniku.\n\n • *Za overu obilaska svih kontrolnih tački osim KT 4 i KT 5 potrebno je sa sobom nositi jastuče sa mastilom za pečat.\n\n • Početak staze: Sportska hala u Zejačaru – kod Info table\n\n • Staza je markirana u oba smera, a pored toga, markirani su i alternativni pravci koji su ucrtani na mapi koju dobijate uz dnevnik.\n\n • Svako ko na uvid donese dnevnik sa svim overenim kontrolnim tačkama, dobija ZNAČKU TRANSVERZALE i upisuje se u knjigu poseta transverzale.\n\n • KONTROLNE TAČKE:\n\nKT 1 – Istočna tvrđava , \n\nKT 2 – Parajankul , \n\nKT3 – Zapadna tvrđava , \n\nKT 4 – Feliks Romuliana , \n\nKT 5 – HE ”Gamzigrad” , \n\nKT 6 – Kravarnik , \n\nKT 7 – Koilova čuka (Kraljica Natalija) , \n\nKT 8 – Vlaško brdo , \n\nKT 9 – Plandište , \n\nKT 10 – Šontolovo , \n\nKT 11- Vlaški do \n\n • Na trasi ima izvora pitke vode.\n\n • Smeštajni objekti: Specijalna bolnica za rehabilitaciju Gamzigradska banja, i seoska domaćinstva u selima: Gamzigrad, Nikoličevo, Gamzigradska banja",
+        "Dnevnik": "• Postoji Dnevnik transverzale\n\n • Postoji Pravilnik transverzale\n\n • Postoji Knjiga obilaska transverzale\n\n • Dnevnik se može kupiti po ceni od 250 dinara na adresi: http://www.opsddraganradosavljevic.rs/kontakt/\n\n • Kontakt i informacije: +381 63 457 536 – Žika , +381 64 219 40 24 – Milana ili na e-mail: draganradosavljevic.za@gmail.com",
+        "Priznanja": "Značka i diploma"
+    },
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/bastionska-transverzala/",
+        "canonical_url": "https://pss.rs/terenipp/bastionska-transverzala/",
+        "pss_id": 6888,
+        "updated_at": "2019-11-15T10:41:49Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
+    },
+    "search": "bastionska transverzala t-4-41 istocna srbija romulijana • zajecarski bastioni: utvrdjenja na istocnoj i zapadnoj kraljevici, utvrdjenje na parajankuli, utvrdjenje na kravarniku, utvrdjenje kraljica natalija na koilovoj cuki, utvdjenje na vlaskom brdu, utvrdjenje na plandistu, utvrdjenje zabela poznato i pod imenom krivuljansko-sontolovski sanac • felix romulijana kasnoanticki lokalitet pod zastitom unesco, he gamzigrad, pocetna stanica belgijske pruge i crkva svetog jovana • vidikovac na krstu u vlaskom dolu i posebno, svaki bastion je vidikovac za sebe. • http://www.opsddraganradosavljevic.rs/bastionska-transverzala/ • https://www.facebook.com/bastionskatrasverzala/ nije navedeno",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T13:01:56Z"
+    }
+}

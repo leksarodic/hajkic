@@ -79,12 +79,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2025/06/6-3-9-narcisi.gpx",
-        "fetched_at": "2026-11-08T12:06:21Z",
-        "checked_at": "2026-11-08T12:06:21Z",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
         "bytes": 1599550,
         "sha256": "3f4b66e007943b113e596c8c572b4c2b129a4e3baf282b9ba8be833efb6554ab",
         "etag": null,
-        "last_modified": "Tue, 03 Jun 2025 15:31:30 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 7847,
@@ -220,14 +220,14 @@
         "pss_id": 26589,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:06:22Z",
-        "last_synced_at": "2026-11-08T12:06:22Z"
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
     },
     "search": "narcisu u pohode 6-3-9 kopaonicko-toplicka regija stolovi selo kamenica (336 m) selo brezna (680 m) gvozdac psd vidikovci: staza je otvorena na vecem delu naselja i zaseoci sa nazivima: kamenica, sosanica, brezna znacajni lokaliteti: stolovi su proglaseni za predeo izuzetnih odlika laka staza je prvih 3 km kolski put, a zatim kroz nisko rastinje i delimicno kamenit teren grebenpm se penje do 900 mnv, gde izlazi na livade koje su tokom maja pune narcisa. planinarska staza do vrha vodi kroz livade. na vrhu usovica (1375m) nalazi se krst visine 33 m. u povratku do mesta orlovac staza je ista, a zatim odvaja u desno prema selu brezna gde je planinarski dom kod koga se zavrsava. napomena: u slucaju loseg vremena (kisa, sneg, smetovi) moze se ici zemljanim putem i tada je staza duza za oko 1 km. na stazi postoji 5 nadstresnica sa klupama i stolovima i vise klupa za odmor.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:06:22Z"
+        "generated_at": "2026-11-08T13:01:57Z"
     }
 }

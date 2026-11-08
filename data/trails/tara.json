@@ -1,0 +1,252 @@
+{
+    "schema_version": 1,
+    "slug": "tara",
+    "name": "Tara",
+    "code": "E7-11-1",
+    "category": {
+        "key": "evropski-pesacki-putevi-u-srbiji",
+        "label": "Evropski pešački putevi u Srbiji"
+    },
+    "pss": {
+        "post_id": 23562,
+        "category_id": 29,
+        "region_ids": [
+            5
+        ],
+        "mountain_ids": [
+            67
+        ]
+    },
+    "region": "Jugozapadna Srbija",
+    "mountain": "Tara",
+    "difficulty": {
+        "key": "laka",
+        "label": "Laka",
+        "source": "lak"
+    },
+    "distance": {
+        "official_km": null,
+        "calculated_km": 23.2
+    },
+    "duration": {
+        "official_minutes": null,
+        "official_text": null,
+        "official_raw": null
+    },
+    "elevation": {
+        "official_gain_m": null,
+        "official_loss_m": null,
+        "calculated_gain_m": 769.3,
+        "calculated_loss_m": 417.8,
+        "min_m": 729.0,
+        "max_m": 1108.3
+    },
+    "start": null,
+    "end": null,
+    "description": null,
+    "landmarks": null,
+    "maintenance": null,
+    "marking": null,
+    "accommodation": null,
+    "notes": null,
+    "map_reference": null,
+    "map_sheet": null,
+    "club": null,
+    "legend": [
+        "a.c. - asfaltni put",
+        "m.c. - makadamski put",
+        "PD - planinarsko društvo",
+        "š.k. - šumarska kuća",
+        "(x) - raskrsnica planinarskih puteva",
+        "l.k. - lovačka kuća",
+        "pl.k. - planinarska kuća",
+        "pl.d. - planinarski dom",
+        "skl. - planinarsko sklonište"
+    ],
+    "photos_count": 1,
+    "gpx": {
+        "available": true,
+        "status": "ok",
+        "source_url": "https://pss.rs/wp-content/uploads/2024/02/E7-11-1.gpx",
+        "fetched_at": "2026-11-08T13:01:57Z",
+        "checked_at": "2026-11-08T13:01:57Z",
+        "bytes": 106920,
+        "sha256": "3b0d641933deb1529c42c825b20df1869d1afc02f65aada12f73d0cd5f5a2cc9",
+        "etag": null,
+        "last_modified": null,
+        "parser_version": 1,
+        "has_elevation": true,
+        "points": 1432,
+        "tracks": 1,
+        "segments": 1,
+        "waypoints": 0,
+        "error": null,
+        "download": {
+            "mode": "source",
+            "url": "https://pss.rs/wp-content/uploads/2024/02/E7-11-1.gpx",
+            "note": "GPX se preuzima sa originalne PSS stranice; Hajkić ne redistribuira datoteku."
+        }
+    },
+    "geometry": {
+        "geojson": "data/geojson/tara.geojson",
+        "bbox": [
+            19.424700985,
+            43.859105,
+            19.584065419,
+            43.940896945
+        ],
+        "center": [
+            19.504383,
+            43.900001
+        ],
+        "start_point": [
+            19.582307,
+            43.859105
+        ],
+        "end_point": [
+            19.424700985,
+            43.919415004
+        ],
+        "is_loop": false,
+        "overview_lines": [
+            [
+                [
+                    19.58231,
+                    43.85911
+                ],
+                [
+                    19.58297,
+                    43.86489
+                ],
+                [
+                    19.57813,
+                    43.87252
+                ],
+                [
+                    19.56868,
+                    43.87816
+                ],
+                [
+                    19.56456,
+                    43.88406
+                ],
+                [
+                    19.5584,
+                    43.88321
+                ],
+                [
+                    19.55675,
+                    43.89414
+                ],
+                [
+                    19.54913,
+                    43.89362
+                ],
+                [
+                    19.52539,
+                    43.90146
+                ],
+                [
+                    19.52104,
+                    43.89783
+                ],
+                [
+                    19.51587,
+                    43.89768
+                ],
+                [
+                    19.51143,
+                    43.90098
+                ],
+                [
+                    19.50586,
+                    43.90776
+                ],
+                [
+                    19.50071,
+                    43.9099
+                ],
+                [
+                    19.5039,
+                    43.91315
+                ],
+                [
+                    19.50036,
+                    43.91637
+                ],
+                [
+                    19.5025,
+                    43.92291
+                ],
+                [
+                    19.49555,
+                    43.92765
+                ],
+                [
+                    19.49686,
+                    43.93144
+                ],
+                [
+                    19.48834,
+                    43.93477
+                ],
+                [
+                    19.47842,
+                    43.93532
+                ],
+                [
+                    19.47363,
+                    43.93848
+                ],
+                [
+                    19.46345,
+                    43.94037
+                ],
+                [
+                    19.45316,
+                    43.9409
+                ],
+                [
+                    19.44938,
+                    43.93692
+                ],
+                [
+                    19.4436,
+                    43.93604
+                ],
+                [
+                    19.43949,
+                    43.92945
+                ],
+                [
+                    19.4247,
+                    43.91942
+                ]
+            ]
+        ]
+    },
+    "data_quality": {
+        "level": "partial",
+        "issues": [
+            "missing_description"
+        ]
+    },
+    "additional": [],
+    "source": {
+        "name": "Planinarski savez Srbije",
+        "url": "https://pss.rs/terenipp/tara/",
+        "canonical_url": "https://pss.rs/terenipp/tara/",
+        "pss_id": 23562,
+        "updated_at": "2024-12-07T22:08:52Z",
+        "published_at": null,
+        "last_checked_at": "2026-11-08T13:01:57Z",
+        "last_synced_at": "2026-11-08T13:01:57Z"
+    },
+    "search": "tara e7-11-1 jugozapadna srbija tara laka",
+    "meta": {
+        "official_values_from": "PSS",
+        "calculated_values_from": "GPX geometrija",
+        "parser_version": 1,
+        "generated_at": "2026-11-08T13:01:57Z"
+    }
+}

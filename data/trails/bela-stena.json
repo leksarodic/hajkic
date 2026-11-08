@@ -70,7 +70,7 @@
         "status": "missing",
         "source_url": null,
         "fetched_at": null,
-        "checked_at": "2026-11-08T11:56:37Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": null,
         "sha256": null,
         "etag": null,
@@ -111,14 +111,14 @@
         "pss_id": 4329,
         "updated_at": "2017-08-02T11:01:31Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:56:37Z",
-        "last_synced_at": "2026-11-08T11:56:37Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "bela stena 2-5-2 sumadija bukulja bela stena - vukosavci 411m vrh bukulje 696m bukulja pd vidikovac na vrhu bukulje zahtevna",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:56:37Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

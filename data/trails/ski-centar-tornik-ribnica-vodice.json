@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2020/06/5-12-2-Ski-centar-Tornik-Vodice.gpx",
-        "fetched_at": "2026-11-08T12:00:43Z",
-        "checked_at": "2026-11-08T12:00:43Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 28584,
         "sha256": "5d210d9f6332dd46ed4a619dbdee87b42d9e367a95b49313860f78917c043140",
         "etag": null,
-        "last_modified": "Tue, 02 Jun 2020 16:11:55 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 213,
@@ -170,14 +170,14 @@
         "pss_id": 11541,
         "updated_at": null,
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:00:43Z",
-        "last_synced_at": "2026-11-08T12:00:43Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "ski centar \"tornik\" (ribnica) - vodice 5-12-2 jugozapadna srbija zlatibor podnozje ski centra \"tornik\", 1099 m vodice naselje, 1047 m tornik pk • znacajni lokaliteti: ski centar \"tornik\" • vidikovci: istocni greben tornika • naselja na trasi: ribnica, marici, sajinovci, vodice laka staza pocinje u podnozju ski centra \"tornik\" i krece u smeru jugoistok kroz gustu borovu sumu pored naselja marici i sajinovci. sumski put vodi od izlaska na istocne padine tornika i dalje u pravcu istoka do naselja vodice.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:00:43Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

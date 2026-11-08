@@ -35,7 +35,7 @@
     },
     "elevation": {
         "official_gain_m": 479.0,
-        "official_loss_m": 489831.0,
+        "official_loss_m": 489.0,
         "calculated_gain_m": 0.0,
         "calculated_loss_m": 0.0,
         "min_m": 0.0,
@@ -74,12 +74,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/05/E4-6-Osipaonica-V-Gradiste.gpx",
-        "fetched_at": "2026-11-08T12:50:33Z",
-        "checked_at": "2026-11-08T12:50:33Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 127390,
         "sha256": "8eaa2ebf6b4d7f34b83fbe40db37eab3d045a4b71c7b4d0dda8cd23976dc99ce",
         "etag": null,
-        "last_modified": "Thu, 05 Dec 2024 23:02:14 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": false,
         "points": 1758,
@@ -451,14 +451,14 @@
         "pss_id": 3665,
         "updated_at": "2024-12-05T23:02:27Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T12:50:34Z",
-        "last_synced_at": "2026-11-08T12:50:34Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "osipaonica - veliko gradiste e4-6 istocna srbija stig gornjak pd pozarevac, viminacijum, srebrno jezero, ram, petrovac na mlavi, ceremosnja laka • sirokom dolinom velike morave stize se u grad pozarevac, regionalni centar ovog dela srbije. u njemu je 1842. godine odrzana prva premijera „romea i julije“ na balkanu. vredi posetiti galeriju cuvene slikarke milene pavlovic barili u njenoj rodnoj kuci. arheoloska zbirka iz rimskog viminacijuma nalazi se u narodnom muzeju. • iz pozarevca, pored rudnika uglja i starog rudarskog naselja kostolac, stize se na lokalitet viminacijuma, rimskog utvrdjenja prvobitno namenjenog kao logor vii rimske legije. od cara hadrijana dobio je status grada, a zatim 239. godine n.e. i status kolonije. kod sela klicevac pronadjena je svetski poznata figura velike majke iz bronzanog doba. • na velikoj krivini dunava, preko puta usca reke nere, dominira srednjevekovna tvrdjava ram koju je podigao turski sultan bajazit ii, 1483. godine. • veliko gradiste je gradic sa pristanistem na dunavu. u 19. veku je bio vazna izvozna stanica. ovde je rodjen istaknuti srpski arheolog akademik miloje vasic. turisticki, grad je veoma atraktivan, posebno u letnjim mesecima. uslovi za nauticki turizam i odmor na dunavu su veoma povoljni. dunav ovde dostize sirinu i do 2 000 m. nizvodno u rukavcu dunava izgradjena vestacka brana stvorila je lepo jezero koje je dobilo ime srebrno, sada izvanredna turisticka oaza. u celoj ovoj zoni stvoreni su uslovi za brojna stanista raznovrsnih pticjih vrsta.",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T12:50:34Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }

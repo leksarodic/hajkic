@@ -69,12 +69,12 @@
         "available": true,
         "status": "ok",
         "source_url": "https://pss.rs/wp-content/uploads/2017/06/4-33-4-Manastir-Bovansko-jezero.gpx",
-        "fetched_at": "2026-11-08T11:56:19Z",
-        "checked_at": "2026-11-08T11:56:19Z",
+        "fetched_at": "2026-11-08T13:01:56Z",
+        "checked_at": "2026-11-08T13:01:56Z",
         "bytes": 239441,
         "sha256": "4be4176f467b577ffd573b04e5fa700a0575cf834ffe7636a27d46c4da0f973b",
         "etag": null,
-        "last_modified": "Wed, 19 Feb 2020 13:32:26 GMT",
+        "last_modified": null,
         "parser_version": 1,
         "has_elevation": true,
         "points": 1463,
@@ -224,14 +224,14 @@
         "pss_id": 3945,
         "updated_at": "2020-02-19T13:33:51Z",
         "published_at": null,
-        "last_checked_at": "2026-11-08T11:56:20Z",
-        "last_synced_at": "2026-11-08T11:56:20Z"
+        "last_checked_at": "2026-11-08T13:01:56Z",
+        "last_synced_at": "2026-11-08T13:01:56Z"
     },
     "search": "via militaris / lipovac - bovansko jezero 4-33-4 istocna srbija ozren lipovac (ustanova za odmor i rekreaciju dece) - 395 mnv bovansko jezero - 340 mnv brdjanka psk manastir sv.stevana, crkva sv. jovana, janjin grob, bovansko jezero zahtevna",
     "meta": {
         "official_values_from": "PSS",
         "calculated_values_from": "GPX geometrija",
         "parser_version": 1,
-        "generated_at": "2026-11-08T11:56:20Z"
+        "generated_at": "2026-11-08T13:01:56Z"
     }
 }
